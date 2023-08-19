@@ -1,0 +1,37 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,636159,Melbourne Cricket Ground,Australia,CJ McKay,Right-arm fast-medium,"[0, 1, 1]",1,11,11,1,0
+1,636159,Melbourne Cricket Ground,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,16,26,0,0
+2,636159,Melbourne Cricket Ground,Australia,XJ Doherty,Left-arm orthodox,"[1, 0, 1]",0,10,18,1,0
+3,636159,Melbourne Cricket Ground,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",0,3,6,0,0
+4,636159,Melbourne Cricket Ground,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,24,17,3,0
+5,636160,"Brisbane Cricket Ground, Woolloongabba",Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,0,2,0,0
+6,636160,"Brisbane Cricket Ground, Woolloongabba",Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",1,6,9,0,0
+7,636161,Sydney Cricket Ground,Australia,JL Pattinson,Right-arm fast,"[0, 1, 0]",0,9,9,1,0
+8,636161,Sydney Cricket Ground,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,6,8,0,0
+9,636161,Sydney Cricket Ground,Australia,XJ Doherty,Left-arm orthodox,"[1, 0, 1]",0,10,24,1,0
+10,636161,Sydney Cricket Ground,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+11,636162,Western Australia Cricket Association Ground,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,1,2,0,0
+12,636162,Western Australia Cricket Association Ground,Australia,JL Pattinson,Right-arm fast,"[0, 1, 0]",1,4,5,1,0
+13,636162,Western Australia Cricket Association Ground,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,5,13,0,0
+14,656401,Melbourne Cricket Ground,Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",1,0,3,0,0
+15,656401,Melbourne Cricket Ground,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,1,1,0,0
+16,656401,Melbourne Cricket Ground,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,5,7,1,0
+17,656401,Melbourne Cricket Ground,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,4,2,1,0
+18,667727,Edgbaston,India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",1,5,12,1,0
+19,667727,Edgbaston,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,2,7,0,0
+20,656425,Hagley Oval,Scotland,RD Berrington,Right-arm fast-medium,"[0, 1, 1]",0,5,8,0,0
+21,656441,Westpac Stadium,Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",1,1,5,0,0
+22,656441,Westpac Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,5,9,1,0
+23,667889,Kennington Oval,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,17,22,1,0
+24,667889,Kennington Oval,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,6,5,1,0
+25,667891,Riverside Ground,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,5,2,1,0
+26,667895,Lord's,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,6,15,0,0
+27,667895,Lord's,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,6,13,1,0
+28,667895,Lord's,Sri Lanka,BAW Mendis,Right-arm offbreak,"[1, 1, 0]",1,8,11,0,0
+29,667897,Edgbaston,Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",0,6,8,0,0
+30,667897,Edgbaston,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+31,667897,Edgbaston,Sri Lanka,BAW Mendis,Right-arm offbreak,"[1, 1, 0]",0,2,2,0,0
+32,566940,"The Village, Malahide",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+33,656415,Westpac Stadium,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,8,16,0,0
+34,656415,Westpac Stadium,New Zealand,AF Milne,Right-arm fast,"[0, 1, 0]",0,1,9,0,0
+35,656415,Westpac Stadium,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0

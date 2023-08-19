@@ -1,0 +1,4 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1174845,Wanderers Cricket Ground,Namibia,BM Scholtz,Left-arm orthodox,"[1, 0, 1]",0,6,17,0,0
+1,1196673,Mannofield Park,Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",1,1,4,0,0
+2,1196673,Mannofield Park,Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",0,1,2,0,0

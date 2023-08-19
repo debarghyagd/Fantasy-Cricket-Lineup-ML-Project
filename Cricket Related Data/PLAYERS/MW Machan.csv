@@ -1,0 +1,41 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,656431,University Oval,Afghanistan,Hamid Hassan,Right-arm fast,"[0, 1, 0]",0,5,5,0,0
+1,656431,University Oval,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,5,2,1,0
+2,812645,Sheikh Zayed Stadium,Afghanistan,Aftab Alam,Right-arm fast-medium,"[0, 1, 1]",0,5,10,1,0
+3,656477,Bellerive Oval,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",1,1,3,0,0
+4,656477,Bellerive Oval,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,10,6,2,0
+5,656477,Bellerive Oval,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,8,9,1,0
+6,656477,Bellerive Oval,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,4,5,0,0
+7,656477,Bellerive Oval,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,17,13,3,0
+8,656451,Saxton Oval,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,3,8,0,0
+9,656451,Saxton Oval,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,5,9,0,0
+10,656451,Saxton Oval,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,9,16,0,1
+11,656451,Saxton Oval,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,7,5,1,0
+12,656425,Hagley Oval,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",1,1,2,0,0
+13,660837,"Civil Service Cricket Club, Stormont",Ireland,PR Stirling,Right-arm offbreak,"[1, 1, 0]",0,3,4,0,0
+14,660837,"Civil Service Cricket Club, Stormont",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,19,16,3,1
+15,660837,"Civil Service Cricket Club, Stormont",Ireland,DT Johnston,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+16,810829,Dubai International Cricket Stadium,Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,8,22,0,0
+17,810829,Dubai International Cricket Stadium,Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,11,19,1,0
+18,810829,Dubai International Cricket Stadium,Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,14,14,1,0
+19,810829,Dubai International Cricket Stadium,Ireland,PR Stirling,Right-arm offbreak,"[1, 1, 0]",0,12,28,0,0
+20,696759,Hagley Oval,Kenya,E Otieno,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0
+21,696759,Hagley Oval,Kenya,HA Varaiya,Left-arm orthodox,"[1, 0, 1]",0,7,4,0,1
+22,656409,University Oval,New Zealand,AF Milne,Right-arm fast,"[0, 1, 0]",0,2,7,0,0
+23,656409,University Oval,New Zealand,CJ Anderson,Left-arm fast-medium,"[0, 0, 1]",1,4,5,1,0
+24,656409,University Oval,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,22,14,3,1
+25,656409,University Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,15,27,3,0
+26,696731,Hagley Oval,Canada,JOA Gordon,Right-arm fast-medium,"[0, 1, 1]",0,15,12,1,0
+27,696731,Hagley Oval,Canada,Khurram Chohan,Right-arm fast,"[0, 1, 0]",0,10,9,2,0
+28,696731,Hagley Oval,Canada,Raza-ur-Rehman,Left-arm fast-medium,"[0, 0, 1]",0,6,4,1,0
+29,696731,Hagley Oval,Canada,Junaid Siddiqui,Right-arm legbreak,"[1, 1, 1]",0,15,16,0,0
+30,696731,Hagley Oval,Canada,HS Baidwan,Right-arm medium,"[0, 1, 2]",0,10,15,1,0
+31,684679,Mannofield Park,England,CJ Jordan,Right-arm fast-medium,"[0, 1, 1]",0,10,8,2,0
+32,684679,Mannofield Park,England,RS Bopara,Right-arm medium,"[0, 1, 2]",1,2,5,0,0
+33,684679,Mannofield Park,England,HF Gurney,Left-arm fast-medium,"[0, 0, 1]",0,6,12,1,0
+34,684679,Mannofield Park,England,JC Tredwell,Right-arm offbreak,"[1, 1, 0]",0,10,6,1,0
+35,684679,Mannofield Park,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,5,7,0,0
+36,601077,"Grange Cricket Club Ground, Raeburn Place",Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,3,6,0,0
+37,601077,"Grange Cricket Club Ground, Raeburn Place",Pakistan,Mohammad Irfan,Left-arm fast-medium,"[0, 0, 1]",1,1,2,0,0
+38,656467,Bellerive Oval,Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",1,0,2,0,0
+39,656467,Bellerive Oval,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,4,8,0,0

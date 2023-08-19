@@ -1,0 +1,211 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,CH Gayle,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+1,0.2,CH Gayle,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+2,0.3,CH Gayle,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+3,0.4,CH Gayle,SW Ambris,Mohammed Shami,4,0,null,4,0,null,null
+4,0.5,CH Gayle,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+5,0.6,CH Gayle,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+6,1.1,SW Ambris,CH Gayle,JJ Bumrah,1,0,null,1,0,null,null
+7,1.2,CH Gayle,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+8,1.3,CH Gayle,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+9,1.4,CH Gayle,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+10,1.5,CH Gayle,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+11,1.6,CH Gayle,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+12,2.1,SW Ambris,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+13,2.2,SW Ambris,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+14,2.3,SW Ambris,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+15,2.4,SW Ambris,CH Gayle,Mohammed Shami,1,0,null,1,0,null,null
+16,2.5,CH Gayle,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+17,2.6,CH Gayle,SW Ambris,Mohammed Shami,1,0,null,1,0,null,null
+18,3.1,CH Gayle,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+19,3.2,CH Gayle,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+20,3.3,CH Gayle,SW Ambris,JJ Bumrah,1,0,null,1,0,null,null
+21,3.4,SW Ambris,CH Gayle,JJ Bumrah,0,0,null,0,0,null,null
+22,3.5,SW Ambris,CH Gayle,JJ Bumrah,1,0,null,1,0,null,null
+23,3.6,CH Gayle,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+24,4.1,SW Ambris,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+25,4.2,SW Ambris,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+26,4.3,SW Ambris,CH Gayle,Mohammed Shami,1,0,null,1,0,null,null
+27,4.4,CH Gayle,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+28,4.5,CH Gayle,SW Ambris,Mohammed Shami,0,0,null,0,1,CH Gayle,caught
+29,4.6,SD Hope,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+30,5.1,SW Ambris,SD Hope,JJ Bumrah,0,0,null,0,0,null,null
+31,5.2,SW Ambris,SD Hope,JJ Bumrah,1,0,null,1,0,null,null
+32,5.3,SD Hope,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+33,5.4,SD Hope,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+34,5.5,SD Hope,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+35,5.6,SD Hope,SW Ambris,JJ Bumrah,1,0,null,1,0,null,null
+36,6.1,SD Hope,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+37,6.2,SD Hope,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+38,6.3,SD Hope,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+39,6.4,SD Hope,SW Ambris,Mohammed Shami,4,0,null,4,0,null,null
+40,6.5,SD Hope,SW Ambris,Mohammed Shami,0,0,null,0,1,SD Hope,bowled
+41,6.6,N Pooran,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+42,7.1,SW Ambris,N Pooran,JJ Bumrah,1,0,null,1,0,null,null
+43,7.2,N Pooran,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+44,7.3,N Pooran,SW Ambris,JJ Bumrah,0,4,byes ,4,0,null,null
+45,7.4,N Pooran,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+46,7.5,N Pooran,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+47,7.6,N Pooran,SW Ambris,JJ Bumrah,0,0,null,0,0,null,null
+48,8.1,SW Ambris,N Pooran,Mohammed Shami,0,0,null,0,0,null,null
+49,8.2,SW Ambris,N Pooran,Mohammed Shami,1,0,null,1,0,null,null
+50,8.3,N Pooran,SW Ambris,Mohammed Shami,0,0,null,0,0,null,null
+51,8.4,N Pooran,SW Ambris,Mohammed Shami,1,0,null,1,0,null,null
+52,8.5,SW Ambris,N Pooran,Mohammed Shami,1,0,null,1,0,null,null
+53,8.6,N Pooran,SW Ambris,Mohammed Shami,1,0,null,1,0,null,null
+54,9.1,N Pooran,SW Ambris,HH Pandya,0,0,null,0,0,null,null
+55,9.2,N Pooran,SW Ambris,HH Pandya,0,0,null,0,0,null,null
+56,9.3,N Pooran,SW Ambris,HH Pandya,1,0,null,1,0,null,null
+57,9.4,SW Ambris,N Pooran,HH Pandya,1,0,null,1,0,null,null
+58,9.5,N Pooran,SW Ambris,HH Pandya,1,0,null,1,0,null,null
+59,9.6,SW Ambris,N Pooran,HH Pandya,1,0,null,1,0,null,null
+60,10.1,SW Ambris,N Pooran,Kuldeep Yadav,0,0,null,0,0,null,null
+61,10.2,SW Ambris,N Pooran,Kuldeep Yadav,1,0,null,1,0,null,null
+62,10.3,N Pooran,SW Ambris,Kuldeep Yadav,2,0,null,2,0,null,null
+63,10.4,N Pooran,SW Ambris,Kuldeep Yadav,1,0,null,1,0,null,null
+64,10.5,SW Ambris,N Pooran,Kuldeep Yadav,0,0,null,0,0,null,null
+65,10.6,SW Ambris,N Pooran,Kuldeep Yadav,1,0,null,1,0,null,null
+66,11.1,SW Ambris,N Pooran,HH Pandya,1,0,null,1,0,null,null
+67,11.2,N Pooran,SW Ambris,HH Pandya,1,0,null,1,0,null,null
+68,11.3,SW Ambris,N Pooran,HH Pandya,1,0,null,1,0,null,null
+69,11.4,N Pooran,SW Ambris,HH Pandya,0,0,null,0,0,null,null
+70,11.5,N Pooran,SW Ambris,HH Pandya,0,1,noballs ,1,0,null,null
+71,11.6,N Pooran,SW Ambris,HH Pandya,1,0,null,1,0,null,null
+72,11.7,SW Ambris,N Pooran,HH Pandya,0,0,null,0,0,null,null
+73,12.1,N Pooran,SW Ambris,Kuldeep Yadav,1,0,null,1,0,null,null
+74,12.2,SW Ambris,N Pooran,Kuldeep Yadav,1,0,null,1,0,null,null
+75,12.3,N Pooran,SW Ambris,Kuldeep Yadav,0,0,null,0,0,null,null
+76,12.4,N Pooran,SW Ambris,Kuldeep Yadav,0,0,null,0,0,null,null
+77,12.5,N Pooran,SW Ambris,Kuldeep Yadav,0,0,null,0,0,null,null
+78,12.6,N Pooran,SW Ambris,Kuldeep Yadav,1,0,null,1,0,null,null
+79,13.1,N Pooran,SW Ambris,HH Pandya,0,1,legbyes ,1,0,null,null
+80,13.2,SW Ambris,N Pooran,HH Pandya,0,0,null,0,0,null,null
+81,13.3,SW Ambris,N Pooran,HH Pandya,0,0,null,0,0,null,null
+82,13.4,SW Ambris,N Pooran,HH Pandya,0,0,null,0,0,null,null
+83,13.5,SW Ambris,N Pooran,HH Pandya,2,0,null,2,0,null,null
+84,13.6,SW Ambris,N Pooran,HH Pandya,0,0,null,0,0,null,null
+85,14.1,N Pooran,SW Ambris,Kuldeep Yadav,0,0,null,0,0,null,null
+86,14.2,N Pooran,SW Ambris,Kuldeep Yadav,1,0,null,1,0,null,null
+87,14.3,SW Ambris,N Pooran,Kuldeep Yadav,1,0,null,1,0,null,null
+88,14.4,N Pooran,SW Ambris,Kuldeep Yadav,1,0,null,1,0,null,null
+89,14.5,SW Ambris,N Pooran,Kuldeep Yadav,1,0,null,1,0,null,null
+90,14.6,N Pooran,SW Ambris,Kuldeep Yadav,1,0,null,1,0,null,null
+91,15.1,N Pooran,SW Ambris,HH Pandya,1,0,null,1,0,null,null
+92,15.2,SW Ambris,N Pooran,HH Pandya,4,0,null,4,0,null,null
+93,15.3,SW Ambris,N Pooran,HH Pandya,1,0,null,1,0,null,null
+94,15.4,N Pooran,SW Ambris,HH Pandya,0,0,null,0,0,null,null
+95,15.5,N Pooran,SW Ambris,HH Pandya,0,0,null,0,0,null,null
+96,15.6,N Pooran,SW Ambris,HH Pandya,0,0,null,0,0,null,null
+97,16.1,SW Ambris,N Pooran,Kuldeep Yadav,1,0,null,1,0,null,null
+98,16.2,N Pooran,SW Ambris,Kuldeep Yadav,1,0,null,1,0,null,null
+99,16.3,SW Ambris,N Pooran,Kuldeep Yadav,1,0,null,1,0,null,null
+100,16.4,N Pooran,SW Ambris,Kuldeep Yadav,0,0,null,0,0,null,null
+101,16.5,N Pooran,SW Ambris,Kuldeep Yadav,0,0,null,0,0,null,null
+102,16.6,N Pooran,SW Ambris,Kuldeep Yadav,1,0,null,1,0,null,null
+103,17.1,N Pooran,SW Ambris,HH Pandya,4,0,null,4,0,null,null
+104,17.2,N Pooran,SW Ambris,HH Pandya,1,0,null,1,0,null,null
+105,17.3,SW Ambris,N Pooran,HH Pandya,1,0,null,1,0,null,null
+106,17.4,N Pooran,SW Ambris,HH Pandya,1,0,null,1,0,null,null
+107,17.5,SW Ambris,N Pooran,HH Pandya,4,0,null,4,0,null,null
+108,17.6,SW Ambris,N Pooran,HH Pandya,0,0,null,0,1,SW Ambris,lbw
+109,18.1,N Pooran,SO Hetmyer,Kuldeep Yadav,0,3,wides ,3,0,null,null
+110,18.2,N Pooran,SO Hetmyer,Kuldeep Yadav,0,0,null,0,0,null,null
+111,18.3,N Pooran,SO Hetmyer,Kuldeep Yadav,0,0,null,0,0,null,null
+112,18.4,N Pooran,SO Hetmyer,Kuldeep Yadav,1,0,null,1,0,null,null
+113,18.5,SO Hetmyer,N Pooran,Kuldeep Yadav,0,0,null,0,0,null,null
+114,18.6,SO Hetmyer,N Pooran,Kuldeep Yadav,0,0,null,0,0,null,null
+115,18.7,SO Hetmyer,N Pooran,Kuldeep Yadav,0,0,null,0,0,null,null
+116,19.1,N Pooran,SO Hetmyer,KM Jadhav,0,0,null,0,0,null,null
+117,19.2,N Pooran,SO Hetmyer,KM Jadhav,4,0,null,4,0,null,null
+118,19.3,N Pooran,SO Hetmyer,KM Jadhav,0,0,null,0,0,null,null
+119,19.4,N Pooran,SO Hetmyer,KM Jadhav,0,0,null,0,0,null,null
+120,19.5,N Pooran,SO Hetmyer,KM Jadhav,0,1,byes ,1,0,null,null
+121,19.6,SO Hetmyer,N Pooran,KM Jadhav,0,0,null,0,0,null,null
+122,20.1,N Pooran,SO Hetmyer,Kuldeep Yadav,0,0,null,0,0,null,null
+123,20.2,N Pooran,SO Hetmyer,Kuldeep Yadav,0,0,null,0,1,N Pooran,caught
+124,20.3,JO Holder,SO Hetmyer,Kuldeep Yadav,1,0,null,1,0,null,null
+125,20.4,SO Hetmyer,JO Holder,Kuldeep Yadav,1,0,null,1,0,null,null
+126,20.5,JO Holder,SO Hetmyer,Kuldeep Yadav,1,0,null,1,0,null,null
+127,20.6,SO Hetmyer,JO Holder,Kuldeep Yadav,1,0,null,1,0,null,null
+128,21.1,SO Hetmyer,JO Holder,YS Chahal,1,0,null,1,0,null,null
+129,21.2,JO Holder,SO Hetmyer,YS Chahal,1,0,null,1,0,null,null
+130,21.3,SO Hetmyer,JO Holder,YS Chahal,0,4,byes ,4,0,null,null
+131,21.4,SO Hetmyer,JO Holder,YS Chahal,1,0,null,1,0,null,null
+132,21.5,JO Holder,SO Hetmyer,YS Chahal,0,0,null,0,0,null,null
+133,21.6,JO Holder,SO Hetmyer,YS Chahal,1,0,null,1,0,null,null
+134,22.1,JO Holder,SO Hetmyer,Kuldeep Yadav,0,0,null,0,0,null,null
+135,22.2,JO Holder,SO Hetmyer,Kuldeep Yadav,0,1,wides ,1,0,null,null
+136,22.3,JO Holder,SO Hetmyer,Kuldeep Yadav,0,0,null,0,0,null,null
+137,22.4,JO Holder,SO Hetmyer,Kuldeep Yadav,2,0,null,2,0,null,null
+138,22.5,JO Holder,SO Hetmyer,Kuldeep Yadav,0,0,null,0,0,null,null
+139,22.6,JO Holder,SO Hetmyer,Kuldeep Yadav,0,1,legbyes ,1,0,null,null
+140,22.7,SO Hetmyer,JO Holder,Kuldeep Yadav,1,0,null,1,0,null,null
+141,23.1,SO Hetmyer,JO Holder,YS Chahal,0,0,null,0,0,null,null
+142,23.2,SO Hetmyer,JO Holder,YS Chahal,1,0,null,1,0,null,null
+143,23.3,JO Holder,SO Hetmyer,YS Chahal,0,0,null,0,0,null,null
+144,23.4,JO Holder,SO Hetmyer,YS Chahal,0,0,null,0,0,null,null
+145,23.5,JO Holder,SO Hetmyer,YS Chahal,0,0,null,0,1,JO Holder,caught
+146,23.6,CR Brathwaite,SO Hetmyer,YS Chahal,0,0,null,0,0,null,null
+147,24.1,SO Hetmyer,CR Brathwaite,JJ Bumrah,0,0,null,0,0,null,null
+148,24.2,SO Hetmyer,CR Brathwaite,JJ Bumrah,0,0,null,0,0,null,null
+149,24.3,SO Hetmyer,CR Brathwaite,JJ Bumrah,2,0,null,2,0,null,null
+150,24.4,SO Hetmyer,CR Brathwaite,JJ Bumrah,1,0,null,1,0,null,null
+151,24.5,CR Brathwaite,SO Hetmyer,JJ Bumrah,0,0,null,0,0,null,null
+152,24.6,CR Brathwaite,SO Hetmyer,JJ Bumrah,0,0,null,0,0,null,null
+153,25.1,SO Hetmyer,CR Brathwaite,YS Chahal,1,0,null,1,0,null,null
+154,25.2,CR Brathwaite,SO Hetmyer,YS Chahal,1,0,null,1,0,null,null
+155,25.3,SO Hetmyer,CR Brathwaite,YS Chahal,0,0,null,0,0,null,null
+156,25.4,SO Hetmyer,CR Brathwaite,YS Chahal,0,0,null,0,0,null,null
+157,25.5,SO Hetmyer,CR Brathwaite,YS Chahal,4,0,null,4,0,null,null
+158,25.6,SO Hetmyer,CR Brathwaite,YS Chahal,0,0,null,0,0,null,null
+159,26.1,CR Brathwaite,SO Hetmyer,JJ Bumrah,0,0,null,0,1,CR Brathwaite,caught
+160,26.2,FA Allen,SO Hetmyer,JJ Bumrah,0,0,null,0,1,FA Allen,lbw
+161,26.3,KAJ Roach,SO Hetmyer,JJ Bumrah,0,0,null,0,0,null,null
+162,26.4,KAJ Roach,SO Hetmyer,JJ Bumrah,0,0,null,0,0,null,null
+163,26.5,KAJ Roach,SO Hetmyer,JJ Bumrah,0,0,null,0,0,null,null
+164,26.6,KAJ Roach,SO Hetmyer,JJ Bumrah,0,0,null,0,0,null,null
+165,27.1,SO Hetmyer,KAJ Roach,YS Chahal,2,0,null,2,0,null,null
+166,27.2,SO Hetmyer,KAJ Roach,YS Chahal,0,0,null,0,0,null,null
+167,27.3,SO Hetmyer,KAJ Roach,YS Chahal,0,0,null,0,0,null,null
+168,27.4,SO Hetmyer,KAJ Roach,YS Chahal,1,0,null,1,0,null,null
+169,27.5,KAJ Roach,SO Hetmyer,YS Chahal,1,0,null,1,0,null,null
+170,27.6,SO Hetmyer,KAJ Roach,YS Chahal,1,0,null,1,0,null,null
+171,28.1,SO Hetmyer,KAJ Roach,Mohammed Shami,0,0,null,0,0,null,null
+172,28.2,SO Hetmyer,KAJ Roach,Mohammed Shami,0,0,null,0,0,null,null
+173,28.3,SO Hetmyer,KAJ Roach,Mohammed Shami,0,0,null,0,1,SO Hetmyer,caught
+174,28.4,SS Cottrell,KAJ Roach,Mohammed Shami,0,1,wides ,1,0,null,null
+175,28.5,SS Cottrell,KAJ Roach,Mohammed Shami,0,0,null,0,0,null,null
+176,28.6,SS Cottrell,KAJ Roach,Mohammed Shami,0,0,null,0,0,null,null
+177,28.7,SS Cottrell,KAJ Roach,Mohammed Shami,0,1,legbyes ,1,0,null,null
+178,29.1,SS Cottrell,KAJ Roach,YS Chahal,4,0,null,4,0,null,null
+179,29.2,SS Cottrell,KAJ Roach,YS Chahal,6,0,null,6,0,null,null
+180,29.3,SS Cottrell,KAJ Roach,YS Chahal,0,0,null,0,0,null,null
+181,29.4,SS Cottrell,KAJ Roach,YS Chahal,0,0,null,0,0,null,null
+182,29.5,SS Cottrell,KAJ Roach,YS Chahal,0,0,null,0,1,SS Cottrell,lbw
+183,29.6,O Thomas,KAJ Roach,YS Chahal,0,0,null,0,0,null,null
+184,30.1,KAJ Roach,O Thomas,Kuldeep Yadav,0,0,null,0,0,null,null
+185,30.2,KAJ Roach,O Thomas,Kuldeep Yadav,0,0,null,0,0,null,null
+186,30.3,KAJ Roach,O Thomas,Kuldeep Yadav,0,0,null,0,0,null,null
+187,30.4,KAJ Roach,O Thomas,Kuldeep Yadav,0,0,null,0,0,null,null
+188,30.5,KAJ Roach,O Thomas,Kuldeep Yadav,0,0,null,0,0,null,null
+189,30.6,KAJ Roach,O Thomas,Kuldeep Yadav,0,0,null,0,0,null,null
+190,31.1,O Thomas,KAJ Roach,YS Chahal,0,0,null,0,0,null,null
+191,31.2,O Thomas,KAJ Roach,YS Chahal,0,0,null,0,0,null,null
+192,31.3,O Thomas,KAJ Roach,YS Chahal,0,0,null,0,0,null,null
+193,31.4,O Thomas,KAJ Roach,YS Chahal,4,0,null,4,0,null,null
+194,31.5,O Thomas,KAJ Roach,YS Chahal,0,0,null,0,0,null,null
+195,31.6,O Thomas,KAJ Roach,YS Chahal,1,0,null,1,0,null,null
+196,32.1,O Thomas,KAJ Roach,Kuldeep Yadav,1,0,null,1,0,null,null
+197,32.2,KAJ Roach,O Thomas,Kuldeep Yadav,4,0,null,4,0,null,null
+198,32.3,KAJ Roach,O Thomas,Kuldeep Yadav,0,0,null,0,0,null,null
+199,32.4,KAJ Roach,O Thomas,Kuldeep Yadav,0,0,null,0,0,null,null
+200,32.5,KAJ Roach,O Thomas,Kuldeep Yadav,1,0,null,1,0,null,null
+201,32.6,O Thomas,KAJ Roach,Kuldeep Yadav,0,0,null,0,0,null,null
+202,33.1,KAJ Roach,O Thomas,YS Chahal,4,0,null,4,0,null,null
+203,33.2,KAJ Roach,O Thomas,YS Chahal,0,0,null,0,0,null,null
+204,33.3,KAJ Roach,O Thomas,YS Chahal,0,0,null,0,0,null,null
+205,33.4,KAJ Roach,O Thomas,YS Chahal,0,0,null,0,0,null,null
+206,33.5,KAJ Roach,O Thomas,YS Chahal,0,0,null,0,0,null,null
+207,33.6,KAJ Roach,O Thomas,YS Chahal,4,0,null,4,0,null,null
+208,34.1,O Thomas,KAJ Roach,Mohammed Shami,0,0,null,0,0,null,null
+209,34.2,O Thomas,KAJ Roach,Mohammed Shami,0,0,null,0,1,O Thomas,caught

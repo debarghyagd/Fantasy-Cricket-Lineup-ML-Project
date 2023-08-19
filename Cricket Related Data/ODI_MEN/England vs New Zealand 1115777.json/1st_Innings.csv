@@ -1,0 +1,304 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,JJ Roy,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+1,0.2,JJ Roy,JM Bairstow,TG Southee,2,0,null,2,0,null,null
+2,0.3,JJ Roy,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+3,0.4,JJ Roy,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+4,0.5,JJ Roy,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+5,0.6,JJ Roy,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+6,1.1,JM Bairstow,JJ Roy,TA Boult,0,0,null,0,0,null,null
+7,1.2,JM Bairstow,JJ Roy,TA Boult,0,0,null,0,0,null,null
+8,1.3,JM Bairstow,JJ Roy,TA Boult,0,0,null,0,0,null,null
+9,1.4,JM Bairstow,JJ Roy,TA Boult,0,0,null,0,0,null,null
+10,1.5,JM Bairstow,JJ Roy,TA Boult,0,0,null,0,0,null,null
+11,1.6,JM Bairstow,JJ Roy,TA Boult,0,0,null,0,0,null,null
+12,2.1,JJ Roy,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+13,2.2,JJ Roy,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+14,2.3,JJ Roy,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+15,2.4,JJ Roy,JM Bairstow,TG Southee,1,0,null,1,0,null,null
+16,2.5,JM Bairstow,JJ Roy,TG Southee,0,0,null,0,0,null,null
+17,2.6,JM Bairstow,JJ Roy,TG Southee,0,0,null,0,0,null,null
+18,3.1,JJ Roy,JM Bairstow,TA Boult,0,0,null,0,0,null,null
+19,3.2,JJ Roy,JM Bairstow,TA Boult,4,0,null,4,0,null,null
+20,3.3,JJ Roy,JM Bairstow,TA Boult,0,0,null,0,0,null,null
+21,3.4,JJ Roy,JM Bairstow,TA Boult,4,0,null,4,0,null,null
+22,3.5,JJ Roy,JM Bairstow,TA Boult,0,0,null,0,0,null,null
+23,3.6,JJ Roy,JM Bairstow,TA Boult,0,0,null,0,0,null,null
+24,4.1,JM Bairstow,JJ Roy,TG Southee,0,0,null,0,0,null,null
+25,4.2,JM Bairstow,JJ Roy,TG Southee,0,0,null,0,0,null,null
+26,4.3,JM Bairstow,JJ Roy,TG Southee,0,0,null,0,0,null,null
+27,4.4,JM Bairstow,JJ Roy,TG Southee,4,0,null,4,0,null,null
+28,4.5,JM Bairstow,JJ Roy,TG Southee,0,0,null,0,0,null,null
+29,4.6,JM Bairstow,JJ Roy,TG Southee,0,0,null,0,0,null,null
+30,5.1,JJ Roy,JM Bairstow,TA Boult,0,0,null,0,0,null,null
+31,5.2,JJ Roy,JM Bairstow,TA Boult,0,0,null,0,0,null,null
+32,5.3,JJ Roy,JM Bairstow,TA Boult,0,0,null,0,0,null,null
+33,5.4,JJ Roy,JM Bairstow,TA Boult,1,0,null,1,0,null,null
+34,5.5,JM Bairstow,JJ Roy,TA Boult,2,0,null,2,0,null,null
+35,5.6,JM Bairstow,JJ Roy,TA Boult,1,0,null,1,0,null,null
+36,6.1,JM Bairstow,JJ Roy,TG Southee,1,0,null,1,0,null,null
+37,6.2,JJ Roy,JM Bairstow,TG Southee,1,0,null,1,0,null,null
+38,6.3,JM Bairstow,JJ Roy,TG Southee,0,0,null,0,0,null,null
+39,6.4,JM Bairstow,JJ Roy,TG Southee,1,0,null,1,0,null,null
+40,6.5,JJ Roy,JM Bairstow,TG Southee,1,0,null,1,0,null,null
+41,6.6,JM Bairstow,JJ Roy,TG Southee,0,0,null,0,0,null,null
+42,7.1,JJ Roy,JM Bairstow,TA Boult,0,0,null,0,0,null,null
+43,7.2,JJ Roy,JM Bairstow,TA Boult,0,0,null,0,0,null,null
+44,7.3,JJ Roy,JM Bairstow,TA Boult,1,0,null,1,0,null,null
+45,7.4,JM Bairstow,JJ Roy,TA Boult,0,0,null,0,0,null,null
+46,7.5,JM Bairstow,JJ Roy,TA Boult,1,0,null,1,0,null,null
+47,7.6,JJ Roy,JM Bairstow,TA Boult,0,0,null,0,1,JJ Roy,caught
+48,8.1,JM Bairstow,JE Root,TG Southee,1,0,null,1,0,null,null
+49,8.2,JE Root,JM Bairstow,TG Southee,2,0,null,2,0,null,null
+50,8.3,JE Root,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+51,8.4,JE Root,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+52,8.5,JE Root,JM Bairstow,TG Southee,4,0,null,4,0,null,null
+53,8.6,JE Root,JM Bairstow,TG Southee,1,0,null,1,0,null,null
+54,9.1,JE Root,JM Bairstow,TA Boult,0,0,null,0,0,null,null
+55,9.2,JE Root,JM Bairstow,TA Boult,0,0,null,0,0,null,null
+56,9.3,JE Root,JM Bairstow,TA Boult,1,0,null,1,0,null,null
+57,9.4,JM Bairstow,JE Root,TA Boult,2,0,null,2,0,null,null
+58,9.5,JM Bairstow,JE Root,TA Boult,0,0,null,0,0,null,null
+59,9.6,JM Bairstow,JE Root,TA Boult,0,0,null,0,0,null,null
+60,10.1,JE Root,JM Bairstow,MJ Santner,1,0,null,1,0,null,null
+61,10.2,JM Bairstow,JE Root,MJ Santner,1,0,null,1,0,null,null
+62,10.3,JE Root,JM Bairstow,MJ Santner,0,0,null,0,0,null,null
+63,10.4,JE Root,JM Bairstow,MJ Santner,0,0,null,0,0,null,null
+64,10.5,JE Root,JM Bairstow,MJ Santner,1,0,null,1,0,null,null
+65,10.6,JM Bairstow,JE Root,MJ Santner,1,0,null,1,0,null,null
+66,11.1,JM Bairstow,JE Root,C de Grandhomme,0,1,legbyes ,1,0,null,null
+67,11.2,JE Root,JM Bairstow,C de Grandhomme,0,0,null,0,0,null,null
+68,11.3,JE Root,JM Bairstow,C de Grandhomme,1,0,null,1,0,null,null
+69,11.4,JM Bairstow,JE Root,C de Grandhomme,0,0,null,0,0,null,null
+70,11.5,JM Bairstow,JE Root,C de Grandhomme,0,0,null,0,0,null,null
+71,11.6,JM Bairstow,JE Root,C de Grandhomme,0,0,null,0,0,null,null
+72,12.1,JE Root,JM Bairstow,MJ Santner,0,0,null,0,0,null,null
+73,12.2,JE Root,JM Bairstow,MJ Santner,0,0,null,0,0,null,null
+74,12.3,JE Root,JM Bairstow,MJ Santner,0,0,null,0,0,null,null
+75,12.4,JE Root,JM Bairstow,MJ Santner,4,0,null,4,0,null,null
+76,12.5,JE Root,JM Bairstow,MJ Santner,4,0,null,4,0,null,null
+77,12.6,JE Root,JM Bairstow,MJ Santner,0,0,null,0,0,null,null
+78,13.1,JM Bairstow,JE Root,C de Grandhomme,0,0,null,0,0,null,null
+79,13.2,JM Bairstow,JE Root,C de Grandhomme,1,0,null,1,0,null,null
+80,13.3,JE Root,JM Bairstow,C de Grandhomme,1,0,null,1,0,null,null
+81,13.4,JM Bairstow,JE Root,C de Grandhomme,1,0,null,1,0,null,null
+82,13.5,JE Root,JM Bairstow,C de Grandhomme,0,0,null,0,1,JE Root,caught
+83,13.6,EJG Morgan,JM Bairstow,C de Grandhomme,0,1,wides ,1,0,null,null
+84,13.7,EJG Morgan,JM Bairstow,C de Grandhomme,0,0,null,0,0,null,null
+85,14.1,JM Bairstow,EJG Morgan,IS Sodhi,1,0,null,1,0,null,null
+86,14.2,EJG Morgan,JM Bairstow,IS Sodhi,2,0,null,2,0,null,null
+87,14.3,EJG Morgan,JM Bairstow,IS Sodhi,0,0,null,0,0,null,null
+88,14.4,EJG Morgan,JM Bairstow,IS Sodhi,0,0,null,0,0,null,null
+89,14.5,EJG Morgan,JM Bairstow,IS Sodhi,1,0,null,1,0,null,null
+90,14.6,JM Bairstow,EJG Morgan,IS Sodhi,0,0,null,0,0,null,null
+91,15.1,EJG Morgan,JM Bairstow,C de Grandhomme,0,0,null,0,0,null,null
+92,15.2,EJG Morgan,JM Bairstow,C de Grandhomme,4,0,null,4,0,null,null
+93,15.3,EJG Morgan,JM Bairstow,C de Grandhomme,0,0,null,0,0,null,null
+94,15.4,EJG Morgan,JM Bairstow,C de Grandhomme,0,0,null,0,0,null,null
+95,15.5,EJG Morgan,JM Bairstow,C de Grandhomme,0,0,null,0,0,null,null
+96,15.6,EJG Morgan,JM Bairstow,C de Grandhomme,0,0,null,0,0,null,null
+97,16.1,JM Bairstow,EJG Morgan,IS Sodhi,1,0,null,1,0,null,null
+98,16.2,EJG Morgan,JM Bairstow,IS Sodhi,4,0,null,4,0,null,null
+99,16.3,EJG Morgan,JM Bairstow,IS Sodhi,1,0,null,1,0,null,null
+100,16.4,JM Bairstow,EJG Morgan,IS Sodhi,0,0,null,0,1,JM Bairstow,bowled
+101,16.5,BA Stokes,EJG Morgan,IS Sodhi,1,0,null,1,0,null,null
+102,16.6,EJG Morgan,BA Stokes,IS Sodhi,0,0,null,0,0,null,null
+103,17.1,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+104,17.2,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+105,17.3,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+106,17.4,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+107,17.5,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+108,17.6,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+109,18.1,EJG Morgan,BA Stokes,IS Sodhi,1,0,null,1,0,null,null
+110,18.2,BA Stokes,EJG Morgan,IS Sodhi,0,0,null,0,0,null,null
+111,18.3,BA Stokes,EJG Morgan,IS Sodhi,1,0,null,1,0,null,null
+112,18.4,EJG Morgan,BA Stokes,IS Sodhi,0,0,null,0,0,null,null
+113,18.5,EJG Morgan,BA Stokes,IS Sodhi,0,0,null,0,0,null,null
+114,18.6,EJG Morgan,BA Stokes,IS Sodhi,0,0,null,0,0,null,null
+115,19.1,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+116,19.2,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+117,19.3,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+118,19.4,BA Stokes,EJG Morgan,C de Grandhomme,1,0,null,1,0,null,null
+119,19.5,EJG Morgan,BA Stokes,C de Grandhomme,1,0,null,1,0,null,null
+120,19.6,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+121,20.1,EJG Morgan,BA Stokes,IS Sodhi,0,0,null,0,0,null,null
+122,20.2,EJG Morgan,BA Stokes,IS Sodhi,1,0,null,1,0,null,null
+123,20.3,BA Stokes,EJG Morgan,IS Sodhi,0,0,null,0,0,null,null
+124,20.4,BA Stokes,EJG Morgan,IS Sodhi,0,0,null,0,0,null,null
+125,20.5,BA Stokes,EJG Morgan,IS Sodhi,1,0,null,1,0,null,null
+126,20.6,EJG Morgan,BA Stokes,IS Sodhi,0,0,null,0,0,null,null
+127,21.1,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+128,21.2,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+129,21.3,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+130,21.4,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+131,21.5,BA Stokes,EJG Morgan,C de Grandhomme,1,0,null,1,0,null,null
+132,21.6,EJG Morgan,BA Stokes,C de Grandhomme,0,0,null,0,0,null,null
+133,22.1,BA Stokes,EJG Morgan,IS Sodhi,0,0,null,0,0,null,null
+134,22.2,BA Stokes,EJG Morgan,IS Sodhi,0,0,null,0,0,null,null
+135,22.3,BA Stokes,EJG Morgan,IS Sodhi,1,0,null,1,0,null,null
+136,22.4,EJG Morgan,BA Stokes,IS Sodhi,1,0,null,1,0,null,null
+137,22.5,BA Stokes,EJG Morgan,IS Sodhi,0,0,null,0,0,null,null
+138,22.6,BA Stokes,EJG Morgan,IS Sodhi,0,0,null,0,0,null,null
+139,23.1,EJG Morgan,BA Stokes,C de Grandhomme,0,0,null,0,0,null,null
+140,23.2,EJG Morgan,BA Stokes,C de Grandhomme,1,0,null,1,0,null,null
+141,23.3,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+142,23.4,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+143,23.5,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+144,23.6,BA Stokes,EJG Morgan,C de Grandhomme,1,0,null,1,0,null,null
+145,24.1,BA Stokes,EJG Morgan,IS Sodhi,1,0,null,1,0,null,null
+146,24.2,EJG Morgan,BA Stokes,IS Sodhi,0,0,null,0,0,null,null
+147,24.3,EJG Morgan,BA Stokes,IS Sodhi,6,0,null,6,0,null,null
+148,24.4,EJG Morgan,BA Stokes,IS Sodhi,3,0,null,3,0,null,null
+149,24.5,BA Stokes,EJG Morgan,IS Sodhi,0,0,null,0,0,null,null
+150,24.6,BA Stokes,EJG Morgan,IS Sodhi,1,0,null,1,0,null,null
+151,25.1,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+152,25.2,BA Stokes,EJG Morgan,C de Grandhomme,1,0,null,1,0,null,null
+153,25.3,EJG Morgan,BA Stokes,C de Grandhomme,1,0,null,1,0,null,null
+154,25.4,BA Stokes,EJG Morgan,C de Grandhomme,1,0,null,1,0,null,null
+155,25.5,EJG Morgan,BA Stokes,C de Grandhomme,1,0,null,1,0,null,null
+156,25.6,BA Stokes,EJG Morgan,C de Grandhomme,1,0,null,1,0,null,null
+157,26.1,BA Stokes,EJG Morgan,C Munro,1,0,null,1,0,null,null
+158,26.2,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+159,26.3,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+160,26.4,EJG Morgan,BA Stokes,C Munro,1,0,null,1,0,null,null
+161,26.5,BA Stokes,EJG Morgan,C Munro,1,0,null,1,0,null,null
+162,26.6,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+163,27.1,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+164,27.2,BA Stokes,EJG Morgan,C de Grandhomme,1,0,null,1,0,null,null
+165,27.3,EJG Morgan,BA Stokes,C de Grandhomme,0,0,null,0,0,null,null
+166,27.4,EJG Morgan,BA Stokes,C de Grandhomme,0,0,null,0,0,null,null
+167,27.5,EJG Morgan,BA Stokes,C de Grandhomme,1,0,null,1,0,null,null
+168,27.6,BA Stokes,EJG Morgan,C de Grandhomme,1,0,null,1,0,null,null
+169,28.1,BA Stokes,EJG Morgan,C Munro,1,0,null,1,0,null,null
+170,28.2,EJG Morgan,BA Stokes,C Munro,4,0,null,4,0,null,null
+171,28.3,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+172,28.4,EJG Morgan,BA Stokes,C Munro,1,0,null,1,0,null,null
+173,28.5,BA Stokes,EJG Morgan,C Munro,1,0,null,1,0,null,null
+174,28.6,EJG Morgan,BA Stokes,C Munro,1,0,null,1,0,null,null
+175,29.1,EJG Morgan,BA Stokes,C de Grandhomme,0,0,null,0,0,null,null
+176,29.2,EJG Morgan,BA Stokes,C de Grandhomme,0,0,null,0,0,null,null
+177,29.3,EJG Morgan,BA Stokes,C de Grandhomme,1,0,null,1,0,null,null
+178,29.4,BA Stokes,EJG Morgan,C de Grandhomme,0,0,null,0,0,null,null
+179,29.5,BA Stokes,EJG Morgan,C de Grandhomme,1,0,null,1,0,null,null
+180,29.6,EJG Morgan,BA Stokes,C de Grandhomme,0,0,null,0,0,null,null
+181,30.1,BA Stokes,EJG Morgan,C Munro,1,0,null,1,0,null,null
+182,30.2,EJG Morgan,BA Stokes,C Munro,2,0,null,2,0,null,null
+183,30.3,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+184,30.4,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+185,30.5,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+186,30.6,EJG Morgan,BA Stokes,C Munro,0,5,wides ,5,0,null,null
+187,30.7,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+188,31.1,BA Stokes,EJG Morgan,TA Boult,0,0,null,0,0,null,null
+189,31.2,BA Stokes,EJG Morgan,TA Boult,0,0,null,0,0,null,null
+190,31.3,BA Stokes,EJG Morgan,TA Boult,1,0,null,1,0,null,null
+191,31.4,EJG Morgan,BA Stokes,TA Boult,0,0,null,0,0,null,null
+192,31.5,EJG Morgan,BA Stokes,TA Boult,2,0,null,2,0,null,null
+193,31.6,EJG Morgan,BA Stokes,TA Boult,1,0,null,1,0,null,null
+194,32.1,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+195,32.2,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+196,32.3,EJG Morgan,BA Stokes,C Munro,2,0,null,2,0,null,null
+197,32.4,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+198,32.5,EJG Morgan,BA Stokes,C Munro,1,0,null,1,0,null,null
+199,32.6,BA Stokes,EJG Morgan,C Munro,1,0,null,1,0,null,null
+200,33.1,BA Stokes,EJG Morgan,TA Boult,4,0,null,4,0,null,null
+201,33.2,BA Stokes,EJG Morgan,TA Boult,1,0,null,1,0,null,null
+202,33.3,EJG Morgan,BA Stokes,TA Boult,0,0,null,0,0,null,null
+203,33.4,EJG Morgan,BA Stokes,TA Boult,0,0,null,0,0,null,null
+204,33.5,EJG Morgan,BA Stokes,TA Boult,0,0,null,0,0,null,null
+205,33.6,EJG Morgan,BA Stokes,TA Boult,1,0,null,1,0,null,null
+206,34.1,EJG Morgan,BA Stokes,C Munro,1,0,null,1,0,null,null
+207,34.2,BA Stokes,EJG Morgan,C Munro,0,0,null,0,0,null,null
+208,34.3,BA Stokes,EJG Morgan,C Munro,0,0,null,0,0,null,null
+209,34.4,BA Stokes,EJG Morgan,C Munro,1,0,null,1,0,null,null
+210,34.5,EJG Morgan,BA Stokes,C Munro,0,0,null,0,0,null,null
+211,34.6,EJG Morgan,BA Stokes,C Munro,0,1,legbyes ,1,0,null,null
+212,35.1,EJG Morgan,BA Stokes,TG Southee,0,0,null,0,0,null,null
+213,35.2,EJG Morgan,BA Stokes,TG Southee,1,0,null,1,0,null,null
+214,35.3,BA Stokes,EJG Morgan,TG Southee,1,0,null,1,0,null,null
+215,35.4,EJG Morgan,BA Stokes,TG Southee,0,0,null,0,0,null,null
+216,35.5,EJG Morgan,BA Stokes,TG Southee,0,0,null,0,0,null,null
+217,35.6,EJG Morgan,BA Stokes,TG Southee,0,0,null,0,1,EJG Morgan,bowled
+218,36.1,BA Stokes,JC Buttler,IS Sodhi,0,0,null,0,0,null,null
+219,36.2,BA Stokes,JC Buttler,IS Sodhi,1,0,null,1,0,null,null
+220,36.3,JC Buttler,BA Stokes,IS Sodhi,1,0,null,1,0,null,null
+221,36.4,BA Stokes,JC Buttler,IS Sodhi,1,0,null,1,0,null,null
+222,36.5,JC Buttler,BA Stokes,IS Sodhi,0,0,null,0,0,null,null
+223,36.6,JC Buttler,BA Stokes,IS Sodhi,0,2,byes ,2,0,null,null
+224,37.1,BA Stokes,JC Buttler,TG Southee,0,0,null,0,0,null,null
+225,37.2,BA Stokes,JC Buttler,TG Southee,0,1,wides ,1,0,null,null
+226,37.3,BA Stokes,JC Buttler,TG Southee,0,0,null,0,0,null,null
+227,37.4,BA Stokes,JC Buttler,TG Southee,4,0,null,4,0,null,null
+228,37.5,BA Stokes,JC Buttler,TG Southee,0,0,null,0,0,null,null
+229,37.6,BA Stokes,JC Buttler,TG Southee,0,0,null,0,0,null,null
+230,37.7,BA Stokes,JC Buttler,TG Southee,0,0,null,0,0,null,null
+231,38.1,JC Buttler,BA Stokes,IS Sodhi,4,0,null,4,0,null,null
+232,38.2,JC Buttler,BA Stokes,IS Sodhi,4,0,null,4,0,null,null
+233,38.3,JC Buttler,BA Stokes,IS Sodhi,0,0,null,0,0,null,null
+234,38.4,JC Buttler,BA Stokes,IS Sodhi,0,0,null,0,0,null,null
+235,38.5,JC Buttler,BA Stokes,IS Sodhi,1,0,null,1,0,null,null
+236,38.6,BA Stokes,JC Buttler,IS Sodhi,1,0,null,1,0,null,null
+237,39.1,BA Stokes,JC Buttler,C Munro,1,0,null,1,0,null,null
+238,39.2,JC Buttler,BA Stokes,C Munro,2,0,null,2,0,null,null
+239,39.3,JC Buttler,BA Stokes,C Munro,1,0,null,1,0,null,null
+240,39.4,BA Stokes,JC Buttler,C Munro,0,0,null,0,0,null,null
+241,39.5,BA Stokes,JC Buttler,C Munro,1,0,null,1,0,null,null
+242,39.6,JC Buttler,BA Stokes,C Munro,2,0,null,2,0,null,null
+243,40.1,BA Stokes,JC Buttler,IS Sodhi,1,0,null,1,0,null,null
+244,40.2,JC Buttler,BA Stokes,IS Sodhi,1,0,null,1,0,null,null
+245,40.3,BA Stokes,JC Buttler,IS Sodhi,0,0,null,0,1,BA Stokes,caught
+246,40.4,JC Buttler,MM Ali,IS Sodhi,1,0,null,1,0,null,null
+247,40.5,MM Ali,JC Buttler,IS Sodhi,1,0,null,1,0,null,null
+248,40.6,JC Buttler,MM Ali,IS Sodhi,1,0,null,1,0,null,null
+249,41.1,JC Buttler,MM Ali,C Munro,1,0,null,1,0,null,null
+250,41.2,MM Ali,JC Buttler,C Munro,1,0,null,1,0,null,null
+251,41.3,JC Buttler,MM Ali,C Munro,0,0,null,0,0,null,null
+252,41.4,JC Buttler,MM Ali,C Munro,4,0,null,4,0,null,null
+253,41.5,JC Buttler,MM Ali,C Munro,0,0,null,0,0,null,null
+254,41.6,JC Buttler,MM Ali,C Munro,0,0,null,0,0,null,null
+255,42.1,MM Ali,JC Buttler,IS Sodhi,1,0,null,1,0,null,null
+256,42.2,JC Buttler,MM Ali,IS Sodhi,6,0,null,6,0,null,null
+257,42.3,JC Buttler,MM Ali,IS Sodhi,0,0,null,0,0,null,null
+258,42.4,JC Buttler,MM Ali,IS Sodhi,0,0,null,0,0,null,null
+259,42.5,JC Buttler,MM Ali,IS Sodhi,0,0,null,0,1,JC Buttler,caught
+260,42.6,CR Woakes,MM Ali,IS Sodhi,0,0,null,0,0,null,null
+261,43.1,MM Ali,CR Woakes,C Munro,1,0,null,1,0,null,null
+262,43.2,CR Woakes,MM Ali,C Munro,4,0,null,4,0,null,null
+263,43.3,CR Woakes,MM Ali,C Munro,1,0,null,1,0,null,null
+264,43.4,MM Ali,CR Woakes,C Munro,0,0,null,0,0,null,null
+265,43.5,MM Ali,CR Woakes,C Munro,1,0,null,1,0,null,null
+266,43.6,CR Woakes,MM Ali,C Munro,1,0,null,1,0,null,null
+267,44.1,CR Woakes,MM Ali,TG Southee,0,0,null,0,0,null,null
+268,44.2,CR Woakes,MM Ali,TG Southee,1,0,null,1,0,null,null
+269,44.3,MM Ali,CR Woakes,TG Southee,4,0,null,4,0,null,null
+270,44.4,MM Ali,CR Woakes,TG Southee,1,0,null,1,0,null,null
+271,44.5,CR Woakes,MM Ali,TG Southee,4,0,null,4,0,null,null
+272,44.6,CR Woakes,MM Ali,TG Southee,1,0,null,1,0,null,null
+273,45.1,CR Woakes,MM Ali,TA Boult,1,0,null,1,0,null,null
+274,45.2,MM Ali,CR Woakes,TA Boult,0,0,null,0,0,null,null
+275,45.3,MM Ali,CR Woakes,TA Boult,4,0,null,4,0,null,null
+276,45.4,MM Ali,CR Woakes,TA Boult,1,0,null,1,0,null,null
+277,45.5,CR Woakes,MM Ali,TA Boult,1,0,null,1,0,null,null
+278,45.6,MM Ali,CR Woakes,TA Boult,1,0,null,1,0,null,null
+279,46.1,MM Ali,CR Woakes,TG Southee,1,0,null,1,0,null,null
+280,46.2,CR Woakes,MM Ali,TG Southee,0,0,null,0,0,null,null
+281,46.3,CR Woakes,MM Ali,TG Southee,1,0,null,1,0,null,null
+282,46.4,MM Ali,CR Woakes,TG Southee,1,0,null,1,0,null,null
+283,46.5,CR Woakes,MM Ali,TG Southee,0,0,null,0,0,null,null
+284,46.6,CR Woakes,MM Ali,TG Southee,1,0,null,1,0,null,null
+285,47.1,CR Woakes,MM Ali,TA Boult,0,0,null,0,1,CR Woakes,caught
+286,47.2,AU Rashid,MM Ali,TA Boult,1,0,null,1,0,null,null
+287,47.3,MM Ali,AU Rashid,TA Boult,2,0,null,2,0,null,null
+288,47.4,MM Ali,AU Rashid,TA Boult,0,0,null,0,0,null,null
+289,47.5,MM Ali,AU Rashid,TA Boult,0,0,null,0,0,null,null
+290,47.6,MM Ali,AU Rashid,TA Boult,2,0,null,2,0,null,null
+291,48.1,AU Rashid,MM Ali,TG Southee,0,0,null,0,0,null,null
+292,48.2,AU Rashid,MM Ali,TG Southee,1,0,null,1,0,null,null
+293,48.3,MM Ali,AU Rashid,TG Southee,1,0,null,1,0,null,null
+294,48.4,AU Rashid,MM Ali,TG Southee,0,0,null,0,1,MM Ali,run out
+295,48.5,AU Rashid,TK Curran,TG Southee,4,0,null,4,0,null,null
+296,48.6,AU Rashid,TK Curran,TG Southee,1,0,null,1,0,null,null
+297,49.1,AU Rashid,TK Curran,TA Boult,4,0,null,4,0,null,null
+298,49.2,AU Rashid,TK Curran,TA Boult,0,0,null,0,1,AU Rashid,run out
+299,49.3,TK Curran,MA Wood,TA Boult,1,0,null,1,0,null,null
+300,49.4,MA Wood,TK Curran,TA Boult,0,0,null,0,0,null,null
+301,49.5,MA Wood,TK Curran,TA Boult,1,0,null,1,0,null,null
+302,49.6,TK Curran,MA Wood,TA Boult,1,0,null,1,1,MA Wood,run out

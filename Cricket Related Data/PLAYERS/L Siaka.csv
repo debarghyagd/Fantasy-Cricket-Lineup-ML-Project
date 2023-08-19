@@ -1,0 +1,56 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1026849,"Mission Road Ground, Mong Kok",Hong Kong,Nadeem Ahmed,Left-arm orthodox,"[1, 0, 1]",1,17,9,4,0
+1,1199229,Central Broward Regional Park Stadium Turf Ground,Namibia,BM Scholtz,Left-arm orthodox,"[1, 0, 1]",1,14,25,1,0
+2,1199229,Central Broward Regional Park Stadium Turf Ground,Namibia,Z Groenewald,,not known,0,9,9,1,0
+3,1199230,Central Broward Regional Park Stadium Turf Ground,Namibia,BM Scholtz,Left-arm orthodox,"[1, 0, 1]",1,0,2,0,0
+4,1276296,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",1,4,3,1,0
+5,1305497,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,Gulsan Jha,Right-arm medium,"[0, 1, 2]",0,17,9,4,0
+6,1305497,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",0,7,19,0,0
+7,1305497,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",0,12,23,2,0
+8,1305497,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,P Sarraf,Right-arm offbreak,"[1, 1, 0]",1,10,10,1,0
+9,1196670,Mannofield Park,Oman,Khawar Ali,Right-arm legbreak,"[1, 1, 1]",0,12,19,1,0
+10,1196670,Mannofield Park,Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,9,6,1,0
+11,1196675,Mannofield Park,Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,3,5,0,0
+12,1275256,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,16,16,3,0
+13,1275256,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,5,11,0,0
+14,1308249,Dubai International Cricket Stadium,Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",1,4,6,0,0
+15,1308249,Dubai International Cricket Stadium,Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,4,13,1,0
+16,1133002,Harare Sports Club,Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+17,1133002,Harare Sports Club,Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",1,1,11,0,0
+18,1276295,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",0,1,3,0,0
+19,1276295,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",0,11,12,1,0
+20,1302624,Sharjah Cricket Stadium,Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",0,6,8,0,0
+21,1302624,Sharjah Cricket Stadium,Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",1,2,7,0,0
+22,1302624,Sharjah Cricket Stadium,Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",0,15,15,2,0
+23,1302628,Dubai International Cricket Stadium,Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",0,14,13,3,0
+24,1302628,Dubai International Cricket Stadium,Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",1,3,15,0,0
+25,1275259,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,11,18,0,0
+26,1275259,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,8,14,0,0
+27,1308246,Dubai International Cricket Stadium,Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,9,15,1,0
+28,1308246,Dubai International Cricket Stadium,Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,17,20,2,1
+29,1275255,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,8,7,0,0
+30,1275258,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Scotland,RD Berrington,Right-arm fast-medium,"[0, 1, 1]",0,8,6,2,0
+31,1275258,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",0,7,9,1,0
+32,1174844,Affies Park,United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,8,5,2,0
+33,1174844,Affies Park,United States of America,K Gore,Left-arm orthodox,"[1, 0, 1]",0,8,6,1,0
+34,1174844,Affies Park,United States of America,TK Patel,Left-arm orthodox,"[1, 0, 1]",1,17,15,2,0
+35,1174844,Affies Park,United States of America,SR Taylor,Right-arm offbreak,"[1, 1, 0]",0,8,8,1,0
+36,1174844,Affies Park,United States of America,HR Walsh,Right-arm legbreak,"[1, 1, 1]",0,2,3,0,0
+37,1276293,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",1,2,7,0,0
+38,1196672,Mannofield Park,Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",1,2,3,0,0
+39,1196672,Mannofield Park,Scotland,MA Leask,Right-arm offbreak,"[1, 1, 0]",0,1,1,0,0
+40,1196674,Mannofield Park,Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",0,7,15,0,0
+41,1196674,Mannofield Park,Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",1,9,10,0,1
+42,1196674,Mannofield Park,Scotland,MA Leask,Right-arm offbreak,"[1, 1, 0]",0,10,8,1,0
+43,1308244,Dubai International Cricket Stadium,Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,5,12,0,0
+44,1308244,Dubai International Cricket Stadium,Scotland,GT Main,Right-arm fast,"[0, 1, 0]",0,3,6,0,0
+45,1308244,Dubai International Cricket Stadium,Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",1,5,8,0,0
+46,1308247,Dubai International Cricket Stadium,Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",1,4,5,1,0
+47,1068737,Sheikh Zayed Stadium,United Arab Emirates,Imran Haider,Right-arm legbreak,"[1, 1, 1]",1,3,6,0,0
+48,1068737,Sheikh Zayed Stadium,United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",0,9,9,1,0
+49,1089183,Sheikh Zayed Stadium,United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",1,3,9,0,0
+50,1199225,Central Broward Regional Park Stadium Turf Ground,United States of America,K Gore,Left-arm orthodox,"[1, 0, 1]",1,0,1,0,0
+51,1199227,Central Broward Regional Park Stadium Turf Ground,United States of America,TK Patel,Left-arm orthodox,"[1, 0, 1]",1,0,1,0,0
+52,1199227,Central Broward Regional Park Stadium Turf Ground,United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,1,8,0,0
+53,1199227,Central Broward Regional Park Stadium Turf Ground,United States of America,SR Taylor,Right-arm offbreak,"[1, 1, 0]",0,3,15,0,0
+54,1276294,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,15,15,1,1

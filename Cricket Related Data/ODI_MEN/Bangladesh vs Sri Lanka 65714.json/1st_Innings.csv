@@ -1,0 +1,305 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Mohammad Ashraful,Rajin Saleh,WPUJC Vaas,1,0,null,1,0,null,null
+1,0.2,Rajin Saleh,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+2,0.3,Rajin Saleh,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+3,0.4,Rajin Saleh,Mohammad Ashraful,WPUJC Vaas,1,0,null,1,0,null,null
+4,0.5,Mohammad Ashraful,Rajin Saleh,WPUJC Vaas,0,0,null,0,0,null,null
+5,0.6,Mohammad Ashraful,Rajin Saleh,WPUJC Vaas,0,0,null,0,0,null,null
+6,1.1,Rajin Saleh,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+7,1.2,Rajin Saleh,Mohammad Ashraful,SL Malinga,4,0,null,4,0,null,null
+8,1.3,Rajin Saleh,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+9,1.4,Rajin Saleh,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+10,1.5,Rajin Saleh,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+11,1.6,Rajin Saleh,Mohammad Ashraful,SL Malinga,0,0,null,0,1,Rajin Saleh,caught
+12,2.1,Mohammad Ashraful,Habibul Bashar,WPUJC Vaas,0,0,null,0,0,null,null
+13,2.2,Mohammad Ashraful,Habibul Bashar,WPUJC Vaas,0,0,null,0,0,null,null
+14,2.3,Mohammad Ashraful,Habibul Bashar,WPUJC Vaas,1,0,null,1,0,null,null
+15,2.4,Habibul Bashar,Mohammad Ashraful,WPUJC Vaas,2,0,null,2,0,null,null
+16,2.5,Habibul Bashar,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+17,2.6,Habibul Bashar,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+18,3.1,Mohammad Ashraful,Habibul Bashar,SL Malinga,0,0,null,0,0,null,null
+19,3.2,Mohammad Ashraful,Habibul Bashar,SL Malinga,0,0,null,0,0,null,null
+20,3.3,Mohammad Ashraful,Habibul Bashar,SL Malinga,0,0,null,0,0,null,null
+21,3.4,Mohammad Ashraful,Habibul Bashar,SL Malinga,0,1,legbyes ,1,0,null,null
+22,3.5,Habibul Bashar,Mohammad Ashraful,SL Malinga,4,0,null,4,0,null,null
+23,3.6,Habibul Bashar,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+24,4.1,Mohammad Ashraful,Habibul Bashar,WPUJC Vaas,0,0,null,0,0,null,null
+25,4.2,Mohammad Ashraful,Habibul Bashar,WPUJC Vaas,0,0,null,0,0,null,null
+26,4.3,Mohammad Ashraful,Habibul Bashar,WPUJC Vaas,0,0,null,0,0,null,null
+27,4.4,Mohammad Ashraful,Habibul Bashar,WPUJC Vaas,0,0,null,0,0,null,null
+28,4.5,Mohammad Ashraful,Habibul Bashar,WPUJC Vaas,4,0,null,4,0,null,null
+29,4.6,Mohammad Ashraful,Habibul Bashar,WPUJC Vaas,0,0,null,0,0,null,null
+30,5.1,Habibul Bashar,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+31,5.2,Habibul Bashar,Mohammad Ashraful,SL Malinga,1,0,null,1,0,null,null
+32,5.3,Mohammad Ashraful,Habibul Bashar,SL Malinga,0,0,null,0,0,null,null
+33,5.4,Mohammad Ashraful,Habibul Bashar,SL Malinga,0,0,null,0,0,null,null
+34,5.5,Mohammad Ashraful,Habibul Bashar,SL Malinga,2,0,null,2,0,null,null
+35,5.6,Mohammad Ashraful,Habibul Bashar,SL Malinga,0,0,null,0,0,null,null
+36,6.1,Habibul Bashar,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+37,6.2,Habibul Bashar,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+38,6.3,Habibul Bashar,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,1,Habibul Bashar,caught
+39,6.4,Alok Kapali,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+40,6.5,Alok Kapali,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+41,6.6,Alok Kapali,Mohammad Ashraful,WPUJC Vaas,0,1,legbyes ,1,0,null,null
+42,7.1,Alok Kapali,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+43,7.2,Alok Kapali,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+44,7.3,Alok Kapali,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+45,7.4,Alok Kapali,Mohammad Ashraful,SL Malinga,1,0,null,1,0,null,null
+46,7.5,Mohammad Ashraful,Alok Kapali,SL Malinga,0,0,null,0,0,null,null
+47,7.6,Mohammad Ashraful,Alok Kapali,SL Malinga,0,0,null,0,0,null,null
+48,8.1,Alok Kapali,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+49,8.2,Alok Kapali,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+50,8.3,Alok Kapali,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,1,Alok Kapali,run out
+51,8.4,Mohammad Ashraful,Faisal Hossain,WPUJC Vaas,0,0,null,0,0,null,null
+52,8.5,Mohammad Ashraful,Faisal Hossain,WPUJC Vaas,1,0,null,1,0,null,null
+53,8.6,Faisal Hossain,Mohammad Ashraful,WPUJC Vaas,1,0,null,1,0,null,null
+54,9.1,Faisal Hossain,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+55,9.2,Faisal Hossain,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+56,9.3,Faisal Hossain,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+57,9.4,Faisal Hossain,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+58,9.5,Faisal Hossain,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+59,9.6,Faisal Hossain,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+60,10.1,Mohammad Ashraful,Faisal Hossain,WPUJC Vaas,0,1,legbyes ,1,0,null,null
+61,10.2,Faisal Hossain,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+62,10.3,Faisal Hossain,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+63,10.4,Faisal Hossain,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+64,10.5,Faisal Hossain,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+65,10.6,Faisal Hossain,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+66,11.1,Mohammad Ashraful,Faisal Hossain,SL Malinga,0,0,null,0,0,null,null
+67,11.2,Mohammad Ashraful,Faisal Hossain,SL Malinga,0,1,wides ,1,0,null,null
+68,11.3,Mohammad Ashraful,Faisal Hossain,SL Malinga,0,0,null,0,0,null,null
+69,11.4,Mohammad Ashraful,Faisal Hossain,SL Malinga,0,0,null,0,0,null,null
+70,11.5,Mohammad Ashraful,Faisal Hossain,SL Malinga,0,0,null,0,0,null,null
+71,11.6,Mohammad Ashraful,Faisal Hossain,SL Malinga,0,0,null,0,0,null,null
+72,11.7,Mohammad Ashraful,Faisal Hossain,SL Malinga,0,0,null,0,0,null,null
+73,12.1,Faisal Hossain,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+74,12.2,Faisal Hossain,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+75,12.3,Faisal Hossain,Mohammad Ashraful,WPUJC Vaas,0,1,legbyes ,1,0,null,null
+76,12.4,Mohammad Ashraful,Faisal Hossain,WPUJC Vaas,0,0,null,0,0,null,null
+77,12.5,Mohammad Ashraful,Faisal Hossain,WPUJC Vaas,0,0,null,0,0,null,null
+78,12.6,Mohammad Ashraful,Faisal Hossain,WPUJC Vaas,0,0,null,0,0,null,null
+79,13.1,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+80,13.2,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+81,13.3,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+82,13.4,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+83,13.5,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+84,13.6,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+85,14.1,Mohammad Ashraful,Faisal Hossain,MF Maharoof,0,0,null,0,0,null,null
+86,14.2,Mohammad Ashraful,Faisal Hossain,MF Maharoof,0,0,null,0,0,null,null
+87,14.3,Mohammad Ashraful,Faisal Hossain,MF Maharoof,0,0,null,0,0,null,null
+88,14.4,Mohammad Ashraful,Faisal Hossain,MF Maharoof,2,0,null,2,0,null,null
+89,14.5,Mohammad Ashraful,Faisal Hossain,MF Maharoof,0,0,null,0,0,null,null
+90,14.6,Mohammad Ashraful,Faisal Hossain,MF Maharoof,0,0,null,0,0,null,null
+91,15.1,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+92,15.2,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+93,15.3,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+94,15.4,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+95,15.5,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+96,15.6,Faisal Hossain,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+97,16.1,Mohammad Ashraful,Faisal Hossain,MF Maharoof,1,0,null,1,0,null,null
+98,16.2,Faisal Hossain,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+99,16.3,Faisal Hossain,Mohammad Ashraful,MF Maharoof,0,0,null,0,1,Faisal Hossain,bowled
+100,16.4,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+101,16.5,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+102,16.6,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+103,17.1,Mohammad Ashraful,Manjural Islam Rana,M Muralitharan,1,0,null,1,0,null,null
+104,17.2,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+105,17.3,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+106,17.4,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+107,17.5,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+108,17.6,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+109,18.1,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+110,18.2,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+111,18.3,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+112,18.4,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,1,0,null,1,0,null,null
+113,18.5,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+114,18.6,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+115,19.1,Mohammad Ashraful,Manjural Islam Rana,M Muralitharan,0,0,null,0,0,null,null
+116,19.2,Mohammad Ashraful,Manjural Islam Rana,M Muralitharan,1,0,null,1,0,null,null
+117,19.3,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+118,19.4,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,4,0,null,4,0,null,null
+119,19.5,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+120,19.6,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+121,20.1,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+122,20.2,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,4,0,null,4,0,null,null
+123,20.3,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+124,20.4,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+125,20.5,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+126,20.6,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,1,noballs ,1,0,null,null
+127,20.7,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+128,21.1,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+129,21.2,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+130,21.3,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+131,21.4,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+132,21.5,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+133,21.6,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,2,0,null,2,0,null,null
+134,22.1,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+135,22.2,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,1,0,null,1,0,null,null
+136,22.3,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+137,22.4,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+138,22.5,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+139,22.6,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,1,0,null,1,0,null,null
+140,23.1,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,0,0,null,0,0,null,null
+141,23.2,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,1,0,null,1,0,null,null
+142,23.3,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,0,0,null,0,0,null,null
+143,23.4,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,1,0,null,1,0,null,null
+144,23.5,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,0,0,null,0,0,null,null
+145,23.6,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,2,0,null,2,0,null,null
+146,24.1,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+147,24.2,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+148,24.3,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+149,24.4,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+150,24.5,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,1,1,noballs ,2,0,null,null
+151,24.6,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+152,24.7,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+153,25.1,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,1,0,null,1,0,null,null
+154,25.2,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,1,0,null,1,0,null,null
+155,25.3,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,2,0,null,2,0,null,null
+156,25.4,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,0,0,null,0,0,null,null
+157,25.5,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,0,2,byes ,2,0,null,null
+158,25.6,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,0,0,null,0,0,null,null
+159,26.1,Manjural Islam Rana,Mohammad Ashraful,SL Malinga,0,1,wides ,1,0,null,null
+160,26.2,Manjural Islam Rana,Mohammad Ashraful,SL Malinga,0,0,null,0,0,null,null
+161,26.3,Manjural Islam Rana,Mohammad Ashraful,SL Malinga,0,1,legbyes ,1,0,null,null
+162,26.4,Mohammad Ashraful,Manjural Islam Rana,SL Malinga,0,0,null,0,0,null,null
+163,26.5,Mohammad Ashraful,Manjural Islam Rana,SL Malinga,0,0,null,0,0,null,null
+164,26.6,Mohammad Ashraful,Manjural Islam Rana,SL Malinga,1,0,null,1,0,null,null
+165,26.7,Manjural Islam Rana,Mohammad Ashraful,SL Malinga,1,0,null,1,0,null,null
+166,27.1,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,1,0,null,1,0,null,null
+167,27.2,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,0,0,null,0,0,null,null
+168,27.3,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,1,0,null,1,0,null,null
+169,27.4,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,0,0,null,0,0,null,null
+170,27.5,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,4,0,null,4,0,null,null
+171,27.6,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,0,0,null,0,0,null,null
+172,28.1,Mohammad Ashraful,Manjural Islam Rana,SL Malinga,1,0,null,1,0,null,null
+173,28.2,Manjural Islam Rana,Mohammad Ashraful,SL Malinga,1,0,null,1,0,null,null
+174,28.3,Mohammad Ashraful,Manjural Islam Rana,SL Malinga,0,0,null,0,0,null,null
+175,28.4,Mohammad Ashraful,Manjural Islam Rana,SL Malinga,0,0,null,0,0,null,null
+176,28.5,Mohammad Ashraful,Manjural Islam Rana,SL Malinga,0,0,null,0,0,null,null
+177,28.6,Mohammad Ashraful,Manjural Islam Rana,SL Malinga,0,0,null,0,0,null,null
+178,29.1,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,0,0,null,0,0,null,null
+179,29.2,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,0,0,null,0,0,null,null
+180,29.3,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,0,0,null,0,0,null,null
+181,29.4,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,0,0,null,0,0,null,null
+182,29.5,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,1,0,null,1,0,null,null
+183,29.6,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,0,0,null,0,0,null,null
+184,30.1,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,1,0,null,1,0,null,null
+185,30.2,Mohammad Ashraful,Manjural Islam Rana,M Muralitharan,0,0,null,0,0,null,null
+186,30.3,Mohammad Ashraful,Manjural Islam Rana,M Muralitharan,0,0,null,0,0,null,null
+187,30.4,Mohammad Ashraful,Manjural Islam Rana,M Muralitharan,1,0,null,1,0,null,null
+188,30.5,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+189,30.6,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,1,0,null,1,0,null,null
+190,31.1,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,0,0,null,0,0,null,null
+191,31.2,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,0,0,null,0,0,null,null
+192,31.3,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,1,0,null,1,0,null,null
+193,31.4,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,1,0,null,1,0,null,null
+194,31.5,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,1,0,null,1,0,null,null
+195,31.6,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,0,0,null,0,0,null,null
+196,32.1,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+197,32.2,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+198,32.3,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+199,32.4,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+200,32.5,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+201,32.6,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,1,0,null,1,0,null,null
+202,33.1,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,3,0,null,3,0,null,null
+203,33.2,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,0,0,null,0,0,null,null
+204,33.3,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,0,0,null,0,0,null,null
+205,33.4,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,0,0,null,0,0,null,null
+206,33.5,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,0,0,null,0,0,null,null
+207,33.6,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,0,0,null,0,0,null,null
+208,34.1,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,0,0,null,0,0,null,null
+209,34.2,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,0,0,null,0,0,null,null
+210,34.3,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,2,0,null,2,0,null,null
+211,34.4,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,0,0,null,0,0,null,null
+212,34.5,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,0,0,null,0,0,null,null
+213,34.6,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,0,0,null,0,0,null,null
+214,35.1,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,0,0,null,0,0,null,null
+215,35.2,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,1,0,null,1,0,null,null
+216,35.3,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,0,0,null,0,0,null,null
+217,35.4,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,1,0,null,1,0,null,null
+218,35.5,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,2,0,null,2,0,null,null
+219,35.6,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,1,0,null,1,0,null,null
+220,36.1,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,0,0,null,0,0,null,null
+221,36.2,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,0,0,null,0,0,null,null
+222,36.3,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,2,0,null,2,0,null,null
+223,36.4,Mohammad Ashraful,Manjural Islam Rana,UDU Chandana,1,0,null,1,0,null,null
+224,36.5,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,2,0,null,2,0,null,null
+225,36.6,Manjural Islam Rana,Mohammad Ashraful,UDU Chandana,1,0,null,1,0,null,null
+226,37.1,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,0,0,null,0,0,null,null
+227,37.2,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,2,0,null,2,0,null,null
+228,37.3,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,0,0,null,0,0,null,null
+229,37.4,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,0,1,legbyes ,1,0,null,null
+230,37.5,Mohammad Ashraful,Manjural Islam Rana,ST Jayasuriya,0,1,legbyes ,1,0,null,null
+231,37.6,Manjural Islam Rana,Mohammad Ashraful,ST Jayasuriya,1,0,null,1,0,null,null
+232,38.1,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+233,38.2,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,1,0,null,1,0,null,null
+234,38.3,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,0,0,null,0,0,null,null
+235,38.4,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,6,0,null,6,0,null,null
+236,38.5,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,2,0,null,2,0,null,null
+237,38.6,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,1,0,null,1,0,null,null
+238,39.1,Mohammad Ashraful,Manjural Islam Rana,M Muralitharan,0,3,byes ,3,0,null,null
+239,39.2,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,4,0,null,4,0,null,null
+240,39.3,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,1,0,null,1,0,null,null
+241,39.4,Mohammad Ashraful,Manjural Islam Rana,M Muralitharan,0,0,null,0,0,null,null
+242,39.5,Mohammad Ashraful,Manjural Islam Rana,M Muralitharan,1,0,null,1,0,null,null
+243,39.6,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+244,40.1,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,1,0,null,1,0,null,null
+245,40.2,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+246,40.3,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+247,40.4,Manjural Islam Rana,Mohammad Ashraful,MF Maharoof,1,0,null,1,0,null,null
+248,40.5,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,4,0,null,4,0,null,null
+249,40.6,Mohammad Ashraful,Manjural Islam Rana,MF Maharoof,4,0,null,4,0,null,null
+250,41.1,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+251,41.2,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,1,legbyes ,1,0,null,null
+252,41.3,Mohammad Ashraful,Manjural Islam Rana,M Muralitharan,0,0,null,0,0,null,null
+253,41.4,Mohammad Ashraful,Manjural Islam Rana,M Muralitharan,1,0,null,1,0,null,null
+254,41.5,Manjural Islam Rana,Mohammad Ashraful,M Muralitharan,0,0,null,0,1,Manjural Islam Rana,stumped
+255,41.6,Khaled Mashud,Mohammad Ashraful,M Muralitharan,0,0,null,0,0,null,null
+256,42.1,Mohammad Ashraful,Khaled Mashud,UDU Chandana,0,0,null,0,0,null,null
+257,42.2,Mohammad Ashraful,Khaled Mashud,UDU Chandana,1,0,null,1,0,null,null
+258,42.3,Khaled Mashud,Mohammad Ashraful,UDU Chandana,2,0,null,2,0,null,null
+259,42.4,Khaled Mashud,Mohammad Ashraful,UDU Chandana,1,0,null,1,0,null,null
+260,42.5,Mohammad Ashraful,Khaled Mashud,UDU Chandana,1,0,null,1,0,null,null
+261,42.6,Khaled Mashud,Mohammad Ashraful,UDU Chandana,2,0,null,2,0,null,null
+262,43.1,Mohammad Ashraful,Khaled Mashud,ST Jayasuriya,1,0,null,1,0,null,null
+263,43.2,Khaled Mashud,Mohammad Ashraful,ST Jayasuriya,1,0,null,1,0,null,null
+264,43.3,Mohammad Ashraful,Khaled Mashud,ST Jayasuriya,0,0,null,0,0,null,null
+265,43.4,Mohammad Ashraful,Khaled Mashud,ST Jayasuriya,0,0,null,0,0,null,null
+266,43.5,Mohammad Ashraful,Khaled Mashud,ST Jayasuriya,4,0,null,4,0,null,null
+267,43.6,Mohammad Ashraful,Khaled Mashud,ST Jayasuriya,1,0,null,1,0,null,null
+268,44.1,Mohammad Ashraful,Khaled Mashud,UDU Chandana,1,0,null,1,0,null,null
+269,44.2,Khaled Mashud,Mohammad Ashraful,UDU Chandana,2,0,null,2,0,null,null
+270,44.3,Khaled Mashud,Mohammad Ashraful,UDU Chandana,2,0,null,2,0,null,null
+271,44.4,Khaled Mashud,Mohammad Ashraful,UDU Chandana,1,0,null,1,1,Mohammad Ashraful,run out
+272,44.5,Khaled Mashud,Abdur Razzak,UDU Chandana,0,0,null,0,0,null,null
+273,44.6,Khaled Mashud,Abdur Razzak,UDU Chandana,4,0,null,4,0,null,null
+274,45.1,Abdur Razzak,Khaled Mashud,WPUJC Vaas,0,1,legbyes ,1,0,null,null
+275,45.2,Khaled Mashud,Abdur Razzak,WPUJC Vaas,1,0,null,1,0,null,null
+276,45.3,Abdur Razzak,Khaled Mashud,WPUJC Vaas,1,0,null,1,0,null,null
+277,45.4,Khaled Mashud,Abdur Razzak,WPUJC Vaas,1,0,null,1,0,null,null
+278,45.5,Abdur Razzak,Khaled Mashud,WPUJC Vaas,2,0,null,2,0,null,null
+279,45.6,Abdur Razzak,Khaled Mashud,WPUJC Vaas,1,0,null,1,0,null,null
+280,46.1,Abdur Razzak,Khaled Mashud,M Muralitharan,2,0,null,2,0,null,null
+281,46.2,Abdur Razzak,Khaled Mashud,M Muralitharan,2,0,null,2,0,null,null
+282,46.3,Abdur Razzak,Khaled Mashud,M Muralitharan,1,0,null,1,0,null,null
+283,46.4,Khaled Mashud,Abdur Razzak,M Muralitharan,2,0,null,2,0,null,null
+284,46.5,Khaled Mashud,Abdur Razzak,M Muralitharan,0,2,legbyes ,2,0,null,null
+285,46.6,Khaled Mashud,Abdur Razzak,M Muralitharan,0,0,null,0,0,null,null
+286,47.1,Abdur Razzak,Khaled Mashud,WPUJC Vaas,1,0,null,1,0,null,null
+287,47.2,Khaled Mashud,Abdur Razzak,WPUJC Vaas,0,0,null,0,1,Khaled Mashud,caught and bowled
+288,47.3,Mohammad Rafique,Abdur Razzak,WPUJC Vaas,3,0,null,3,0,null,null
+289,47.4,Abdur Razzak,Mohammad Rafique,WPUJC Vaas,0,0,null,0,1,Abdur Razzak,bowled
+290,47.5,Khaled Mahmud,Mohammad Rafique,WPUJC Vaas,1,0,null,1,0,null,null
+291,47.6,Mohammad Rafique,Khaled Mahmud,WPUJC Vaas,0,0,null,0,0,null,null
+292,48.1,Khaled Mahmud,Mohammad Rafique,SL Malinga,0,0,null,0,0,null,null
+293,48.2,Khaled Mahmud,Mohammad Rafique,SL Malinga,1,0,null,1,0,null,null
+294,48.3,Mohammad Rafique,Khaled Mahmud,SL Malinga,0,0,null,0,0,null,null
+295,48.4,Mohammad Rafique,Khaled Mahmud,SL Malinga,1,0,null,1,0,null,null
+296,48.5,Khaled Mahmud,Mohammad Rafique,SL Malinga,3,0,null,3,0,null,null
+297,48.6,Mohammad Rafique,Khaled Mahmud,SL Malinga,1,0,null,1,1,Mohammad Rafique,run out
+298,49.1,Khaled Mahmud,Tapash Baisya,WPUJC Vaas,0,0,null,0,0,null,null
+299,49.2,Khaled Mahmud,Tapash Baisya,WPUJC Vaas,1,0,null,1,0,null,null
+300,49.3,Tapash Baisya,Khaled Mahmud,WPUJC Vaas,1,0,null,1,0,null,null
+301,49.4,Khaled Mahmud,Tapash Baisya,WPUJC Vaas,1,0,null,1,0,null,null
+302,49.5,Tapash Baisya,Khaled Mahmud,WPUJC Vaas,4,0,null,4,0,null,null
+303,49.6,Tapash Baisya,Khaled Mahmud,WPUJC Vaas,1,0,null,1,0,null,null

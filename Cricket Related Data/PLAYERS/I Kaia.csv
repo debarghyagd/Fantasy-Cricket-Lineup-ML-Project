@@ -1,0 +1,31 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1310943,Harare Sports Club,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,8,10,1,0
+1,1310943,Harare Sports Club,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,5,12,0,0
+2,1310943,Harare Sports Club,Afghanistan,Fareed Ahmad,Left-arm fast-medium,"[0, 0, 1]",0,7,16,0,0
+3,1310943,Harare Sports Club,Afghanistan,Fazalhaq Farooqi,Left-arm fast-medium,"[0, 0, 1]",0,7,20,1,0
+4,1323292,Harare Sports Club,Bangladesh,Mosaddek Hossain,Right-arm offbreak,"[1, 1, 0]",1,24,22,1,1
+5,1323292,Harare Sports Club,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,19,21,4,0
+6,1323292,Harare Sports Club,Bangladesh,Shoriful Islam,Left-arm fast-medium,"[0, 0, 1]",0,22,28,2,1
+7,1323292,Harare Sports Club,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,7,5,1,0
+8,1323293,Harare Sports Club,Bangladesh,Hasan Mahmud,Right-arm medium,"[0, 1, 2]",1,6,7,1,0
+9,1323294,Harare Sports Club,Bangladesh,Hasan Mahmud,Right-arm medium,"[0, 1, 2]",0,8,14,2,0
+10,1323294,Harare Sports Club,Bangladesh,Taijul Islam,Left-arm orthodox,"[1, 0, 1]",1,0,2,0,0
+11,1323294,Harare Sports Club,Bangladesh,Ebadat Hossain,Right-arm medium,"[0, 1, 2]",0,1,7,0,0
+12,1325551,Harare Sports Club,India,Avesh Khan,Right-arm fast-medium,"[0, 1, 1]",0,1,5,0,0
+13,1325551,Harare Sports Club,India,DL Chahar,Right-arm medium,"[0, 1, 2]",1,5,4,1,0
+14,1310944,Harare Sports Club,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,17,23,2,1
+15,1310944,Harare Sports Club,Afghanistan,Fareed Ahmad,Left-arm fast-medium,"[0, 0, 1]",1,10,10,1,0
+16,1310944,Harare Sports Club,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,9,7,1,0
+17,1310944,Harare Sports Club,Afghanistan,Fazalhaq Farooqi,Left-arm fast-medium,"[0, 0, 1]",0,2,6,0,0
+18,1310945,Harare Sports Club,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",1,0,4,0,0
+19,1310945,Harare Sports Club,Afghanistan,Fareed Ahmad,Left-arm fast-medium,"[0, 0, 1]",0,4,12,0,0
+20,1310945,Harare Sports Club,Afghanistan,Fazalhaq Farooqi,Left-arm fast-medium,"[0, 0, 1]",0,12,28,2,0
+21,1317476,"Tony Ireland Stadium, Townsville",Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",1,9,12,1,0
+22,1317476,"Tony Ireland Stadium, Townsville",Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,5,16,1,0
+23,1317476,"Tony Ireland Stadium, Townsville",Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,2,8,0,0
+24,1317477,"Tony Ireland Stadium, Townsville",Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+25,1317477,"Tony Ireland Stadium, Townsville",Australia,MA Starc,Left-arm fast,"[0, 0, 0]",1,1,8,0,0
+26,1325549,Harare Sports Club,India,DL Chahar,Right-arm medium,"[0, 1, 2]",1,3,13,0,0
+27,1325549,Harare Sports Club,India,Mohammed Siraj,Right-arm fast-medium,"[0, 1, 1]",0,1,8,0,0
+28,1325550,Harare Sports Club,India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",1,10,11,2,0
+29,1325550,Harare Sports Club,India,Mohammed Siraj,Right-arm fast-medium,"[0, 1, 1]",0,6,15,0,0

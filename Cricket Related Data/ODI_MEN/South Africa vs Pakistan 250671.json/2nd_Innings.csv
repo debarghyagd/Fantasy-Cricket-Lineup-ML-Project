@@ -1,0 +1,88 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,AB de Villiers,GC Smith,Mohammad Asif,0,5,wides ,5,0,null,null
+1,0.2,AB de Villiers,GC Smith,Mohammad Asif,0,0,null,0,0,null,null
+2,0.3,AB de Villiers,GC Smith,Mohammad Asif,0,0,null,0,0,null,null
+3,0.4,AB de Villiers,GC Smith,Mohammad Asif,0,0,null,0,0,null,null
+4,0.5,AB de Villiers,GC Smith,Mohammad Asif,2,0,null,2,0,null,null
+5,0.6,AB de Villiers,GC Smith,Mohammad Asif,4,0,null,4,0,null,null
+6,0.7,AB de Villiers,GC Smith,Mohammad Asif,0,0,null,0,0,null,null
+7,1.1,GC Smith,AB de Villiers,Naved-ul-Hasan,2,0,null,2,0,null,null
+8,1.2,GC Smith,AB de Villiers,Naved-ul-Hasan,0,0,null,0,0,null,null
+9,1.3,GC Smith,AB de Villiers,Naved-ul-Hasan,0,0,null,0,0,null,null
+10,1.4,GC Smith,AB de Villiers,Naved-ul-Hasan,0,0,null,0,0,null,null
+11,1.5,GC Smith,AB de Villiers,Naved-ul-Hasan,0,1,wides ,1,0,null,null
+12,1.6,GC Smith,AB de Villiers,Naved-ul-Hasan,0,0,null,0,0,null,null
+13,1.7,GC Smith,AB de Villiers,Naved-ul-Hasan,0,0,null,0,0,null,null
+14,2.1,AB de Villiers,GC Smith,Mohammad Asif,4,0,null,4,0,null,null
+15,2.2,AB de Villiers,GC Smith,Mohammad Asif,1,0,null,1,0,null,null
+16,2.3,GC Smith,AB de Villiers,Mohammad Asif,0,0,null,0,0,null,null
+17,2.4,GC Smith,AB de Villiers,Mohammad Asif,1,0,null,1,0,null,null
+18,2.5,AB de Villiers,GC Smith,Mohammad Asif,0,0,null,0,0,null,null
+19,2.6,AB de Villiers,GC Smith,Mohammad Asif,0,0,null,0,0,null,null
+20,3.1,GC Smith,AB de Villiers,Naved-ul-Hasan,0,0,null,0,0,null,null
+21,3.2,GC Smith,AB de Villiers,Naved-ul-Hasan,1,0,null,1,0,null,null
+22,3.3,AB de Villiers,GC Smith,Naved-ul-Hasan,0,0,null,0,0,null,null
+23,3.4,AB de Villiers,GC Smith,Naved-ul-Hasan,0,0,null,0,0,null,null
+24,3.5,AB de Villiers,GC Smith,Naved-ul-Hasan,0,0,null,0,0,null,null
+25,3.6,AB de Villiers,GC Smith,Naved-ul-Hasan,4,0,null,4,0,null,null
+26,4.1,GC Smith,AB de Villiers,Mohammad Asif,0,0,null,0,0,null,null
+27,4.2,GC Smith,AB de Villiers,Mohammad Asif,0,0,null,0,0,null,null
+28,4.3,GC Smith,AB de Villiers,Mohammad Asif,1,0,null,1,0,null,null
+29,4.4,AB de Villiers,GC Smith,Mohammad Asif,0,1,wides ,1,0,null,null
+30,4.5,AB de Villiers,GC Smith,Mohammad Asif,0,0,null,0,0,null,null
+31,4.6,AB de Villiers,GC Smith,Mohammad Asif,1,0,null,1,0,null,null
+32,4.7,GC Smith,AB de Villiers,Mohammad Asif,1,0,null,1,0,null,null
+33,5.1,GC Smith,AB de Villiers,Naved-ul-Hasan,0,0,null,0,0,null,null
+34,5.2,GC Smith,AB de Villiers,Naved-ul-Hasan,1,0,null,1,0,null,null
+35,5.3,AB de Villiers,GC Smith,Naved-ul-Hasan,0,0,null,0,0,null,null
+36,5.4,AB de Villiers,GC Smith,Naved-ul-Hasan,1,0,null,1,0,null,null
+37,5.5,GC Smith,AB de Villiers,Naved-ul-Hasan,4,0,null,4,0,null,null
+38,5.6,GC Smith,AB de Villiers,Naved-ul-Hasan,3,0,null,3,0,null,null
+39,6.1,GC Smith,AB de Villiers,Mohammad Asif,0,0,null,0,0,null,null
+40,6.2,GC Smith,AB de Villiers,Mohammad Asif,0,0,null,0,0,null,null
+41,6.3,GC Smith,AB de Villiers,Mohammad Asif,0,0,null,0,0,null,null
+42,6.4,GC Smith,AB de Villiers,Mohammad Asif,1,0,null,1,0,null,null
+43,6.5,AB de Villiers,GC Smith,Mohammad Asif,4,0,null,4,0,null,null
+44,6.6,AB de Villiers,GC Smith,Mohammad Asif,0,0,null,0,0,null,null
+45,7.1,GC Smith,AB de Villiers,Azhar Mahmood,0,0,null,0,0,null,null
+46,7.2,GC Smith,AB de Villiers,Azhar Mahmood,0,0,null,0,0,null,null
+47,7.3,GC Smith,AB de Villiers,Azhar Mahmood,1,0,null,1,0,null,null
+48,7.4,AB de Villiers,GC Smith,Azhar Mahmood,1,0,null,1,0,null,null
+49,7.5,GC Smith,AB de Villiers,Azhar Mahmood,4,0,null,4,0,null,null
+50,7.6,GC Smith,AB de Villiers,Azhar Mahmood,2,0,null,2,0,null,null
+51,8.1,AB de Villiers,GC Smith,Abdul Razzaq,1,0,null,1,0,null,null
+52,8.2,GC Smith,AB de Villiers,Abdul Razzaq,0,0,null,0,0,null,null
+53,8.3,GC Smith,AB de Villiers,Abdul Razzaq,1,0,null,1,0,null,null
+54,8.4,AB de Villiers,GC Smith,Abdul Razzaq,4,0,null,4,0,null,null
+55,8.5,AB de Villiers,GC Smith,Abdul Razzaq,0,0,null,0,0,null,null
+56,8.6,AB de Villiers,GC Smith,Abdul Razzaq,0,0,null,0,0,null,null
+57,9.1,GC Smith,AB de Villiers,Azhar Mahmood,0,0,null,0,0,null,null
+58,9.2,GC Smith,AB de Villiers,Azhar Mahmood,1,0,null,1,0,null,null
+59,9.3,AB de Villiers,GC Smith,Azhar Mahmood,1,0,null,1,0,null,null
+60,9.4,GC Smith,AB de Villiers,Azhar Mahmood,1,0,null,1,0,null,null
+61,9.5,AB de Villiers,GC Smith,Azhar Mahmood,0,0,null,0,0,null,null
+62,9.6,AB de Villiers,GC Smith,Azhar Mahmood,4,0,null,4,0,null,null
+63,10.1,GC Smith,AB de Villiers,Abdur Rehman,0,0,null,0,0,null,null
+64,10.2,GC Smith,AB de Villiers,Abdur Rehman,1,0,null,1,0,null,null
+65,10.3,AB de Villiers,GC Smith,Abdur Rehman,4,0,null,4,0,null,null
+66,10.4,AB de Villiers,GC Smith,Abdur Rehman,6,0,null,6,0,null,null
+67,10.5,AB de Villiers,GC Smith,Abdur Rehman,1,0,null,1,0,null,null
+68,10.6,GC Smith,AB de Villiers,Abdur Rehman,0,0,null,0,0,null,null
+69,11.1,AB de Villiers,GC Smith,Azhar Mahmood,0,0,null,0,0,null,null
+70,11.2,AB de Villiers,GC Smith,Azhar Mahmood,0,0,null,0,0,null,null
+71,11.3,AB de Villiers,GC Smith,Azhar Mahmood,0,0,null,0,0,null,null
+72,11.4,AB de Villiers,GC Smith,Azhar Mahmood,1,0,null,1,0,null,null
+73,11.5,GC Smith,AB de Villiers,Azhar Mahmood,4,0,null,4,0,null,null
+74,11.6,GC Smith,AB de Villiers,Azhar Mahmood,4,0,null,4,0,null,null
+75,12.1,AB de Villiers,GC Smith,Abdur Rehman,1,0,null,1,0,null,null
+76,12.2,GC Smith,AB de Villiers,Abdur Rehman,0,0,null,0,0,null,null
+77,12.3,GC Smith,AB de Villiers,Abdur Rehman,1,0,null,1,0,null,null
+78,12.4,AB de Villiers,GC Smith,Abdur Rehman,3,0,null,3,0,null,null
+79,12.5,GC Smith,AB de Villiers,Abdur Rehman,4,0,null,4,0,null,null
+80,12.6,GC Smith,AB de Villiers,Abdur Rehman,6,0,null,6,0,null,null
+81,13.1,AB de Villiers,GC Smith,Abdul Razzaq,0,0,null,0,0,null,null
+82,13.2,AB de Villiers,GC Smith,Abdul Razzaq,1,0,null,1,0,null,null
+83,13.3,GC Smith,AB de Villiers,Abdul Razzaq,4,0,null,4,0,null,null
+84,13.4,GC Smith,AB de Villiers,Abdul Razzaq,1,0,null,1,0,null,null
+85,13.5,AB de Villiers,GC Smith,Abdul Razzaq,1,0,null,1,0,null,null
+86,13.6,GC Smith,AB de Villiers,Abdul Razzaq,6,0,null,6,0,null,null

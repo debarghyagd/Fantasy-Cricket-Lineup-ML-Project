@@ -1,0 +1,31 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1125472,Sharjah Cricket Stadium,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,5,7,0,0
+1,1125472,Sharjah Cricket Stadium,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,12,16,2,0
+2,1125472,Sharjah Cricket Stadium,Afghanistan,Javed Ahmadi,Right-arm offbreak,"[1, 1, 0]",0,4,3,0,0
+3,1125472,Sharjah Cricket Stadium,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,1,8,0,0
+4,1125474,Sharjah Cricket Stadium,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,1,1,0,0
+5,1168115,"Rajiv Gandhi International Cricket Stadium, Dehradun",Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,1,3,0,0
+6,1168115,"Rajiv Gandhi International Cricket Stadium, Dehradun",Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,2,5,0,0
+7,1168115,"Rajiv Gandhi International Cricket Stadium, Dehradun",Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",1,2,5,0,0
+8,1168117,"Rajiv Gandhi International Cricket Stadium, Dehradun",Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",1,0,3,0,0
+9,1168118,"Rajiv Gandhi International Cricket Stadium, Dehradun",Afghanistan,Aftab Alam,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+10,1168118,"Rajiv Gandhi International Cricket Stadium, Dehradun",Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,2,8,0,0
+11,936133,Willowmoore Park,Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+12,936133,Willowmoore Park,Australia,DJ Worrall,Right-arm fast-medium,"[0, 1, 1]",0,10,6,2,0
+13,936133,Willowmoore Park,Australia,SM Boland,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+14,1125473,Sharjah Cricket Stadium,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,2,4,0,0
+15,1125473,Sharjah Cricket Stadium,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,3,7,0,0
+16,1125473,Sharjah Cricket Stadium,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,2,5,0,0
+17,997965,"Civil Service Cricket Club, Stormont",Afghanistan,Rahmat Shah,Right-arm legbreak,"[1, 1, 1]",1,4,7,0,0
+18,997967,"Civil Service Cricket Club, Stormont",Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,8,9,0,0
+19,997967,"Civil Service Cricket Club, Stormont",Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,4,6,0,0
+20,997967,"Civil Service Cricket Club, Stormont",Afghanistan,Yamin Ahmadzai,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+21,727939,"The Village, Malahide",Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+22,727939,"The Village, Malahide",Scotland,MA Leask,Right-arm offbreak,"[1, 1, 0]",0,2,3,0,0
+23,913621,"The Village, Malahide",Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",0,7,8,0,0
+24,913621,"The Village, Malahide",Sri Lanka,S Prasanna,Right-arm legbreak,"[1, 1, 1]",0,9,16,0,0
+25,913621,"The Village, Malahide",Sri Lanka,MD Gunathilaka,Right-arm offbreak,"[1, 1, 0]",0,5,11,0,0
+26,913621,"The Village, Malahide",Sri Lanka,MD Shanaka,Right-arm medium,"[0, 1, 2]",0,13,11,2,0
+27,1131275,ICC Academy,United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",0,0,1,0,0
+28,936131,Willowmoore Park,South Africa,AM Phangiso,Left-arm orthodox,"[1, 0, 1]",0,3,4,0,0
+29,936131,Willowmoore Park,South Africa,JP Duminy,Right-arm offbreak,"[1, 1, 0]",1,1,4,0,0

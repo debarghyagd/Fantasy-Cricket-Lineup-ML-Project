@@ -1,0 +1,308 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,GC Smith,HH Dippenaar,B Lee,0,0,null,0,0,null,null
+1,0.2,GC Smith,HH Dippenaar,B Lee,0,0,null,0,1,GC Smith,lbw
+2,0.3,JA Rudolph,HH Dippenaar,B Lee,0,0,null,0,0,null,null
+3,0.4,JA Rudolph,HH Dippenaar,B Lee,0,0,null,0,0,null,null
+4,0.5,JA Rudolph,HH Dippenaar,B Lee,0,0,null,0,0,null,null
+5,0.6,JA Rudolph,HH Dippenaar,B Lee,0,0,null,0,0,null,null
+6,1.1,HH Dippenaar,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+7,1.2,HH Dippenaar,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+8,1.3,HH Dippenaar,JA Rudolph,SR Clark,3,0,null,3,0,null,null
+9,1.4,JA Rudolph,HH Dippenaar,SR Clark,0,0,null,0,0,null,null
+10,1.5,JA Rudolph,HH Dippenaar,SR Clark,0,0,null,0,0,null,null
+11,1.6,JA Rudolph,HH Dippenaar,SR Clark,0,0,null,0,0,null,null
+12,2.1,HH Dippenaar,JA Rudolph,B Lee,0,0,null,0,0,null,null
+13,2.2,HH Dippenaar,JA Rudolph,B Lee,0,0,null,0,0,null,null
+14,2.3,HH Dippenaar,JA Rudolph,B Lee,0,0,null,0,0,null,null
+15,2.4,HH Dippenaar,JA Rudolph,B Lee,0,0,null,0,0,null,null
+16,2.5,HH Dippenaar,JA Rudolph,B Lee,2,0,null,2,0,null,null
+17,2.6,HH Dippenaar,JA Rudolph,B Lee,0,0,null,0,0,null,null
+18,3.1,JA Rudolph,HH Dippenaar,SR Clark,1,0,null,1,0,null,null
+19,3.2,HH Dippenaar,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+20,3.3,HH Dippenaar,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+21,3.4,HH Dippenaar,JA Rudolph,SR Clark,2,0,null,2,0,null,null
+22,3.5,HH Dippenaar,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+23,3.6,HH Dippenaar,JA Rudolph,SR Clark,1,0,null,1,0,null,null
+24,4.1,HH Dippenaar,JA Rudolph,B Lee,0,0,null,0,0,null,null
+25,4.2,HH Dippenaar,JA Rudolph,B Lee,0,0,null,0,0,null,null
+26,4.3,HH Dippenaar,JA Rudolph,B Lee,0,0,null,0,0,null,null
+27,4.4,HH Dippenaar,JA Rudolph,B Lee,0,1,wides ,1,0,null,null
+28,4.5,HH Dippenaar,JA Rudolph,B Lee,1,0,null,1,0,null,null
+29,4.6,JA Rudolph,HH Dippenaar,B Lee,1,0,null,1,0,null,null
+30,4.7,HH Dippenaar,JA Rudolph,B Lee,0,0,null,0,0,null,null
+31,5.1,JA Rudolph,HH Dippenaar,SR Clark,0,0,null,0,0,null,null
+32,5.2,JA Rudolph,HH Dippenaar,SR Clark,0,0,null,0,0,null,null
+33,5.3,JA Rudolph,HH Dippenaar,SR Clark,1,0,null,1,0,null,null
+34,5.4,HH Dippenaar,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+35,5.5,HH Dippenaar,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+36,5.6,HH Dippenaar,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+37,6.1,JA Rudolph,HH Dippenaar,B Lee,0,0,null,0,0,null,null
+38,6.2,JA Rudolph,HH Dippenaar,B Lee,0,0,null,0,0,null,null
+39,6.3,JA Rudolph,HH Dippenaar,B Lee,0,0,null,0,0,null,null
+40,6.4,JA Rudolph,HH Dippenaar,B Lee,0,0,null,0,0,null,null
+41,6.5,JA Rudolph,HH Dippenaar,B Lee,0,0,null,0,0,null,null
+42,6.6,JA Rudolph,HH Dippenaar,B Lee,0,0,null,0,0,null,null
+43,7.1,HH Dippenaar,JA Rudolph,SR Clark,0,0,null,0,1,HH Dippenaar,caught
+44,7.2,HH Gibbs,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+45,7.3,HH Gibbs,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+46,7.4,HH Gibbs,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+47,7.5,HH Gibbs,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+48,7.6,HH Gibbs,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+49,8.1,JA Rudolph,HH Gibbs,B Lee,2,0,null,2,0,null,null
+50,8.2,JA Rudolph,HH Gibbs,B Lee,2,0,null,2,0,null,null
+51,8.3,JA Rudolph,HH Gibbs,B Lee,1,0,null,1,0,null,null
+52,8.4,HH Gibbs,JA Rudolph,B Lee,4,0,null,4,0,null,null
+53,8.5,HH Gibbs,JA Rudolph,B Lee,0,0,null,0,0,null,null
+54,8.6,HH Gibbs,JA Rudolph,B Lee,0,0,null,0,0,null,null
+55,9.1,JA Rudolph,HH Gibbs,SR Clark,2,0,null,2,0,null,null
+56,9.2,JA Rudolph,HH Gibbs,SR Clark,4,0,null,4,0,null,null
+57,9.3,JA Rudolph,HH Gibbs,SR Clark,0,0,null,0,0,null,null
+58,9.4,JA Rudolph,HH Gibbs,SR Clark,0,0,null,0,0,null,null
+59,9.5,JA Rudolph,HH Gibbs,SR Clark,2,0,null,2,0,null,null
+60,9.6,JA Rudolph,HH Gibbs,SR Clark,0,0,null,0,0,null,null
+61,10.1,HH Gibbs,JA Rudolph,BR Dorey,4,0,null,4,0,null,null
+62,10.2,HH Gibbs,JA Rudolph,BR Dorey,0,0,null,0,0,null,null
+63,10.3,HH Gibbs,JA Rudolph,BR Dorey,0,0,null,0,0,null,null
+64,10.4,HH Gibbs,JA Rudolph,BR Dorey,2,0,null,2,0,null,null
+65,10.5,HH Gibbs,JA Rudolph,BR Dorey,4,0,null,4,0,null,null
+66,10.6,HH Gibbs,JA Rudolph,BR Dorey,1,0,null,1,0,null,null
+67,11.1,HH Gibbs,JA Rudolph,SR Clark,1,0,null,1,0,null,null
+68,11.2,JA Rudolph,HH Gibbs,SR Clark,0,0,null,0,0,null,null
+69,11.3,JA Rudolph,HH Gibbs,SR Clark,0,0,null,0,0,null,null
+70,11.4,JA Rudolph,HH Gibbs,SR Clark,0,0,null,0,0,null,null
+71,11.5,JA Rudolph,HH Gibbs,SR Clark,1,0,null,1,0,null,null
+72,11.6,HH Gibbs,JA Rudolph,SR Clark,0,0,null,0,0,null,null
+73,12.1,JA Rudolph,HH Gibbs,BR Dorey,0,0,null,0,0,null,null
+74,12.2,JA Rudolph,HH Gibbs,BR Dorey,2,0,null,2,0,null,null
+75,12.3,JA Rudolph,HH Gibbs,BR Dorey,0,0,null,0,0,null,null
+76,12.4,JA Rudolph,HH Gibbs,BR Dorey,0,0,null,0,0,null,null
+77,12.5,JA Rudolph,HH Gibbs,BR Dorey,0,0,null,0,0,null,null
+78,12.6,JA Rudolph,HH Gibbs,BR Dorey,0,0,null,0,0,null,null
+79,13.1,HH Gibbs,JA Rudolph,JR Hopes,0,0,null,0,0,null,null
+80,13.2,HH Gibbs,JA Rudolph,JR Hopes,0,0,null,0,0,null,null
+81,13.3,HH Gibbs,JA Rudolph,JR Hopes,3,0,null,3,0,null,null
+82,13.4,JA Rudolph,HH Gibbs,JR Hopes,0,0,null,0,0,null,null
+83,13.5,JA Rudolph,HH Gibbs,JR Hopes,0,0,null,0,1,JA Rudolph,run out
+84,13.6,J Botha,HH Gibbs,JR Hopes,0,0,null,0,0,null,null
+85,14.1,HH Gibbs,J Botha,BR Dorey,0,0,null,0,0,null,null
+86,14.2,HH Gibbs,J Botha,BR Dorey,4,0,null,4,0,null,null
+87,14.3,HH Gibbs,J Botha,BR Dorey,1,0,null,1,0,null,null
+88,14.4,J Botha,HH Gibbs,BR Dorey,0,0,null,0,0,null,null
+89,14.5,J Botha,HH Gibbs,BR Dorey,0,0,null,0,0,null,null
+90,14.6,J Botha,HH Gibbs,BR Dorey,0,0,null,0,0,null,null
+91,15.1,HH Gibbs,J Botha,JR Hopes,2,0,null,2,0,null,null
+92,15.2,HH Gibbs,J Botha,JR Hopes,0,0,null,0,0,null,null
+93,15.3,HH Gibbs,J Botha,JR Hopes,0,0,null,0,0,null,null
+94,15.4,HH Gibbs,J Botha,JR Hopes,0,0,null,0,0,null,null
+95,15.5,HH Gibbs,J Botha,JR Hopes,0,0,null,0,0,null,null
+96,15.6,HH Gibbs,J Botha,JR Hopes,1,0,null,1,0,null,null
+97,16.1,HH Gibbs,J Botha,BR Dorey,0,0,null,0,0,null,null
+98,16.2,HH Gibbs,J Botha,BR Dorey,1,0,null,1,0,null,null
+99,16.3,J Botha,HH Gibbs,BR Dorey,0,0,null,0,0,null,null
+100,16.4,J Botha,HH Gibbs,BR Dorey,1,0,null,1,0,null,null
+101,16.5,HH Gibbs,J Botha,BR Dorey,0,0,null,0,0,null,null
+102,16.6,HH Gibbs,J Botha,BR Dorey,0,0,null,0,0,null,null
+103,17.1,J Botha,HH Gibbs,JR Hopes,1,0,null,1,0,null,null
+104,17.2,HH Gibbs,J Botha,JR Hopes,0,0,null,0,0,null,null
+105,17.3,HH Gibbs,J Botha,JR Hopes,0,0,null,0,0,null,null
+106,17.4,HH Gibbs,J Botha,JR Hopes,0,0,null,0,0,null,null
+107,17.5,HH Gibbs,J Botha,JR Hopes,4,0,null,4,0,null,null
+108,17.6,HH Gibbs,J Botha,JR Hopes,0,0,null,0,0,null,null
+109,18.1,J Botha,HH Gibbs,B Lee,2,0,null,2,0,null,null
+110,18.2,J Botha,HH Gibbs,B Lee,1,0,null,1,0,null,null
+111,18.3,HH Gibbs,J Botha,B Lee,1,0,null,1,0,null,null
+112,18.4,J Botha,HH Gibbs,B Lee,2,0,null,2,0,null,null
+113,18.5,J Botha,HH Gibbs,B Lee,0,0,null,0,0,null,null
+114,18.6,J Botha,HH Gibbs,B Lee,0,0,null,0,0,null,null
+115,19.1,HH Gibbs,J Botha,JR Hopes,0,0,null,0,0,null,null
+116,19.2,HH Gibbs,J Botha,JR Hopes,0,0,null,0,1,HH Gibbs,bowled
+117,19.3,AG Prince,J Botha,JR Hopes,0,0,null,0,0,null,null
+118,19.4,AG Prince,J Botha,JR Hopes,0,0,null,0,0,null,null
+119,19.5,AG Prince,J Botha,JR Hopes,2,0,null,2,0,null,null
+120,19.6,AG Prince,J Botha,JR Hopes,0,0,null,0,0,null,null
+121,20.1,J Botha,AG Prince,B Lee,0,0,null,0,0,null,null
+122,20.2,J Botha,AG Prince,B Lee,1,1,noballs ,2,0,null,null
+123,20.3,AG Prince,J Botha,B Lee,0,0,null,0,0,null,null
+124,20.4,AG Prince,J Botha,B Lee,0,0,null,0,0,null,null
+125,20.5,AG Prince,J Botha,B Lee,0,0,null,0,0,null,null
+126,20.6,AG Prince,J Botha,B Lee,1,0,null,1,0,null,null
+127,20.7,J Botha,AG Prince,B Lee,1,0,null,1,0,null,null
+128,21.1,J Botha,AG Prince,JR Hopes,1,0,null,1,0,null,null
+129,21.2,AG Prince,J Botha,JR Hopes,2,0,null,2,0,null,null
+130,21.3,AG Prince,J Botha,JR Hopes,0,0,null,0,0,null,null
+131,21.4,AG Prince,J Botha,JR Hopes,0,0,null,0,0,null,null
+132,21.5,AG Prince,J Botha,JR Hopes,0,0,null,0,0,null,null
+133,21.6,AG Prince,J Botha,JR Hopes,0,0,null,0,0,null,null
+134,22.1,J Botha,AG Prince,GB Hogg,0,0,null,0,0,null,null
+135,22.2,J Botha,AG Prince,GB Hogg,4,0,null,4,0,null,null
+136,22.3,J Botha,AG Prince,GB Hogg,0,0,null,0,0,null,null
+137,22.4,J Botha,AG Prince,GB Hogg,0,0,null,0,0,null,null
+138,22.5,J Botha,AG Prince,GB Hogg,1,0,null,1,0,null,null
+139,22.6,AG Prince,J Botha,GB Hogg,2,0,null,2,0,null,null
+140,23.1,J Botha,AG Prince,JR Hopes,0,0,null,0,0,null,null
+141,23.2,J Botha,AG Prince,JR Hopes,0,0,null,0,0,null,null
+142,23.3,J Botha,AG Prince,JR Hopes,0,0,null,0,0,null,null
+143,23.4,J Botha,AG Prince,JR Hopes,0,0,null,0,0,null,null
+144,23.5,J Botha,AG Prince,JR Hopes,0,0,null,0,0,null,null
+145,23.6,J Botha,AG Prince,JR Hopes,0,0,null,0,0,null,null
+146,24.1,AG Prince,J Botha,GB Hogg,0,0,null,0,0,null,null
+147,24.2,AG Prince,J Botha,GB Hogg,0,0,null,0,0,null,null
+148,24.3,AG Prince,J Botha,GB Hogg,2,0,null,2,0,null,null
+149,24.4,AG Prince,J Botha,GB Hogg,1,0,null,1,0,null,null
+150,24.5,J Botha,AG Prince,GB Hogg,4,0,null,4,0,null,null
+151,24.6,J Botha,AG Prince,GB Hogg,0,0,null,0,0,null,null
+152,25.1,AG Prince,J Botha,BR Dorey,0,0,null,0,0,null,null
+153,25.2,AG Prince,J Botha,BR Dorey,0,0,null,0,0,null,null
+154,25.3,AG Prince,J Botha,BR Dorey,4,0,null,4,0,null,null
+155,25.4,AG Prince,J Botha,BR Dorey,0,0,null,0,0,null,null
+156,25.5,AG Prince,J Botha,BR Dorey,0,0,null,0,0,null,null
+157,25.6,AG Prince,J Botha,BR Dorey,1,0,null,1,0,null,null
+158,26.1,AG Prince,J Botha,GB Hogg,1,0,null,1,0,null,null
+159,26.2,J Botha,AG Prince,GB Hogg,1,0,null,1,0,null,null
+160,26.3,AG Prince,J Botha,GB Hogg,0,0,null,0,0,null,null
+161,26.4,AG Prince,J Botha,GB Hogg,0,0,null,0,0,null,null
+162,26.5,AG Prince,J Botha,GB Hogg,1,0,null,1,0,null,null
+163,26.6,J Botha,AG Prince,GB Hogg,1,0,null,1,0,null,null
+164,27.1,J Botha,AG Prince,BR Dorey,0,0,null,0,0,null,null
+165,27.2,J Botha,AG Prince,BR Dorey,0,0,null,0,0,null,null
+166,27.3,J Botha,AG Prince,BR Dorey,3,0,null,3,0,null,null
+167,27.4,AG Prince,J Botha,BR Dorey,0,0,null,0,0,null,null
+168,27.5,AG Prince,J Botha,BR Dorey,4,0,null,4,0,null,null
+169,27.6,AG Prince,J Botha,BR Dorey,0,0,null,0,0,null,null
+170,28.1,J Botha,AG Prince,GB Hogg,0,0,null,0,0,null,null
+171,28.2,J Botha,AG Prince,GB Hogg,0,0,null,0,0,null,null
+172,28.3,J Botha,AG Prince,GB Hogg,0,1,wides ,1,0,null,null
+173,28.4,J Botha,AG Prince,GB Hogg,1,0,null,1,0,null,null
+174,28.5,AG Prince,J Botha,GB Hogg,1,0,null,1,0,null,null
+175,28.6,J Botha,AG Prince,GB Hogg,0,0,null,0,0,null,null
+176,28.7,J Botha,AG Prince,GB Hogg,1,0,null,1,0,null,null
+177,29.1,J Botha,AG Prince,BR Dorey,0,0,null,0,0,null,null
+178,29.2,J Botha,AG Prince,BR Dorey,0,0,null,0,0,null,null
+179,29.3,J Botha,AG Prince,BR Dorey,1,0,null,1,0,null,null
+180,29.4,AG Prince,J Botha,BR Dorey,0,0,null,0,0,null,null
+181,29.5,AG Prince,J Botha,BR Dorey,0,0,null,0,0,null,null
+182,29.6,AG Prince,J Botha,BR Dorey,0,0,null,0,0,null,null
+183,30.1,J Botha,AG Prince,A Symonds,1,0,null,1,0,null,null
+184,30.2,AG Prince,J Botha,A Symonds,1,0,null,1,0,null,null
+185,30.3,J Botha,AG Prince,A Symonds,1,0,null,1,0,null,null
+186,30.4,AG Prince,J Botha,A Symonds,0,0,null,0,0,null,null
+187,30.5,AG Prince,J Botha,A Symonds,0,0,null,0,0,null,null
+188,30.6,AG Prince,J Botha,A Symonds,1,0,null,1,1,AG Prince,run out
+189,31.1,J Botha,JM Kemp,BR Dorey,0,0,null,0,0,null,null
+190,31.2,J Botha,JM Kemp,BR Dorey,3,0,null,3,0,null,null
+191,31.3,JM Kemp,J Botha,BR Dorey,0,0,null,0,0,null,null
+192,31.4,JM Kemp,J Botha,BR Dorey,0,0,null,0,0,null,null
+193,31.5,JM Kemp,J Botha,BR Dorey,0,0,null,0,0,null,null
+194,31.6,JM Kemp,J Botha,BR Dorey,0,0,null,0,0,null,null
+195,32.1,J Botha,JM Kemp,A Symonds,0,0,null,0,0,null,null
+196,32.2,J Botha,JM Kemp,A Symonds,1,0,null,1,0,null,null
+197,32.3,JM Kemp,J Botha,A Symonds,0,0,null,0,0,null,null
+198,32.4,JM Kemp,J Botha,A Symonds,2,0,null,2,0,null,null
+199,32.5,JM Kemp,J Botha,A Symonds,1,0,null,1,0,null,null
+200,32.6,J Botha,JM Kemp,A Symonds,4,0,null,4,0,null,null
+201,33.1,JM Kemp,J Botha,BR Dorey,1,0,null,1,0,null,null
+202,33.2,J Botha,JM Kemp,BR Dorey,1,0,null,1,0,null,null
+203,33.3,JM Kemp,J Botha,BR Dorey,0,1,wides ,1,0,null,null
+204,33.4,JM Kemp,J Botha,BR Dorey,0,0,null,0,0,null,null
+205,33.5,JM Kemp,J Botha,BR Dorey,0,0,null,0,0,null,null
+206,33.6,JM Kemp,J Botha,BR Dorey,0,0,null,0,0,null,null
+207,33.7,JM Kemp,J Botha,BR Dorey,1,0,null,1,0,null,null
+208,34.1,JM Kemp,J Botha,A Symonds,0,0,null,0,0,null,null
+209,34.2,JM Kemp,J Botha,A Symonds,0,0,null,0,0,null,null
+210,34.3,JM Kemp,J Botha,A Symonds,0,0,null,0,0,null,null
+211,34.4,JM Kemp,J Botha,A Symonds,0,0,null,0,0,null,null
+212,34.5,JM Kemp,J Botha,A Symonds,0,0,null,0,0,null,null
+213,34.6,JM Kemp,J Botha,A Symonds,1,0,null,1,0,null,null
+214,35.1,JM Kemp,J Botha,BR Dorey,1,0,null,1,0,null,null
+215,35.2,J Botha,JM Kemp,BR Dorey,0,1,wides ,1,0,null,null
+216,35.3,J Botha,JM Kemp,BR Dorey,0,0,null,0,0,null,null
+217,35.4,J Botha,JM Kemp,BR Dorey,4,0,null,4,0,null,null
+218,35.5,J Botha,JM Kemp,BR Dorey,1,0,null,1,0,null,null
+219,35.6,JM Kemp,J Botha,BR Dorey,0,0,null,0,0,null,null
+220,35.7,JM Kemp,J Botha,BR Dorey,1,0,null,1,0,null,null
+221,36.1,JM Kemp,J Botha,A Symonds,1,0,null,1,0,null,null
+222,36.2,J Botha,JM Kemp,A Symonds,1,0,null,1,0,null,null
+223,36.3,JM Kemp,J Botha,A Symonds,1,0,null,1,0,null,null
+224,36.4,J Botha,JM Kemp,A Symonds,0,0,null,0,0,null,null
+225,36.5,J Botha,JM Kemp,A Symonds,1,0,null,1,0,null,null
+226,36.6,JM Kemp,J Botha,A Symonds,1,0,null,1,0,null,null
+227,37.1,JM Kemp,J Botha,SR Clark,2,0,null,2,0,null,null
+228,37.2,JM Kemp,J Botha,SR Clark,2,0,null,2,0,null,null
+229,37.3,JM Kemp,J Botha,SR Clark,0,0,null,0,0,null,null
+230,37.4,JM Kemp,J Botha,SR Clark,4,0,null,4,0,null,null
+231,37.5,JM Kemp,J Botha,SR Clark,1,0,null,1,0,null,null
+232,37.6,J Botha,JM Kemp,SR Clark,0,0,null,0,0,null,null
+233,38.1,JM Kemp,J Botha,B Lee,0,0,null,0,1,JM Kemp,caught
+234,38.2,J Botha,MV Boucher,B Lee,0,0,null,0,0,null,null
+235,38.3,J Botha,MV Boucher,B Lee,1,0,null,1,0,null,null
+236,38.4,MV Boucher,J Botha,B Lee,0,0,null,0,1,MV Boucher,caught
+237,38.5,J Botha,SM Pollock,B Lee,0,0,null,0,0,null,null
+238,38.6,J Botha,SM Pollock,B Lee,0,0,null,0,1,J Botha,caught
+239,39.1,SM Pollock,AJ Hall,SR Clark,4,0,null,4,0,null,null
+240,39.2,SM Pollock,AJ Hall,SR Clark,1,0,null,1,0,null,null
+241,39.3,AJ Hall,SM Pollock,SR Clark,0,0,null,0,0,null,null
+242,39.4,AJ Hall,SM Pollock,SR Clark,1,0,null,1,0,null,null
+243,39.5,SM Pollock,AJ Hall,SR Clark,1,0,null,1,0,null,null
+244,39.6,AJ Hall,SM Pollock,SR Clark,0,0,null,0,0,null,null
+245,40.1,SM Pollock,AJ Hall,B Lee,0,0,null,0,0,null,null
+246,40.2,SM Pollock,AJ Hall,B Lee,0,0,null,0,0,null,null
+247,40.3,SM Pollock,AJ Hall,B Lee,3,0,null,3,0,null,null
+248,40.4,AJ Hall,SM Pollock,B Lee,0,0,null,0,0,null,null
+249,40.5,AJ Hall,SM Pollock,B Lee,1,0,null,1,0,null,null
+250,40.6,SM Pollock,AJ Hall,B Lee,0,0,null,0,0,null,null
+251,41.1,AJ Hall,SM Pollock,A Symonds,0,0,null,0,0,null,null
+252,41.2,AJ Hall,SM Pollock,A Symonds,0,0,null,0,0,null,null
+253,41.3,AJ Hall,SM Pollock,A Symonds,0,0,null,0,0,null,null
+254,41.4,AJ Hall,SM Pollock,A Symonds,1,0,null,1,0,null,null
+255,41.5,SM Pollock,AJ Hall,A Symonds,0,0,null,0,0,null,null
+256,41.6,SM Pollock,AJ Hall,A Symonds,0,0,null,0,0,null,null
+257,42.1,AJ Hall,SM Pollock,GB Hogg,0,0,null,0,0,null,null
+258,42.2,AJ Hall,SM Pollock,GB Hogg,0,0,null,0,0,null,null
+259,42.3,AJ Hall,SM Pollock,GB Hogg,1,0,null,1,0,null,null
+260,42.4,SM Pollock,AJ Hall,GB Hogg,1,0,null,1,0,null,null
+261,42.5,AJ Hall,SM Pollock,GB Hogg,1,0,null,1,0,null,null
+262,42.6,SM Pollock,AJ Hall,GB Hogg,0,0,null,0,0,null,null
+263,43.1,AJ Hall,SM Pollock,A Symonds,1,0,null,1,0,null,null
+264,43.2,SM Pollock,AJ Hall,A Symonds,1,0,null,1,0,null,null
+265,43.3,AJ Hall,SM Pollock,A Symonds,1,0,null,1,0,null,null
+266,43.4,SM Pollock,AJ Hall,A Symonds,2,0,null,2,0,null,null
+267,43.5,SM Pollock,AJ Hall,A Symonds,0,1,wides ,1,0,null,null
+268,43.6,SM Pollock,AJ Hall,A Symonds,1,0,null,1,0,null,null
+269,43.7,AJ Hall,SM Pollock,A Symonds,0,0,null,0,0,null,null
+270,44.1,SM Pollock,AJ Hall,GB Hogg,1,0,null,1,0,null,null
+271,44.2,AJ Hall,SM Pollock,GB Hogg,0,0,null,0,0,null,null
+272,44.3,AJ Hall,SM Pollock,GB Hogg,3,0,null,3,0,null,null
+273,44.4,SM Pollock,AJ Hall,GB Hogg,1,0,null,1,0,null,null
+274,44.5,AJ Hall,SM Pollock,GB Hogg,0,0,null,0,0,null,null
+275,44.6,AJ Hall,SM Pollock,GB Hogg,0,0,null,0,0,null,null
+276,45.1,SM Pollock,AJ Hall,A Symonds,0,0,null,0,1,SM Pollock,caught
+277,45.2,AJ Hall,JJ van der Wath,A Symonds,2,0,null,2,0,null,null
+278,45.3,AJ Hall,JJ van der Wath,A Symonds,1,0,null,1,0,null,null
+279,45.4,JJ van der Wath,AJ Hall,A Symonds,0,0,null,0,0,null,null
+280,45.5,JJ van der Wath,AJ Hall,A Symonds,0,0,null,0,0,null,null
+281,45.6,JJ van der Wath,AJ Hall,A Symonds,0,0,null,0,0,null,null
+282,46.1,AJ Hall,JJ van der Wath,B Lee,1,0,null,1,0,null,null
+283,46.2,JJ van der Wath,AJ Hall,B Lee,0,0,null,0,0,null,null
+284,46.3,JJ van der Wath,AJ Hall,B Lee,0,0,null,0,0,null,null
+285,46.4,JJ van der Wath,AJ Hall,B Lee,0,0,null,0,0,null,null
+286,46.5,JJ van der Wath,AJ Hall,B Lee,0,0,null,0,0,null,null
+287,46.6,JJ van der Wath,AJ Hall,B Lee,0,0,null,0,0,null,null
+288,47.1,AJ Hall,JJ van der Wath,A Symonds,1,0,null,1,0,null,null
+289,47.2,JJ van der Wath,AJ Hall,A Symonds,0,0,null,0,0,null,null
+290,47.3,JJ van der Wath,AJ Hall,A Symonds,6,0,null,6,0,null,null
+291,47.4,JJ van der Wath,AJ Hall,A Symonds,1,0,null,1,0,null,null
+292,47.5,AJ Hall,JJ van der Wath,A Symonds,0,0,null,0,0,null,null
+293,47.6,AJ Hall,JJ van der Wath,A Symonds,1,0,null,1,0,null,null
+294,48.1,AJ Hall,JJ van der Wath,GB Hogg,0,1,wides ,1,0,null,null
+295,48.2,AJ Hall,JJ van der Wath,GB Hogg,0,0,null,0,0,null,null
+296,48.3,AJ Hall,JJ van der Wath,GB Hogg,0,0,null,0,0,null,null
+297,48.4,AJ Hall,JJ van der Wath,GB Hogg,0,0,null,0,0,null,null
+298,48.5,AJ Hall,JJ van der Wath,GB Hogg,0,0,null,0,0,null,null
+299,48.6,AJ Hall,JJ van der Wath,GB Hogg,0,0,null,0,0,null,null
+300,48.7,AJ Hall,JJ van der Wath,GB Hogg,1,0,null,1,0,null,null
+301,49.1,AJ Hall,JJ van der Wath,A Symonds,0,0,null,0,0,null,null
+302,49.2,AJ Hall,JJ van der Wath,A Symonds,1,0,null,1,0,null,null
+303,49.3,JJ van der Wath,AJ Hall,A Symonds,0,0,null,0,0,null,null
+304,49.4,JJ van der Wath,AJ Hall,A Symonds,1,0,null,1,0,null,null
+305,49.5,AJ Hall,JJ van der Wath,A Symonds,1,0,null,1,0,null,null
+306,49.6,JJ van der Wath,AJ Hall,A Symonds,0,0,null,0,0,null,null

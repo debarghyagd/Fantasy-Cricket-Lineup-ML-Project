@@ -1,0 +1,6 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1317911,"Kensington Oval, Bridgetown, Barbados",New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,2,6,0,0
+1,1317911,"Kensington Oval, Bridgetown, Barbados",New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+2,1317911,"Kensington Oval, Bridgetown, Barbados",New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,9,10,1,0
+3,915779,R Premadasa Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,4,6,1,0
+4,915781,Pallekele International Cricket Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,1,7,0,0

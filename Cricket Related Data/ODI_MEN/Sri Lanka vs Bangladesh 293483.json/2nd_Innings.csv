@@ -1,0 +1,239 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Javed Omar,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+1,0.2,Javed Omar,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+2,0.3,Javed Omar,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+3,0.4,Javed Omar,Tamim Iqbal,MF Maharoof,0,0,null,0,1,Javed Omar,caught
+4,0.5,Mushfiqur Rahim,Tamim Iqbal,MF Maharoof,0,1,wides ,1,0,null,null
+5,0.6,Mushfiqur Rahim,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+6,0.7,Mushfiqur Rahim,Tamim Iqbal,MF Maharoof,0,1,wides ,1,0,null,null
+7,0.8,Mushfiqur Rahim,Tamim Iqbal,MF Maharoof,0,1,wides ,1,0,null,null
+8,0.9,Mushfiqur Rahim,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+9,1.1,Tamim Iqbal,Mushfiqur Rahim,CRD Fernando,0,0,null,0,0,null,null
+10,1.2,Tamim Iqbal,Mushfiqur Rahim,CRD Fernando,0,0,null,0,0,null,null
+11,1.3,Tamim Iqbal,Mushfiqur Rahim,CRD Fernando,0,1,wides ,1,0,null,null
+12,1.4,Tamim Iqbal,Mushfiqur Rahim,CRD Fernando,0,0,null,0,0,null,null
+13,1.5,Tamim Iqbal,Mushfiqur Rahim,CRD Fernando,0,0,null,0,0,null,null
+14,1.6,Tamim Iqbal,Mushfiqur Rahim,CRD Fernando,0,5,wides ,5,0,null,null
+15,1.7,Tamim Iqbal,Mushfiqur Rahim,CRD Fernando,0,0,null,0,0,null,null
+16,1.8,Tamim Iqbal,Mushfiqur Rahim,CRD Fernando,0,0,null,0,0,null,null
+17,2.1,Mushfiqur Rahim,Tamim Iqbal,MF Maharoof,0,1,wides ,1,0,null,null
+18,2.2,Mushfiqur Rahim,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+19,2.3,Mushfiqur Rahim,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+20,2.4,Mushfiqur Rahim,Tamim Iqbal,MF Maharoof,0,1,wides ,1,0,null,null
+21,2.5,Mushfiqur Rahim,Tamim Iqbal,MF Maharoof,0,0,null,0,1,Mushfiqur Rahim,caught
+22,2.6,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+23,2.7,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,1,0,null,1,0,null,null
+24,2.8,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+25,3.1,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,1,wides ,1,0,null,null
+26,3.2,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,2,0,null,2,0,null,null
+27,3.3,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+28,3.4,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+29,3.5,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+30,3.6,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+31,3.7,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+32,4.1,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,1,0,null,1,0,null,null
+33,4.2,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,0,2,wides ,2,0,null,null
+34,4.3,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,1,0,null,1,0,null,null
+35,4.4,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+36,4.5,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,4,0,null,4,0,null,null
+37,4.6,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+38,4.7,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,1,0,null,1,0,null,null
+39,5.1,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+40,5.2,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+41,5.3,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,2,0,null,2,0,null,null
+42,5.4,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,2,0,null,2,0,null,null
+43,5.5,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+44,5.6,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+45,6.1,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+46,6.2,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,4,0,null,4,0,null,null
+47,6.3,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+48,6.4,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+49,6.5,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,6,0,null,6,0,null,null
+50,6.6,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+51,7.1,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+52,7.2,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+53,7.3,Mohammad Ashraful,Tamim Iqbal,CRD Fernando,1,0,null,1,0,null,null
+54,7.4,Tamim Iqbal,Mohammad Ashraful,CRD Fernando,2,0,null,2,0,null,null
+55,7.5,Tamim Iqbal,Mohammad Ashraful,CRD Fernando,0,0,null,0,0,null,null
+56,7.6,Tamim Iqbal,Mohammad Ashraful,CRD Fernando,0,1,wides ,1,0,null,null
+57,7.7,Tamim Iqbal,Mohammad Ashraful,CRD Fernando,4,0,null,4,0,null,null
+58,8.1,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+59,8.2,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+60,8.3,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+61,8.4,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+62,8.5,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,4,0,null,4,0,null,null
+63,8.6,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,1,0,null,1,0,null,null
+64,9.1,Mohammad Ashraful,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+65,9.2,Mohammad Ashraful,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+66,9.3,Mohammad Ashraful,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+67,9.4,Mohammad Ashraful,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+68,9.5,Mohammad Ashraful,Tamim Iqbal,KMDN Kulasekara,1,0,null,1,0,null,null
+69,9.6,Tamim Iqbal,Mohammad Ashraful,KMDN Kulasekara,0,0,null,0,0,null,null
+70,10.1,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+71,10.2,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+72,10.3,Mohammad Ashraful,Tamim Iqbal,MF Maharoof,1,0,null,1,0,null,null
+73,10.4,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+74,10.5,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+75,10.6,Tamim Iqbal,Mohammad Ashraful,MF Maharoof,0,0,null,0,0,null,null
+76,11.1,Mohammad Ashraful,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+77,11.2,Mohammad Ashraful,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+78,11.3,Mohammad Ashraful,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+79,11.4,Mohammad Ashraful,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,1,Mohammad Ashraful,lbw
+80,11.5,Shakib Al Hasan,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+81,11.6,Shakib Al Hasan,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+82,12.1,Tamim Iqbal,Shakib Al Hasan,CRD Fernando,4,0,null,4,0,null,null
+83,12.2,Tamim Iqbal,Shakib Al Hasan,CRD Fernando,1,0,null,1,0,null,null
+84,12.3,Shakib Al Hasan,Tamim Iqbal,CRD Fernando,0,1,wides ,1,0,null,null
+85,12.4,Shakib Al Hasan,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+86,12.5,Shakib Al Hasan,Tamim Iqbal,CRD Fernando,2,0,null,2,0,null,null
+87,12.6,Shakib Al Hasan,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+88,12.7,Shakib Al Hasan,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+89,13.1,Tamim Iqbal,Shakib Al Hasan,KMDN Kulasekara,1,0,null,1,0,null,null
+90,13.2,Shakib Al Hasan,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+91,13.3,Shakib Al Hasan,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+92,13.4,Shakib Al Hasan,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+93,13.5,Shakib Al Hasan,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+94,13.6,Shakib Al Hasan,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+95,14.1,Tamim Iqbal,Shakib Al Hasan,CRD Fernando,1,0,null,1,0,null,null
+96,14.2,Shakib Al Hasan,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+97,14.3,Shakib Al Hasan,Tamim Iqbal,CRD Fernando,0,0,null,0,1,Shakib Al Hasan,caught
+98,14.4,Aftab Ahmed,Tamim Iqbal,CRD Fernando,0,1,wides ,1,0,null,null
+99,14.5,Aftab Ahmed,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+100,14.6,Aftab Ahmed,Tamim Iqbal,CRD Fernando,0,0,null,0,0,null,null
+101,14.7,Aftab Ahmed,Tamim Iqbal,CRD Fernando,1,0,null,1,0,null,null
+102,15.1,Aftab Ahmed,Tamim Iqbal,KMDN Kulasekara,1,0,null,1,0,null,null
+103,15.2,Tamim Iqbal,Aftab Ahmed,KMDN Kulasekara,1,0,null,1,0,null,null
+104,15.3,Aftab Ahmed,Tamim Iqbal,KMDN Kulasekara,0,1,legbyes ,1,0,null,null
+105,15.4,Tamim Iqbal,Aftab Ahmed,KMDN Kulasekara,0,0,null,0,0,null,null
+106,15.5,Tamim Iqbal,Aftab Ahmed,KMDN Kulasekara,0,0,null,0,0,null,null
+107,15.6,Tamim Iqbal,Aftab Ahmed,KMDN Kulasekara,0,0,null,0,0,null,null
+108,16.1,Aftab Ahmed,Tamim Iqbal,UDU Chandana,0,0,null,0,0,null,null
+109,16.2,Aftab Ahmed,Tamim Iqbal,UDU Chandana,0,0,null,0,0,null,null
+110,16.3,Aftab Ahmed,Tamim Iqbal,UDU Chandana,1,0,null,1,0,null,null
+111,16.4,Tamim Iqbal,Aftab Ahmed,UDU Chandana,0,0,null,0,0,null,null
+112,16.5,Tamim Iqbal,Aftab Ahmed,UDU Chandana,0,0,null,0,0,null,null
+113,16.6,Tamim Iqbal,Aftab Ahmed,UDU Chandana,0,0,null,0,0,null,null
+114,17.1,Aftab Ahmed,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+115,17.2,Aftab Ahmed,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,1,Aftab Ahmed,caught
+116,17.3,Mahmudullah,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+117,17.4,Mahmudullah,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+118,17.5,Mahmudullah,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+119,17.6,Mahmudullah,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+120,18.1,Tamim Iqbal,Mahmudullah,UDU Chandana,0,0,null,0,0,null,null
+121,18.2,Tamim Iqbal,Mahmudullah,UDU Chandana,1,0,null,1,0,null,null
+122,18.3,Mahmudullah,Tamim Iqbal,UDU Chandana,0,0,null,0,0,null,null
+123,18.4,Mahmudullah,Tamim Iqbal,UDU Chandana,1,0,null,1,0,null,null
+124,18.5,Tamim Iqbal,Mahmudullah,UDU Chandana,0,0,null,0,0,null,null
+125,18.6,Tamim Iqbal,Mahmudullah,UDU Chandana,2,0,null,2,0,null,null
+126,19.1,Mahmudullah,Tamim Iqbal,KMDN Kulasekara,1,0,null,1,0,null,null
+127,19.2,Tamim Iqbal,Mahmudullah,KMDN Kulasekara,0,0,null,0,0,null,null
+128,19.3,Tamim Iqbal,Mahmudullah,KMDN Kulasekara,2,0,null,2,0,null,null
+129,19.4,Tamim Iqbal,Mahmudullah,KMDN Kulasekara,0,0,null,0,0,null,null
+130,19.5,Tamim Iqbal,Mahmudullah,KMDN Kulasekara,1,0,null,1,0,null,null
+131,19.6,Mahmudullah,Tamim Iqbal,KMDN Kulasekara,0,1,wides ,1,0,null,null
+132,19.7,Mahmudullah,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+133,20.1,Tamim Iqbal,Mahmudullah,UDU Chandana,0,0,null,0,0,null,null
+134,20.2,Tamim Iqbal,Mahmudullah,UDU Chandana,1,0,null,1,0,null,null
+135,20.3,Mahmudullah,Tamim Iqbal,UDU Chandana,1,0,null,1,0,null,null
+136,20.4,Tamim Iqbal,Mahmudullah,UDU Chandana,1,0,null,1,0,null,null
+137,20.5,Mahmudullah,Tamim Iqbal,UDU Chandana,0,0,null,0,0,null,null
+138,20.6,Mahmudullah,Tamim Iqbal,UDU Chandana,0,0,null,0,0,null,null
+139,21.1,Tamim Iqbal,Mahmudullah,TM Dilshan,1,0,null,1,0,null,null
+140,21.2,Mahmudullah,Tamim Iqbal,TM Dilshan,2,0,null,2,0,null,null
+141,21.3,Mahmudullah,Tamim Iqbal,TM Dilshan,0,0,null,0,0,null,null
+142,21.4,Mahmudullah,Tamim Iqbal,TM Dilshan,1,0,null,1,0,null,null
+143,21.5,Tamim Iqbal,Mahmudullah,TM Dilshan,0,0,null,0,0,null,null
+144,21.6,Tamim Iqbal,Mahmudullah,TM Dilshan,1,0,null,1,0,null,null
+145,22.1,Tamim Iqbal,Mahmudullah,UDU Chandana,0,0,null,0,0,null,null
+146,22.2,Tamim Iqbal,Mahmudullah,UDU Chandana,0,0,null,0,0,null,null
+147,22.3,Tamim Iqbal,Mahmudullah,UDU Chandana,0,0,null,0,0,null,null
+148,22.4,Tamim Iqbal,Mahmudullah,UDU Chandana,1,0,null,1,0,null,null
+149,22.5,Mahmudullah,Tamim Iqbal,UDU Chandana,0,0,null,0,0,null,null
+150,22.6,Mahmudullah,Tamim Iqbal,UDU Chandana,1,0,null,1,0,null,null
+151,23.1,Mahmudullah,Tamim Iqbal,TM Dilshan,1,0,null,1,0,null,null
+152,23.2,Tamim Iqbal,Mahmudullah,TM Dilshan,2,0,null,2,0,null,null
+153,23.3,Tamim Iqbal,Mahmudullah,TM Dilshan,0,0,null,0,0,null,null
+154,23.4,Tamim Iqbal,Mahmudullah,TM Dilshan,0,0,null,0,0,null,null
+155,23.5,Tamim Iqbal,Mahmudullah,TM Dilshan,0,0,null,0,0,null,null
+156,23.6,Tamim Iqbal,Mahmudullah,TM Dilshan,1,0,null,1,0,null,null
+157,24.1,Tamim Iqbal,Mahmudullah,UDU Chandana,0,0,null,0,0,null,null
+158,24.2,Tamim Iqbal,Mahmudullah,UDU Chandana,1,0,null,1,0,null,null
+159,24.3,Mahmudullah,Tamim Iqbal,UDU Chandana,1,0,null,1,0,null,null
+160,24.4,Tamim Iqbal,Mahmudullah,UDU Chandana,0,0,null,0,0,null,null
+161,24.5,Tamim Iqbal,Mahmudullah,UDU Chandana,1,0,null,1,0,null,null
+162,24.6,Mahmudullah,Tamim Iqbal,UDU Chandana,1,0,null,1,0,null,null
+163,25.1,Mahmudullah,Tamim Iqbal,TM Dilshan,1,0,null,1,0,null,null
+164,25.2,Tamim Iqbal,Mahmudullah,TM Dilshan,0,0,null,0,0,null,null
+165,25.3,Tamim Iqbal,Mahmudullah,TM Dilshan,1,0,null,1,0,null,null
+166,25.4,Mahmudullah,Tamim Iqbal,TM Dilshan,0,3,byes ,3,0,null,null
+167,25.5,Tamim Iqbal,Mahmudullah,TM Dilshan,3,0,null,3,0,null,null
+168,25.6,Mahmudullah,Tamim Iqbal,TM Dilshan,0,0,null,0,0,null,null
+169,26.1,Tamim Iqbal,Mahmudullah,UDU Chandana,2,0,null,2,0,null,null
+170,26.2,Tamim Iqbal,Mahmudullah,UDU Chandana,0,0,null,0,0,null,null
+171,26.3,Tamim Iqbal,Mahmudullah,UDU Chandana,0,0,null,0,0,null,null
+172,26.4,Tamim Iqbal,Mahmudullah,UDU Chandana,1,0,null,1,0,null,null
+173,26.5,Mahmudullah,Tamim Iqbal,UDU Chandana,0,0,null,0,0,null,null
+174,26.6,Mahmudullah,Tamim Iqbal,UDU Chandana,1,0,null,1,0,null,null
+175,27.1,Mahmudullah,Tamim Iqbal,TM Dilshan,0,0,null,0,0,null,null
+176,27.2,Mahmudullah,Tamim Iqbal,TM Dilshan,1,0,null,1,0,null,null
+177,27.3,Tamim Iqbal,Mahmudullah,TM Dilshan,1,0,null,1,0,null,null
+178,27.4,Mahmudullah,Tamim Iqbal,TM Dilshan,1,0,null,1,0,null,null
+179,27.5,Tamim Iqbal,Mahmudullah,TM Dilshan,0,0,null,0,0,null,null
+180,27.6,Tamim Iqbal,Mahmudullah,TM Dilshan,2,0,null,2,0,null,null
+181,28.1,Mahmudullah,Tamim Iqbal,UDU Chandana,1,0,null,1,0,null,null
+182,28.2,Tamim Iqbal,Mahmudullah,UDU Chandana,0,4,wides ,4,0,null,null
+183,28.3,Mahmudullah,Tamim Iqbal,UDU Chandana,2,0,null,2,0,null,null
+184,28.4,Mahmudullah,Tamim Iqbal,UDU Chandana,0,0,null,0,0,null,null
+185,28.5,Mahmudullah,Tamim Iqbal,UDU Chandana,1,0,null,1,0,null,null
+186,28.6,Tamim Iqbal,Mahmudullah,UDU Chandana,1,0,null,1,0,null,null
+187,28.7,Mahmudullah,Tamim Iqbal,UDU Chandana,1,0,null,1,0,null,null
+188,29.1,Mahmudullah,Tamim Iqbal,MF Maharoof,1,0,null,1,0,null,null
+189,29.2,Tamim Iqbal,Mahmudullah,MF Maharoof,1,0,null,1,0,null,null
+190,29.3,Mahmudullah,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+191,29.4,Mahmudullah,Tamim Iqbal,MF Maharoof,0,0,null,0,0,null,null
+192,29.5,Mahmudullah,Tamim Iqbal,MF Maharoof,2,0,null,2,0,null,null
+193,29.6,Mahmudullah,Tamim Iqbal,MF Maharoof,1,0,null,1,0,null,null
+194,30.1,Mahmudullah,Tamim Iqbal,ST Jayasuriya,0,0,null,0,0,null,null
+195,30.2,Mahmudullah,Tamim Iqbal,ST Jayasuriya,1,0,null,1,0,null,null
+196,30.3,Tamim Iqbal,Mahmudullah,ST Jayasuriya,0,0,null,0,1,Tamim Iqbal,caught
+197,30.4,Mahmudullah,Farhad Reza,ST Jayasuriya,1,0,null,1,0,null,null
+198,30.5,Farhad Reza,Mahmudullah,ST Jayasuriya,1,0,null,1,0,null,null
+199,30.6,Mahmudullah,Farhad Reza,ST Jayasuriya,1,0,null,1,0,null,null
+200,31.1,Mahmudullah,Farhad Reza,MF Maharoof,0,0,null,0,0,null,null
+201,31.2,Mahmudullah,Farhad Reza,MF Maharoof,0,0,null,0,0,null,null
+202,31.3,Mahmudullah,Farhad Reza,MF Maharoof,2,0,null,2,0,null,null
+203,31.4,Mahmudullah,Farhad Reza,MF Maharoof,0,0,null,0,0,null,null
+204,31.5,Mahmudullah,Farhad Reza,MF Maharoof,1,0,null,1,0,null,null
+205,31.6,Farhad Reza,Mahmudullah,MF Maharoof,1,0,null,1,0,null,null
+206,32.1,Farhad Reza,Mahmudullah,ST Jayasuriya,2,0,null,2,0,null,null
+207,32.2,Farhad Reza,Mahmudullah,ST Jayasuriya,1,0,null,1,0,null,null
+208,32.3,Mahmudullah,Farhad Reza,ST Jayasuriya,0,0,null,0,0,null,null
+209,32.4,Mahmudullah,Farhad Reza,ST Jayasuriya,1,0,null,1,0,null,null
+210,32.5,Farhad Reza,Mahmudullah,ST Jayasuriya,2,0,null,2,0,null,null
+211,32.6,Farhad Reza,Mahmudullah,ST Jayasuriya,0,0,null,0,1,Farhad Reza,bowled
+212,33.1,Mahmudullah,Abdur Razzak,KMDN Kulasekara,1,0,null,1,0,null,null
+213,33.2,Abdur Razzak,Mahmudullah,KMDN Kulasekara,1,0,null,1,0,null,null
+214,33.3,Mahmudullah,Abdur Razzak,KMDN Kulasekara,4,0,null,4,0,null,null
+215,33.4,Mahmudullah,Abdur Razzak,KMDN Kulasekara,0,0,null,0,0,null,null
+216,33.5,Mahmudullah,Abdur Razzak,KMDN Kulasekara,1,0,null,1,0,null,null
+217,33.6,Abdur Razzak,Mahmudullah,KMDN Kulasekara,1,0,null,1,0,null,null
+218,34.1,Abdur Razzak,Mahmudullah,ST Jayasuriya,1,0,null,1,0,null,null
+219,34.2,Mahmudullah,Abdur Razzak,ST Jayasuriya,0,0,null,0,0,null,null
+220,34.3,Mahmudullah,Abdur Razzak,ST Jayasuriya,0,0,null,0,1,Mahmudullah,caught
+221,34.4,Abdur Razzak,Shahadat Hossain,ST Jayasuriya,0,0,null,0,1,Abdur Razzak,caught
+222,34.5,Shahadat Hossain,Syed Rasel,ST Jayasuriya,0,0,null,0,0,null,null
+223,34.6,Shahadat Hossain,Syed Rasel,ST Jayasuriya,1,0,null,1,0,null,null
+224,35.1,Shahadat Hossain,Syed Rasel,CRD Fernando,0,1,noballs ,1,0,null,null
+225,35.2,Shahadat Hossain,Syed Rasel,CRD Fernando,1,0,null,1,0,null,null
+226,35.3,Syed Rasel,Shahadat Hossain,CRD Fernando,0,0,null,0,0,null,null
+227,35.4,Syed Rasel,Shahadat Hossain,CRD Fernando,0,0,null,0,0,null,null
+228,35.5,Syed Rasel,Shahadat Hossain,CRD Fernando,0,0,null,0,0,null,null
+229,35.6,Syed Rasel,Shahadat Hossain,CRD Fernando,1,0,null,1,0,null,null
+230,35.7,Shahadat Hossain,Syed Rasel,CRD Fernando,0,0,null,0,0,null,null
+231,36.1,Syed Rasel,Shahadat Hossain,ST Jayasuriya,0,0,null,0,0,null,null
+232,36.2,Syed Rasel,Shahadat Hossain,ST Jayasuriya,0,0,null,0,0,null,null
+233,36.3,Syed Rasel,Shahadat Hossain,ST Jayasuriya,0,0,null,0,0,null,null
+234,36.4,Syed Rasel,Shahadat Hossain,ST Jayasuriya,1,0,null,1,0,null,null
+235,36.5,Shahadat Hossain,Syed Rasel,ST Jayasuriya,0,0,null,0,0,null,null
+236,36.6,Shahadat Hossain,Syed Rasel,ST Jayasuriya,1,0,null,1,0,null,null
+237,37.1,Shahadat Hossain,Syed Rasel,CRD Fernando,0,0,null,0,1,Shahadat Hossain,bowled

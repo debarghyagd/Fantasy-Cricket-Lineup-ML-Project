@@ -1,0 +1,314 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,1,wides ,1,0,null,null
+1,0.2,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+2,0.3,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+3,0.4,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+4,0.5,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+5,0.6,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,1,wides ,1,0,null,null
+6,0.7,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+7,0.8,Mohammad Hafeez,Imran Farhat,SCJ Broad,1,0,null,1,0,null,null
+8,1.1,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+9,1.2,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+10,1.3,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+11,1.4,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+12,1.5,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+13,1.6,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+14,2.1,Imran Farhat,Mohammad Hafeez,SCJ Broad,2,0,null,2,0,null,null
+15,2.2,Imran Farhat,Mohammad Hafeez,SCJ Broad,0,0,null,0,0,null,null
+16,2.3,Imran Farhat,Mohammad Hafeez,SCJ Broad,0,0,null,0,0,null,null
+17,2.4,Imran Farhat,Mohammad Hafeez,SCJ Broad,1,0,null,1,0,null,null
+18,2.5,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+19,2.6,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+20,3.1,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+21,3.2,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+22,3.3,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+23,3.4,Imran Farhat,Mohammad Hafeez,J Lewis,0,1,wides ,1,0,null,null
+24,3.5,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+25,3.6,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+26,3.7,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+27,4.1,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+28,4.2,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,2,wides ,2,0,null,null
+29,4.3,Imran Farhat,Mohammad Hafeez,SCJ Broad,0,0,null,0,0,null,null
+30,4.4,Imran Farhat,Mohammad Hafeez,SCJ Broad,0,4,legbyes ,4,0,null,null
+31,4.5,Imran Farhat,Mohammad Hafeez,SCJ Broad,0,0,null,0,0,null,null
+32,4.6,Imran Farhat,Mohammad Hafeez,SCJ Broad,1,0,null,1,0,null,null
+33,4.7,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+34,5.1,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+35,5.2,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+36,5.3,Imran Farhat,Mohammad Hafeez,J Lewis,1,0,null,1,0,null,null
+37,5.4,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+38,5.5,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+39,5.6,Mohammad Hafeez,Imran Farhat,J Lewis,4,0,null,4,0,null,null
+40,6.1,Imran Farhat,Mohammad Hafeez,SCJ Broad,1,0,null,1,0,null,null
+41,6.2,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+42,6.3,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+43,6.4,Mohammad Hafeez,Imran Farhat,SCJ Broad,4,0,null,4,0,null,null
+44,6.5,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+45,6.6,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+46,7.1,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+47,7.2,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+48,7.3,Imran Farhat,Mohammad Hafeez,J Lewis,1,0,null,1,0,null,null
+49,7.4,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+50,7.5,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+51,7.6,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+52,8.1,Imran Farhat,Mohammad Hafeez,SCJ Broad,0,0,null,0,0,null,null
+53,8.2,Imran Farhat,Mohammad Hafeez,SCJ Broad,0,0,null,0,0,null,null
+54,8.3,Imran Farhat,Mohammad Hafeez,SCJ Broad,0,0,null,0,0,null,null
+55,8.4,Imran Farhat,Mohammad Hafeez,SCJ Broad,0,0,null,0,0,null,null
+56,8.5,Imran Farhat,Mohammad Hafeez,SCJ Broad,0,0,null,0,0,null,null
+57,8.6,Imran Farhat,Mohammad Hafeez,SCJ Broad,1,0,null,1,0,null,null
+58,9.1,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+59,9.2,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+60,9.3,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+61,9.4,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+62,9.5,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+63,9.6,Imran Farhat,Mohammad Hafeez,J Lewis,1,0,null,1,0,null,null
+64,10.1,Imran Farhat,Mohammad Hafeez,SCJ Broad,3,0,null,3,0,null,null
+65,10.2,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+66,10.3,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,1,wides ,1,0,null,null
+67,10.4,Mohammad Hafeez,Imran Farhat,SCJ Broad,4,0,null,4,0,null,null
+68,10.5,Mohammad Hafeez,Imran Farhat,SCJ Broad,1,0,null,1,0,null,null
+69,10.6,Imran Farhat,Mohammad Hafeez,SCJ Broad,1,0,null,1,0,null,null
+70,10.7,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,1,wides ,1,0,null,null
+71,10.8,Mohammad Hafeez,Imran Farhat,SCJ Broad,0,0,null,0,0,null,null
+72,11.1,Imran Farhat,Mohammad Hafeez,J Lewis,1,0,null,1,0,null,null
+73,11.2,Mohammad Hafeez,Imran Farhat,J Lewis,1,0,null,1,0,null,null
+74,11.3,Imran Farhat,Mohammad Hafeez,J Lewis,1,0,null,1,0,null,null
+75,11.4,Mohammad Hafeez,Imran Farhat,J Lewis,0,0,null,0,0,null,null
+76,11.5,Mohammad Hafeez,Imran Farhat,J Lewis,1,0,null,1,0,null,null
+77,11.6,Imran Farhat,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+78,12.1,Mohammad Hafeez,Imran Farhat,SI Mahmood,1,0,null,1,0,null,null
+79,12.2,Imran Farhat,Mohammad Hafeez,SI Mahmood,0,0,null,0,0,null,null
+80,12.3,Imran Farhat,Mohammad Hafeez,SI Mahmood,0,0,null,0,1,Imran Farhat,run out
+81,12.4,Shahid Afridi,Mohammad Hafeez,SI Mahmood,0,0,null,0,0,null,null
+82,12.5,Shahid Afridi,Mohammad Hafeez,SI Mahmood,0,0,null,0,0,null,null
+83,12.6,Shahid Afridi,Mohammad Hafeez,SI Mahmood,0,1,wides ,1,0,null,null
+84,12.7,Shahid Afridi,Mohammad Hafeez,SI Mahmood,0,0,null,0,0,null,null
+85,13.1,Mohammad Hafeez,Shahid Afridi,J Lewis,0,0,null,0,0,null,null
+86,13.2,Mohammad Hafeez,Shahid Afridi,J Lewis,1,0,null,1,0,null,null
+87,13.3,Shahid Afridi,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+88,13.4,Shahid Afridi,Mohammad Hafeez,J Lewis,0,0,null,0,0,null,null
+89,13.5,Shahid Afridi,Mohammad Hafeez,J Lewis,2,0,null,2,0,null,null
+90,13.6,Shahid Afridi,Mohammad Hafeez,J Lewis,0,0,null,0,1,Shahid Afridi,bowled
+91,14.1,Mohammad Hafeez,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+92,14.2,Mohammad Hafeez,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+93,14.3,Mohammad Hafeez,Younis Khan,SI Mahmood,0,4,legbyes ,4,0,null,null
+94,14.4,Mohammad Hafeez,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+95,14.5,Mohammad Hafeez,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+96,14.6,Mohammad Hafeez,Younis Khan,SI Mahmood,0,0,null,0,1,Mohammad Hafeez,bowled
+97,15.1,Younis Khan,Mohammad Yousuf,J Lewis,0,0,null,0,0,null,null
+98,15.2,Younis Khan,Mohammad Yousuf,J Lewis,0,0,null,0,0,null,null
+99,15.3,Younis Khan,Mohammad Yousuf,J Lewis,0,0,null,0,0,null,null
+100,15.4,Younis Khan,Mohammad Yousuf,J Lewis,1,0,null,1,0,null,null
+101,15.5,Mohammad Yousuf,Younis Khan,J Lewis,0,0,null,0,0,null,null
+102,15.6,Mohammad Yousuf,Younis Khan,J Lewis,0,0,null,0,0,null,null
+103,16.1,Younis Khan,Mohammad Yousuf,SI Mahmood,0,0,null,0,0,null,null
+104,16.2,Younis Khan,Mohammad Yousuf,SI Mahmood,0,0,null,0,0,null,null
+105,16.3,Younis Khan,Mohammad Yousuf,SI Mahmood,1,0,null,1,0,null,null
+106,16.4,Mohammad Yousuf,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+107,16.5,Mohammad Yousuf,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+108,16.6,Mohammad Yousuf,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+109,17.1,Younis Khan,Mohammad Yousuf,SCJ Broad,0,0,null,0,0,null,null
+110,17.2,Younis Khan,Mohammad Yousuf,SCJ Broad,1,0,null,1,0,null,null
+111,17.3,Mohammad Yousuf,Younis Khan,SCJ Broad,0,0,null,0,0,null,null
+112,17.4,Mohammad Yousuf,Younis Khan,SCJ Broad,0,0,null,0,0,null,null
+113,17.5,Mohammad Yousuf,Younis Khan,SCJ Broad,1,0,null,1,0,null,null
+114,17.6,Younis Khan,Mohammad Yousuf,SCJ Broad,0,0,null,0,0,null,null
+115,18.1,Mohammad Yousuf,Younis Khan,SI Mahmood,6,0,null,6,0,null,null
+116,18.2,Mohammad Yousuf,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+117,18.3,Mohammad Yousuf,Younis Khan,SI Mahmood,3,0,null,3,0,null,null
+118,18.4,Younis Khan,Mohammad Yousuf,SI Mahmood,0,0,null,0,0,null,null
+119,18.5,Younis Khan,Mohammad Yousuf,SI Mahmood,0,0,null,0,0,null,null
+120,18.6,Younis Khan,Mohammad Yousuf,SI Mahmood,0,0,null,0,0,null,null
+121,19.1,Mohammad Yousuf,Younis Khan,SCJ Broad,0,0,null,0,0,null,null
+122,19.2,Mohammad Yousuf,Younis Khan,SCJ Broad,0,0,null,0,0,null,null
+123,19.3,Mohammad Yousuf,Younis Khan,SCJ Broad,0,0,null,0,0,null,null
+124,19.4,Mohammad Yousuf,Younis Khan,SCJ Broad,1,0,null,1,0,null,null
+125,19.5,Younis Khan,Mohammad Yousuf,SCJ Broad,0,0,null,0,0,null,null
+126,19.6,Younis Khan,Mohammad Yousuf,SCJ Broad,0,1,wides ,1,0,null,null
+127,19.7,Younis Khan,Mohammad Yousuf,SCJ Broad,1,0,null,1,0,null,null
+128,20.1,Younis Khan,Mohammad Yousuf,SI Mahmood,1,0,null,1,0,null,null
+129,20.2,Mohammad Yousuf,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+130,20.3,Mohammad Yousuf,Younis Khan,SI Mahmood,0,0,null,0,1,Mohammad Yousuf,caught
+131,20.4,Inzamam-ul-Haq,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+132,20.5,Inzamam-ul-Haq,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+133,20.6,Inzamam-ul-Haq,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+134,21.1,Younis Khan,Inzamam-ul-Haq,PD Collingwood,0,0,null,0,0,null,null
+135,21.2,Younis Khan,Inzamam-ul-Haq,PD Collingwood,0,0,null,0,0,null,null
+136,21.3,Younis Khan,Inzamam-ul-Haq,PD Collingwood,0,0,null,0,0,null,null
+137,21.4,Younis Khan,Inzamam-ul-Haq,PD Collingwood,0,0,null,0,0,null,null
+138,21.5,Younis Khan,Inzamam-ul-Haq,PD Collingwood,0,0,null,0,0,null,null
+139,21.6,Younis Khan,Inzamam-ul-Haq,PD Collingwood,0,1,wides ,1,0,null,null
+140,21.7,Younis Khan,Inzamam-ul-Haq,PD Collingwood,0,0,null,0,0,null,null
+141,22.1,Inzamam-ul-Haq,Younis Khan,SI Mahmood,1,0,null,1,0,null,null
+142,22.2,Younis Khan,Inzamam-ul-Haq,SI Mahmood,0,0,null,0,0,null,null
+143,22.3,Younis Khan,Inzamam-ul-Haq,SI Mahmood,0,0,null,0,0,null,null
+144,22.4,Younis Khan,Inzamam-ul-Haq,SI Mahmood,1,0,null,1,0,null,null
+145,22.5,Inzamam-ul-Haq,Younis Khan,SI Mahmood,1,0,null,1,0,null,null
+146,22.6,Younis Khan,Inzamam-ul-Haq,SI Mahmood,0,0,null,0,0,null,null
+147,23.1,Inzamam-ul-Haq,Younis Khan,PD Collingwood,0,0,null,0,1,Inzamam-ul-Haq,lbw
+148,23.2,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+149,23.3,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+150,23.4,Abdul Razzaq,Younis Khan,PD Collingwood,0,1,wides ,1,0,null,null
+151,23.5,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+152,23.6,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+153,23.7,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+154,24.1,Younis Khan,Abdul Razzaq,SI Mahmood,0,1,legbyes ,1,0,null,null
+155,24.2,Abdul Razzaq,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+156,24.3,Abdul Razzaq,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+157,24.4,Abdul Razzaq,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+158,24.5,Abdul Razzaq,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+159,24.6,Abdul Razzaq,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+160,25.1,Younis Khan,Abdul Razzaq,PD Collingwood,1,0,null,1,0,null,null
+161,25.2,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+162,25.3,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+163,25.4,Abdul Razzaq,Younis Khan,PD Collingwood,1,0,null,1,0,null,null
+164,25.5,Younis Khan,Abdul Razzaq,PD Collingwood,1,0,null,1,0,null,null
+165,25.6,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+166,26.1,Younis Khan,Abdul Razzaq,SI Mahmood,1,0,null,1,0,null,null
+167,26.2,Abdul Razzaq,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+168,26.3,Abdul Razzaq,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+169,26.4,Abdul Razzaq,Younis Khan,SI Mahmood,0,0,null,0,0,null,null
+170,26.5,Abdul Razzaq,Younis Khan,SI Mahmood,1,0,null,1,0,null,null
+171,26.6,Younis Khan,Abdul Razzaq,SI Mahmood,0,0,null,0,0,null,null
+172,27.1,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+173,27.2,Abdul Razzaq,Younis Khan,PD Collingwood,1,0,null,1,0,null,null
+174,27.3,Younis Khan,Abdul Razzaq,PD Collingwood,0,0,null,0,0,null,null
+175,27.4,Younis Khan,Abdul Razzaq,PD Collingwood,2,0,null,2,0,null,null
+176,27.5,Younis Khan,Abdul Razzaq,PD Collingwood,0,1,legbyes ,1,0,null,null
+177,27.6,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+178,28.1,Younis Khan,Abdul Razzaq,MH Yardy,1,0,null,1,0,null,null
+179,28.2,Abdul Razzaq,Younis Khan,MH Yardy,1,0,null,1,0,null,null
+180,28.3,Younis Khan,Abdul Razzaq,MH Yardy,4,0,null,4,0,null,null
+181,28.4,Younis Khan,Abdul Razzaq,MH Yardy,0,0,null,0,0,null,null
+182,28.5,Younis Khan,Abdul Razzaq,MH Yardy,0,0,null,0,0,null,null
+183,28.6,Younis Khan,Abdul Razzaq,MH Yardy,0,0,null,0,0,null,null
+184,29.1,Abdul Razzaq,Younis Khan,PD Collingwood,1,0,null,1,0,null,null
+185,29.2,Younis Khan,Abdul Razzaq,PD Collingwood,1,0,null,1,0,null,null
+186,29.3,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+187,29.4,Abdul Razzaq,Younis Khan,PD Collingwood,0,0,null,0,1,Abdul Razzaq,bowled
+188,29.5,Kamran Akmal,Younis Khan,PD Collingwood,1,0,null,1,0,null,null
+189,29.6,Younis Khan,Kamran Akmal,PD Collingwood,0,0,null,0,0,null,null
+190,30.1,Kamran Akmal,Younis Khan,MH Yardy,2,0,null,2,0,null,null
+191,30.2,Kamran Akmal,Younis Khan,MH Yardy,0,0,null,0,0,null,null
+192,30.3,Kamran Akmal,Younis Khan,MH Yardy,1,0,null,1,0,null,null
+193,30.4,Younis Khan,Kamran Akmal,MH Yardy,0,0,null,0,0,null,null
+194,30.5,Younis Khan,Kamran Akmal,MH Yardy,1,0,null,1,0,null,null
+195,30.6,Kamran Akmal,Younis Khan,MH Yardy,0,0,null,0,0,null,null
+196,31.1,Younis Khan,Kamran Akmal,PD Collingwood,0,0,null,0,0,null,null
+197,31.2,Younis Khan,Kamran Akmal,PD Collingwood,4,0,null,4,0,null,null
+198,31.3,Younis Khan,Kamran Akmal,PD Collingwood,0,0,null,0,0,null,null
+199,31.4,Younis Khan,Kamran Akmal,PD Collingwood,0,0,null,0,0,null,null
+200,31.5,Younis Khan,Kamran Akmal,PD Collingwood,1,0,null,1,0,null,null
+201,31.6,Kamran Akmal,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+202,32.1,Younis Khan,Kamran Akmal,MH Yardy,0,0,null,0,0,null,null
+203,32.2,Younis Khan,Kamran Akmal,MH Yardy,0,0,null,0,0,null,null
+204,32.3,Younis Khan,Kamran Akmal,MH Yardy,0,0,null,0,0,null,null
+205,32.4,Younis Khan,Kamran Akmal,MH Yardy,1,0,null,1,0,null,null
+206,32.5,Kamran Akmal,Younis Khan,MH Yardy,0,0,null,0,1,Kamran Akmal,caught
+207,32.6,Naved-ul-Hasan,Younis Khan,MH Yardy,0,0,null,0,0,null,null
+208,33.1,Younis Khan,Naved-ul-Hasan,PD Collingwood,0,0,null,0,0,null,null
+209,33.2,Younis Khan,Naved-ul-Hasan,PD Collingwood,1,0,null,1,0,null,null
+210,33.3,Naved-ul-Hasan,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+211,33.4,Naved-ul-Hasan,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+212,33.5,Naved-ul-Hasan,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+213,33.6,Naved-ul-Hasan,Younis Khan,PD Collingwood,1,0,null,1,0,null,null
+214,34.1,Naved-ul-Hasan,Younis Khan,MH Yardy,2,0,null,2,0,null,null
+215,34.2,Naved-ul-Hasan,Younis Khan,MH Yardy,1,0,null,1,0,null,null
+216,34.3,Younis Khan,Naved-ul-Hasan,MH Yardy,1,0,null,1,0,null,null
+217,34.4,Naved-ul-Hasan,Younis Khan,MH Yardy,0,0,null,0,0,null,null
+218,34.5,Naved-ul-Hasan,Younis Khan,MH Yardy,0,0,null,0,0,null,null
+219,34.6,Naved-ul-Hasan,Younis Khan,MH Yardy,0,0,null,0,0,null,null
+220,35.1,Younis Khan,Naved-ul-Hasan,PD Collingwood,0,0,null,0,0,null,null
+221,35.2,Younis Khan,Naved-ul-Hasan,PD Collingwood,4,0,null,4,0,null,null
+222,35.3,Younis Khan,Naved-ul-Hasan,PD Collingwood,1,0,null,1,0,null,null
+223,35.4,Naved-ul-Hasan,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+224,35.5,Naved-ul-Hasan,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+225,35.6,Naved-ul-Hasan,Younis Khan,PD Collingwood,0,0,null,0,0,null,null
+226,36.1,Younis Khan,Naved-ul-Hasan,MH Yardy,0,0,null,0,0,null,null
+227,36.2,Younis Khan,Naved-ul-Hasan,MH Yardy,0,0,null,0,0,null,null
+228,36.3,Younis Khan,Naved-ul-Hasan,MH Yardy,1,0,null,1,0,null,null
+229,36.4,Naved-ul-Hasan,Younis Khan,MH Yardy,1,0,null,1,0,null,null
+230,36.5,Younis Khan,Naved-ul-Hasan,MH Yardy,0,0,null,0,0,null,null
+231,36.6,Younis Khan,Naved-ul-Hasan,MH Yardy,1,0,null,1,0,null,null
+232,37.1,Younis Khan,Naved-ul-Hasan,JWM Dalrymple,0,0,null,0,0,null,null
+233,37.2,Younis Khan,Naved-ul-Hasan,JWM Dalrymple,1,0,null,1,0,null,null
+234,37.3,Naved-ul-Hasan,Younis Khan,JWM Dalrymple,1,0,null,1,0,null,null
+235,37.4,Younis Khan,Naved-ul-Hasan,JWM Dalrymple,1,0,null,1,0,null,null
+236,37.5,Naved-ul-Hasan,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+237,37.6,Naved-ul-Hasan,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+238,38.1,Younis Khan,Naved-ul-Hasan,J Lewis,1,0,null,1,0,null,null
+239,38.2,Naved-ul-Hasan,Younis Khan,J Lewis,0,0,null,0,0,null,null
+240,38.3,Naved-ul-Hasan,Younis Khan,J Lewis,0,0,null,0,0,null,null
+241,38.4,Naved-ul-Hasan,Younis Khan,J Lewis,1,0,null,1,0,null,null
+242,38.5,Younis Khan,Naved-ul-Hasan,J Lewis,1,0,null,1,0,null,null
+243,38.6,Naved-ul-Hasan,Younis Khan,J Lewis,1,0,null,1,0,null,null
+244,39.1,Naved-ul-Hasan,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+245,39.2,Naved-ul-Hasan,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+246,39.3,Naved-ul-Hasan,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+247,39.4,Naved-ul-Hasan,Younis Khan,JWM Dalrymple,0,1,wides ,1,0,null,null
+248,39.5,Naved-ul-Hasan,Younis Khan,JWM Dalrymple,0,0,null,0,1,Naved-ul-Hasan,bowled
+249,39.6,Iftikhar Anjum,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+250,39.7,Iftikhar Anjum,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+251,40.1,Younis Khan,Iftikhar Anjum,J Lewis,4,0,null,4,0,null,null
+252,40.2,Younis Khan,Iftikhar Anjum,J Lewis,0,0,null,0,0,null,null
+253,40.3,Younis Khan,Iftikhar Anjum,J Lewis,0,0,null,0,0,null,null
+254,40.4,Younis Khan,Iftikhar Anjum,J Lewis,1,0,null,1,0,null,null
+255,40.5,Iftikhar Anjum,Younis Khan,J Lewis,0,0,null,0,0,null,null
+256,40.6,Iftikhar Anjum,Younis Khan,J Lewis,0,0,null,0,0,null,null
+257,41.1,Younis Khan,Iftikhar Anjum,JWM Dalrymple,1,0,null,1,0,null,null
+258,41.2,Iftikhar Anjum,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+259,41.3,Iftikhar Anjum,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+260,41.4,Iftikhar Anjum,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+261,41.5,Iftikhar Anjum,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+262,41.6,Iftikhar Anjum,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+263,42.1,Younis Khan,Iftikhar Anjum,MH Yardy,2,0,null,2,0,null,null
+264,42.2,Younis Khan,Iftikhar Anjum,MH Yardy,0,0,null,0,0,null,null
+265,42.3,Younis Khan,Iftikhar Anjum,MH Yardy,0,0,null,0,0,null,null
+266,42.4,Younis Khan,Iftikhar Anjum,MH Yardy,0,0,null,0,0,null,null
+267,42.5,Younis Khan,Iftikhar Anjum,MH Yardy,1,0,null,1,0,null,null
+268,42.6,Iftikhar Anjum,Younis Khan,MH Yardy,0,0,null,0,0,null,null
+269,43.1,Younis Khan,Iftikhar Anjum,JWM Dalrymple,1,0,null,1,0,null,null
+270,43.2,Iftikhar Anjum,Younis Khan,JWM Dalrymple,0,0,null,0,0,null,null
+271,43.3,Iftikhar Anjum,Younis Khan,JWM Dalrymple,1,0,null,1,0,null,null
+272,43.4,Younis Khan,Iftikhar Anjum,JWM Dalrymple,0,0,null,0,1,Younis Khan,caught
+273,43.5,Iftikhar Anjum,Mohammad Asif,JWM Dalrymple,0,0,null,0,0,null,null
+274,43.6,Iftikhar Anjum,Mohammad Asif,JWM Dalrymple,1,0,null,1,0,null,null
+275,44.1,Iftikhar Anjum,Mohammad Asif,MH Yardy,0,0,null,0,0,null,null
+276,44.2,Iftikhar Anjum,Mohammad Asif,MH Yardy,0,0,null,0,0,null,null
+277,44.3,Iftikhar Anjum,Mohammad Asif,MH Yardy,0,0,null,0,0,null,null
+278,44.4,Iftikhar Anjum,Mohammad Asif,MH Yardy,0,0,null,0,0,null,null
+279,44.5,Iftikhar Anjum,Mohammad Asif,MH Yardy,1,0,null,1,0,null,null
+280,44.6,Mohammad Asif,Iftikhar Anjum,MH Yardy,0,0,null,0,0,null,null
+281,45.1,Iftikhar Anjum,Mohammad Asif,JWM Dalrymple,0,0,null,0,0,null,null
+282,45.2,Iftikhar Anjum,Mohammad Asif,JWM Dalrymple,0,0,null,0,0,null,null
+283,45.3,Iftikhar Anjum,Mohammad Asif,JWM Dalrymple,0,0,null,0,0,null,null
+284,45.4,Iftikhar Anjum,Mohammad Asif,JWM Dalrymple,0,0,null,0,0,null,null
+285,45.5,Iftikhar Anjum,Mohammad Asif,JWM Dalrymple,0,1,wides ,1,0,null,null
+286,45.6,Iftikhar Anjum,Mohammad Asif,JWM Dalrymple,1,0,null,1,0,null,null
+287,45.7,Mohammad Asif,Iftikhar Anjum,JWM Dalrymple,0,0,null,0,0,null,null
+288,46.1,Iftikhar Anjum,Mohammad Asif,SI Mahmood,0,0,null,0,0,null,null
+289,46.2,Iftikhar Anjum,Mohammad Asif,SI Mahmood,0,0,null,0,0,null,null
+290,46.3,Iftikhar Anjum,Mohammad Asif,SI Mahmood,1,0,null,1,0,null,null
+291,46.4,Mohammad Asif,Iftikhar Anjum,SI Mahmood,0,0,null,0,0,null,null
+292,46.5,Mohammad Asif,Iftikhar Anjum,SI Mahmood,0,0,null,0,0,null,null
+293,46.6,Mohammad Asif,Iftikhar Anjum,SI Mahmood,1,1,noballs ,2,0,null,null
+294,46.7,Iftikhar Anjum,Mohammad Asif,SI Mahmood,1,0,null,1,0,null,null
+295,47.1,Iftikhar Anjum,Mohammad Asif,JWM Dalrymple,0,0,null,0,0,null,null
+296,47.2,Iftikhar Anjum,Mohammad Asif,JWM Dalrymple,1,0,null,1,0,null,null
+297,47.3,Mohammad Asif,Iftikhar Anjum,JWM Dalrymple,0,0,null,0,0,null,null
+298,47.4,Mohammad Asif,Iftikhar Anjum,JWM Dalrymple,0,0,null,0,0,null,null
+299,47.5,Mohammad Asif,Iftikhar Anjum,JWM Dalrymple,1,0,null,1,0,null,null
+300,47.6,Iftikhar Anjum,Mohammad Asif,JWM Dalrymple,1,0,null,1,0,null,null
+301,48.1,Iftikhar Anjum,Mohammad Asif,SI Mahmood,0,0,null,0,0,null,null
+302,48.2,Iftikhar Anjum,Mohammad Asif,SI Mahmood,0,0,null,0,0,null,null
+303,48.3,Iftikhar Anjum,Mohammad Asif,SI Mahmood,0,0,null,0,0,null,null
+304,48.4,Iftikhar Anjum,Mohammad Asif,SI Mahmood,1,0,null,1,0,null,null
+305,48.5,Mohammad Asif,Iftikhar Anjum,SI Mahmood,0,0,null,0,0,null,null
+306,48.6,Mohammad Asif,Iftikhar Anjum,SI Mahmood,1,0,null,1,0,null,null
+307,49.1,Mohammad Asif,Iftikhar Anjum,SCJ Broad,0,0,null,0,0,null,null
+308,49.2,Mohammad Asif,Iftikhar Anjum,SCJ Broad,1,0,null,1,0,null,null
+309,49.3,Iftikhar Anjum,Mohammad Asif,SCJ Broad,0,0,null,0,0,null,null
+310,49.4,Iftikhar Anjum,Mohammad Asif,SCJ Broad,4,0,null,4,0,null,null
+311,49.5,Iftikhar Anjum,Mohammad Asif,SCJ Broad,1,0,null,1,0,null,null
+312,49.6,Mohammad Asif,Iftikhar Anjum,SCJ Broad,0,0,null,0,0,null,null

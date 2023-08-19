@@ -1,0 +1,62 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1001371,Sydney Cricket Ground,Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",1,2,3,0,0
+1,1001371,Sydney Cricket Ground,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,1,6,0,0
+2,1001371,Sydney Cricket Ground,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,3,4,0,0
+3,1001373,Manuka Oval,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,9,10,1,0
+4,1001373,Manuka Oval,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,5,3,1,0
+5,1001373,Manuka Oval,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,3,7,0,0
+6,1001375,Melbourne Cricket Ground,Australia,TM Head,Right-arm offbreak,"[1, 1, 0]",1,7,11,1,0
+7,1001375,Melbourne Cricket Ground,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,1,2,0,0
+8,476596,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,0,1,0,0
+9,476598,Shere Bangla National Stadium,Bangladesh,Shafiul Islam,Right-arm fast-medium,"[0, 1, 1]",0,6,6,1,0
+10,476598,Shere Bangla National Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,5,12,1,0
+11,476598,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,3,7,0,0
+12,476599,Shere Bangla National Stadium,Bangladesh,Shafiul Islam,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+13,476600,Shere Bangla National Stadium,Bangladesh,Shafiul Islam,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+14,476600,Shere Bangla National Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,0,6,0,0
+15,1030225,JSCA International Stadium Complex,India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,7,7,1,0
+16,1030225,JSCA International Stadium Complex,India,DS Kulkarni,Right-arm fast-medium,"[0, 1, 1]",1,0,3,0,0
+17,1030225,JSCA International Stadium Complex,India,A Mishra,Right-arm legbreak,"[1, 1, 1]",0,5,6,0,0
+18,1030227,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,A Mishra,Right-arm legbreak,"[1, 1, 1]",1,0,2,0,0
+19,456665,Rangiri Dambulla International Stadium,India,P Kumar,Right-arm fast-medium,"[0, 1, 1]",0,2,8,0,0
+20,456665,Rangiri Dambulla International Stadium,India,A Nehra,Left-arm fast-medium,"[0, 0, 1]",1,0,5,0,0
+21,569240,Seddon Park,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,2,6,0,0
+22,569241,McLean Park,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,5,11,0,0
+23,569241,McLean Park,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,2,12,0,0
+24,569242,Eden Park,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,1,7,0,0
+25,569242,Eden Park,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",1,0,4,0,0
+26,567358,Boland Park,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,7,19,1,0
+27,567358,Boland Park,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,8,18,1,0
+28,567359,De Beers Diamond Oval,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",1,1,5,0,0
+29,567359,De Beers Diamond Oval,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,11,27,2,0
+30,567360,Senwes Park,South Africa,AM Phangiso,Left-arm orthodox,"[1, 0, 1]",0,2,3,0,0
+31,567360,Senwes Park,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,10,14,2,0
+32,567360,Senwes Park,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,4,8,0,0
+33,456664,Rangiri Dambulla International Stadium,Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",0,8,10,1,0
+34,456664,Rangiri Dambulla International Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",1,14,19,3,0
+35,456664,Rangiri Dambulla International Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,5,7,0,0
+36,456664,Rangiri Dambulla International Stadium,Sri Lanka,BAW Mendis,Right-arm offbreak,"[1, 1, 0]",0,11,13,1,0
+37,582188,Pallekele International Cricket Stadium,Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",1,15,27,1,0
+38,582188,Pallekele International Cricket Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,8,16,1,0
+39,582188,Pallekele International Cricket Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,3,8,0,0
+40,582189,Pallekele International Cricket Stadium,Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",0,4,5,0,0
+41,582189,Pallekele International Cricket Stadium,Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",0,7,9,0,0
+42,582189,Pallekele International Cricket Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,10,16,1,0
+43,582189,Pallekele International Cricket Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,18,11,3,0
+44,582190,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",0,1,2,0,0
+45,582190,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,7,7,1,0
+46,582190,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,1,1,0,0
+47,560923,"Sabina Park, Kingston",West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",0,6,11,0,0
+48,560923,"Sabina Park, Kingston",West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",1,7,13,0,0
+49,560923,"Sabina Park, Kingston",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,11,17,2,0
+50,560923,"Sabina Park, Kingston",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,8,24,0,0
+51,560923,"Sabina Park, Kingston",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",0,11,22,1,0
+52,560924,"Sabina Park, Kingston",West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",0,4,7,0,0
+53,560924,"Sabina Park, Kingston",West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,25,15,0,2
+54,560924,"Sabina Park, Kingston",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,20,18,2,0
+55,560924,"Sabina Park, Kingston",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",1,12,15,1,0
+56,560925,"Warner Park, Basseterre",West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",0,2,12,0,0
+57,560925,"Warner Park, Basseterre",West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,14,9,2,0
+58,560925,"Warner Park, Basseterre",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,15,19,2,0
+59,560925,"Warner Park, Basseterre",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",0,1,2,0,0
+60,527015,Harare Sports Club,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",0,1,3,0,0

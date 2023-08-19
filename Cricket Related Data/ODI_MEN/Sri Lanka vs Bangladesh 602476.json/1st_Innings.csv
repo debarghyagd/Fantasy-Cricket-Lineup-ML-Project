@@ -1,0 +1,312 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,MDKJ Perera,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+1,0.2,MDKJ Perera,TM Dilshan,Shahadat Hossain,1,0,null,1,0,null,null
+2,0.3,TM Dilshan,MDKJ Perera,Shahadat Hossain,0,0,null,0,0,null,null
+3,0.4,TM Dilshan,MDKJ Perera,Shahadat Hossain,4,0,null,4,0,null,null
+4,0.5,TM Dilshan,MDKJ Perera,Shahadat Hossain,0,0,null,0,0,null,null
+5,0.6,TM Dilshan,MDKJ Perera,Shahadat Hossain,0,0,null,0,0,null,null
+6,1.1,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,null,0,0,null,null
+7,1.2,MDKJ Perera,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+8,1.3,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,null,0,0,null,null
+9,1.4,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,null,0,0,null,null
+10,1.5,TM Dilshan,MDKJ Perera,Ziaur Rahman,4,0,null,4,0,null,null
+11,1.6,TM Dilshan,MDKJ Perera,Ziaur Rahman,4,0,null,4,0,null,null
+12,2.1,MDKJ Perera,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+13,2.2,MDKJ Perera,TM Dilshan,Shahadat Hossain,1,0,null,1,0,null,null
+14,2.3,TM Dilshan,MDKJ Perera,Shahadat Hossain,1,0,null,1,0,null,null
+15,2.4,MDKJ Perera,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+16,2.5,MDKJ Perera,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+17,2.6,MDKJ Perera,TM Dilshan,Shahadat Hossain,6,0,null,6,0,null,null
+18,3.1,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,null,0,0,null,null
+19,3.2,TM Dilshan,MDKJ Perera,Ziaur Rahman,3,0,null,3,0,null,null
+20,3.3,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,null,0,0,null,null
+21,3.4,MDKJ Perera,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+22,3.5,TM Dilshan,MDKJ Perera,Ziaur Rahman,4,0,null,4,0,null,null
+23,3.6,TM Dilshan,MDKJ Perera,Ziaur Rahman,1,0,null,1,0,null,null
+24,4.1,TM Dilshan,MDKJ Perera,Shahadat Hossain,0,0,null,0,0,null,null
+25,4.2,TM Dilshan,MDKJ Perera,Shahadat Hossain,0,0,null,0,0,null,null
+26,4.3,TM Dilshan,MDKJ Perera,Shahadat Hossain,0,0,null,0,0,null,null
+27,4.4,TM Dilshan,MDKJ Perera,Shahadat Hossain,1,0,null,1,0,null,null
+28,4.5,MDKJ Perera,TM Dilshan,Shahadat Hossain,4,0,null,4,0,null,null
+29,4.6,MDKJ Perera,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+30,5.1,TM Dilshan,MDKJ Perera,Ziaur Rahman,3,0,null,3,0,null,null
+31,5.2,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,null,0,0,null,null
+32,5.3,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,null,0,0,null,null
+33,5.4,MDKJ Perera,TM Dilshan,Ziaur Rahman,3,0,null,3,0,null,null
+34,5.5,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,null,0,0,null,null
+35,5.6,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,null,0,0,null,null
+36,6.1,MDKJ Perera,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+37,6.2,MDKJ Perera,TM Dilshan,Shahadat Hossain,4,0,null,4,0,null,null
+38,6.3,MDKJ Perera,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+39,6.4,MDKJ Perera,TM Dilshan,Shahadat Hossain,4,0,null,4,0,null,null
+40,6.5,MDKJ Perera,TM Dilshan,Shahadat Hossain,4,0,null,4,0,null,null
+41,6.6,MDKJ Perera,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+42,7.1,TM Dilshan,MDKJ Perera,Sohag Gazi,0,0,null,0,0,null,null
+43,7.2,TM Dilshan,MDKJ Perera,Sohag Gazi,0,0,null,0,0,null,null
+44,7.3,TM Dilshan,MDKJ Perera,Sohag Gazi,1,0,null,1,0,null,null
+45,7.4,MDKJ Perera,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+46,7.5,MDKJ Perera,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+47,7.6,MDKJ Perera,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+48,8.1,TM Dilshan,MDKJ Perera,Abdur Razzak,0,0,null,0,0,null,null
+49,8.2,TM Dilshan,MDKJ Perera,Abdur Razzak,1,0,null,1,0,null,null
+50,8.3,MDKJ Perera,TM Dilshan,Abdur Razzak,4,0,null,4,0,null,null
+51,8.4,MDKJ Perera,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+52,8.5,MDKJ Perera,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+53,8.6,MDKJ Perera,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+54,9.1,TM Dilshan,MDKJ Perera,Sohag Gazi,1,0,null,1,0,null,null
+55,9.2,MDKJ Perera,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+56,9.3,TM Dilshan,MDKJ Perera,Sohag Gazi,1,0,null,1,0,null,null
+57,9.4,MDKJ Perera,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+58,9.5,MDKJ Perera,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+59,9.6,MDKJ Perera,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+60,10.1,TM Dilshan,MDKJ Perera,Abdur Razzak,0,0,null,0,0,null,null
+61,10.2,TM Dilshan,MDKJ Perera,Abdur Razzak,1,0,null,1,0,null,null
+62,10.3,MDKJ Perera,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+63,10.4,MDKJ Perera,TM Dilshan,Abdur Razzak,1,0,null,1,0,null,null
+64,10.5,TM Dilshan,MDKJ Perera,Abdur Razzak,1,0,null,1,0,null,null
+65,10.6,MDKJ Perera,TM Dilshan,Abdur Razzak,2,0,null,2,0,null,null
+66,11.1,TM Dilshan,MDKJ Perera,Mahmudullah,1,0,null,1,0,null,null
+67,11.2,MDKJ Perera,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+68,11.3,TM Dilshan,MDKJ Perera,Mahmudullah,1,0,null,1,0,null,null
+69,11.4,MDKJ Perera,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+70,11.5,MDKJ Perera,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+71,11.6,TM Dilshan,MDKJ Perera,Mahmudullah,1,0,null,1,0,null,null
+72,12.1,TM Dilshan,MDKJ Perera,Abdur Razzak,0,1,wides ,1,0,null,null
+73,12.2,TM Dilshan,MDKJ Perera,Abdur Razzak,0,0,null,0,0,null,null
+74,12.3,TM Dilshan,MDKJ Perera,Abdur Razzak,0,0,null,0,0,null,null
+75,12.4,TM Dilshan,MDKJ Perera,Abdur Razzak,1,0,null,1,0,null,null
+76,12.5,MDKJ Perera,TM Dilshan,Abdur Razzak,1,0,null,1,0,null,null
+77,12.6,TM Dilshan,MDKJ Perera,Abdur Razzak,0,0,null,0,0,null,null
+78,12.7,TM Dilshan,MDKJ Perera,Abdur Razzak,1,0,null,1,0,null,null
+79,13.1,TM Dilshan,MDKJ Perera,Mahmudullah,1,0,null,1,0,null,null
+80,13.2,MDKJ Perera,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+81,13.3,MDKJ Perera,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+82,13.4,MDKJ Perera,TM Dilshan,Mahmudullah,0,1,legbyes ,1,0,null,null
+83,13.5,TM Dilshan,MDKJ Perera,Mahmudullah,1,0,null,1,0,null,null
+84,13.6,MDKJ Perera,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+85,14.1,MDKJ Perera,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+86,14.2,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,null,0,0,null,null
+87,14.3,TM Dilshan,MDKJ Perera,Ziaur Rahman,1,0,null,1,0,null,null
+88,14.4,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,null,0,0,null,null
+89,14.5,MDKJ Perera,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+90,14.6,TM Dilshan,MDKJ Perera,Ziaur Rahman,1,0,null,1,0,null,null
+91,15.1,TM Dilshan,MDKJ Perera,Mahmudullah,2,0,null,2,0,null,null
+92,15.2,TM Dilshan,MDKJ Perera,Mahmudullah,1,0,null,1,0,null,null
+93,15.3,MDKJ Perera,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+94,15.4,TM Dilshan,MDKJ Perera,Mahmudullah,1,0,null,1,0,null,null
+95,15.5,MDKJ Perera,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+96,15.6,TM Dilshan,MDKJ Perera,Mahmudullah,1,0,null,1,0,null,null
+97,16.1,TM Dilshan,MDKJ Perera,Ziaur Rahman,1,0,null,1,0,null,null
+98,16.2,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,null,0,0,null,null
+99,16.3,MDKJ Perera,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+100,16.4,TM Dilshan,MDKJ Perera,Ziaur Rahman,1,0,null,1,0,null,null
+101,16.5,MDKJ Perera,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+102,16.6,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,null,0,0,null,null
+103,17.1,MDKJ Perera,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+104,17.2,TM Dilshan,MDKJ Perera,Mahmudullah,1,0,null,1,0,null,null
+105,17.3,MDKJ Perera,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+106,17.4,TM Dilshan,MDKJ Perera,Mahmudullah,1,0,null,1,0,null,null
+107,17.5,MDKJ Perera,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+108,17.6,MDKJ Perera,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+109,18.1,MDKJ Perera,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+110,18.2,TM Dilshan,MDKJ Perera,Ziaur Rahman,1,0,null,1,0,null,null
+111,18.3,MDKJ Perera,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+112,18.4,TM Dilshan,MDKJ Perera,Ziaur Rahman,1,0,null,1,0,null,null
+113,18.5,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,null,0,0,null,null
+114,18.6,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,null,0,0,null,null
+115,19.1,TM Dilshan,MDKJ Perera,Mahmudullah,0,0,null,0,0,null,null
+116,19.2,TM Dilshan,MDKJ Perera,Mahmudullah,1,0,null,1,0,null,null
+117,19.3,MDKJ Perera,TM Dilshan,Mahmudullah,2,0,null,2,0,null,null
+118,19.4,MDKJ Perera,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+119,19.5,MDKJ Perera,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+120,19.6,TM Dilshan,MDKJ Perera,Mahmudullah,0,0,null,0,0,null,null
+121,20.1,MDKJ Perera,TM Dilshan,Ziaur Rahman,0,0,null,0,0,null,null
+122,20.2,MDKJ Perera,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+123,20.3,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,null,0,0,null,null
+124,20.4,TM Dilshan,MDKJ Perera,Ziaur Rahman,0,0,null,0,0,null,null
+125,20.5,TM Dilshan,MDKJ Perera,Ziaur Rahman,4,0,null,4,0,null,null
+126,20.6,TM Dilshan,MDKJ Perera,Ziaur Rahman,2,0,null,2,0,null,null
+127,21.1,MDKJ Perera,TM Dilshan,Mahmudullah,0,0,null,0,1,MDKJ Perera,caught
+128,21.2,KC Sangakkara,TM Dilshan,Mahmudullah,2,0,null,2,0,null,null
+129,21.3,KC Sangakkara,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+130,21.4,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+131,21.5,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,null,1,0,null,null
+132,21.6,KC Sangakkara,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+133,22.1,TM Dilshan,KC Sangakkara,Shahadat Hossain,1,0,null,1,0,null,null
+134,22.2,KC Sangakkara,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+135,22.3,KC Sangakkara,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+136,22.4,KC Sangakkara,TM Dilshan,Shahadat Hossain,1,0,null,1,0,null,null
+137,22.5,TM Dilshan,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+138,22.6,TM Dilshan,KC Sangakkara,Shahadat Hossain,1,0,null,1,0,null,null
+139,23.1,TM Dilshan,KC Sangakkara,Mahmudullah,0,0,null,0,0,null,null
+140,23.2,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,null,1,0,null,null
+141,23.3,KC Sangakkara,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+142,23.4,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+143,23.5,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,null,1,0,null,null
+144,23.6,KC Sangakkara,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+145,24.1,TM Dilshan,KC Sangakkara,Shahadat Hossain,0,1,wides ,1,0,null,null
+146,24.2,TM Dilshan,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+147,24.3,TM Dilshan,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+148,24.4,TM Dilshan,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+149,24.5,TM Dilshan,KC Sangakkara,Shahadat Hossain,1,0,null,1,0,null,null
+150,24.6,KC Sangakkara,TM Dilshan,Shahadat Hossain,0,1,wides ,1,0,null,null
+151,24.7,KC Sangakkara,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+152,24.8,KC Sangakkara,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+153,25.1,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,null,1,0,null,null
+154,25.2,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+155,25.3,TM Dilshan,KC Sangakkara,Mahmudullah,0,0,null,0,0,null,null
+156,25.4,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,null,1,0,null,null
+157,25.5,KC Sangakkara,TM Dilshan,Mahmudullah,2,0,null,2,0,null,null
+158,25.6,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+159,26.1,KC Sangakkara,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+160,26.2,TM Dilshan,KC Sangakkara,Ziaur Rahman,0,0,null,0,0,null,null
+161,26.3,TM Dilshan,KC Sangakkara,Ziaur Rahman,1,0,null,1,0,null,null
+162,26.4,KC Sangakkara,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+163,26.5,TM Dilshan,KC Sangakkara,Ziaur Rahman,0,0,null,0,0,null,null
+164,26.6,TM Dilshan,KC Sangakkara,Ziaur Rahman,0,0,null,0,0,null,null
+165,27.1,KC Sangakkara,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+166,27.2,KC Sangakkara,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+167,27.3,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+168,27.4,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,null,1,0,null,null
+169,27.5,KC Sangakkara,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+170,27.6,KC Sangakkara,TM Dilshan,Mahmudullah,2,0,null,2,0,null,null
+171,28.1,TM Dilshan,KC Sangakkara,Ziaur Rahman,4,0,null,4,0,null,null
+172,28.2,TM Dilshan,KC Sangakkara,Ziaur Rahman,0,0,null,0,0,null,null
+173,28.3,TM Dilshan,KC Sangakkara,Ziaur Rahman,1,0,null,1,0,null,null
+174,28.4,KC Sangakkara,TM Dilshan,Ziaur Rahman,0,1,wides ,1,0,null,null
+175,28.5,KC Sangakkara,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+176,28.6,TM Dilshan,KC Sangakkara,Ziaur Rahman,1,0,null,1,0,null,null
+177,28.7,KC Sangakkara,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+178,29.1,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+179,29.2,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,null,1,0,null,null
+180,29.3,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+181,29.4,TM Dilshan,KC Sangakkara,Mahmudullah,1,0,null,1,0,null,null
+182,29.5,KC Sangakkara,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+183,29.6,TM Dilshan,KC Sangakkara,Mahmudullah,4,0,null,4,0,null,null
+184,30.1,KC Sangakkara,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+185,30.2,KC Sangakkara,TM Dilshan,Sohag Gazi,4,0,null,4,0,null,null
+186,30.3,KC Sangakkara,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+187,30.4,TM Dilshan,KC Sangakkara,Sohag Gazi,1,0,null,1,0,null,null
+188,30.5,KC Sangakkara,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+189,30.6,TM Dilshan,KC Sangakkara,Sohag Gazi,0,0,null,0,0,null,null
+190,31.1,KC Sangakkara,TM Dilshan,Abdur Razzak,1,0,null,1,0,null,null
+191,31.2,TM Dilshan,KC Sangakkara,Abdur Razzak,1,0,null,1,0,null,null
+192,31.3,KC Sangakkara,TM Dilshan,Abdur Razzak,4,0,null,4,0,null,null
+193,31.4,KC Sangakkara,TM Dilshan,Abdur Razzak,1,0,null,1,0,null,null
+194,31.5,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,null,0,0,null,null
+195,31.6,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,null,0,0,null,null
+196,32.1,KC Sangakkara,TM Dilshan,Sohag Gazi,4,0,null,4,0,null,null
+197,32.2,KC Sangakkara,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+198,32.3,TM Dilshan,KC Sangakkara,Sohag Gazi,1,0,null,1,0,null,null
+199,32.4,KC Sangakkara,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+200,32.5,TM Dilshan,KC Sangakkara,Sohag Gazi,0,0,null,0,0,null,null
+201,32.6,TM Dilshan,KC Sangakkara,Sohag Gazi,1,0,null,1,0,null,null
+202,33.1,TM Dilshan,KC Sangakkara,Shahadat Hossain,1,0,null,1,0,null,null
+203,33.2,KC Sangakkara,TM Dilshan,Shahadat Hossain,4,0,null,4,0,null,null
+204,33.3,KC Sangakkara,TM Dilshan,Shahadat Hossain,1,0,null,1,0,null,null
+205,33.4,TM Dilshan,KC Sangakkara,Shahadat Hossain,0,1,wides ,1,0,null,null
+206,33.5,TM Dilshan,KC Sangakkara,Shahadat Hossain,4,0,null,4,0,null,null
+207,33.6,TM Dilshan,KC Sangakkara,Shahadat Hossain,1,0,null,1,0,null,null
+208,33.7,KC Sangakkara,TM Dilshan,Shahadat Hossain,0,1,noballs ,1,0,null,null
+209,33.8,KC Sangakkara,TM Dilshan,Shahadat Hossain,1,0,null,1,0,null,null
+210,34.1,KC Sangakkara,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+211,34.2,KC Sangakkara,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+212,34.3,KC Sangakkara,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+213,34.4,KC Sangakkara,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+214,34.5,KC Sangakkara,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+215,34.6,TM Dilshan,KC Sangakkara,Sohag Gazi,1,0,null,1,0,null,null
+216,35.1,TM Dilshan,KC Sangakkara,Abdur Razzak,0,0,null,0,0,null,null
+217,35.2,TM Dilshan,KC Sangakkara,Abdur Razzak,1,0,null,1,0,null,null
+218,35.3,KC Sangakkara,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+219,35.4,KC Sangakkara,TM Dilshan,Abdur Razzak,4,0,null,4,0,null,null
+220,35.5,KC Sangakkara,TM Dilshan,Abdur Razzak,0,0,null,0,1,KC Sangakkara,caught
+221,35.6,NLTC Perera,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+222,36.1,TM Dilshan,NLTC Perera,Sohag Gazi,1,0,null,1,0,null,null
+223,36.2,NLTC Perera,TM Dilshan,Sohag Gazi,0,1,wides ,1,0,null,null
+224,36.3,NLTC Perera,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+225,36.4,NLTC Perera,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+226,36.5,NLTC Perera,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+227,36.6,TM Dilshan,NLTC Perera,Sohag Gazi,1,0,null,1,0,null,null
+228,36.7,NLTC Perera,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+229,37.1,NLTC Perera,TM Dilshan,Abdur Razzak,1,0,null,1,0,null,null
+230,37.2,TM Dilshan,NLTC Perera,Abdur Razzak,1,0,null,1,0,null,null
+231,37.3,NLTC Perera,TM Dilshan,Abdur Razzak,1,0,null,1,0,null,null
+232,37.4,TM Dilshan,NLTC Perera,Abdur Razzak,0,0,null,0,0,null,null
+233,37.5,TM Dilshan,NLTC Perera,Abdur Razzak,1,0,null,1,0,null,null
+234,37.6,NLTC Perera,TM Dilshan,Abdur Razzak,0,0,null,0,1,NLTC Perera,bowled
+235,38.1,TM Dilshan,AD Mathews,Sohag Gazi,1,0,null,1,0,null,null
+236,38.2,AD Mathews,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+237,38.3,TM Dilshan,AD Mathews,Sohag Gazi,1,0,null,1,0,null,null
+238,38.4,AD Mathews,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+239,38.5,TM Dilshan,AD Mathews,Sohag Gazi,1,0,null,1,0,null,null
+240,38.6,AD Mathews,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+241,39.1,TM Dilshan,AD Mathews,Abdur Razzak,1,0,null,1,0,null,null
+242,39.2,AD Mathews,TM Dilshan,Abdur Razzak,0,1,wides ,1,0,null,null
+243,39.3,AD Mathews,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+244,39.4,AD Mathews,TM Dilshan,Abdur Razzak,1,0,null,1,0,null,null
+245,39.5,TM Dilshan,AD Mathews,Abdur Razzak,0,0,null,0,0,null,null
+246,39.6,TM Dilshan,AD Mathews,Abdur Razzak,0,0,null,0,0,null,null
+247,39.7,TM Dilshan,AD Mathews,Abdur Razzak,1,0,null,1,0,null,null
+248,40.1,TM Dilshan,AD Mathews,Sohag Gazi,1,0,null,1,0,null,null
+249,40.2,AD Mathews,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+250,40.3,TM Dilshan,AD Mathews,Sohag Gazi,1,0,null,1,0,null,null
+251,40.4,AD Mathews,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+252,40.5,TM Dilshan,AD Mathews,Sohag Gazi,1,0,null,1,0,null,null
+253,40.6,AD Mathews,TM Dilshan,Sohag Gazi,0,1,wides ,1,0,null,null
+254,40.7,AD Mathews,TM Dilshan,Sohag Gazi,1,0,null,1,0,null,null
+255,41.1,AD Mathews,TM Dilshan,Abdur Razzak,0,0,null,0,1,AD Mathews,stumped
+256,41.2,BMAJ Mendis,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+257,41.3,BMAJ Mendis,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+258,41.4,BMAJ Mendis,TM Dilshan,Abdur Razzak,4,0,null,4,0,null,null
+259,41.5,BMAJ Mendis,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+260,41.6,BMAJ Mendis,TM Dilshan,Abdur Razzak,1,0,null,1,0,null,null
+261,42.1,BMAJ Mendis,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+262,42.2,BMAJ Mendis,TM Dilshan,Sohag Gazi,0,0,null,0,1,BMAJ Mendis,bowled
+263,42.3,LD Chandimal,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+264,42.4,LD Chandimal,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+265,42.5,LD Chandimal,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+266,42.6,LD Chandimal,TM Dilshan,Sohag Gazi,0,0,null,0,0,null,null
+267,43.1,TM Dilshan,LD Chandimal,Ziaur Rahman,0,0,null,0,0,null,null
+268,43.2,TM Dilshan,LD Chandimal,Ziaur Rahman,4,0,null,4,0,null,null
+269,43.3,TM Dilshan,LD Chandimal,Ziaur Rahman,1,0,null,1,0,null,null
+270,43.4,LD Chandimal,TM Dilshan,Ziaur Rahman,0,0,null,0,1,LD Chandimal,bowled
+271,43.5,HDRL Thirimanne,TM Dilshan,Ziaur Rahman,1,0,null,1,0,null,null
+272,43.6,TM Dilshan,HDRL Thirimanne,Ziaur Rahman,4,0,null,4,0,null,null
+273,44.1,HDRL Thirimanne,TM Dilshan,Shahadat Hossain,1,0,null,1,0,null,null
+274,44.2,TM Dilshan,HDRL Thirimanne,Shahadat Hossain,1,0,null,1,0,null,null
+275,44.3,HDRL Thirimanne,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+276,44.4,HDRL Thirimanne,TM Dilshan,Shahadat Hossain,0,1,legbyes ,1,0,null,null
+277,44.5,TM Dilshan,HDRL Thirimanne,Shahadat Hossain,1,0,null,1,0,null,null
+278,44.6,HDRL Thirimanne,TM Dilshan,Shahadat Hossain,0,0,null,0,0,null,null
+279,45.1,TM Dilshan,HDRL Thirimanne,Abdur Razzak,4,0,null,4,0,null,null
+280,45.2,TM Dilshan,HDRL Thirimanne,Abdur Razzak,1,0,null,1,0,null,null
+281,45.3,HDRL Thirimanne,TM Dilshan,Abdur Razzak,1,0,null,1,0,null,null
+282,45.4,TM Dilshan,HDRL Thirimanne,Abdur Razzak,0,0,null,0,0,null,null
+283,45.5,TM Dilshan,HDRL Thirimanne,Abdur Razzak,0,5,wides ,5,0,null,null
+284,45.6,TM Dilshan,HDRL Thirimanne,Abdur Razzak,1,0,null,1,0,null,null
+285,45.7,HDRL Thirimanne,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+286,46.1,TM Dilshan,HDRL Thirimanne,Shahadat Hossain,4,0,null,4,0,null,null
+287,46.2,TM Dilshan,HDRL Thirimanne,Shahadat Hossain,0,0,null,0,1,TM Dilshan,caught
+288,46.3,KMDN Kulasekara,HDRL Thirimanne,Shahadat Hossain,0,0,null,0,0,null,null
+289,46.4,KMDN Kulasekara,HDRL Thirimanne,Shahadat Hossain,0,0,null,0,0,null,null
+290,46.5,KMDN Kulasekara,HDRL Thirimanne,Shahadat Hossain,0,0,null,0,0,null,null
+291,46.6,KMDN Kulasekara,HDRL Thirimanne,Shahadat Hossain,0,0,null,0,0,null,null
+292,47.1,HDRL Thirimanne,KMDN Kulasekara,Sohag Gazi,2,0,null,2,0,null,null
+293,47.2,HDRL Thirimanne,KMDN Kulasekara,Sohag Gazi,1,0,null,1,0,null,null
+294,47.3,KMDN Kulasekara,HDRL Thirimanne,Sohag Gazi,2,0,null,2,0,null,null
+295,47.4,KMDN Kulasekara,HDRL Thirimanne,Sohag Gazi,0,0,null,0,0,null,null
+296,47.5,KMDN Kulasekara,HDRL Thirimanne,Sohag Gazi,0,1,wides ,1,0,null,null
+297,47.6,KMDN Kulasekara,HDRL Thirimanne,Sohag Gazi,2,0,null,2,0,null,null
+298,47.7,KMDN Kulasekara,HDRL Thirimanne,Sohag Gazi,6,0,null,6,0,null,null
+299,48.1,HDRL Thirimanne,KMDN Kulasekara,Shahadat Hossain,6,0,null,6,0,null,null
+300,48.2,HDRL Thirimanne,KMDN Kulasekara,Shahadat Hossain,4,0,null,4,0,null,null
+301,48.3,HDRL Thirimanne,KMDN Kulasekara,Shahadat Hossain,2,0,null,2,0,null,null
+302,48.4,HDRL Thirimanne,KMDN Kulasekara,Shahadat Hossain,0,0,null,0,0,null,null
+303,48.5,HDRL Thirimanne,KMDN Kulasekara,Shahadat Hossain,1,0,null,1,0,null,null
+304,48.6,KMDN Kulasekara,HDRL Thirimanne,Shahadat Hossain,1,0,null,1,0,null,null
+305,49.1,KMDN Kulasekara,HDRL Thirimanne,Abdur Razzak,0,0,null,0,1,KMDN Kulasekara,lbw
+306,49.2,SMSM Senanayake,HDRL Thirimanne,Abdur Razzak,0,0,null,0,1,SMSM Senanayake,bowled
+307,49.3,SL Malinga,HDRL Thirimanne,Abdur Razzak,0,0,null,0,0,null,null
+308,49.4,SL Malinga,HDRL Thirimanne,Abdur Razzak,4,0,null,4,0,null,null
+309,49.5,SL Malinga,HDRL Thirimanne,Abdur Razzak,1,0,null,1,0,null,null
+310,49.6,HDRL Thirimanne,SL Malinga,Abdur Razzak,6,0,null,6,0,null,null

@@ -1,0 +1,18 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,66208,Edgbaston,England,AF Giles,Left-arm orthodox,"[1, 0, 1]",0,7,11,0,0
+1,66208,Edgbaston,England,SJ Harmison,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0
+2,66375,VRA Cricket Ground,India,A Kumble,Right-arm legbreak,"[1, 1, 1]",1,10,19,0,0
+3,66375,VRA Cricket Ground,India,L Balaji,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+4,66375,VRA Cricket Ground,India,A Nehra,Left-arm fast-medium,"[0, 0, 1]",0,4,4,0,0
+5,66385,Docklands Stadium,New Zealand,CL Cairns,Right-arm fast-medium,"[0, 1, 1]",0,7,9,0,0
+6,66385,Docklands Stadium,New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",0,15,26,1,0
+7,66385,Docklands Stadium,New Zealand,IG Butler,Right-arm fast,"[0, 1, 0]",0,3,4,0,0
+8,66386,Sydney Cricket Ground,New Zealand,CL Cairns,Right-arm fast-medium,"[0, 1, 1]",0,18,20,2,0
+9,66386,Sydney Cricket Ground,New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",0,7,12,0,0
+10,66386,Sydney Cricket Ground,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,7,13,1,0
+11,66377,Lord's,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",0,5,13,0,0
+12,64900,Harare Sports Club,Zimbabwe,T Mupariwa,Right-arm fast-medium,"[0, 1, 1]",0,11,10,1,0
+13,64900,Harare Sports Club,Zimbabwe,W Mwayenga,Right-arm medium,"[0, 1, 2]",0,28,22,2,1
+14,64900,Harare Sports Club,Zimbabwe,S Matsikenyeri,Right-arm offbreak,"[1, 1, 0]",1,14,15,2,0
+15,64900,Harare Sports Club,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+16,65660,"Brisbane Cricket Ground, Woolloongabba",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,8,4,1,0

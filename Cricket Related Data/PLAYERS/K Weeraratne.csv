@@ -1,0 +1,9 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,335356,National Stadium,India,I Sharma,Right-arm fast-medium,"[0, 1, 1]",0,10,7,2,0
+1,335356,National Stadium,India,RP Singh,Left-arm fast-medium,"[0, 0, 1]",1,7,6,1,0
+2,335350,Gaddafi Stadium,United Arab Emirates,Khurram Khan,Left-arm orthodox,"[1, 0, 1]",0,9,9,1,0
+3,335350,Gaddafi Stadium,United Arab Emirates,Mohammad Tauqir,Right-arm offbreak,"[1, 1, 0]",0,1,4,0,0
+4,319135,"Queen's Park Oval, Port of Spain",West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",1,6,8,0,0
+5,319135,"Queen's Park Oval, Port of Spain",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,5,9,0,0
+6,319136,"Beausejour Stadium, Gros Islet",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,14,12,1,0
+7,319136,"Beausejour Stadium, Gros Islet",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,13,13,0,1

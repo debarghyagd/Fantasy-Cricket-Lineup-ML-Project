@@ -1,0 +1,12 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,343761,Gaddafi Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,2,3,0,0
+1,343761,Gaddafi Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,0,7,0,0
+2,343762,Multan Cricket Stadium,Bangladesh,Shahadat Hossain,Right-arm fast-medium,"[0, 1, 1]",0,8,10,0,0
+3,343762,Multan Cricket Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,1,15,0,0
+4,343762,Multan Cricket Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,22,33,0,1
+5,209768,"Daren Sammy National Cricket Stadium, Gros Islet",West Indies,WW Hinds,Right-arm medium,"[0, 1, 2]",0,8,9,0,0
+6,209768,"Daren Sammy National Cricket Stadium, Gros Islet",West Indies,IDR Bradshaw,Left-arm fast-medium,"[0, 0, 1]",0,3,13,0,0
+7,209768,"Daren Sammy National Cricket Stadium, Gros Islet",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,24,19,3,0
+8,209768,"Daren Sammy National Cricket Stadium, Gros Islet",West Indies,CD Collymore,Right-arm fast-medium,"[0, 1, 1]",1,6,14,0,0
+9,66378,Multan Cricket Stadium,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",1,4,16,0,0
+10,66379,Arbab Niaz Stadium,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",1,0,13,0,0

@@ -1,0 +1,17 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1325551,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,14,22,2,0
+1,1325551,Harare Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,10,17,1,0
+2,1325551,Harare Sports Club,Zimbabwe,VM Nyauchi,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+3,1325551,Harare Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,11,9,1,0
+4,1325551,Harare Sports Club,Zimbabwe,R Ngarava,Left-arm fast-medium,"[0, 0, 1]",0,6,4,1,0
+5,1262755,"R Premadasa Stadium, Colombo",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",0,4,4,0,0
+6,1262755,"R Premadasa Stadium, Colombo",Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",1,10,14,1,0
+7,1262755,"R Premadasa Stadium, Colombo",Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,22,9,4,1
+8,1262755,"R Premadasa Stadium, Colombo",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,1,5,0,0
+9,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,CAK Rajitha,Right-arm fast-medium,"[0, 1, 1]",1,1,5,0,0
+10,1278676,"Narendra Modi Stadium, Ahmedabad",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,12,12,1,1
+11,1278676,"Narendra Modi Stadium, Ahmedabad",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,3,10,0,0
+12,1278676,"Narendra Modi Stadium, Ahmedabad",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",1,7,10,0,0
+13,1325550,Harare Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",1,1,2,0,0
+14,1325550,Harare Sports Club,Zimbabwe,TL Chivanga,Right-arm fast,"[0, 1, 0]",0,3,9,0,0
+15,1325550,Harare Sports Club,Zimbabwe,VM Nyauchi,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0

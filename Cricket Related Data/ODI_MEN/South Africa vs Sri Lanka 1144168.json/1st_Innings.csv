@@ -1,0 +1,279 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Q de Kock,RR Hendricks,SL Malinga,1,0,null,1,0,null,null
+1,0.2,RR Hendricks,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+2,0.3,RR Hendricks,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+3,0.4,RR Hendricks,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+4,0.5,RR Hendricks,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+5,0.6,RR Hendricks,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+6,1.1,Q de Kock,RR Hendricks,MVT Fernando,0,0,null,0,0,null,null
+7,1.2,Q de Kock,RR Hendricks,MVT Fernando,4,0,null,4,0,null,null
+8,1.3,Q de Kock,RR Hendricks,MVT Fernando,4,0,null,4,0,null,null
+9,1.4,Q de Kock,RR Hendricks,MVT Fernando,4,0,null,4,0,null,null
+10,1.5,Q de Kock,RR Hendricks,MVT Fernando,0,0,null,0,0,null,null
+11,1.6,Q de Kock,RR Hendricks,MVT Fernando,4,0,null,4,0,null,null
+12,2.1,RR Hendricks,Q de Kock,SL Malinga,1,0,null,1,0,null,null
+13,2.2,Q de Kock,RR Hendricks,SL Malinga,0,0,null,0,0,null,null
+14,2.3,Q de Kock,RR Hendricks,SL Malinga,0,0,null,0,0,null,null
+15,2.4,Q de Kock,RR Hendricks,SL Malinga,0,0,null,0,0,null,null
+16,2.5,Q de Kock,RR Hendricks,SL Malinga,1,0,null,1,0,null,null
+17,2.6,RR Hendricks,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+18,3.1,Q de Kock,RR Hendricks,DM de Silva,0,0,null,0,0,null,null
+19,3.2,Q de Kock,RR Hendricks,DM de Silva,0,0,null,0,0,null,null
+20,3.3,Q de Kock,RR Hendricks,DM de Silva,0,0,null,0,0,null,null
+21,3.4,Q de Kock,RR Hendricks,DM de Silva,4,0,null,4,0,null,null
+22,3.5,Q de Kock,RR Hendricks,DM de Silva,0,0,null,0,0,null,null
+23,3.6,Q de Kock,RR Hendricks,DM de Silva,4,0,null,4,0,null,null
+24,4.1,RR Hendricks,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+25,4.2,RR Hendricks,Q de Kock,SL Malinga,4,0,null,4,0,null,null
+26,4.3,RR Hendricks,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+27,4.4,RR Hendricks,Q de Kock,SL Malinga,2,0,null,2,0,null,null
+28,4.5,RR Hendricks,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+29,4.6,RR Hendricks,Q de Kock,SL Malinga,4,0,null,4,0,null,null
+30,5.1,Q de Kock,RR Hendricks,MVT Fernando,4,0,null,4,0,null,null
+31,5.2,Q de Kock,RR Hendricks,MVT Fernando,0,1,wides ,1,0,null,null
+32,5.3,Q de Kock,RR Hendricks,MVT Fernando,0,0,null,0,0,null,null
+33,5.4,Q de Kock,RR Hendricks,MVT Fernando,0,0,null,0,0,null,null
+34,5.5,Q de Kock,RR Hendricks,MVT Fernando,0,0,null,0,0,null,null
+35,5.6,Q de Kock,RR Hendricks,MVT Fernando,0,0,null,0,0,null,null
+36,5.7,Q de Kock,RR Hendricks,MVT Fernando,0,0,null,0,0,null,null
+37,6.1,RR Hendricks,Q de Kock,CAK Rajitha,0,0,null,0,0,null,null
+38,6.2,RR Hendricks,Q de Kock,CAK Rajitha,4,0,null,4,0,null,null
+39,6.3,RR Hendricks,Q de Kock,CAK Rajitha,1,0,null,1,0,null,null
+40,6.4,Q de Kock,RR Hendricks,CAK Rajitha,0,0,null,0,0,null,null
+41,6.5,Q de Kock,RR Hendricks,CAK Rajitha,0,0,null,0,0,null,null
+42,6.6,Q de Kock,RR Hendricks,CAK Rajitha,4,0,null,4,0,null,null
+43,7.1,RR Hendricks,Q de Kock,MVT Fernando,0,0,null,0,0,null,null
+44,7.2,RR Hendricks,Q de Kock,MVT Fernando,1,0,null,1,0,null,null
+45,7.3,Q de Kock,RR Hendricks,MVT Fernando,4,0,null,4,0,null,null
+46,7.4,Q de Kock,RR Hendricks,MVT Fernando,2,0,null,2,0,null,null
+47,7.5,Q de Kock,RR Hendricks,MVT Fernando,0,0,null,0,0,null,null
+48,7.6,Q de Kock,RR Hendricks,MVT Fernando,1,0,null,1,0,null,null
+49,8.1,Q de Kock,RR Hendricks,CAK Rajitha,0,0,null,0,0,null,null
+50,8.2,Q de Kock,RR Hendricks,CAK Rajitha,4,0,null,4,0,null,null
+51,8.3,Q de Kock,RR Hendricks,CAK Rajitha,0,0,null,0,0,null,null
+52,8.4,Q de Kock,RR Hendricks,CAK Rajitha,0,1,wides ,1,0,null,null
+53,8.5,Q de Kock,RR Hendricks,CAK Rajitha,0,0,null,0,0,null,null
+54,8.6,Q de Kock,RR Hendricks,CAK Rajitha,4,0,null,4,0,null,null
+55,8.7,Q de Kock,RR Hendricks,CAK Rajitha,4,0,null,4,0,null,null
+56,9.1,RR Hendricks,Q de Kock,A Dananjaya,1,0,null,1,0,null,null
+57,9.2,Q de Kock,RR Hendricks,A Dananjaya,0,0,null,0,0,null,null
+58,9.3,Q de Kock,RR Hendricks,A Dananjaya,0,0,null,0,0,null,null
+59,9.4,Q de Kock,RR Hendricks,A Dananjaya,1,0,null,1,0,null,null
+60,9.5,RR Hendricks,Q de Kock,A Dananjaya,0,0,null,0,0,null,null
+61,9.6,RR Hendricks,Q de Kock,A Dananjaya,1,0,null,1,0,null,null
+62,10.1,RR Hendricks,Q de Kock,CAK Rajitha,0,0,null,0,0,null,null
+63,10.2,RR Hendricks,Q de Kock,CAK Rajitha,0,0,null,0,0,null,null
+64,10.3,RR Hendricks,Q de Kock,CAK Rajitha,0,0,null,0,0,null,null
+65,10.4,RR Hendricks,Q de Kock,CAK Rajitha,1,0,null,1,0,null,null
+66,10.5,Q de Kock,RR Hendricks,CAK Rajitha,0,0,null,0,0,null,null
+67,10.6,Q de Kock,RR Hendricks,CAK Rajitha,0,0,null,0,0,null,null
+68,11.1,RR Hendricks,Q de Kock,A Dananjaya,0,0,null,0,0,null,null
+69,11.2,RR Hendricks,Q de Kock,A Dananjaya,0,0,null,0,0,null,null
+70,11.3,RR Hendricks,Q de Kock,A Dananjaya,1,0,null,1,0,null,null
+71,11.4,Q de Kock,RR Hendricks,A Dananjaya,1,0,null,1,0,null,null
+72,11.5,RR Hendricks,Q de Kock,A Dananjaya,4,0,null,4,0,null,null
+73,11.6,RR Hendricks,Q de Kock,A Dananjaya,1,0,null,1,0,null,null
+74,12.1,RR Hendricks,Q de Kock,CAK Rajitha,0,0,null,0,0,null,null
+75,12.2,RR Hendricks,Q de Kock,CAK Rajitha,0,0,null,0,0,null,null
+76,12.3,RR Hendricks,Q de Kock,CAK Rajitha,0,0,null,0,0,null,null
+77,12.4,RR Hendricks,Q de Kock,CAK Rajitha,0,0,null,0,0,null,null
+78,12.5,RR Hendricks,Q de Kock,CAK Rajitha,0,0,null,0,0,null,null
+79,12.6,RR Hendricks,Q de Kock,CAK Rajitha,1,0,null,1,0,null,null
+80,13.1,RR Hendricks,Q de Kock,A Dananjaya,0,0,null,0,0,null,null
+81,13.2,RR Hendricks,Q de Kock,A Dananjaya,1,0,null,1,0,null,null
+82,13.3,Q de Kock,RR Hendricks,A Dananjaya,1,0,null,1,0,null,null
+83,13.4,RR Hendricks,Q de Kock,A Dananjaya,0,0,null,0,0,null,null
+84,13.5,RR Hendricks,Q de Kock,A Dananjaya,1,0,null,1,0,null,null
+85,13.6,Q de Kock,RR Hendricks,A Dananjaya,1,0,null,1,0,null,null
+86,14.1,Q de Kock,RR Hendricks,SL Malinga,2,0,null,2,0,null,null
+87,14.2,Q de Kock,RR Hendricks,SL Malinga,1,0,null,1,0,null,null
+88,14.3,RR Hendricks,Q de Kock,SL Malinga,0,0,null,0,1,RR Hendricks,caught
+89,14.4,F du Plessis,Q de Kock,SL Malinga,0,1,wides ,1,0,null,null
+90,14.5,F du Plessis,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+91,14.6,F du Plessis,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+92,14.7,F du Plessis,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+93,15.1,Q de Kock,F du Plessis,A Dananjaya,1,0,null,1,0,null,null
+94,15.2,F du Plessis,Q de Kock,A Dananjaya,0,0,null,0,0,null,null
+95,15.3,F du Plessis,Q de Kock,A Dananjaya,0,0,null,0,0,null,null
+96,15.4,F du Plessis,Q de Kock,A Dananjaya,1,0,null,1,0,null,null
+97,15.5,Q de Kock,F du Plessis,A Dananjaya,2,0,null,2,0,null,null
+98,15.6,Q de Kock,F du Plessis,A Dananjaya,1,0,null,1,0,null,null
+99,16.1,Q de Kock,F du Plessis,SL Malinga,0,0,null,0,0,null,null
+100,16.2,Q de Kock,F du Plessis,SL Malinga,0,0,null,0,0,null,null
+101,16.3,Q de Kock,F du Plessis,SL Malinga,4,0,null,4,0,null,null
+102,16.4,Q de Kock,F du Plessis,SL Malinga,0,0,null,0,0,null,null
+103,16.5,Q de Kock,F du Plessis,SL Malinga,1,0,null,1,0,null,null
+104,16.6,F du Plessis,Q de Kock,SL Malinga,0,0,null,0,0,null,null
+105,17.1,Q de Kock,F du Plessis,A Dananjaya,4,0,null,4,0,null,null
+106,17.2,Q de Kock,F du Plessis,A Dananjaya,4,0,null,4,0,null,null
+107,17.3,Q de Kock,F du Plessis,A Dananjaya,1,0,null,1,0,null,null
+108,17.4,F du Plessis,Q de Kock,A Dananjaya,2,0,null,2,0,null,null
+109,17.5,F du Plessis,Q de Kock,A Dananjaya,0,0,null,0,0,null,null
+110,17.6,F du Plessis,Q de Kock,A Dananjaya,0,0,null,0,0,null,null
+111,18.1,Q de Kock,F du Plessis,NLTC Perera,0,0,null,0,0,null,null
+112,18.2,Q de Kock,F du Plessis,NLTC Perera,0,0,null,0,0,null,null
+113,18.3,Q de Kock,F du Plessis,NLTC Perera,0,0,null,0,0,null,null
+114,18.4,Q de Kock,F du Plessis,NLTC Perera,1,0,null,1,0,null,null
+115,18.5,F du Plessis,Q de Kock,NLTC Perera,2,0,null,2,0,null,null
+116,18.6,F du Plessis,Q de Kock,NLTC Perera,0,0,null,0,0,null,null
+117,19.1,Q de Kock,F du Plessis,DM de Silva,4,0,null,4,0,null,null
+118,19.2,Q de Kock,F du Plessis,DM de Silva,6,0,null,6,0,null,null
+119,19.3,Q de Kock,F du Plessis,DM de Silva,0,0,null,0,0,null,null
+120,19.4,Q de Kock,F du Plessis,DM de Silva,4,0,null,4,0,null,null
+121,19.5,Q de Kock,F du Plessis,DM de Silva,0,0,null,0,0,null,null
+122,19.6,Q de Kock,F du Plessis,DM de Silva,1,0,null,1,0,null,null
+123,20.1,Q de Kock,F du Plessis,NLTC Perera,0,0,null,0,0,null,null
+124,20.2,Q de Kock,F du Plessis,NLTC Perera,0,0,null,0,0,null,null
+125,20.3,Q de Kock,F du Plessis,NLTC Perera,0,0,null,0,1,Q de Kock,caught
+126,20.4,F du Plessis,HE van der Dussen,NLTC Perera,0,0,null,0,0,null,null
+127,20.5,F du Plessis,HE van der Dussen,NLTC Perera,0,0,null,0,0,null,null
+128,20.6,F du Plessis,HE van der Dussen,NLTC Perera,1,0,null,1,0,null,null
+129,21.1,F du Plessis,HE van der Dussen,CAK Rajitha,0,0,null,0,0,null,null
+130,21.2,F du Plessis,HE van der Dussen,CAK Rajitha,0,0,null,0,0,null,null
+131,21.3,F du Plessis,HE van der Dussen,CAK Rajitha,1,0,null,1,0,null,null
+132,21.4,HE van der Dussen,F du Plessis,CAK Rajitha,0,0,null,0,0,null,null
+133,21.5,HE van der Dussen,F du Plessis,CAK Rajitha,2,0,null,2,0,null,null
+134,21.6,HE van der Dussen,F du Plessis,CAK Rajitha,0,1,wides ,1,0,null,null
+135,21.7,HE van der Dussen,F du Plessis,CAK Rajitha,0,0,null,0,0,null,null
+136,22.1,F du Plessis,HE van der Dussen,NLTC Perera,1,0,null,1,0,null,null
+137,22.2,HE van der Dussen,F du Plessis,NLTC Perera,0,0,null,0,1,HE van der Dussen,caught
+138,22.3,F du Plessis,PWA Mulder,NLTC Perera,0,0,null,0,0,null,null
+139,22.4,F du Plessis,PWA Mulder,NLTC Perera,0,0,null,0,0,null,null
+140,22.5,F du Plessis,PWA Mulder,NLTC Perera,4,0,null,4,0,null,null
+141,22.6,F du Plessis,PWA Mulder,NLTC Perera,1,0,null,1,0,null,null
+142,23.1,F du Plessis,PWA Mulder,CAK Rajitha,1,0,null,1,0,null,null
+143,23.2,PWA Mulder,F du Plessis,CAK Rajitha,4,0,null,4,0,null,null
+144,23.3,PWA Mulder,F du Plessis,CAK Rajitha,4,0,null,4,0,null,null
+145,23.4,PWA Mulder,F du Plessis,CAK Rajitha,4,0,null,4,0,null,null
+146,23.5,PWA Mulder,F du Plessis,CAK Rajitha,4,0,null,4,0,null,null
+147,23.6,PWA Mulder,F du Plessis,CAK Rajitha,0,0,null,0,0,null,null
+148,24.1,F du Plessis,PWA Mulder,NLTC Perera,4,0,null,4,0,null,null
+149,24.2,F du Plessis,PWA Mulder,NLTC Perera,0,0,null,0,0,null,null
+150,24.3,F du Plessis,PWA Mulder,NLTC Perera,1,0,null,1,0,null,null
+151,24.4,PWA Mulder,F du Plessis,NLTC Perera,0,0,null,0,0,null,null
+152,24.5,PWA Mulder,F du Plessis,NLTC Perera,0,0,null,0,0,null,null
+153,24.6,PWA Mulder,F du Plessis,NLTC Perera,0,0,null,0,0,null,null
+154,25.1,F du Plessis,PWA Mulder,A Dananjaya,0,0,null,0,0,null,null
+155,25.2,F du Plessis,PWA Mulder,A Dananjaya,0,0,null,0,0,null,null
+156,25.3,F du Plessis,PWA Mulder,A Dananjaya,1,0,null,1,0,null,null
+157,25.4,PWA Mulder,F du Plessis,A Dananjaya,1,0,null,1,0,null,null
+158,25.5,F du Plessis,PWA Mulder,A Dananjaya,0,0,null,0,0,null,null
+159,25.6,F du Plessis,PWA Mulder,A Dananjaya,1,0,null,1,0,null,null
+160,26.1,F du Plessis,PWA Mulder,MVT Fernando,0,0,null,0,0,null,null
+161,26.2,F du Plessis,PWA Mulder,MVT Fernando,4,0,null,4,0,null,null
+162,26.3,F du Plessis,PWA Mulder,MVT Fernando,4,0,null,4,0,null,null
+163,26.4,F du Plessis,PWA Mulder,MVT Fernando,1,0,null,1,0,null,null
+164,26.5,PWA Mulder,F du Plessis,MVT Fernando,0,0,null,0,0,null,null
+165,26.6,PWA Mulder,F du Plessis,MVT Fernando,0,0,null,0,1,PWA Mulder,bowled
+166,27.1,F du Plessis,DA Miller,A Dananjaya,1,0,null,1,0,null,null
+167,27.2,DA Miller,F du Plessis,A Dananjaya,0,0,null,0,0,null,null
+168,27.3,DA Miller,F du Plessis,A Dananjaya,0,0,null,0,0,null,null
+169,27.4,DA Miller,F du Plessis,A Dananjaya,1,0,null,1,0,null,null
+170,27.5,F du Plessis,DA Miller,A Dananjaya,0,0,null,0,0,null,null
+171,27.6,F du Plessis,DA Miller,A Dananjaya,0,0,null,0,0,null,null
+172,28.1,DA Miller,F du Plessis,MVT Fernando,0,0,null,0,0,null,null
+173,28.2,DA Miller,F du Plessis,MVT Fernando,2,0,null,2,0,null,null
+174,28.3,DA Miller,F du Plessis,MVT Fernando,1,0,null,1,0,null,null
+175,28.4,F du Plessis,DA Miller,MVT Fernando,4,0,null,4,0,null,null
+176,28.5,F du Plessis,DA Miller,MVT Fernando,1,0,null,1,0,null,null
+177,28.6,DA Miller,F du Plessis,MVT Fernando,1,0,null,1,0,null,null
+178,29.1,DA Miller,F du Plessis,A Dananjaya,0,0,null,0,0,null,null
+179,29.2,DA Miller,F du Plessis,A Dananjaya,1,0,null,1,0,null,null
+180,29.3,F du Plessis,DA Miller,A Dananjaya,0,0,null,0,0,null,null
+181,29.4,F du Plessis,DA Miller,A Dananjaya,0,0,null,0,0,null,null
+182,29.5,F du Plessis,DA Miller,A Dananjaya,1,0,null,1,0,null,null
+183,29.6,DA Miller,F du Plessis,A Dananjaya,1,0,null,1,0,null,null
+184,30.1,DA Miller,F du Plessis,SL Malinga,0,0,null,0,0,null,null
+185,30.2,DA Miller,F du Plessis,SL Malinga,1,0,null,1,0,null,null
+186,30.3,F du Plessis,DA Miller,SL Malinga,1,0,null,1,0,null,null
+187,30.4,DA Miller,F du Plessis,SL Malinga,1,0,null,1,0,null,null
+188,30.5,F du Plessis,DA Miller,SL Malinga,1,0,null,1,0,null,null
+189,30.6,DA Miller,F du Plessis,SL Malinga,0,1,wides ,1,0,null,null
+190,30.7,DA Miller,F du Plessis,SL Malinga,0,0,null,0,0,null,null
+191,31.1,F du Plessis,DA Miller,DM de Silva,1,0,null,1,0,null,null
+192,31.2,DA Miller,F du Plessis,DM de Silva,0,0,null,0,0,null,null
+193,31.3,DA Miller,F du Plessis,DM de Silva,0,0,null,0,0,null,null
+194,31.4,DA Miller,F du Plessis,DM de Silva,1,0,null,1,0,null,null
+195,31.5,F du Plessis,DA Miller,DM de Silva,1,0,null,1,0,null,null
+196,31.6,DA Miller,F du Plessis,DM de Silva,0,0,null,0,0,null,null
+197,32.1,F du Plessis,DA Miller,SL Malinga,0,0,null,0,0,null,null
+198,32.2,F du Plessis,DA Miller,SL Malinga,0,0,null,0,0,null,null
+199,32.3,F du Plessis,DA Miller,SL Malinga,1,0,null,1,0,null,null
+200,32.4,DA Miller,F du Plessis,SL Malinga,0,0,null,0,0,null,null
+201,32.5,DA Miller,F du Plessis,SL Malinga,1,0,null,1,0,null,null
+202,32.6,F du Plessis,DA Miller,SL Malinga,1,0,null,1,0,null,null
+203,33.1,F du Plessis,DA Miller,DM de Silva,0,0,null,0,0,null,null
+204,33.2,F du Plessis,DA Miller,DM de Silva,0,0,null,0,0,null,null
+205,33.3,F du Plessis,DA Miller,DM de Silva,1,0,null,1,0,null,null
+206,33.4,DA Miller,F du Plessis,DM de Silva,1,0,null,1,0,null,null
+207,33.5,F du Plessis,DA Miller,DM de Silva,4,0,null,4,0,null,null
+208,33.6,F du Plessis,DA Miller,DM de Silva,1,0,null,1,0,null,null
+209,34.1,F du Plessis,DA Miller,NLTC Perera,0,0,null,0,0,null,null
+210,34.2,F du Plessis,DA Miller,NLTC Perera,1,0,null,1,0,null,null
+211,34.3,DA Miller,F du Plessis,NLTC Perera,0,0,null,0,0,null,null
+212,34.4,DA Miller,F du Plessis,NLTC Perera,1,0,null,1,0,null,null
+213,34.5,F du Plessis,DA Miller,NLTC Perera,0,0,null,0,0,null,null
+214,34.6,F du Plessis,DA Miller,NLTC Perera,4,0,null,4,0,null,null
+215,35.1,DA Miller,F du Plessis,DM de Silva,1,0,null,1,0,null,null
+216,35.2,F du Plessis,DA Miller,DM de Silva,1,0,null,1,0,null,null
+217,35.3,DA Miller,F du Plessis,DM de Silva,1,0,null,1,0,null,null
+218,35.4,F du Plessis,DA Miller,DM de Silva,1,0,null,1,0,null,null
+219,35.5,DA Miller,F du Plessis,DM de Silva,1,0,null,1,0,null,null
+220,35.6,F du Plessis,DA Miller,DM de Silva,1,0,null,1,0,null,null
+221,36.1,F du Plessis,DA Miller,NLTC Perera,0,0,null,0,0,null,null
+222,36.2,F du Plessis,DA Miller,NLTC Perera,0,0,null,0,1,F du Plessis,bowled
+223,36.3,AL Phehlukwayo,DA Miller,NLTC Perera,0,0,null,0,0,null,null
+224,36.4,AL Phehlukwayo,DA Miller,NLTC Perera,0,0,null,0,0,null,null
+225,36.5,AL Phehlukwayo,DA Miller,NLTC Perera,1,0,null,1,0,null,null
+226,36.6,DA Miller,AL Phehlukwayo,NLTC Perera,1,0,null,1,0,null,null
+227,37.1,DA Miller,AL Phehlukwayo,DM de Silva,0,0,null,0,0,null,null
+228,37.2,DA Miller,AL Phehlukwayo,DM de Silva,1,0,null,1,0,null,null
+229,37.3,AL Phehlukwayo,DA Miller,DM de Silva,1,0,null,1,0,null,null
+230,37.4,DA Miller,AL Phehlukwayo,DM de Silva,1,0,null,1,0,null,null
+231,37.5,AL Phehlukwayo,DA Miller,DM de Silva,0,0,null,0,1,AL Phehlukwayo,caught
+232,37.6,K Rabada,DA Miller,DM de Silva,1,0,null,1,0,null,null
+233,38.1,K Rabada,DA Miller,NLTC Perera,0,0,null,0,0,null,null
+234,38.2,K Rabada,DA Miller,NLTC Perera,0,0,null,0,0,null,null
+235,38.3,K Rabada,DA Miller,NLTC Perera,1,0,null,1,0,null,null
+236,38.4,DA Miller,K Rabada,NLTC Perera,0,1,wides ,1,0,null,null
+237,38.5,DA Miller,K Rabada,NLTC Perera,0,0,null,0,0,null,null
+238,38.6,DA Miller,K Rabada,NLTC Perera,0,0,null,0,0,null,null
+239,38.7,DA Miller,K Rabada,NLTC Perera,1,0,null,1,0,null,null
+240,39.1,DA Miller,K Rabada,DM de Silva,4,0,null,4,0,null,null
+241,39.2,DA Miller,K Rabada,DM de Silva,1,0,null,1,0,null,null
+242,39.3,K Rabada,DA Miller,DM de Silva,1,0,null,1,0,null,null
+243,39.4,DA Miller,K Rabada,DM de Silva,0,0,null,0,1,DA Miller,stumped
+244,39.5,A Nortje,K Rabada,DM de Silva,0,0,null,0,0,null,null
+245,39.6,A Nortje,K Rabada,DM de Silva,3,0,null,3,0,null,null
+246,40.1,A Nortje,K Rabada,CAK Rajitha,1,0,null,1,0,null,null
+247,40.2,K Rabada,A Nortje,CAK Rajitha,0,0,null,0,1,K Rabada,caught
+248,40.3,L Ngidi,A Nortje,CAK Rajitha,0,0,null,0,0,null,null
+249,40.4,L Ngidi,A Nortje,CAK Rajitha,0,0,null,0,0,null,null
+250,40.5,L Ngidi,A Nortje,CAK Rajitha,0,0,null,0,0,null,null
+251,40.6,L Ngidi,A Nortje,CAK Rajitha,0,0,null,0,0,null,null
+252,41.1,A Nortje,L Ngidi,DM de Silva,0,0,null,0,0,null,null
+253,41.2,A Nortje,L Ngidi,DM de Silva,1,0,null,1,0,null,null
+254,41.3,L Ngidi,A Nortje,DM de Silva,1,0,null,1,0,null,null
+255,41.4,A Nortje,L Ngidi,DM de Silva,0,0,null,0,0,null,null
+256,41.5,A Nortje,L Ngidi,DM de Silva,1,0,null,1,0,null,null
+257,41.6,L Ngidi,A Nortje,DM de Silva,0,0,null,0,0,null,null
+258,42.1,A Nortje,L Ngidi,SL Malinga,0,0,null,0,0,null,null
+259,42.2,A Nortje,L Ngidi,SL Malinga,0,1,wides ,1,0,null,null
+260,42.3,A Nortje,L Ngidi,SL Malinga,0,0,null,0,0,null,null
+261,42.4,A Nortje,L Ngidi,SL Malinga,1,0,null,1,0,null,null
+262,42.5,L Ngidi,A Nortje,SL Malinga,3,0,null,3,0,null,null
+263,42.6,A Nortje,L Ngidi,SL Malinga,1,0,null,1,0,null,null
+264,42.7,L Ngidi,A Nortje,SL Malinga,0,0,null,0,0,null,null
+265,43.1,A Nortje,L Ngidi,A Dananjaya,0,0,null,0,0,null,null
+266,43.2,A Nortje,L Ngidi,A Dananjaya,0,0,null,0,0,null,null
+267,43.3,A Nortje,L Ngidi,A Dananjaya,0,0,null,0,0,null,null
+268,43.4,A Nortje,L Ngidi,A Dananjaya,0,0,null,0,0,null,null
+269,43.5,A Nortje,L Ngidi,A Dananjaya,0,0,null,0,0,null,null
+270,43.6,A Nortje,L Ngidi,A Dananjaya,0,0,null,0,0,null,null
+271,44.1,L Ngidi,A Nortje,SL Malinga,1,0,null,1,0,null,null
+272,44.2,A Nortje,L Ngidi,SL Malinga,0,0,null,0,1,A Nortje,lbw
+273,44.3,Imran Tahir,L Ngidi,SL Malinga,1,0,null,1,0,null,null
+274,44.4,L Ngidi,Imran Tahir,SL Malinga,1,0,null,1,0,null,null
+275,44.5,Imran Tahir,L Ngidi,SL Malinga,0,0,null,0,0,null,null
+276,44.6,Imran Tahir,L Ngidi,SL Malinga,0,0,null,0,0,null,null
+277,45.1,L Ngidi,Imran Tahir,A Dananjaya,0,0,null,0,1,L Ngidi,stumped

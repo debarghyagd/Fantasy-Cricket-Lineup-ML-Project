@@ -1,0 +1,20 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,238193,Keenan Stadium,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,2,2,0,0
+1,238193,Keenan Stadium,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,8,9,2,0
+2,218250,Harare Sports Club,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",0,0,7,0,0
+3,218250,Harare Sports Club,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,0,2,0,0
+4,244510,Sheikh Zayed Stadium,Pakistan,Mohammad Asif,Right-arm fast-medium,"[0, 1, 1]",0,8,7,1,0
+5,244510,Sheikh Zayed Stadium,Pakistan,Naved-ul-Hasan,Right-arm fast-medium,"[0, 1, 1]",1,8,5,1,0
+6,244510,Sheikh Zayed Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",0,19,29,0,0
+7,244510,Sheikh Zayed Stadium,Pakistan,Iftikhar Anjum,Right-arm medium,"[0, 1, 2]",0,2,9,0,0
+8,224231,"Sardar Patel (Gujarat) Stadium, Motera",Sri Lanka,ST Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,6,7,0,0
+9,224231,"Sardar Patel (Gujarat) Stadium, Motera",Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",1,0,5,0,0
+10,223902,Nehru Stadium,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",1,7,14,1,0
+11,223902,Nehru Stadium,Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",0,21,13,3,1
+12,223902,Nehru Stadium,Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",0,5,8,0,0
+13,223902,Nehru Stadium,Sri Lanka,ST Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,5,6,0,0
+14,239917,"Warner Park, Basseterre",West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,2,1,0,0
+15,239917,"Warner Park, Basseterre",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,7,15,0,0
+16,217979,Harare Sports Club,Zimbabwe,AM Blignaut,Right-arm fast-medium,"[0, 1, 1]",0,16,23,3,0
+17,217979,Harare Sports Club,Zimbabwe,AJ Ireland,Right-arm medium,"[0, 1, 2]",0,3,10,0,0
+18,217979,Harare Sports Club,Zimbabwe,NB Mahwire,Right-arm medium,"[0, 1, 2]",0,2,2,0,0

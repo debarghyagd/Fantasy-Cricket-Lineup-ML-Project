@@ -1,0 +1,19 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,237568,Westpac Stadium,New Zealand,MJ Mason,Right-arm fast-medium,"[0, 1, 1]",0,18,22,3,0
+1,237568,Westpac Stadium,New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",1,4,5,1,0
+2,237568,Westpac Stadium,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",0,12,23,1,0
+3,238176,Queenstown Events Centre,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",0,2,4,0,0
+4,238176,Queenstown Events Centre,New Zealand,MJ Mason,Right-arm fast-medium,"[0, 1, 1]",1,4,14,1,0
+5,238177,Jade Stadium,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",1,0,3,0,0
+6,238178,McLean Park,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",0,4,13,0,0
+7,238178,McLean Park,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,9,11,2,0
+8,238178,McLean Park,New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",1,2,4,0,0
+9,238179,Eden Park,New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",0,7,7,1,0
+10,238179,Eden Park,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,14,20,3,0
+11,238179,Eden Park,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",0,4,15,0,0
+12,257769,Iqbal Stadium,Pakistan,Umar Gul,Right-arm fast-medium,"[0, 1, 1]",0,3,20,0,0
+13,257769,Iqbal Stadium,Pakistan,Iftikhar Anjum,Right-arm medium,"[0, 1, 2]",1,6,15,0,0
+14,257769,Iqbal Stadium,Pakistan,Naved-ul-Hasan,Right-arm fast-medium,"[0, 1, 1]",0,11,24,1,0
+15,257770,Gaddafi Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",0,3,8,0,0
+16,257770,Gaddafi Stadium,Pakistan,Abdur Rehman,Left-arm orthodox,"[1, 0, 1]",1,8,9,1,0
+17,257770,Gaddafi Stadium,Pakistan,Iftikhar Anjum,Right-arm medium,"[0, 1, 2]",0,6,20,0,0

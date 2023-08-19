@@ -1,0 +1,259 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,WIA Fernando,MDKJ Perera,CR Woakes,0,0,null,0,0,null,null
+1,0.2,WIA Fernando,MDKJ Perera,CR Woakes,4,0,null,4,0,null,null
+2,0.3,WIA Fernando,MDKJ Perera,CR Woakes,3,0,null,3,0,null,null
+3,0.4,MDKJ Perera,WIA Fernando,CR Woakes,0,0,null,0,0,null,null
+4,0.5,MDKJ Perera,WIA Fernando,CR Woakes,1,0,null,1,0,null,null
+5,0.6,WIA Fernando,MDKJ Perera,CR Woakes,0,0,null,0,0,null,null
+6,1.1,MDKJ Perera,WIA Fernando,DJ Willey,4,0,null,4,0,null,null
+7,1.2,MDKJ Perera,WIA Fernando,DJ Willey,0,1,wides ,1,0,null,null
+8,1.3,MDKJ Perera,WIA Fernando,DJ Willey,0,1,wides ,1,0,null,null
+9,1.4,MDKJ Perera,WIA Fernando,DJ Willey,1,0,null,1,0,null,null
+10,1.5,WIA Fernando,MDKJ Perera,DJ Willey,1,0,null,1,0,null,null
+11,1.6,MDKJ Perera,WIA Fernando,DJ Willey,3,0,null,3,0,null,null
+12,1.7,WIA Fernando,MDKJ Perera,DJ Willey,0,0,null,0,0,null,null
+13,1.8,WIA Fernando,MDKJ Perera,DJ Willey,0,0,null,0,0,null,null
+14,2.1,MDKJ Perera,WIA Fernando,CR Woakes,0,0,null,0,0,null,null
+15,2.2,MDKJ Perera,WIA Fernando,CR Woakes,0,0,null,0,1,MDKJ Perera,bowled
+16,2.3,P Nissanka,WIA Fernando,CR Woakes,0,0,null,0,0,null,null
+17,2.4,P Nissanka,WIA Fernando,CR Woakes,0,0,null,0,0,null,null
+18,2.5,P Nissanka,WIA Fernando,CR Woakes,0,0,null,0,0,null,null
+19,2.6,P Nissanka,WIA Fernando,CR Woakes,4,0,null,4,0,null,null
+20,3.1,WIA Fernando,P Nissanka,DJ Willey,0,0,null,0,0,null,null
+21,3.2,WIA Fernando,P Nissanka,DJ Willey,0,0,null,0,0,null,null
+22,3.3,WIA Fernando,P Nissanka,DJ Willey,0,0,null,0,0,null,null
+23,3.4,WIA Fernando,P Nissanka,DJ Willey,2,0,null,2,0,null,null
+24,3.5,WIA Fernando,P Nissanka,DJ Willey,4,0,null,4,0,null,null
+25,3.6,WIA Fernando,P Nissanka,DJ Willey,0,0,null,0,0,null,null
+26,4.1,P Nissanka,WIA Fernando,CR Woakes,0,0,null,0,0,null,null
+27,4.2,P Nissanka,WIA Fernando,CR Woakes,0,0,null,0,0,null,null
+28,4.3,P Nissanka,WIA Fernando,CR Woakes,0,0,null,0,0,null,null
+29,4.4,P Nissanka,WIA Fernando,CR Woakes,0,0,null,0,0,null,null
+30,4.5,P Nissanka,WIA Fernando,CR Woakes,0,0,null,0,0,null,null
+31,4.6,P Nissanka,WIA Fernando,CR Woakes,0,0,null,0,0,null,null
+32,5.1,WIA Fernando,P Nissanka,DJ Willey,0,0,null,0,1,WIA Fernando,lbw
+33,5.2,DM de Silva,P Nissanka,DJ Willey,0,0,null,0,0,null,null
+34,5.3,DM de Silva,P Nissanka,DJ Willey,0,1,wides ,1,0,null,null
+35,5.4,DM de Silva,P Nissanka,DJ Willey,0,0,null,0,0,null,null
+36,5.5,DM de Silva,P Nissanka,DJ Willey,0,0,null,0,0,null,null
+37,5.6,DM de Silva,P Nissanka,DJ Willey,0,0,null,0,0,null,null
+38,5.7,DM de Silva,P Nissanka,DJ Willey,0,0,null,0,0,null,null
+39,6.1,P Nissanka,DM de Silva,CR Woakes,0,0,null,0,0,null,null
+40,6.2,P Nissanka,DM de Silva,CR Woakes,0,0,null,0,0,null,null
+41,6.3,P Nissanka,DM de Silva,CR Woakes,0,0,null,0,0,null,null
+42,6.4,P Nissanka,DM de Silva,CR Woakes,0,1,legbyes ,1,0,null,null
+43,6.5,DM de Silva,P Nissanka,CR Woakes,0,0,null,0,0,null,null
+44,6.6,DM de Silva,P Nissanka,CR Woakes,0,0,null,0,0,null,null
+45,7.1,P Nissanka,DM de Silva,DJ Willey,0,0,null,0,0,null,null
+46,7.2,P Nissanka,DM de Silva,DJ Willey,2,0,null,2,0,null,null
+47,7.3,P Nissanka,DM de Silva,DJ Willey,0,0,null,0,1,P Nissanka,caught
+48,7.4,BOP Fernando,DM de Silva,DJ Willey,2,0,null,2,0,null,null
+49,7.5,BOP Fernando,DM de Silva,DJ Willey,1,0,null,1,0,null,null
+50,7.6,DM de Silva,BOP Fernando,DJ Willey,0,1,wides ,1,0,null,null
+51,7.7,DM de Silva,BOP Fernando,DJ Willey,4,0,null,4,0,null,null
+52,8.1,BOP Fernando,DM de Silva,CR Woakes,1,0,null,1,0,null,null
+53,8.2,DM de Silva,BOP Fernando,CR Woakes,0,0,null,0,0,null,null
+54,8.3,DM de Silva,BOP Fernando,CR Woakes,0,0,null,0,0,null,null
+55,8.4,DM de Silva,BOP Fernando,CR Woakes,0,0,null,0,0,null,null
+56,8.5,DM de Silva,BOP Fernando,CR Woakes,0,0,null,0,1,DM de Silva,caught
+57,8.6,PWH de Silva,BOP Fernando,CR Woakes,0,0,null,0,0,null,null
+58,9.1,BOP Fernando,PWH de Silva,DJ Willey,1,0,null,1,0,null,null
+59,9.2,PWH de Silva,BOP Fernando,DJ Willey,0,0,null,0,0,null,null
+60,9.3,PWH de Silva,BOP Fernando,DJ Willey,0,0,null,0,0,null,null
+61,9.4,PWH de Silva,BOP Fernando,DJ Willey,1,0,null,1,0,null,null
+62,9.5,BOP Fernando,PWH de Silva,DJ Willey,0,1,wides ,1,0,null,null
+63,9.6,BOP Fernando,PWH de Silva,DJ Willey,0,0,null,0,0,null,null
+64,9.7,BOP Fernando,PWH de Silva,DJ Willey,0,0,null,0,0,null,null
+65,10.1,PWH de Silva,BOP Fernando,CR Woakes,0,0,null,0,0,null,null
+66,10.2,PWH de Silva,BOP Fernando,CR Woakes,1,0,null,1,0,null,null
+67,10.3,BOP Fernando,PWH de Silva,CR Woakes,0,0,null,0,0,null,null
+68,10.4,BOP Fernando,PWH de Silva,CR Woakes,0,0,null,0,0,null,null
+69,10.5,BOP Fernando,PWH de Silva,CR Woakes,0,1,wides ,1,0,null,null
+70,10.6,BOP Fernando,PWH de Silva,CR Woakes,3,0,null,3,0,null,null
+71,10.7,PWH de Silva,BOP Fernando,CR Woakes,0,0,null,0,0,null,null
+72,11.1,BOP Fernando,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+73,11.2,BOP Fernando,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+74,11.3,BOP Fernando,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+75,11.4,BOP Fernando,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+76,11.5,BOP Fernando,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+77,11.6,BOP Fernando,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+78,12.1,PWH de Silva,BOP Fernando,TK Curran,0,0,null,0,0,null,null
+79,12.2,PWH de Silva,BOP Fernando,TK Curran,1,0,null,1,0,null,null
+80,12.3,BOP Fernando,PWH de Silva,TK Curran,1,0,null,1,0,null,null
+81,12.4,PWH de Silva,BOP Fernando,TK Curran,1,0,null,1,0,null,null
+82,12.5,BOP Fernando,PWH de Silva,TK Curran,0,0,null,0,0,null,null
+83,12.6,BOP Fernando,PWH de Silva,TK Curran,1,0,null,1,0,null,null
+84,13.1,BOP Fernando,PWH de Silva,SM Curran,1,0,null,1,0,null,null
+85,13.2,PWH de Silva,BOP Fernando,SM Curran,1,0,null,1,0,null,null
+86,13.3,BOP Fernando,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+87,13.4,BOP Fernando,PWH de Silva,SM Curran,6,0,null,6,0,null,null
+88,13.5,BOP Fernando,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+89,13.6,BOP Fernando,PWH de Silva,SM Curran,1,0,null,1,0,null,null
+90,14.1,BOP Fernando,PWH de Silva,TK Curran,0,0,null,0,1,BOP Fernando,caught
+91,14.2,MD Shanaka,PWH de Silva,TK Curran,0,0,null,0,0,null,null
+92,14.3,MD Shanaka,PWH de Silva,TK Curran,1,0,null,1,0,null,null
+93,14.4,PWH de Silva,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+94,14.5,PWH de Silva,MD Shanaka,TK Curran,1,0,null,1,0,null,null
+95,14.6,MD Shanaka,PWH de Silva,TK Curran,0,0,null,0,0,null,null
+96,15.1,PWH de Silva,MD Shanaka,SM Curran,1,0,null,1,0,null,null
+97,15.2,MD Shanaka,PWH de Silva,SM Curran,1,0,null,1,0,null,null
+98,15.3,PWH de Silva,MD Shanaka,SM Curran,1,0,null,1,0,null,null
+99,15.4,MD Shanaka,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+100,15.5,MD Shanaka,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+101,15.6,MD Shanaka,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+102,16.1,PWH de Silva,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+103,16.2,PWH de Silva,MD Shanaka,TK Curran,1,0,null,1,0,null,null
+104,16.3,MD Shanaka,PWH de Silva,TK Curran,0,0,null,0,0,null,null
+105,16.4,MD Shanaka,PWH de Silva,TK Curran,0,0,null,0,0,null,null
+106,16.5,MD Shanaka,PWH de Silva,TK Curran,2,0,null,2,0,null,null
+107,16.6,MD Shanaka,PWH de Silva,TK Curran,0,0,null,0,0,null,null
+108,17.1,PWH de Silva,MD Shanaka,SM Curran,4,0,null,4,0,null,null
+109,17.2,PWH de Silva,MD Shanaka,SM Curran,1,0,null,1,0,null,null
+110,17.3,MD Shanaka,PWH de Silva,SM Curran,0,0,null,0,0,null,null
+111,17.4,MD Shanaka,PWH de Silva,SM Curran,1,0,null,1,0,null,null
+112,17.5,PWH de Silva,MD Shanaka,SM Curran,0,0,null,0,0,null,null
+113,17.6,PWH de Silva,MD Shanaka,SM Curran,1,0,null,1,0,null,null
+114,18.1,PWH de Silva,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+115,18.2,PWH de Silva,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+116,18.3,PWH de Silva,MD Shanaka,TK Curran,1,0,null,1,0,null,null
+117,18.4,MD Shanaka,PWH de Silva,TK Curran,0,0,null,0,0,null,null
+118,18.5,MD Shanaka,PWH de Silva,TK Curran,0,0,null,0,0,null,null
+119,18.6,MD Shanaka,PWH de Silva,TK Curran,2,0,null,2,0,null,null
+120,19.1,PWH de Silva,MD Shanaka,SM Curran,0,0,null,0,0,null,null
+121,19.2,PWH de Silva,MD Shanaka,SM Curran,0,1,wides ,1,0,null,null
+122,19.3,PWH de Silva,MD Shanaka,SM Curran,0,0,null,0,0,null,null
+123,19.4,PWH de Silva,MD Shanaka,SM Curran,0,0,null,0,0,null,null
+124,19.5,PWH de Silva,MD Shanaka,SM Curran,1,0,null,1,0,null,null
+125,19.6,MD Shanaka,PWH de Silva,SM Curran,1,0,null,1,0,null,null
+126,19.7,PWH de Silva,MD Shanaka,SM Curran,1,0,null,1,0,null,null
+127,20.1,PWH de Silva,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+128,20.2,PWH de Silva,MD Shanaka,TK Curran,2,0,null,2,0,null,null
+129,20.3,PWH de Silva,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+130,20.4,PWH de Silva,MD Shanaka,TK Curran,0,0,null,0,1,PWH de Silva,caught
+131,20.5,C Karunaratne,MD Shanaka,TK Curran,1,0,null,1,0,null,null
+132,20.6,MD Shanaka,C Karunaratne,TK Curran,1,0,null,1,0,null,null
+133,21.1,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+134,21.2,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+135,21.3,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+136,21.4,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+137,21.5,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+138,21.6,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+139,22.1,C Karunaratne,MD Shanaka,DJ Willey,0,0,null,0,0,null,null
+140,22.2,C Karunaratne,MD Shanaka,DJ Willey,0,1,wides ,1,0,null,null
+141,22.3,C Karunaratne,MD Shanaka,DJ Willey,0,0,null,0,0,null,null
+142,22.4,C Karunaratne,MD Shanaka,DJ Willey,0,0,null,0,0,null,null
+143,22.5,C Karunaratne,MD Shanaka,DJ Willey,0,0,null,0,0,null,null
+144,22.6,C Karunaratne,MD Shanaka,DJ Willey,1,0,null,1,0,null,null
+145,22.7,MD Shanaka,C Karunaratne,DJ Willey,0,0,null,0,0,null,null
+146,23.1,C Karunaratne,MD Shanaka,CR Woakes,0,0,null,0,0,null,null
+147,23.2,C Karunaratne,MD Shanaka,CR Woakes,0,0,null,0,0,null,null
+148,23.3,C Karunaratne,MD Shanaka,CR Woakes,0,0,null,0,0,null,null
+149,23.4,C Karunaratne,MD Shanaka,CR Woakes,0,0,null,0,0,null,null
+150,23.5,C Karunaratne,MD Shanaka,CR Woakes,1,0,null,1,0,null,null
+151,23.6,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+152,24.1,C Karunaratne,MD Shanaka,DJ Willey,0,0,null,0,0,null,null
+153,24.2,C Karunaratne,MD Shanaka,DJ Willey,1,0,null,1,0,null,null
+154,24.3,MD Shanaka,C Karunaratne,DJ Willey,1,0,null,1,0,null,null
+155,24.4,C Karunaratne,MD Shanaka,DJ Willey,1,0,null,1,0,null,null
+156,24.5,MD Shanaka,C Karunaratne,DJ Willey,0,0,null,0,0,null,null
+157,24.6,MD Shanaka,C Karunaratne,DJ Willey,0,0,null,0,0,null,null
+158,25.1,C Karunaratne,MD Shanaka,CR Woakes,1,0,null,1,0,null,null
+159,25.2,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+160,25.3,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+161,25.4,MD Shanaka,C Karunaratne,CR Woakes,1,0,null,1,0,null,null
+162,25.5,C Karunaratne,MD Shanaka,CR Woakes,1,0,null,1,0,null,null
+163,25.6,MD Shanaka,C Karunaratne,CR Woakes,4,0,null,4,0,null,null
+164,26.1,C Karunaratne,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+165,26.2,C Karunaratne,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+166,26.3,C Karunaratne,MD Shanaka,AU Rashid,1,0,null,1,0,null,null
+167,26.4,MD Shanaka,C Karunaratne,AU Rashid,6,0,null,6,0,null,null
+168,26.5,MD Shanaka,C Karunaratne,AU Rashid,1,0,null,1,0,null,null
+169,26.6,C Karunaratne,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+170,27.1,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+171,27.2,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+172,27.3,MD Shanaka,C Karunaratne,CR Woakes,0,0,null,0,0,null,null
+173,27.4,MD Shanaka,C Karunaratne,CR Woakes,1,0,null,1,0,null,null
+174,27.5,C Karunaratne,MD Shanaka,CR Woakes,0,0,null,0,0,null,null
+175,27.6,C Karunaratne,MD Shanaka,CR Woakes,1,0,null,1,0,null,null
+176,28.1,C Karunaratne,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+177,28.2,C Karunaratne,MD Shanaka,AU Rashid,0,1,wides ,1,0,null,null
+178,28.3,C Karunaratne,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+179,28.4,C Karunaratne,MD Shanaka,AU Rashid,2,0,null,2,0,null,null
+180,28.5,C Karunaratne,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+181,28.6,C Karunaratne,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+182,28.7,C Karunaratne,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+183,29.1,MD Shanaka,C Karunaratne,TK Curran,1,0,null,1,0,null,null
+184,29.2,C Karunaratne,MD Shanaka,TK Curran,0,0,null,0,1,C Karunaratne,caught
+185,29.3,B Fernando,MD Shanaka,TK Curran,4,0,null,4,0,null,null
+186,29.4,B Fernando,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+187,29.5,B Fernando,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+188,29.6,B Fernando,MD Shanaka,TK Curran,1,0,null,1,0,null,null
+189,30.1,B Fernando,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+190,30.2,B Fernando,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+191,30.3,B Fernando,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+192,30.4,B Fernando,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+193,30.5,B Fernando,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+194,30.6,B Fernando,MD Shanaka,AU Rashid,1,0,null,1,0,null,null
+195,31.1,B Fernando,MD Shanaka,TK Curran,1,0,null,1,0,null,null
+196,31.2,MD Shanaka,B Fernando,TK Curran,1,0,null,1,0,null,null
+197,31.3,B Fernando,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+198,31.4,B Fernando,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+199,31.5,B Fernando,MD Shanaka,TK Curran,0,0,null,0,1,B Fernando,caught
+200,31.6,PVD Chameera,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+201,32.1,MD Shanaka,PVD Chameera,AU Rashid,0,0,null,0,0,null,null
+202,32.2,MD Shanaka,PVD Chameera,AU Rashid,0,0,null,0,0,null,null
+203,32.3,MD Shanaka,PVD Chameera,AU Rashid,1,0,null,1,0,null,null
+204,32.4,PVD Chameera,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+205,32.5,PVD Chameera,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+206,32.6,PVD Chameera,MD Shanaka,AU Rashid,1,0,null,1,0,null,null
+207,33.1,PVD Chameera,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+208,33.2,PVD Chameera,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+209,33.3,PVD Chameera,MD Shanaka,TK Curran,0,1,byes ,1,0,null,null
+210,33.4,MD Shanaka,PVD Chameera,TK Curran,2,0,null,2,0,null,null
+211,33.5,MD Shanaka,PVD Chameera,TK Curran,1,0,null,1,0,null,null
+212,33.6,PVD Chameera,MD Shanaka,TK Curran,1,0,null,1,0,null,null
+213,34.1,PVD Chameera,MD Shanaka,AU Rashid,0,1,wides ,1,0,null,null
+214,34.2,PVD Chameera,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+215,34.3,PVD Chameera,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+216,34.4,PVD Chameera,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+217,34.5,PVD Chameera,MD Shanaka,AU Rashid,4,0,null,4,0,null,null
+218,34.6,PVD Chameera,MD Shanaka,AU Rashid,4,0,null,4,0,null,null
+219,34.7,PVD Chameera,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+220,35.1,MD Shanaka,PVD Chameera,TK Curran,0,0,null,0,0,null,null
+221,35.2,MD Shanaka,PVD Chameera,TK Curran,1,0,null,1,0,null,null
+222,35.3,PVD Chameera,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+223,35.4,PVD Chameera,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+224,35.5,PVD Chameera,MD Shanaka,TK Curran,1,0,null,1,0,null,null
+225,35.6,MD Shanaka,PVD Chameera,TK Curran,1,0,null,1,0,null,null
+226,36.1,MD Shanaka,PVD Chameera,AU Rashid,2,0,null,2,0,null,null
+227,36.2,MD Shanaka,PVD Chameera,AU Rashid,0,0,null,0,0,null,null
+228,36.3,MD Shanaka,PVD Chameera,AU Rashid,1,0,null,1,0,null,null
+229,36.4,PVD Chameera,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+230,36.5,PVD Chameera,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+231,36.6,PVD Chameera,MD Shanaka,AU Rashid,1,0,null,1,0,null,null
+232,37.1,PVD Chameera,MD Shanaka,TK Curran,4,0,null,4,0,null,null
+233,37.2,PVD Chameera,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+234,37.3,PVD Chameera,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+235,37.4,PVD Chameera,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+236,37.5,PVD Chameera,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+237,37.6,PVD Chameera,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+238,38.1,MD Shanaka,PVD Chameera,AU Rashid,1,0,null,1,0,null,null
+239,38.2,PVD Chameera,MD Shanaka,AU Rashid,0,0,null,0,1,PVD Chameera,stumped
+240,38.3,AM Fernando,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+241,38.4,AM Fernando,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+242,38.5,AM Fernando,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+243,38.6,AM Fernando,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+244,39.1,MD Shanaka,AM Fernando,SM Curran,0,1,wides ,1,0,null,null
+245,39.2,MD Shanaka,AM Fernando,SM Curran,0,0,null,0,0,null,null
+246,39.3,MD Shanaka,AM Fernando,SM Curran,0,0,null,0,0,null,null
+247,39.4,MD Shanaka,AM Fernando,SM Curran,0,0,null,0,0,null,null
+248,39.5,MD Shanaka,AM Fernando,SM Curran,0,0,null,0,0,null,null
+249,39.6,MD Shanaka,AM Fernando,SM Curran,4,0,null,4,0,null,null
+250,39.7,MD Shanaka,AM Fernando,SM Curran,1,0,null,1,0,null,null
+251,40.1,MD Shanaka,AM Fernando,AU Rashid,0,0,null,0,0,null,null
+252,40.2,MD Shanaka,AM Fernando,AU Rashid,0,0,null,0,0,null,null
+253,40.3,MD Shanaka,AM Fernando,AU Rashid,0,0,null,0,0,null,null
+254,40.4,MD Shanaka,AM Fernando,AU Rashid,6,0,null,6,0,null,null
+255,40.5,MD Shanaka,AM Fernando,AU Rashid,1,0,null,1,0,null,null
+256,40.6,AM Fernando,MD Shanaka,AU Rashid,0,0,null,0,0,null,null
+257,41.1,MD Shanaka,AM Fernando,SM Curran,1,0,null,1,1,AM Fernando,run out

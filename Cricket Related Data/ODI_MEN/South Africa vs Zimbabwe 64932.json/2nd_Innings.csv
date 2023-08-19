@@ -1,0 +1,235 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,S Matsikenyeri,BG Rogers,AJ Hall,0,1,wides ,1,0,null,null
+1,0.2,S Matsikenyeri,BG Rogers,AJ Hall,0,0,null,0,0,null,null
+2,0.3,S Matsikenyeri,BG Rogers,AJ Hall,0,0,null,0,0,null,null
+3,0.4,S Matsikenyeri,BG Rogers,AJ Hall,0,1,wides ,1,0,null,null
+4,0.5,S Matsikenyeri,BG Rogers,AJ Hall,0,0,null,0,0,null,null
+5,0.6,S Matsikenyeri,BG Rogers,AJ Hall,0,0,null,0,0,null,null
+6,0.7,S Matsikenyeri,BG Rogers,AJ Hall,0,0,null,0,0,null,null
+7,0.8,S Matsikenyeri,BG Rogers,AJ Hall,0,0,null,0,0,null,null
+8,1.1,BG Rogers,S Matsikenyeri,M Ntini,0,1,wides ,1,0,null,null
+9,1.2,BG Rogers,S Matsikenyeri,M Ntini,0,0,null,0,0,null,null
+10,1.3,BG Rogers,S Matsikenyeri,M Ntini,0,0,null,0,0,null,null
+11,1.4,BG Rogers,S Matsikenyeri,M Ntini,1,0,null,1,0,null,null
+12,1.5,S Matsikenyeri,BG Rogers,M Ntini,0,0,null,0,0,null,null
+13,1.6,S Matsikenyeri,BG Rogers,M Ntini,0,0,null,0,0,null,null
+14,1.7,S Matsikenyeri,BG Rogers,M Ntini,0,0,null,0,0,null,null
+15,2.1,BG Rogers,S Matsikenyeri,AJ Hall,0,0,null,0,0,null,null
+16,2.2,BG Rogers,S Matsikenyeri,AJ Hall,0,0,null,0,0,null,null
+17,2.3,BG Rogers,S Matsikenyeri,AJ Hall,0,0,null,0,1,BG Rogers,caught
+18,2.4,S Matsikenyeri,H Masakadza,AJ Hall,0,0,null,0,0,null,null
+19,2.5,S Matsikenyeri,H Masakadza,AJ Hall,0,0,null,0,0,null,null
+20,2.6,S Matsikenyeri,H Masakadza,AJ Hall,0,0,null,0,0,null,null
+21,3.1,H Masakadza,S Matsikenyeri,M Ntini,1,0,null,1,0,null,null
+22,3.2,S Matsikenyeri,H Masakadza,M Ntini,0,0,null,0,0,null,null
+23,3.3,S Matsikenyeri,H Masakadza,M Ntini,4,0,null,4,0,null,null
+24,3.4,S Matsikenyeri,H Masakadza,M Ntini,0,0,null,0,0,null,null
+25,3.5,S Matsikenyeri,H Masakadza,M Ntini,0,1,wides ,1,0,null,null
+26,3.6,S Matsikenyeri,H Masakadza,M Ntini,0,0,null,0,0,null,null
+27,3.7,S Matsikenyeri,H Masakadza,M Ntini,1,0,null,1,0,null,null
+28,4.1,S Matsikenyeri,H Masakadza,AJ Hall,2,0,null,2,0,null,null
+29,4.2,S Matsikenyeri,H Masakadza,AJ Hall,4,0,null,4,0,null,null
+30,4.3,S Matsikenyeri,H Masakadza,AJ Hall,0,0,null,0,0,null,null
+31,4.4,S Matsikenyeri,H Masakadza,AJ Hall,0,0,null,0,0,null,null
+32,4.5,S Matsikenyeri,H Masakadza,AJ Hall,0,0,null,0,0,null,null
+33,4.6,S Matsikenyeri,H Masakadza,AJ Hall,0,0,null,0,0,null,null
+34,5.1,H Masakadza,S Matsikenyeri,M Ntini,0,0,null,0,0,null,null
+35,5.2,H Masakadza,S Matsikenyeri,M Ntini,0,0,null,0,0,null,null
+36,5.3,H Masakadza,S Matsikenyeri,M Ntini,0,0,null,0,0,null,null
+37,5.4,H Masakadza,S Matsikenyeri,M Ntini,0,0,null,0,0,null,null
+38,5.5,H Masakadza,S Matsikenyeri,M Ntini,2,0,null,2,0,null,null
+39,5.6,H Masakadza,S Matsikenyeri,M Ntini,0,0,null,0,0,null,null
+40,6.1,S Matsikenyeri,H Masakadza,AJ Hall,0,0,null,0,0,null,null
+41,6.2,S Matsikenyeri,H Masakadza,AJ Hall,4,0,null,4,0,null,null
+42,6.3,S Matsikenyeri,H Masakadza,AJ Hall,4,0,null,4,0,null,null
+43,6.4,S Matsikenyeri,H Masakadza,AJ Hall,0,0,null,0,0,null,null
+44,6.5,S Matsikenyeri,H Masakadza,AJ Hall,1,0,null,1,0,null,null
+45,6.6,H Masakadza,S Matsikenyeri,AJ Hall,1,0,null,1,0,null,null
+46,7.1,H Masakadza,S Matsikenyeri,M Ntini,0,0,null,0,0,null,null
+47,7.2,H Masakadza,S Matsikenyeri,M Ntini,4,0,null,4,0,null,null
+48,7.3,H Masakadza,S Matsikenyeri,M Ntini,0,0,null,0,0,null,null
+49,7.4,H Masakadza,S Matsikenyeri,M Ntini,2,0,null,2,0,null,null
+50,7.5,H Masakadza,S Matsikenyeri,M Ntini,0,0,null,0,0,null,null
+51,7.6,H Masakadza,S Matsikenyeri,M Ntini,0,1,wides ,1,0,null,null
+52,7.7,H Masakadza,S Matsikenyeri,M Ntini,0,0,null,0,1,H Masakadza,caught
+53,8.1,S Matsikenyeri,A Maregwede,AJ Hall,1,0,null,1,0,null,null
+54,8.2,A Maregwede,S Matsikenyeri,AJ Hall,0,0,null,0,0,null,null
+55,8.3,A Maregwede,S Matsikenyeri,AJ Hall,0,0,null,0,0,null,null
+56,8.4,A Maregwede,S Matsikenyeri,AJ Hall,0,0,null,0,0,null,null
+57,8.5,A Maregwede,S Matsikenyeri,AJ Hall,0,0,null,0,0,null,null
+58,8.6,A Maregwede,S Matsikenyeri,AJ Hall,0,0,null,0,0,null,null
+59,9.1,S Matsikenyeri,A Maregwede,M Ntini,4,0,null,4,0,null,null
+60,9.2,S Matsikenyeri,A Maregwede,M Ntini,0,0,null,0,1,S Matsikenyeri,caught
+61,9.3,BRM Taylor,A Maregwede,M Ntini,1,0,null,1,0,null,null
+62,9.4,A Maregwede,BRM Taylor,M Ntini,0,0,null,0,0,null,null
+63,9.5,A Maregwede,BRM Taylor,M Ntini,0,0,null,0,0,null,null
+64,9.6,A Maregwede,BRM Taylor,M Ntini,0,1,legbyes ,1,0,null,null
+65,10.1,A Maregwede,BRM Taylor,AJ Hall,0,0,null,0,0,null,null
+66,10.2,A Maregwede,BRM Taylor,AJ Hall,0,1,wides ,1,0,null,null
+67,10.3,A Maregwede,BRM Taylor,AJ Hall,1,0,null,1,0,null,null
+68,10.4,BRM Taylor,A Maregwede,AJ Hall,0,0,null,0,0,null,null
+69,10.5,BRM Taylor,A Maregwede,AJ Hall,0,0,null,0,0,null,null
+70,10.6,BRM Taylor,A Maregwede,AJ Hall,1,0,null,1,0,null,null
+71,10.7,A Maregwede,BRM Taylor,AJ Hall,0,0,null,0,0,null,null
+72,11.1,BRM Taylor,A Maregwede,M Ntini,1,0,null,1,0,null,null
+73,11.2,A Maregwede,BRM Taylor,M Ntini,0,0,null,0,0,null,null
+74,11.3,A Maregwede,BRM Taylor,M Ntini,0,0,null,0,0,null,null
+75,11.4,A Maregwede,BRM Taylor,M Ntini,0,0,null,0,0,null,null
+76,11.5,A Maregwede,BRM Taylor,M Ntini,1,0,null,1,0,null,null
+77,11.6,BRM Taylor,A Maregwede,M Ntini,0,0,null,0,0,null,null
+78,12.1,A Maregwede,BRM Taylor,AJ Hall,2,0,null,2,0,null,null
+79,12.2,A Maregwede,BRM Taylor,AJ Hall,0,0,null,0,0,null,null
+80,12.3,A Maregwede,BRM Taylor,AJ Hall,0,0,null,0,0,null,null
+81,12.4,A Maregwede,BRM Taylor,AJ Hall,4,0,null,4,0,null,null
+82,12.5,A Maregwede,BRM Taylor,AJ Hall,1,0,null,1,0,null,null
+83,12.6,BRM Taylor,A Maregwede,AJ Hall,0,0,null,0,1,BRM Taylor,caught
+84,13.1,A Maregwede,T Taibu,JA Morkel,0,1,wides ,1,0,null,null
+85,13.2,A Maregwede,T Taibu,JA Morkel,0,0,null,0,0,null,null
+86,13.3,A Maregwede,T Taibu,JA Morkel,0,1,wides ,1,0,null,null
+87,13.4,A Maregwede,T Taibu,JA Morkel,0,0,null,0,0,null,null
+88,13.5,A Maregwede,T Taibu,JA Morkel,0,0,null,0,0,null,null
+89,13.6,A Maregwede,T Taibu,JA Morkel,0,0,null,0,0,null,null
+90,13.7,A Maregwede,T Taibu,JA Morkel,0,0,null,0,0,null,null
+91,13.8,A Maregwede,T Taibu,JA Morkel,2,0,null,2,0,null,null
+92,14.1,T Taibu,A Maregwede,N Boje,0,0,null,0,0,null,null
+93,14.2,T Taibu,A Maregwede,N Boje,4,0,null,4,0,null,null
+94,14.3,T Taibu,A Maregwede,N Boje,0,0,null,0,0,null,null
+95,14.4,T Taibu,A Maregwede,N Boje,0,0,null,0,0,null,null
+96,14.5,T Taibu,A Maregwede,N Boje,0,0,null,0,0,null,null
+97,14.6,T Taibu,A Maregwede,N Boje,0,0,null,0,0,null,null
+98,15.1,A Maregwede,T Taibu,AM Bacher,0,0,null,0,0,null,null
+99,15.2,A Maregwede,T Taibu,AM Bacher,0,2,byes ,2,0,null,null
+100,15.3,A Maregwede,T Taibu,AM Bacher,0,0,null,0,0,null,null
+101,15.4,A Maregwede,T Taibu,AM Bacher,0,0,null,0,0,null,null
+102,15.5,A Maregwede,T Taibu,AM Bacher,0,0,null,0,0,null,null
+103,15.6,A Maregwede,T Taibu,AM Bacher,0,0,null,0,0,null,null
+104,16.1,T Taibu,A Maregwede,N Boje,0,0,null,0,0,null,null
+105,16.2,T Taibu,A Maregwede,N Boje,0,0,null,0,0,null,null
+106,16.3,T Taibu,A Maregwede,N Boje,0,0,null,0,0,null,null
+107,16.4,T Taibu,A Maregwede,N Boje,0,0,null,0,0,null,null
+108,16.5,T Taibu,A Maregwede,N Boje,1,0,null,1,0,null,null
+109,16.6,A Maregwede,T Taibu,N Boje,0,0,null,0,0,null,null
+110,17.1,T Taibu,A Maregwede,AM Bacher,0,0,null,0,0,null,null
+111,17.2,T Taibu,A Maregwede,AM Bacher,0,0,null,0,0,null,null
+112,17.3,T Taibu,A Maregwede,AM Bacher,2,0,null,2,0,null,null
+113,17.4,T Taibu,A Maregwede,AM Bacher,1,0,null,1,0,null,null
+114,17.5,A Maregwede,T Taibu,AM Bacher,2,0,null,2,0,null,null
+115,17.6,A Maregwede,T Taibu,AM Bacher,1,0,null,1,0,null,null
+116,18.1,A Maregwede,T Taibu,N Boje,0,0,null,0,0,null,null
+117,18.2,A Maregwede,T Taibu,N Boje,1,0,null,1,0,null,null
+118,18.3,T Taibu,A Maregwede,N Boje,0,0,null,0,0,null,null
+119,18.4,T Taibu,A Maregwede,N Boje,0,0,null,0,0,null,null
+120,18.5,T Taibu,A Maregwede,N Boje,1,0,null,1,0,null,null
+121,18.6,A Maregwede,T Taibu,N Boje,1,0,null,1,0,null,null
+122,19.1,A Maregwede,T Taibu,JA Morkel,0,0,null,0,1,A Maregwede,lbw
+123,19.2,E Chigumbura,T Taibu,JA Morkel,0,0,null,0,0,null,null
+124,19.3,E Chigumbura,T Taibu,JA Morkel,0,0,null,0,0,null,null
+125,19.4,E Chigumbura,T Taibu,JA Morkel,0,0,null,0,0,null,null
+126,19.5,E Chigumbura,T Taibu,JA Morkel,0,0,null,0,1,E Chigumbura,caught
+127,19.6,SC Williams,T Taibu,JA Morkel,0,0,null,0,0,null,null
+128,20.1,T Taibu,SC Williams,N Boje,0,0,null,0,0,null,null
+129,20.2,T Taibu,SC Williams,N Boje,0,0,null,0,0,null,null
+130,20.3,T Taibu,SC Williams,N Boje,1,0,null,1,0,null,null
+131,20.4,SC Williams,T Taibu,N Boje,0,0,null,0,0,null,null
+132,20.5,SC Williams,T Taibu,N Boje,1,0,null,1,0,null,null
+133,20.6,T Taibu,SC Williams,N Boje,0,0,null,0,0,null,null
+134,21.1,SC Williams,T Taibu,JA Morkel,0,1,wides ,1,0,null,null
+135,21.2,SC Williams,T Taibu,JA Morkel,0,0,null,0,0,null,null
+136,21.3,SC Williams,T Taibu,JA Morkel,0,0,null,0,0,null,null
+137,21.4,SC Williams,T Taibu,JA Morkel,0,1,wides ,1,0,null,null
+138,21.5,SC Williams,T Taibu,JA Morkel,0,0,null,0,0,null,null
+139,21.6,SC Williams,T Taibu,JA Morkel,0,0,null,0,0,null,null
+140,21.7,SC Williams,T Taibu,JA Morkel,0,0,null,0,0,null,null
+141,21.8,SC Williams,T Taibu,JA Morkel,0,0,null,0,0,null,null
+142,22.1,T Taibu,SC Williams,N Boje,0,0,null,0,0,null,null
+143,22.2,T Taibu,SC Williams,N Boje,0,0,null,0,0,null,null
+144,22.3,T Taibu,SC Williams,N Boje,0,0,null,0,0,null,null
+145,22.4,T Taibu,SC Williams,N Boje,1,0,null,1,0,null,null
+146,22.5,SC Williams,T Taibu,N Boje,0,0,null,0,0,null,null
+147,22.6,SC Williams,T Taibu,N Boje,0,0,null,0,0,null,null
+148,23.1,T Taibu,SC Williams,JA Morkel,0,0,null,0,0,null,null
+149,23.2,T Taibu,SC Williams,JA Morkel,1,0,null,1,0,null,null
+150,23.3,SC Williams,T Taibu,JA Morkel,4,0,null,4,0,null,null
+151,23.4,SC Williams,T Taibu,JA Morkel,0,0,null,0,0,null,null
+152,23.5,SC Williams,T Taibu,JA Morkel,4,0,null,4,0,null,null
+153,23.6,SC Williams,T Taibu,JA Morkel,0,0,null,0,0,null,null
+154,24.1,T Taibu,SC Williams,N Boje,4,0,null,4,0,null,null
+155,24.2,T Taibu,SC Williams,N Boje,0,0,null,0,0,null,null
+156,24.3,T Taibu,SC Williams,N Boje,1,0,null,1,0,null,null
+157,24.4,SC Williams,T Taibu,N Boje,1,0,null,1,0,null,null
+158,24.5,T Taibu,SC Williams,N Boje,1,0,null,1,0,null,null
+159,24.6,SC Williams,T Taibu,N Boje,0,0,null,0,0,null,null
+160,25.1,T Taibu,SC Williams,JA Morkel,1,0,null,1,0,null,null
+161,25.2,SC Williams,T Taibu,JA Morkel,1,0,null,1,0,null,null
+162,25.3,T Taibu,SC Williams,JA Morkel,4,0,null,4,0,null,null
+163,25.4,T Taibu,SC Williams,JA Morkel,0,0,null,0,0,null,null
+164,25.5,T Taibu,SC Williams,JA Morkel,0,0,null,0,0,null,null
+165,25.6,T Taibu,SC Williams,JA Morkel,0,0,null,0,0,null,null
+166,26.1,SC Williams,T Taibu,N Boje,0,0,null,0,0,null,null
+167,26.2,SC Williams,T Taibu,N Boje,1,0,null,1,0,null,null
+168,26.3,T Taibu,SC Williams,N Boje,0,0,null,0,0,null,null
+169,26.4,T Taibu,SC Williams,N Boje,0,2,legbyes ,2,0,null,null
+170,26.5,T Taibu,SC Williams,N Boje,1,0,null,1,0,null,null
+171,26.6,SC Williams,T Taibu,N Boje,0,0,null,0,0,null,null
+172,27.1,T Taibu,SC Williams,JA Morkel,0,0,null,0,0,null,null
+173,27.2,T Taibu,SC Williams,JA Morkel,1,0,null,1,0,null,null
+174,27.3,SC Williams,T Taibu,JA Morkel,0,0,null,0,0,null,null
+175,27.4,SC Williams,T Taibu,JA Morkel,0,0,null,0,0,null,null
+176,27.5,SC Williams,T Taibu,JA Morkel,0,1,legbyes ,1,0,null,null
+177,27.6,T Taibu,SC Williams,JA Morkel,1,0,null,1,0,null,null
+178,28.1,T Taibu,SC Williams,N Boje,0,0,null,0,0,null,null
+179,28.2,T Taibu,SC Williams,N Boje,1,0,null,1,0,null,null
+180,28.3,SC Williams,T Taibu,N Boje,0,0,null,0,0,null,null
+181,28.4,SC Williams,T Taibu,N Boje,0,0,null,0,1,SC Williams,run out
+182,28.5,T Panyangara,T Taibu,N Boje,0,0,null,0,0,null,null
+183,28.6,T Panyangara,T Taibu,N Boje,0,0,null,0,0,null,null
+184,29.1,T Taibu,T Panyangara,M Ntini,0,0,null,0,0,null,null
+185,29.2,T Taibu,T Panyangara,M Ntini,1,0,null,1,0,null,null
+186,29.3,T Panyangara,T Taibu,M Ntini,0,0,null,0,0,null,null
+187,29.4,T Panyangara,T Taibu,M Ntini,2,0,null,2,0,null,null
+188,29.5,T Panyangara,T Taibu,M Ntini,0,0,null,0,0,null,null
+189,29.6,T Panyangara,T Taibu,M Ntini,0,0,null,0,0,null,null
+190,30.1,T Taibu,T Panyangara,N Boje,0,0,null,0,1,T Taibu,caught
+191,30.2,P Utseya,T Panyangara,N Boje,0,0,null,0,0,null,null
+192,30.3,P Utseya,T Panyangara,N Boje,0,0,null,0,0,null,null
+193,30.4,P Utseya,T Panyangara,N Boje,0,0,null,0,0,null,null
+194,30.5,P Utseya,T Panyangara,N Boje,0,0,null,0,0,null,null
+195,30.6,P Utseya,T Panyangara,N Boje,0,0,null,0,0,null,null
+196,31.1,T Panyangara,P Utseya,M Ntini,6,0,null,6,0,null,null
+197,31.2,T Panyangara,P Utseya,M Ntini,0,0,null,0,0,null,null
+198,31.3,T Panyangara,P Utseya,M Ntini,0,0,null,0,0,null,null
+199,31.4,T Panyangara,P Utseya,M Ntini,1,0,null,1,0,null,null
+200,31.5,P Utseya,T Panyangara,M Ntini,1,0,null,1,0,null,null
+201,31.6,T Panyangara,P Utseya,M Ntini,0,0,null,0,1,T Panyangara,bowled
+202,32.1,P Utseya,CB Mpofu,JM Kemp,1,0,null,1,0,null,null
+203,32.2,CB Mpofu,P Utseya,JM Kemp,0,0,null,0,0,null,null
+204,32.3,CB Mpofu,P Utseya,JM Kemp,0,0,null,0,0,null,null
+205,32.4,CB Mpofu,P Utseya,JM Kemp,0,0,null,0,0,null,null
+206,32.5,CB Mpofu,P Utseya,JM Kemp,0,0,null,0,0,null,null
+207,32.6,CB Mpofu,P Utseya,JM Kemp,0,0,null,0,0,null,null
+208,33.1,P Utseya,CB Mpofu,M Ntini,0,0,null,0,0,null,null
+209,33.2,P Utseya,CB Mpofu,M Ntini,0,0,null,0,0,null,null
+210,33.3,P Utseya,CB Mpofu,M Ntini,0,0,null,0,0,null,null
+211,33.4,P Utseya,CB Mpofu,M Ntini,0,0,null,0,0,null,null
+212,33.5,P Utseya,CB Mpofu,M Ntini,0,0,null,0,0,null,null
+213,33.6,P Utseya,CB Mpofu,M Ntini,1,0,null,1,0,null,null
+214,34.1,P Utseya,CB Mpofu,JM Kemp,0,0,null,0,0,null,null
+215,34.2,P Utseya,CB Mpofu,JM Kemp,1,0,null,1,0,null,null
+216,34.3,CB Mpofu,P Utseya,JM Kemp,1,0,null,1,0,null,null
+217,34.4,P Utseya,CB Mpofu,JM Kemp,0,0,null,0,0,null,null
+218,34.5,P Utseya,CB Mpofu,JM Kemp,1,0,null,1,0,null,null
+219,34.6,CB Mpofu,P Utseya,JM Kemp,0,0,null,0,0,null,null
+220,35.1,P Utseya,CB Mpofu,M Ntini,0,0,null,0,0,null,null
+221,35.2,P Utseya,CB Mpofu,M Ntini,4,0,null,4,0,null,null
+222,35.3,P Utseya,CB Mpofu,M Ntini,1,0,null,1,0,null,null
+223,35.4,CB Mpofu,P Utseya,M Ntini,0,0,null,0,0,null,null
+224,35.5,CB Mpofu,P Utseya,M Ntini,0,0,null,0,0,null,null
+225,35.6,CB Mpofu,P Utseya,M Ntini,0,0,null,0,0,null,null
+226,36.1,P Utseya,CB Mpofu,JM Kemp,0,0,null,0,0,null,null
+227,36.2,P Utseya,CB Mpofu,JM Kemp,1,0,null,1,0,null,null
+228,36.3,CB Mpofu,P Utseya,JM Kemp,0,4,legbyes ,4,0,null,null
+229,36.4,CB Mpofu,P Utseya,JM Kemp,0,0,null,0,0,null,null
+230,36.5,CB Mpofu,P Utseya,JM Kemp,0,0,null,0,0,null,null
+231,36.6,CB Mpofu,P Utseya,JM Kemp,0,0,null,0,0,null,null
+232,37.1,P Utseya,CB Mpofu,AJ Hall,0,0,null,0,0,null,null
+233,37.2,P Utseya,CB Mpofu,AJ Hall,0,0,null,0,1,P Utseya,bowled

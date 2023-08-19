@@ -1,0 +1,232 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,S Matsikenyeri,BRM Taylor,D Gough,0,0,null,0,0,null,null
+1,0.2,S Matsikenyeri,BRM Taylor,D Gough,1,0,null,1,0,null,null
+2,0.3,BRM Taylor,S Matsikenyeri,D Gough,0,0,null,0,0,null,null
+3,0.4,BRM Taylor,S Matsikenyeri,D Gough,0,1,wides ,1,0,null,null
+4,0.5,BRM Taylor,S Matsikenyeri,D Gough,0,1,wides ,1,0,null,null
+5,0.6,BRM Taylor,S Matsikenyeri,D Gough,1,0,null,1,0,null,null
+6,0.7,S Matsikenyeri,BRM Taylor,D Gough,0,0,null,0,0,null,null
+7,0.8,S Matsikenyeri,BRM Taylor,D Gough,1,0,null,1,0,null,null
+8,1.1,S Matsikenyeri,BRM Taylor,JM Anderson,0,1,wides ,1,0,null,null
+9,1.2,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+10,1.3,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+11,1.4,S Matsikenyeri,BRM Taylor,JM Anderson,0,1,wides ,1,0,null,null
+12,1.5,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+13,1.6,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+14,1.7,S Matsikenyeri,BRM Taylor,JM Anderson,2,0,null,2,0,null,null
+15,1.8,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+16,2.1,BRM Taylor,S Matsikenyeri,D Gough,0,0,null,0,0,null,null
+17,2.2,BRM Taylor,S Matsikenyeri,D Gough,0,1,wides ,1,0,null,null
+18,2.3,BRM Taylor,S Matsikenyeri,D Gough,0,0,null,0,0,null,null
+19,2.4,BRM Taylor,S Matsikenyeri,D Gough,2,0,null,2,0,null,null
+20,2.5,BRM Taylor,S Matsikenyeri,D Gough,0,0,null,0,0,null,null
+21,2.6,BRM Taylor,S Matsikenyeri,D Gough,0,0,null,0,0,null,null
+22,2.7,BRM Taylor,S Matsikenyeri,D Gough,0,0,null,0,0,null,null
+23,3.1,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+24,3.2,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+25,3.3,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+26,3.4,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+27,3.5,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+28,3.6,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+29,4.1,BRM Taylor,S Matsikenyeri,D Gough,0,0,null,0,0,null,null
+30,4.2,BRM Taylor,S Matsikenyeri,D Gough,1,0,null,1,0,null,null
+31,4.3,S Matsikenyeri,BRM Taylor,D Gough,3,0,null,3,0,null,null
+32,4.4,BRM Taylor,S Matsikenyeri,D Gough,1,0,null,1,0,null,null
+33,4.5,S Matsikenyeri,BRM Taylor,D Gough,4,0,null,4,0,null,null
+34,4.6,S Matsikenyeri,BRM Taylor,D Gough,0,1,noballs ,1,0,null,null
+35,4.7,S Matsikenyeri,BRM Taylor,D Gough,0,0,null,0,0,null,null
+36,5.1,BRM Taylor,S Matsikenyeri,JM Anderson,0,0,null,0,0,null,null
+37,5.2,BRM Taylor,S Matsikenyeri,JM Anderson,0,0,null,0,0,null,null
+38,5.3,BRM Taylor,S Matsikenyeri,JM Anderson,0,0,null,0,0,null,null
+39,5.4,BRM Taylor,S Matsikenyeri,JM Anderson,0,1,wides ,1,0,null,null
+40,5.5,BRM Taylor,S Matsikenyeri,JM Anderson,0,1,wides ,1,0,null,null
+41,5.6,BRM Taylor,S Matsikenyeri,JM Anderson,0,0,null,0,0,null,null
+42,5.7,BRM Taylor,S Matsikenyeri,JM Anderson,2,0,null,2,0,null,null
+43,5.8,BRM Taylor,S Matsikenyeri,JM Anderson,0,0,null,0,0,null,null
+44,6.1,S Matsikenyeri,BRM Taylor,D Gough,4,0,null,4,0,null,null
+45,6.2,S Matsikenyeri,BRM Taylor,D Gough,0,0,null,0,0,null,null
+46,6.3,S Matsikenyeri,BRM Taylor,D Gough,1,0,null,1,0,null,null
+47,6.4,BRM Taylor,S Matsikenyeri,D Gough,0,0,null,0,0,null,null
+48,6.5,BRM Taylor,S Matsikenyeri,D Gough,0,0,null,0,0,null,null
+49,6.6,BRM Taylor,S Matsikenyeri,D Gough,0,0,null,0,0,null,null
+50,7.1,S Matsikenyeri,BRM Taylor,JM Anderson,0,1,legbyes ,1,0,null,null
+51,7.2,BRM Taylor,S Matsikenyeri,JM Anderson,2,0,null,2,0,null,null
+52,7.3,BRM Taylor,S Matsikenyeri,JM Anderson,0,0,null,0,0,null,null
+53,7.4,BRM Taylor,S Matsikenyeri,JM Anderson,0,0,null,0,0,null,null
+54,7.5,BRM Taylor,S Matsikenyeri,JM Anderson,0,0,null,0,0,null,null
+55,7.6,BRM Taylor,S Matsikenyeri,JM Anderson,4,0,null,4,0,null,null
+56,8.1,S Matsikenyeri,BRM Taylor,AG Wharf,0,0,null,0,0,null,null
+57,8.2,S Matsikenyeri,BRM Taylor,AG Wharf,0,0,null,0,0,null,null
+58,8.3,S Matsikenyeri,BRM Taylor,AG Wharf,0,0,null,0,0,null,null
+59,8.4,S Matsikenyeri,BRM Taylor,AG Wharf,0,0,null,0,0,null,null
+60,8.5,S Matsikenyeri,BRM Taylor,AG Wharf,0,0,null,0,0,null,null
+61,8.6,S Matsikenyeri,BRM Taylor,AG Wharf,1,0,null,1,0,null,null
+62,9.1,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+63,9.2,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+64,9.3,S Matsikenyeri,BRM Taylor,JM Anderson,0,1,wides ,1,0,null,null
+65,9.4,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+66,9.5,S Matsikenyeri,BRM Taylor,JM Anderson,0,0,null,0,1,S Matsikenyeri,caught
+67,9.6,DD Ebrahim,BRM Taylor,JM Anderson,0,1,wides ,1,0,null,null
+68,9.7,DD Ebrahim,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+69,9.8,DD Ebrahim,BRM Taylor,JM Anderson,0,1,wides ,1,0,null,null
+70,9.9,DD Ebrahim,BRM Taylor,JM Anderson,0,0,null,0,0,null,null
+71,10.1,BRM Taylor,DD Ebrahim,AG Wharf,0,0,null,0,1,BRM Taylor,caught
+72,10.2,MA Vermeulen,DD Ebrahim,AG Wharf,0,0,null,0,0,null,null
+73,10.3,MA Vermeulen,DD Ebrahim,AG Wharf,0,0,null,0,1,MA Vermeulen,caught
+74,10.4,H Masakadza,DD Ebrahim,AG Wharf,1,1,noballs ,2,0,null,null
+75,10.5,DD Ebrahim,H Masakadza,AG Wharf,0,1,noballs ,1,0,null,null
+76,10.6,DD Ebrahim,H Masakadza,AG Wharf,0,0,null,0,0,null,null
+77,10.7,DD Ebrahim,H Masakadza,AG Wharf,0,0,null,0,0,null,null
+78,10.8,DD Ebrahim,H Masakadza,AG Wharf,4,0,null,4,0,null,null
+79,11.1,H Masakadza,DD Ebrahim,JM Anderson,0,0,null,0,0,null,null
+80,11.2,H Masakadza,DD Ebrahim,JM Anderson,0,0,null,0,0,null,null
+81,11.3,H Masakadza,DD Ebrahim,JM Anderson,2,0,null,2,0,null,null
+82,11.4,H Masakadza,DD Ebrahim,JM Anderson,0,1,wides ,1,0,null,null
+83,11.5,H Masakadza,DD Ebrahim,JM Anderson,0,0,null,0,0,null,null
+84,11.6,H Masakadza,DD Ebrahim,JM Anderson,0,0,null,0,0,null,null
+85,11.7,H Masakadza,DD Ebrahim,JM Anderson,0,0,null,0,0,null,null
+86,12.1,DD Ebrahim,H Masakadza,AG Wharf,0,0,null,0,0,null,null
+87,12.2,DD Ebrahim,H Masakadza,AG Wharf,0,0,null,0,0,null,null
+88,12.3,DD Ebrahim,H Masakadza,AG Wharf,1,0,null,1,0,null,null
+89,12.4,H Masakadza,DD Ebrahim,AG Wharf,0,0,null,0,0,null,null
+90,12.5,H Masakadza,DD Ebrahim,AG Wharf,0,0,null,0,1,H Masakadza,bowled
+91,12.6,T Taibu,DD Ebrahim,AG Wharf,0,0,null,0,0,null,null
+92,13.1,DD Ebrahim,T Taibu,JM Anderson,0,1,wides ,1,0,null,null
+93,13.2,DD Ebrahim,T Taibu,JM Anderson,0,0,null,0,0,null,null
+94,13.3,DD Ebrahim,T Taibu,JM Anderson,2,0,null,2,0,null,null
+95,13.4,DD Ebrahim,T Taibu,JM Anderson,0,0,null,0,0,null,null
+96,13.5,DD Ebrahim,T Taibu,JM Anderson,0,0,null,0,0,null,null
+97,13.6,DD Ebrahim,T Taibu,JM Anderson,1,0,null,1,0,null,null
+98,13.7,T Taibu,DD Ebrahim,JM Anderson,0,0,null,0,0,null,null
+99,14.1,DD Ebrahim,T Taibu,AG Wharf,1,0,null,1,0,null,null
+100,14.2,T Taibu,DD Ebrahim,AG Wharf,0,0,null,0,0,null,null
+101,14.3,T Taibu,DD Ebrahim,AG Wharf,0,0,null,0,0,null,null
+102,14.4,T Taibu,DD Ebrahim,AG Wharf,4,0,null,4,0,null,null
+103,14.5,T Taibu,DD Ebrahim,AG Wharf,1,0,null,1,0,null,null
+104,14.6,DD Ebrahim,T Taibu,AG Wharf,0,0,null,0,0,null,null
+105,15.1,T Taibu,DD Ebrahim,PD Collingwood,0,0,null,0,0,null,null
+106,15.2,T Taibu,DD Ebrahim,PD Collingwood,0,0,null,0,0,null,null
+107,15.3,T Taibu,DD Ebrahim,PD Collingwood,0,0,null,0,0,null,null
+108,15.4,T Taibu,DD Ebrahim,PD Collingwood,0,0,null,0,0,null,null
+109,15.5,T Taibu,DD Ebrahim,PD Collingwood,0,0,null,0,0,null,null
+110,15.6,T Taibu,DD Ebrahim,PD Collingwood,1,0,null,1,0,null,null
+111,16.1,T Taibu,DD Ebrahim,AG Wharf,2,0,null,2,0,null,null
+112,16.2,T Taibu,DD Ebrahim,AG Wharf,2,0,null,2,0,null,null
+113,16.3,T Taibu,DD Ebrahim,AG Wharf,4,0,null,4,0,null,null
+114,16.4,T Taibu,DD Ebrahim,AG Wharf,0,0,null,0,0,null,null
+115,16.5,T Taibu,DD Ebrahim,AG Wharf,1,0,null,1,0,null,null
+116,16.6,DD Ebrahim,T Taibu,AG Wharf,0,0,null,0,0,null,null
+117,17.1,T Taibu,DD Ebrahim,PD Collingwood,0,0,null,0,0,null,null
+118,17.2,T Taibu,DD Ebrahim,PD Collingwood,0,0,null,0,0,null,null
+119,17.3,T Taibu,DD Ebrahim,PD Collingwood,0,0,null,0,0,null,null
+120,17.4,T Taibu,DD Ebrahim,PD Collingwood,1,0,null,1,0,null,null
+121,17.5,DD Ebrahim,T Taibu,PD Collingwood,1,0,null,1,0,null,null
+122,17.6,T Taibu,DD Ebrahim,PD Collingwood,0,0,null,0,0,null,null
+123,18.1,DD Ebrahim,T Taibu,AF Giles,1,0,null,1,0,null,null
+124,18.2,T Taibu,DD Ebrahim,AF Giles,0,0,null,0,0,null,null
+125,18.3,T Taibu,DD Ebrahim,AF Giles,0,0,null,0,0,null,null
+126,18.4,T Taibu,DD Ebrahim,AF Giles,0,0,null,0,0,null,null
+127,18.5,T Taibu,DD Ebrahim,AF Giles,1,0,null,1,0,null,null
+128,18.6,DD Ebrahim,T Taibu,AF Giles,1,0,null,1,0,null,null
+129,19.1,DD Ebrahim,T Taibu,PD Collingwood,0,0,null,0,0,null,null
+130,19.2,DD Ebrahim,T Taibu,PD Collingwood,0,0,null,0,0,null,null
+131,19.3,DD Ebrahim,T Taibu,PD Collingwood,0,0,null,0,0,null,null
+132,19.4,DD Ebrahim,T Taibu,PD Collingwood,0,0,null,0,1,DD Ebrahim,caught
+133,19.5,T Taibu,E Chigumbura,PD Collingwood,0,0,null,0,0,null,null
+134,19.6,T Taibu,E Chigumbura,PD Collingwood,4,0,null,4,0,null,null
+135,20.1,E Chigumbura,T Taibu,AF Giles,0,0,null,0,0,null,null
+136,20.2,E Chigumbura,T Taibu,AF Giles,0,0,null,0,0,null,null
+137,20.3,E Chigumbura,T Taibu,AF Giles,1,0,null,1,0,null,null
+138,20.4,T Taibu,E Chigumbura,AF Giles,1,0,null,1,0,null,null
+139,20.5,E Chigumbura,T Taibu,AF Giles,0,0,null,0,0,null,null
+140,20.6,E Chigumbura,T Taibu,AF Giles,0,0,null,0,0,null,null
+141,21.1,T Taibu,E Chigumbura,PD Collingwood,0,0,null,0,0,null,null
+142,21.2,T Taibu,E Chigumbura,PD Collingwood,0,0,null,0,0,null,null
+143,21.3,T Taibu,E Chigumbura,PD Collingwood,0,0,null,0,0,null,null
+144,21.4,T Taibu,E Chigumbura,PD Collingwood,0,0,null,0,0,null,null
+145,21.5,T Taibu,E Chigumbura,PD Collingwood,0,0,null,0,0,null,null
+146,21.6,T Taibu,E Chigumbura,PD Collingwood,0,0,null,0,0,null,null
+147,22.1,E Chigumbura,T Taibu,AF Giles,1,0,null,1,0,null,null
+148,22.2,T Taibu,E Chigumbura,AF Giles,1,0,null,1,0,null,null
+149,22.3,E Chigumbura,T Taibu,AF Giles,1,0,null,1,0,null,null
+150,22.4,T Taibu,E Chigumbura,AF Giles,1,0,null,1,0,null,null
+151,22.5,E Chigumbura,T Taibu,AF Giles,1,0,null,1,0,null,null
+152,22.6,T Taibu,E Chigumbura,AF Giles,0,0,null,0,0,null,null
+153,23.1,E Chigumbura,T Taibu,PD Collingwood,0,0,null,0,1,E Chigumbura,caught and bowled
+154,23.2,GM Ewing,T Taibu,PD Collingwood,0,0,null,0,0,null,null
+155,23.3,GM Ewing,T Taibu,PD Collingwood,0,0,null,0,0,null,null
+156,23.4,GM Ewing,T Taibu,PD Collingwood,0,0,null,0,0,null,null
+157,23.5,GM Ewing,T Taibu,PD Collingwood,0,0,null,0,0,null,null
+158,23.6,GM Ewing,T Taibu,PD Collingwood,0,0,null,0,0,null,null
+159,24.1,T Taibu,GM Ewing,AF Giles,0,0,null,0,0,null,null
+160,24.2,T Taibu,GM Ewing,AF Giles,0,0,null,0,0,null,null
+161,24.3,T Taibu,GM Ewing,AF Giles,0,0,null,0,0,null,null
+162,24.4,T Taibu,GM Ewing,AF Giles,1,0,null,1,0,null,null
+163,24.5,GM Ewing,T Taibu,AF Giles,0,0,null,0,0,null,null
+164,24.6,GM Ewing,T Taibu,AF Giles,0,0,null,0,0,null,null
+165,25.1,T Taibu,GM Ewing,PD Collingwood,0,0,null,0,0,null,null
+166,25.2,T Taibu,GM Ewing,PD Collingwood,0,0,null,0,0,null,null
+167,25.3,T Taibu,GM Ewing,PD Collingwood,4,0,null,4,0,null,null
+168,25.4,T Taibu,GM Ewing,PD Collingwood,2,0,null,2,0,null,null
+169,25.5,T Taibu,GM Ewing,PD Collingwood,1,0,null,1,0,null,null
+170,25.6,GM Ewing,T Taibu,PD Collingwood,0,0,null,0,0,null,null
+171,26.1,T Taibu,GM Ewing,AF Giles,0,0,null,0,1,T Taibu,caught and bowled
+172,26.2,T Panyangara,GM Ewing,AF Giles,0,0,null,0,0,null,null
+173,26.3,T Panyangara,GM Ewing,AF Giles,0,0,null,0,0,null,null
+174,26.4,T Panyangara,GM Ewing,AF Giles,0,0,null,0,0,null,null
+175,26.5,T Panyangara,GM Ewing,AF Giles,0,0,null,0,0,null,null
+176,26.6,T Panyangara,GM Ewing,AF Giles,0,0,null,0,1,T Panyangara,caught
+177,27.1,GM Ewing,P Utseya,PD Collingwood,0,0,null,0,0,null,null
+178,27.2,GM Ewing,P Utseya,PD Collingwood,0,0,null,0,1,GM Ewing,caught
+179,27.3,P Utseya,CB Mpofu,PD Collingwood,0,0,null,0,0,null,null
+180,27.4,P Utseya,CB Mpofu,PD Collingwood,0,0,null,0,0,null,null
+181,27.5,P Utseya,CB Mpofu,PD Collingwood,0,0,null,0,0,null,null
+182,27.6,P Utseya,CB Mpofu,PD Collingwood,0,0,null,0,0,null,null
+183,28.1,CB Mpofu,P Utseya,AF Giles,0,0,null,0,0,null,null
+184,28.2,CB Mpofu,P Utseya,AF Giles,0,0,null,0,0,null,null
+185,28.3,CB Mpofu,P Utseya,AF Giles,1,0,null,1,0,null,null
+186,28.4,P Utseya,CB Mpofu,AF Giles,0,0,null,0,0,null,null
+187,28.5,P Utseya,CB Mpofu,AF Giles,0,0,null,0,0,null,null
+188,28.6,P Utseya,CB Mpofu,AF Giles,0,0,null,0,0,null,null
+189,29.1,CB Mpofu,P Utseya,PD Collingwood,0,0,null,0,0,null,null
+190,29.2,CB Mpofu,P Utseya,PD Collingwood,0,0,null,0,0,null,null
+191,29.3,CB Mpofu,P Utseya,PD Collingwood,0,0,null,0,0,null,null
+192,29.4,CB Mpofu,P Utseya,PD Collingwood,0,0,null,0,0,null,null
+193,29.5,CB Mpofu,P Utseya,PD Collingwood,1,0,null,1,0,null,null
+194,29.6,P Utseya,CB Mpofu,PD Collingwood,0,0,null,0,0,null,null
+195,30.1,CB Mpofu,P Utseya,AF Giles,0,0,null,0,0,null,null
+196,30.2,CB Mpofu,P Utseya,AF Giles,0,0,null,0,0,null,null
+197,30.3,CB Mpofu,P Utseya,AF Giles,0,0,null,0,0,null,null
+198,30.4,CB Mpofu,P Utseya,AF Giles,0,0,null,0,0,null,null
+199,30.5,CB Mpofu,P Utseya,AF Giles,0,0,null,0,0,null,null
+200,30.6,CB Mpofu,P Utseya,AF Giles,0,0,null,0,0,null,null
+201,31.1,P Utseya,CB Mpofu,PD Collingwood,1,0,null,1,0,null,null
+202,31.2,CB Mpofu,P Utseya,PD Collingwood,0,0,null,0,0,null,null
+203,31.3,CB Mpofu,P Utseya,PD Collingwood,0,0,null,0,0,null,null
+204,31.4,CB Mpofu,P Utseya,PD Collingwood,0,0,null,0,0,null,null
+205,31.5,CB Mpofu,P Utseya,PD Collingwood,0,0,null,0,0,null,null
+206,31.6,CB Mpofu,P Utseya,PD Collingwood,0,0,null,0,0,null,null
+207,32.1,P Utseya,CB Mpofu,D Gough,0,0,null,0,0,null,null
+208,32.2,P Utseya,CB Mpofu,D Gough,0,0,null,0,0,null,null
+209,32.3,P Utseya,CB Mpofu,D Gough,0,0,null,0,0,null,null
+210,32.4,P Utseya,CB Mpofu,D Gough,0,0,null,0,0,null,null
+211,32.5,P Utseya,CB Mpofu,D Gough,1,0,null,1,0,null,null
+212,32.6,CB Mpofu,P Utseya,D Gough,0,0,null,0,0,null,null
+213,33.1,P Utseya,CB Mpofu,PD Collingwood,0,0,null,0,0,null,null
+214,33.2,P Utseya,CB Mpofu,PD Collingwood,0,0,null,0,0,null,null
+215,33.3,P Utseya,CB Mpofu,PD Collingwood,0,0,null,0,0,null,null
+216,33.4,P Utseya,CB Mpofu,PD Collingwood,0,0,null,0,0,null,null
+217,33.5,P Utseya,CB Mpofu,PD Collingwood,0,0,null,0,0,null,null
+218,33.6,P Utseya,CB Mpofu,PD Collingwood,0,0,null,0,0,null,null
+219,34.1,CB Mpofu,P Utseya,D Gough,0,0,null,0,0,null,null
+220,34.2,CB Mpofu,P Utseya,D Gough,0,0,null,0,0,null,null
+221,34.3,CB Mpofu,P Utseya,D Gough,0,0,null,0,0,null,null
+222,34.4,CB Mpofu,P Utseya,D Gough,0,0,null,0,0,null,null
+223,34.5,CB Mpofu,P Utseya,D Gough,0,0,null,0,0,null,null
+224,34.6,CB Mpofu,P Utseya,D Gough,0,0,null,0,0,null,null
+225,35.1,P Utseya,CB Mpofu,AG Wharf,0,0,null,0,0,null,null
+226,35.2,P Utseya,CB Mpofu,AG Wharf,0,0,null,0,0,null,null
+227,35.3,P Utseya,CB Mpofu,AG Wharf,0,0,null,0,0,null,null
+228,35.4,P Utseya,CB Mpofu,AG Wharf,0,1,legbyes ,1,0,null,null
+229,35.5,CB Mpofu,P Utseya,AG Wharf,0,0,null,0,0,null,null
+230,35.6,CB Mpofu,P Utseya,AG Wharf,0,0,null,0,1,CB Mpofu,caught

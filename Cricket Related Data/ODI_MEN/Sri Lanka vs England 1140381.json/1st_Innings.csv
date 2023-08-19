@@ -1,0 +1,130 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,N Dickwella,S Samarawickrama,CR Woakes,0,0,null,0,0,null,null
+1,0.2,N Dickwella,S Samarawickrama,CR Woakes,0,0,null,0,0,null,null
+2,0.3,N Dickwella,S Samarawickrama,CR Woakes,4,0,null,4,0,null,null
+3,0.4,N Dickwella,S Samarawickrama,CR Woakes,0,0,null,0,0,null,null
+4,0.5,N Dickwella,S Samarawickrama,CR Woakes,4,0,null,4,0,null,null
+5,0.6,N Dickwella,S Samarawickrama,CR Woakes,0,0,null,0,0,null,null
+6,1.1,S Samarawickrama,N Dickwella,OP Stone,4,0,null,4,0,null,null
+7,1.2,S Samarawickrama,N Dickwella,OP Stone,4,0,null,4,0,null,null
+8,1.3,S Samarawickrama,N Dickwella,OP Stone,0,0,null,0,0,null,null
+9,1.4,S Samarawickrama,N Dickwella,OP Stone,1,0,null,1,0,null,null
+10,1.5,N Dickwella,S Samarawickrama,OP Stone,4,0,null,4,0,null,null
+11,1.6,N Dickwella,S Samarawickrama,OP Stone,4,0,null,4,0,null,null
+12,2.1,S Samarawickrama,N Dickwella,CR Woakes,0,0,null,0,0,null,null
+13,2.2,S Samarawickrama,N Dickwella,CR Woakes,1,0,null,1,0,null,null
+14,2.3,N Dickwella,S Samarawickrama,CR Woakes,0,0,null,0,0,null,null
+15,2.4,N Dickwella,S Samarawickrama,CR Woakes,4,0,null,4,0,null,null
+16,2.5,N Dickwella,S Samarawickrama,CR Woakes,4,0,null,4,0,null,null
+17,2.6,N Dickwella,S Samarawickrama,CR Woakes,4,0,null,4,0,null,null
+18,3.1,S Samarawickrama,N Dickwella,TK Curran,1,0,null,1,0,null,null
+19,3.2,N Dickwella,S Samarawickrama,TK Curran,4,0,null,4,0,null,null
+20,3.3,N Dickwella,S Samarawickrama,TK Curran,0,0,null,0,0,null,null
+21,3.4,N Dickwella,S Samarawickrama,TK Curran,0,0,null,0,0,null,null
+22,3.5,N Dickwella,S Samarawickrama,TK Curran,1,0,null,1,0,null,null
+23,3.6,S Samarawickrama,N Dickwella,TK Curran,1,0,null,1,0,null,null
+24,4.1,S Samarawickrama,N Dickwella,MM Ali,1,0,null,1,0,null,null
+25,4.2,N Dickwella,S Samarawickrama,MM Ali,1,0,null,1,0,null,null
+26,4.3,S Samarawickrama,N Dickwella,MM Ali,2,0,null,2,0,null,null
+27,4.4,S Samarawickrama,N Dickwella,MM Ali,1,0,null,1,0,null,null
+28,4.5,N Dickwella,S Samarawickrama,MM Ali,1,0,null,1,0,null,null
+29,4.6,S Samarawickrama,N Dickwella,MM Ali,0,4,legbyes ,4,0,null,null
+30,5.1,N Dickwella,S Samarawickrama,TK Curran,1,0,null,1,0,null,null
+31,5.2,S Samarawickrama,N Dickwella,TK Curran,1,0,null,1,0,null,null
+32,5.3,N Dickwella,S Samarawickrama,TK Curran,0,0,null,0,1,N Dickwella,caught
+33,5.4,S Samarawickrama,BKG Mendis,TK Curran,0,0,null,0,0,null,null
+34,5.5,S Samarawickrama,BKG Mendis,TK Curran,0,0,null,0,0,null,null
+35,5.6,S Samarawickrama,BKG Mendis,TK Curran,1,0,null,1,0,null,null
+36,6.1,S Samarawickrama,BKG Mendis,AU Rashid,1,0,null,1,0,null,null
+37,6.2,BKG Mendis,S Samarawickrama,AU Rashid,0,0,null,0,1,BKG Mendis,bowled
+38,6.3,LD Chandimal,S Samarawickrama,AU Rashid,0,0,null,0,0,null,null
+39,6.4,LD Chandimal,S Samarawickrama,AU Rashid,0,0,null,0,0,null,null
+40,6.5,LD Chandimal,S Samarawickrama,AU Rashid,1,0,null,1,0,null,null
+41,6.6,S Samarawickrama,LD Chandimal,AU Rashid,0,0,null,0,0,null,null
+42,7.1,LD Chandimal,S Samarawickrama,OP Stone,1,0,null,1,0,null,null
+43,7.2,S Samarawickrama,LD Chandimal,OP Stone,1,0,null,1,0,null,null
+44,7.3,LD Chandimal,S Samarawickrama,OP Stone,2,0,null,2,0,null,null
+45,7.4,LD Chandimal,S Samarawickrama,OP Stone,0,0,null,0,0,null,null
+46,7.5,LD Chandimal,S Samarawickrama,OP Stone,0,0,null,0,0,null,null
+47,7.6,LD Chandimal,S Samarawickrama,OP Stone,1,0,null,1,0,null,null
+48,8.1,LD Chandimal,S Samarawickrama,AU Rashid,1,0,null,1,0,null,null
+49,8.2,S Samarawickrama,LD Chandimal,AU Rashid,4,0,null,4,0,null,null
+50,8.3,S Samarawickrama,LD Chandimal,AU Rashid,0,0,null,0,0,null,null
+51,8.4,S Samarawickrama,LD Chandimal,AU Rashid,0,0,null,0,0,null,null
+52,8.5,S Samarawickrama,LD Chandimal,AU Rashid,1,0,null,1,0,null,null
+53,8.6,LD Chandimal,S Samarawickrama,AU Rashid,0,0,null,0,0,null,null
+54,9.1,S Samarawickrama,LD Chandimal,BA Stokes,0,1,wides ,1,0,null,null
+55,9.2,S Samarawickrama,LD Chandimal,BA Stokes,0,0,null,0,0,null,null
+56,9.3,S Samarawickrama,LD Chandimal,BA Stokes,0,0,null,0,0,null,null
+57,9.4,S Samarawickrama,LD Chandimal,BA Stokes,0,2,legbyes ,2,0,null,null
+58,9.5,S Samarawickrama,LD Chandimal,BA Stokes,0,0,null,0,0,null,null
+59,9.6,S Samarawickrama,LD Chandimal,BA Stokes,1,0,null,1,0,null,null
+60,9.7,LD Chandimal,S Samarawickrama,BA Stokes,1,0,null,1,0,null,null
+61,10.1,LD Chandimal,S Samarawickrama,AU Rashid,0,0,null,0,0,null,null
+62,10.2,LD Chandimal,S Samarawickrama,AU Rashid,4,0,null,4,0,null,null
+63,10.3,LD Chandimal,S Samarawickrama,AU Rashid,1,0,null,1,0,null,null
+64,10.4,S Samarawickrama,LD Chandimal,AU Rashid,4,0,null,4,0,null,null
+65,10.5,S Samarawickrama,LD Chandimal,AU Rashid,1,0,null,1,0,null,null
+66,10.6,LD Chandimal,S Samarawickrama,AU Rashid,1,0,null,1,0,null,null
+67,11.1,LD Chandimal,S Samarawickrama,BA Stokes,1,0,null,1,0,null,null
+68,11.2,S Samarawickrama,LD Chandimal,BA Stokes,0,1,wides ,1,0,null,null
+69,11.3,S Samarawickrama,LD Chandimal,BA Stokes,1,0,null,1,0,null,null
+70,11.4,LD Chandimal,S Samarawickrama,BA Stokes,0,0,null,0,0,null,null
+71,11.5,LD Chandimal,S Samarawickrama,BA Stokes,1,0,null,1,0,null,null
+72,11.6,S Samarawickrama,LD Chandimal,BA Stokes,1,0,null,1,0,null,null
+73,11.7,LD Chandimal,S Samarawickrama,BA Stokes,0,0,null,0,0,null,null
+74,12.1,S Samarawickrama,LD Chandimal,AU Rashid,2,0,null,2,0,null,null
+75,12.2,S Samarawickrama,LD Chandimal,AU Rashid,0,0,null,0,1,S Samarawickrama,caught
+76,12.3,NLTC Perera,LD Chandimal,AU Rashid,0,0,null,0,1,NLTC Perera,caught
+77,12.4,LD Chandimal,DM de Silva,AU Rashid,1,0,null,1,0,null,null
+78,12.5,DM de Silva,LD Chandimal,AU Rashid,0,0,null,0,0,null,null
+79,12.6,DM de Silva,LD Chandimal,AU Rashid,0,0,null,0,0,null,null
+80,13.1,LD Chandimal,DM de Silva,OP Stone,0,1,wides ,1,0,null,null
+81,13.2,LD Chandimal,DM de Silva,OP Stone,0,0,null,0,0,null,null
+82,13.3,LD Chandimal,DM de Silva,OP Stone,0,0,null,0,0,null,null
+83,13.4,LD Chandimal,DM de Silva,OP Stone,0,0,null,0,0,null,null
+84,13.5,LD Chandimal,DM de Silva,OP Stone,1,0,null,1,0,null,null
+85,13.6,DM de Silva,LD Chandimal,OP Stone,0,2,byes ,2,0,null,null
+86,13.7,DM de Silva,LD Chandimal,OP Stone,0,0,null,0,0,null,null
+87,14.1,LD Chandimal,DM de Silva,CR Woakes,0,0,null,0,0,null,null
+88,14.2,LD Chandimal,DM de Silva,CR Woakes,2,0,null,2,0,null,null
+89,14.3,LD Chandimal,DM de Silva,CR Woakes,1,0,null,1,0,null,null
+90,14.4,DM de Silva,LD Chandimal,CR Woakes,1,0,null,1,0,null,null
+91,14.5,LD Chandimal,DM de Silva,CR Woakes,4,0,null,4,0,null,null
+92,14.6,LD Chandimal,DM de Silva,CR Woakes,0,0,null,0,0,null,null
+93,15.1,DM de Silva,LD Chandimal,BA Stokes,1,0,null,1,0,null,null
+94,15.2,LD Chandimal,DM de Silva,BA Stokes,0,0,null,0,0,null,null
+95,15.3,LD Chandimal,DM de Silva,BA Stokes,1,0,null,1,0,null,null
+96,15.4,DM de Silva,LD Chandimal,BA Stokes,0,0,null,0,0,null,null
+97,15.5,DM de Silva,LD Chandimal,BA Stokes,0,0,null,0,0,null,null
+98,15.6,DM de Silva,LD Chandimal,BA Stokes,1,0,null,1,0,null,null
+99,16.1,DM de Silva,LD Chandimal,TK Curran,0,0,null,0,1,DM de Silva,caught
+100,16.2,MD Shanaka,LD Chandimal,TK Curran,1,0,null,1,0,null,null
+101,16.3,LD Chandimal,MD Shanaka,TK Curran,0,0,null,0,0,null,null
+102,16.4,LD Chandimal,MD Shanaka,TK Curran,1,0,null,1,0,null,null
+103,16.5,MD Shanaka,LD Chandimal,TK Curran,1,0,null,1,0,null,null
+104,16.6,LD Chandimal,MD Shanaka,TK Curran,1,0,null,1,0,null,null
+105,17.1,LD Chandimal,MD Shanaka,BA Stokes,1,0,null,1,0,null,null
+106,17.2,MD Shanaka,LD Chandimal,BA Stokes,1,0,null,1,0,null,null
+107,17.3,LD Chandimal,MD Shanaka,BA Stokes,1,0,null,1,0,null,null
+108,17.4,MD Shanaka,LD Chandimal,BA Stokes,0,0,null,0,0,null,null
+109,17.5,MD Shanaka,LD Chandimal,BA Stokes,6,0,null,6,0,null,null
+110,17.6,MD Shanaka,LD Chandimal,BA Stokes,1,0,null,1,0,null,null
+111,18.1,MD Shanaka,LD Chandimal,AU Rashid,6,0,null,6,0,null,null
+112,18.2,MD Shanaka,LD Chandimal,AU Rashid,1,0,null,1,0,null,null
+113,18.3,LD Chandimal,MD Shanaka,AU Rashid,2,0,null,2,0,null,null
+114,18.4,LD Chandimal,MD Shanaka,AU Rashid,1,0,null,1,0,null,null
+115,18.5,MD Shanaka,LD Chandimal,AU Rashid,4,0,null,4,0,null,null
+116,18.6,MD Shanaka,LD Chandimal,AU Rashid,0,0,null,0,1,MD Shanaka,bowled
+117,19.1,LD Chandimal,A Dananjaya,CR Woakes,0,1,legbyes ,1,0,null,null
+118,19.2,A Dananjaya,LD Chandimal,CR Woakes,2,0,null,2,0,null,null
+119,19.3,A Dananjaya,LD Chandimal,CR Woakes,0,0,null,0,0,null,null
+120,19.4,A Dananjaya,LD Chandimal,CR Woakes,4,0,null,4,0,null,null
+121,19.5,A Dananjaya,LD Chandimal,CR Woakes,1,0,null,1,1,A Dananjaya,run out
+122,19.6,SL Malinga,LD Chandimal,CR Woakes,1,0,null,1,0,null,null
+123,20.1,SL Malinga,LD Chandimal,TK Curran,1,0,null,1,0,null,null
+124,20.2,LD Chandimal,SL Malinga,TK Curran,2,0,null,2,0,null,null
+125,20.3,LD Chandimal,SL Malinga,TK Curran,0,0,null,0,0,null,null
+126,20.4,LD Chandimal,SL Malinga,TK Curran,0,0,null,0,1,LD Chandimal,caught
+127,20.5,MA Aponso,SL Malinga,TK Curran,0,0,null,0,0,null,null
+128,20.6,MA Aponso,SL Malinga,TK Curran,0,0,null,0,1,MA Aponso,run out

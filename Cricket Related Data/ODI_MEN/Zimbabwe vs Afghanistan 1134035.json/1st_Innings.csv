@@ -1,0 +1,210 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+1,0.2,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+2,0.3,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+3,0.4,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+4,0.5,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+5,0.6,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+6,1.1,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+7,1.2,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+8,1.3,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+9,1.4,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+10,1.5,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+11,1.6,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+12,2.1,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+13,2.2,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+14,2.3,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+15,2.4,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+16,2.5,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+17,2.6,H Masakadza,SF Mire,Dawlat Zadran,4,0,null,4,0,null,null
+18,3.1,SF Mire,H Masakadza,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+19,3.2,H Masakadza,SF Mire,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+20,3.3,SF Mire,H Masakadza,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+21,3.4,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,1,wides ,1,0,null,null
+22,3.5,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+23,3.6,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,1,wides ,1,0,null,null
+24,3.7,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+25,3.8,SF Mire,H Masakadza,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+26,4.1,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+27,4.2,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+28,4.3,H Masakadza,SF Mire,Dawlat Zadran,4,0,null,4,0,null,null
+29,4.4,H Masakadza,SF Mire,Dawlat Zadran,0,0,null,0,1,H Masakadza,caught
+30,4.5,BRM Taylor,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+31,4.6,BRM Taylor,SF Mire,Dawlat Zadran,2,0,null,2,0,null,null
+32,5.1,SF Mire,BRM Taylor,Mujeeb Ur Rahman,6,0,null,6,0,null,null
+33,5.2,SF Mire,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+34,5.3,SF Mire,BRM Taylor,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+35,5.4,BRM Taylor,SF Mire,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+36,5.5,BRM Taylor,SF Mire,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+37,5.6,BRM Taylor,SF Mire,Mujeeb Ur Rahman,0,1,legbyes ,1,0,null,null
+38,6.1,BRM Taylor,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+39,6.2,BRM Taylor,SF Mire,Dawlat Zadran,1,0,null,1,0,null,null
+40,6.3,SF Mire,BRM Taylor,Dawlat Zadran,0,0,null,0,0,null,null
+41,6.4,SF Mire,BRM Taylor,Dawlat Zadran,2,0,null,2,0,null,null
+42,6.5,SF Mire,BRM Taylor,Dawlat Zadran,6,0,null,6,0,null,null
+43,6.6,SF Mire,BRM Taylor,Dawlat Zadran,0,0,null,0,0,null,null
+44,7.1,BRM Taylor,SF Mire,Mujeeb Ur Rahman,6,0,null,6,0,null,null
+45,7.2,BRM Taylor,SF Mire,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+46,7.3,BRM Taylor,SF Mire,Mujeeb Ur Rahman,0,0,null,0,1,BRM Taylor,caught
+47,7.4,CR Ervine,SF Mire,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+48,7.5,SF Mire,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,1,SF Mire,caught
+49,7.6,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+50,8.1,CR Ervine,Sikandar Raza,Dawlat Zadran,0,0,null,0,0,null,null
+51,8.2,CR Ervine,Sikandar Raza,Dawlat Zadran,0,0,null,0,0,null,null
+52,8.3,CR Ervine,Sikandar Raza,Dawlat Zadran,0,0,null,0,0,null,null
+53,8.4,CR Ervine,Sikandar Raza,Dawlat Zadran,1,0,null,1,0,null,null
+54,8.5,Sikandar Raza,CR Ervine,Dawlat Zadran,0,0,null,0,0,null,null
+55,8.6,Sikandar Raza,CR Ervine,Dawlat Zadran,1,0,null,1,0,null,null
+56,9.1,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+57,9.2,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+58,9.3,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+59,9.4,CR Ervine,Sikandar Raza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+60,9.5,CR Ervine,Sikandar Raza,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+61,9.6,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+62,10.1,CR Ervine,Sikandar Raza,Mohammad Nabi,1,0,null,1,0,null,null
+63,10.2,Sikandar Raza,CR Ervine,Mohammad Nabi,0,0,null,0,0,null,null
+64,10.3,Sikandar Raza,CR Ervine,Mohammad Nabi,0,0,null,0,0,null,null
+65,10.4,Sikandar Raza,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+66,10.5,CR Ervine,Sikandar Raza,Mohammad Nabi,0,0,null,0,0,null,null
+67,10.6,CR Ervine,Sikandar Raza,Mohammad Nabi,0,0,null,0,0,null,null
+68,11.1,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+69,11.2,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+70,11.3,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+71,11.4,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+72,11.5,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+73,11.6,CR Ervine,Sikandar Raza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+74,12.1,Sikandar Raza,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+75,12.2,CR Ervine,Sikandar Raza,Mohammad Nabi,0,0,null,0,0,null,null
+76,12.3,CR Ervine,Sikandar Raza,Mohammad Nabi,4,0,null,4,0,null,null
+77,12.4,CR Ervine,Sikandar Raza,Mohammad Nabi,1,0,null,1,0,null,null
+78,12.5,Sikandar Raza,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+79,12.6,CR Ervine,Sikandar Raza,Mohammad Nabi,0,0,null,0,0,null,null
+80,13.1,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+81,13.2,CR Ervine,Sikandar Raza,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+82,13.3,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+83,13.4,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,6,0,null,6,0,null,null
+84,13.5,Sikandar Raza,CR Ervine,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+85,13.6,CR Ervine,Sikandar Raza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+86,14.1,Sikandar Raza,CR Ervine,Mohammad Nabi,6,0,null,6,0,null,null
+87,14.2,Sikandar Raza,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+88,14.3,CR Ervine,Sikandar Raza,Mohammad Nabi,1,0,null,1,0,null,null
+89,14.4,Sikandar Raza,CR Ervine,Mohammad Nabi,0,0,null,0,0,null,null
+90,14.5,Sikandar Raza,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+91,14.6,CR Ervine,Sikandar Raza,Mohammad Nabi,0,0,null,0,0,null,null
+92,15.1,Sikandar Raza,CR Ervine,Gulbadin Naib,1,0,null,1,0,null,null
+93,15.2,CR Ervine,Sikandar Raza,Gulbadin Naib,1,0,null,1,0,null,null
+94,15.3,Sikandar Raza,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+95,15.4,Sikandar Raza,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+96,15.5,Sikandar Raza,CR Ervine,Gulbadin Naib,1,0,null,1,0,null,null
+97,15.6,CR Ervine,Sikandar Raza,Gulbadin Naib,1,0,null,1,0,null,null
+98,16.1,CR Ervine,Sikandar Raza,Mohammad Nabi,4,0,null,4,0,null,null
+99,16.2,CR Ervine,Sikandar Raza,Mohammad Nabi,0,0,null,0,0,null,null
+100,16.3,CR Ervine,Sikandar Raza,Mohammad Nabi,4,0,null,4,0,null,null
+101,16.4,CR Ervine,Sikandar Raza,Mohammad Nabi,1,0,null,1,0,null,null
+102,16.5,Sikandar Raza,CR Ervine,Mohammad Nabi,0,0,null,0,0,null,null
+103,16.6,Sikandar Raza,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+104,17.1,Sikandar Raza,CR Ervine,Gulbadin Naib,6,0,null,6,0,null,null
+105,17.2,Sikandar Raza,CR Ervine,Gulbadin Naib,4,0,null,4,0,null,null
+106,17.3,Sikandar Raza,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+107,17.4,Sikandar Raza,CR Ervine,Gulbadin Naib,1,0,null,1,0,null,null
+108,17.5,CR Ervine,Sikandar Raza,Gulbadin Naib,1,0,null,1,0,null,null
+109,17.6,Sikandar Raza,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+110,18.1,CR Ervine,Sikandar Raza,Rashid Khan,1,0,null,1,0,null,null
+111,18.2,Sikandar Raza,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+112,18.3,Sikandar Raza,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+113,18.4,Sikandar Raza,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+114,18.5,Sikandar Raza,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+115,18.6,Sikandar Raza,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+116,19.1,CR Ervine,Sikandar Raza,Gulbadin Naib,0,0,null,0,0,null,null
+117,19.2,CR Ervine,Sikandar Raza,Gulbadin Naib,1,0,null,1,0,null,null
+118,19.3,Sikandar Raza,CR Ervine,Gulbadin Naib,1,0,null,1,0,null,null
+119,19.4,CR Ervine,Sikandar Raza,Gulbadin Naib,0,0,null,0,0,null,null
+120,19.5,CR Ervine,Sikandar Raza,Gulbadin Naib,1,0,null,1,0,null,null
+121,19.6,Sikandar Raza,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+122,20.1,CR Ervine,Sikandar Raza,Rashid Khan,4,0,null,4,0,null,null
+123,20.2,CR Ervine,Sikandar Raza,Rashid Khan,1,0,null,1,0,null,null
+124,20.3,Sikandar Raza,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+125,20.4,Sikandar Raza,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+126,20.5,Sikandar Raza,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+127,20.6,Sikandar Raza,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+128,21.1,CR Ervine,Sikandar Raza,Gulbadin Naib,0,0,null,0,0,null,null
+129,21.2,CR Ervine,Sikandar Raza,Gulbadin Naib,1,0,null,1,0,null,null
+130,21.3,Sikandar Raza,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+131,21.4,Sikandar Raza,CR Ervine,Gulbadin Naib,1,0,null,1,0,null,null
+132,21.5,CR Ervine,Sikandar Raza,Gulbadin Naib,0,0,null,0,0,null,null
+133,21.6,CR Ervine,Sikandar Raza,Gulbadin Naib,0,1,legbyes ,1,0,null,null
+134,22.1,CR Ervine,Sikandar Raza,Rashid Khan,2,0,null,2,0,null,null
+135,22.2,CR Ervine,Sikandar Raza,Rashid Khan,0,0,null,0,0,null,null
+136,22.3,CR Ervine,Sikandar Raza,Rashid Khan,1,0,null,1,0,null,null
+137,22.4,Sikandar Raza,CR Ervine,Rashid Khan,0,0,null,0,1,Sikandar Raza,lbw
+138,22.5,RP Burl,CR Ervine,Rashid Khan,0,0,null,0,1,RP Burl,lbw
+139,22.6,MN Waller,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+140,23.1,CR Ervine,MN Waller,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+141,23.2,MN Waller,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+142,23.3,MN Waller,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+143,23.4,MN Waller,CR Ervine,Mujeeb Ur Rahman,0,4,legbyes ,4,0,null,null
+144,23.5,MN Waller,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+145,23.6,MN Waller,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+146,24.1,CR Ervine,MN Waller,Rashid Khan,0,0,null,0,0,null,null
+147,24.2,CR Ervine,MN Waller,Rashid Khan,0,0,null,0,0,null,null
+148,24.3,CR Ervine,MN Waller,Rashid Khan,0,0,null,0,0,null,null
+149,24.4,CR Ervine,MN Waller,Rashid Khan,0,0,null,0,0,null,null
+150,24.5,CR Ervine,MN Waller,Rashid Khan,0,0,null,0,0,null,null
+151,24.6,CR Ervine,MN Waller,Rashid Khan,0,0,null,0,0,null,null
+152,25.1,MN Waller,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+153,25.2,MN Waller,CR Ervine,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+154,25.3,CR Ervine,MN Waller,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+155,25.4,MN Waller,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+156,25.5,MN Waller,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+157,25.6,MN Waller,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,1,MN Waller,lbw
+158,26.1,CR Ervine,AG Cremer,Rashid Khan,0,0,null,0,0,null,null
+159,26.2,CR Ervine,AG Cremer,Rashid Khan,1,0,null,1,0,null,null
+160,26.3,AG Cremer,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+161,26.4,AG Cremer,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+162,26.5,AG Cremer,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+163,26.6,AG Cremer,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+164,27.1,CR Ervine,AG Cremer,Gulbadin Naib,1,0,null,1,0,null,null
+165,27.2,AG Cremer,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+166,27.3,AG Cremer,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+167,27.4,AG Cremer,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+168,27.5,AG Cremer,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+169,27.6,AG Cremer,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+170,28.1,CR Ervine,AG Cremer,Rashid Khan,0,0,null,0,0,null,null
+171,28.2,CR Ervine,AG Cremer,Rashid Khan,0,0,null,0,0,null,null
+172,28.3,CR Ervine,AG Cremer,Rashid Khan,0,0,null,0,0,null,null
+173,28.4,CR Ervine,AG Cremer,Rashid Khan,0,0,null,0,1,CR Ervine,lbw
+174,28.5,TL Chatara,AG Cremer,Rashid Khan,0,0,null,0,0,null,null
+175,28.6,TL Chatara,AG Cremer,Rashid Khan,1,0,null,1,0,null,null
+176,29.1,TL Chatara,AG Cremer,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+177,29.2,TL Chatara,AG Cremer,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+178,29.3,AG Cremer,TL Chatara,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+179,29.4,TL Chatara,AG Cremer,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+180,29.5,TL Chatara,AG Cremer,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+181,29.6,TL Chatara,AG Cremer,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+182,30.1,AG Cremer,TL Chatara,Rashid Khan,0,0,null,0,0,null,null
+183,30.2,AG Cremer,TL Chatara,Rashid Khan,0,0,null,0,0,null,null
+184,30.3,AG Cremer,TL Chatara,Rashid Khan,0,0,null,0,0,null,null
+185,30.4,AG Cremer,TL Chatara,Rashid Khan,0,0,null,0,0,null,null
+186,30.5,AG Cremer,TL Chatara,Rashid Khan,1,0,null,1,0,null,null
+187,30.6,TL Chatara,AG Cremer,Rashid Khan,0,0,null,0,0,null,null
+188,31.1,AG Cremer,TL Chatara,Gulbadin Naib,0,0,null,0,0,null,null
+189,31.2,AG Cremer,TL Chatara,Gulbadin Naib,0,0,null,0,0,null,null
+190,31.3,AG Cremer,TL Chatara,Gulbadin Naib,0,0,null,0,1,AG Cremer,caught and bowled
+191,31.4,TL Chatara,BV Vitori,Gulbadin Naib,0,0,null,0,0,null,null
+192,31.5,TL Chatara,BV Vitori,Gulbadin Naib,0,0,null,0,0,null,null
+193,31.6,TL Chatara,BV Vitori,Gulbadin Naib,1,0,null,1,0,null,null
+194,32.1,TL Chatara,BV Vitori,Rashid Khan,0,0,null,0,0,null,null
+195,32.2,TL Chatara,BV Vitori,Rashid Khan,4,0,null,4,0,null,null
+196,32.3,TL Chatara,BV Vitori,Rashid Khan,0,0,null,0,0,null,null
+197,32.4,TL Chatara,BV Vitori,Rashid Khan,0,0,null,0,1,TL Chatara,bowled
+198,32.5,B Muzarabani,BV Vitori,Rashid Khan,0,0,null,0,0,null,null
+199,32.6,B Muzarabani,BV Vitori,Rashid Khan,0,0,null,0,0,null,null
+200,33.1,BV Vitori,B Muzarabani,Dawlat Zadran,0,0,null,0,0,null,null
+201,33.2,BV Vitori,B Muzarabani,Dawlat Zadran,0,0,null,0,0,null,null
+202,33.3,BV Vitori,B Muzarabani,Dawlat Zadran,0,0,null,0,0,null,null
+203,33.4,BV Vitori,B Muzarabani,Dawlat Zadran,0,0,null,0,0,null,null
+204,33.5,BV Vitori,B Muzarabani,Dawlat Zadran,6,0,null,6,0,null,null
+205,33.6,BV Vitori,B Muzarabani,Dawlat Zadran,1,0,null,1,0,null,null
+206,34.1,BV Vitori,B Muzarabani,Rashid Khan,6,0,null,6,0,null,null
+207,34.2,BV Vitori,B Muzarabani,Rashid Khan,2,0,null,2,0,null,null
+208,34.3,BV Vitori,B Muzarabani,Rashid Khan,0,0,null,0,1,BV Vitori,caught

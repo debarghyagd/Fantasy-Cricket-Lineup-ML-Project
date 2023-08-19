@@ -1,0 +1,6 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1144147,Mangaung Oval,Zimbabwe,B Mavuta,Right-arm legbreak,"[1, 1, 1]",1,9,5,2,0
+1,1144147,Mangaung Oval,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,16,14,2,1
+2,1144146,Diamond Oval,Zimbabwe,B Mavuta,Right-arm legbreak,"[1, 1, 1]",1,6,7,1,0
+3,1144146,Diamond Oval,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,0,7,0,0
+4,1144146,Diamond Oval,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,0,1,0,0

@@ -1,0 +1,26 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,296904,Riverside Ground,England,RJ Sidebottom,Left-arm fast-medium,"[0, 0, 1]",0,8,5,1,0
+1,296904,Riverside Ground,England,GP Swann,Right-arm offbreak,"[1, 1, 0]",1,18,20,2,0
+2,296906,County Ground,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,1,7,0,0
+3,296906,County Ground,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+4,296906,County Ground,England,CT Tremlett,Right-arm fast-medium,"[0, 1, 1]",0,0,16,0,0
+5,296907,Kennington Oval,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,5,3,1,0
+6,296907,Kennington Oval,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",0,3,7,0,0
+7,296907,Kennington Oval,England,GP Swann,Right-arm offbreak,"[1, 1, 0]",1,4,7,0,0
+8,296908,Lord's,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",0,0,6,0,0
+9,296908,Lord's,England,GP Swann,Right-arm offbreak,"[1, 1, 0]",1,14,22,1,0
+10,296908,Lord's,England,RS Bopara,Right-arm medium,"[0, 1, 2]",0,5,5,1,0
+11,296908,Lord's,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+12,300441,AMI Stadium,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,0,2,0,0
+13,300441,AMI Stadium,England,RJ Sidebottom,Left-arm fast-medium,"[0, 0, 1]",1,0,1,0,0
+14,366711,Westpac Stadium,West Indies,NO Miller,Left-arm orthodox,"[1, 0, 1]",0,8,6,1,0
+15,366711,Westpac Stadium,West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",0,1,5,0,0
+16,366711,Westpac Stadium,West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,4,12,0,0
+17,560923,"Sabina Park, Kingston",West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,4,3,0,0
+18,560924,"Sabina Park, Kingston",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",1,4,4,1,0
+19,560924,"Sabina Park, Kingston",West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+20,560924,"Sabina Park, Kingston",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,15,10,3,0
+21,560925,"Warner Park, Basseterre",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",0,4,6,0,0
+22,560925,"Warner Park, Basseterre",West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,10,10,2,0
+23,560925,"Warner Park, Basseterre",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",1,3,9,0,0
+24,560927,"Warner Park, Basseterre",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,0,3,0,0

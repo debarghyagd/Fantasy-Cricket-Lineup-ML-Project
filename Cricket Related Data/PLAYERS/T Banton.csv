@@ -1,0 +1,12 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1198249,The Rose Bowl,Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,5,6,1,0
+1,1198249,The Rose Bowl,Ireland,J Little,Left-arm fast,"[0, 0, 0]",0,21,20,2,0
+2,1198249,The Rose Bowl,Ireland,GJ Delany,Right-arm legbreak,"[1, 1, 1]",1,2,3,0,0
+3,1198249,The Rose Bowl,Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,14,9,1,1
+4,1198247,The Rose Bowl,Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,2,4,0,0
+5,1198247,The Rose Bowl,Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,9,18,1,0
+6,1198248,The Rose Bowl,Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,2,5,0,0
+7,1185310,Newlands,South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",1,8,10,1,0
+8,1185312,The Wanderers Stadium,South Africa,BE Hendricks,Left-arm fast-medium,"[0, 0, 1]",1,2,5,0,0
+9,1185312,The Wanderers Stadium,South Africa,L Sipamla,Right-arm fast-medium,"[0, 1, 1]",0,10,6,2,0
+10,1185312,The Wanderers Stadium,South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",0,20,21,2,1

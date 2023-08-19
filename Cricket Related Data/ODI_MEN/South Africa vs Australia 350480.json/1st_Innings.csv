@@ -1,0 +1,307 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,GC Smith,HH Gibbs,NW Bracken,0,0,null,0,0,null,null
+1,0.2,GC Smith,HH Gibbs,NW Bracken,1,0,null,1,0,null,null
+2,0.3,HH Gibbs,GC Smith,NW Bracken,0,0,null,0,0,null,null
+3,0.4,HH Gibbs,GC Smith,NW Bracken,0,1,wides ,1,0,null,null
+4,0.5,HH Gibbs,GC Smith,NW Bracken,0,0,null,0,0,null,null
+5,0.6,HH Gibbs,GC Smith,NW Bracken,0,0,null,0,0,null,null
+6,0.7,HH Gibbs,GC Smith,NW Bracken,0,0,null,0,0,null,null
+7,1.1,GC Smith,HH Gibbs,MG Johnson,1,0,null,1,0,null,null
+8,1.2,HH Gibbs,GC Smith,MG Johnson,2,0,null,2,0,null,null
+9,1.3,HH Gibbs,GC Smith,MG Johnson,0,0,null,0,0,null,null
+10,1.4,HH Gibbs,GC Smith,MG Johnson,0,0,null,0,0,null,null
+11,1.5,HH Gibbs,GC Smith,MG Johnson,0,0,null,0,0,null,null
+12,1.6,HH Gibbs,GC Smith,MG Johnson,0,0,null,0,0,null,null
+13,2.1,GC Smith,HH Gibbs,NW Bracken,0,0,null,0,0,null,null
+14,2.2,GC Smith,HH Gibbs,NW Bracken,0,0,null,0,0,null,null
+15,2.3,GC Smith,HH Gibbs,NW Bracken,0,0,null,0,0,null,null
+16,2.4,GC Smith,HH Gibbs,NW Bracken,1,0,null,1,0,null,null
+17,2.5,HH Gibbs,GC Smith,NW Bracken,1,0,null,1,0,null,null
+18,2.6,GC Smith,HH Gibbs,NW Bracken,1,0,null,1,0,null,null
+19,3.1,GC Smith,HH Gibbs,MG Johnson,1,0,null,1,0,null,null
+20,3.2,HH Gibbs,GC Smith,MG Johnson,0,1,wides ,1,0,null,null
+21,3.3,HH Gibbs,GC Smith,MG Johnson,4,0,null,4,0,null,null
+22,3.4,HH Gibbs,GC Smith,MG Johnson,0,0,null,0,0,null,null
+23,3.5,HH Gibbs,GC Smith,MG Johnson,0,0,null,0,0,null,null
+24,3.6,HH Gibbs,GC Smith,MG Johnson,0,0,null,0,0,null,null
+25,3.7,HH Gibbs,GC Smith,MG Johnson,1,0,null,1,0,null,null
+26,4.1,HH Gibbs,GC Smith,NW Bracken,0,0,null,0,0,null,null
+27,4.2,HH Gibbs,GC Smith,NW Bracken,1,0,null,1,0,null,null
+28,4.3,GC Smith,HH Gibbs,NW Bracken,0,0,null,0,0,null,null
+29,4.4,GC Smith,HH Gibbs,NW Bracken,0,0,null,0,0,null,null
+30,4.5,GC Smith,HH Gibbs,NW Bracken,0,0,null,0,0,null,null
+31,4.6,GC Smith,HH Gibbs,NW Bracken,1,0,null,1,0,null,null
+32,5.1,GC Smith,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+33,5.2,GC Smith,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+34,5.3,GC Smith,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+35,5.4,GC Smith,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+36,5.5,GC Smith,HH Gibbs,MG Johnson,2,0,null,2,0,null,null
+37,5.6,GC Smith,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+38,6.1,HH Gibbs,GC Smith,NW Bracken,4,0,null,4,0,null,null
+39,6.2,HH Gibbs,GC Smith,NW Bracken,0,0,null,0,0,null,null
+40,6.3,HH Gibbs,GC Smith,NW Bracken,4,0,null,4,0,null,null
+41,6.4,HH Gibbs,GC Smith,NW Bracken,0,0,null,0,0,null,null
+42,6.5,HH Gibbs,GC Smith,NW Bracken,0,0,null,0,0,null,null
+43,6.6,HH Gibbs,GC Smith,NW Bracken,2,0,null,2,0,null,null
+44,7.1,GC Smith,HH Gibbs,MG Johnson,4,0,null,4,0,null,null
+45,7.2,GC Smith,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+46,7.3,GC Smith,HH Gibbs,MG Johnson,4,0,null,4,0,null,null
+47,7.4,GC Smith,HH Gibbs,MG Johnson,1,0,null,1,0,null,null
+48,7.5,HH Gibbs,GC Smith,MG Johnson,0,0,null,0,0,null,null
+49,7.6,HH Gibbs,GC Smith,MG Johnson,0,0,null,0,0,null,null
+50,8.1,GC Smith,HH Gibbs,JR Hopes,1,0,null,1,0,null,null
+51,8.2,HH Gibbs,GC Smith,JR Hopes,0,0,null,0,0,null,null
+52,8.3,HH Gibbs,GC Smith,JR Hopes,0,0,null,0,0,null,null
+53,8.4,HH Gibbs,GC Smith,JR Hopes,0,0,null,0,0,null,null
+54,8.5,HH Gibbs,GC Smith,JR Hopes,4,0,null,4,0,null,null
+55,8.6,HH Gibbs,GC Smith,JR Hopes,0,0,null,0,0,null,null
+56,9.1,GC Smith,HH Gibbs,SM Harwood,0,0,null,0,0,null,null
+57,9.2,GC Smith,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+58,9.3,HH Gibbs,GC Smith,SM Harwood,0,1,legbyes ,1,0,null,null
+59,9.4,GC Smith,HH Gibbs,SM Harwood,0,0,null,0,0,null,null
+60,9.5,GC Smith,HH Gibbs,SM Harwood,0,0,null,0,0,null,null
+61,9.6,GC Smith,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+62,10.1,GC Smith,HH Gibbs,JR Hopes,0,0,null,0,1,GC Smith,caught
+63,10.2,JH Kallis,HH Gibbs,JR Hopes,0,0,null,0,0,null,null
+64,10.3,JH Kallis,HH Gibbs,JR Hopes,0,0,null,0,0,null,null
+65,10.4,JH Kallis,HH Gibbs,JR Hopes,0,0,null,0,0,null,null
+66,10.5,JH Kallis,HH Gibbs,JR Hopes,0,0,null,0,0,null,null
+67,10.6,JH Kallis,HH Gibbs,JR Hopes,1,0,null,1,0,null,null
+68,11.1,JH Kallis,HH Gibbs,SM Harwood,0,0,null,0,0,null,null
+69,11.2,JH Kallis,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+70,11.3,HH Gibbs,JH Kallis,SM Harwood,1,0,null,1,0,null,null
+71,11.4,JH Kallis,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+72,11.5,HH Gibbs,JH Kallis,SM Harwood,0,1,wides ,1,0,null,null
+73,11.6,HH Gibbs,JH Kallis,SM Harwood,1,0,null,1,0,null,null
+74,11.7,JH Kallis,HH Gibbs,SM Harwood,0,0,null,0,0,null,null
+75,12.1,HH Gibbs,JH Kallis,JR Hopes,0,0,null,0,0,null,null
+76,12.2,HH Gibbs,JH Kallis,JR Hopes,2,0,null,2,0,null,null
+77,12.3,HH Gibbs,JH Kallis,JR Hopes,0,0,null,0,0,null,null
+78,12.4,HH Gibbs,JH Kallis,JR Hopes,4,0,null,4,0,null,null
+79,12.5,HH Gibbs,JH Kallis,JR Hopes,0,0,null,0,0,null,null
+80,12.6,HH Gibbs,JH Kallis,JR Hopes,1,0,null,1,0,null,null
+81,13.1,HH Gibbs,JH Kallis,SM Harwood,4,0,null,4,0,null,null
+82,13.2,HH Gibbs,JH Kallis,SM Harwood,1,0,null,1,0,null,null
+83,13.3,JH Kallis,HH Gibbs,SM Harwood,0,0,null,0,0,null,null
+84,13.4,JH Kallis,HH Gibbs,SM Harwood,0,0,null,0,0,null,null
+85,13.5,JH Kallis,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+86,13.6,HH Gibbs,JH Kallis,SM Harwood,0,0,null,0,0,null,null
+87,14.1,JH Kallis,HH Gibbs,JR Hopes,1,0,null,1,0,null,null
+88,14.2,HH Gibbs,JH Kallis,JR Hopes,0,0,null,0,0,null,null
+89,14.3,HH Gibbs,JH Kallis,JR Hopes,0,1,legbyes ,1,0,null,null
+90,14.4,JH Kallis,HH Gibbs,JR Hopes,0,0,null,0,0,null,null
+91,14.5,JH Kallis,HH Gibbs,JR Hopes,0,0,null,0,0,null,null
+92,14.6,JH Kallis,HH Gibbs,JR Hopes,0,0,null,0,0,null,null
+93,15.1,HH Gibbs,JH Kallis,SM Harwood,1,0,null,1,0,null,null
+94,15.2,JH Kallis,HH Gibbs,SM Harwood,0,0,null,0,0,null,null
+95,15.3,JH Kallis,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+96,15.4,HH Gibbs,JH Kallis,SM Harwood,0,0,null,0,0,null,null
+97,15.5,HH Gibbs,JH Kallis,SM Harwood,0,0,null,0,0,null,null
+98,15.6,HH Gibbs,JH Kallis,SM Harwood,1,0,null,1,0,null,null
+99,16.1,HH Gibbs,JH Kallis,NW Bracken,0,0,null,0,0,null,null
+100,16.2,HH Gibbs,JH Kallis,NW Bracken,2,0,null,2,0,null,null
+101,16.3,HH Gibbs,JH Kallis,NW Bracken,1,0,null,1,0,null,null
+102,16.4,JH Kallis,HH Gibbs,NW Bracken,6,0,null,6,0,null,null
+103,16.5,JH Kallis,HH Gibbs,NW Bracken,4,0,null,4,0,null,null
+104,16.6,JH Kallis,HH Gibbs,NW Bracken,0,0,null,0,0,null,null
+105,17.1,HH Gibbs,JH Kallis,SM Harwood,1,0,null,1,0,null,null
+106,17.2,JH Kallis,HH Gibbs,SM Harwood,0,0,null,0,0,null,null
+107,17.3,JH Kallis,HH Gibbs,SM Harwood,0,1,wides ,1,0,null,null
+108,17.4,JH Kallis,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+109,17.5,HH Gibbs,JH Kallis,SM Harwood,0,0,null,0,0,null,null
+110,17.6,HH Gibbs,JH Kallis,SM Harwood,1,0,null,1,0,null,null
+111,17.7,JH Kallis,HH Gibbs,SM Harwood,0,0,null,0,1,JH Kallis,caught
+112,18.1,HH Gibbs,AB de Villiers,NW Bracken,0,0,null,0,0,null,null
+113,18.2,HH Gibbs,AB de Villiers,NW Bracken,0,0,null,0,0,null,null
+114,18.3,HH Gibbs,AB de Villiers,NW Bracken,1,0,null,1,0,null,null
+115,18.4,AB de Villiers,HH Gibbs,NW Bracken,0,0,null,0,0,null,null
+116,18.5,AB de Villiers,HH Gibbs,NW Bracken,0,0,null,0,0,null,null
+117,18.6,AB de Villiers,HH Gibbs,NW Bracken,1,0,null,1,0,null,null
+118,19.1,AB de Villiers,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+119,19.2,HH Gibbs,AB de Villiers,SM Harwood,2,0,null,2,0,null,null
+120,19.3,HH Gibbs,AB de Villiers,SM Harwood,0,0,null,0,0,null,null
+121,19.4,HH Gibbs,AB de Villiers,SM Harwood,1,0,null,1,0,null,null
+122,19.5,AB de Villiers,HH Gibbs,SM Harwood,0,0,null,0,0,null,null
+123,19.6,AB de Villiers,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+124,20.1,AB de Villiers,HH Gibbs,NW Bracken,2,0,null,2,0,null,null
+125,20.2,AB de Villiers,HH Gibbs,NW Bracken,4,0,null,4,0,null,null
+126,20.3,AB de Villiers,HH Gibbs,NW Bracken,1,0,null,1,0,null,null
+127,20.4,HH Gibbs,AB de Villiers,NW Bracken,1,0,null,1,0,null,null
+128,20.5,AB de Villiers,HH Gibbs,NW Bracken,0,0,null,0,0,null,null
+129,20.6,AB de Villiers,HH Gibbs,NW Bracken,1,0,null,1,0,null,null
+130,21.1,AB de Villiers,HH Gibbs,JR Hopes,1,0,null,1,0,null,null
+131,21.2,HH Gibbs,AB de Villiers,JR Hopes,1,0,null,1,0,null,null
+132,21.3,AB de Villiers,HH Gibbs,JR Hopes,1,0,null,1,0,null,null
+133,21.4,HH Gibbs,AB de Villiers,JR Hopes,1,0,null,1,0,null,null
+134,21.5,AB de Villiers,HH Gibbs,JR Hopes,0,0,null,0,0,null,null
+135,21.6,AB de Villiers,HH Gibbs,JR Hopes,1,0,null,1,0,null,null
+136,22.1,AB de Villiers,HH Gibbs,NM Hauritz,1,0,null,1,0,null,null
+137,22.2,HH Gibbs,AB de Villiers,NM Hauritz,0,0,null,0,0,null,null
+138,22.3,HH Gibbs,AB de Villiers,NM Hauritz,1,0,null,1,0,null,null
+139,22.4,AB de Villiers,HH Gibbs,NM Hauritz,1,0,null,1,0,null,null
+140,22.5,HH Gibbs,AB de Villiers,NM Hauritz,0,2,legbyes ,2,0,null,null
+141,22.6,HH Gibbs,AB de Villiers,NM Hauritz,1,0,null,1,0,null,null
+142,23.1,HH Gibbs,AB de Villiers,JR Hopes,2,0,null,2,0,null,null
+143,23.2,HH Gibbs,AB de Villiers,JR Hopes,0,0,null,0,0,null,null
+144,23.3,HH Gibbs,AB de Villiers,JR Hopes,2,0,null,2,0,null,null
+145,23.4,HH Gibbs,AB de Villiers,JR Hopes,2,0,null,2,0,null,null
+146,23.5,HH Gibbs,AB de Villiers,JR Hopes,0,0,null,0,0,null,null
+147,23.6,HH Gibbs,AB de Villiers,JR Hopes,2,0,null,2,0,null,null
+148,24.1,AB de Villiers,HH Gibbs,NM Hauritz,1,0,null,1,0,null,null
+149,24.2,HH Gibbs,AB de Villiers,NM Hauritz,0,0,null,0,0,null,null
+150,24.3,HH Gibbs,AB de Villiers,NM Hauritz,1,0,null,1,0,null,null
+151,24.4,AB de Villiers,HH Gibbs,NM Hauritz,1,0,null,1,0,null,null
+152,24.5,HH Gibbs,AB de Villiers,NM Hauritz,1,0,null,1,0,null,null
+153,24.6,AB de Villiers,HH Gibbs,NM Hauritz,1,0,null,1,0,null,null
+154,25.1,AB de Villiers,HH Gibbs,JR Hopes,1,0,null,1,0,null,null
+155,25.2,HH Gibbs,AB de Villiers,JR Hopes,0,0,null,0,0,null,null
+156,25.3,HH Gibbs,AB de Villiers,JR Hopes,1,0,null,1,0,null,null
+157,25.4,AB de Villiers,HH Gibbs,JR Hopes,1,0,null,1,0,null,null
+158,25.5,HH Gibbs,AB de Villiers,JR Hopes,1,0,null,1,0,null,null
+159,25.6,AB de Villiers,HH Gibbs,JR Hopes,0,0,null,0,0,null,null
+160,26.1,HH Gibbs,AB de Villiers,NM Hauritz,0,0,null,0,0,null,null
+161,26.2,HH Gibbs,AB de Villiers,NM Hauritz,1,0,null,1,0,null,null
+162,26.3,AB de Villiers,HH Gibbs,NM Hauritz,6,0,null,6,0,null,null
+163,26.4,AB de Villiers,HH Gibbs,NM Hauritz,0,0,null,0,0,null,null
+164,26.5,AB de Villiers,HH Gibbs,NM Hauritz,1,0,null,1,0,null,null
+165,26.6,HH Gibbs,AB de Villiers,NM Hauritz,1,0,null,1,0,null,null
+166,27.1,HH Gibbs,AB de Villiers,MJ Clarke,0,0,null,0,0,null,null
+167,27.2,HH Gibbs,AB de Villiers,MJ Clarke,1,0,null,1,0,null,null
+168,27.3,AB de Villiers,HH Gibbs,MJ Clarke,1,0,null,1,0,null,null
+169,27.4,HH Gibbs,AB de Villiers,MJ Clarke,1,0,null,1,0,null,null
+170,27.5,AB de Villiers,HH Gibbs,MJ Clarke,1,0,null,1,0,null,null
+171,27.6,HH Gibbs,AB de Villiers,MJ Clarke,0,0,null,0,0,null,null
+172,28.1,AB de Villiers,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+173,28.2,AB de Villiers,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+174,28.3,AB de Villiers,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+175,28.4,AB de Villiers,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+176,28.5,AB de Villiers,HH Gibbs,MG Johnson,1,0,null,1,0,null,null
+177,28.6,HH Gibbs,AB de Villiers,MG Johnson,0,0,null,0,0,null,null
+178,29.1,AB de Villiers,HH Gibbs,MJ Clarke,1,0,null,1,0,null,null
+179,29.2,HH Gibbs,AB de Villiers,MJ Clarke,0,0,null,0,0,null,null
+180,29.3,HH Gibbs,AB de Villiers,MJ Clarke,0,0,null,0,0,null,null
+181,29.4,HH Gibbs,AB de Villiers,MJ Clarke,0,0,null,0,0,null,null
+182,29.5,HH Gibbs,AB de Villiers,MJ Clarke,1,0,null,1,0,null,null
+183,29.6,AB de Villiers,HH Gibbs,MJ Clarke,1,0,null,1,0,null,null
+184,30.1,AB de Villiers,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+185,30.2,AB de Villiers,HH Gibbs,MG Johnson,1,0,null,1,0,null,null
+186,30.3,HH Gibbs,AB de Villiers,MG Johnson,1,0,null,1,0,null,null
+187,30.4,AB de Villiers,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+188,30.5,AB de Villiers,HH Gibbs,MG Johnson,0,0,null,0,0,null,null
+189,30.6,AB de Villiers,HH Gibbs,MG Johnson,1,0,null,1,0,null,null
+190,31.1,AB de Villiers,HH Gibbs,MJ Clarke,2,0,null,2,0,null,null
+191,31.2,AB de Villiers,HH Gibbs,MJ Clarke,0,1,legbyes ,1,0,null,null
+192,31.3,HH Gibbs,AB de Villiers,MJ Clarke,2,0,null,2,0,null,null
+193,31.4,HH Gibbs,AB de Villiers,MJ Clarke,6,0,null,6,0,null,null
+194,31.5,HH Gibbs,AB de Villiers,MJ Clarke,1,0,null,1,0,null,null
+195,31.6,AB de Villiers,HH Gibbs,MJ Clarke,4,0,null,4,0,null,null
+196,32.1,HH Gibbs,AB de Villiers,NM Hauritz,0,0,null,0,0,null,null
+197,32.2,HH Gibbs,AB de Villiers,NM Hauritz,6,0,null,6,0,null,null
+198,32.3,HH Gibbs,AB de Villiers,NM Hauritz,1,0,null,1,0,null,null
+199,32.4,AB de Villiers,HH Gibbs,NM Hauritz,0,0,null,0,0,null,null
+200,32.5,AB de Villiers,HH Gibbs,NM Hauritz,0,0,null,0,0,null,null
+201,32.6,AB de Villiers,HH Gibbs,NM Hauritz,0,0,null,0,0,null,null
+202,33.1,HH Gibbs,AB de Villiers,NW Bracken,0,0,null,0,0,null,null
+203,33.2,HH Gibbs,AB de Villiers,NW Bracken,2,0,null,2,0,null,null
+204,33.3,HH Gibbs,AB de Villiers,NW Bracken,4,0,null,4,0,null,null
+205,33.4,HH Gibbs,AB de Villiers,NW Bracken,1,0,null,1,0,null,null
+206,33.5,AB de Villiers,HH Gibbs,NW Bracken,1,0,null,1,0,null,null
+207,33.6,HH Gibbs,AB de Villiers,NW Bracken,0,0,null,0,0,null,null
+208,34.1,AB de Villiers,HH Gibbs,NM Hauritz,1,0,null,1,0,null,null
+209,34.2,HH Gibbs,AB de Villiers,NM Hauritz,0,1,legbyes ,1,0,null,null
+210,34.3,AB de Villiers,HH Gibbs,NM Hauritz,0,0,null,0,0,null,null
+211,34.4,AB de Villiers,HH Gibbs,NM Hauritz,6,0,null,6,0,null,null
+212,34.5,AB de Villiers,HH Gibbs,NM Hauritz,6,0,null,6,0,null,null
+213,34.6,AB de Villiers,HH Gibbs,NM Hauritz,0,0,null,0,0,null,null
+214,35.1,HH Gibbs,AB de Villiers,SM Harwood,4,0,null,4,0,null,null
+215,35.2,HH Gibbs,AB de Villiers,SM Harwood,2,0,null,2,0,null,null
+216,35.3,HH Gibbs,AB de Villiers,SM Harwood,1,0,null,1,0,null,null
+217,35.4,AB de Villiers,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+218,35.5,HH Gibbs,AB de Villiers,SM Harwood,1,0,null,1,0,null,null
+219,35.6,AB de Villiers,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+220,36.1,AB de Villiers,HH Gibbs,NM Hauritz,0,0,null,0,0,null,null
+221,36.2,AB de Villiers,HH Gibbs,NM Hauritz,4,0,null,4,0,null,null
+222,36.3,AB de Villiers,HH Gibbs,NM Hauritz,2,0,null,2,0,null,null
+223,36.4,AB de Villiers,HH Gibbs,NM Hauritz,1,0,null,1,0,null,null
+224,36.5,HH Gibbs,AB de Villiers,NM Hauritz,1,0,null,1,0,null,null
+225,36.6,AB de Villiers,HH Gibbs,NM Hauritz,0,0,null,0,0,null,null
+226,37.1,HH Gibbs,AB de Villiers,SM Harwood,2,0,null,2,0,null,null
+227,37.2,HH Gibbs,AB de Villiers,SM Harwood,0,0,null,0,0,null,null
+228,37.3,HH Gibbs,AB de Villiers,SM Harwood,0,0,null,0,0,null,null
+229,37.4,HH Gibbs,AB de Villiers,SM Harwood,0,0,null,0,0,null,null
+230,37.5,HH Gibbs,AB de Villiers,SM Harwood,1,0,null,1,0,null,null
+231,37.6,AB de Villiers,HH Gibbs,SM Harwood,1,0,null,1,0,null,null
+232,38.1,AB de Villiers,HH Gibbs,NW Bracken,1,0,null,1,0,null,null
+233,38.2,HH Gibbs,AB de Villiers,NW Bracken,4,0,null,4,0,null,null
+234,38.3,HH Gibbs,AB de Villiers,NW Bracken,0,0,null,0,1,HH Gibbs,caught
+235,38.4,AB de Villiers,JA Morkel,NW Bracken,1,0,null,1,0,null,null
+236,38.5,JA Morkel,AB de Villiers,NW Bracken,0,0,null,0,0,null,null
+237,38.6,JA Morkel,AB de Villiers,NW Bracken,2,0,null,2,0,null,null
+238,39.1,AB de Villiers,JA Morkel,NM Hauritz,1,0,null,1,0,null,null
+239,39.2,JA Morkel,AB de Villiers,NM Hauritz,0,0,null,0,0,null,null
+240,39.3,JA Morkel,AB de Villiers,NM Hauritz,1,0,null,1,0,null,null
+241,39.4,AB de Villiers,JA Morkel,NM Hauritz,1,0,null,1,0,null,null
+242,39.5,JA Morkel,AB de Villiers,NM Hauritz,1,0,null,1,0,null,null
+243,39.6,AB de Villiers,JA Morkel,NM Hauritz,1,0,null,1,0,null,null
+244,40.1,AB de Villiers,JA Morkel,MG Johnson,0,0,null,0,0,null,null
+245,40.2,AB de Villiers,JA Morkel,MG Johnson,4,0,null,4,0,null,null
+246,40.3,AB de Villiers,JA Morkel,MG Johnson,0,0,null,0,0,null,null
+247,40.4,AB de Villiers,JA Morkel,MG Johnson,4,0,null,4,0,null,null
+248,40.5,AB de Villiers,JA Morkel,MG Johnson,1,0,null,1,0,null,null
+249,40.6,JA Morkel,AB de Villiers,MG Johnson,0,0,null,0,1,JA Morkel,bowled
+250,41.1,AB de Villiers,MV Boucher,JR Hopes,4,0,null,4,0,null,null
+251,41.2,AB de Villiers,MV Boucher,JR Hopes,0,0,null,0,0,null,null
+252,41.3,AB de Villiers,MV Boucher,JR Hopes,1,0,null,1,0,null,null
+253,41.4,MV Boucher,AB de Villiers,JR Hopes,0,0,null,0,0,null,null
+254,41.5,MV Boucher,AB de Villiers,JR Hopes,0,0,null,0,0,null,null
+255,41.6,MV Boucher,AB de Villiers,JR Hopes,1,0,null,1,0,null,null
+256,42.1,MV Boucher,AB de Villiers,MG Johnson,0,0,null,0,0,null,null
+257,42.2,MV Boucher,AB de Villiers,MG Johnson,4,0,null,4,0,null,null
+258,42.3,MV Boucher,AB de Villiers,MG Johnson,0,1,wides ,1,0,null,null
+259,42.4,MV Boucher,AB de Villiers,MG Johnson,1,0,null,1,0,null,null
+260,42.5,AB de Villiers,MV Boucher,MG Johnson,0,0,null,0,1,AB de Villiers,caught
+261,42.6,MV Boucher,JP Duminy,MG Johnson,0,0,null,0,0,null,null
+262,42.7,MV Boucher,JP Duminy,MG Johnson,0,0,null,0,0,null,null
+263,43.1,JP Duminy,MV Boucher,JR Hopes,1,0,null,1,0,null,null
+264,43.2,MV Boucher,JP Duminy,JR Hopes,1,0,null,1,0,null,null
+265,43.3,JP Duminy,MV Boucher,JR Hopes,1,0,null,1,0,null,null
+266,43.4,MV Boucher,JP Duminy,JR Hopes,1,0,null,1,0,null,null
+267,43.5,JP Duminy,MV Boucher,JR Hopes,3,0,null,3,0,null,null
+268,43.6,MV Boucher,JP Duminy,JR Hopes,0,0,null,0,0,null,null
+269,44.1,JP Duminy,MV Boucher,MG Johnson,1,0,null,1,0,null,null
+270,44.2,MV Boucher,JP Duminy,MG Johnson,0,1,wides ,1,0,null,null
+271,44.3,MV Boucher,JP Duminy,MG Johnson,1,0,null,1,0,null,null
+272,44.4,JP Duminy,MV Boucher,MG Johnson,1,0,null,1,0,null,null
+273,44.5,MV Boucher,JP Duminy,MG Johnson,0,0,null,0,0,null,null
+274,44.6,MV Boucher,JP Duminy,MG Johnson,0,0,null,0,0,null,null
+275,44.7,MV Boucher,JP Duminy,MG Johnson,0,0,null,0,0,null,null
+276,45.1,JP Duminy,MV Boucher,JR Hopes,1,0,null,1,0,null,null
+277,45.2,MV Boucher,JP Duminy,JR Hopes,1,0,null,1,0,null,null
+278,45.3,JP Duminy,MV Boucher,JR Hopes,4,0,null,4,0,null,null
+279,45.4,JP Duminy,MV Boucher,JR Hopes,1,0,null,1,0,null,null
+280,45.5,MV Boucher,JP Duminy,JR Hopes,6,0,null,6,0,null,null
+281,45.6,MV Boucher,JP Duminy,JR Hopes,0,0,null,0,0,null,null
+282,46.1,JP Duminy,MV Boucher,NW Bracken,2,0,null,2,0,null,null
+283,46.2,JP Duminy,MV Boucher,NW Bracken,1,0,null,1,0,null,null
+284,46.3,MV Boucher,JP Duminy,NW Bracken,1,0,null,1,0,null,null
+285,46.4,JP Duminy,MV Boucher,NW Bracken,1,0,null,1,0,null,null
+286,46.5,MV Boucher,JP Duminy,NW Bracken,1,0,null,1,0,null,null
+287,46.6,JP Duminy,MV Boucher,NW Bracken,1,0,null,1,0,null,null
+288,47.1,JP Duminy,MV Boucher,SM Harwood,2,0,null,2,0,null,null
+289,47.2,JP Duminy,MV Boucher,SM Harwood,0,0,null,0,0,null,null
+290,47.3,JP Duminy,MV Boucher,SM Harwood,1,0,null,1,0,null,null
+291,47.4,MV Boucher,JP Duminy,SM Harwood,1,0,null,1,0,null,null
+292,47.5,JP Duminy,MV Boucher,SM Harwood,2,0,null,2,0,null,null
+293,47.6,JP Duminy,MV Boucher,SM Harwood,1,0,null,1,0,null,null
+294,48.1,JP Duminy,MV Boucher,MG Johnson,1,0,null,1,0,null,null
+295,48.2,MV Boucher,JP Duminy,MG Johnson,4,0,null,4,0,null,null
+296,48.3,MV Boucher,JP Duminy,MG Johnson,4,0,null,4,0,null,null
+297,48.4,MV Boucher,JP Duminy,MG Johnson,1,0,null,1,0,null,null
+298,48.5,JP Duminy,MV Boucher,MG Johnson,4,0,null,4,0,null,null
+299,48.6,JP Duminy,MV Boucher,MG Johnson,1,0,null,1,0,null,null
+300,49.1,JP Duminy,MV Boucher,SM Harwood,0,1,legbyes ,1,0,null,null
+301,49.2,MV Boucher,JP Duminy,SM Harwood,1,0,null,1,0,null,null
+302,49.3,JP Duminy,MV Boucher,SM Harwood,4,0,null,4,0,null,null
+303,49.4,JP Duminy,MV Boucher,SM Harwood,2,0,null,2,0,null,null
+304,49.5,JP Duminy,MV Boucher,SM Harwood,4,0,null,4,0,null,null
+305,49.6,JP Duminy,MV Boucher,SM Harwood,0,0,null,0,1,JP Duminy,caught

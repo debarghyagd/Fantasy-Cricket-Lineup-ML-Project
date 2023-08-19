@@ -1,0 +1,292 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,GC Smith,HM Amla,Junaid Khan,0,0,null,0,0,null,null
+1,0.2,GC Smith,HM Amla,Junaid Khan,0,0,null,0,0,null,null
+2,0.3,GC Smith,HM Amla,Junaid Khan,4,0,null,4,0,null,null
+3,0.4,GC Smith,HM Amla,Junaid Khan,2,0,null,2,0,null,null
+4,0.5,GC Smith,HM Amla,Junaid Khan,0,0,null,0,0,null,null
+5,0.6,GC Smith,HM Amla,Junaid Khan,0,0,null,0,0,null,null
+6,1.1,HM Amla,GC Smith,Anwar Ali,0,1,wides ,1,0,null,null
+7,1.2,HM Amla,GC Smith,Anwar Ali,3,0,null,3,0,null,null
+8,1.3,GC Smith,HM Amla,Anwar Ali,0,0,null,0,0,null,null
+9,1.4,GC Smith,HM Amla,Anwar Ali,0,0,null,0,0,null,null
+10,1.5,GC Smith,HM Amla,Anwar Ali,0,0,null,0,0,null,null
+11,1.6,GC Smith,HM Amla,Anwar Ali,2,0,null,2,0,null,null
+12,1.7,GC Smith,HM Amla,Anwar Ali,0,0,null,0,0,null,null
+13,2.1,HM Amla,GC Smith,Junaid Khan,0,0,null,0,0,null,null
+14,2.2,HM Amla,GC Smith,Junaid Khan,0,0,null,0,1,HM Amla,bowled
+15,2.3,Q de Kock,GC Smith,Junaid Khan,4,0,null,4,0,null,null
+16,2.4,Q de Kock,GC Smith,Junaid Khan,0,0,null,0,0,null,null
+17,2.5,Q de Kock,GC Smith,Junaid Khan,0,0,null,0,0,null,null
+18,2.6,Q de Kock,GC Smith,Junaid Khan,0,0,null,0,0,null,null
+19,3.1,GC Smith,Q de Kock,Mohammad Hafeez,4,0,null,4,0,null,null
+20,3.2,GC Smith,Q de Kock,Mohammad Hafeez,0,0,null,0,0,null,null
+21,3.3,GC Smith,Q de Kock,Mohammad Hafeez,0,0,null,0,0,null,null
+22,3.4,GC Smith,Q de Kock,Mohammad Hafeez,0,0,null,0,0,null,null
+23,3.5,GC Smith,Q de Kock,Mohammad Hafeez,0,0,null,0,1,GC Smith,stumped
+24,3.6,JH Kallis,Q de Kock,Mohammad Hafeez,0,0,null,0,0,null,null
+25,4.1,Q de Kock,JH Kallis,Junaid Khan,0,0,null,0,0,null,null
+26,4.2,Q de Kock,JH Kallis,Junaid Khan,1,0,null,1,0,null,null
+27,4.3,JH Kallis,Q de Kock,Junaid Khan,0,0,null,0,0,null,null
+28,4.4,JH Kallis,Q de Kock,Junaid Khan,0,0,null,0,0,null,null
+29,4.5,JH Kallis,Q de Kock,Junaid Khan,0,0,null,0,0,null,null
+30,4.6,JH Kallis,Q de Kock,Junaid Khan,0,0,null,0,0,null,null
+31,5.1,Q de Kock,JH Kallis,Mohammad Hafeez,0,0,null,0,0,null,null
+32,5.2,Q de Kock,JH Kallis,Mohammad Hafeez,0,0,null,0,0,null,null
+33,5.3,Q de Kock,JH Kallis,Mohammad Hafeez,0,0,null,0,0,null,null
+34,5.4,Q de Kock,JH Kallis,Mohammad Hafeez,0,0,null,0,0,null,null
+35,5.5,Q de Kock,JH Kallis,Mohammad Hafeez,4,0,null,4,0,null,null
+36,5.6,Q de Kock,JH Kallis,Mohammad Hafeez,0,0,null,0,0,null,null
+37,6.1,JH Kallis,Q de Kock,Junaid Khan,0,0,null,0,0,null,null
+38,6.2,JH Kallis,Q de Kock,Junaid Khan,4,0,null,4,0,null,null
+39,6.3,JH Kallis,Q de Kock,Junaid Khan,4,0,null,4,0,null,null
+40,6.4,JH Kallis,Q de Kock,Junaid Khan,0,0,null,0,0,null,null
+41,6.5,JH Kallis,Q de Kock,Junaid Khan,0,0,null,0,0,null,null
+42,6.6,JH Kallis,Q de Kock,Junaid Khan,4,0,null,4,0,null,null
+43,7.1,Q de Kock,JH Kallis,Mohammad Hafeez,0,0,null,0,0,null,null
+44,7.2,Q de Kock,JH Kallis,Mohammad Hafeez,0,0,null,0,0,null,null
+45,7.3,Q de Kock,JH Kallis,Mohammad Hafeez,1,0,null,1,0,null,null
+46,7.4,JH Kallis,Q de Kock,Mohammad Hafeez,0,0,null,0,0,null,null
+47,7.5,JH Kallis,Q de Kock,Mohammad Hafeez,6,0,null,6,0,null,null
+48,7.6,JH Kallis,Q de Kock,Mohammad Hafeez,1,0,null,1,0,null,null
+49,8.1,JH Kallis,Q de Kock,Bilawal Bhatti,0,0,null,0,0,null,null
+50,8.2,JH Kallis,Q de Kock,Bilawal Bhatti,1,0,null,1,0,null,null
+51,8.3,Q de Kock,JH Kallis,Bilawal Bhatti,1,0,null,1,0,null,null
+52,8.4,JH Kallis,Q de Kock,Bilawal Bhatti,0,0,null,0,0,null,null
+53,8.5,JH Kallis,Q de Kock,Bilawal Bhatti,0,0,null,0,0,null,null
+54,8.6,JH Kallis,Q de Kock,Bilawal Bhatti,4,0,null,4,0,null,null
+55,9.1,Q de Kock,JH Kallis,Saeed Ajmal,1,0,null,1,0,null,null
+56,9.2,JH Kallis,Q de Kock,Saeed Ajmal,0,0,null,0,0,null,null
+57,9.3,JH Kallis,Q de Kock,Saeed Ajmal,0,0,null,0,0,null,null
+58,9.4,JH Kallis,Q de Kock,Saeed Ajmal,0,0,null,0,0,null,null
+59,9.5,JH Kallis,Q de Kock,Saeed Ajmal,0,0,null,0,0,null,null
+60,9.6,JH Kallis,Q de Kock,Saeed Ajmal,0,0,null,0,0,null,null
+61,10.1,Q de Kock,JH Kallis,Bilawal Bhatti,4,0,null,4,0,null,null
+62,10.2,Q de Kock,JH Kallis,Bilawal Bhatti,0,0,null,0,0,null,null
+63,10.3,Q de Kock,JH Kallis,Bilawal Bhatti,1,0,null,1,0,null,null
+64,10.4,JH Kallis,Q de Kock,Bilawal Bhatti,0,0,null,0,0,null,null
+65,10.5,JH Kallis,Q de Kock,Bilawal Bhatti,0,0,null,0,0,null,null
+66,10.6,JH Kallis,Q de Kock,Bilawal Bhatti,1,0,null,1,0,null,null
+67,11.1,JH Kallis,Q de Kock,Saeed Ajmal,1,0,null,1,0,null,null
+68,11.2,Q de Kock,JH Kallis,Saeed Ajmal,1,0,null,1,0,null,null
+69,11.3,JH Kallis,Q de Kock,Saeed Ajmal,0,0,null,0,0,null,null
+70,11.4,JH Kallis,Q de Kock,Saeed Ajmal,1,0,null,1,0,null,null
+71,11.5,Q de Kock,JH Kallis,Saeed Ajmal,0,0,null,0,0,null,null
+72,11.6,Q de Kock,JH Kallis,Saeed Ajmal,1,0,null,1,0,null,null
+73,12.1,Q de Kock,JH Kallis,Bilawal Bhatti,0,0,null,0,1,Q de Kock,bowled
+74,12.2,AB de Villiers,JH Kallis,Bilawal Bhatti,1,0,null,1,0,null,null
+75,12.3,JH Kallis,AB de Villiers,Bilawal Bhatti,0,0,null,0,0,null,null
+76,12.4,JH Kallis,AB de Villiers,Bilawal Bhatti,1,0,null,1,0,null,null
+77,12.5,AB de Villiers,JH Kallis,Bilawal Bhatti,0,0,null,0,0,null,null
+78,12.6,AB de Villiers,JH Kallis,Bilawal Bhatti,0,0,null,0,0,null,null
+79,13.1,JH Kallis,AB de Villiers,Saeed Ajmal,0,0,null,0,0,null,null
+80,13.2,JH Kallis,AB de Villiers,Saeed Ajmal,0,0,null,0,0,null,null
+81,13.3,JH Kallis,AB de Villiers,Saeed Ajmal,0,0,null,0,0,null,null
+82,13.4,JH Kallis,AB de Villiers,Saeed Ajmal,0,0,null,0,0,null,null
+83,13.5,JH Kallis,AB de Villiers,Saeed Ajmal,0,0,null,0,0,null,null
+84,13.6,JH Kallis,AB de Villiers,Saeed Ajmal,1,0,null,1,0,null,null
+85,14.1,JH Kallis,AB de Villiers,Bilawal Bhatti,1,0,null,1,0,null,null
+86,14.2,AB de Villiers,JH Kallis,Bilawal Bhatti,0,0,null,0,0,null,null
+87,14.3,AB de Villiers,JH Kallis,Bilawal Bhatti,4,0,null,4,0,null,null
+88,14.4,AB de Villiers,JH Kallis,Bilawal Bhatti,0,0,null,0,0,null,null
+89,14.5,AB de Villiers,JH Kallis,Bilawal Bhatti,1,0,null,1,0,null,null
+90,14.6,JH Kallis,AB de Villiers,Bilawal Bhatti,0,0,null,0,0,null,null
+91,15.1,AB de Villiers,JH Kallis,Saeed Ajmal,1,0,null,1,0,null,null
+92,15.2,JH Kallis,AB de Villiers,Saeed Ajmal,1,0,null,1,0,null,null
+93,15.3,AB de Villiers,JH Kallis,Saeed Ajmal,1,0,null,1,0,null,null
+94,15.4,JH Kallis,AB de Villiers,Saeed Ajmal,0,0,null,0,0,null,null
+95,15.5,JH Kallis,AB de Villiers,Saeed Ajmal,0,0,null,0,0,null,null
+96,15.6,JH Kallis,AB de Villiers,Saeed Ajmal,1,0,null,1,0,null,null
+97,16.1,JH Kallis,AB de Villiers,Bilawal Bhatti,1,0,null,1,0,null,null
+98,16.2,AB de Villiers,JH Kallis,Bilawal Bhatti,0,0,null,0,0,null,null
+99,16.3,AB de Villiers,JH Kallis,Bilawal Bhatti,0,0,null,0,0,null,null
+100,16.4,AB de Villiers,JH Kallis,Bilawal Bhatti,0,0,null,0,0,null,null
+101,16.5,AB de Villiers,JH Kallis,Bilawal Bhatti,2,0,null,2,0,null,null
+102,16.6,AB de Villiers,JH Kallis,Bilawal Bhatti,0,0,null,0,0,null,null
+103,17.1,JH Kallis,AB de Villiers,Shahid Afridi,1,0,null,1,0,null,null
+104,17.2,AB de Villiers,JH Kallis,Shahid Afridi,0,0,null,0,1,AB de Villiers,bowled
+105,17.3,JP Duminy,JH Kallis,Shahid Afridi,0,0,null,0,0,null,null
+106,17.4,JP Duminy,JH Kallis,Shahid Afridi,0,0,null,0,0,null,null
+107,17.5,JP Duminy,JH Kallis,Shahid Afridi,0,0,null,0,0,null,null
+108,17.6,JP Duminy,JH Kallis,Shahid Afridi,0,0,null,0,0,null,null
+109,18.1,JH Kallis,JP Duminy,Saeed Ajmal,0,0,null,0,0,null,null
+110,18.2,JH Kallis,JP Duminy,Saeed Ajmal,1,0,null,1,0,null,null
+111,18.3,JP Duminy,JH Kallis,Saeed Ajmal,0,0,null,0,0,null,null
+112,18.4,JP Duminy,JH Kallis,Saeed Ajmal,0,0,null,0,0,null,null
+113,18.5,JP Duminy,JH Kallis,Saeed Ajmal,0,0,null,0,0,null,null
+114,18.6,JP Duminy,JH Kallis,Saeed Ajmal,0,0,null,0,0,null,null
+115,19.1,JH Kallis,JP Duminy,Shahid Afridi,1,0,null,1,0,null,null
+116,19.2,JP Duminy,JH Kallis,Shahid Afridi,0,0,null,0,0,null,null
+117,19.3,JP Duminy,JH Kallis,Shahid Afridi,1,0,null,1,0,null,null
+118,19.4,JH Kallis,JP Duminy,Shahid Afridi,1,0,null,1,0,null,null
+119,19.5,JP Duminy,JH Kallis,Shahid Afridi,1,0,null,1,0,null,null
+120,19.6,JH Kallis,JP Duminy,Shahid Afridi,1,0,null,1,0,null,null
+121,20.1,JH Kallis,JP Duminy,Saeed Ajmal,0,0,null,0,0,null,null
+122,20.2,JH Kallis,JP Duminy,Saeed Ajmal,0,0,null,0,0,null,null
+123,20.3,JH Kallis,JP Duminy,Saeed Ajmal,0,0,null,0,0,null,null
+124,20.4,JH Kallis,JP Duminy,Saeed Ajmal,0,0,null,0,0,null,null
+125,20.5,JH Kallis,JP Duminy,Saeed Ajmal,1,0,null,1,0,null,null
+126,20.6,JP Duminy,JH Kallis,Saeed Ajmal,0,0,null,0,0,null,null
+127,21.1,JH Kallis,JP Duminy,Shahid Afridi,0,0,null,0,0,null,null
+128,21.2,JH Kallis,JP Duminy,Shahid Afridi,1,0,null,1,0,null,null
+129,21.3,JP Duminy,JH Kallis,Shahid Afridi,1,0,null,1,0,null,null
+130,21.4,JH Kallis,JP Duminy,Shahid Afridi,1,0,null,1,0,null,null
+131,21.5,JP Duminy,JH Kallis,Shahid Afridi,0,0,null,0,0,null,null
+132,21.6,JP Duminy,JH Kallis,Shahid Afridi,1,0,null,1,0,null,null
+133,22.1,JP Duminy,JH Kallis,Mohammad Hafeez,1,0,null,1,0,null,null
+134,22.2,JH Kallis,JP Duminy,Mohammad Hafeez,1,0,null,1,0,null,null
+135,22.3,JP Duminy,JH Kallis,Mohammad Hafeez,1,0,null,1,0,null,null
+136,22.4,JH Kallis,JP Duminy,Mohammad Hafeez,1,0,null,1,0,null,null
+137,22.5,JP Duminy,JH Kallis,Mohammad Hafeez,1,0,null,1,0,null,null
+138,22.6,JH Kallis,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+139,23.1,JP Duminy,JH Kallis,Shahid Afridi,0,0,null,0,0,null,null
+140,23.2,JP Duminy,JH Kallis,Shahid Afridi,0,1,wides ,1,0,null,null
+141,23.3,JP Duminy,JH Kallis,Shahid Afridi,4,0,null,4,0,null,null
+142,23.4,JP Duminy,JH Kallis,Shahid Afridi,0,0,null,0,0,null,null
+143,23.5,JP Duminy,JH Kallis,Shahid Afridi,1,0,null,1,0,null,null
+144,23.6,JH Kallis,JP Duminy,Shahid Afridi,1,0,null,1,0,null,null
+145,23.7,JP Duminy,JH Kallis,Shahid Afridi,4,0,null,4,0,null,null
+146,24.1,JH Kallis,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+147,24.2,JH Kallis,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+148,24.3,JH Kallis,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+149,24.4,JH Kallis,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+150,24.5,JH Kallis,JP Duminy,Mohammad Hafeez,1,0,null,1,0,null,null
+151,24.6,JP Duminy,JH Kallis,Mohammad Hafeez,2,0,null,2,0,null,null
+152,25.1,JH Kallis,JP Duminy,Anwar Ali,4,0,null,4,0,null,null
+153,25.2,JH Kallis,JP Duminy,Anwar Ali,1,0,null,1,0,null,null
+154,25.3,JP Duminy,JH Kallis,Anwar Ali,1,0,null,1,0,null,null
+155,25.4,JH Kallis,JP Duminy,Anwar Ali,0,0,null,0,1,JH Kallis,bowled
+156,25.5,DA Miller,JP Duminy,Anwar Ali,0,0,null,0,0,null,null
+157,25.6,DA Miller,JP Duminy,Anwar Ali,1,0,null,1,0,null,null
+158,26.1,DA Miller,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+159,26.2,DA Miller,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+160,26.3,DA Miller,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+161,26.4,DA Miller,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+162,26.5,DA Miller,JP Duminy,Mohammad Hafeez,1,0,null,1,0,null,null
+163,26.6,JP Duminy,DA Miller,Mohammad Hafeez,0,0,null,0,0,null,null
+164,27.1,DA Miller,JP Duminy,Anwar Ali,1,0,null,1,0,null,null
+165,27.2,JP Duminy,DA Miller,Anwar Ali,0,0,null,0,0,null,null
+166,27.3,JP Duminy,DA Miller,Anwar Ali,0,0,null,0,0,null,null
+167,27.4,JP Duminy,DA Miller,Anwar Ali,0,0,null,0,0,null,null
+168,27.5,JP Duminy,DA Miller,Anwar Ali,1,0,null,1,0,null,null
+169,27.6,DA Miller,JP Duminy,Anwar Ali,0,0,null,0,0,null,null
+170,28.1,JP Duminy,DA Miller,Mohammad Hafeez,1,0,null,1,0,null,null
+171,28.2,DA Miller,JP Duminy,Mohammad Hafeez,1,0,null,1,0,null,null
+172,28.3,JP Duminy,DA Miller,Mohammad Hafeez,1,0,null,1,0,null,null
+173,28.4,DA Miller,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+174,28.5,DA Miller,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+175,28.6,DA Miller,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+176,29.1,JP Duminy,DA Miller,Anwar Ali,0,0,null,0,0,null,null
+177,29.2,JP Duminy,DA Miller,Anwar Ali,0,0,null,0,0,null,null
+178,29.3,JP Duminy,DA Miller,Anwar Ali,1,0,null,1,0,null,null
+179,29.4,DA Miller,JP Duminy,Anwar Ali,0,0,null,0,1,DA Miller,caught
+180,29.5,VD Philander,JP Duminy,Anwar Ali,0,0,null,0,0,null,null
+181,29.6,VD Philander,JP Duminy,Anwar Ali,4,0,null,4,0,null,null
+182,30.1,JP Duminy,VD Philander,Mohammad Hafeez,1,0,null,1,0,null,null
+183,30.2,VD Philander,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+184,30.3,VD Philander,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+185,30.4,VD Philander,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+186,30.5,VD Philander,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+187,30.6,VD Philander,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+188,31.1,JP Duminy,VD Philander,Anwar Ali,1,0,null,1,0,null,null
+189,31.2,VD Philander,JP Duminy,Anwar Ali,0,0,null,0,0,null,null
+190,31.3,VD Philander,JP Duminy,Anwar Ali,1,0,null,1,0,null,null
+191,31.4,JP Duminy,VD Philander,Anwar Ali,1,0,null,1,0,null,null
+192,31.5,VD Philander,JP Duminy,Anwar Ali,0,0,null,0,0,null,null
+193,31.6,VD Philander,JP Duminy,Anwar Ali,0,0,null,0,0,null,null
+194,32.1,JP Duminy,VD Philander,Shahid Afridi,0,0,null,0,0,null,null
+195,32.2,JP Duminy,VD Philander,Shahid Afridi,1,0,null,1,0,null,null
+196,32.3,VD Philander,JP Duminy,Shahid Afridi,0,0,null,0,0,null,null
+197,32.4,VD Philander,JP Duminy,Shahid Afridi,1,0,null,1,0,null,null
+198,32.5,JP Duminy,VD Philander,Shahid Afridi,0,0,null,0,0,null,null
+199,32.6,JP Duminy,VD Philander,Shahid Afridi,1,0,null,1,0,null,null
+200,33.1,JP Duminy,VD Philander,Anwar Ali,0,0,null,0,0,null,null
+201,33.2,JP Duminy,VD Philander,Anwar Ali,0,0,null,0,0,null,null
+202,33.3,JP Duminy,VD Philander,Anwar Ali,1,0,null,1,0,null,null
+203,33.4,VD Philander,JP Duminy,Anwar Ali,0,0,null,0,0,null,null
+204,33.5,VD Philander,JP Duminy,Anwar Ali,0,0,null,0,0,null,null
+205,33.6,VD Philander,JP Duminy,Anwar Ali,0,0,null,0,0,null,null
+206,34.1,JP Duminy,VD Philander,Shahid Afridi,0,0,null,0,0,null,null
+207,34.2,JP Duminy,VD Philander,Shahid Afridi,1,0,null,1,0,null,null
+208,34.3,VD Philander,JP Duminy,Shahid Afridi,0,0,null,0,0,null,null
+209,34.4,VD Philander,JP Duminy,Shahid Afridi,1,0,null,1,0,null,null
+210,34.5,JP Duminy,VD Philander,Shahid Afridi,2,0,null,2,0,null,null
+211,34.6,JP Duminy,VD Philander,Shahid Afridi,1,0,null,1,0,null,null
+212,35.1,JP Duminy,VD Philander,Bilawal Bhatti,0,0,null,0,0,null,null
+213,35.2,JP Duminy,VD Philander,Bilawal Bhatti,4,0,null,4,0,null,null
+214,35.3,JP Duminy,VD Philander,Bilawal Bhatti,1,0,null,1,0,null,null
+215,35.4,VD Philander,JP Duminy,Bilawal Bhatti,0,0,null,0,0,null,null
+216,35.5,VD Philander,JP Duminy,Bilawal Bhatti,0,0,null,0,0,null,null
+217,35.6,VD Philander,JP Duminy,Bilawal Bhatti,4,0,null,4,0,null,null
+218,36.1,JP Duminy,VD Philander,Mohammad Hafeez,0,0,null,0,0,null,null
+219,36.2,JP Duminy,VD Philander,Mohammad Hafeez,1,0,null,1,0,null,null
+220,36.3,VD Philander,JP Duminy,Mohammad Hafeez,1,0,null,1,0,null,null
+221,36.4,JP Duminy,VD Philander,Mohammad Hafeez,1,0,null,1,0,null,null
+222,36.5,VD Philander,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+223,36.6,VD Philander,JP Duminy,Mohammad Hafeez,1,0,null,1,0,null,null
+224,37.1,VD Philander,JP Duminy,Saeed Ajmal,1,0,null,1,0,null,null
+225,37.2,JP Duminy,VD Philander,Saeed Ajmal,0,0,null,0,0,null,null
+226,37.3,JP Duminy,VD Philander,Saeed Ajmal,1,0,null,1,0,null,null
+227,37.4,VD Philander,JP Duminy,Saeed Ajmal,0,0,null,0,1,VD Philander,caught
+228,37.5,DW Steyn,JP Duminy,Saeed Ajmal,0,0,null,0,0,null,null
+229,37.6,DW Steyn,JP Duminy,Saeed Ajmal,0,0,null,0,0,null,null
+230,38.1,JP Duminy,DW Steyn,Mohammad Hafeez,0,0,null,0,0,null,null
+231,38.2,JP Duminy,DW Steyn,Mohammad Hafeez,0,0,null,0,0,null,null
+232,38.3,JP Duminy,DW Steyn,Mohammad Hafeez,0,0,null,0,0,null,null
+233,38.4,JP Duminy,DW Steyn,Mohammad Hafeez,1,0,null,1,0,null,null
+234,38.5,DW Steyn,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+235,38.6,DW Steyn,JP Duminy,Mohammad Hafeez,0,0,null,0,0,null,null
+236,39.1,JP Duminy,DW Steyn,Saeed Ajmal,0,0,null,0,0,null,null
+237,39.2,JP Duminy,DW Steyn,Saeed Ajmal,1,0,null,1,0,null,null
+238,39.3,DW Steyn,JP Duminy,Saeed Ajmal,0,0,null,0,0,null,null
+239,39.4,DW Steyn,JP Duminy,Saeed Ajmal,0,0,null,0,0,null,null
+240,39.5,DW Steyn,JP Duminy,Saeed Ajmal,0,0,null,0,0,null,null
+241,39.6,DW Steyn,JP Duminy,Saeed Ajmal,0,0,null,0,0,null,null
+242,40.1,JP Duminy,DW Steyn,Junaid Khan,1,0,null,1,0,null,null
+243,40.2,DW Steyn,JP Duminy,Junaid Khan,0,0,null,0,0,null,null
+244,40.3,DW Steyn,JP Duminy,Junaid Khan,2,0,null,2,0,null,null
+245,40.4,DW Steyn,JP Duminy,Junaid Khan,1,0,null,1,0,null,null
+246,40.5,JP Duminy,DW Steyn,Junaid Khan,0,0,null,0,0,null,null
+247,40.6,JP Duminy,DW Steyn,Junaid Khan,0,0,null,0,0,null,null
+248,41.1,DW Steyn,JP Duminy,Shahid Afridi,0,0,null,0,0,null,null
+249,41.2,DW Steyn,JP Duminy,Shahid Afridi,0,0,null,0,0,null,null
+250,41.3,DW Steyn,JP Duminy,Shahid Afridi,0,0,null,0,0,null,null
+251,41.4,DW Steyn,JP Duminy,Shahid Afridi,1,0,null,1,0,null,null
+252,41.5,JP Duminy,DW Steyn,Shahid Afridi,0,0,null,0,0,null,null
+253,41.6,JP Duminy,DW Steyn,Shahid Afridi,4,0,null,4,0,null,null
+254,42.1,DW Steyn,JP Duminy,Junaid Khan,0,0,null,0,0,null,null
+255,42.2,DW Steyn,JP Duminy,Junaid Khan,0,0,null,0,0,null,null
+256,42.3,DW Steyn,JP Duminy,Junaid Khan,0,0,null,0,0,null,null
+257,42.4,DW Steyn,JP Duminy,Junaid Khan,1,0,null,1,0,null,null
+258,42.5,JP Duminy,DW Steyn,Junaid Khan,1,0,null,1,0,null,null
+259,42.6,DW Steyn,JP Duminy,Junaid Khan,0,0,null,0,0,null,null
+260,43.1,JP Duminy,DW Steyn,Saeed Ajmal,0,0,null,0,1,JP Duminy,caught
+261,43.2,M Morkel,DW Steyn,Saeed Ajmal,6,0,null,6,0,null,null
+262,43.3,M Morkel,DW Steyn,Saeed Ajmal,0,0,null,0,0,null,null
+263,43.4,M Morkel,DW Steyn,Saeed Ajmal,1,0,null,1,0,null,null
+264,43.5,DW Steyn,M Morkel,Saeed Ajmal,0,0,null,0,0,null,null
+265,43.6,DW Steyn,M Morkel,Saeed Ajmal,0,0,null,0,0,null,null
+266,44.1,M Morkel,DW Steyn,Junaid Khan,0,0,null,0,0,null,null
+267,44.2,M Morkel,DW Steyn,Junaid Khan,4,0,null,4,0,null,null
+268,44.3,M Morkel,DW Steyn,Junaid Khan,0,0,null,0,0,null,null
+269,44.4,M Morkel,DW Steyn,Junaid Khan,2,0,null,2,0,null,null
+270,44.5,M Morkel,DW Steyn,Junaid Khan,0,0,null,0,0,null,null
+271,44.6,M Morkel,DW Steyn,Junaid Khan,0,0,null,0,0,null,null
+272,45.1,DW Steyn,M Morkel,Saeed Ajmal,0,0,null,0,0,null,null
+273,45.2,DW Steyn,M Morkel,Saeed Ajmal,0,0,null,0,0,null,null
+274,45.3,DW Steyn,M Morkel,Saeed Ajmal,6,0,null,6,0,null,null
+275,45.4,DW Steyn,M Morkel,Saeed Ajmal,0,0,null,0,0,null,null
+276,45.5,DW Steyn,M Morkel,Saeed Ajmal,0,0,null,0,0,null,null
+277,45.6,DW Steyn,M Morkel,Saeed Ajmal,0,0,null,0,0,null,null
+278,46.1,M Morkel,DW Steyn,Bilawal Bhatti,0,0,null,0,0,null,null
+279,46.2,M Morkel,DW Steyn,Bilawal Bhatti,1,0,null,1,0,null,null
+280,46.3,DW Steyn,M Morkel,Bilawal Bhatti,0,0,null,0,0,null,null
+281,46.4,DW Steyn,M Morkel,Bilawal Bhatti,4,0,null,4,0,null,null
+282,46.5,DW Steyn,M Morkel,Bilawal Bhatti,0,0,null,0,0,null,null
+283,46.6,DW Steyn,M Morkel,Bilawal Bhatti,0,0,null,0,1,DW Steyn,bowled
+284,47.1,M Morkel,Imran Tahir,Junaid Khan,0,0,null,0,0,null,null
+285,47.2,M Morkel,Imran Tahir,Junaid Khan,0,0,null,0,0,null,null
+286,47.3,M Morkel,Imran Tahir,Junaid Khan,2,0,null,2,0,null,null
+287,47.4,M Morkel,Imran Tahir,Junaid Khan,0,0,null,0,0,null,null
+288,47.5,M Morkel,Imran Tahir,Junaid Khan,0,0,null,0,0,null,null
+289,47.6,M Morkel,Imran Tahir,Junaid Khan,1,0,null,1,0,null,null
+290,48.1,M Morkel,Imran Tahir,Bilawal Bhatti,0,0,null,0,1,M Morkel,bowled

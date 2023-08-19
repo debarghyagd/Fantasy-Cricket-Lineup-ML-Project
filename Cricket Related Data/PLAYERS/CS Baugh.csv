@@ -1,0 +1,66 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,249748,Brabourne Stadium,Australia,A Symonds,Right-arm medium,"[0, 1, 2]",0,2,3,0,0
+1,249748,Brabourne Stadium,Australia,GD McGrath,Right-arm fast-medium,"[0, 1, 1]",0,8,8,1,0
+2,249759,Brabourne Stadium,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",1,6,8,1,0
+3,249759,Brabourne Stadium,Australia,GB Hogg,Left-arm chinaman,"[1, 0, 0]",0,3,5,0,0
+4,256610,Kinrara Academy Oval,Australia,A Symonds,Right-arm medium,"[0, 1, 2]",0,6,5,1,0
+5,256615,Kinrara Academy Oval,Australia,B Lee,Right-arm fast,"[0, 1, 0]",1,1,3,0,0
+6,249753,"Sardar Patel Stadium, Motera",India,AB Agarkar,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+7,256612,Kinrara Academy Oval,India,AB Agarkar,Right-arm fast-medium,"[0, 1, 1]",0,0,7,0,0
+8,256612,Kinrara Academy Oval,India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",1,6,6,1,0
+9,374059,Sheikh Zayed Stadium,Pakistan,Sohail Tanvir,Left-arm fast-medium,"[0, 0, 1]",0,2,2,0,0
+10,374059,Sheikh Zayed Stadium,Pakistan,Umar Gul,Right-arm fast-medium,"[0, 1, 1]",1,2,4,0,0
+11,374060,Sheikh Zayed Stadium,Pakistan,Umar Gul,Right-arm fast-medium,"[0, 1, 1]",1,2,3,0,0
+12,374060,Sheikh Zayed Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",0,0,3,0,0
+13,374060,Sheikh Zayed Stadium,Pakistan,Iftikhar Anjum,Right-arm medium,"[0, 1, 2]",0,1,2,0,0
+14,249744,Brabourne Stadium,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",0,1,3,0,0
+15,249744,Brabourne Stadium,Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",1,0,11,0,0
+16,464991,Sinhalese Sports Club Ground,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",0,10,10,0,0
+17,464991,Sinhalese Sports Club Ground,Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",0,8,11,1,0
+18,464991,Sinhalese Sports Club Ground,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,5,8,0,0
+19,464992,Sinhalese Sports Club Ground,Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",0,18,18,1,0
+20,464992,Sinhalese Sports Club Ground,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,13,8,2,0
+21,464992,Sinhalese Sports Club Ground,Sri Lanka,BAW Mendis,Right-arm offbreak,"[1, 1, 0]",1,9,9,1,0
+22,464992,Sinhalese Sports Club Ground,Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",0,6,13,0,0
+23,540168,"Arnos Vale Ground, Kingstown",Australia,XJ Doherty,Left-arm orthodox,"[1, 0, 1]",1,0,3,0,0
+24,540169,"Arnos Vale Ground, Kingstown",Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,7,12,1,0
+25,540169,"Arnos Vale Ground, Kingstown",Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,5,4,1,0
+26,540169,"Arnos Vale Ground, Kingstown",Australia,XJ Doherty,Left-arm orthodox,"[1, 0, 1]",0,6,1,0,1
+27,540170,"Arnos Vale Ground, Kingstown",Australia,CJ McKay,Right-arm fast-medium,"[0, 1, 1]",1,18,20,3,0
+28,540170,"Arnos Vale Ground, Kingstown",Australia,XJ Doherty,Left-arm orthodox,"[1, 0, 1]",0,5,22,0,0
+29,540170,"Arnos Vale Ground, Kingstown",Australia,NM Lyon,Right-arm offbreak,"[1, 1, 0]",0,1,8,0,0
+30,540170,"Arnos Vale Ground, Kingstown",Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,5,9,0,0
+31,540170,"Arnos Vale Ground, Kingstown",Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,1,6,0,0
+32,540172,"Beausejour Stadium, Gros Islet",Australia,CJ McKay,Right-arm fast-medium,"[0, 1, 1]",0,10,9,2,0
+33,540172,"Beausejour Stadium, Gros Islet",Australia,B Lee,Right-arm fast,"[0, 1, 0]",1,1,4,0,0
+34,540172,"Beausejour Stadium, Gros Islet",Australia,XJ Doherty,Left-arm orthodox,"[1, 0, 1]",0,1,6,0,0
+35,540172,"Beausejour Stadium, Gros Islet",Australia,BW Hilfenhaus,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+36,239916,"Sabina Park, Kingston",India,Yuvraj Singh,Left-arm orthodox,"[1, 0, 1]",0,9,7,2,0
+37,239916,"Sabina Park, Kingston",India,MM Patel,Right-arm fast-medium,"[0, 1, 1]",0,9,5,2,0
+38,239916,"Sabina Park, Kingston",India,RR Powar,Right-arm offbreak,"[1, 1, 0]",1,3,6,0,0
+39,239917,"Warner Park, Basseterre",India,S Sreesanth,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+40,489221,"Queen's Park Oval, Port of Spain",India,A Mishra,Right-arm legbreak,"[1, 1, 1]",0,3,6,0,0
+41,489221,"Queen's Park Oval, Port of Spain",India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",1,8,7,1,0
+42,489222,"Queen's Park Oval, Port of Spain",India,A Mishra,Right-arm legbreak,"[1, 1, 1]",1,1,5,0,0
+43,489222,"Queen's Park Oval, Port of Spain",India,MM Patel,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+44,489223,"Sir Vivian Richards Stadium, North Sound",India,YK Pathan,Right-arm offbreak,"[1, 1, 0]",0,8,15,0,0
+45,489223,"Sir Vivian Richards Stadium, North Sound",India,MM Patel,Right-arm fast-medium,"[0, 1, 1]",1,2,5,0,0
+46,489223,"Sir Vivian Richards Stadium, North Sound",India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",0,9,20,0,0
+47,489223,"Sir Vivian Richards Stadium, North Sound",India,P Kumar,Right-arm fast-medium,"[0, 1, 1]",0,7,12,0,0
+48,489223,"Sir Vivian Richards Stadium, North Sound",India,A Mishra,Right-arm legbreak,"[1, 1, 1]",0,5,12,0,0
+49,489224,"Sir Vivian Richards Stadium, North Sound",India,YK Pathan,Right-arm offbreak,"[1, 1, 0]",0,5,15,0,0
+50,489224,"Sir Vivian Richards Stadium, North Sound",India,I Sharma,Right-arm fast-medium,"[0, 1, 1]",0,15,12,2,0
+51,489224,"Sir Vivian Richards Stadium, North Sound",India,P Kumar,Right-arm fast-medium,"[0, 1, 1]",1,7,11,1,0
+52,489224,"Sir Vivian Richards Stadium, North Sound",India,A Mishra,Right-arm legbreak,"[1, 1, 1]",0,3,4,0,0
+53,489213,"Beausejour Stadium, Gros Islet",Pakistan,Wahab Riaz,Left-arm fast,"[0, 0, 0]",0,3,10,0,0
+54,489213,"Beausejour Stadium, Gros Islet",Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",0,2,4,0,0
+55,489214,"Beausejour Stadium, Gros Islet",Pakistan,Wahab Riaz,Left-arm fast,"[0, 0, 0]",0,2,5,0,0
+56,489214,"Beausejour Stadium, Gros Islet",Pakistan,Hammad Azam,Right-arm medium,"[0, 1, 2]",0,2,2,0,0
+57,489214,"Beausejour Stadium, Gros Islet",Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",0,3,4,0,0
+58,239912,"Queen's Park Oval, Port of Spain",Zimbabwe,T Mupariwa,Right-arm fast-medium,"[0, 1, 1]",0,9,6,0,1
+59,239912,"Queen's Park Oval, Port of Spain",Zimbabwe,AJ Ireland,Right-arm medium,"[0, 1, 2]",0,2,2,0,0
+60,239912,"Queen's Park Oval, Port of Spain",Zimbabwe,HP Rinke,Right-arm fast-medium,"[0, 1, 1]",0,14,7,3,0
+61,239913,"Queen's Park Oval, Port of Spain",Zimbabwe,KO Meth,Right-arm medium,"[0, 1, 2]",0,4,4,0,0
+62,239913,"Queen's Park Oval, Port of Spain",Zimbabwe,T Mupariwa,Right-arm fast-medium,"[0, 1, 1]",1,6,2,0,1
+63,239913,"Queen's Park Oval, Port of Spain",Zimbabwe,NB Mahwire,Right-arm medium,"[0, 1, 2]",0,9,5,0,1
+64,64848,"Queens Sports Club, Bulawayo",Zimbabwe,RW Price,Left-arm orthodox,"[1, 0, 1]",0,2,5,0,0

@@ -1,0 +1,25 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,JJ Roy,AD Hales,RAS Lakmal,0,0,null,0,0,null,null
+1,0.2,JJ Roy,AD Hales,RAS Lakmal,1,0,null,1,0,null,null
+2,0.3,AD Hales,JJ Roy,RAS Lakmal,0,0,null,0,1,AD Hales,caught
+3,0.4,JE Root,JJ Roy,RAS Lakmal,0,0,null,0,0,null,null
+4,0.5,JE Root,JJ Roy,RAS Lakmal,0,0,null,0,0,null,null
+5,0.6,JE Root,JJ Roy,RAS Lakmal,0,0,null,0,0,null,null
+6,1.1,JJ Roy,JE Root,AD Mathews,0,0,null,0,0,null,null
+7,1.2,JJ Roy,JE Root,AD Mathews,1,0,null,1,0,null,null
+8,1.3,JE Root,JJ Roy,AD Mathews,0,0,null,0,0,null,null
+9,1.4,JE Root,JJ Roy,AD Mathews,0,0,null,0,0,null,null
+10,1.5,JE Root,JJ Roy,AD Mathews,2,0,null,2,0,null,null
+11,1.6,JE Root,JJ Roy,AD Mathews,0,0,null,0,0,null,null
+12,2.1,JJ Roy,JE Root,RAS Lakmal,1,0,null,1,0,null,null
+13,2.2,JE Root,JJ Roy,RAS Lakmal,2,0,null,2,0,null,null
+14,2.3,JE Root,JJ Roy,RAS Lakmal,4,0,null,4,0,null,null
+15,2.4,JE Root,JJ Roy,RAS Lakmal,0,0,null,0,0,null,null
+16,2.5,JE Root,JJ Roy,RAS Lakmal,0,0,null,0,0,null,null
+17,2.6,JE Root,JJ Roy,RAS Lakmal,0,0,null,0,0,null,null
+18,3.1,JJ Roy,JE Root,AD Mathews,1,0,null,1,0,null,null
+19,3.2,JE Root,JJ Roy,AD Mathews,2,0,null,2,0,null,null
+20,3.3,JE Root,JJ Roy,AD Mathews,0,0,null,0,0,null,null
+21,3.4,JE Root,JJ Roy,AD Mathews,1,0,null,1,0,null,null
+22,3.5,JJ Roy,JE Root,AD Mathews,1,0,null,1,0,null,null
+23,3.6,JE Root,JJ Roy,AD Mathews,0,0,null,0,0,null,null

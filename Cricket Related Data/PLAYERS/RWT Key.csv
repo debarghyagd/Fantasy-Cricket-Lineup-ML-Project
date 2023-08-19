@@ -1,0 +1,6 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,66309,Lord's,West Indies,DR Smith,Right-arm medium,"[0, 1, 2]",1,0,7,0,0
+1,66309,Lord's,West Indies,IDR Bradshaw,Left-arm fast-medium,"[0, 0, 1]",0,7,22,1,0
+2,66309,Lord's,West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,9,15,1,0
+3,66306,Headingley,West Indies,JJC Lawson,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+4,66306,Headingley,West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",1,5,10,1,0

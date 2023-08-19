@@ -1,0 +1,122 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tamim Iqbal,Shahriar Nafees,KAD Hurdle,1,0,null,1,0,null,null
+1,0.2,Shahriar Nafees,Tamim Iqbal,KAD Hurdle,0,1,wides ,1,0,null,null
+2,0.3,Shahriar Nafees,Tamim Iqbal,KAD Hurdle,0,0,null,0,0,null,null
+3,0.4,Shahriar Nafees,Tamim Iqbal,KAD Hurdle,0,1,wides ,1,0,null,null
+4,0.5,Shahriar Nafees,Tamim Iqbal,KAD Hurdle,0,1,wides ,1,0,null,null
+5,0.6,Shahriar Nafees,Tamim Iqbal,KAD Hurdle,0,1,wides ,1,0,null,null
+6,0.7,Shahriar Nafees,Tamim Iqbal,KAD Hurdle,0,0,null,0,0,null,null
+7,0.8,Shahriar Nafees,Tamim Iqbal,KAD Hurdle,0,1,noballs ,1,0,null,null
+8,0.9,Shahriar Nafees,Tamim Iqbal,KAD Hurdle,0,0,null,0,0,null,null
+9,0.10,Shahriar Nafees,Tamim Iqbal,KAD Hurdle,0,0,null,0,0,null,null
+10,0.11,Shahriar Nafees,Tamim Iqbal,KAD Hurdle,0,0,null,0,0,null,null
+11,1.1,Tamim Iqbal,Shahriar Nafees,S Mukuddem,0,0,null,0,1,Tamim Iqbal,caught
+12,1.2,Shahriar Nafees,Aftab Ahmed,S Mukuddem,0,0,null,0,0,null,null
+13,1.3,Shahriar Nafees,Aftab Ahmed,S Mukuddem,0,0,null,0,0,null,null
+14,1.4,Shahriar Nafees,Aftab Ahmed,S Mukuddem,0,0,null,0,0,null,null
+15,1.5,Shahriar Nafees,Aftab Ahmed,S Mukuddem,0,1,wides ,1,0,null,null
+16,1.6,Shahriar Nafees,Aftab Ahmed,S Mukuddem,0,0,null,0,0,null,null
+17,1.7,Shahriar Nafees,Aftab Ahmed,S Mukuddem,0,1,wides ,1,0,null,null
+18,1.8,Shahriar Nafees,Aftab Ahmed,S Mukuddem,0,0,null,0,0,null,null
+19,2.1,Aftab Ahmed,Shahriar Nafees,KAD Hurdle,0,0,null,0,0,null,null
+20,2.2,Aftab Ahmed,Shahriar Nafees,KAD Hurdle,0,1,noballs ,1,0,null,null
+21,2.3,Aftab Ahmed,Shahriar Nafees,KAD Hurdle,0,0,null,0,0,null,null
+22,2.4,Aftab Ahmed,Shahriar Nafees,KAD Hurdle,1,0,null,1,0,null,null
+23,2.5,Shahriar Nafees,Aftab Ahmed,KAD Hurdle,0,0,null,0,0,null,null
+24,2.6,Shahriar Nafees,Aftab Ahmed,KAD Hurdle,0,1,noballs ,1,0,null,null
+25,2.7,Shahriar Nafees,Aftab Ahmed,KAD Hurdle,0,0,null,0,0,null,null
+26,2.8,Shahriar Nafees,Aftab Ahmed,KAD Hurdle,6,0,null,6,0,null,null
+27,3.1,Aftab Ahmed,Shahriar Nafees,S Mukuddem,0,0,null,0,0,null,null
+28,3.2,Aftab Ahmed,Shahriar Nafees,S Mukuddem,1,0,null,1,0,null,null
+29,3.3,Shahriar Nafees,Aftab Ahmed,S Mukuddem,1,0,null,1,0,null,null
+30,3.4,Aftab Ahmed,Shahriar Nafees,S Mukuddem,4,0,null,4,0,null,null
+31,3.5,Aftab Ahmed,Shahriar Nafees,S Mukuddem,0,0,null,0,0,null,null
+32,3.6,Aftab Ahmed,Shahriar Nafees,S Mukuddem,0,0,null,0,0,null,null
+33,4.1,Shahriar Nafees,Aftab Ahmed,KAD Hurdle,1,0,null,1,0,null,null
+34,4.2,Aftab Ahmed,Shahriar Nafees,KAD Hurdle,0,0,null,0,0,null,null
+35,4.3,Aftab Ahmed,Shahriar Nafees,KAD Hurdle,1,0,null,1,0,null,null
+36,4.4,Shahriar Nafees,Aftab Ahmed,KAD Hurdle,0,0,null,0,0,null,null
+37,4.5,Shahriar Nafees,Aftab Ahmed,KAD Hurdle,0,0,null,0,0,null,null
+38,4.6,Shahriar Nafees,Aftab Ahmed,KAD Hurdle,0,1,wides ,1,0,null,null
+39,4.7,Shahriar Nafees,Aftab Ahmed,KAD Hurdle,0,0,null,0,0,null,null
+40,5.1,Aftab Ahmed,Shahriar Nafees,S Mukuddem,0,0,null,0,0,null,null
+41,5.2,Aftab Ahmed,Shahriar Nafees,S Mukuddem,0,4,byes ,4,0,null,null
+42,5.3,Aftab Ahmed,Shahriar Nafees,S Mukuddem,0,0,null,0,1,Aftab Ahmed,lbw
+43,5.4,Shakib Al Hasan,Shahriar Nafees,S Mukuddem,0,0,null,0,0,null,null
+44,5.5,Shakib Al Hasan,Shahriar Nafees,S Mukuddem,0,0,null,0,0,null,null
+45,5.6,Shakib Al Hasan,Shahriar Nafees,S Mukuddem,0,0,null,0,0,null,null
+46,6.1,Shahriar Nafees,Shakib Al Hasan,KAD Hurdle,0,0,null,0,0,null,null
+47,6.2,Shahriar Nafees,Shakib Al Hasan,KAD Hurdle,0,0,null,0,0,null,null
+48,6.3,Shahriar Nafees,Shakib Al Hasan,KAD Hurdle,1,0,null,1,0,null,null
+49,6.4,Shakib Al Hasan,Shahriar Nafees,KAD Hurdle,0,1,wides ,1,0,null,null
+50,6.5,Shakib Al Hasan,Shahriar Nafees,KAD Hurdle,0,1,wides ,1,0,null,null
+51,6.6,Shakib Al Hasan,Shahriar Nafees,KAD Hurdle,0,0,null,0,0,null,null
+52,6.7,Shakib Al Hasan,Shahriar Nafees,KAD Hurdle,1,0,null,1,0,null,null
+53,6.8,Shahriar Nafees,Shakib Al Hasan,KAD Hurdle,3,0,null,3,0,null,null
+54,7.1,Shahriar Nafees,Shakib Al Hasan,S Mukuddem,0,0,null,0,1,Shahriar Nafees,caught
+55,7.2,Mohammad Ashraful,Shakib Al Hasan,S Mukuddem,1,0,null,1,0,null,null
+56,7.3,Shakib Al Hasan,Mohammad Ashraful,S Mukuddem,1,0,null,1,0,null,null
+57,7.4,Mohammad Ashraful,Shakib Al Hasan,S Mukuddem,0,1,wides ,1,0,null,null
+58,7.5,Mohammad Ashraful,Shakib Al Hasan,S Mukuddem,0,1,wides ,1,0,null,null
+59,7.6,Mohammad Ashraful,Shakib Al Hasan,S Mukuddem,1,0,null,1,0,null,null
+60,7.7,Shakib Al Hasan,Mohammad Ashraful,S Mukuddem,0,0,null,0,0,null,null
+61,7.8,Shakib Al Hasan,Mohammad Ashraful,S Mukuddem,0,0,null,0,0,null,null
+62,8.1,Mohammad Ashraful,Shakib Al Hasan,JJ Tucker,1,0,null,1,0,null,null
+63,8.2,Shakib Al Hasan,Mohammad Ashraful,JJ Tucker,0,0,null,0,0,null,null
+64,8.3,Shakib Al Hasan,Mohammad Ashraful,JJ Tucker,0,0,null,0,0,null,null
+65,8.4,Shakib Al Hasan,Mohammad Ashraful,JJ Tucker,1,0,null,1,0,null,null
+66,8.5,Mohammad Ashraful,Shakib Al Hasan,JJ Tucker,1,0,null,1,0,null,null
+67,8.6,Shakib Al Hasan,Mohammad Ashraful,JJ Tucker,0,0,null,0,0,null,null
+68,9.1,Mohammad Ashraful,Shakib Al Hasan,S Mukuddem,0,0,null,0,0,null,null
+69,9.2,Mohammad Ashraful,Shakib Al Hasan,S Mukuddem,1,0,null,1,0,null,null
+70,9.3,Shakib Al Hasan,Mohammad Ashraful,S Mukuddem,3,0,null,3,0,null,null
+71,9.4,Mohammad Ashraful,Shakib Al Hasan,S Mukuddem,1,0,null,1,0,null,null
+72,9.5,Shakib Al Hasan,Mohammad Ashraful,S Mukuddem,1,0,null,1,0,null,null
+73,9.6,Mohammad Ashraful,Shakib Al Hasan,S Mukuddem,0,0,null,0,0,null,null
+74,10.1,Shakib Al Hasan,Mohammad Ashraful,JJ Tucker,1,0,null,1,0,null,null
+75,10.2,Mohammad Ashraful,Shakib Al Hasan,JJ Tucker,0,0,null,0,0,null,null
+76,10.3,Mohammad Ashraful,Shakib Al Hasan,JJ Tucker,0,0,null,0,0,null,null
+77,10.4,Mohammad Ashraful,Shakib Al Hasan,JJ Tucker,2,0,null,2,0,null,null
+78,10.5,Mohammad Ashraful,Shakib Al Hasan,JJ Tucker,0,0,null,0,0,null,null
+79,10.6,Mohammad Ashraful,Shakib Al Hasan,JJ Tucker,1,0,null,1,0,null,null
+80,11.1,Mohammad Ashraful,Shakib Al Hasan,RDM Leverock,0,0,null,0,0,null,null
+81,11.2,Mohammad Ashraful,Shakib Al Hasan,RDM Leverock,1,0,null,1,0,null,null
+82,11.3,Shakib Al Hasan,Mohammad Ashraful,RDM Leverock,0,0,null,0,0,null,null
+83,11.4,Shakib Al Hasan,Mohammad Ashraful,RDM Leverock,2,0,null,2,0,null,null
+84,11.5,Shakib Al Hasan,Mohammad Ashraful,RDM Leverock,0,0,null,0,0,null,null
+85,11.6,Shakib Al Hasan,Mohammad Ashraful,RDM Leverock,1,0,null,1,0,null,null
+86,12.1,Shakib Al Hasan,Mohammad Ashraful,JJ Tucker,0,0,null,0,0,null,null
+87,12.2,Shakib Al Hasan,Mohammad Ashraful,JJ Tucker,1,0,null,1,0,null,null
+88,12.3,Mohammad Ashraful,Shakib Al Hasan,JJ Tucker,2,0,null,2,0,null,null
+89,12.4,Mohammad Ashraful,Shakib Al Hasan,JJ Tucker,0,0,null,0,0,null,null
+90,12.5,Mohammad Ashraful,Shakib Al Hasan,JJ Tucker,4,0,null,4,0,null,null
+91,12.6,Mohammad Ashraful,Shakib Al Hasan,JJ Tucker,0,0,null,0,0,null,null
+92,13.1,Shakib Al Hasan,Mohammad Ashraful,RDM Leverock,0,0,null,0,0,null,null
+93,13.2,Shakib Al Hasan,Mohammad Ashraful,RDM Leverock,0,0,null,0,0,null,null
+94,13.3,Shakib Al Hasan,Mohammad Ashraful,RDM Leverock,1,0,null,1,0,null,null
+95,13.4,Mohammad Ashraful,Shakib Al Hasan,RDM Leverock,0,0,null,0,0,null,null
+96,13.5,Mohammad Ashraful,Shakib Al Hasan,RDM Leverock,4,0,null,4,0,null,null
+97,13.6,Mohammad Ashraful,Shakib Al Hasan,RDM Leverock,2,0,null,2,0,null,null
+98,14.1,Shakib Al Hasan,Mohammad Ashraful,DCC Borden,0,0,null,0,0,null,null
+99,14.2,Shakib Al Hasan,Mohammad Ashraful,DCC Borden,4,0,null,4,0,null,null
+100,14.3,Shakib Al Hasan,Mohammad Ashraful,DCC Borden,0,0,null,0,0,null,null
+101,14.4,Shakib Al Hasan,Mohammad Ashraful,DCC Borden,1,0,null,1,0,null,null
+102,14.5,Mohammad Ashraful,Shakib Al Hasan,DCC Borden,0,2,wides ,2,0,null,null
+103,14.6,Shakib Al Hasan,Mohammad Ashraful,DCC Borden,1,0,null,1,0,null,null
+104,14.7,Mohammad Ashraful,Shakib Al Hasan,DCC Borden,1,0,null,1,0,null,null
+105,15.1,Mohammad Ashraful,Shakib Al Hasan,RDM Leverock,0,0,null,0,0,null,null
+106,15.2,Mohammad Ashraful,Shakib Al Hasan,RDM Leverock,1,0,null,1,0,null,null
+107,15.3,Shakib Al Hasan,Mohammad Ashraful,RDM Leverock,0,0,null,0,0,null,null
+108,15.4,Shakib Al Hasan,Mohammad Ashraful,RDM Leverock,1,0,null,1,0,null,null
+109,15.5,Mohammad Ashraful,Shakib Al Hasan,RDM Leverock,0,0,null,0,0,null,null
+110,15.6,Mohammad Ashraful,Shakib Al Hasan,RDM Leverock,1,0,null,1,0,null,null
+111,16.1,Mohammad Ashraful,Shakib Al Hasan,DCC Borden,1,0,null,1,0,null,null
+112,16.2,Shakib Al Hasan,Mohammad Ashraful,DCC Borden,1,0,null,1,0,null,null
+113,16.3,Mohammad Ashraful,Shakib Al Hasan,DCC Borden,1,0,null,1,0,null,null
+114,16.4,Shakib Al Hasan,Mohammad Ashraful,DCC Borden,0,0,null,0,0,null,null
+115,16.5,Shakib Al Hasan,Mohammad Ashraful,DCC Borden,1,0,null,1,0,null,null
+116,16.6,Mohammad Ashraful,Shakib Al Hasan,DCC Borden,0,1,wides ,1,0,null,null
+117,16.7,Mohammad Ashraful,Shakib Al Hasan,DCC Borden,1,0,null,1,0,null,null
+118,17.1,Mohammad Ashraful,Shakib Al Hasan,RDM Leverock,0,0,null,0,0,null,null
+119,17.2,Mohammad Ashraful,Shakib Al Hasan,RDM Leverock,1,0,null,1,0,null,null
+120,17.3,Shakib Al Hasan,Mohammad Ashraful,RDM Leverock,4,0,null,4,0,null,null

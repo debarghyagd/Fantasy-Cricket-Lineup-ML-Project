@@ -1,0 +1,24 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1281444,"VRA Ground, Amstelveen",Netherlands,LV van Beek,Right-arm fast-medium,"[0, 1, 1]",0,17,15,2,0
+1,1239538,"Lord's, London",Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",1,0,7,0,0
+2,1243394,Maharashtra Cricket Association Stadium,India,KH Pandya,Left-arm orthodox,"[1, 0, 1]",0,2,2,0,0
+3,1243394,Maharashtra Cricket Association Stadium,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,1,1,0,0
+4,1243394,Maharashtra Cricket Association Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,9,9,1,0
+5,1243394,Maharashtra Cricket Association Stadium,India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+6,1243395,Maharashtra Cricket Association Stadium,India,T Natarajan,Left-arm fast-medium,"[0, 0, 1]",0,3,4,0,0
+7,1243395,Maharashtra Cricket Association Stadium,India,KH Pandya,Left-arm orthodox,"[1, 0, 1]",0,7,10,0,0
+8,1243395,Maharashtra Cricket Association Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,2,7,0,0
+9,1243395,Maharashtra Cricket Association Stadium,India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",0,4,4,0,0
+10,1243395,Maharashtra Cricket Association Stadium,India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",1,17,17,2,0
+11,1161014,"The Village, Malahide",Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",0,8,5,1,0
+12,1161014,"The Village, Malahide",Ireland,MR Adair,Right-arm fast,"[0, 1, 0]",0,7,5,1,0
+13,1161014,"The Village, Malahide",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,8,14,1,0
+14,1161014,"The Village, Malahide",Ireland,J Little,Left-arm fast,"[0, 0, 0]",1,1,6,0,0
+15,1281445,"VRA Ground, Amstelveen",Netherlands,LV van Beek,Right-arm fast-medium,"[0, 1, 1]",0,2,11,0,0
+16,1281445,"VRA Ground, Amstelveen",Netherlands,AT Nidamanuru,Right-arm offbreak,"[1, 1, 0]",0,7,4,0,1
+17,1281446,"VRA Ground, Amstelveen",Netherlands,PA van Meekeren,Right-arm fast,"[0, 1, 0]",1,0,2,0,0
+18,1239537,"Sophia Gardens, Cardiff",Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,12,14,2,0
+19,1239537,"Sophia Gardens, Cardiff",Pakistan,Saud Shakeel,Left-arm orthodox,"[1, 0, 1]",0,1,3,0,0
+20,1239537,"Sophia Gardens, Cardiff",Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,17,15,3,0
+21,1239537,"Sophia Gardens, Cardiff",Pakistan,Haris Rauf,Right-arm fast,"[0, 1, 0]",0,9,14,0,0
+22,1239539,"Edgbaston, Birmingham",Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",1,0,5,0,0

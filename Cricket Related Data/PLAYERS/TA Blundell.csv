@@ -1,0 +1,6 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1187682,Seddon Park,India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+1,1187682,Seddon Park,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",1,5,4,1,0
+2,1187683,Eden Park,India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",1,5,4,1,0
+3,1187683,Eden Park,India,Navdeep Saini,Right-arm fast,"[0, 1, 0]",0,9,9,2,0
+4,1187683,Eden Park,India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,3,4,0,0

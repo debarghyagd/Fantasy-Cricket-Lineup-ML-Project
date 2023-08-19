@@ -1,0 +1,257 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,L Siaka,G Toka,Bilal Khan,0,0,null,0,0,null,null
+1,0.2,L Siaka,G Toka,Bilal Khan,0,0,null,0,0,null,null
+2,0.3,L Siaka,G Toka,Bilal Khan,0,0,null,0,0,null,null
+3,0.4,L Siaka,G Toka,Bilal Khan,0,1,legbyes ,1,0,null,null
+4,0.5,G Toka,L Siaka,Bilal Khan,0,0,null,0,0,null,null
+5,0.6,G Toka,L Siaka,Bilal Khan,0,0,null,0,0,null,null
+6,1.1,L Siaka,G Toka,Kaleemullah,0,0,null,0,0,null,null
+7,1.2,L Siaka,G Toka,Kaleemullah,4,0,null,4,0,null,null
+8,1.3,L Siaka,G Toka,Kaleemullah,0,0,null,0,0,null,null
+9,1.4,L Siaka,G Toka,Kaleemullah,4,0,null,4,0,null,null
+10,1.5,L Siaka,G Toka,Kaleemullah,0,0,null,0,0,null,null
+11,1.6,L Siaka,G Toka,Kaleemullah,0,4,legbyes ,4,0,null,null
+12,2.1,G Toka,L Siaka,Bilal Khan,0,0,null,0,0,null,null
+13,2.2,G Toka,L Siaka,Bilal Khan,0,0,null,0,0,null,null
+14,2.3,G Toka,L Siaka,Bilal Khan,0,0,null,0,0,null,null
+15,2.4,G Toka,L Siaka,Bilal Khan,0,0,null,0,1,G Toka,caught
+16,2.5,A Vala,L Siaka,Bilal Khan,0,0,null,0,0,null,null
+17,2.6,A Vala,L Siaka,Bilal Khan,0,0,null,0,0,null,null
+18,3.1,L Siaka,A Vala,Kaleemullah,0,0,null,0,0,null,null
+19,3.2,L Siaka,A Vala,Kaleemullah,0,0,null,0,0,null,null
+20,3.3,L Siaka,A Vala,Kaleemullah,0,0,null,0,0,null,null
+21,3.4,L Siaka,A Vala,Kaleemullah,2,0,null,2,0,null,null
+22,3.5,L Siaka,A Vala,Kaleemullah,0,0,null,0,0,null,null
+23,3.6,L Siaka,A Vala,Kaleemullah,4,0,null,4,0,null,null
+24,4.1,A Vala,L Siaka,Bilal Khan,1,0,null,1,0,null,null
+25,4.2,L Siaka,A Vala,Bilal Khan,0,0,null,0,0,null,null
+26,4.3,L Siaka,A Vala,Bilal Khan,1,0,null,1,0,null,null
+27,4.4,A Vala,L Siaka,Bilal Khan,0,0,null,0,0,null,null
+28,4.5,A Vala,L Siaka,Bilal Khan,1,0,null,1,0,null,null
+29,4.6,L Siaka,A Vala,Bilal Khan,0,0,null,0,0,null,null
+30,5.1,A Vala,L Siaka,Kaleemullah,0,0,null,0,0,null,null
+31,5.2,A Vala,L Siaka,Kaleemullah,0,0,null,0,0,null,null
+32,5.3,A Vala,L Siaka,Kaleemullah,0,0,null,0,0,null,null
+33,5.4,A Vala,L Siaka,Kaleemullah,0,0,null,0,0,null,null
+34,5.5,A Vala,L Siaka,Kaleemullah,1,0,null,1,0,null,null
+35,5.6,L Siaka,A Vala,Kaleemullah,1,0,null,1,0,null,null
+36,6.1,L Siaka,A Vala,Bilal Khan,0,0,null,0,0,null,null
+37,6.2,L Siaka,A Vala,Bilal Khan,2,0,null,2,0,null,null
+38,6.3,L Siaka,A Vala,Bilal Khan,1,0,null,1,0,null,null
+39,6.4,A Vala,L Siaka,Bilal Khan,4,0,null,4,0,null,null
+40,6.5,A Vala,L Siaka,Bilal Khan,1,0,null,1,0,null,null
+41,6.6,L Siaka,A Vala,Bilal Khan,1,0,null,1,0,null,null
+42,7.1,L Siaka,A Vala,Kaleemullah,0,0,null,0,0,null,null
+43,7.2,L Siaka,A Vala,Kaleemullah,0,0,null,0,0,null,null
+44,7.3,L Siaka,A Vala,Kaleemullah,1,0,null,1,0,null,null
+45,7.4,A Vala,L Siaka,Kaleemullah,0,0,null,0,0,null,null
+46,7.5,A Vala,L Siaka,Kaleemullah,0,0,null,0,0,null,null
+47,7.6,A Vala,L Siaka,Kaleemullah,0,0,null,0,0,null,null
+48,8.1,L Siaka,A Vala,Zeeshan Maqsood,1,0,null,1,0,null,null
+49,8.2,A Vala,L Siaka,Zeeshan Maqsood,1,0,null,1,0,null,null
+50,8.3,L Siaka,A Vala,Zeeshan Maqsood,0,0,null,0,1,L Siaka,bowled
+51,8.4,CJA Amini,A Vala,Zeeshan Maqsood,0,0,null,0,0,null,null
+52,8.5,CJA Amini,A Vala,Zeeshan Maqsood,0,0,null,0,0,null,null
+53,8.6,CJA Amini,A Vala,Zeeshan Maqsood,1,0,null,1,0,null,null
+54,9.1,CJA Amini,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+55,9.2,CJA Amini,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+56,9.3,CJA Amini,A Vala,Aqib Ilyas,1,0,null,1,0,null,null
+57,9.4,A Vala,CJA Amini,Aqib Ilyas,0,0,null,0,0,null,null
+58,9.5,A Vala,CJA Amini,Aqib Ilyas,1,0,null,1,0,null,null
+59,9.6,CJA Amini,A Vala,Aqib Ilyas,1,0,null,1,0,null,null
+60,10.1,CJA Amini,A Vala,Zeeshan Maqsood,2,0,null,2,0,null,null
+61,10.2,CJA Amini,A Vala,Zeeshan Maqsood,0,0,null,0,0,null,null
+62,10.3,CJA Amini,A Vala,Zeeshan Maqsood,1,0,null,1,0,null,null
+63,10.4,A Vala,CJA Amini,Zeeshan Maqsood,1,0,null,1,0,null,null
+64,10.5,CJA Amini,A Vala,Zeeshan Maqsood,0,0,null,0,0,null,null
+65,10.6,CJA Amini,A Vala,Zeeshan Maqsood,1,0,null,1,0,null,null
+66,11.1,CJA Amini,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+67,11.2,CJA Amini,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+68,11.3,CJA Amini,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+69,11.4,CJA Amini,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+70,11.5,CJA Amini,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+71,11.6,CJA Amini,A Vala,Aqib Ilyas,2,0,null,2,0,null,null
+72,12.1,A Vala,CJA Amini,Zeeshan Maqsood,0,0,null,0,0,null,null
+73,12.2,A Vala,CJA Amini,Zeeshan Maqsood,1,0,null,1,0,null,null
+74,12.3,CJA Amini,A Vala,Zeeshan Maqsood,0,0,null,0,1,CJA Amini,caught
+75,12.4,TP Ura,A Vala,Zeeshan Maqsood,0,0,null,0,0,null,null
+76,12.5,TP Ura,A Vala,Zeeshan Maqsood,3,0,null,3,0,null,null
+77,12.6,A Vala,TP Ura,Zeeshan Maqsood,0,0,null,0,0,null,null
+78,13.1,TP Ura,A Vala,Aqib Ilyas,3,0,null,3,0,null,null
+79,13.2,A Vala,TP Ura,Aqib Ilyas,1,0,null,1,0,null,null
+80,13.3,TP Ura,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+81,13.4,TP Ura,A Vala,Aqib Ilyas,0,0,null,0,1,TP Ura,caught
+82,13.5,K Doriga,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+83,13.6,K Doriga,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+84,14.1,A Vala,K Doriga,Zeeshan Maqsood,0,0,null,0,0,null,null
+85,14.2,A Vala,K Doriga,Zeeshan Maqsood,0,0,null,0,0,null,null
+86,14.3,A Vala,K Doriga,Zeeshan Maqsood,0,0,null,0,0,null,null
+87,14.4,A Vala,K Doriga,Zeeshan Maqsood,0,0,null,0,0,null,null
+88,14.5,A Vala,K Doriga,Zeeshan Maqsood,1,0,null,1,0,null,null
+89,14.6,K Doriga,A Vala,Zeeshan Maqsood,0,0,null,0,0,null,null
+90,15.1,A Vala,K Doriga,Aqib Ilyas,2,0,null,2,0,null,null
+91,15.2,A Vala,K Doriga,Aqib Ilyas,0,0,null,0,0,null,null
+92,15.3,A Vala,K Doriga,Aqib Ilyas,0,0,null,0,0,null,null
+93,15.4,A Vala,K Doriga,Aqib Ilyas,2,0,null,2,0,null,null
+94,15.5,A Vala,K Doriga,Aqib Ilyas,0,0,null,0,0,null,null
+95,15.6,A Vala,K Doriga,Aqib Ilyas,0,0,null,0,0,null,null
+96,16.1,K Doriga,A Vala,Zeeshan Maqsood,0,0,null,0,0,null,null
+97,16.2,K Doriga,A Vala,Zeeshan Maqsood,0,0,null,0,0,null,null
+98,16.3,K Doriga,A Vala,Zeeshan Maqsood,0,0,null,0,0,null,null
+99,16.4,K Doriga,A Vala,Zeeshan Maqsood,0,0,null,0,1,K Doriga,caught
+100,16.5,A Vala,J Kila,Zeeshan Maqsood,1,0,null,1,0,null,null
+101,16.6,J Kila,A Vala,Zeeshan Maqsood,0,0,null,0,0,null,null
+102,17.1,A Vala,J Kila,Aqib Ilyas,0,0,null,0,0,null,null
+103,17.2,A Vala,J Kila,Aqib Ilyas,3,0,null,3,0,null,null
+104,17.3,J Kila,A Vala,Aqib Ilyas,1,0,null,1,0,null,null
+105,17.4,A Vala,J Kila,Aqib Ilyas,1,0,null,1,0,null,null
+106,17.5,J Kila,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+107,17.6,J Kila,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+108,18.1,A Vala,J Kila,Zeeshan Maqsood,1,0,null,1,0,null,null
+109,18.2,J Kila,A Vala,Zeeshan Maqsood,1,0,null,1,0,null,null
+110,18.3,A Vala,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+111,18.4,A Vala,J Kila,Zeeshan Maqsood,1,0,null,1,0,null,null
+112,18.5,J Kila,A Vala,Zeeshan Maqsood,2,0,null,2,0,null,null
+113,18.6,J Kila,A Vala,Zeeshan Maqsood,0,0,null,0,0,null,null
+114,19.1,A Vala,J Kila,Aqib Ilyas,0,0,null,0,0,null,null
+115,19.2,A Vala,J Kila,Aqib Ilyas,0,0,null,0,0,null,null
+116,19.3,A Vala,J Kila,Aqib Ilyas,1,0,null,1,0,null,null
+117,19.4,J Kila,A Vala,Aqib Ilyas,1,0,null,1,0,null,null
+118,19.5,A Vala,J Kila,Aqib Ilyas,1,0,null,1,0,null,null
+119,19.6,J Kila,A Vala,Aqib Ilyas,0,0,null,0,0,null,null
+120,20.1,A Vala,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+121,20.2,A Vala,J Kila,Zeeshan Maqsood,0,1,wides ,1,0,null,null
+122,20.3,A Vala,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+123,20.4,A Vala,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+124,20.5,A Vala,J Kila,Zeeshan Maqsood,0,0,null,0,1,A Vala,lbw
+125,20.6,N Vanua,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+126,20.7,N Vanua,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+127,21.1,J Kila,N Vanua,Aqib Ilyas,1,0,null,1,0,null,null
+128,21.2,N Vanua,J Kila,Aqib Ilyas,2,0,null,2,0,null,null
+129,21.3,N Vanua,J Kila,Aqib Ilyas,0,0,null,0,0,null,null
+130,21.4,N Vanua,J Kila,Aqib Ilyas,0,0,null,0,0,null,null
+131,21.5,N Vanua,J Kila,Aqib Ilyas,0,0,null,0,0,null,null
+132,21.6,N Vanua,J Kila,Aqib Ilyas,0,0,null,0,0,null,null
+133,22.1,J Kila,N Vanua,Zeeshan Maqsood,0,0,null,0,0,null,null
+134,22.2,J Kila,N Vanua,Zeeshan Maqsood,0,0,null,0,0,null,null
+135,22.3,J Kila,N Vanua,Zeeshan Maqsood,1,0,null,1,0,null,null
+136,22.4,N Vanua,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+137,22.5,N Vanua,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+138,22.6,N Vanua,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+139,23.1,J Kila,N Vanua,Khawar Ali,2,0,null,2,0,null,null
+140,23.2,J Kila,N Vanua,Khawar Ali,1,0,null,1,0,null,null
+141,23.3,N Vanua,J Kila,Khawar Ali,1,0,null,1,0,null,null
+142,23.4,J Kila,N Vanua,Khawar Ali,0,0,null,0,0,null,null
+143,23.5,J Kila,N Vanua,Khawar Ali,0,0,null,0,0,null,null
+144,23.6,J Kila,N Vanua,Khawar Ali,0,0,null,0,0,null,null
+145,24.1,N Vanua,J Kila,Zeeshan Maqsood,1,0,null,1,0,null,null
+146,24.2,J Kila,N Vanua,Zeeshan Maqsood,0,0,null,0,0,null,null
+147,24.3,J Kila,N Vanua,Zeeshan Maqsood,0,0,null,0,0,null,null
+148,24.4,J Kila,N Vanua,Zeeshan Maqsood,6,0,null,6,0,null,null
+149,24.5,J Kila,N Vanua,Zeeshan Maqsood,0,0,null,0,0,null,null
+150,24.6,J Kila,N Vanua,Zeeshan Maqsood,0,0,null,0,0,null,null
+151,25.1,N Vanua,J Kila,Khawar Ali,0,0,null,0,0,null,null
+152,25.2,N Vanua,J Kila,Khawar Ali,2,0,null,2,0,null,null
+153,25.3,N Vanua,J Kila,Khawar Ali,0,0,null,0,0,null,null
+154,25.4,N Vanua,J Kila,Khawar Ali,1,0,null,1,0,null,null
+155,25.5,J Kila,N Vanua,Khawar Ali,0,0,null,0,0,null,null
+156,25.6,J Kila,N Vanua,Khawar Ali,4,0,null,4,0,null,null
+157,26.1,N Vanua,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+158,26.2,N Vanua,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+159,26.3,N Vanua,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+160,26.4,N Vanua,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+161,26.5,N Vanua,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+162,26.6,N Vanua,J Kila,Zeeshan Maqsood,0,0,null,0,0,null,null
+163,27.1,J Kila,N Vanua,Khawar Ali,0,0,null,0,0,null,null
+164,27.2,J Kila,N Vanua,Khawar Ali,1,0,null,1,0,null,null
+165,27.3,N Vanua,J Kila,Khawar Ali,0,0,null,0,0,null,null
+166,27.4,N Vanua,J Kila,Khawar Ali,0,0,null,0,0,null,null
+167,27.5,N Vanua,J Kila,Khawar Ali,1,0,null,1,0,null,null
+168,27.6,J Kila,N Vanua,Khawar Ali,1,0,null,1,0,null,null
+169,28.1,J Kila,N Vanua,Ayan Khan,0,0,null,0,0,null,null
+170,28.2,J Kila,N Vanua,Ayan Khan,0,0,null,0,0,null,null
+171,28.3,J Kila,N Vanua,Ayan Khan,0,0,null,0,0,null,null
+172,28.4,J Kila,N Vanua,Ayan Khan,0,0,null,0,0,null,null
+173,28.5,J Kila,N Vanua,Ayan Khan,1,0,null,1,0,null,null
+174,28.6,N Vanua,J Kila,Ayan Khan,0,0,null,0,0,null,null
+175,29.1,J Kila,N Vanua,Khawar Ali,0,0,null,0,0,null,null
+176,29.2,J Kila,N Vanua,Khawar Ali,2,0,null,2,0,null,null
+177,29.3,J Kila,N Vanua,Khawar Ali,4,0,null,4,0,null,null
+178,29.4,J Kila,N Vanua,Khawar Ali,0,0,null,0,0,null,null
+179,29.5,J Kila,N Vanua,Khawar Ali,0,0,null,0,0,null,null
+180,29.6,J Kila,N Vanua,Khawar Ali,1,0,null,1,0,null,null
+181,30.1,J Kila,N Vanua,Ayan Khan,1,0,null,1,0,null,null
+182,30.2,N Vanua,J Kila,Ayan Khan,0,0,null,0,0,null,null
+183,30.3,N Vanua,J Kila,Ayan Khan,0,0,null,0,0,null,null
+184,30.4,N Vanua,J Kila,Ayan Khan,0,0,null,0,0,null,null
+185,30.5,N Vanua,J Kila,Ayan Khan,0,0,null,0,0,null,null
+186,30.6,N Vanua,J Kila,Ayan Khan,0,0,null,0,0,null,null
+187,31.1,J Kila,N Vanua,Kaleemullah,0,0,null,0,0,null,null
+188,31.2,J Kila,N Vanua,Kaleemullah,0,0,null,0,0,null,null
+189,31.3,J Kila,N Vanua,Kaleemullah,0,0,null,0,0,null,null
+190,31.4,J Kila,N Vanua,Kaleemullah,0,1,legbyes ,1,0,null,null
+191,31.5,N Vanua,J Kila,Kaleemullah,0,0,null,0,0,null,null
+192,31.6,N Vanua,J Kila,Kaleemullah,1,0,null,1,0,null,null
+193,32.1,N Vanua,J Kila,Ayan Khan,0,0,null,0,0,null,null
+194,32.2,N Vanua,J Kila,Ayan Khan,0,0,null,0,0,null,null
+195,32.3,N Vanua,J Kila,Ayan Khan,1,0,null,1,0,null,null
+196,32.4,J Kila,N Vanua,Ayan Khan,2,0,null,2,0,null,null
+197,32.5,J Kila,N Vanua,Ayan Khan,0,0,null,0,0,null,null
+198,32.6,J Kila,N Vanua,Ayan Khan,2,0,null,2,0,null,null
+199,33.1,N Vanua,J Kila,Kaleemullah,0,0,null,0,0,null,null
+200,33.2,N Vanua,J Kila,Kaleemullah,0,0,null,0,0,null,null
+201,33.3,N Vanua,J Kila,Kaleemullah,0,0,null,0,0,null,null
+202,33.4,N Vanua,J Kila,Kaleemullah,0,0,null,0,0,null,null
+203,33.5,N Vanua,J Kila,Kaleemullah,1,0,null,1,0,null,null
+204,33.6,J Kila,N Vanua,Kaleemullah,1,0,null,1,0,null,null
+205,34.1,J Kila,N Vanua,Ayan Khan,0,0,null,0,0,null,null
+206,34.2,J Kila,N Vanua,Ayan Khan,0,0,null,0,1,J Kila,caught
+207,34.3,N Vanua,CA Soper,Ayan Khan,0,0,null,0,0,null,null
+208,34.4,N Vanua,CA Soper,Ayan Khan,0,0,null,0,0,null,null
+209,34.5,N Vanua,CA Soper,Ayan Khan,0,0,null,0,1,N Vanua,bowled
+210,34.6,KV Morea,CA Soper,Ayan Khan,0,0,null,0,0,null,null
+211,35.1,CA Soper,KV Morea,Khawar Ali,0,0,null,0,0,null,null
+212,35.2,CA Soper,KV Morea,Khawar Ali,1,0,null,1,0,null,null
+213,35.3,KV Morea,CA Soper,Khawar Ali,0,0,null,0,0,null,null
+214,35.4,KV Morea,CA Soper,Khawar Ali,0,0,null,0,0,null,null
+215,35.5,KV Morea,CA Soper,Khawar Ali,0,1,wides ,1,0,null,null
+216,35.6,KV Morea,CA Soper,Khawar Ali,0,0,null,0,0,null,null
+217,35.7,KV Morea,CA Soper,Khawar Ali,0,0,null,0,0,null,null
+218,36.1,CA Soper,KV Morea,Ayan Khan,2,0,null,2,0,null,null
+219,36.2,CA Soper,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+220,36.3,CA Soper,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+221,36.4,CA Soper,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+222,36.5,CA Soper,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+223,36.6,CA Soper,KV Morea,Ayan Khan,1,0,null,1,0,null,null
+224,37.1,CA Soper,KV Morea,Khawar Ali,0,0,null,0,0,null,null
+225,37.2,CA Soper,KV Morea,Khawar Ali,0,0,null,0,0,null,null
+226,37.3,CA Soper,KV Morea,Khawar Ali,3,0,null,3,0,null,null
+227,37.4,KV Morea,CA Soper,Khawar Ali,1,0,null,1,0,null,null
+228,37.5,CA Soper,KV Morea,Khawar Ali,1,0,null,1,0,null,null
+229,37.6,KV Morea,CA Soper,Khawar Ali,0,0,null,0,0,null,null
+230,38.1,CA Soper,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+231,38.2,CA Soper,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+232,38.3,CA Soper,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+233,38.4,CA Soper,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+234,38.5,CA Soper,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+235,38.6,CA Soper,KV Morea,Ayan Khan,1,0,null,1,0,null,null
+236,39.1,CA Soper,KV Morea,Aqib Ilyas,2,0,null,2,0,null,null
+237,39.2,CA Soper,KV Morea,Aqib Ilyas,0,0,null,0,1,CA Soper,bowled
+238,39.3,N Pokana,KV Morea,Aqib Ilyas,0,0,null,0,0,null,null
+239,39.4,N Pokana,KV Morea,Aqib Ilyas,0,0,null,0,0,null,null
+240,39.5,N Pokana,KV Morea,Aqib Ilyas,1,0,null,1,0,null,null
+241,39.6,KV Morea,N Pokana,Aqib Ilyas,3,0,null,3,0,null,null
+242,40.1,KV Morea,N Pokana,Ayan Khan,1,0,null,1,0,null,null
+243,40.2,N Pokana,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+244,40.3,N Pokana,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+245,40.4,N Pokana,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+246,40.5,N Pokana,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+247,40.6,N Pokana,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+248,41.1,KV Morea,N Pokana,Aqib Ilyas,4,0,null,4,0,null,null
+249,41.2,KV Morea,N Pokana,Aqib Ilyas,0,0,null,0,0,null,null
+250,41.3,KV Morea,N Pokana,Aqib Ilyas,0,0,null,0,0,null,null
+251,41.4,KV Morea,N Pokana,Aqib Ilyas,0,0,null,0,0,null,null
+252,41.5,KV Morea,N Pokana,Aqib Ilyas,0,0,null,0,0,null,null
+253,41.6,KV Morea,N Pokana,Aqib Ilyas,0,0,null,0,0,null,null
+254,42.1,N Pokana,KV Morea,Ayan Khan,0,0,null,0,0,null,null
+255,42.2,N Pokana,KV Morea,Ayan Khan,0,0,null,0,1,N Pokana,caught

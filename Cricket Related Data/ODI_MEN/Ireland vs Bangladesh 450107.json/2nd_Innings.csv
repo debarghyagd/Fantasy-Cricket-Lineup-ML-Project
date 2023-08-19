@@ -1,0 +1,235 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tamim Iqbal,Imrul Kayes,WB Rankin,0,0,null,0,0,null,null
+1,0.2,Tamim Iqbal,Imrul Kayes,WB Rankin,0,0,null,0,0,null,null
+2,0.3,Tamim Iqbal,Imrul Kayes,WB Rankin,1,0,null,1,0,null,null
+3,0.4,Imrul Kayes,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+4,0.5,Imrul Kayes,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+5,0.6,Imrul Kayes,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+6,1.1,Tamim Iqbal,Imrul Kayes,DT Johnston,0,0,null,0,0,null,null
+7,1.2,Tamim Iqbal,Imrul Kayes,DT Johnston,0,0,null,0,0,null,null
+8,1.3,Tamim Iqbal,Imrul Kayes,DT Johnston,1,0,null,1,0,null,null
+9,1.4,Imrul Kayes,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+10,1.5,Imrul Kayes,Tamim Iqbal,DT Johnston,1,0,null,1,0,null,null
+11,1.6,Tamim Iqbal,Imrul Kayes,DT Johnston,1,0,null,1,0,null,null
+12,2.1,Tamim Iqbal,Imrul Kayes,WB Rankin,0,0,null,0,0,null,null
+13,2.2,Tamim Iqbal,Imrul Kayes,WB Rankin,0,0,null,0,0,null,null
+14,2.3,Tamim Iqbal,Imrul Kayes,WB Rankin,0,0,null,0,0,null,null
+15,2.4,Tamim Iqbal,Imrul Kayes,WB Rankin,1,0,null,1,0,null,null
+16,2.5,Imrul Kayes,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+17,2.6,Imrul Kayes,Tamim Iqbal,WB Rankin,4,0,null,4,0,null,null
+18,3.1,Tamim Iqbal,Imrul Kayes,DT Johnston,0,0,null,0,0,null,null
+19,3.2,Tamim Iqbal,Imrul Kayes,DT Johnston,1,0,null,1,0,null,null
+20,3.3,Imrul Kayes,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+21,3.4,Imrul Kayes,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+22,3.5,Imrul Kayes,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+23,3.6,Imrul Kayes,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+24,4.1,Tamim Iqbal,Imrul Kayes,WB Rankin,0,0,null,0,0,null,null
+25,4.2,Tamim Iqbal,Imrul Kayes,WB Rankin,0,0,null,0,0,null,null
+26,4.3,Tamim Iqbal,Imrul Kayes,WB Rankin,0,0,null,0,0,null,null
+27,4.4,Tamim Iqbal,Imrul Kayes,WB Rankin,0,0,null,0,0,null,null
+28,4.5,Tamim Iqbal,Imrul Kayes,WB Rankin,0,0,null,0,0,null,null
+29,4.6,Tamim Iqbal,Imrul Kayes,WB Rankin,0,0,null,0,0,null,null
+30,5.1,Imrul Kayes,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+31,5.2,Imrul Kayes,Tamim Iqbal,DT Johnston,0,0,null,0,1,Imrul Kayes,caught
+32,5.3,Junaid Siddique,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+33,5.4,Junaid Siddique,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+34,5.5,Junaid Siddique,Tamim Iqbal,DT Johnston,1,0,null,1,0,null,null
+35,5.6,Tamim Iqbal,Junaid Siddique,DT Johnston,1,0,null,1,0,null,null
+36,6.1,Tamim Iqbal,Junaid Siddique,WB Rankin,0,0,null,0,0,null,null
+37,6.2,Tamim Iqbal,Junaid Siddique,WB Rankin,0,0,null,0,0,null,null
+38,6.3,Tamim Iqbal,Junaid Siddique,WB Rankin,1,0,null,1,0,null,null
+39,6.4,Junaid Siddique,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+40,6.5,Junaid Siddique,Tamim Iqbal,WB Rankin,2,0,null,2,0,null,null
+41,6.6,Junaid Siddique,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+42,7.1,Tamim Iqbal,Junaid Siddique,DT Johnston,4,0,null,4,0,null,null
+43,7.2,Tamim Iqbal,Junaid Siddique,DT Johnston,1,0,null,1,0,null,null
+44,7.3,Junaid Siddique,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+45,7.4,Junaid Siddique,Tamim Iqbal,DT Johnston,2,0,null,2,0,null,null
+46,7.5,Junaid Siddique,Tamim Iqbal,DT Johnston,4,0,null,4,0,null,null
+47,7.6,Junaid Siddique,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+48,8.1,Tamim Iqbal,Junaid Siddique,WB Rankin,1,0,null,1,0,null,null
+49,8.2,Junaid Siddique,Tamim Iqbal,WB Rankin,0,1,wides ,1,0,null,null
+50,8.3,Junaid Siddique,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+51,8.4,Junaid Siddique,Tamim Iqbal,WB Rankin,4,0,null,4,0,null,null
+52,8.5,Junaid Siddique,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+53,8.6,Junaid Siddique,Tamim Iqbal,WB Rankin,0,1,wides ,1,0,null,null
+54,8.7,Junaid Siddique,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+55,8.8,Junaid Siddique,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+56,9.1,Tamim Iqbal,Junaid Siddique,PR Stirling,0,0,null,0,0,null,null
+57,9.2,Tamim Iqbal,Junaid Siddique,PR Stirling,0,0,null,0,0,null,null
+58,9.3,Tamim Iqbal,Junaid Siddique,PR Stirling,6,0,null,6,0,null,null
+59,9.4,Tamim Iqbal,Junaid Siddique,PR Stirling,2,0,null,2,0,null,null
+60,9.5,Tamim Iqbal,Junaid Siddique,PR Stirling,0,0,null,0,0,null,null
+61,9.6,Tamim Iqbal,Junaid Siddique,PR Stirling,0,0,null,0,0,null,null
+62,10.1,Junaid Siddique,Tamim Iqbal,KJ O'Brien,0,0,null,0,1,Junaid Siddique,caught
+63,10.2,Jahurul Islam,Tamim Iqbal,KJ O'Brien,2,0,null,2,0,null,null
+64,10.3,Jahurul Islam,Tamim Iqbal,KJ O'Brien,0,0,null,0,0,null,null
+65,10.4,Jahurul Islam,Tamim Iqbal,KJ O'Brien,1,0,null,1,0,null,null
+66,10.5,Tamim Iqbal,Jahurul Islam,KJ O'Brien,0,0,null,0,0,null,null
+67,10.6,Tamim Iqbal,Jahurul Islam,KJ O'Brien,1,0,null,1,0,null,null
+68,11.1,Tamim Iqbal,Jahurul Islam,AR Cusack,0,1,legbyes ,1,0,null,null
+69,11.2,Jahurul Islam,Tamim Iqbal,AR Cusack,0,0,null,0,0,null,null
+70,11.3,Jahurul Islam,Tamim Iqbal,AR Cusack,0,0,null,0,0,null,null
+71,11.4,Jahurul Islam,Tamim Iqbal,AR Cusack,1,0,null,1,0,null,null
+72,11.5,Tamim Iqbal,Jahurul Islam,AR Cusack,3,0,null,3,0,null,null
+73,11.6,Jahurul Islam,Tamim Iqbal,AR Cusack,0,0,null,0,0,null,null
+74,12.1,Tamim Iqbal,Jahurul Islam,KJ O'Brien,1,0,null,1,0,null,null
+75,12.2,Jahurul Islam,Tamim Iqbal,KJ O'Brien,1,0,null,1,0,null,null
+76,12.3,Tamim Iqbal,Jahurul Islam,KJ O'Brien,0,0,null,0,0,null,null
+77,12.4,Tamim Iqbal,Jahurul Islam,KJ O'Brien,0,0,null,0,0,null,null
+78,12.5,Tamim Iqbal,Jahurul Islam,KJ O'Brien,1,0,null,1,0,null,null
+79,12.6,Jahurul Islam,Tamim Iqbal,KJ O'Brien,0,5,wides ,5,0,null,null
+80,12.7,Jahurul Islam,Tamim Iqbal,KJ O'Brien,0,0,null,0,0,null,null
+81,13.1,Tamim Iqbal,Jahurul Islam,AR Cusack,0,0,null,0,0,null,null
+82,13.2,Tamim Iqbal,Jahurul Islam,AR Cusack,1,0,null,1,0,null,null
+83,13.3,Jahurul Islam,Tamim Iqbal,AR Cusack,0,0,null,0,0,null,null
+84,13.4,Jahurul Islam,Tamim Iqbal,AR Cusack,0,0,null,0,0,null,null
+85,13.5,Jahurul Islam,Tamim Iqbal,AR Cusack,0,0,null,0,0,null,null
+86,13.6,Jahurul Islam,Tamim Iqbal,AR Cusack,2,0,null,2,0,null,null
+87,14.1,Tamim Iqbal,Jahurul Islam,KJ O'Brien,1,0,null,1,0,null,null
+88,14.2,Jahurul Islam,Tamim Iqbal,KJ O'Brien,1,0,null,1,0,null,null
+89,14.3,Tamim Iqbal,Jahurul Islam,KJ O'Brien,0,0,null,0,0,null,null
+90,14.4,Tamim Iqbal,Jahurul Islam,KJ O'Brien,0,0,null,0,0,null,null
+91,14.5,Tamim Iqbal,Jahurul Islam,KJ O'Brien,1,0,null,1,0,null,null
+92,14.6,Jahurul Islam,Tamim Iqbal,KJ O'Brien,0,0,null,0,0,null,null
+93,15.1,Tamim Iqbal,Jahurul Islam,GH Dockrell,4,0,null,4,0,null,null
+94,15.2,Tamim Iqbal,Jahurul Islam,GH Dockrell,0,0,null,0,0,null,null
+95,15.3,Tamim Iqbal,Jahurul Islam,GH Dockrell,4,0,null,4,0,null,null
+96,15.4,Tamim Iqbal,Jahurul Islam,GH Dockrell,0,0,null,0,0,null,null
+97,15.5,Tamim Iqbal,Jahurul Islam,GH Dockrell,0,0,null,0,0,null,null
+98,15.6,Tamim Iqbal,Jahurul Islam,GH Dockrell,1,0,null,1,0,null,null
+99,16.1,Tamim Iqbal,Jahurul Islam,PR Stirling,1,0,null,1,0,null,null
+100,16.2,Jahurul Islam,Tamim Iqbal,PR Stirling,4,0,null,4,0,null,null
+101,16.3,Jahurul Islam,Tamim Iqbal,PR Stirling,0,0,null,0,0,null,null
+102,16.4,Jahurul Islam,Tamim Iqbal,PR Stirling,3,0,null,3,0,null,null
+103,16.5,Tamim Iqbal,Jahurul Islam,PR Stirling,0,0,null,0,0,null,null
+104,16.6,Tamim Iqbal,Jahurul Islam,PR Stirling,0,0,null,0,0,null,null
+105,17.1,Jahurul Islam,Tamim Iqbal,GH Dockrell,0,0,null,0,0,null,null
+106,17.2,Jahurul Islam,Tamim Iqbal,GH Dockrell,0,0,null,0,0,null,null
+107,17.3,Jahurul Islam,Tamim Iqbal,GH Dockrell,3,0,null,3,0,null,null
+108,17.4,Tamim Iqbal,Jahurul Islam,GH Dockrell,0,0,null,0,0,null,null
+109,17.5,Tamim Iqbal,Jahurul Islam,GH Dockrell,1,0,null,1,0,null,null
+110,17.6,Jahurul Islam,Tamim Iqbal,GH Dockrell,1,0,null,1,0,null,null
+111,18.1,Jahurul Islam,Tamim Iqbal,PR Stirling,0,0,null,0,0,null,null
+112,18.2,Jahurul Islam,Tamim Iqbal,PR Stirling,1,0,null,1,0,null,null
+113,18.3,Tamim Iqbal,Jahurul Islam,PR Stirling,4,0,null,4,0,null,null
+114,18.4,Tamim Iqbal,Jahurul Islam,PR Stirling,0,0,null,0,0,null,null
+115,18.5,Tamim Iqbal,Jahurul Islam,PR Stirling,0,0,null,0,0,null,null
+116,18.6,Tamim Iqbal,Jahurul Islam,PR Stirling,1,0,null,1,0,null,null
+117,19.1,Tamim Iqbal,Jahurul Islam,WB Rankin,0,0,null,0,0,null,null
+118,19.2,Tamim Iqbal,Jahurul Islam,WB Rankin,1,0,null,1,0,null,null
+119,19.3,Jahurul Islam,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+120,19.4,Jahurul Islam,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+121,19.5,Jahurul Islam,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+122,19.6,Jahurul Islam,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+123,20.1,Tamim Iqbal,Jahurul Islam,AR Cusack,4,0,null,4,0,null,null
+124,20.2,Tamim Iqbal,Jahurul Islam,AR Cusack,1,0,null,1,0,null,null
+125,20.3,Jahurul Islam,Tamim Iqbal,AR Cusack,0,0,null,0,0,null,null
+126,20.4,Jahurul Islam,Tamim Iqbal,AR Cusack,0,1,legbyes ,1,0,null,null
+127,20.5,Tamim Iqbal,Jahurul Islam,AR Cusack,1,0,null,1,0,null,null
+128,20.6,Jahurul Islam,Tamim Iqbal,AR Cusack,0,0,null,0,0,null,null
+129,21.1,Tamim Iqbal,Jahurul Islam,WB Rankin,0,0,null,0,0,null,null
+130,21.2,Tamim Iqbal,Jahurul Islam,WB Rankin,0,0,null,0,0,null,null
+131,21.3,Tamim Iqbal,Jahurul Islam,WB Rankin,1,0,null,1,0,null,null
+132,21.4,Jahurul Islam,Tamim Iqbal,WB Rankin,0,1,wides ,1,0,null,null
+133,21.5,Jahurul Islam,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+134,21.6,Jahurul Islam,Tamim Iqbal,WB Rankin,0,1,legbyes ,1,0,null,null
+135,21.7,Tamim Iqbal,Jahurul Islam,WB Rankin,1,0,null,1,0,null,null
+136,22.1,Tamim Iqbal,Jahurul Islam,AR Cusack,1,0,null,1,0,null,null
+137,22.2,Jahurul Islam,Tamim Iqbal,AR Cusack,0,0,null,0,0,null,null
+138,22.3,Jahurul Islam,Tamim Iqbal,AR Cusack,1,0,null,1,0,null,null
+139,22.4,Tamim Iqbal,Jahurul Islam,AR Cusack,0,0,null,0,0,null,null
+140,22.5,Tamim Iqbal,Jahurul Islam,AR Cusack,1,0,null,1,0,null,null
+141,22.6,Jahurul Islam,Tamim Iqbal,AR Cusack,0,0,null,0,0,null,null
+142,23.1,Tamim Iqbal,Jahurul Islam,DT Johnston,1,0,null,1,0,null,null
+143,23.2,Jahurul Islam,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+144,23.3,Jahurul Islam,Tamim Iqbal,DT Johnston,2,0,null,2,0,null,null
+145,23.4,Jahurul Islam,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+146,23.5,Jahurul Islam,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+147,23.6,Jahurul Islam,Tamim Iqbal,DT Johnston,4,0,null,4,0,null,null
+148,24.1,Tamim Iqbal,Jahurul Islam,AR White,1,0,null,1,0,null,null
+149,24.2,Jahurul Islam,Tamim Iqbal,AR White,1,0,null,1,0,null,null
+150,24.3,Tamim Iqbal,Jahurul Islam,AR White,1,0,null,1,0,null,null
+151,24.4,Jahurul Islam,Tamim Iqbal,AR White,1,0,null,1,0,null,null
+152,24.5,Tamim Iqbal,Jahurul Islam,AR White,1,0,null,1,0,null,null
+153,24.6,Jahurul Islam,Tamim Iqbal,AR White,1,0,null,1,0,null,null
+154,25.1,Jahurul Islam,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+155,25.2,Jahurul Islam,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+156,25.3,Jahurul Islam,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+157,25.4,Jahurul Islam,Tamim Iqbal,DT Johnston,4,0,null,4,0,null,null
+158,25.5,Jahurul Islam,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+159,25.6,Jahurul Islam,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+160,26.1,Tamim Iqbal,Jahurul Islam,AR White,1,0,null,1,0,null,null
+161,26.2,Jahurul Islam,Tamim Iqbal,AR White,0,0,null,0,1,Jahurul Islam,caught
+162,26.3,Shakib Al Hasan,Tamim Iqbal,AR White,1,0,null,1,0,null,null
+163,26.4,Tamim Iqbal,Shakib Al Hasan,AR White,1,0,null,1,0,null,null
+164,26.5,Shakib Al Hasan,Tamim Iqbal,AR White,0,0,null,0,0,null,null
+165,26.6,Shakib Al Hasan,Tamim Iqbal,AR White,1,0,null,1,0,null,null
+166,27.1,Shakib Al Hasan,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+167,27.2,Shakib Al Hasan,Tamim Iqbal,DT Johnston,0,0,null,0,0,null,null
+168,27.3,Shakib Al Hasan,Tamim Iqbal,DT Johnston,1,0,null,1,0,null,null
+169,27.4,Tamim Iqbal,Shakib Al Hasan,DT Johnston,4,0,null,4,0,null,null
+170,27.5,Tamim Iqbal,Shakib Al Hasan,DT Johnston,0,0,null,0,0,null,null
+171,27.6,Tamim Iqbal,Shakib Al Hasan,DT Johnston,1,0,null,1,0,null,null
+172,28.1,Tamim Iqbal,Shakib Al Hasan,KJ O'Brien,1,0,null,1,0,null,null
+173,28.2,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,0,0,null,0,0,null,null
+174,28.3,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,0,1,wides ,1,0,null,null
+175,28.4,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,0,0,null,0,0,null,null
+176,28.5,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,1,0,null,1,0,null,null
+177,28.6,Tamim Iqbal,Shakib Al Hasan,KJ O'Brien,1,0,null,1,0,null,null
+178,28.7,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,0,0,null,0,0,null,null
+179,29.1,Tamim Iqbal,Shakib Al Hasan,WB Rankin,1,0,null,1,0,null,null
+180,29.2,Shakib Al Hasan,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+181,29.3,Shakib Al Hasan,Tamim Iqbal,WB Rankin,0,1,wides ,1,0,null,null
+182,29.4,Shakib Al Hasan,Tamim Iqbal,WB Rankin,3,0,null,3,0,null,null
+183,29.5,Tamim Iqbal,Shakib Al Hasan,WB Rankin,0,0,null,0,0,null,null
+184,29.6,Tamim Iqbal,Shakib Al Hasan,WB Rankin,1,0,null,1,0,null,null
+185,29.7,Shakib Al Hasan,Tamim Iqbal,WB Rankin,1,0,null,1,0,null,null
+186,30.1,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,0,0,null,0,0,null,null
+187,30.2,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,4,0,null,4,0,null,null
+188,30.3,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,4,0,null,4,0,null,null
+189,30.4,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,0,0,null,0,0,null,null
+190,30.5,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,2,0,null,2,0,null,null
+191,30.6,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,0,1,wides ,1,0,null,null
+192,30.7,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,1,0,null,1,0,null,null
+193,31.1,Shakib Al Hasan,Tamim Iqbal,WB Rankin,0,2,byes ,2,0,null,null
+194,31.2,Shakib Al Hasan,Tamim Iqbal,WB Rankin,0,0,null,0,0,null,null
+195,31.3,Shakib Al Hasan,Tamim Iqbal,WB Rankin,0,1,wides ,1,0,null,null
+196,31.4,Shakib Al Hasan,Tamim Iqbal,WB Rankin,1,0,null,1,0,null,null
+197,31.5,Tamim Iqbal,Shakib Al Hasan,WB Rankin,1,0,null,1,0,null,null
+198,31.6,Shakib Al Hasan,Tamim Iqbal,WB Rankin,4,0,null,4,0,null,null
+199,32.1,Tamim Iqbal,Shakib Al Hasan,KJ O'Brien,0,0,null,0,0,null,null
+200,32.2,Tamim Iqbal,Shakib Al Hasan,KJ O'Brien,1,0,null,1,0,null,null
+201,32.3,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,0,0,null,0,0,null,null
+202,32.4,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,0,0,null,0,0,null,null
+203,32.5,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,0,0,null,0,0,null,null
+204,32.6,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,0,1,wides ,1,0,null,null
+205,32.7,Shakib Al Hasan,Tamim Iqbal,KJ O'Brien,4,0,null,4,0,null,null
+206,33.1,Tamim Iqbal,Shakib Al Hasan,GH Dockrell,0,0,null,0,1,Tamim Iqbal,caught
+207,33.2,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,1,0,null,1,0,null,null
+208,33.3,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,0,0,null,0,0,null,null
+209,33.4,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,0,0,null,0,0,null,null
+210,33.5,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,0,1,legbyes ,1,0,null,null
+211,33.6,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,0,0,null,0,0,null,null
+212,34.1,Mushfiqur Rahim,Shakib Al Hasan,PR Stirling,4,0,null,4,0,null,null
+213,34.2,Mushfiqur Rahim,Shakib Al Hasan,PR Stirling,0,0,null,0,0,null,null
+214,34.3,Mushfiqur Rahim,Shakib Al Hasan,PR Stirling,0,0,null,0,0,null,null
+215,34.4,Mushfiqur Rahim,Shakib Al Hasan,PR Stirling,0,0,null,0,0,null,null
+216,34.5,Mushfiqur Rahim,Shakib Al Hasan,PR Stirling,0,0,null,0,0,null,null
+217,34.6,Mushfiqur Rahim,Shakib Al Hasan,PR Stirling,4,0,null,4,0,null,null
+218,35.1,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,0,0,null,0,0,null,null
+219,35.2,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,0,0,null,0,0,null,null
+220,35.3,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,0,0,null,0,0,null,null
+221,35.4,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,1,0,null,1,0,null,null
+222,35.5,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,0,0,null,0,0,null,null
+223,35.6,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,0,0,null,0,0,null,null
+224,36.1,Shakib Al Hasan,Mushfiqur Rahim,PR Stirling,1,0,null,1,0,null,null
+225,36.2,Mushfiqur Rahim,Shakib Al Hasan,PR Stirling,0,0,null,0,0,null,null
+226,36.3,Mushfiqur Rahim,Shakib Al Hasan,PR Stirling,1,0,null,1,0,null,null
+227,36.4,Shakib Al Hasan,Mushfiqur Rahim,PR Stirling,0,0,null,0,0,null,null
+228,36.5,Shakib Al Hasan,Mushfiqur Rahim,PR Stirling,0,0,null,0,0,null,null
+229,36.6,Shakib Al Hasan,Mushfiqur Rahim,PR Stirling,1,0,null,1,0,null,null
+230,37.1,Shakib Al Hasan,Mushfiqur Rahim,GH Dockrell,1,0,null,1,0,null,null
+231,37.2,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,0,0,null,0,0,null,null
+232,37.3,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,0,0,null,0,0,null,null
+233,37.4,Mushfiqur Rahim,Shakib Al Hasan,GH Dockrell,4,0,null,4,0,null,null

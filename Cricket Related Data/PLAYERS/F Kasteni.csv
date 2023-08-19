@@ -1,0 +1,4 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,247473,"Sabina Park, Kingston",Pakistan,Mohammad Sami,Right-arm fast-medium,"[0, 1, 1]",1,3,9,0,0
+1,247473,"Sabina Park, Kingston",Pakistan,Umar Gul,Right-arm fast-medium,"[0, 1, 1]",0,6,14,0,0
+2,247469,"Sabina Park, Kingston",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,0,1,0,0

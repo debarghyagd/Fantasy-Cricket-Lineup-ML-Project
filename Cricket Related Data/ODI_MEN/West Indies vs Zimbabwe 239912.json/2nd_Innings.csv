@@ -1,0 +1,86 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+1,0.2,T Duffin,V Sibanda,CD Collymore,0,1,noballs ,1,0,null,null
+2,0.3,T Duffin,V Sibanda,CD Collymore,0,1,wides ,1,0,null,null
+3,0.4,T Duffin,V Sibanda,CD Collymore,0,1,wides ,1,0,null,null
+4,0.5,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+5,0.6,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+6,0.7,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+7,0.8,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+8,0.9,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+9,1.1,V Sibanda,T Duffin,IDR Bradshaw,0,0,null,0,0,null,null
+10,1.2,V Sibanda,T Duffin,IDR Bradshaw,0,0,null,0,0,null,null
+11,1.3,V Sibanda,T Duffin,IDR Bradshaw,0,0,null,0,0,null,null
+12,1.4,V Sibanda,T Duffin,IDR Bradshaw,0,0,null,0,0,null,null
+13,1.5,V Sibanda,T Duffin,IDR Bradshaw,0,0,null,0,0,null,null
+14,1.6,V Sibanda,T Duffin,IDR Bradshaw,4,0,null,4,0,null,null
+15,2.1,T Duffin,V Sibanda,CD Collymore,2,0,null,2,0,null,null
+16,2.2,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+17,2.3,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+18,2.4,T Duffin,V Sibanda,CD Collymore,0,1,wides ,1,0,null,null
+19,2.5,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+20,2.6,T Duffin,V Sibanda,CD Collymore,4,0,null,4,0,null,null
+21,2.7,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+22,3.1,V Sibanda,T Duffin,MN Samuels,1,0,null,1,0,null,null
+23,3.2,T Duffin,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+24,3.3,T Duffin,V Sibanda,MN Samuels,0,5,wides ,5,0,null,null
+25,3.4,T Duffin,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+26,3.5,T Duffin,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+27,3.6,T Duffin,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+28,3.7,T Duffin,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+29,4.1,V Sibanda,T Duffin,CD Collymore,0,1,wides ,1,0,null,null
+30,4.2,V Sibanda,T Duffin,CD Collymore,0,1,noballs ,1,0,null,null
+31,4.3,V Sibanda,T Duffin,CD Collymore,1,0,null,1,0,null,null
+32,4.4,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+33,4.5,T Duffin,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+34,4.6,T Duffin,V Sibanda,CD Collymore,2,0,null,2,0,null,null
+35,4.7,T Duffin,V Sibanda,CD Collymore,1,0,null,1,0,null,null
+36,4.8,V Sibanda,T Duffin,CD Collymore,0,1,noballs ,1,0,null,null
+37,4.9,V Sibanda,T Duffin,CD Collymore,0,0,null,0,0,null,null
+38,5.1,T Duffin,V Sibanda,MN Samuels,2,0,null,2,0,null,null
+39,5.2,T Duffin,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+40,5.3,T Duffin,V Sibanda,MN Samuels,3,0,null,3,0,null,null
+41,5.4,V Sibanda,T Duffin,MN Samuels,1,0,null,1,0,null,null
+42,5.5,T Duffin,V Sibanda,MN Samuels,0,0,null,0,1,T Duffin,caught
+43,5.6,HP Rinke,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+44,6.1,V Sibanda,HP Rinke,CD Collymore,0,0,null,0,0,null,null
+45,6.2,V Sibanda,HP Rinke,CD Collymore,4,0,null,4,0,null,null
+46,6.3,V Sibanda,HP Rinke,CD Collymore,1,0,null,1,0,null,null
+47,6.4,HP Rinke,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+48,6.5,HP Rinke,V Sibanda,CD Collymore,0,0,null,0,0,null,null
+49,6.6,HP Rinke,V Sibanda,CD Collymore,1,0,null,1,0,null,null
+50,7.1,HP Rinke,V Sibanda,MN Samuels,3,0,null,3,0,null,null
+51,7.2,V Sibanda,HP Rinke,MN Samuels,0,0,null,0,1,HP Rinke,run out
+52,7.3,BRM Taylor,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+53,7.4,BRM Taylor,V Sibanda,MN Samuels,1,0,null,1,0,null,null
+54,7.5,V Sibanda,BRM Taylor,MN Samuels,1,0,null,1,0,null,null
+55,7.6,BRM Taylor,V Sibanda,MN Samuels,0,1,wides ,1,0,null,null
+56,7.7,BRM Taylor,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+57,8.1,V Sibanda,BRM Taylor,CH Gayle,0,1,wides ,1,0,null,null
+58,8.2,V Sibanda,BRM Taylor,CH Gayle,1,0,null,1,0,null,null
+59,8.3,BRM Taylor,V Sibanda,CH Gayle,0,0,null,0,0,null,null
+60,8.4,BRM Taylor,V Sibanda,CH Gayle,6,0,null,6,0,null,null
+61,8.5,BRM Taylor,V Sibanda,CH Gayle,1,0,null,1,0,null,null
+62,8.6,V Sibanda,BRM Taylor,CH Gayle,0,0,null,0,0,null,null
+63,8.7,V Sibanda,BRM Taylor,CH Gayle,0,0,null,0,0,null,null
+64,9.1,BRM Taylor,V Sibanda,MN Samuels,4,0,null,4,0,null,null
+65,9.2,BRM Taylor,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+66,9.3,BRM Taylor,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+67,9.4,BRM Taylor,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+68,9.5,BRM Taylor,V Sibanda,MN Samuels,0,1,wides ,1,0,null,null
+69,9.6,BRM Taylor,V Sibanda,MN Samuels,2,0,null,2,0,null,null
+70,9.7,BRM Taylor,V Sibanda,MN Samuels,1,0,null,1,0,null,null
+71,10.1,BRM Taylor,V Sibanda,CH Gayle,0,0,null,0,0,null,null
+72,10.2,BRM Taylor,V Sibanda,CH Gayle,1,0,null,1,0,null,null
+73,10.3,V Sibanda,BRM Taylor,CH Gayle,1,0,null,1,0,null,null
+74,10.4,BRM Taylor,V Sibanda,CH Gayle,0,0,null,0,0,null,null
+75,10.5,BRM Taylor,V Sibanda,CH Gayle,1,0,null,1,0,null,null
+76,10.6,V Sibanda,BRM Taylor,CH Gayle,0,0,null,0,0,null,null
+77,11.1,BRM Taylor,V Sibanda,MN Samuels,2,0,null,2,0,null,null
+78,11.2,BRM Taylor,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+79,11.3,BRM Taylor,V Sibanda,MN Samuels,0,1,wides ,1,0,null,null
+80,11.4,BRM Taylor,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+81,11.5,BRM Taylor,V Sibanda,MN Samuels,1,0,null,1,0,null,null
+82,11.6,V Sibanda,BRM Taylor,MN Samuels,1,0,null,1,0,null,null
+83,11.7,BRM Taylor,V Sibanda,MN Samuels,0,0,null,0,0,null,null
+84,12.1,V Sibanda,BRM Taylor,CH Gayle,2,0,null,2,0,null,null

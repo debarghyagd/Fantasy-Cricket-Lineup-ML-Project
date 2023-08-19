@@ -1,0 +1,18 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,336201,Marrara Cricket Ground,Australia,SR Clark,Right-arm fast-medium,"[0, 1, 1]",1,0,8,0,0
+1,336202,Marrara Cricket Ground,Australia,SR Clark,Right-arm fast-medium,"[0, 1, 1]",0,1,9,0,0
+2,264068,Shaheed Chandu Stadium,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,9,11,0,0
+3,264068,Shaheed Chandu Stadium,Zimbabwe,EC Rainsford,Right-arm fast-medium,"[0, 1, 1]",0,8,20,1,0
+4,264068,Shaheed Chandu Stadium,Zimbabwe,NB Mahwire,Right-arm medium,"[0, 1, 2]",0,8,15,1,0
+5,264069,Shaheed Chandu Stadium,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",1,13,18,2,0
+6,264069,Shaheed Chandu Stadium,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,4,8,0,0
+7,264069,Shaheed Chandu Stadium,Zimbabwe,EC Rainsford,Right-arm fast-medium,"[0, 1, 1]",0,6,14,1,0
+8,264070,Shere Bangla National Stadium,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",0,5,15,0,0
+9,264071,Shere Bangla National Stadium,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",0,14,25,2,0
+10,264071,Shere Bangla National Stadium,Zimbabwe,AJ Ireland,Right-arm medium,"[0, 1, 2]",0,12,32,2,0
+11,378753,Shere Bangla National Stadium,Zimbabwe,RW Price,Left-arm orthodox,"[1, 0, 1]",1,0,2,0,0
+12,378759,Shere Bangla National Stadium,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",0,1,5,0,0
+13,378759,Shere Bangla National Stadium,Zimbabwe,EC Rainsford,Right-arm fast-medium,"[0, 1, 1]",0,0,11,0,0
+14,300426,Eden Park,New Zealand,MR Gillespie,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+15,410339,Queens Sports Club,Zimbabwe,RW Price,Left-arm orthodox,"[1, 0, 1]",0,1,5,0,0
+16,410339,Queens Sports Club,Zimbabwe,H Masakadza,Right-arm medium,"[0, 1, 2]",0,2,5,0,0

@@ -1,0 +1,277 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tamim Iqbal,Soumya Sarkar,KMDN Kulasekara,0,0,null,0,0,null,null
+1,0.2,Tamim Iqbal,Soumya Sarkar,KMDN Kulasekara,0,0,null,0,0,null,null
+2,0.3,Tamim Iqbal,Soumya Sarkar,KMDN Kulasekara,0,0,null,0,0,null,null
+3,0.4,Tamim Iqbal,Soumya Sarkar,KMDN Kulasekara,4,0,null,4,0,null,null
+4,0.5,Tamim Iqbal,Soumya Sarkar,KMDN Kulasekara,0,0,null,0,0,null,null
+5,0.6,Tamim Iqbal,Soumya Sarkar,KMDN Kulasekara,0,0,null,0,1,Tamim Iqbal,caught and bowled
+6,1.1,Soumya Sarkar,Sabbir Rahman,RAS Lakmal,0,0,null,0,0,null,null
+7,1.2,Soumya Sarkar,Sabbir Rahman,RAS Lakmal,0,0,null,0,0,null,null
+8,1.3,Soumya Sarkar,Sabbir Rahman,RAS Lakmal,0,0,null,0,0,null,null
+9,1.4,Soumya Sarkar,Sabbir Rahman,RAS Lakmal,0,0,null,0,0,null,null
+10,1.5,Soumya Sarkar,Sabbir Rahman,RAS Lakmal,4,0,null,4,0,null,null
+11,1.6,Soumya Sarkar,Sabbir Rahman,RAS Lakmal,1,0,null,1,0,null,null
+12,2.1,Soumya Sarkar,Sabbir Rahman,KMDN Kulasekara,0,0,null,0,0,null,null
+13,2.2,Soumya Sarkar,Sabbir Rahman,KMDN Kulasekara,0,0,null,0,0,null,null
+14,2.3,Soumya Sarkar,Sabbir Rahman,KMDN Kulasekara,1,0,null,1,0,null,null
+15,2.4,Sabbir Rahman,Soumya Sarkar,KMDN Kulasekara,0,0,null,0,0,null,null
+16,2.5,Sabbir Rahman,Soumya Sarkar,KMDN Kulasekara,0,0,null,0,0,null,null
+17,2.6,Sabbir Rahman,Soumya Sarkar,KMDN Kulasekara,0,0,null,0,1,Sabbir Rahman,caught
+18,3.1,Soumya Sarkar,Mushfiqur Rahim,RAS Lakmal,0,0,null,0,0,null,null
+19,3.2,Soumya Sarkar,Mushfiqur Rahim,RAS Lakmal,1,0,null,1,0,null,null
+20,3.3,Mushfiqur Rahim,Soumya Sarkar,RAS Lakmal,0,0,null,0,1,Mushfiqur Rahim,lbw
+21,3.4,Shakib Al Hasan,Soumya Sarkar,RAS Lakmal,1,0,null,1,0,null,null
+22,3.5,Soumya Sarkar,Shakib Al Hasan,RAS Lakmal,1,0,null,1,0,null,null
+23,3.6,Shakib Al Hasan,Soumya Sarkar,RAS Lakmal,1,0,null,1,0,null,null
+24,4.1,Shakib Al Hasan,Soumya Sarkar,KMDN Kulasekara,0,0,null,0,0,null,null
+25,4.2,Shakib Al Hasan,Soumya Sarkar,KMDN Kulasekara,1,0,null,1,0,null,null
+26,4.3,Soumya Sarkar,Shakib Al Hasan,KMDN Kulasekara,0,0,null,0,0,null,null
+27,4.4,Soumya Sarkar,Shakib Al Hasan,KMDN Kulasekara,0,0,null,0,0,null,null
+28,4.5,Soumya Sarkar,Shakib Al Hasan,KMDN Kulasekara,0,0,null,0,0,null,null
+29,4.6,Soumya Sarkar,Shakib Al Hasan,KMDN Kulasekara,0,0,null,0,0,null,null
+30,5.1,Shakib Al Hasan,Soumya Sarkar,RAS Lakmal,1,0,null,1,0,null,null
+31,5.2,Soumya Sarkar,Shakib Al Hasan,RAS Lakmal,1,0,null,1,0,null,null
+32,5.3,Shakib Al Hasan,Soumya Sarkar,RAS Lakmal,0,0,null,0,0,null,null
+33,5.4,Shakib Al Hasan,Soumya Sarkar,RAS Lakmal,0,0,null,0,0,null,null
+34,5.5,Shakib Al Hasan,Soumya Sarkar,RAS Lakmal,0,0,null,0,0,null,null
+35,5.6,Shakib Al Hasan,Soumya Sarkar,RAS Lakmal,0,0,null,0,0,null,null
+36,6.1,Soumya Sarkar,Shakib Al Hasan,KMDN Kulasekara,4,0,null,4,0,null,null
+37,6.2,Soumya Sarkar,Shakib Al Hasan,KMDN Kulasekara,2,0,null,2,0,null,null
+38,6.3,Soumya Sarkar,Shakib Al Hasan,KMDN Kulasekara,0,0,null,0,0,null,null
+39,6.4,Soumya Sarkar,Shakib Al Hasan,KMDN Kulasekara,0,0,null,0,0,null,null
+40,6.5,Soumya Sarkar,Shakib Al Hasan,KMDN Kulasekara,1,0,null,1,0,null,null
+41,6.6,Shakib Al Hasan,Soumya Sarkar,KMDN Kulasekara,0,0,null,0,0,null,null
+42,7.1,Soumya Sarkar,Shakib Al Hasan,RAS Lakmal,0,0,null,0,0,null,null
+43,7.2,Soumya Sarkar,Shakib Al Hasan,RAS Lakmal,0,0,null,0,0,null,null
+44,7.3,Soumya Sarkar,Shakib Al Hasan,RAS Lakmal,1,0,null,1,0,null,null
+45,7.4,Shakib Al Hasan,Soumya Sarkar,RAS Lakmal,0,0,null,0,0,null,null
+46,7.5,Shakib Al Hasan,Soumya Sarkar,RAS Lakmal,4,0,null,4,0,null,null
+47,7.6,Shakib Al Hasan,Soumya Sarkar,RAS Lakmal,1,0,null,1,0,null,null
+48,8.1,Shakib Al Hasan,Soumya Sarkar,KMDN Kulasekara,4,0,null,4,0,null,null
+49,8.2,Shakib Al Hasan,Soumya Sarkar,KMDN Kulasekara,0,0,null,0,0,null,null
+50,8.3,Shakib Al Hasan,Soumya Sarkar,KMDN Kulasekara,4,0,null,4,0,null,null
+51,8.4,Shakib Al Hasan,Soumya Sarkar,KMDN Kulasekara,1,0,null,1,0,null,null
+52,8.5,Soumya Sarkar,Shakib Al Hasan,KMDN Kulasekara,0,0,null,0,0,null,null
+53,8.6,Soumya Sarkar,Shakib Al Hasan,KMDN Kulasekara,1,0,null,1,0,null,null
+54,9.1,Soumya Sarkar,Shakib Al Hasan,MDK Perera,0,1,wides ,1,0,null,null
+55,9.2,Soumya Sarkar,Shakib Al Hasan,MDK Perera,4,0,null,4,0,null,null
+56,9.3,Soumya Sarkar,Shakib Al Hasan,MDK Perera,2,0,null,2,0,null,null
+57,9.4,Soumya Sarkar,Shakib Al Hasan,MDK Perera,0,0,null,0,0,null,null
+58,9.5,Soumya Sarkar,Shakib Al Hasan,MDK Perera,2,0,null,2,0,null,null
+59,9.6,Soumya Sarkar,Shakib Al Hasan,MDK Perera,6,0,null,6,0,null,null
+60,9.7,Soumya Sarkar,Shakib Al Hasan,MDK Perera,0,5,wides ,5,0,null,null
+61,9.8,Soumya Sarkar,Shakib Al Hasan,MDK Perera,0,0,null,0,0,null,null
+62,10.1,Shakib Al Hasan,Soumya Sarkar,NLTC Perera,4,0,null,4,0,null,null
+63,10.2,Shakib Al Hasan,Soumya Sarkar,NLTC Perera,1,0,null,1,0,null,null
+64,10.3,Soumya Sarkar,Shakib Al Hasan,NLTC Perera,1,0,null,1,0,null,null
+65,10.4,Shakib Al Hasan,Soumya Sarkar,NLTC Perera,0,0,null,0,0,null,null
+66,10.5,Shakib Al Hasan,Soumya Sarkar,NLTC Perera,1,0,null,1,0,null,null
+67,10.6,Soumya Sarkar,Shakib Al Hasan,NLTC Perera,0,0,null,0,0,null,null
+68,11.1,Shakib Al Hasan,Soumya Sarkar,MDK Perera,0,0,null,0,0,null,null
+69,11.2,Shakib Al Hasan,Soumya Sarkar,MDK Perera,1,0,null,1,0,null,null
+70,11.3,Soumya Sarkar,Shakib Al Hasan,MDK Perera,1,0,null,1,0,null,null
+71,11.4,Shakib Al Hasan,Soumya Sarkar,MDK Perera,1,0,null,1,0,null,null
+72,11.5,Soumya Sarkar,Shakib Al Hasan,MDK Perera,1,0,null,1,0,null,null
+73,11.6,Shakib Al Hasan,Soumya Sarkar,MDK Perera,0,0,null,0,0,null,null
+74,12.1,Soumya Sarkar,Shakib Al Hasan,NLTC Perera,0,1,legbyes ,1,0,null,null
+75,12.2,Shakib Al Hasan,Soumya Sarkar,NLTC Perera,2,0,null,2,0,null,null
+76,12.3,Shakib Al Hasan,Soumya Sarkar,NLTC Perera,4,0,null,4,0,null,null
+77,12.4,Shakib Al Hasan,Soumya Sarkar,NLTC Perera,1,0,null,1,0,null,null
+78,12.5,Soumya Sarkar,Shakib Al Hasan,NLTC Perera,0,0,null,0,0,null,null
+79,12.6,Soumya Sarkar,Shakib Al Hasan,NLTC Perera,0,0,null,0,0,null,null
+80,13.1,Shakib Al Hasan,Soumya Sarkar,MDK Perera,0,0,null,0,0,null,null
+81,13.2,Shakib Al Hasan,Soumya Sarkar,MDK Perera,0,0,null,0,0,null,null
+82,13.3,Shakib Al Hasan,Soumya Sarkar,MDK Perera,0,0,null,0,0,null,null
+83,13.4,Shakib Al Hasan,Soumya Sarkar,MDK Perera,0,0,null,0,0,null,null
+84,13.5,Shakib Al Hasan,Soumya Sarkar,MDK Perera,0,0,null,0,0,null,null
+85,13.6,Shakib Al Hasan,Soumya Sarkar,MDK Perera,0,0,null,0,0,null,null
+86,14.1,Soumya Sarkar,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+87,14.2,Shakib Al Hasan,Soumya Sarkar,DAS Gunaratne,1,0,null,1,0,null,null
+88,14.3,Soumya Sarkar,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+89,14.4,Shakib Al Hasan,Soumya Sarkar,DAS Gunaratne,4,0,null,4,0,null,null
+90,14.5,Shakib Al Hasan,Soumya Sarkar,DAS Gunaratne,1,0,null,1,0,null,null
+91,14.6,Soumya Sarkar,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+92,15.1,Soumya Sarkar,Shakib Al Hasan,MDK Perera,0,0,null,0,1,Soumya Sarkar,stumped
+93,15.2,Mosaddek Hossain,Shakib Al Hasan,MDK Perera,1,0,null,1,0,null,null
+94,15.3,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,1,0,null,1,0,null,null
+95,15.4,Mosaddek Hossain,Shakib Al Hasan,MDK Perera,0,0,null,0,0,null,null
+96,15.5,Mosaddek Hossain,Shakib Al Hasan,MDK Perera,0,0,null,0,0,null,null
+97,15.6,Mosaddek Hossain,Shakib Al Hasan,MDK Perera,0,0,null,0,0,null,null
+98,16.1,Shakib Al Hasan,Mosaddek Hossain,S Prasanna,0,0,null,0,0,null,null
+99,16.2,Shakib Al Hasan,Mosaddek Hossain,S Prasanna,0,0,null,0,0,null,null
+100,16.3,Shakib Al Hasan,Mosaddek Hossain,S Prasanna,1,0,null,1,0,null,null
+101,16.4,Mosaddek Hossain,Shakib Al Hasan,S Prasanna,0,0,null,0,0,null,null
+102,16.5,Mosaddek Hossain,Shakib Al Hasan,S Prasanna,1,0,null,1,0,null,null
+103,16.6,Shakib Al Hasan,Mosaddek Hossain,S Prasanna,0,0,null,0,0,null,null
+104,17.1,Mosaddek Hossain,Shakib Al Hasan,MDK Perera,3,0,null,3,0,null,null
+105,17.2,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,1,0,null,1,0,null,null
+106,17.3,Mosaddek Hossain,Shakib Al Hasan,MDK Perera,1,0,null,1,0,null,null
+107,17.4,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,1,0,null,1,0,null,null
+108,17.5,Mosaddek Hossain,Shakib Al Hasan,MDK Perera,0,0,null,0,0,null,null
+109,17.6,Mosaddek Hossain,Shakib Al Hasan,MDK Perera,0,0,null,0,0,null,null
+110,18.1,Shakib Al Hasan,Mosaddek Hossain,S Prasanna,4,0,null,4,0,null,null
+111,18.2,Shakib Al Hasan,Mosaddek Hossain,S Prasanna,0,0,null,0,0,null,null
+112,18.3,Shakib Al Hasan,Mosaddek Hossain,S Prasanna,0,0,null,0,0,null,null
+113,18.4,Shakib Al Hasan,Mosaddek Hossain,S Prasanna,1,0,null,1,0,null,null
+114,18.5,Mosaddek Hossain,Shakib Al Hasan,S Prasanna,0,0,null,0,0,null,null
+115,18.6,Mosaddek Hossain,Shakib Al Hasan,S Prasanna,0,0,null,0,0,null,null
+116,19.1,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,0,0,null,0,0,null,null
+117,19.2,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,0,0,null,0,0,null,null
+118,19.3,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,0,0,null,0,0,null,null
+119,19.4,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,0,0,null,0,0,null,null
+120,19.5,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,0,0,null,0,0,null,null
+121,19.6,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,1,0,null,1,0,null,null
+122,20.1,Shakib Al Hasan,Mosaddek Hossain,S Prasanna,1,0,null,1,0,null,null
+123,20.2,Mosaddek Hossain,Shakib Al Hasan,S Prasanna,0,0,null,0,0,null,null
+124,20.3,Mosaddek Hossain,Shakib Al Hasan,S Prasanna,0,0,null,0,0,null,null
+125,20.4,Mosaddek Hossain,Shakib Al Hasan,S Prasanna,2,0,null,2,0,null,null
+126,20.5,Mosaddek Hossain,Shakib Al Hasan,S Prasanna,0,0,null,0,0,null,null
+127,20.6,Mosaddek Hossain,Shakib Al Hasan,S Prasanna,0,0,null,0,0,null,null
+128,21.1,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,0,0,null,0,0,null,null
+129,21.2,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,0,0,null,0,0,null,null
+130,21.3,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,2,0,null,2,0,null,null
+131,21.4,Shakib Al Hasan,Mosaddek Hossain,MDK Perera,1,0,null,1,0,null,null
+132,21.5,Mosaddek Hossain,Shakib Al Hasan,MDK Perera,0,0,null,0,0,null,null
+133,21.6,Mosaddek Hossain,Shakib Al Hasan,MDK Perera,1,0,null,1,0,null,null
+134,22.1,Mosaddek Hossain,Shakib Al Hasan,S Prasanna,0,0,null,0,1,Mosaddek Hossain,bowled
+135,22.2,Mahmudullah,Shakib Al Hasan,S Prasanna,0,2,wides ,2,0,null,null
+136,22.3,Shakib Al Hasan,Mahmudullah,S Prasanna,1,0,null,1,0,null,null
+137,22.4,Mahmudullah,Shakib Al Hasan,S Prasanna,4,0,null,4,0,null,null
+138,22.5,Mahmudullah,Shakib Al Hasan,S Prasanna,0,0,null,0,0,null,null
+139,22.6,Mahmudullah,Shakib Al Hasan,S Prasanna,0,0,null,0,0,null,null
+140,22.7,Mahmudullah,Shakib Al Hasan,S Prasanna,0,0,null,0,0,null,null
+141,23.1,Shakib Al Hasan,Mahmudullah,MDK Perera,0,0,null,0,0,null,null
+142,23.2,Shakib Al Hasan,Mahmudullah,MDK Perera,0,0,null,0,1,Shakib Al Hasan,caught
+143,23.3,Mehedi Hasan Miraz,Mahmudullah,MDK Perera,0,0,null,0,0,null,null
+144,23.4,Mehedi Hasan Miraz,Mahmudullah,MDK Perera,0,0,null,0,0,null,null
+145,23.5,Mehedi Hasan Miraz,Mahmudullah,MDK Perera,0,0,null,0,0,null,null
+146,23.6,Mehedi Hasan Miraz,Mahmudullah,MDK Perera,2,0,null,2,0,null,null
+147,24.1,Mahmudullah,Mehedi Hasan Miraz,S Prasanna,1,0,null,1,0,null,null
+148,24.2,Mehedi Hasan Miraz,Mahmudullah,S Prasanna,0,0,null,0,0,null,null
+149,24.3,Mehedi Hasan Miraz,Mahmudullah,S Prasanna,0,0,null,0,0,null,null
+150,24.4,Mehedi Hasan Miraz,Mahmudullah,S Prasanna,1,0,null,1,0,null,null
+151,24.5,Mahmudullah,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+152,24.6,Mahmudullah,Mehedi Hasan Miraz,S Prasanna,1,0,null,1,0,null,null
+153,25.1,Mahmudullah,Mehedi Hasan Miraz,RAS Lakmal,1,0,null,1,0,null,null
+154,25.2,Mehedi Hasan Miraz,Mahmudullah,RAS Lakmal,0,1,wides ,1,0,null,null
+155,25.3,Mehedi Hasan Miraz,Mahmudullah,RAS Lakmal,0,1,wides ,1,0,null,null
+156,25.4,Mehedi Hasan Miraz,Mahmudullah,RAS Lakmal,0,0,null,0,0,null,null
+157,25.5,Mehedi Hasan Miraz,Mahmudullah,RAS Lakmal,1,0,null,1,0,null,null
+158,25.6,Mahmudullah,Mehedi Hasan Miraz,RAS Lakmal,0,0,null,0,1,Mahmudullah,caught
+159,25.7,Mashrafe Mortaza,Mehedi Hasan Miraz,RAS Lakmal,0,0,null,0,0,null,null
+160,25.8,Mashrafe Mortaza,Mehedi Hasan Miraz,RAS Lakmal,1,0,null,1,0,null,null
+161,26.1,Mashrafe Mortaza,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+162,26.2,Mashrafe Mortaza,Mehedi Hasan Miraz,S Prasanna,1,0,null,1,0,null,null
+163,26.3,Mehedi Hasan Miraz,Mashrafe Mortaza,S Prasanna,0,0,null,0,0,null,null
+164,26.4,Mehedi Hasan Miraz,Mashrafe Mortaza,S Prasanna,1,0,null,1,0,null,null
+165,26.5,Mashrafe Mortaza,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+166,26.6,Mashrafe Mortaza,Mehedi Hasan Miraz,S Prasanna,1,0,null,1,0,null,null
+167,27.1,Mashrafe Mortaza,Mehedi Hasan Miraz,RAS Lakmal,1,0,null,1,0,null,null
+168,27.2,Mehedi Hasan Miraz,Mashrafe Mortaza,RAS Lakmal,0,0,null,0,0,null,null
+169,27.3,Mehedi Hasan Miraz,Mashrafe Mortaza,RAS Lakmal,0,1,wides ,1,0,null,null
+170,27.4,Mehedi Hasan Miraz,Mashrafe Mortaza,RAS Lakmal,0,0,null,0,0,null,null
+171,27.5,Mehedi Hasan Miraz,Mashrafe Mortaza,RAS Lakmal,0,0,null,0,0,null,null
+172,27.6,Mehedi Hasan Miraz,Mashrafe Mortaza,RAS Lakmal,0,0,null,0,0,null,null
+173,27.7,Mehedi Hasan Miraz,Mashrafe Mortaza,RAS Lakmal,0,0,null,0,0,null,null
+174,28.1,Mashrafe Mortaza,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+175,28.2,Mashrafe Mortaza,Mehedi Hasan Miraz,S Prasanna,1,0,null,1,0,null,null
+176,28.3,Mehedi Hasan Miraz,Mashrafe Mortaza,S Prasanna,1,0,null,1,0,null,null
+177,28.4,Mashrafe Mortaza,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+178,28.5,Mashrafe Mortaza,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+179,28.6,Mashrafe Mortaza,Mehedi Hasan Miraz,S Prasanna,0,1,wides ,1,0,null,null
+180,28.7,Mashrafe Mortaza,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+181,29.1,Mehedi Hasan Miraz,Mashrafe Mortaza,KMDN Kulasekara,1,0,null,1,0,null,null
+182,29.2,Mashrafe Mortaza,Mehedi Hasan Miraz,KMDN Kulasekara,0,0,null,0,0,null,null
+183,29.3,Mashrafe Mortaza,Mehedi Hasan Miraz,KMDN Kulasekara,0,0,null,0,0,null,null
+184,29.4,Mashrafe Mortaza,Mehedi Hasan Miraz,KMDN Kulasekara,0,0,null,0,0,null,null
+185,29.5,Mashrafe Mortaza,Mehedi Hasan Miraz,KMDN Kulasekara,1,0,null,1,0,null,null
+186,29.6,Mehedi Hasan Miraz,Mashrafe Mortaza,KMDN Kulasekara,1,0,null,1,0,null,null
+187,30.1,Mehedi Hasan Miraz,Mashrafe Mortaza,TAM Siriwardana,0,0,null,0,0,null,null
+188,30.2,Mehedi Hasan Miraz,Mashrafe Mortaza,TAM Siriwardana,0,0,null,0,0,null,null
+189,30.3,Mehedi Hasan Miraz,Mashrafe Mortaza,TAM Siriwardana,0,0,null,0,0,null,null
+190,30.4,Mehedi Hasan Miraz,Mashrafe Mortaza,TAM Siriwardana,0,0,null,0,0,null,null
+191,30.5,Mehedi Hasan Miraz,Mashrafe Mortaza,TAM Siriwardana,0,0,null,0,0,null,null
+192,30.6,Mehedi Hasan Miraz,Mashrafe Mortaza,TAM Siriwardana,0,0,null,0,0,null,null
+193,31.1,Mashrafe Mortaza,Mehedi Hasan Miraz,KMDN Kulasekara,4,0,null,4,0,null,null
+194,31.2,Mashrafe Mortaza,Mehedi Hasan Miraz,KMDN Kulasekara,4,0,null,4,0,null,null
+195,31.3,Mashrafe Mortaza,Mehedi Hasan Miraz,KMDN Kulasekara,0,0,null,0,0,null,null
+196,31.4,Mashrafe Mortaza,Mehedi Hasan Miraz,KMDN Kulasekara,1,0,null,1,0,null,null
+197,31.5,Mehedi Hasan Miraz,Mashrafe Mortaza,KMDN Kulasekara,0,0,null,0,0,null,null
+198,31.6,Mehedi Hasan Miraz,Mashrafe Mortaza,KMDN Kulasekara,1,0,null,1,0,null,null
+199,32.1,Mehedi Hasan Miraz,Mashrafe Mortaza,TAM Siriwardana,1,0,null,1,0,null,null
+200,32.2,Mashrafe Mortaza,Mehedi Hasan Miraz,TAM Siriwardana,0,0,null,0,0,null,null
+201,32.3,Mashrafe Mortaza,Mehedi Hasan Miraz,TAM Siriwardana,1,0,null,1,0,null,null
+202,32.4,Mehedi Hasan Miraz,Mashrafe Mortaza,TAM Siriwardana,0,0,null,0,0,null,null
+203,32.5,Mehedi Hasan Miraz,Mashrafe Mortaza,TAM Siriwardana,4,0,null,4,0,null,null
+204,32.6,Mehedi Hasan Miraz,Mashrafe Mortaza,TAM Siriwardana,0,0,null,0,0,null,null
+205,33.1,Mashrafe Mortaza,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,1,Mashrafe Mortaza,caught and bowled
+206,33.2,Taskin Ahmed,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+207,33.3,Taskin Ahmed,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+208,33.4,Taskin Ahmed,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+209,33.5,Taskin Ahmed,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+210,33.6,Taskin Ahmed,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+211,34.1,Mehedi Hasan Miraz,Taskin Ahmed,TAM Siriwardana,0,0,null,0,0,null,null
+212,34.2,Mehedi Hasan Miraz,Taskin Ahmed,TAM Siriwardana,0,0,null,0,0,null,null
+213,34.3,Mehedi Hasan Miraz,Taskin Ahmed,TAM Siriwardana,0,0,null,0,0,null,null
+214,34.4,Mehedi Hasan Miraz,Taskin Ahmed,TAM Siriwardana,1,0,null,1,0,null,null
+215,34.5,Taskin Ahmed,Mehedi Hasan Miraz,TAM Siriwardana,0,0,null,0,0,null,null
+216,34.6,Taskin Ahmed,Mehedi Hasan Miraz,TAM Siriwardana,1,0,null,1,0,null,null
+217,35.1,Taskin Ahmed,Mehedi Hasan Miraz,S Prasanna,0,0,null,0,0,null,null
+218,35.2,Taskin Ahmed,Mehedi Hasan Miraz,S Prasanna,1,0,null,1,0,null,null
+219,35.3,Mehedi Hasan Miraz,Taskin Ahmed,S Prasanna,1,0,null,1,0,null,null
+220,35.4,Taskin Ahmed,Mehedi Hasan Miraz,S Prasanna,0,1,wides ,1,0,null,null
+221,35.5,Taskin Ahmed,Mehedi Hasan Miraz,S Prasanna,1,0,null,1,0,null,null
+222,35.6,Mehedi Hasan Miraz,Taskin Ahmed,S Prasanna,0,0,null,0,0,null,null
+223,35.7,Mehedi Hasan Miraz,Taskin Ahmed,S Prasanna,1,0,null,1,0,null,null
+224,36.1,Mehedi Hasan Miraz,Taskin Ahmed,TAM Siriwardana,4,0,null,4,0,null,null
+225,36.2,Mehedi Hasan Miraz,Taskin Ahmed,TAM Siriwardana,1,0,null,1,0,null,null
+226,36.3,Taskin Ahmed,Mehedi Hasan Miraz,TAM Siriwardana,0,0,null,0,0,null,null
+227,36.4,Taskin Ahmed,Mehedi Hasan Miraz,TAM Siriwardana,0,0,null,0,0,null,null
+228,36.5,Taskin Ahmed,Mehedi Hasan Miraz,TAM Siriwardana,1,0,null,1,0,null,null
+229,36.6,Mehedi Hasan Miraz,Taskin Ahmed,TAM Siriwardana,1,0,null,1,0,null,null
+230,37.1,Mehedi Hasan Miraz,Taskin Ahmed,S Prasanna,1,0,null,1,0,null,null
+231,37.2,Taskin Ahmed,Mehedi Hasan Miraz,S Prasanna,1,0,null,1,0,null,null
+232,37.3,Mehedi Hasan Miraz,Taskin Ahmed,S Prasanna,0,0,null,0,0,null,null
+233,37.4,Mehedi Hasan Miraz,Taskin Ahmed,S Prasanna,0,0,null,0,0,null,null
+234,37.5,Mehedi Hasan Miraz,Taskin Ahmed,S Prasanna,0,0,null,0,0,null,null
+235,37.6,Mehedi Hasan Miraz,Taskin Ahmed,S Prasanna,0,0,null,0,0,null,null
+236,38.1,Taskin Ahmed,Mehedi Hasan Miraz,TAM Siriwardana,1,0,null,1,0,null,null
+237,38.2,Mehedi Hasan Miraz,Taskin Ahmed,TAM Siriwardana,0,0,null,0,0,null,null
+238,38.3,Mehedi Hasan Miraz,Taskin Ahmed,TAM Siriwardana,2,0,null,2,0,null,null
+239,38.4,Mehedi Hasan Miraz,Taskin Ahmed,TAM Siriwardana,4,0,null,4,0,null,null
+240,38.5,Mehedi Hasan Miraz,Taskin Ahmed,TAM Siriwardana,1,0,null,1,0,null,null
+241,38.6,Taskin Ahmed,Mehedi Hasan Miraz,TAM Siriwardana,0,0,null,0,0,null,null
+242,39.1,Mehedi Hasan Miraz,Taskin Ahmed,MDK Perera,1,0,null,1,0,null,null
+243,39.2,Taskin Ahmed,Mehedi Hasan Miraz,MDK Perera,0,1,legbyes ,1,0,null,null
+244,39.3,Mehedi Hasan Miraz,Taskin Ahmed,MDK Perera,0,0,null,0,0,null,null
+245,39.4,Mehedi Hasan Miraz,Taskin Ahmed,MDK Perera,0,0,null,0,0,null,null
+246,39.5,Mehedi Hasan Miraz,Taskin Ahmed,MDK Perera,0,0,null,0,0,null,null
+247,39.6,Mehedi Hasan Miraz,Taskin Ahmed,MDK Perera,1,0,null,1,0,null,null
+248,40.1,Mehedi Hasan Miraz,Taskin Ahmed,RAS Lakmal,0,0,null,0,0,null,null
+249,40.2,Mehedi Hasan Miraz,Taskin Ahmed,RAS Lakmal,0,0,null,0,0,null,null
+250,40.3,Mehedi Hasan Miraz,Taskin Ahmed,RAS Lakmal,0,1,wides ,1,0,null,null
+251,40.4,Mehedi Hasan Miraz,Taskin Ahmed,RAS Lakmal,0,0,null,0,0,null,null
+252,40.5,Mehedi Hasan Miraz,Taskin Ahmed,RAS Lakmal,4,0,null,4,0,null,null
+253,40.6,Mehedi Hasan Miraz,Taskin Ahmed,RAS Lakmal,0,0,null,0,0,null,null
+254,40.7,Mehedi Hasan Miraz,Taskin Ahmed,RAS Lakmal,1,0,null,1,0,null,null
+255,41.1,Mehedi Hasan Miraz,Taskin Ahmed,MDK Perera,0,0,null,0,0,null,null
+256,41.2,Mehedi Hasan Miraz,Taskin Ahmed,MDK Perera,1,0,null,1,0,null,null
+257,41.3,Taskin Ahmed,Mehedi Hasan Miraz,MDK Perera,4,0,null,4,0,null,null
+258,41.4,Taskin Ahmed,Mehedi Hasan Miraz,MDK Perera,0,0,null,0,0,null,null
+259,41.5,Taskin Ahmed,Mehedi Hasan Miraz,MDK Perera,0,0,null,0,0,null,null
+260,41.6,Taskin Ahmed,Mehedi Hasan Miraz,MDK Perera,1,0,null,1,0,null,null
+261,42.1,Taskin Ahmed,Mehedi Hasan Miraz,RAS Lakmal,1,0,null,1,0,null,null
+262,42.2,Mehedi Hasan Miraz,Taskin Ahmed,RAS Lakmal,1,0,null,1,0,null,null
+263,42.3,Taskin Ahmed,Mehedi Hasan Miraz,RAS Lakmal,0,0,null,0,0,null,null
+264,42.4,Taskin Ahmed,Mehedi Hasan Miraz,RAS Lakmal,1,0,null,1,0,null,null
+265,42.5,Mehedi Hasan Miraz,Taskin Ahmed,RAS Lakmal,4,0,null,4,0,null,null
+266,42.6,Mehedi Hasan Miraz,Taskin Ahmed,RAS Lakmal,1,0,null,1,0,null,null
+267,43.1,Mehedi Hasan Miraz,Taskin Ahmed,DAS Gunaratne,4,0,null,4,0,null,null
+268,43.2,Mehedi Hasan Miraz,Taskin Ahmed,DAS Gunaratne,0,0,null,0,0,null,null
+269,43.3,Mehedi Hasan Miraz,Taskin Ahmed,DAS Gunaratne,1,0,null,1,0,null,null
+270,43.4,Taskin Ahmed,Mehedi Hasan Miraz,DAS Gunaratne,1,0,null,1,0,null,null
+271,43.5,Mehedi Hasan Miraz,Taskin Ahmed,DAS Gunaratne,1,0,null,1,0,null,null
+272,43.6,Taskin Ahmed,Mehedi Hasan Miraz,DAS Gunaratne,0,0,null,0,0,null,null
+273,44.1,Mehedi Hasan Miraz,Taskin Ahmed,KMDN Kulasekara,0,0,null,0,1,Mehedi Hasan Miraz,caught
+274,44.2,Mustafizur Rahman,Taskin Ahmed,KMDN Kulasekara,1,0,null,1,0,null,null
+275,44.3,Taskin Ahmed,Mustafizur Rahman,KMDN Kulasekara,0,0,null,0,1,Taskin Ahmed,caught

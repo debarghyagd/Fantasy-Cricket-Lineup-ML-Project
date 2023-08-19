@@ -1,0 +1,8 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,744681,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",1,5,4,1,0
+1,744683,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+2,744683,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,6,11,0,0
+3,792289,Barabati Stadium,Sri Lanka,KTGD Prasad,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+4,792289,Barabati Stadium,Sri Lanka,S Prasanna,Right-arm legbreak,"[1, 1, 1]",0,2,2,0,0
+5,792289,Barabati Stadium,Sri Lanka,PLS Gamage,Right-arm medium,"[0, 1, 2]",0,6,4,1,0
+6,792293,"Rajiv Gandhi International Stadium, Uppal",Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",0,2,3,0,0

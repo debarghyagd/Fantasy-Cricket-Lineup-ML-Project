@@ -1,0 +1,306 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,SJ Baard,ZE Green,Bilal Khan,1,0,null,1,0,null,null
+1,0.2,ZE Green,SJ Baard,Bilal Khan,0,0,null,0,0,null,null
+2,0.3,ZE Green,SJ Baard,Bilal Khan,0,0,null,0,0,null,null
+3,0.4,ZE Green,SJ Baard,Bilal Khan,0,1,wides ,1,0,null,null
+4,0.5,ZE Green,SJ Baard,Bilal Khan,0,0,null,0,0,null,null
+5,0.6,ZE Green,SJ Baard,Bilal Khan,0,0,null,0,0,null,null
+6,0.7,ZE Green,SJ Baard,Bilal Khan,0,0,null,0,0,null,null
+7,1.1,SJ Baard,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+8,1.2,SJ Baard,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+9,1.3,SJ Baard,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+10,1.4,SJ Baard,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+11,1.5,SJ Baard,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+12,1.6,SJ Baard,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+13,2.1,ZE Green,SJ Baard,Bilal Khan,1,0,null,1,0,null,null
+14,2.2,SJ Baard,ZE Green,Bilal Khan,0,0,null,0,0,null,null
+15,2.3,SJ Baard,ZE Green,Bilal Khan,0,1,legbyes ,1,0,null,null
+16,2.4,ZE Green,SJ Baard,Bilal Khan,0,0,null,0,0,null,null
+17,2.5,ZE Green,SJ Baard,Bilal Khan,0,0,null,0,0,null,null
+18,2.6,ZE Green,SJ Baard,Bilal Khan,0,0,null,0,0,null,null
+19,3.1,SJ Baard,ZE Green,Kaleemullah,2,0,null,2,0,null,null
+20,3.2,SJ Baard,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+21,3.3,SJ Baard,ZE Green,Kaleemullah,2,0,null,2,0,null,null
+22,3.4,SJ Baard,ZE Green,Kaleemullah,4,0,null,4,0,null,null
+23,3.5,SJ Baard,ZE Green,Kaleemullah,1,0,null,1,0,null,null
+24,3.6,ZE Green,SJ Baard,Kaleemullah,0,0,null,0,0,null,null
+25,4.1,SJ Baard,ZE Green,Bilal Khan,0,0,null,0,0,null,null
+26,4.2,SJ Baard,ZE Green,Bilal Khan,0,0,null,0,0,null,null
+27,4.3,SJ Baard,ZE Green,Bilal Khan,0,0,null,0,0,null,null
+28,4.4,SJ Baard,ZE Green,Bilal Khan,0,0,null,0,0,null,null
+29,4.5,SJ Baard,ZE Green,Bilal Khan,0,1,wides ,1,0,null,null
+30,4.6,SJ Baard,ZE Green,Bilal Khan,0,0,null,0,0,null,null
+31,4.7,SJ Baard,ZE Green,Bilal Khan,2,0,null,2,0,null,null
+32,5.1,ZE Green,SJ Baard,Kaleemullah,0,0,null,0,0,null,null
+33,5.2,ZE Green,SJ Baard,Kaleemullah,0,0,null,0,0,null,null
+34,5.3,ZE Green,SJ Baard,Kaleemullah,1,0,null,1,0,null,null
+35,5.4,SJ Baard,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+36,5.5,SJ Baard,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+37,5.6,SJ Baard,ZE Green,Kaleemullah,4,0,null,4,0,null,null
+38,6.1,ZE Green,SJ Baard,Bilal Khan,0,0,null,0,0,null,null
+39,6.2,ZE Green,SJ Baard,Bilal Khan,3,0,null,3,0,null,null
+40,6.3,SJ Baard,ZE Green,Bilal Khan,0,0,null,0,0,null,null
+41,6.4,SJ Baard,ZE Green,Bilal Khan,0,0,null,0,0,null,null
+42,6.5,SJ Baard,ZE Green,Bilal Khan,0,0,null,0,1,SJ Baard,bowled
+43,6.6,M van Lingen,ZE Green,Bilal Khan,3,0,null,3,0,null,null
+44,7.1,M van Lingen,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+45,7.2,M van Lingen,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+46,7.3,M van Lingen,ZE Green,Kaleemullah,3,0,null,3,0,null,null
+47,7.4,ZE Green,M van Lingen,Kaleemullah,0,0,null,0,0,null,null
+48,7.5,ZE Green,M van Lingen,Kaleemullah,0,0,null,0,0,null,null
+49,7.6,ZE Green,M van Lingen,Kaleemullah,0,0,null,0,0,null,null
+50,8.1,M van Lingen,ZE Green,Bilal Khan,0,0,null,0,0,null,null
+51,8.2,M van Lingen,ZE Green,Bilal Khan,0,0,null,0,0,null,null
+52,8.3,M van Lingen,ZE Green,Bilal Khan,0,0,null,0,0,null,null
+53,8.4,M van Lingen,ZE Green,Bilal Khan,1,0,null,1,0,null,null
+54,8.5,ZE Green,M van Lingen,Bilal Khan,2,0,null,2,0,null,null
+55,8.6,ZE Green,M van Lingen,Bilal Khan,0,0,null,0,0,null,null
+56,9.1,M van Lingen,ZE Green,Kaleemullah,0,0,null,0,0,null,null
+57,9.2,M van Lingen,ZE Green,Kaleemullah,1,0,null,1,0,null,null
+58,9.3,ZE Green,M van Lingen,Kaleemullah,4,0,null,4,0,null,null
+59,9.4,ZE Green,M van Lingen,Kaleemullah,0,0,null,0,0,null,null
+60,9.5,ZE Green,M van Lingen,Kaleemullah,1,0,null,1,0,null,null
+61,9.6,M van Lingen,ZE Green,Kaleemullah,2,0,null,2,0,null,null
+62,10.1,ZE Green,M van Lingen,Aqib Ilyas,1,0,null,1,0,null,null
+63,10.2,M van Lingen,ZE Green,Aqib Ilyas,1,0,null,1,0,null,null
+64,10.3,ZE Green,M van Lingen,Aqib Ilyas,1,0,null,1,0,null,null
+65,10.4,M van Lingen,ZE Green,Aqib Ilyas,0,0,null,0,0,null,null
+66,10.5,M van Lingen,ZE Green,Aqib Ilyas,6,0,null,6,0,null,null
+67,10.6,M van Lingen,ZE Green,Aqib Ilyas,0,0,null,0,0,null,null
+68,11.1,ZE Green,M van Lingen,Mohammad Nadeem,1,0,null,1,0,null,null
+69,11.2,M van Lingen,ZE Green,Mohammad Nadeem,2,0,null,2,0,null,null
+70,11.3,M van Lingen,ZE Green,Mohammad Nadeem,0,0,null,0,0,null,null
+71,11.4,M van Lingen,ZE Green,Mohammad Nadeem,1,0,null,1,0,null,null
+72,11.5,ZE Green,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+73,11.6,ZE Green,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+74,12.1,M van Lingen,ZE Green,Aqib Ilyas,1,0,null,1,0,null,null
+75,12.2,ZE Green,M van Lingen,Aqib Ilyas,1,0,null,1,0,null,null
+76,12.3,M van Lingen,ZE Green,Aqib Ilyas,1,0,null,1,0,null,null
+77,12.4,ZE Green,M van Lingen,Aqib Ilyas,2,0,null,2,0,null,null
+78,12.5,ZE Green,M van Lingen,Aqib Ilyas,1,0,null,1,0,null,null
+79,12.6,M van Lingen,ZE Green,Aqib Ilyas,0,0,null,0,0,null,null
+80,13.1,ZE Green,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+81,13.2,ZE Green,M van Lingen,Mohammad Nadeem,4,0,null,4,0,null,null
+82,13.3,ZE Green,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+83,13.4,ZE Green,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+84,13.5,ZE Green,M van Lingen,Mohammad Nadeem,3,0,null,3,0,null,null
+85,13.6,M van Lingen,ZE Green,Mohammad Nadeem,0,0,null,0,0,null,null
+86,14.1,ZE Green,M van Lingen,Aqib Ilyas,0,0,null,0,0,null,null
+87,14.2,ZE Green,M van Lingen,Aqib Ilyas,2,0,null,2,0,null,null
+88,14.3,ZE Green,M van Lingen,Aqib Ilyas,0,0,null,0,0,null,null
+89,14.4,ZE Green,M van Lingen,Aqib Ilyas,1,0,null,1,0,null,null
+90,14.5,M van Lingen,ZE Green,Aqib Ilyas,2,0,null,2,0,null,null
+91,14.6,M van Lingen,ZE Green,Aqib Ilyas,1,0,null,1,0,null,null
+92,15.1,M van Lingen,ZE Green,Mohammad Nadeem,2,0,null,2,0,null,null
+93,15.2,M van Lingen,ZE Green,Mohammad Nadeem,1,0,null,1,0,null,null
+94,15.3,ZE Green,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+95,15.4,ZE Green,M van Lingen,Mohammad Nadeem,0,0,null,0,1,ZE Green,bowled
+96,15.5,CG Williams,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+97,15.6,CG Williams,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+98,16.1,M van Lingen,CG Williams,Khawar Ali,0,0,null,0,0,null,null
+99,16.2,M van Lingen,CG Williams,Khawar Ali,1,0,null,1,0,null,null
+100,16.3,CG Williams,M van Lingen,Khawar Ali,1,0,null,1,0,null,null
+101,16.4,M van Lingen,CG Williams,Khawar Ali,0,0,null,0,0,null,null
+102,16.5,M van Lingen,CG Williams,Khawar Ali,1,0,null,1,0,null,null
+103,16.6,CG Williams,M van Lingen,Khawar Ali,0,0,null,0,0,null,null
+104,17.1,M van Lingen,CG Williams,Mohammad Nadeem,1,0,null,1,0,null,null
+105,17.2,CG Williams,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+106,17.3,CG Williams,M van Lingen,Mohammad Nadeem,1,0,null,1,0,null,null
+107,17.4,M van Lingen,CG Williams,Mohammad Nadeem,0,1,wides ,1,0,null,null
+108,17.5,M van Lingen,CG Williams,Mohammad Nadeem,1,0,null,1,0,null,null
+109,17.6,CG Williams,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+110,17.7,CG Williams,M van Lingen,Mohammad Nadeem,1,0,null,1,0,null,null
+111,18.1,CG Williams,M van Lingen,Khawar Ali,0,0,null,0,0,null,null
+112,18.2,CG Williams,M van Lingen,Khawar Ali,0,0,null,0,0,null,null
+113,18.3,CG Williams,M van Lingen,Khawar Ali,0,0,null,0,0,null,null
+114,18.4,CG Williams,M van Lingen,Khawar Ali,0,0,null,0,0,null,null
+115,18.5,CG Williams,M van Lingen,Khawar Ali,2,0,null,2,0,null,null
+116,18.6,CG Williams,M van Lingen,Khawar Ali,1,0,null,1,0,null,null
+117,19.1,CG Williams,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+118,19.2,CG Williams,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+119,19.3,CG Williams,M van Lingen,Mohammad Nadeem,4,0,null,4,0,null,null
+120,19.4,CG Williams,M van Lingen,Mohammad Nadeem,0,0,null,0,0,null,null
+121,19.5,CG Williams,M van Lingen,Mohammad Nadeem,1,0,null,1,0,null,null
+122,19.6,M van Lingen,CG Williams,Mohammad Nadeem,0,0,null,0,0,null,null
+123,20.1,CG Williams,M van Lingen,Khawar Ali,4,0,null,4,0,null,null
+124,20.2,CG Williams,M van Lingen,Khawar Ali,1,0,null,1,0,null,null
+125,20.3,M van Lingen,CG Williams,Khawar Ali,2,0,null,2,0,null,null
+126,20.4,M van Lingen,CG Williams,Khawar Ali,1,0,null,1,0,null,null
+127,20.5,CG Williams,M van Lingen,Khawar Ali,4,0,null,4,0,null,null
+128,20.6,CG Williams,M van Lingen,Khawar Ali,0,0,null,0,0,null,null
+129,21.1,M van Lingen,CG Williams,Zeeshan Maqsood,6,0,null,6,0,null,null
+130,21.2,M van Lingen,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+131,21.3,M van Lingen,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+132,21.4,M van Lingen,CG Williams,Zeeshan Maqsood,0,1,wides ,1,0,null,null
+133,21.5,M van Lingen,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+134,21.6,M van Lingen,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+135,21.7,M van Lingen,CG Williams,Zeeshan Maqsood,1,0,null,1,0,null,null
+136,22.1,M van Lingen,CG Williams,Aqib Ilyas,0,0,null,0,0,null,null
+137,22.2,M van Lingen,CG Williams,Aqib Ilyas,0,0,null,0,0,null,null
+138,22.3,M van Lingen,CG Williams,Aqib Ilyas,2,0,null,2,0,null,null
+139,22.4,M van Lingen,CG Williams,Aqib Ilyas,1,0,null,1,0,null,null
+140,22.5,CG Williams,M van Lingen,Aqib Ilyas,0,0,null,0,0,null,null
+141,22.6,CG Williams,M van Lingen,Aqib Ilyas,4,0,null,4,0,null,null
+142,23.1,M van Lingen,CG Williams,Khawar Ali,2,0,null,2,0,null,null
+143,23.2,M van Lingen,CG Williams,Khawar Ali,4,0,null,4,0,null,null
+144,23.3,M van Lingen,CG Williams,Khawar Ali,0,0,null,0,1,M van Lingen,stumped
+145,23.4,K Birkenstock,CG Williams,Khawar Ali,0,0,null,0,0,null,null
+146,23.5,K Birkenstock,CG Williams,Khawar Ali,0,0,null,0,0,null,null
+147,23.6,K Birkenstock,CG Williams,Khawar Ali,1,0,null,1,0,null,null
+148,24.1,K Birkenstock,CG Williams,Zeeshan Maqsood,0,0,null,0,1,K Birkenstock,bowled
+149,24.2,MD du Preez,CG Williams,Zeeshan Maqsood,1,0,null,1,0,null,null
+150,24.3,CG Williams,MD du Preez,Zeeshan Maqsood,1,0,null,1,0,null,null
+151,24.4,MD du Preez,CG Williams,Zeeshan Maqsood,1,0,null,1,0,null,null
+152,24.5,CG Williams,MD du Preez,Zeeshan Maqsood,0,0,null,0,0,null,null
+153,24.6,CG Williams,MD du Preez,Zeeshan Maqsood,4,0,null,4,0,null,null
+154,25.1,MD du Preez,CG Williams,Khawar Ali,1,0,null,1,0,null,null
+155,25.2,CG Williams,MD du Preez,Khawar Ali,1,0,null,1,0,null,null
+156,25.3,MD du Preez,CG Williams,Khawar Ali,0,0,null,0,0,null,null
+157,25.4,MD du Preez,CG Williams,Khawar Ali,0,0,null,0,0,null,null
+158,25.5,MD du Preez,CG Williams,Khawar Ali,0,0,null,0,0,null,null
+159,25.6,MD du Preez,CG Williams,Khawar Ali,1,0,null,1,0,null,null
+160,26.1,MD du Preez,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+161,26.2,MD du Preez,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+162,26.3,MD du Preez,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+163,26.4,MD du Preez,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+164,26.5,MD du Preez,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+165,26.6,MD du Preez,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+166,27.1,CG Williams,MD du Preez,Khawar Ali,1,0,null,1,0,null,null
+167,27.2,MD du Preez,CG Williams,Khawar Ali,0,0,null,0,1,MD du Preez,caught
+168,27.3,JJ Smit,CG Williams,Khawar Ali,0,0,null,0,0,null,null
+169,27.4,JJ Smit,CG Williams,Khawar Ali,6,0,null,6,0,null,null
+170,27.5,JJ Smit,CG Williams,Khawar Ali,1,0,null,1,0,null,null
+171,27.6,CG Williams,JJ Smit,Khawar Ali,0,0,null,0,0,null,null
+172,28.1,JJ Smit,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+173,28.2,JJ Smit,CG Williams,Zeeshan Maqsood,1,0,null,1,0,null,null
+174,28.3,CG Williams,JJ Smit,Zeeshan Maqsood,1,0,null,1,0,null,null
+175,28.4,JJ Smit,CG Williams,Zeeshan Maqsood,1,0,null,1,0,null,null
+176,28.5,CG Williams,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+177,28.6,CG Williams,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+178,29.1,JJ Smit,CG Williams,Khawar Ali,0,0,null,0,0,null,null
+179,29.2,JJ Smit,CG Williams,Khawar Ali,1,0,null,1,0,null,null
+180,29.3,CG Williams,JJ Smit,Khawar Ali,0,0,null,0,0,null,null
+181,29.4,CG Williams,JJ Smit,Khawar Ali,0,0,null,0,0,null,null
+182,29.5,CG Williams,JJ Smit,Khawar Ali,2,0,null,2,0,null,null
+183,29.6,CG Williams,JJ Smit,Khawar Ali,1,0,null,1,0,null,null
+184,30.1,CG Williams,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+185,30.2,CG Williams,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+186,30.3,CG Williams,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+187,30.4,CG Williams,JJ Smit,Zeeshan Maqsood,1,0,null,1,0,null,null
+188,30.5,JJ Smit,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+189,30.6,JJ Smit,CG Williams,Zeeshan Maqsood,0,0,null,0,0,null,null
+190,31.1,CG Williams,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+191,31.2,CG Williams,JJ Smit,Ayan Khan,1,0,null,1,0,null,null
+192,31.3,JJ Smit,CG Williams,Ayan Khan,0,0,null,0,0,null,null
+193,31.4,JJ Smit,CG Williams,Ayan Khan,0,0,null,0,0,null,null
+194,31.5,JJ Smit,CG Williams,Ayan Khan,1,0,null,1,0,null,null
+195,31.6,CG Williams,JJ Smit,Ayan Khan,0,0,null,0,1,CG Williams,caught
+196,32.1,JJ Smit,JN Frylinck,Zeeshan Maqsood,0,0,null,0,0,null,null
+197,32.2,JJ Smit,JN Frylinck,Zeeshan Maqsood,0,0,null,0,0,null,null
+198,32.3,JJ Smit,JN Frylinck,Zeeshan Maqsood,2,0,null,2,0,null,null
+199,32.4,JJ Smit,JN Frylinck,Zeeshan Maqsood,0,0,null,0,0,null,null
+200,32.5,JJ Smit,JN Frylinck,Zeeshan Maqsood,0,0,null,0,0,null,null
+201,32.6,JJ Smit,JN Frylinck,Zeeshan Maqsood,1,0,null,1,0,null,null
+202,33.1,JJ Smit,JN Frylinck,Ayan Khan,0,0,null,0,0,null,null
+203,33.2,JJ Smit,JN Frylinck,Ayan Khan,1,0,null,1,0,null,null
+204,33.3,JN Frylinck,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+205,33.4,JN Frylinck,JJ Smit,Ayan Khan,2,0,null,2,0,null,null
+206,33.5,JN Frylinck,JJ Smit,Ayan Khan,1,0,null,1,0,null,null
+207,33.6,JJ Smit,JN Frylinck,Ayan Khan,0,0,null,0,0,null,null
+208,34.1,JN Frylinck,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+209,34.2,JN Frylinck,JJ Smit,Zeeshan Maqsood,0,0,null,0,1,JN Frylinck,bowled
+210,34.3,HN Ya France,JJ Smit,Zeeshan Maqsood,0,0,null,0,1,HN Ya France,caught
+211,34.4,R Trumpelmann,JJ Smit,Zeeshan Maqsood,2,0,null,2,0,null,null
+212,34.5,R Trumpelmann,JJ Smit,Zeeshan Maqsood,1,0,null,1,0,null,null
+213,34.6,JJ Smit,R Trumpelmann,Zeeshan Maqsood,0,0,null,0,0,null,null
+214,35.1,R Trumpelmann,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+215,35.2,R Trumpelmann,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+216,35.3,R Trumpelmann,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+217,35.4,R Trumpelmann,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+218,35.5,R Trumpelmann,JJ Smit,Ayan Khan,1,0,null,1,0,null,null
+219,35.6,JJ Smit,R Trumpelmann,Ayan Khan,0,0,null,0,0,null,null
+220,36.1,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+221,36.2,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+222,36.3,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+223,36.4,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+224,36.5,R Trumpelmann,JJ Smit,Zeeshan Maqsood,1,0,null,1,0,null,null
+225,36.6,JJ Smit,R Trumpelmann,Zeeshan Maqsood,0,0,null,0,0,null,null
+226,37.1,R Trumpelmann,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+227,37.2,R Trumpelmann,JJ Smit,Ayan Khan,4,0,null,4,0,null,null
+228,37.3,R Trumpelmann,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+229,37.4,R Trumpelmann,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+230,37.5,R Trumpelmann,JJ Smit,Ayan Khan,1,0,null,1,0,null,null
+231,37.6,JJ Smit,R Trumpelmann,Ayan Khan,0,0,null,0,0,null,null
+232,38.1,R Trumpelmann,JJ Smit,Zeeshan Maqsood,1,0,null,1,0,null,null
+233,38.2,JJ Smit,R Trumpelmann,Zeeshan Maqsood,0,0,null,0,0,null,null
+234,38.3,JJ Smit,R Trumpelmann,Zeeshan Maqsood,1,0,null,1,0,null,null
+235,38.4,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+236,38.5,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+237,38.6,R Trumpelmann,JJ Smit,Zeeshan Maqsood,2,0,null,2,0,null,null
+238,39.1,JJ Smit,R Trumpelmann,Bilal Khan,1,0,null,1,0,null,null
+239,39.2,R Trumpelmann,JJ Smit,Bilal Khan,1,0,null,1,0,null,null
+240,39.3,JJ Smit,R Trumpelmann,Bilal Khan,0,0,null,0,0,null,null
+241,39.4,JJ Smit,R Trumpelmann,Bilal Khan,2,0,null,2,0,null,null
+242,39.5,JJ Smit,R Trumpelmann,Bilal Khan,0,1,wides ,1,0,null,null
+243,39.6,JJ Smit,R Trumpelmann,Bilal Khan,0,0,null,0,0,null,null
+244,39.7,JJ Smit,R Trumpelmann,Bilal Khan,0,0,null,0,0,null,null
+245,40.1,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+246,40.2,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+247,40.3,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+248,40.4,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+249,40.5,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+250,40.6,R Trumpelmann,JJ Smit,Zeeshan Maqsood,0,0,null,0,0,null,null
+251,41.1,JJ Smit,R Trumpelmann,Ayan Khan,1,0,null,1,0,null,null
+252,41.2,R Trumpelmann,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+253,41.3,R Trumpelmann,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+254,41.4,R Trumpelmann,JJ Smit,Ayan Khan,1,0,null,1,0,null,null
+255,41.5,JJ Smit,R Trumpelmann,Ayan Khan,1,0,null,1,0,null,null
+256,41.6,R Trumpelmann,JJ Smit,Ayan Khan,0,0,null,0,0,null,null
+257,42.1,JJ Smit,R Trumpelmann,Bilal Khan,0,0,null,0,0,null,null
+258,42.2,JJ Smit,R Trumpelmann,Bilal Khan,0,0,null,0,0,null,null
+259,42.3,JJ Smit,R Trumpelmann,Bilal Khan,1,0,null,1,0,null,null
+260,42.4,R Trumpelmann,JJ Smit,Bilal Khan,0,0,null,0,0,null,null
+261,42.5,R Trumpelmann,JJ Smit,Bilal Khan,0,0,null,0,0,null,null
+262,42.6,R Trumpelmann,JJ Smit,Bilal Khan,1,0,null,1,0,null,null
+263,43.1,R Trumpelmann,JJ Smit,Khawar Ali,1,0,null,1,0,null,null
+264,43.2,JJ Smit,R Trumpelmann,Khawar Ali,0,0,null,0,0,null,null
+265,43.3,JJ Smit,R Trumpelmann,Khawar Ali,1,0,null,1,0,null,null
+266,43.4,R Trumpelmann,JJ Smit,Khawar Ali,2,0,null,2,0,null,null
+267,43.5,R Trumpelmann,JJ Smit,Khawar Ali,0,0,null,0,0,null,null
+268,43.6,R Trumpelmann,JJ Smit,Khawar Ali,1,0,null,1,0,null,null
+269,44.1,R Trumpelmann,JJ Smit,Bilal Khan,1,0,null,1,0,null,null
+270,44.2,JJ Smit,R Trumpelmann,Bilal Khan,1,0,null,1,0,null,null
+271,44.3,R Trumpelmann,JJ Smit,Bilal Khan,0,0,null,0,0,null,null
+272,44.4,R Trumpelmann,JJ Smit,Bilal Khan,0,0,null,0,0,null,null
+273,44.5,R Trumpelmann,JJ Smit,Bilal Khan,0,0,null,0,0,null,null
+274,44.6,R Trumpelmann,JJ Smit,Bilal Khan,0,0,null,0,0,null,null
+275,45.1,JJ Smit,R Trumpelmann,Ayan Khan,0,0,null,0,0,null,null
+276,45.2,JJ Smit,R Trumpelmann,Ayan Khan,6,0,null,6,0,null,null
+277,45.3,JJ Smit,R Trumpelmann,Ayan Khan,1,0,null,1,0,null,null
+278,45.4,R Trumpelmann,JJ Smit,Ayan Khan,1,0,null,1,0,null,null
+279,45.5,JJ Smit,R Trumpelmann,Ayan Khan,0,0,null,0,0,null,null
+280,45.6,JJ Smit,R Trumpelmann,Ayan Khan,0,0,null,0,0,null,null
+281,46.1,R Trumpelmann,JJ Smit,Mohammad Nadeem,0,0,null,0,1,R Trumpelmann,bowled
+282,46.2,BM Scholtz,JJ Smit,Mohammad Nadeem,0,0,null,0,0,null,null
+283,46.3,BM Scholtz,JJ Smit,Mohammad Nadeem,0,0,null,0,0,null,null
+284,46.4,BM Scholtz,JJ Smit,Mohammad Nadeem,0,0,null,0,0,null,null
+285,46.5,BM Scholtz,JJ Smit,Mohammad Nadeem,1,0,null,1,0,null,null
+286,46.6,JJ Smit,BM Scholtz,Mohammad Nadeem,1,0,null,1,0,null,null
+287,47.1,JJ Smit,BM Scholtz,Bilal Khan,1,0,null,1,0,null,null
+288,47.2,BM Scholtz,JJ Smit,Bilal Khan,0,0,null,0,0,null,null
+289,47.3,BM Scholtz,JJ Smit,Bilal Khan,1,0,null,1,0,null,null
+290,47.4,JJ Smit,BM Scholtz,Bilal Khan,1,0,null,1,0,null,null
+291,47.5,BM Scholtz,JJ Smit,Bilal Khan,0,0,null,0,0,null,null
+292,47.6,BM Scholtz,JJ Smit,Bilal Khan,0,0,null,0,0,null,null
+293,48.1,JJ Smit,BM Scholtz,Mohammad Nadeem,0,0,null,0,0,null,null
+294,48.2,JJ Smit,BM Scholtz,Mohammad Nadeem,6,0,null,6,0,null,null
+295,48.3,JJ Smit,BM Scholtz,Mohammad Nadeem,0,0,null,0,0,null,null
+296,48.4,JJ Smit,BM Scholtz,Mohammad Nadeem,2,0,null,2,0,null,null
+297,48.5,JJ Smit,BM Scholtz,Mohammad Nadeem,0,0,null,0,0,null,null
+298,48.6,JJ Smit,BM Scholtz,Mohammad Nadeem,6,0,null,6,0,null,null
+299,49.1,BM Scholtz,JJ Smit,Bilal Khan,1,0,null,1,0,null,null
+300,49.2,JJ Smit,BM Scholtz,Bilal Khan,0,0,null,0,0,null,null
+301,49.3,JJ Smit,BM Scholtz,Bilal Khan,0,0,null,0,0,null,null
+302,49.4,JJ Smit,BM Scholtz,Bilal Khan,4,0,null,4,0,null,null
+303,49.5,JJ Smit,BM Scholtz,Bilal Khan,4,0,null,4,0,null,null
+304,49.6,JJ Smit,BM Scholtz,Bilal Khan,0,0,null,0,1,JJ Smit,caught

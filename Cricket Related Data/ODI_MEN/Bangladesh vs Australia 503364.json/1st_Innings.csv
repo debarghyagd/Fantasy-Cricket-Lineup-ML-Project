@@ -1,0 +1,306 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tamim Iqbal,Imrul Kayes,B Lee,0,0,null,0,0,null,null
+1,0.2,Tamim Iqbal,Imrul Kayes,B Lee,0,0,null,0,0,null,null
+2,0.3,Tamim Iqbal,Imrul Kayes,B Lee,1,0,null,1,0,null,null
+3,0.4,Imrul Kayes,Tamim Iqbal,B Lee,0,4,byes ,4,0,null,null
+4,0.5,Imrul Kayes,Tamim Iqbal,B Lee,0,0,null,0,0,null,null
+5,0.6,Imrul Kayes,Tamim Iqbal,B Lee,0,0,null,0,0,null,null
+6,1.1,Tamim Iqbal,Imrul Kayes,MG Johnson,0,0,null,0,0,null,null
+7,1.2,Tamim Iqbal,Imrul Kayes,MG Johnson,0,0,null,0,0,null,null
+8,1.3,Tamim Iqbal,Imrul Kayes,MG Johnson,4,0,null,4,0,null,null
+9,1.4,Tamim Iqbal,Imrul Kayes,MG Johnson,0,0,null,0,1,Tamim Iqbal,caught
+10,1.5,Shahriar Nafees,Imrul Kayes,MG Johnson,1,0,null,1,0,null,null
+11,1.6,Imrul Kayes,Shahriar Nafees,MG Johnson,1,0,null,1,0,null,null
+12,2.1,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+13,2.2,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+14,2.3,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+15,2.4,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+16,2.5,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+17,2.6,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+18,3.1,Shahriar Nafees,Imrul Kayes,MG Johnson,4,0,null,4,0,null,null
+19,3.2,Shahriar Nafees,Imrul Kayes,MG Johnson,1,0,null,1,0,null,null
+20,3.3,Imrul Kayes,Shahriar Nafees,MG Johnson,0,0,null,0,0,null,null
+21,3.4,Imrul Kayes,Shahriar Nafees,MG Johnson,0,0,null,0,0,null,null
+22,3.5,Imrul Kayes,Shahriar Nafees,MG Johnson,0,0,null,0,0,null,null
+23,3.6,Imrul Kayes,Shahriar Nafees,MG Johnson,0,0,null,0,0,null,null
+24,4.1,Shahriar Nafees,Imrul Kayes,B Lee,1,0,null,1,0,null,null
+25,4.2,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+26,4.3,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+27,4.4,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+28,4.5,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+29,4.6,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+30,5.1,Shahriar Nafees,Imrul Kayes,JW Hastings,0,0,null,0,0,null,null
+31,5.2,Shahriar Nafees,Imrul Kayes,JW Hastings,0,0,null,0,0,null,null
+32,5.3,Shahriar Nafees,Imrul Kayes,JW Hastings,0,0,null,0,0,null,null
+33,5.4,Shahriar Nafees,Imrul Kayes,JW Hastings,0,0,null,0,0,null,null
+34,5.5,Shahriar Nafees,Imrul Kayes,JW Hastings,1,0,null,1,0,null,null
+35,5.6,Imrul Kayes,Shahriar Nafees,JW Hastings,0,0,null,0,0,null,null
+36,6.1,Shahriar Nafees,Imrul Kayes,B Lee,0,0,null,0,0,null,null
+37,6.2,Shahriar Nafees,Imrul Kayes,B Lee,1,0,null,1,0,null,null
+38,6.3,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+39,6.4,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+40,6.5,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+41,6.6,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+42,7.1,Shahriar Nafees,Imrul Kayes,JW Hastings,0,0,null,0,0,null,null
+43,7.2,Shahriar Nafees,Imrul Kayes,JW Hastings,1,0,null,1,0,null,null
+44,7.3,Imrul Kayes,Shahriar Nafees,JW Hastings,0,0,null,0,0,null,null
+45,7.4,Imrul Kayes,Shahriar Nafees,JW Hastings,0,0,null,0,0,null,null
+46,7.5,Imrul Kayes,Shahriar Nafees,JW Hastings,0,0,null,0,0,null,null
+47,7.6,Imrul Kayes,Shahriar Nafees,JW Hastings,1,0,null,1,0,null,null
+48,8.1,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+49,8.2,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+50,8.3,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+51,8.4,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+52,8.5,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+53,8.6,Imrul Kayes,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+54,9.1,Shahriar Nafees,Imrul Kayes,JW Hastings,1,0,null,1,0,null,null
+55,9.2,Imrul Kayes,Shahriar Nafees,JW Hastings,1,0,null,1,0,null,null
+56,9.3,Shahriar Nafees,Imrul Kayes,JW Hastings,0,0,null,0,0,null,null
+57,9.4,Shahriar Nafees,Imrul Kayes,JW Hastings,0,0,null,0,0,null,null
+58,9.5,Shahriar Nafees,Imrul Kayes,JW Hastings,1,0,null,1,0,null,null
+59,9.6,Imrul Kayes,Shahriar Nafees,JW Hastings,1,0,null,1,0,null,null
+60,10.1,Imrul Kayes,Shahriar Nafees,MG Johnson,1,0,null,1,0,null,null
+61,10.2,Shahriar Nafees,Imrul Kayes,MG Johnson,1,0,null,1,0,null,null
+62,10.3,Imrul Kayes,Shahriar Nafees,MG Johnson,0,0,null,0,0,null,null
+63,10.4,Imrul Kayes,Shahriar Nafees,MG Johnson,0,0,null,0,0,null,null
+64,10.5,Imrul Kayes,Shahriar Nafees,MG Johnson,0,0,null,0,0,null,null
+65,10.6,Imrul Kayes,Shahriar Nafees,MG Johnson,0,0,null,0,1,Imrul Kayes,caught
+66,11.1,Shahriar Nafees,Raqibul Hasan,JW Hastings,1,0,null,1,0,null,null
+67,11.2,Raqibul Hasan,Shahriar Nafees,JW Hastings,0,0,null,0,0,null,null
+68,11.3,Raqibul Hasan,Shahriar Nafees,JW Hastings,0,0,null,0,0,null,null
+69,11.4,Raqibul Hasan,Shahriar Nafees,JW Hastings,0,0,null,0,1,Raqibul Hasan,bowled
+70,11.5,Shakib Al Hasan,Shahriar Nafees,JW Hastings,0,0,null,0,0,null,null
+71,11.6,Shakib Al Hasan,Shahriar Nafees,JW Hastings,4,0,null,4,0,null,null
+72,12.1,Shahriar Nafees,Shakib Al Hasan,MG Johnson,4,0,null,4,0,null,null
+73,12.2,Shahriar Nafees,Shakib Al Hasan,MG Johnson,0,0,null,0,0,null,null
+74,12.3,Shahriar Nafees,Shakib Al Hasan,MG Johnson,0,0,null,0,0,null,null
+75,12.4,Shahriar Nafees,Shakib Al Hasan,MG Johnson,0,0,null,0,0,null,null
+76,12.5,Shahriar Nafees,Shakib Al Hasan,MG Johnson,0,0,null,0,0,null,null
+77,12.6,Shahriar Nafees,Shakib Al Hasan,MG Johnson,0,0,null,0,0,null,null
+78,13.1,Shakib Al Hasan,Shahriar Nafees,SR Watson,0,0,null,0,0,null,null
+79,13.2,Shakib Al Hasan,Shahriar Nafees,SR Watson,0,0,null,0,0,null,null
+80,13.3,Shakib Al Hasan,Shahriar Nafees,SR Watson,0,0,null,0,0,null,null
+81,13.4,Shakib Al Hasan,Shahriar Nafees,SR Watson,0,0,null,0,0,null,null
+82,13.5,Shakib Al Hasan,Shahriar Nafees,SR Watson,1,0,null,1,0,null,null
+83,13.6,Shahriar Nafees,Shakib Al Hasan,SR Watson,1,0,null,1,0,null,null
+84,14.1,Shahriar Nafees,Shakib Al Hasan,MG Johnson,4,0,null,4,0,null,null
+85,14.2,Shahriar Nafees,Shakib Al Hasan,MG Johnson,1,0,null,1,0,null,null
+86,14.3,Shakib Al Hasan,Shahriar Nafees,MG Johnson,0,0,null,0,0,null,null
+87,14.4,Shakib Al Hasan,Shahriar Nafees,MG Johnson,0,0,null,0,0,null,null
+88,14.5,Shakib Al Hasan,Shahriar Nafees,MG Johnson,0,0,null,0,0,null,null
+89,14.6,Shakib Al Hasan,Shahriar Nafees,MG Johnson,0,0,null,0,0,null,null
+90,15.1,Shahriar Nafees,Shakib Al Hasan,SR Watson,2,0,null,2,0,null,null
+91,15.2,Shahriar Nafees,Shakib Al Hasan,SR Watson,0,0,null,0,0,null,null
+92,15.3,Shahriar Nafees,Shakib Al Hasan,SR Watson,0,0,null,0,0,null,null
+93,15.4,Shahriar Nafees,Shakib Al Hasan,SR Watson,0,0,null,0,0,null,null
+94,15.5,Shahriar Nafees,Shakib Al Hasan,SR Watson,0,0,null,0,0,null,null
+95,15.6,Shahriar Nafees,Shakib Al Hasan,SR Watson,0,0,null,0,0,null,null
+96,16.1,Shakib Al Hasan,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+97,16.2,Shakib Al Hasan,Shahriar Nafees,B Lee,1,0,null,1,0,null,null
+98,16.3,Shahriar Nafees,Shakib Al Hasan,B Lee,0,0,null,0,0,null,null
+99,16.4,Shahriar Nafees,Shakib Al Hasan,B Lee,0,0,null,0,0,null,null
+100,16.5,Shahriar Nafees,Shakib Al Hasan,B Lee,1,0,null,1,0,null,null
+101,16.6,Shakib Al Hasan,Shahriar Nafees,B Lee,0,0,null,0,0,null,null
+102,17.1,Shahriar Nafees,Shakib Al Hasan,SR Watson,1,0,null,1,0,null,null
+103,17.2,Shakib Al Hasan,Shahriar Nafees,SR Watson,0,0,null,0,0,null,null
+104,17.3,Shakib Al Hasan,Shahriar Nafees,SR Watson,0,0,null,0,0,null,null
+105,17.4,Shakib Al Hasan,Shahriar Nafees,SR Watson,0,0,null,0,0,null,null
+106,17.5,Shakib Al Hasan,Shahriar Nafees,SR Watson,0,0,null,0,0,null,null
+107,17.6,Shakib Al Hasan,Shahriar Nafees,SR Watson,0,0,null,0,0,null,null
+108,18.1,Shahriar Nafees,Shakib Al Hasan,B Lee,0,0,null,0,0,null,null
+109,18.2,Shahriar Nafees,Shakib Al Hasan,B Lee,0,0,null,0,0,null,null
+110,18.3,Shahriar Nafees,Shakib Al Hasan,B Lee,4,0,null,4,0,null,null
+111,18.4,Shahriar Nafees,Shakib Al Hasan,B Lee,1,0,null,1,0,null,null
+112,18.5,Shakib Al Hasan,Shahriar Nafees,B Lee,1,0,null,1,0,null,null
+113,18.6,Shahriar Nafees,Shakib Al Hasan,B Lee,1,0,null,1,0,null,null
+114,19.1,Shahriar Nafees,Shakib Al Hasan,SR Watson,0,0,null,0,0,null,null
+115,19.2,Shahriar Nafees,Shakib Al Hasan,SR Watson,1,0,null,1,0,null,null
+116,19.3,Shakib Al Hasan,Shahriar Nafees,SR Watson,1,0,null,1,0,null,null
+117,19.4,Shahriar Nafees,Shakib Al Hasan,SR Watson,0,0,null,0,0,null,null
+118,19.5,Shahriar Nafees,Shakib Al Hasan,SR Watson,4,0,null,4,0,null,null
+119,19.6,Shahriar Nafees,Shakib Al Hasan,SR Watson,1,0,null,1,0,null,null
+120,20.1,Shahriar Nafees,Shakib Al Hasan,SPD Smith,1,0,null,1,0,null,null
+121,20.2,Shakib Al Hasan,Shahriar Nafees,SPD Smith,1,0,null,1,0,null,null
+122,20.3,Shahriar Nafees,Shakib Al Hasan,SPD Smith,0,0,null,0,0,null,null
+123,20.4,Shahriar Nafees,Shakib Al Hasan,SPD Smith,1,0,null,1,0,null,null
+124,20.5,Shakib Al Hasan,Shahriar Nafees,SPD Smith,0,0,null,0,1,Shakib Al Hasan,bowled
+125,20.6,Mushfiqur Rahim,Shahriar Nafees,SPD Smith,1,0,null,1,0,null,null
+126,21.1,Mushfiqur Rahim,Shahriar Nafees,XJ Doherty,0,0,null,0,0,null,null
+127,21.2,Mushfiqur Rahim,Shahriar Nafees,XJ Doherty,0,0,null,0,0,null,null
+128,21.3,Mushfiqur Rahim,Shahriar Nafees,XJ Doherty,0,0,null,0,0,null,null
+129,21.4,Mushfiqur Rahim,Shahriar Nafees,XJ Doherty,1,0,null,1,0,null,null
+130,21.5,Shahriar Nafees,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+131,21.6,Shahriar Nafees,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+132,22.1,Mushfiqur Rahim,Shahriar Nafees,SPD Smith,2,0,null,2,0,null,null
+133,22.2,Mushfiqur Rahim,Shahriar Nafees,SPD Smith,0,0,null,0,0,null,null
+134,22.3,Mushfiqur Rahim,Shahriar Nafees,SPD Smith,1,0,null,1,0,null,null
+135,22.4,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,0,0,null,0,0,null,null
+136,22.5,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,0,0,null,0,0,null,null
+137,22.6,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,1,0,null,1,0,null,null
+138,23.1,Shahriar Nafees,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+139,23.2,Shahriar Nafees,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+140,23.3,Mushfiqur Rahim,Shahriar Nafees,XJ Doherty,0,0,null,0,0,null,null
+141,23.4,Mushfiqur Rahim,Shahriar Nafees,XJ Doherty,0,0,null,0,0,null,null
+142,23.5,Mushfiqur Rahim,Shahriar Nafees,XJ Doherty,1,0,null,1,0,null,null
+143,23.6,Shahriar Nafees,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+144,24.1,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,1,0,null,1,0,null,null
+145,24.2,Mushfiqur Rahim,Shahriar Nafees,SPD Smith,1,0,null,1,0,null,null
+146,24.3,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,0,0,null,0,0,null,null
+147,24.4,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,0,0,null,0,0,null,null
+148,24.5,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,0,0,null,0,0,null,null
+149,24.6,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,1,0,null,1,0,null,null
+150,25.1,Shahriar Nafees,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+151,25.2,Shahriar Nafees,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+152,25.3,Shahriar Nafees,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+153,25.4,Shahriar Nafees,Mushfiqur Rahim,XJ Doherty,4,0,null,4,0,null,null
+154,25.5,Shahriar Nafees,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+155,25.6,Mushfiqur Rahim,Shahriar Nafees,XJ Doherty,1,0,null,1,0,null,null
+156,26.1,Mushfiqur Rahim,Shahriar Nafees,SPD Smith,0,0,null,0,0,null,null
+157,26.2,Mushfiqur Rahim,Shahriar Nafees,SPD Smith,1,0,null,1,0,null,null
+158,26.3,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,0,0,null,0,0,null,null
+159,26.4,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,2,0,null,2,0,null,null
+160,26.5,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,2,0,null,2,0,null,null
+161,26.6,Shahriar Nafees,Mushfiqur Rahim,SPD Smith,0,0,null,0,1,Shahriar Nafees,caught and bowled
+162,27.1,Mushfiqur Rahim,Mahmudullah,XJ Doherty,0,0,null,0,0,null,null
+163,27.2,Mushfiqur Rahim,Mahmudullah,XJ Doherty,1,0,null,1,0,null,null
+164,27.3,Mahmudullah,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+165,27.4,Mushfiqur Rahim,Mahmudullah,XJ Doherty,0,0,null,0,0,null,null
+166,27.5,Mushfiqur Rahim,Mahmudullah,XJ Doherty,2,0,null,2,0,null,null
+167,27.6,Mushfiqur Rahim,Mahmudullah,XJ Doherty,0,0,null,0,0,null,null
+168,28.1,Mahmudullah,Mushfiqur Rahim,SPD Smith,0,0,null,0,0,null,null
+169,28.2,Mahmudullah,Mushfiqur Rahim,SPD Smith,0,0,null,0,0,null,null
+170,28.3,Mahmudullah,Mushfiqur Rahim,SPD Smith,1,0,null,1,0,null,null
+171,28.4,Mushfiqur Rahim,Mahmudullah,SPD Smith,2,0,null,2,0,null,null
+172,28.5,Mushfiqur Rahim,Mahmudullah,SPD Smith,1,0,null,1,0,null,null
+173,28.6,Mahmudullah,Mushfiqur Rahim,SPD Smith,0,0,null,0,0,null,null
+174,29.1,Mushfiqur Rahim,Mahmudullah,XJ Doherty,0,0,null,0,0,null,null
+175,29.2,Mushfiqur Rahim,Mahmudullah,XJ Doherty,0,1,legbyes ,1,0,null,null
+176,29.3,Mahmudullah,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+177,29.4,Mahmudullah,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+178,29.5,Mahmudullah,Mushfiqur Rahim,XJ Doherty,2,0,null,2,0,null,null
+179,29.6,Mahmudullah,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+180,30.1,Mahmudullah,Mushfiqur Rahim,SPD Smith,1,0,null,1,0,null,null
+181,30.2,Mushfiqur Rahim,Mahmudullah,SPD Smith,0,0,null,0,0,null,null
+182,30.3,Mushfiqur Rahim,Mahmudullah,SPD Smith,0,0,null,0,0,null,null
+183,30.4,Mushfiqur Rahim,Mahmudullah,SPD Smith,4,0,null,4,0,null,null
+184,30.5,Mushfiqur Rahim,Mahmudullah,SPD Smith,1,0,null,1,0,null,null
+185,30.6,Mahmudullah,Mushfiqur Rahim,SPD Smith,0,0,null,0,0,null,null
+186,31.1,Mushfiqur Rahim,Mahmudullah,XJ Doherty,1,0,null,1,0,null,null
+187,31.2,Mahmudullah,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+188,31.3,Mahmudullah,Mushfiqur Rahim,XJ Doherty,4,0,null,4,0,null,null
+189,31.4,Mahmudullah,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+190,31.5,Mahmudullah,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+191,31.6,Mahmudullah,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+192,32.1,Mahmudullah,Mushfiqur Rahim,SPD Smith,0,0,null,0,0,null,null
+193,32.2,Mahmudullah,Mushfiqur Rahim,SPD Smith,1,0,null,1,0,null,null
+194,32.3,Mushfiqur Rahim,Mahmudullah,SPD Smith,4,0,null,4,0,null,null
+195,32.4,Mushfiqur Rahim,Mahmudullah,SPD Smith,0,0,null,0,0,null,null
+196,32.5,Mushfiqur Rahim,Mahmudullah,SPD Smith,1,0,null,1,0,null,null
+197,32.6,Mahmudullah,Mushfiqur Rahim,SPD Smith,0,1,wides ,1,0,null,null
+198,32.7,Mahmudullah,Mushfiqur Rahim,SPD Smith,1,0,null,1,0,null,null
+199,33.1,Mahmudullah,Mushfiqur Rahim,XJ Doherty,2,0,null,2,0,null,null
+200,33.2,Mahmudullah,Mushfiqur Rahim,XJ Doherty,4,0,null,4,0,null,null
+201,33.3,Mahmudullah,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+202,33.4,Mahmudullah,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+203,33.5,Mushfiqur Rahim,Mahmudullah,XJ Doherty,0,0,null,0,0,null,null
+204,33.6,Mushfiqur Rahim,Mahmudullah,XJ Doherty,0,0,null,0,0,null,null
+205,34.1,Mahmudullah,Mushfiqur Rahim,MG Johnson,0,1,wides ,1,0,null,null
+206,34.2,Mahmudullah,Mushfiqur Rahim,MG Johnson,0,1,wides ,1,0,null,null
+207,34.3,Mahmudullah,Mushfiqur Rahim,MG Johnson,1,0,null,1,0,null,null
+208,34.4,Mushfiqur Rahim,Mahmudullah,MG Johnson,1,0,null,1,0,null,null
+209,34.5,Mahmudullah,Mushfiqur Rahim,MG Johnson,0,0,null,0,0,null,null
+210,34.6,Mahmudullah,Mushfiqur Rahim,MG Johnson,0,0,null,0,0,null,null
+211,34.7,Mahmudullah,Mushfiqur Rahim,MG Johnson,2,0,null,2,0,null,null
+212,34.8,Mahmudullah,Mushfiqur Rahim,MG Johnson,0,0,null,0,0,null,null
+213,35.1,Mushfiqur Rahim,Mahmudullah,XJ Doherty,1,0,null,1,0,null,null
+214,35.2,Mahmudullah,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+215,35.3,Mushfiqur Rahim,Mahmudullah,XJ Doherty,0,0,null,0,0,null,null
+216,35.4,Mushfiqur Rahim,Mahmudullah,XJ Doherty,0,0,null,0,0,null,null
+217,35.5,Mushfiqur Rahim,Mahmudullah,XJ Doherty,1,0,null,1,0,null,null
+218,35.6,Mahmudullah,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+219,36.1,Mahmudullah,Mushfiqur Rahim,MG Johnson,0,0,null,0,0,null,null
+220,36.2,Mahmudullah,Mushfiqur Rahim,MG Johnson,0,0,null,0,0,null,null
+221,36.3,Mahmudullah,Mushfiqur Rahim,MG Johnson,1,0,null,1,0,null,null
+222,36.4,Mushfiqur Rahim,Mahmudullah,MG Johnson,1,0,null,1,0,null,null
+223,36.5,Mahmudullah,Mushfiqur Rahim,MG Johnson,0,0,null,0,0,null,null
+224,36.6,Mahmudullah,Mushfiqur Rahim,MG Johnson,1,0,null,1,0,null,null
+225,37.1,Mahmudullah,Mushfiqur Rahim,XJ Doherty,0,0,null,0,0,null,null
+226,37.2,Mahmudullah,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+227,37.3,Mushfiqur Rahim,Mahmudullah,XJ Doherty,1,0,null,1,0,null,null
+228,37.4,Mahmudullah,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+229,37.5,Mushfiqur Rahim,Mahmudullah,XJ Doherty,0,0,null,0,0,null,null
+230,37.6,Mushfiqur Rahim,Mahmudullah,XJ Doherty,1,0,null,1,0,null,null
+231,38.1,Mushfiqur Rahim,Mahmudullah,MG Johnson,0,0,null,0,0,null,null
+232,38.2,Mushfiqur Rahim,Mahmudullah,MG Johnson,0,0,null,0,0,null,null
+233,38.3,Mushfiqur Rahim,Mahmudullah,MG Johnson,0,1,noballs ,1,0,null,null
+234,38.4,Mushfiqur Rahim,Mahmudullah,MG Johnson,0,0,null,0,0,null,null
+235,38.5,Mushfiqur Rahim,Mahmudullah,MG Johnson,0,0,null,0,0,null,null
+236,38.6,Mushfiqur Rahim,Mahmudullah,MG Johnson,0,0,null,0,0,null,null
+237,38.7,Mushfiqur Rahim,Mahmudullah,MG Johnson,1,0,null,1,0,null,null
+238,39.1,Mushfiqur Rahim,Mahmudullah,XJ Doherty,1,0,null,1,0,null,null
+239,39.2,Mahmudullah,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+240,39.3,Mushfiqur Rahim,Mahmudullah,XJ Doherty,1,0,null,1,0,null,null
+241,39.4,Mahmudullah,Mushfiqur Rahim,XJ Doherty,2,0,null,2,0,null,null
+242,39.5,Mahmudullah,Mushfiqur Rahim,XJ Doherty,1,0,null,1,0,null,null
+243,39.6,Mushfiqur Rahim,Mahmudullah,XJ Doherty,0,0,null,0,0,null,null
+244,40.1,Mahmudullah,Mushfiqur Rahim,JW Hastings,1,0,null,1,0,null,null
+245,40.2,Mushfiqur Rahim,Mahmudullah,JW Hastings,1,0,null,1,0,null,null
+246,40.3,Mahmudullah,Mushfiqur Rahim,JW Hastings,1,0,null,1,0,null,null
+247,40.4,Mushfiqur Rahim,Mahmudullah,JW Hastings,0,0,null,0,0,null,null
+248,40.5,Mushfiqur Rahim,Mahmudullah,JW Hastings,1,0,null,1,0,null,null
+249,40.6,Mahmudullah,Mushfiqur Rahim,JW Hastings,0,0,null,0,0,null,null
+250,41.1,Mushfiqur Rahim,Mahmudullah,SR Watson,4,0,null,4,0,null,null
+251,41.2,Mushfiqur Rahim,Mahmudullah,SR Watson,0,0,null,0,0,null,null
+252,41.3,Mushfiqur Rahim,Mahmudullah,SR Watson,1,0,null,1,0,null,null
+253,41.4,Mahmudullah,Mushfiqur Rahim,SR Watson,1,0,null,1,0,null,null
+254,41.5,Mushfiqur Rahim,Mahmudullah,SR Watson,1,0,null,1,0,null,null
+255,41.6,Mahmudullah,Mushfiqur Rahim,SR Watson,0,0,null,0,0,null,null
+256,42.1,Mushfiqur Rahim,Mahmudullah,JW Hastings,0,0,null,0,0,null,null
+257,42.2,Mushfiqur Rahim,Mahmudullah,JW Hastings,1,0,null,1,0,null,null
+258,42.3,Mahmudullah,Mushfiqur Rahim,JW Hastings,0,0,null,0,0,null,null
+259,42.4,Mahmudullah,Mushfiqur Rahim,JW Hastings,1,0,null,1,0,null,null
+260,42.5,Mushfiqur Rahim,Mahmudullah,JW Hastings,1,0,null,1,0,null,null
+261,42.6,Mahmudullah,Mushfiqur Rahim,JW Hastings,1,0,null,1,0,null,null
+262,43.1,Mahmudullah,Mushfiqur Rahim,SR Watson,0,0,null,0,0,null,null
+263,43.2,Mahmudullah,Mushfiqur Rahim,SR Watson,0,0,null,0,1,Mahmudullah,lbw
+264,43.3,Suhrawadi Shuvo,Mushfiqur Rahim,SR Watson,1,0,null,1,0,null,null
+265,43.4,Mushfiqur Rahim,Suhrawadi Shuvo,SR Watson,1,0,null,1,0,null,null
+266,43.5,Suhrawadi Shuvo,Mushfiqur Rahim,SR Watson,0,0,null,0,0,null,null
+267,43.6,Suhrawadi Shuvo,Mushfiqur Rahim,SR Watson,0,0,null,0,0,null,null
+268,44.1,Mushfiqur Rahim,Suhrawadi Shuvo,B Lee,1,0,null,1,0,null,null
+269,44.2,Suhrawadi Shuvo,Mushfiqur Rahim,B Lee,0,0,null,0,0,null,null
+270,44.3,Suhrawadi Shuvo,Mushfiqur Rahim,B Lee,0,0,null,0,0,null,null
+271,44.4,Suhrawadi Shuvo,Mushfiqur Rahim,B Lee,0,0,null,0,0,null,null
+272,44.5,Suhrawadi Shuvo,Mushfiqur Rahim,B Lee,0,0,null,0,0,null,null
+273,44.6,Suhrawadi Shuvo,Mushfiqur Rahim,B Lee,0,0,null,0,0,null,null
+274,45.1,Mushfiqur Rahim,Suhrawadi Shuvo,SR Watson,1,0,null,1,0,null,null
+275,45.2,Suhrawadi Shuvo,Mushfiqur Rahim,SR Watson,4,0,null,4,0,null,null
+276,45.3,Suhrawadi Shuvo,Mushfiqur Rahim,SR Watson,4,0,null,4,0,null,null
+277,45.4,Suhrawadi Shuvo,Mushfiqur Rahim,SR Watson,0,0,null,0,0,null,null
+278,45.5,Suhrawadi Shuvo,Mushfiqur Rahim,SR Watson,1,0,null,1,0,null,null
+279,45.6,Mushfiqur Rahim,Suhrawadi Shuvo,SR Watson,4,0,null,4,0,null,null
+280,46.1,Suhrawadi Shuvo,Mushfiqur Rahim,B Lee,1,0,null,1,0,null,null
+281,46.2,Mushfiqur Rahim,Suhrawadi Shuvo,B Lee,1,0,null,1,0,null,null
+282,46.3,Suhrawadi Shuvo,Mushfiqur Rahim,B Lee,0,0,null,0,0,null,null
+283,46.4,Suhrawadi Shuvo,Mushfiqur Rahim,B Lee,1,0,null,1,0,null,null
+284,46.5,Mushfiqur Rahim,Suhrawadi Shuvo,B Lee,0,0,null,0,0,null,null
+285,46.6,Mushfiqur Rahim,Suhrawadi Shuvo,B Lee,4,0,null,4,0,null,null
+286,47.1,Suhrawadi Shuvo,Mushfiqur Rahim,MG Johnson,4,0,null,4,0,null,null
+287,47.2,Suhrawadi Shuvo,Mushfiqur Rahim,MG Johnson,0,0,null,0,1,Suhrawadi Shuvo,caught
+288,47.3,Shafiul Islam,Mushfiqur Rahim,MG Johnson,0,0,null,0,0,null,null
+289,47.4,Shafiul Islam,Mushfiqur Rahim,MG Johnson,4,0,null,4,0,null,null
+290,47.5,Shafiul Islam,Mushfiqur Rahim,MG Johnson,0,0,null,0,0,null,null
+291,47.6,Shafiul Islam,Mushfiqur Rahim,MG Johnson,2,0,null,2,0,null,null
+292,48.1,Mushfiqur Rahim,Shafiul Islam,B Lee,0,1,noballs ,1,0,null,null
+293,48.2,Mushfiqur Rahim,Shafiul Islam,B Lee,1,0,null,1,0,null,null
+294,48.3,Shafiul Islam,Mushfiqur Rahim,B Lee,1,0,null,1,0,null,null
+295,48.4,Mushfiqur Rahim,Shafiul Islam,B Lee,0,0,null,0,0,null,null
+296,48.5,Mushfiqur Rahim,Shafiul Islam,B Lee,4,0,null,4,0,null,null
+297,48.6,Mushfiqur Rahim,Shafiul Islam,B Lee,6,0,null,6,0,null,null
+298,48.7,Mushfiqur Rahim,Shafiul Islam,B Lee,4,0,null,4,0,null,null
+299,49.1,Shafiul Islam,Mushfiqur Rahim,MG Johnson,1,0,null,1,0,null,null
+300,49.2,Mushfiqur Rahim,Shafiul Islam,MG Johnson,4,0,null,4,0,null,null
+301,49.3,Mushfiqur Rahim,Shafiul Islam,MG Johnson,0,0,null,0,0,null,null
+302,49.4,Mushfiqur Rahim,Shafiul Islam,MG Johnson,4,0,null,4,0,null,null
+303,49.5,Mushfiqur Rahim,Shafiul Islam,MG Johnson,1,0,null,1,0,null,null
+304,49.6,Shafiul Islam,Mushfiqur Rahim,MG Johnson,1,0,null,1,0,null,null

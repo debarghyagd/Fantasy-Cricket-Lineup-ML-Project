@@ -1,0 +1,61 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1144986,Perth Stadium,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,12,25,1,0
+1,1144986,Perth Stadium,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,25,24,3,0
+2,1144986,Perth Stadium,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",0,3,9,0,0
+3,1144986,Perth Stadium,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,4,12,0,0
+4,1144986,Perth Stadium,Australia,MP Stoinis,Right-arm medium,"[0, 1, 2]",1,0,6,0,0
+5,1144987,Adelaide Oval,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",1,5,6,0,0
+6,1144987,Adelaide Oval,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",1,10,18,1,0
+7,1144987,Adelaide Oval,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,1,3,0,0
+8,1144988,Bellerive Oval,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,4,9,1,0
+9,1144988,Bellerive Oval,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,4,18,1,0
+10,1144988,Bellerive Oval,Australia,MP Stoinis,Right-arm medium,"[0, 1, 2]",1,0,1,0,0
+11,1185311,Kingsmead,England,CJ Jordan,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+12,1185311,Kingsmead,England,MW Parkinson,Right-arm legbreak,"[1, 1, 1]",0,7,9,0,0
+13,1185312,The Wanderers Stadium,England,S Mahmood,Right-arm fast-medium,"[0, 1, 1]",1,9,23,2,0
+14,1277073,"SuperSport Park, Centurion",Netherlands,FJ Klaassen,Left-arm medium,"[0, 0, 2]",1,6,10,1,0
+15,1144156,St George's Park,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",0,9,12,1,0
+16,1144156,St George's Park,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,6,6,0,0
+17,1144156,St George's Park,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,3,12,0,0
+18,1144157,Kingsmead,Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",1,0,2,0,0
+19,1144158,SuperSport Park,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,8,12,1,0
+20,1144158,SuperSport Park,Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,3,8,0,0
+21,1144158,SuperSport Park,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,17,18,2,0
+22,1144159,The Wanderers Stadium,Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",1,1,4,0,0
+23,1144159,The Wanderers Stadium,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",0,1,6,0,0
+24,1144160,Newlands,Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,1,2,0,0
+25,1144160,Newlands,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",0,0,5,0,0
+26,1144160,Newlands,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",1,20,17,3,0
+27,1142586,Pallekele International Cricket Stadium,Sri Lanka,CBRLS Kumara,Right-arm fast-medium,"[0, 1, 1]",1,16,17,2,0
+28,1142586,Pallekele International Cricket Stadium,Sri Lanka,NGRP Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,25,20,1,1
+29,1142586,Pallekele International Cricket Stadium,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,10,6,1,0
+30,1142586,Pallekele International Cricket Stadium,Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",0,21,16,2,0
+31,1144167,The Wanderers Stadium,Sri Lanka,MVT Fernando,Left-arm fast-medium,"[0, 0, 1]",1,0,1,0,0
+32,1144167,The Wanderers Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,1,3,0,0
+33,1144168,SuperSport Park,Sri Lanka,CAK Rajitha,Right-arm fast-medium,"[0, 1, 1]",0,7,13,1,0
+34,1144168,SuperSport Park,Sri Lanka,MVT Fernando,Left-arm fast-medium,"[0, 0, 1]",0,1,2,0,0
+35,1144168,SuperSport Park,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,11,14,2,0
+36,1144168,SuperSport Park,Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",0,10,12,1,0
+37,1144169,Kingsmead,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,2,4,0,0
+38,1144170,St George's Park,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",1,1,4,0,0
+39,1144170,St George's Park,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,7,12,1,0
+40,1271628,"R Premadasa Stadium, Colombo",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",0,11,14,1,0
+41,1271628,"R Premadasa Stadium, Colombo",Sri Lanka,P Jayawickrama,Left-arm orthodox,"[1, 0, 1]",0,10,7,1,0
+42,1271628,"R Premadasa Stadium, Colombo",Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",1,6,11,0,0
+43,1271628,"R Premadasa Stadium, Colombo",Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",0,5,4,1,0
+44,1271628,"R Premadasa Stadium, Colombo",Sri Lanka,MD Shanaka,Right-arm medium,"[0, 1, 2]",0,14,10,2,0
+45,1271628,"R Premadasa Stadium, Colombo",Sri Lanka,C Karunaratne,Right-arm fast-medium,"[0, 1, 1]",0,5,9,0,0
+46,1144147,Mangaung Oval,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+47,1144147,Mangaung Oval,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+48,1142587,Pallekele International Cricket Stadium,Sri Lanka,MD Shanaka,Right-arm medium,"[0, 1, 2]",1,1,2,0,0
+49,1142588,"R.Premadasa Stadium, Khettarama",Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",1,0,1,0,0
+50,1271629,"R Premadasa Stadium, Colombo",Sri Lanka,P Jayawickrama,Left-arm orthodox,"[1, 0, 1]",0,1,2,0,0
+51,1271629,"R Premadasa Stadium, Colombo",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",1,0,5,0,0
+52,1144146,Diamond Oval,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,4,1,1,0
+53,1144146,Diamond Oval,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+54,1144146,Diamond Oval,Zimbabwe,WP Masakadza,Left-arm orthodox,"[1, 0, 1]",1,0,3,0,0
+55,1144148,Boland Park,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,10,16,0,0
+56,1144148,Boland Park,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,8,6,1,0
+57,1144148,Boland Park,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,13,21,1,0
+58,1144148,Boland Park,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",1,16,16,1,1
+59,1144148,Boland Park,Zimbabwe,B Mavuta,Right-arm legbreak,"[1, 1, 1]",0,19,27,2,0

@@ -1,0 +1,5 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,911049,ICC Academy,Hong Kong,Waqas Barkat,Right-arm legbreak,"[1, 1, 1]",0,13,8,1,1
+1,911049,ICC Academy,Hong Kong,Nadeem Ahmed,Left-arm orthodox,"[1, 0, 1]",0,6,7,1,0
+2,1154649,Kinrara Academy Oval,Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",0,5,9,0,0
+3,1154649,Kinrara Academy Oval,Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",1,1,10,0,0

@@ -1,0 +1,21 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1323293,Harare Sports Club,Bangladesh,Hasan Mahmud,Right-arm medium,"[0, 1, 2]",1,0,1,0,0
+1,1323294,Harare Sports Club,Bangladesh,Hasan Mahmud,Right-arm medium,"[0, 1, 2]",1,0,6,0,0
+2,1325551,Harare Sports Club,India,Avesh Khan,Right-arm fast-medium,"[0, 1, 1]",0,11,8,1,1
+3,1325551,Harare Sports Club,India,DL Chahar,Right-arm medium,"[0, 1, 2]",0,1,8,0,0
+4,1325551,Harare Sports Club,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",1,0,2,0,0
+5,1294971,Pallekele International Cricket Stadium,Sri Lanka,JDF Vandersay,Right-arm legbreak,"[1, 1, 1]",1,0,1,0,0
+6,1294971,Pallekele International Cricket Stadium,Sri Lanka,M Theekshana,Right-arm offbreak,"[1, 1, 0]",0,6,12,0,0
+7,1294971,Pallekele International Cricket Stadium,Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,13,10,2,0
+8,1325550,Harare Sports Club,India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",0,3,2,0,0
+9,1325550,Harare Sports Club,India,Mohammed Siraj,Right-arm fast-medium,"[0, 1, 1]",1,1,15,0,0
+10,1294969,Pallekele International Cricket Stadium,Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",0,19,12,3,0
+11,1294969,Pallekele International Cricket Stadium,Sri Lanka,JDF Vandersay,Right-arm legbreak,"[1, 1, 1]",1,4,3,1,0
+12,1294969,Pallekele International Cricket Stadium,Sri Lanka,M Theekshana,Right-arm offbreak,"[1, 1, 0]",0,6,10,1,0
+13,1294969,Pallekele International Cricket Stadium,Sri Lanka,C Gunasekara,Right-arm fast-medium,"[0, 1, 1]",0,4,6,1,0
+14,1294969,Pallekele International Cricket Stadium,Sri Lanka,MD Shanaka,Right-arm medium,"[0, 1, 2]",0,7,11,1,0
+15,1294969,Pallekele International Cricket Stadium,Sri Lanka,C Karunaratne,Right-arm fast-medium,"[0, 1, 1]",0,2,10,0,0
+16,1294970,Pallekele International Cricket Stadium,Sri Lanka,JDF Vandersay,Right-arm legbreak,"[1, 1, 1]",1,0,2,0,0
+17,1294970,Pallekele International Cricket Stadium,Sri Lanka,MD Shanaka,Right-arm medium,"[0, 1, 2]",0,10,4,0,1
+18,1294970,Pallekele International Cricket Stadium,Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",0,7,7,1,0
+19,1294970,Pallekele International Cricket Stadium,Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,9,16,1,0

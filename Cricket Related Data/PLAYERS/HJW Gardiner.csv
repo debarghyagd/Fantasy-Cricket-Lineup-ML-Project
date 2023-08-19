@@ -1,0 +1,19 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,656431,University Oval,Afghanistan,Hamid Hassan,Right-arm fast,"[0, 1, 0]",1,0,5,0,0
+1,656431,University Oval,Afghanistan,Shapoor Zadran,Left-arm fast-medium,"[0, 0, 1]",0,2,5,0,0
+2,656431,University Oval,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,3,10,0,0
+3,812623,ICC Academy,Afghanistan,Hamid Hassan,Right-arm fast,"[0, 1, 0]",0,15,22,3,0
+4,812623,ICC Academy,Afghanistan,Samiullah Shenwari,Right-arm legbreak,"[1, 1, 1]",0,15,14,1,0
+5,812623,ICC Academy,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",1,12,17,2,0
+6,656451,Saxton Oval,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,8,6,2,0
+7,656451,Saxton Oval,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,6,11,1,0
+8,656451,Saxton Oval,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,4,10,0,0
+9,660837,"Civil Service Cricket Club, Stormont",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",1,4,6,0,0
+10,660837,"Civil Service Cricket Club, Stormont",Ireland,DT Johnston,Right-arm fast-medium,"[0, 1, 1]",0,2,10,0,0
+11,727935,"The Village, Malahide",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",1,2,7,0,0
+12,727937,"The Village, Malahide",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,2,11,0,0
+13,727939,"The Village, Malahide",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,15,15,2,0
+14,727939,"The Village, Malahide",Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,6,11,0,0
+15,727939,"The Village, Malahide",Ireland,J Anderson,Right-arm fast-medium,"[0, 1, 1]",0,11,10,2,0
+16,810829,Dubai International Cricket Stadium,Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,1,5,0,0
+17,656409,University Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,0,1,0,0

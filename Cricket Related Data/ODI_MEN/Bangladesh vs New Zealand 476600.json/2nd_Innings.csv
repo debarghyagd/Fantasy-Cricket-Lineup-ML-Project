@@ -1,0 +1,306 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,BB McCullum,JD Ryder,Shafiul Islam,1,0,null,1,0,null,null
+1,0.2,JD Ryder,BB McCullum,Shafiul Islam,0,1,wides ,1,0,null,null
+2,0.3,JD Ryder,BB McCullum,Shafiul Islam,1,0,null,1,0,null,null
+3,0.4,BB McCullum,JD Ryder,Shafiul Islam,1,0,null,1,0,null,null
+4,0.5,JD Ryder,BB McCullum,Shafiul Islam,0,0,null,0,0,null,null
+5,0.6,JD Ryder,BB McCullum,Shafiul Islam,1,0,null,1,0,null,null
+6,0.7,BB McCullum,JD Ryder,Shafiul Islam,0,1,legbyes ,1,0,null,null
+7,1.1,BB McCullum,JD Ryder,Rubel Hossain,2,0,null,2,0,null,null
+8,1.2,BB McCullum,JD Ryder,Rubel Hossain,0,0,null,0,1,BB McCullum,caught
+9,1.3,JD Ryder,BJ Watling,Rubel Hossain,0,0,null,0,0,null,null
+10,1.4,JD Ryder,BJ Watling,Rubel Hossain,0,0,null,0,0,null,null
+11,1.5,JD Ryder,BJ Watling,Rubel Hossain,2,0,null,2,0,null,null
+12,1.6,JD Ryder,BJ Watling,Rubel Hossain,0,0,null,0,1,JD Ryder,lbw
+13,2.1,BJ Watling,LRPL Taylor,Shafiul Islam,0,0,null,0,0,null,null
+14,2.2,BJ Watling,LRPL Taylor,Shafiul Islam,1,0,null,1,0,null,null
+15,2.3,LRPL Taylor,BJ Watling,Shafiul Islam,0,1,wides ,1,0,null,null
+16,2.4,LRPL Taylor,BJ Watling,Shafiul Islam,0,0,null,0,0,null,null
+17,2.5,LRPL Taylor,BJ Watling,Shafiul Islam,0,0,null,0,0,null,null
+18,2.6,LRPL Taylor,BJ Watling,Shafiul Islam,0,0,null,0,0,null,null
+19,2.7,LRPL Taylor,BJ Watling,Shafiul Islam,0,0,null,0,0,null,null
+20,3.1,BJ Watling,LRPL Taylor,Rubel Hossain,0,0,null,0,0,null,null
+21,3.2,BJ Watling,LRPL Taylor,Rubel Hossain,0,0,null,0,0,null,null
+22,3.3,BJ Watling,LRPL Taylor,Rubel Hossain,0,0,null,0,0,null,null
+23,3.4,BJ Watling,LRPL Taylor,Rubel Hossain,0,0,null,0,0,null,null
+24,3.5,BJ Watling,LRPL Taylor,Rubel Hossain,0,0,null,0,0,null,null
+25,3.6,BJ Watling,LRPL Taylor,Rubel Hossain,0,0,null,0,0,null,null
+26,4.1,LRPL Taylor,BJ Watling,Abdur Razzak,0,1,wides ,1,0,null,null
+27,4.2,LRPL Taylor,BJ Watling,Abdur Razzak,1,0,null,1,1,BJ Watling,run out
+28,4.3,LRPL Taylor,KS Williamson,Abdur Razzak,1,0,null,1,0,null,null
+29,4.4,KS Williamson,LRPL Taylor,Abdur Razzak,0,0,null,0,0,null,null
+30,4.5,KS Williamson,LRPL Taylor,Abdur Razzak,0,0,null,0,0,null,null
+31,4.6,KS Williamson,LRPL Taylor,Abdur Razzak,0,0,null,0,0,null,null
+32,4.7,KS Williamson,LRPL Taylor,Abdur Razzak,0,0,null,0,0,null,null
+33,5.1,LRPL Taylor,KS Williamson,Rubel Hossain,0,0,null,0,0,null,null
+34,5.2,LRPL Taylor,KS Williamson,Rubel Hossain,1,0,null,1,0,null,null
+35,5.3,KS Williamson,LRPL Taylor,Rubel Hossain,0,0,null,0,0,null,null
+36,5.4,KS Williamson,LRPL Taylor,Rubel Hossain,0,0,null,0,1,KS Williamson,caught
+37,5.5,DL Vettori,LRPL Taylor,Rubel Hossain,2,0,null,2,0,null,null
+38,5.6,DL Vettori,LRPL Taylor,Rubel Hossain,1,0,null,1,0,null,null
+39,6.1,DL Vettori,LRPL Taylor,Abdur Razzak,0,0,null,0,0,null,null
+40,6.2,DL Vettori,LRPL Taylor,Abdur Razzak,1,0,null,1,0,null,null
+41,6.3,LRPL Taylor,DL Vettori,Abdur Razzak,0,0,null,0,1,LRPL Taylor,bowled
+42,6.4,GD Elliott,DL Vettori,Abdur Razzak,0,0,null,0,0,null,null
+43,6.5,GD Elliott,DL Vettori,Abdur Razzak,0,0,null,0,0,null,null
+44,6.6,GD Elliott,DL Vettori,Abdur Razzak,0,0,null,0,0,null,null
+45,7.1,DL Vettori,GD Elliott,Rubel Hossain,0,0,null,0,0,null,null
+46,7.2,DL Vettori,GD Elliott,Rubel Hossain,0,0,null,0,0,null,null
+47,7.3,DL Vettori,GD Elliott,Rubel Hossain,0,4,byes ,4,0,null,null
+48,7.4,DL Vettori,GD Elliott,Rubel Hossain,1,0,null,1,0,null,null
+49,7.5,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+50,7.6,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+51,8.1,DL Vettori,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+52,8.2,DL Vettori,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+53,8.3,DL Vettori,GD Elliott,Abdur Razzak,1,0,null,1,0,null,null
+54,8.4,GD Elliott,DL Vettori,Abdur Razzak,0,0,null,0,0,null,null
+55,8.5,GD Elliott,DL Vettori,Abdur Razzak,0,0,null,0,0,null,null
+56,8.6,GD Elliott,DL Vettori,Abdur Razzak,0,2,wides ,2,0,null,null
+57,8.7,DL Vettori,GD Elliott,Abdur Razzak,2,0,null,2,0,null,null
+58,9.1,GD Elliott,DL Vettori,Rubel Hossain,4,0,null,4,0,null,null
+59,9.2,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+60,9.3,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+61,9.4,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+62,9.5,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+63,9.6,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+64,10.1,DL Vettori,GD Elliott,Abdur Razzak,1,0,null,1,0,null,null
+65,10.2,GD Elliott,DL Vettori,Abdur Razzak,0,0,null,0,0,null,null
+66,10.3,GD Elliott,DL Vettori,Abdur Razzak,1,0,null,1,0,null,null
+67,10.4,DL Vettori,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+68,10.5,DL Vettori,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+69,10.6,DL Vettori,GD Elliott,Abdur Razzak,1,0,null,1,0,null,null
+70,11.1,DL Vettori,GD Elliott,Shafiul Islam,0,0,null,0,0,null,null
+71,11.2,DL Vettori,GD Elliott,Shafiul Islam,0,0,null,0,0,null,null
+72,11.3,DL Vettori,GD Elliott,Shafiul Islam,0,0,null,0,0,null,null
+73,11.4,DL Vettori,GD Elliott,Shafiul Islam,0,0,null,0,0,null,null
+74,11.5,DL Vettori,GD Elliott,Shafiul Islam,0,0,null,0,0,null,null
+75,11.6,DL Vettori,GD Elliott,Shafiul Islam,1,0,null,1,0,null,null
+76,12.1,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+77,12.2,DL Vettori,GD Elliott,Mahmudullah,1,0,null,1,0,null,null
+78,12.3,GD Elliott,DL Vettori,Mahmudullah,0,1,wides ,1,0,null,null
+79,12.4,GD Elliott,DL Vettori,Mahmudullah,1,0,null,1,0,null,null
+80,12.5,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+81,12.6,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+82,12.7,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+83,13.1,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+84,13.2,GD Elliott,DL Vettori,Shakib Al Hasan,1,0,null,1,0,null,null
+85,13.3,DL Vettori,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+86,13.4,DL Vettori,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+87,13.5,DL Vettori,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+88,13.6,DL Vettori,GD Elliott,Shakib Al Hasan,1,0,null,1,0,null,null
+89,14.1,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+90,14.2,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+91,14.3,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+92,14.4,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+93,14.5,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+94,14.6,DL Vettori,GD Elliott,Mahmudullah,2,0,null,2,0,null,null
+95,15.1,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+96,15.2,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+97,15.3,GD Elliott,DL Vettori,Shakib Al Hasan,1,0,null,1,0,null,null
+98,15.4,DL Vettori,GD Elliott,Shakib Al Hasan,1,0,null,1,0,null,null
+99,15.5,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+100,15.6,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+101,16.1,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+102,16.2,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+103,16.3,DL Vettori,GD Elliott,Mahmudullah,2,0,null,2,0,null,null
+104,16.4,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+105,16.5,DL Vettori,GD Elliott,Mahmudullah,1,0,null,1,0,null,null
+106,16.6,GD Elliott,DL Vettori,Mahmudullah,0,0,null,0,0,null,null
+107,17.1,DL Vettori,GD Elliott,Shakib Al Hasan,1,0,null,1,0,null,null
+108,17.2,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+109,17.3,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+110,17.4,GD Elliott,DL Vettori,Shakib Al Hasan,1,0,null,1,0,null,null
+111,17.5,DL Vettori,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+112,17.6,DL Vettori,GD Elliott,Shakib Al Hasan,1,0,null,1,0,null,null
+113,18.1,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+114,18.2,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+115,18.3,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+116,18.4,DL Vettori,GD Elliott,Mahmudullah,1,0,null,1,0,null,null
+117,18.5,GD Elliott,DL Vettori,Mahmudullah,1,0,null,1,0,null,null
+118,18.6,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+119,19.1,GD Elliott,DL Vettori,Suhrawadi Shuvo,0,0,null,0,0,null,null
+120,19.2,GD Elliott,DL Vettori,Suhrawadi Shuvo,4,0,null,4,0,null,null
+121,19.3,GD Elliott,DL Vettori,Suhrawadi Shuvo,2,0,null,2,0,null,null
+122,19.4,GD Elliott,DL Vettori,Suhrawadi Shuvo,0,0,null,0,0,null,null
+123,19.5,GD Elliott,DL Vettori,Suhrawadi Shuvo,0,0,null,0,0,null,null
+124,19.6,GD Elliott,DL Vettori,Suhrawadi Shuvo,1,0,null,1,0,null,null
+125,20.1,GD Elliott,DL Vettori,Mahmudullah,0,0,null,0,0,null,null
+126,20.2,GD Elliott,DL Vettori,Mahmudullah,0,1,wides ,1,0,null,null
+127,20.3,GD Elliott,DL Vettori,Mahmudullah,0,0,null,0,0,null,null
+128,20.4,GD Elliott,DL Vettori,Mahmudullah,0,0,null,0,0,null,null
+129,20.5,GD Elliott,DL Vettori,Mahmudullah,1,0,null,1,0,null,null
+130,20.6,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+131,20.7,DL Vettori,GD Elliott,Mahmudullah,1,0,null,1,0,null,null
+132,21.1,DL Vettori,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+133,21.2,DL Vettori,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+134,21.3,DL Vettori,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+135,21.4,DL Vettori,GD Elliott,Suhrawadi Shuvo,1,0,null,1,0,null,null
+136,21.5,GD Elliott,DL Vettori,Suhrawadi Shuvo,0,0,null,0,0,null,null
+137,21.6,GD Elliott,DL Vettori,Suhrawadi Shuvo,4,0,null,4,0,null,null
+138,22.1,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+139,22.2,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+140,22.3,DL Vettori,GD Elliott,Mahmudullah,1,0,null,1,0,null,null
+141,22.4,GD Elliott,DL Vettori,Mahmudullah,1,0,null,1,0,null,null
+142,22.5,DL Vettori,GD Elliott,Mahmudullah,0,0,null,0,0,null,null
+143,22.6,DL Vettori,GD Elliott,Mahmudullah,1,0,null,1,0,null,null
+144,23.1,DL Vettori,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+145,23.2,DL Vettori,GD Elliott,Abdur Razzak,1,0,null,1,0,null,null
+146,23.3,GD Elliott,DL Vettori,Abdur Razzak,0,0,null,0,0,null,null
+147,23.4,GD Elliott,DL Vettori,Abdur Razzak,1,0,null,1,0,null,null
+148,23.5,DL Vettori,GD Elliott,Abdur Razzak,0,5,wides ,5,0,null,null
+149,23.6,DL Vettori,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+150,23.7,DL Vettori,GD Elliott,Abdur Razzak,2,0,null,2,0,null,null
+151,24.1,GD Elliott,DL Vettori,Mahmudullah,0,0,null,0,0,null,null
+152,24.2,GD Elliott,DL Vettori,Mahmudullah,0,0,null,0,0,null,null
+153,24.3,GD Elliott,DL Vettori,Mahmudullah,2,0,null,2,0,null,null
+154,24.4,GD Elliott,DL Vettori,Mahmudullah,0,0,null,0,0,null,null
+155,24.5,GD Elliott,DL Vettori,Mahmudullah,0,0,null,0,0,null,null
+156,24.6,GD Elliott,DL Vettori,Mahmudullah,0,0,null,0,0,null,null
+157,25.1,DL Vettori,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+158,25.2,DL Vettori,GD Elliott,Abdur Razzak,1,0,null,1,0,null,null
+159,25.3,GD Elliott,DL Vettori,Abdur Razzak,1,0,null,1,0,null,null
+160,25.4,DL Vettori,GD Elliott,Abdur Razzak,1,0,null,1,0,null,null
+161,25.5,GD Elliott,DL Vettori,Abdur Razzak,1,0,null,1,0,null,null
+162,25.6,DL Vettori,GD Elliott,Abdur Razzak,6,0,null,6,0,null,null
+163,26.1,GD Elliott,DL Vettori,Shakib Al Hasan,0,1,wides ,1,0,null,null
+164,26.2,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+165,26.3,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+166,26.4,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+167,26.5,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+168,26.6,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+169,26.7,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+170,27.1,DL Vettori,GD Elliott,Shafiul Islam,4,0,null,4,0,null,null
+171,27.2,DL Vettori,GD Elliott,Shafiul Islam,0,0,null,0,0,null,null
+172,27.3,DL Vettori,GD Elliott,Shafiul Islam,1,0,null,1,0,null,null
+173,27.4,GD Elliott,DL Vettori,Shafiul Islam,0,0,null,0,0,null,null
+174,27.5,GD Elliott,DL Vettori,Shafiul Islam,1,0,null,1,0,null,null
+175,27.6,DL Vettori,GD Elliott,Shafiul Islam,0,0,null,0,0,null,null
+176,28.1,GD Elliott,DL Vettori,Shakib Al Hasan,4,0,null,4,0,null,null
+177,28.2,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+178,28.3,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+179,28.4,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+180,28.5,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+181,28.6,GD Elliott,DL Vettori,Shakib Al Hasan,0,0,null,0,0,null,null
+182,29.1,DL Vettori,GD Elliott,Rubel Hossain,1,0,null,1,0,null,null
+183,29.2,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+184,29.3,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+185,29.4,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+186,29.5,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+187,29.6,GD Elliott,DL Vettori,Rubel Hossain,0,0,null,0,0,null,null
+188,30.1,DL Vettori,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+189,30.2,DL Vettori,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+190,30.3,DL Vettori,GD Elliott,Shakib Al Hasan,0,0,null,0,1,DL Vettori,caught
+191,30.4,GD Elliott,NL McCullum,Shakib Al Hasan,0,0,null,0,0,null,null
+192,30.5,GD Elliott,NL McCullum,Shakib Al Hasan,1,0,null,1,0,null,null
+193,30.6,NL McCullum,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+194,31.1,GD Elliott,NL McCullum,Rubel Hossain,0,0,null,0,0,null,null
+195,31.2,GD Elliott,NL McCullum,Rubel Hossain,0,0,null,0,0,null,null
+196,31.3,GD Elliott,NL McCullum,Rubel Hossain,1,0,null,1,0,null,null
+197,31.4,NL McCullum,GD Elliott,Rubel Hossain,0,0,null,0,0,null,null
+198,31.5,NL McCullum,GD Elliott,Rubel Hossain,0,0,null,0,0,null,null
+199,31.6,NL McCullum,GD Elliott,Rubel Hossain,0,0,null,0,0,null,null
+200,32.1,GD Elliott,NL McCullum,Shakib Al Hasan,0,0,null,0,0,null,null
+201,32.2,GD Elliott,NL McCullum,Shakib Al Hasan,0,0,null,0,0,null,null
+202,32.3,GD Elliott,NL McCullum,Shakib Al Hasan,4,0,null,4,0,null,null
+203,32.4,GD Elliott,NL McCullum,Shakib Al Hasan,3,0,null,3,0,null,null
+204,32.5,NL McCullum,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+205,32.6,NL McCullum,GD Elliott,Shakib Al Hasan,3,0,null,3,0,null,null
+206,33.1,NL McCullum,GD Elliott,Rubel Hossain,0,0,null,0,0,null,null
+207,33.2,NL McCullum,GD Elliott,Rubel Hossain,0,0,null,0,0,null,null
+208,33.3,NL McCullum,GD Elliott,Rubel Hossain,0,0,null,0,0,null,null
+209,33.4,NL McCullum,GD Elliott,Rubel Hossain,1,0,null,1,0,null,null
+210,33.5,GD Elliott,NL McCullum,Rubel Hossain,0,0,null,0,0,null,null
+211,33.6,GD Elliott,NL McCullum,Rubel Hossain,0,0,null,0,0,null,null
+212,34.1,NL McCullum,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+213,34.2,NL McCullum,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+214,34.3,NL McCullum,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+215,34.4,NL McCullum,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+216,34.5,NL McCullum,GD Elliott,Shakib Al Hasan,0,0,null,0,1,NL McCullum,bowled
+217,34.6,KD Mills,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+218,35.1,GD Elliott,KD Mills,Suhrawadi Shuvo,0,0,null,0,0,null,null
+219,35.2,GD Elliott,KD Mills,Suhrawadi Shuvo,0,0,null,0,0,null,null
+220,35.3,GD Elliott,KD Mills,Suhrawadi Shuvo,1,0,null,1,0,null,null
+221,35.4,KD Mills,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+222,35.5,KD Mills,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+223,35.6,KD Mills,GD Elliott,Suhrawadi Shuvo,2,0,null,2,0,null,null
+224,36.1,GD Elliott,KD Mills,Shakib Al Hasan,0,0,null,0,0,null,null
+225,36.2,GD Elliott,KD Mills,Shakib Al Hasan,2,0,null,2,0,null,null
+226,36.3,GD Elliott,KD Mills,Shakib Al Hasan,4,0,null,4,0,null,null
+227,36.4,GD Elliott,KD Mills,Shakib Al Hasan,1,0,null,1,0,null,null
+228,36.5,KD Mills,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+229,36.6,KD Mills,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+230,37.1,GD Elliott,KD Mills,Suhrawadi Shuvo,1,0,null,1,0,null,null
+231,37.2,KD Mills,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+232,37.3,KD Mills,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+233,37.4,KD Mills,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+234,37.5,KD Mills,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+235,37.6,KD Mills,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+236,38.1,GD Elliott,KD Mills,Shakib Al Hasan,1,0,null,1,0,null,null
+237,38.2,KD Mills,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+238,38.3,KD Mills,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+239,38.4,KD Mills,GD Elliott,Shakib Al Hasan,0,0,null,0,0,null,null
+240,38.5,KD Mills,GD Elliott,Shakib Al Hasan,3,0,null,3,0,null,null
+241,38.6,GD Elliott,KD Mills,Shakib Al Hasan,1,0,null,1,0,null,null
+242,39.1,GD Elliott,KD Mills,Suhrawadi Shuvo,0,0,null,0,0,null,null
+243,39.2,GD Elliott,KD Mills,Suhrawadi Shuvo,0,0,null,0,0,null,null
+244,39.3,GD Elliott,KD Mills,Suhrawadi Shuvo,0,0,null,0,0,null,null
+245,39.4,GD Elliott,KD Mills,Suhrawadi Shuvo,0,0,null,0,0,null,null
+246,39.5,GD Elliott,KD Mills,Suhrawadi Shuvo,1,0,null,1,0,null,null
+247,39.6,KD Mills,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+248,40.1,GD Elliott,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+249,40.2,GD Elliott,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+250,40.3,GD Elliott,KD Mills,Abdur Razzak,1,0,null,1,0,null,null
+251,40.4,KD Mills,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+252,40.5,KD Mills,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+253,40.6,KD Mills,GD Elliott,Abdur Razzak,1,0,null,1,0,null,null
+254,41.1,KD Mills,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+255,41.2,KD Mills,GD Elliott,Suhrawadi Shuvo,0,0,null,0,0,null,null
+256,41.3,KD Mills,GD Elliott,Suhrawadi Shuvo,1,0,null,1,0,null,null
+257,41.4,GD Elliott,KD Mills,Suhrawadi Shuvo,0,0,null,0,0,null,null
+258,41.5,GD Elliott,KD Mills,Suhrawadi Shuvo,4,0,null,4,0,null,null
+259,41.6,GD Elliott,KD Mills,Suhrawadi Shuvo,0,0,null,0,0,null,null
+260,42.1,KD Mills,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+261,42.2,KD Mills,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+262,42.3,KD Mills,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+263,42.4,KD Mills,GD Elliott,Abdur Razzak,0,0,null,0,0,null,null
+264,42.5,KD Mills,GD Elliott,Abdur Razzak,1,0,null,1,0,null,null
+265,42.6,GD Elliott,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+266,43.1,KD Mills,GD Elliott,Suhrawadi Shuvo,1,0,null,1,0,null,null
+267,43.2,GD Elliott,KD Mills,Suhrawadi Shuvo,0,0,null,0,0,null,null
+268,43.3,GD Elliott,KD Mills,Suhrawadi Shuvo,0,0,null,0,1,GD Elliott,caught
+269,43.4,KD Mills,AJ McKay,Suhrawadi Shuvo,0,0,null,0,0,null,null
+270,43.5,KD Mills,AJ McKay,Suhrawadi Shuvo,0,0,null,0,0,null,null
+271,43.6,KD Mills,AJ McKay,Suhrawadi Shuvo,0,0,null,0,0,null,null
+272,44.1,AJ McKay,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+273,44.2,AJ McKay,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+274,44.3,AJ McKay,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+275,44.4,AJ McKay,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+276,44.5,AJ McKay,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+277,44.6,AJ McKay,KD Mills,Abdur Razzak,0,0,null,0,1,AJ McKay,lbw
+278,45.1,KD Mills,HK Bennett,Suhrawadi Shuvo,0,0,null,0,0,null,null
+279,45.2,KD Mills,HK Bennett,Suhrawadi Shuvo,0,0,null,0,0,null,null
+280,45.3,KD Mills,HK Bennett,Suhrawadi Shuvo,0,0,null,0,0,null,null
+281,45.4,KD Mills,HK Bennett,Suhrawadi Shuvo,6,0,null,6,0,null,null
+282,45.5,KD Mills,HK Bennett,Suhrawadi Shuvo,0,0,null,0,0,null,null
+283,45.6,KD Mills,HK Bennett,Suhrawadi Shuvo,0,0,null,0,0,null,null
+284,46.1,HK Bennett,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+285,46.2,HK Bennett,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+286,46.3,HK Bennett,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+287,46.4,HK Bennett,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+288,46.5,HK Bennett,KD Mills,Abdur Razzak,0,0,null,0,0,null,null
+289,46.6,HK Bennett,KD Mills,Abdur Razzak,0,2,byes ,2,0,null,null
+290,47.1,KD Mills,HK Bennett,Rubel Hossain,0,0,null,0,0,null,null
+291,47.2,KD Mills,HK Bennett,Rubel Hossain,4,0,null,4,0,null,null
+292,47.3,KD Mills,HK Bennett,Rubel Hossain,1,0,null,1,0,null,null
+293,47.4,HK Bennett,KD Mills,Rubel Hossain,0,0,null,0,0,null,null
+294,47.5,HK Bennett,KD Mills,Rubel Hossain,0,0,null,0,0,null,null
+295,47.6,HK Bennett,KD Mills,Rubel Hossain,0,0,null,0,0,null,null
+296,48.1,KD Mills,HK Bennett,Shafiul Islam,2,0,null,2,0,null,null
+297,48.2,KD Mills,HK Bennett,Shafiul Islam,6,0,null,6,0,null,null
+298,48.3,KD Mills,HK Bennett,Shafiul Islam,0,0,null,0,0,null,null
+299,48.4,KD Mills,HK Bennett,Shafiul Islam,1,0,null,1,0,null,null
+300,48.5,HK Bennett,KD Mills,Shafiul Islam,0,0,null,0,0,null,null
+301,48.6,HK Bennett,KD Mills,Shafiul Islam,0,0,null,0,0,null,null
+302,49.1,KD Mills,HK Bennett,Rubel Hossain,4,0,null,4,0,null,null
+303,49.2,KD Mills,HK Bennett,Rubel Hossain,0,0,null,0,0,null,null
+304,49.3,KD Mills,HK Bennett,Rubel Hossain,0,0,null,0,1,KD Mills,bowled

@@ -1,0 +1,293 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,H Masakadza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+1,0.2,H Masakadza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+2,0.3,H Masakadza,V Sibanda,Shafiul Islam,0,1,wides ,1,0,null,null
+3,0.4,H Masakadza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+4,0.5,H Masakadza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+5,0.6,H Masakadza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+6,0.7,H Masakadza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+7,1.1,V Sibanda,H Masakadza,Robiul Islam,1,0,null,1,0,null,null
+8,1.2,H Masakadza,V Sibanda,Robiul Islam,0,0,null,0,0,null,null
+9,1.3,H Masakadza,V Sibanda,Robiul Islam,0,1,wides ,1,0,null,null
+10,1.4,H Masakadza,V Sibanda,Robiul Islam,0,0,null,0,0,null,null
+11,1.5,H Masakadza,V Sibanda,Robiul Islam,3,0,null,3,0,null,null
+12,1.6,V Sibanda,H Masakadza,Robiul Islam,0,1,legbyes ,1,0,null,null
+13,1.7,H Masakadza,V Sibanda,Robiul Islam,4,0,null,4,0,null,null
+14,2.1,V Sibanda,H Masakadza,Shafiul Islam,0,0,null,0,0,null,null
+15,2.2,V Sibanda,H Masakadza,Shafiul Islam,1,0,null,1,0,null,null
+16,2.3,H Masakadza,V Sibanda,Shafiul Islam,4,0,null,4,0,null,null
+17,2.4,H Masakadza,V Sibanda,Shafiul Islam,4,0,null,4,0,null,null
+18,2.5,H Masakadza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+19,2.6,H Masakadza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+20,3.1,V Sibanda,H Masakadza,Robiul Islam,0,0,null,0,0,null,null
+21,3.2,V Sibanda,H Masakadza,Robiul Islam,1,0,null,1,0,null,null
+22,3.3,H Masakadza,V Sibanda,Robiul Islam,0,2,wides ,2,0,null,null
+23,3.4,V Sibanda,H Masakadza,Robiul Islam,4,0,null,4,0,null,null
+24,3.5,V Sibanda,H Masakadza,Robiul Islam,0,0,null,0,0,null,null
+25,3.6,V Sibanda,H Masakadza,Robiul Islam,0,0,null,0,0,null,null
+26,3.7,V Sibanda,H Masakadza,Robiul Islam,1,0,null,1,0,null,null
+27,4.1,V Sibanda,H Masakadza,Shafiul Islam,1,0,null,1,0,null,null
+28,4.2,H Masakadza,V Sibanda,Shafiul Islam,0,0,null,0,1,H Masakadza,bowled
+29,4.3,Sikandar Raza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+30,4.4,Sikandar Raza,V Sibanda,Shafiul Islam,1,0,null,1,0,null,null
+31,4.5,V Sibanda,Sikandar Raza,Shafiul Islam,4,0,null,4,0,null,null
+32,4.6,V Sibanda,Sikandar Raza,Shafiul Islam,1,0,null,1,0,null,null
+33,5.1,V Sibanda,Sikandar Raza,Robiul Islam,0,0,null,0,0,null,null
+34,5.2,V Sibanda,Sikandar Raza,Robiul Islam,0,0,null,0,0,null,null
+35,5.3,V Sibanda,Sikandar Raza,Robiul Islam,1,0,null,1,0,null,null
+36,5.4,Sikandar Raza,V Sibanda,Robiul Islam,1,0,null,1,0,null,null
+37,5.5,V Sibanda,Sikandar Raza,Robiul Islam,4,0,null,4,0,null,null
+38,5.6,V Sibanda,Sikandar Raza,Robiul Islam,0,0,null,0,0,null,null
+39,6.1,Sikandar Raza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+40,6.2,Sikandar Raza,V Sibanda,Shafiul Islam,2,0,null,2,0,null,null
+41,6.3,Sikandar Raza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+42,6.4,Sikandar Raza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+43,6.5,Sikandar Raza,V Sibanda,Shafiul Islam,0,0,null,0,0,null,null
+44,6.6,Sikandar Raza,V Sibanda,Shafiul Islam,4,0,null,4,0,null,null
+45,7.1,V Sibanda,Sikandar Raza,Abdur Razzak,0,0,null,0,0,null,null
+46,7.2,V Sibanda,Sikandar Raza,Abdur Razzak,4,0,null,4,0,null,null
+47,7.3,V Sibanda,Sikandar Raza,Abdur Razzak,0,0,null,0,0,null,null
+48,7.4,V Sibanda,Sikandar Raza,Abdur Razzak,0,0,null,0,0,null,null
+49,7.5,V Sibanda,Sikandar Raza,Abdur Razzak,1,0,null,1,0,null,null
+50,7.6,Sikandar Raza,V Sibanda,Abdur Razzak,0,0,null,0,0,null,null
+51,8.1,V Sibanda,Sikandar Raza,Ziaur Rahman,0,0,null,0,0,null,null
+52,8.2,V Sibanda,Sikandar Raza,Ziaur Rahman,4,0,null,4,0,null,null
+53,8.3,V Sibanda,Sikandar Raza,Ziaur Rahman,4,0,null,4,0,null,null
+54,8.4,V Sibanda,Sikandar Raza,Ziaur Rahman,3,0,null,3,0,null,null
+55,8.5,Sikandar Raza,V Sibanda,Ziaur Rahman,0,0,null,0,0,null,null
+56,8.6,Sikandar Raza,V Sibanda,Ziaur Rahman,4,0,null,4,0,null,null
+57,9.1,V Sibanda,Sikandar Raza,Abdur Razzak,1,0,null,1,0,null,null
+58,9.2,Sikandar Raza,V Sibanda,Abdur Razzak,0,0,null,0,0,null,null
+59,9.3,Sikandar Raza,V Sibanda,Abdur Razzak,0,0,null,0,0,null,null
+60,9.4,Sikandar Raza,V Sibanda,Abdur Razzak,0,0,null,0,0,null,null
+61,9.5,Sikandar Raza,V Sibanda,Abdur Razzak,0,0,null,0,0,null,null
+62,9.6,Sikandar Raza,V Sibanda,Abdur Razzak,0,0,null,0,0,null,null
+63,10.1,V Sibanda,Sikandar Raza,Ziaur Rahman,0,0,null,0,0,null,null
+64,10.2,V Sibanda,Sikandar Raza,Ziaur Rahman,0,0,null,0,0,null,null
+65,10.3,V Sibanda,Sikandar Raza,Ziaur Rahman,1,0,null,1,0,null,null
+66,10.4,Sikandar Raza,V Sibanda,Ziaur Rahman,0,0,null,0,0,null,null
+67,10.5,Sikandar Raza,V Sibanda,Ziaur Rahman,2,0,null,2,0,null,null
+68,10.6,Sikandar Raza,V Sibanda,Ziaur Rahman,4,0,null,4,0,null,null
+69,11.1,V Sibanda,Sikandar Raza,Abdur Razzak,0,0,null,0,0,null,null
+70,11.2,V Sibanda,Sikandar Raza,Abdur Razzak,0,0,null,0,0,null,null
+71,11.3,V Sibanda,Sikandar Raza,Abdur Razzak,0,0,null,0,0,null,null
+72,11.4,V Sibanda,Sikandar Raza,Abdur Razzak,1,0,null,1,0,null,null
+73,11.5,Sikandar Raza,V Sibanda,Abdur Razzak,0,0,null,0,0,null,null
+74,11.6,Sikandar Raza,V Sibanda,Abdur Razzak,1,0,null,1,0,null,null
+75,12.1,Sikandar Raza,V Sibanda,Shakib Al Hasan,0,0,null,0,0,null,null
+76,12.2,Sikandar Raza,V Sibanda,Shakib Al Hasan,0,0,null,0,0,null,null
+77,12.3,Sikandar Raza,V Sibanda,Shakib Al Hasan,0,0,null,0,0,null,null
+78,12.4,Sikandar Raza,V Sibanda,Shakib Al Hasan,1,0,null,1,0,null,null
+79,12.5,V Sibanda,Sikandar Raza,Shakib Al Hasan,2,0,null,2,0,null,null
+80,12.6,V Sibanda,Sikandar Raza,Shakib Al Hasan,0,0,null,0,0,null,null
+81,13.1,Sikandar Raza,V Sibanda,Abdur Razzak,0,0,null,0,0,null,null
+82,13.2,Sikandar Raza,V Sibanda,Abdur Razzak,0,0,null,0,0,null,null
+83,13.3,Sikandar Raza,V Sibanda,Abdur Razzak,0,0,null,0,0,null,null
+84,13.4,Sikandar Raza,V Sibanda,Abdur Razzak,1,0,null,1,0,null,null
+85,13.5,V Sibanda,Sikandar Raza,Abdur Razzak,1,0,null,1,0,null,null
+86,13.6,Sikandar Raza,V Sibanda,Abdur Razzak,0,0,null,0,0,null,null
+87,14.1,V Sibanda,Sikandar Raza,Shakib Al Hasan,0,0,null,0,0,null,null
+88,14.2,V Sibanda,Sikandar Raza,Shakib Al Hasan,0,0,null,0,0,null,null
+89,14.3,V Sibanda,Sikandar Raza,Shakib Al Hasan,1,0,null,1,0,null,null
+90,14.4,Sikandar Raza,V Sibanda,Shakib Al Hasan,0,0,null,0,0,null,null
+91,14.5,Sikandar Raza,V Sibanda,Shakib Al Hasan,1,0,null,1,0,null,null
+92,14.6,V Sibanda,Sikandar Raza,Shakib Al Hasan,1,0,null,1,0,null,null
+93,15.1,V Sibanda,Sikandar Raza,Abdur Razzak,0,2,legbyes ,2,0,null,null
+94,15.2,V Sibanda,Sikandar Raza,Abdur Razzak,0,0,null,0,0,null,null
+95,15.3,V Sibanda,Sikandar Raza,Abdur Razzak,4,0,null,4,0,null,null
+96,15.4,V Sibanda,Sikandar Raza,Abdur Razzak,0,0,null,0,0,null,null
+97,15.5,V Sibanda,Sikandar Raza,Abdur Razzak,0,0,null,0,0,null,null
+98,15.6,V Sibanda,Sikandar Raza,Abdur Razzak,1,0,null,1,0,null,null
+99,16.1,V Sibanda,Sikandar Raza,Shakib Al Hasan,0,0,null,0,0,null,null
+100,16.2,V Sibanda,Sikandar Raza,Shakib Al Hasan,1,0,null,1,0,null,null
+101,16.3,Sikandar Raza,V Sibanda,Shakib Al Hasan,1,0,null,1,0,null,null
+102,16.4,V Sibanda,Sikandar Raza,Shakib Al Hasan,0,0,null,0,1,V Sibanda,lbw
+103,16.5,BRM Taylor,Sikandar Raza,Shakib Al Hasan,0,0,null,0,0,null,null
+104,16.6,BRM Taylor,Sikandar Raza,Shakib Al Hasan,0,0,null,0,0,null,null
+105,17.1,Sikandar Raza,BRM Taylor,Shafiul Islam,0,0,null,0,0,null,null
+106,17.2,Sikandar Raza,BRM Taylor,Shafiul Islam,0,0,null,0,1,Sikandar Raza,caught
+107,17.3,SC Williams,BRM Taylor,Shafiul Islam,1,0,null,1,0,null,null
+108,17.4,BRM Taylor,SC Williams,Shafiul Islam,0,0,null,0,0,null,null
+109,17.5,BRM Taylor,SC Williams,Shafiul Islam,0,0,null,0,0,null,null
+110,17.6,BRM Taylor,SC Williams,Shafiul Islam,0,0,null,0,0,null,null
+111,18.1,SC Williams,BRM Taylor,Shakib Al Hasan,1,0,null,1,0,null,null
+112,18.2,BRM Taylor,SC Williams,Shakib Al Hasan,1,0,null,1,0,null,null
+113,18.3,SC Williams,BRM Taylor,Shakib Al Hasan,1,0,null,1,0,null,null
+114,18.4,BRM Taylor,SC Williams,Shakib Al Hasan,1,0,null,1,0,null,null
+115,18.5,SC Williams,BRM Taylor,Shakib Al Hasan,1,0,null,1,0,null,null
+116,18.6,BRM Taylor,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+117,19.1,SC Williams,BRM Taylor,Shafiul Islam,1,0,null,1,0,null,null
+118,19.2,BRM Taylor,SC Williams,Shafiul Islam,0,0,null,0,0,null,null
+119,19.3,BRM Taylor,SC Williams,Shafiul Islam,0,1,legbyes ,1,0,null,null
+120,19.4,SC Williams,BRM Taylor,Shafiul Islam,2,0,null,2,0,null,null
+121,19.5,SC Williams,BRM Taylor,Shafiul Islam,0,0,null,0,0,null,null
+122,19.6,SC Williams,BRM Taylor,Shafiul Islam,0,0,null,0,0,null,null
+123,20.1,BRM Taylor,SC Williams,Shakib Al Hasan,1,0,null,1,0,null,null
+124,20.2,SC Williams,BRM Taylor,Shakib Al Hasan,1,0,null,1,0,null,null
+125,20.3,BRM Taylor,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+126,20.4,BRM Taylor,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+127,20.5,BRM Taylor,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+128,20.6,BRM Taylor,SC Williams,Shakib Al Hasan,1,0,null,1,0,null,null
+129,21.1,BRM Taylor,SC Williams,Robiul Islam,1,0,null,1,0,null,null
+130,21.2,SC Williams,BRM Taylor,Robiul Islam,0,0,null,0,0,null,null
+131,21.3,SC Williams,BRM Taylor,Robiul Islam,0,0,null,0,0,null,null
+132,21.4,SC Williams,BRM Taylor,Robiul Islam,2,0,null,2,0,null,null
+133,21.5,SC Williams,BRM Taylor,Robiul Islam,0,0,null,0,0,null,null
+134,21.6,SC Williams,BRM Taylor,Robiul Islam,0,0,null,0,0,null,null
+135,22.1,BRM Taylor,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+136,22.2,BRM Taylor,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+137,22.3,BRM Taylor,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+138,22.4,BRM Taylor,SC Williams,Shakib Al Hasan,4,0,null,4,0,null,null
+139,22.5,BRM Taylor,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+140,22.6,BRM Taylor,SC Williams,Shakib Al Hasan,1,0,null,1,0,null,null
+141,23.1,BRM Taylor,SC Williams,Robiul Islam,0,0,null,0,0,null,null
+142,23.2,BRM Taylor,SC Williams,Robiul Islam,0,0,null,0,0,null,null
+143,23.3,BRM Taylor,SC Williams,Robiul Islam,1,0,null,1,0,null,null
+144,23.4,SC Williams,BRM Taylor,Robiul Islam,0,0,null,0,0,null,null
+145,23.5,SC Williams,BRM Taylor,Robiul Islam,0,0,null,0,0,null,null
+146,23.6,SC Williams,BRM Taylor,Robiul Islam,0,0,null,0,0,null,null
+147,24.1,BRM Taylor,SC Williams,Mahmudullah,0,0,null,0,0,null,null
+148,24.2,BRM Taylor,SC Williams,Mahmudullah,1,0,null,1,0,null,null
+149,24.3,SC Williams,BRM Taylor,Mahmudullah,0,0,null,0,0,null,null
+150,24.4,SC Williams,BRM Taylor,Mahmudullah,0,0,null,0,0,null,null
+151,24.5,SC Williams,BRM Taylor,Mahmudullah,1,0,null,1,0,null,null
+152,24.6,BRM Taylor,SC Williams,Mahmudullah,0,0,null,0,0,null,null
+153,25.1,SC Williams,BRM Taylor,Robiul Islam,0,0,null,0,0,null,null
+154,25.2,SC Williams,BRM Taylor,Robiul Islam,1,0,null,1,0,null,null
+155,25.3,BRM Taylor,SC Williams,Robiul Islam,1,0,null,1,0,null,null
+156,25.4,SC Williams,BRM Taylor,Robiul Islam,1,0,null,1,0,null,null
+157,25.5,BRM Taylor,SC Williams,Robiul Islam,1,0,null,1,0,null,null
+158,25.6,SC Williams,BRM Taylor,Robiul Islam,0,0,null,0,0,null,null
+159,26.1,BRM Taylor,SC Williams,Mahmudullah,1,0,null,1,0,null,null
+160,26.2,SC Williams,BRM Taylor,Mahmudullah,1,0,null,1,0,null,null
+161,26.3,BRM Taylor,SC Williams,Mahmudullah,0,0,null,0,0,null,null
+162,26.4,BRM Taylor,SC Williams,Mahmudullah,1,0,null,1,0,null,null
+163,26.5,SC Williams,BRM Taylor,Mahmudullah,1,0,null,1,0,null,null
+164,26.6,BRM Taylor,SC Williams,Mahmudullah,1,0,null,1,0,null,null
+165,27.1,BRM Taylor,SC Williams,Robiul Islam,0,0,null,0,0,null,null
+166,27.2,BRM Taylor,SC Williams,Robiul Islam,1,0,null,1,0,null,null
+167,27.3,SC Williams,BRM Taylor,Robiul Islam,0,2,wides ,2,0,null,null
+168,27.4,BRM Taylor,SC Williams,Robiul Islam,0,0,null,0,0,null,null
+169,27.5,BRM Taylor,SC Williams,Robiul Islam,0,0,null,0,0,null,null
+170,27.6,BRM Taylor,SC Williams,Robiul Islam,1,0,null,1,0,null,null
+171,27.7,SC Williams,BRM Taylor,Robiul Islam,0,0,null,0,0,null,null
+172,28.1,BRM Taylor,SC Williams,Mahmudullah,0,0,null,0,0,null,null
+173,28.2,BRM Taylor,SC Williams,Mahmudullah,1,0,null,1,0,null,null
+174,28.3,SC Williams,BRM Taylor,Mahmudullah,6,0,null,6,0,null,null
+175,28.4,SC Williams,BRM Taylor,Mahmudullah,0,0,null,0,0,null,null
+176,28.5,SC Williams,BRM Taylor,Mahmudullah,0,0,null,0,0,null,null
+177,28.6,SC Williams,BRM Taylor,Mahmudullah,0,0,null,0,0,null,null
+178,29.1,BRM Taylor,SC Williams,Abdur Razzak,0,0,null,0,0,null,null
+179,29.2,BRM Taylor,SC Williams,Abdur Razzak,0,0,null,0,0,null,null
+180,29.3,BRM Taylor,SC Williams,Abdur Razzak,1,0,null,1,0,null,null
+181,29.4,SC Williams,BRM Taylor,Abdur Razzak,1,0,null,1,0,null,null
+182,29.5,BRM Taylor,SC Williams,Abdur Razzak,2,0,null,2,0,null,null
+183,29.6,BRM Taylor,SC Williams,Abdur Razzak,4,0,null,4,0,null,null
+184,30.1,SC Williams,BRM Taylor,Mahmudullah,1,0,null,1,0,null,null
+185,30.2,BRM Taylor,SC Williams,Mahmudullah,0,0,null,0,0,null,null
+186,30.3,BRM Taylor,SC Williams,Mahmudullah,0,0,null,0,0,null,null
+187,30.4,BRM Taylor,SC Williams,Mahmudullah,1,0,null,1,0,null,null
+188,30.5,SC Williams,BRM Taylor,Mahmudullah,1,0,null,1,0,null,null
+189,30.6,BRM Taylor,SC Williams,Mahmudullah,1,0,null,1,0,null,null
+190,31.1,BRM Taylor,SC Williams,Abdur Razzak,0,0,null,0,0,null,null
+191,31.2,BRM Taylor,SC Williams,Abdur Razzak,0,0,null,0,0,null,null
+192,31.3,BRM Taylor,SC Williams,Abdur Razzak,4,0,null,4,0,null,null
+193,31.4,BRM Taylor,SC Williams,Abdur Razzak,0,0,null,0,0,null,null
+194,31.5,BRM Taylor,SC Williams,Abdur Razzak,1,0,null,1,0,null,null
+195,31.6,SC Williams,BRM Taylor,Abdur Razzak,1,0,null,1,0,null,null
+196,32.1,SC Williams,BRM Taylor,Ziaur Rahman,0,0,null,0,0,null,null
+197,32.2,SC Williams,BRM Taylor,Ziaur Rahman,0,0,null,0,0,null,null
+198,32.3,SC Williams,BRM Taylor,Ziaur Rahman,1,0,null,1,0,null,null
+199,32.4,BRM Taylor,SC Williams,Ziaur Rahman,1,0,null,1,0,null,null
+200,32.5,SC Williams,BRM Taylor,Ziaur Rahman,1,0,null,1,0,null,null
+201,32.6,BRM Taylor,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+202,33.1,SC Williams,BRM Taylor,Abdur Razzak,0,0,null,0,0,null,null
+203,33.2,SC Williams,BRM Taylor,Abdur Razzak,4,0,null,4,0,null,null
+204,33.3,SC Williams,BRM Taylor,Abdur Razzak,1,0,null,1,0,null,null
+205,33.4,BRM Taylor,SC Williams,Abdur Razzak,1,0,null,1,0,null,null
+206,33.5,SC Williams,BRM Taylor,Abdur Razzak,1,0,null,1,0,null,null
+207,33.6,BRM Taylor,SC Williams,Abdur Razzak,1,0,null,1,0,null,null
+208,34.1,BRM Taylor,SC Williams,Ziaur Rahman,0,0,null,0,1,BRM Taylor,caught
+209,34.2,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+210,34.3,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+211,34.4,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+212,34.5,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+213,34.6,MN Waller,SC Williams,Ziaur Rahman,1,0,null,1,0,null,null
+214,35.1,MN Waller,SC Williams,Shafiul Islam,3,0,null,3,0,null,null
+215,35.2,SC Williams,MN Waller,Shafiul Islam,1,0,null,1,0,null,null
+216,35.3,MN Waller,SC Williams,Shafiul Islam,0,0,null,0,0,null,null
+217,35.4,MN Waller,SC Williams,Shafiul Islam,1,0,null,1,0,null,null
+218,35.5,SC Williams,MN Waller,Shafiul Islam,0,0,null,0,0,null,null
+219,35.6,SC Williams,MN Waller,Shafiul Islam,4,0,null,4,0,null,null
+220,36.1,MN Waller,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+221,36.2,MN Waller,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+222,36.3,MN Waller,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+223,36.4,MN Waller,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+224,36.5,MN Waller,SC Williams,Shakib Al Hasan,1,0,null,1,0,null,null
+225,36.6,SC Williams,MN Waller,Shakib Al Hasan,1,0,null,1,0,null,null
+226,37.1,SC Williams,MN Waller,Abdur Razzak,4,0,null,4,0,null,null
+227,37.2,SC Williams,MN Waller,Abdur Razzak,1,0,null,1,0,null,null
+228,37.3,MN Waller,SC Williams,Abdur Razzak,0,0,null,0,0,null,null
+229,37.4,MN Waller,SC Williams,Abdur Razzak,0,0,null,0,0,null,null
+230,37.5,MN Waller,SC Williams,Abdur Razzak,1,0,null,1,0,null,null
+231,37.6,SC Williams,MN Waller,Abdur Razzak,1,0,null,1,0,null,null
+232,38.1,SC Williams,MN Waller,Shakib Al Hasan,2,0,null,2,0,null,null
+233,38.2,SC Williams,MN Waller,Shakib Al Hasan,1,0,null,1,0,null,null
+234,38.3,MN Waller,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+235,38.4,MN Waller,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+236,38.5,MN Waller,SC Williams,Shakib Al Hasan,4,0,null,4,0,null,null
+237,38.6,MN Waller,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+238,39.1,SC Williams,MN Waller,Robiul Islam,0,0,null,0,0,null,null
+239,39.2,SC Williams,MN Waller,Robiul Islam,0,0,null,0,0,null,null
+240,39.3,SC Williams,MN Waller,Robiul Islam,1,0,null,1,0,null,null
+241,39.4,MN Waller,SC Williams,Robiul Islam,0,0,null,0,0,null,null
+242,39.5,MN Waller,SC Williams,Robiul Islam,1,0,null,1,0,null,null
+243,39.6,SC Williams,MN Waller,Robiul Islam,2,0,null,2,0,null,null
+244,40.1,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+245,40.2,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+246,40.3,MN Waller,SC Williams,Ziaur Rahman,1,0,null,1,0,null,null
+247,40.4,SC Williams,MN Waller,Ziaur Rahman,1,0,null,1,0,null,null
+248,40.5,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+249,40.6,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+250,41.1,SC Williams,MN Waller,Shafiul Islam,0,0,null,0,0,null,null
+251,41.2,SC Williams,MN Waller,Shafiul Islam,1,0,null,1,0,null,null
+252,41.3,MN Waller,SC Williams,Shafiul Islam,0,1,legbyes ,1,0,null,null
+253,41.4,SC Williams,MN Waller,Shafiul Islam,4,0,null,4,0,null,null
+254,41.5,SC Williams,MN Waller,Shafiul Islam,1,0,null,1,0,null,null
+255,41.6,MN Waller,SC Williams,Shafiul Islam,1,0,null,1,0,null,null
+256,42.1,MN Waller,SC Williams,Ziaur Rahman,4,0,null,4,0,null,null
+257,42.2,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+258,42.3,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+259,42.4,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+260,42.5,MN Waller,SC Williams,Ziaur Rahman,0,0,null,0,0,null,null
+261,42.6,MN Waller,SC Williams,Ziaur Rahman,1,0,null,1,0,null,null
+262,43.1,MN Waller,SC Williams,Shakib Al Hasan,3,0,null,3,0,null,null
+263,43.2,SC Williams,MN Waller,Shakib Al Hasan,1,0,null,1,0,null,null
+264,43.3,MN Waller,SC Williams,Shakib Al Hasan,4,0,null,4,0,null,null
+265,43.4,MN Waller,SC Williams,Shakib Al Hasan,1,0,null,1,0,null,null
+266,43.5,SC Williams,MN Waller,Shakib Al Hasan,3,0,null,3,0,null,null
+267,43.6,MN Waller,SC Williams,Shakib Al Hasan,0,0,null,0,0,null,null
+268,44.1,SC Williams,MN Waller,Ziaur Rahman,1,0,null,1,0,null,null
+269,44.2,MN Waller,SC Williams,Ziaur Rahman,1,0,null,1,0,null,null
+270,44.3,SC Williams,MN Waller,Ziaur Rahman,1,0,null,1,0,null,null
+271,44.4,MN Waller,SC Williams,Ziaur Rahman,4,0,null,4,0,null,null
+272,44.5,MN Waller,SC Williams,Ziaur Rahman,1,0,null,1,0,null,null
+273,44.6,SC Williams,MN Waller,Ziaur Rahman,1,0,null,1,0,null,null
+274,45.1,SC Williams,MN Waller,Robiul Islam,1,0,null,1,0,null,null
+275,45.2,MN Waller,SC Williams,Robiul Islam,1,0,null,1,0,null,null
+276,45.3,SC Williams,MN Waller,Robiul Islam,1,0,null,1,0,null,null
+277,45.4,MN Waller,SC Williams,Robiul Islam,1,0,null,1,0,null,null
+278,45.5,SC Williams,MN Waller,Robiul Islam,1,0,null,1,0,null,null
+279,45.6,MN Waller,SC Williams,Robiul Islam,1,0,null,1,0,null,null
+280,46.1,MN Waller,SC Williams,Shafiul Islam,0,1,wides ,1,0,null,null
+281,46.2,MN Waller,SC Williams,Shafiul Islam,1,0,null,1,0,null,null
+282,46.3,SC Williams,MN Waller,Shafiul Islam,0,0,null,0,0,null,null
+283,46.4,SC Williams,MN Waller,Shafiul Islam,4,0,null,4,0,null,null
+284,46.5,SC Williams,MN Waller,Shafiul Islam,1,0,null,1,0,null,null
+285,46.6,MN Waller,SC Williams,Shafiul Islam,0,0,null,0,0,null,null
+286,46.7,MN Waller,SC Williams,Shafiul Islam,1,0,null,1,0,null,null
+287,47.1,MN Waller,SC Williams,Robiul Islam,0,0,null,0,0,null,null
+288,47.2,MN Waller,SC Williams,Robiul Islam,1,0,null,1,0,null,null
+289,47.3,SC Williams,MN Waller,Robiul Islam,4,0,null,4,0,null,null
+290,47.4,SC Williams,MN Waller,Robiul Islam,0,0,null,0,0,null,null
+291,47.5,SC Williams,MN Waller,Robiul Islam,1,0,null,1,0,null,null

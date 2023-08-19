@@ -1,0 +1,291 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,V Sehwag,SR Tendulkar,Shoaib Akhtar,0,5,wides ,5,0,null,null
+1,0.2,V Sehwag,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+2,0.3,V Sehwag,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+3,0.4,V Sehwag,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+4,0.5,V Sehwag,SR Tendulkar,Shoaib Akhtar,1,0,null,1,0,null,null
+5,0.6,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+6,0.7,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+7,1.1,V Sehwag,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+8,1.2,V Sehwag,SR Tendulkar,Shabbir Ahmed,1,0,null,1,0,null,null
+9,1.3,SR Tendulkar,V Sehwag,Shabbir Ahmed,0,1,legbyes ,1,0,null,null
+10,1.4,V Sehwag,SR Tendulkar,Shabbir Ahmed,4,0,null,4,0,null,null
+11,1.5,V Sehwag,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+12,1.6,V Sehwag,SR Tendulkar,Shabbir Ahmed,4,1,noballs ,5,0,null,null
+13,1.7,V Sehwag,SR Tendulkar,Shabbir Ahmed,4,0,null,4,0,null,null
+14,2.1,SR Tendulkar,V Sehwag,Shoaib Akhtar,1,0,null,1,0,null,null
+15,2.2,V Sehwag,SR Tendulkar,Shoaib Akhtar,0,1,legbyes ,1,0,null,null
+16,2.3,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+17,2.4,SR Tendulkar,V Sehwag,Shoaib Akhtar,4,0,null,4,0,null,null
+18,2.5,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,1,wides ,1,0,null,null
+19,2.6,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,1,wides ,1,0,null,null
+20,2.7,SR Tendulkar,V Sehwag,Shoaib Akhtar,1,0,null,1,0,null,null
+21,2.8,V Sehwag,SR Tendulkar,Shoaib Akhtar,1,0,null,1,0,null,null
+22,3.1,V Sehwag,SR Tendulkar,Shabbir Ahmed,0,1,legbyes ,1,0,null,null
+23,3.2,SR Tendulkar,V Sehwag,Shabbir Ahmed,0,0,null,0,0,null,null
+24,3.3,SR Tendulkar,V Sehwag,Shabbir Ahmed,0,0,null,0,0,null,null
+25,3.4,SR Tendulkar,V Sehwag,Shabbir Ahmed,0,0,null,0,0,null,null
+26,3.5,SR Tendulkar,V Sehwag,Shabbir Ahmed,0,1,noballs ,1,0,null,null
+27,3.6,SR Tendulkar,V Sehwag,Shabbir Ahmed,1,0,null,1,0,null,null
+28,3.7,V Sehwag,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+29,4.1,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,1,SR Tendulkar,caught
+30,4.2,VVS Laxman,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+31,4.3,VVS Laxman,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+32,4.4,VVS Laxman,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+33,4.5,VVS Laxman,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+34,4.6,VVS Laxman,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+35,5.1,V Sehwag,VVS Laxman,Shabbir Ahmed,0,1,wides ,1,0,null,null
+36,5.2,V Sehwag,VVS Laxman,Shabbir Ahmed,1,0,null,1,0,null,null
+37,5.3,VVS Laxman,V Sehwag,Shabbir Ahmed,0,1,legbyes ,1,0,null,null
+38,5.4,V Sehwag,VVS Laxman,Shabbir Ahmed,1,0,null,1,0,null,null
+39,5.5,VVS Laxman,V Sehwag,Shabbir Ahmed,0,0,null,0,0,null,null
+40,5.6,VVS Laxman,V Sehwag,Shabbir Ahmed,0,0,null,0,0,null,null
+41,5.7,VVS Laxman,V Sehwag,Shabbir Ahmed,0,1,noballs ,1,0,null,null
+42,5.8,VVS Laxman,V Sehwag,Shabbir Ahmed,4,0,null,4,0,null,null
+43,6.1,V Sehwag,VVS Laxman,Shoaib Akhtar,4,0,null,4,0,null,null
+44,6.2,V Sehwag,VVS Laxman,Shoaib Akhtar,0,0,null,0,0,null,null
+45,6.3,V Sehwag,VVS Laxman,Shoaib Akhtar,4,0,null,4,0,null,null
+46,6.4,V Sehwag,VVS Laxman,Shoaib Akhtar,0,0,null,0,0,null,null
+47,6.5,V Sehwag,VVS Laxman,Shoaib Akhtar,0,0,null,0,0,null,null
+48,6.6,V Sehwag,VVS Laxman,Shoaib Akhtar,0,0,null,0,0,null,null
+49,7.1,VVS Laxman,V Sehwag,Shabbir Ahmed,2,0,null,2,0,null,null
+50,7.2,VVS Laxman,V Sehwag,Shabbir Ahmed,0,0,null,0,0,null,null
+51,7.3,VVS Laxman,V Sehwag,Shabbir Ahmed,4,0,null,4,0,null,null
+52,7.4,VVS Laxman,V Sehwag,Shabbir Ahmed,4,0,null,4,0,null,null
+53,7.5,VVS Laxman,V Sehwag,Shabbir Ahmed,4,0,null,4,0,null,null
+54,7.6,VVS Laxman,V Sehwag,Shabbir Ahmed,1,1,noballs ,2,0,null,null
+55,7.7,V Sehwag,VVS Laxman,Shabbir Ahmed,0,0,null,0,0,null,null
+56,8.1,VVS Laxman,V Sehwag,Shoaib Akhtar,1,0,null,1,0,null,null
+57,8.2,V Sehwag,VVS Laxman,Shoaib Akhtar,0,0,null,0,0,null,null
+58,8.3,V Sehwag,VVS Laxman,Shoaib Akhtar,1,0,null,1,0,null,null
+59,8.4,VVS Laxman,V Sehwag,Shoaib Akhtar,0,0,null,0,1,VVS Laxman,bowled
+60,8.5,SC Ganguly,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+61,8.6,SC Ganguly,V Sehwag,Shoaib Akhtar,4,0,null,4,0,null,null
+62,9.1,V Sehwag,SC Ganguly,Mohammad Sami,0,0,null,0,0,null,null
+63,9.2,V Sehwag,SC Ganguly,Mohammad Sami,0,0,null,0,0,null,null
+64,9.3,V Sehwag,SC Ganguly,Mohammad Sami,0,1,legbyes ,1,0,null,null
+65,9.4,SC Ganguly,V Sehwag,Mohammad Sami,0,0,null,0,0,null,null
+66,9.5,SC Ganguly,V Sehwag,Mohammad Sami,1,0,null,1,0,null,null
+67,9.6,V Sehwag,SC Ganguly,Mohammad Sami,0,0,null,0,1,V Sehwag,caught
+68,10.1,SC Ganguly,R Dravid,Abdul Razzaq,4,0,null,4,0,null,null
+69,10.2,SC Ganguly,R Dravid,Abdul Razzaq,3,0,null,3,0,null,null
+70,10.3,R Dravid,SC Ganguly,Abdul Razzaq,0,0,null,0,0,null,null
+71,10.4,R Dravid,SC Ganguly,Abdul Razzaq,0,0,null,0,0,null,null
+72,10.5,R Dravid,SC Ganguly,Abdul Razzaq,0,0,null,0,0,null,null
+73,10.6,R Dravid,SC Ganguly,Abdul Razzaq,0,0,null,0,0,null,null
+74,11.1,SC Ganguly,R Dravid,Mohammad Sami,1,0,null,1,0,null,null
+75,11.2,R Dravid,SC Ganguly,Mohammad Sami,0,0,null,0,0,null,null
+76,11.3,R Dravid,SC Ganguly,Mohammad Sami,1,0,null,1,0,null,null
+77,11.4,SC Ganguly,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+78,11.5,SC Ganguly,R Dravid,Mohammad Sami,6,0,null,6,0,null,null
+79,11.6,SC Ganguly,R Dravid,Mohammad Sami,1,0,null,1,0,null,null
+80,12.1,SC Ganguly,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+81,12.2,SC Ganguly,R Dravid,Abdul Razzaq,0,1,noballs ,1,0,null,null
+82,12.3,SC Ganguly,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+83,12.4,SC Ganguly,R Dravid,Abdul Razzaq,1,0,null,1,0,null,null
+84,12.5,R Dravid,SC Ganguly,Abdul Razzaq,0,0,null,0,0,null,null
+85,12.6,R Dravid,SC Ganguly,Abdul Razzaq,1,0,null,1,0,null,null
+86,12.7,SC Ganguly,R Dravid,Abdul Razzaq,0,0,null,0,1,SC Ganguly,caught
+87,13.1,R Dravid,Yuvraj Singh,Mohammad Sami,0,0,null,0,0,null,null
+88,13.2,R Dravid,Yuvraj Singh,Mohammad Sami,0,0,null,0,0,null,null
+89,13.3,R Dravid,Yuvraj Singh,Mohammad Sami,0,0,null,0,0,null,null
+90,13.4,R Dravid,Yuvraj Singh,Mohammad Sami,0,0,null,0,0,null,null
+91,13.5,R Dravid,Yuvraj Singh,Mohammad Sami,0,0,null,0,0,null,null
+92,13.6,R Dravid,Yuvraj Singh,Mohammad Sami,4,0,null,4,0,null,null
+93,14.1,Yuvraj Singh,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+94,14.2,Yuvraj Singh,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+95,14.3,Yuvraj Singh,R Dravid,Abdul Razzaq,4,0,null,4,0,null,null
+96,14.4,Yuvraj Singh,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+97,14.5,Yuvraj Singh,R Dravid,Abdul Razzaq,1,0,null,1,0,null,null
+98,14.6,R Dravid,Yuvraj Singh,Abdul Razzaq,0,0,null,0,0,null,null
+99,15.1,Yuvraj Singh,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+100,15.2,Yuvraj Singh,R Dravid,Mohammad Sami,4,0,null,4,0,null,null
+101,15.3,Yuvraj Singh,R Dravid,Mohammad Sami,0,1,legbyes ,1,0,null,null
+102,15.4,R Dravid,Yuvraj Singh,Mohammad Sami,0,1,legbyes ,1,0,null,null
+103,15.5,Yuvraj Singh,R Dravid,Mohammad Sami,1,0,null,1,0,null,null
+104,15.6,R Dravid,Yuvraj Singh,Mohammad Sami,4,0,null,4,0,null,null
+105,16.1,Yuvraj Singh,R Dravid,Abdul Razzaq,2,0,null,2,0,null,null
+106,16.2,Yuvraj Singh,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+107,16.3,Yuvraj Singh,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+108,16.4,Yuvraj Singh,R Dravid,Abdul Razzaq,1,0,null,1,0,null,null
+109,16.5,R Dravid,Yuvraj Singh,Abdul Razzaq,0,0,null,0,0,null,null
+110,16.6,R Dravid,Yuvraj Singh,Abdul Razzaq,0,0,null,0,0,null,null
+111,17.1,Yuvraj Singh,R Dravid,Shoaib Malik,4,0,null,4,0,null,null
+112,17.2,Yuvraj Singh,R Dravid,Shoaib Malik,0,0,null,0,0,null,null
+113,17.3,Yuvraj Singh,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+114,17.4,R Dravid,Yuvraj Singh,Shoaib Malik,0,0,null,0,0,null,null
+115,17.5,R Dravid,Yuvraj Singh,Shoaib Malik,0,0,null,0,0,null,null
+116,17.6,R Dravid,Yuvraj Singh,Shoaib Malik,0,0,null,0,0,null,null
+117,18.1,Yuvraj Singh,R Dravid,Abdul Razzaq,0,1,noballs ,1,0,null,null
+118,18.2,Yuvraj Singh,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+119,18.3,Yuvraj Singh,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+120,18.4,Yuvraj Singh,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+121,18.5,Yuvraj Singh,R Dravid,Abdul Razzaq,1,0,null,1,0,null,null
+122,18.6,R Dravid,Yuvraj Singh,Abdul Razzaq,0,0,null,0,0,null,null
+123,18.7,R Dravid,Yuvraj Singh,Abdul Razzaq,0,1,noballs ,1,0,null,null
+124,18.8,R Dravid,Yuvraj Singh,Abdul Razzaq,4,0,null,4,0,null,null
+125,19.1,Yuvraj Singh,R Dravid,Shoaib Malik,2,0,null,2,0,null,null
+126,19.2,Yuvraj Singh,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+127,19.3,R Dravid,Yuvraj Singh,Shoaib Malik,0,0,null,0,0,null,null
+128,19.4,R Dravid,Yuvraj Singh,Shoaib Malik,4,0,null,4,0,null,null
+129,19.5,R Dravid,Yuvraj Singh,Shoaib Malik,0,0,null,0,0,null,null
+130,19.6,R Dravid,Yuvraj Singh,Shoaib Malik,1,0,null,1,0,null,null
+131,20.1,R Dravid,Yuvraj Singh,Shoaib Akhtar,4,0,null,4,0,null,null
+132,20.2,R Dravid,Yuvraj Singh,Shoaib Akhtar,1,0,null,1,0,null,null
+133,20.3,Yuvraj Singh,R Dravid,Shoaib Akhtar,0,0,null,0,0,null,null
+134,20.4,Yuvraj Singh,R Dravid,Shoaib Akhtar,1,0,null,1,0,null,null
+135,20.5,R Dravid,Yuvraj Singh,Shoaib Akhtar,1,0,null,1,0,null,null
+136,20.6,Yuvraj Singh,R Dravid,Shoaib Akhtar,1,0,null,1,0,null,null
+137,21.1,Yuvraj Singh,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+138,21.2,R Dravid,Yuvraj Singh,Shoaib Malik,1,0,null,1,0,null,null
+139,21.3,Yuvraj Singh,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+140,21.4,R Dravid,Yuvraj Singh,Shoaib Malik,0,0,null,0,0,null,null
+141,21.5,R Dravid,Yuvraj Singh,Shoaib Malik,0,0,null,0,0,null,null
+142,21.6,R Dravid,Yuvraj Singh,Shoaib Malik,1,0,null,1,0,null,null
+143,22.1,R Dravid,Yuvraj Singh,Shoaib Akhtar,1,0,null,1,0,null,null
+144,22.2,Yuvraj Singh,R Dravid,Shoaib Akhtar,2,0,null,2,0,null,null
+145,22.3,Yuvraj Singh,R Dravid,Shoaib Akhtar,0,1,wides ,1,0,null,null
+146,22.4,Yuvraj Singh,R Dravid,Shoaib Akhtar,4,0,null,4,0,null,null
+147,22.5,Yuvraj Singh,R Dravid,Shoaib Akhtar,0,0,null,0,0,null,null
+148,22.6,Yuvraj Singh,R Dravid,Shoaib Akhtar,4,0,null,4,0,null,null
+149,22.7,Yuvraj Singh,R Dravid,Shoaib Akhtar,0,0,null,0,0,null,null
+150,23.1,R Dravid,Yuvraj Singh,Mohammad Sami,0,0,null,0,0,null,null
+151,23.2,R Dravid,Yuvraj Singh,Mohammad Sami,1,0,null,1,0,null,null
+152,23.3,Yuvraj Singh,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+153,23.4,Yuvraj Singh,R Dravid,Mohammad Sami,0,0,null,0,1,Yuvraj Singh,caught
+154,23.5,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+155,23.6,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+156,24.1,R Dravid,M Kaif,Shabbir Ahmed,0,1,legbyes ,1,0,null,null
+157,24.2,M Kaif,R Dravid,Shabbir Ahmed,2,1,noballs ,3,0,null,null
+158,24.3,M Kaif,R Dravid,Shabbir Ahmed,1,0,null,1,0,null,null
+159,24.4,R Dravid,M Kaif,Shabbir Ahmed,0,0,null,0,0,null,null
+160,24.5,R Dravid,M Kaif,Shabbir Ahmed,1,0,null,1,0,null,null
+161,24.6,M Kaif,R Dravid,Shabbir Ahmed,0,0,null,0,0,null,null
+162,24.7,M Kaif,R Dravid,Shabbir Ahmed,2,0,null,2,0,null,null
+163,25.1,R Dravid,M Kaif,Mohammad Sami,0,1,wides ,1,0,null,null
+164,25.2,R Dravid,M Kaif,Mohammad Sami,0,0,null,0,0,null,null
+165,25.3,R Dravid,M Kaif,Mohammad Sami,4,0,null,4,0,null,null
+166,25.4,R Dravid,M Kaif,Mohammad Sami,1,0,null,1,0,null,null
+167,25.5,M Kaif,R Dravid,Mohammad Sami,1,0,null,1,0,null,null
+168,25.6,R Dravid,M Kaif,Mohammad Sami,0,0,null,0,0,null,null
+169,25.7,R Dravid,M Kaif,Mohammad Sami,1,0,null,1,0,null,null
+170,26.1,R Dravid,M Kaif,Shahid Afridi,4,0,null,4,0,null,null
+171,26.2,R Dravid,M Kaif,Shahid Afridi,4,0,null,4,0,null,null
+172,26.3,R Dravid,M Kaif,Shahid Afridi,0,0,null,0,0,null,null
+173,26.4,R Dravid,M Kaif,Shahid Afridi,1,0,null,1,0,null,null
+174,26.5,M Kaif,R Dravid,Shahid Afridi,0,1,noballs ,1,0,null,null
+175,26.6,M Kaif,R Dravid,Shahid Afridi,2,0,null,2,0,null,null
+176,26.7,M Kaif,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+177,27.1,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+178,27.2,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+179,27.3,M Kaif,R Dravid,Mohammad Sami,2,0,null,2,0,null,null
+180,27.4,M Kaif,R Dravid,Mohammad Sami,1,0,null,1,0,null,null
+181,27.5,R Dravid,M Kaif,Mohammad Sami,0,0,null,0,0,null,null
+182,27.6,R Dravid,M Kaif,Mohammad Sami,0,0,null,0,0,null,null
+183,28.1,M Kaif,R Dravid,Shoaib Malik,0,0,null,0,0,null,null
+184,28.2,M Kaif,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+185,28.3,R Dravid,M Kaif,Shoaib Malik,0,0,null,0,0,null,null
+186,28.4,R Dravid,M Kaif,Shoaib Malik,0,0,null,0,0,null,null
+187,28.5,R Dravid,M Kaif,Shoaib Malik,1,0,null,1,0,null,null
+188,28.6,M Kaif,R Dravid,Shoaib Malik,0,0,null,0,0,null,null
+189,29.1,R Dravid,M Kaif,Mohammad Sami,1,0,null,1,0,null,null
+190,29.2,M Kaif,R Dravid,Mohammad Sami,0,1,wides ,1,0,null,null
+191,29.3,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+192,29.4,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+193,29.5,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+194,29.6,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+195,29.7,M Kaif,R Dravid,Mohammad Sami,1,0,null,1,0,null,null
+196,30.1,M Kaif,R Dravid,Abdul Razzaq,2,0,null,2,0,null,null
+197,30.2,M Kaif,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+198,30.3,M Kaif,R Dravid,Abdul Razzaq,1,0,null,1,0,null,null
+199,30.4,R Dravid,M Kaif,Abdul Razzaq,1,0,null,1,0,null,null
+200,30.5,M Kaif,R Dravid,Abdul Razzaq,1,0,null,1,0,null,null
+201,30.6,R Dravid,M Kaif,Abdul Razzaq,2,0,null,2,0,null,null
+202,31.1,M Kaif,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+203,31.2,R Dravid,M Kaif,Shoaib Malik,1,0,null,1,0,null,null
+204,31.3,M Kaif,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+205,31.4,R Dravid,M Kaif,Shoaib Malik,0,0,null,0,0,null,null
+206,31.5,R Dravid,M Kaif,Shoaib Malik,2,0,null,2,0,null,null
+207,31.6,R Dravid,M Kaif,Shoaib Malik,2,0,null,2,0,null,null
+208,32.1,M Kaif,R Dravid,Abdul Razzaq,1,0,null,1,0,null,null
+209,32.2,R Dravid,M Kaif,Abdul Razzaq,1,0,null,1,0,null,null
+210,32.3,M Kaif,R Dravid,Abdul Razzaq,4,0,null,4,0,null,null
+211,32.4,M Kaif,R Dravid,Abdul Razzaq,1,0,null,1,0,null,null
+212,32.5,R Dravid,M Kaif,Abdul Razzaq,2,0,null,2,0,null,null
+213,32.6,R Dravid,M Kaif,Abdul Razzaq,1,0,null,1,0,null,null
+214,33.1,R Dravid,M Kaif,Shoaib Malik,0,0,null,0,0,null,null
+215,33.2,R Dravid,M Kaif,Shoaib Malik,0,0,null,0,0,null,null
+216,33.3,R Dravid,M Kaif,Shoaib Malik,1,0,null,1,0,null,null
+217,33.4,M Kaif,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+218,33.5,R Dravid,M Kaif,Shoaib Malik,1,0,null,1,0,null,null
+219,33.6,M Kaif,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+220,34.1,M Kaif,R Dravid,Shoaib Akhtar,0,0,null,0,0,null,null
+221,34.2,M Kaif,R Dravid,Shoaib Akhtar,4,0,null,4,0,null,null
+222,34.3,M Kaif,R Dravid,Shoaib Akhtar,0,0,null,0,0,null,null
+223,34.4,M Kaif,R Dravid,Shoaib Akhtar,0,0,null,0,0,null,null
+224,34.5,M Kaif,R Dravid,Shoaib Akhtar,0,5,wides ,5,0,null,null
+225,34.6,M Kaif,R Dravid,Shoaib Akhtar,0,0,null,0,0,null,null
+226,34.7,M Kaif,R Dravid,Shoaib Akhtar,4,0,null,4,0,null,null
+227,35.1,R Dravid,M Kaif,Mohammad Sami,1,0,null,1,0,null,null
+228,35.2,M Kaif,R Dravid,Mohammad Sami,0,1,legbyes ,1,0,null,null
+229,35.3,R Dravid,M Kaif,Mohammad Sami,1,0,null,1,0,null,null
+230,35.4,M Kaif,R Dravid,Mohammad Sami,0,1,wides ,1,0,null,null
+231,35.5,M Kaif,R Dravid,Mohammad Sami,4,0,null,4,0,null,null
+232,35.6,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+233,35.7,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+234,36.1,R Dravid,M Kaif,Shoaib Akhtar,0,1,wides ,1,0,null,null
+235,36.2,R Dravid,M Kaif,Shoaib Akhtar,0,0,null,0,0,null,null
+236,36.3,R Dravid,M Kaif,Shoaib Akhtar,0,0,null,0,0,null,null
+237,36.4,R Dravid,M Kaif,Shoaib Akhtar,0,0,null,0,0,null,null
+238,36.5,R Dravid,M Kaif,Shoaib Akhtar,0,0,null,0,0,null,null
+239,36.6,R Dravid,M Kaif,Shoaib Akhtar,0,0,null,0,0,null,null
+240,36.7,R Dravid,M Kaif,Shoaib Akhtar,0,0,null,0,0,null,null
+241,37.1,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+242,37.2,M Kaif,R Dravid,Mohammad Sami,4,0,null,4,0,null,null
+243,37.3,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+244,37.4,M Kaif,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+245,37.5,M Kaif,R Dravid,Mohammad Sami,1,0,null,1,0,null,null
+246,37.6,R Dravid,M Kaif,Mohammad Sami,0,0,null,0,0,null,null
+247,38.1,M Kaif,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+248,38.2,R Dravid,M Kaif,Shahid Afridi,0,0,null,0,0,null,null
+249,38.3,R Dravid,M Kaif,Shahid Afridi,0,0,null,0,0,null,null
+250,38.4,R Dravid,M Kaif,Shahid Afridi,1,0,null,1,0,null,null
+251,38.5,M Kaif,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+252,38.6,M Kaif,R Dravid,Shahid Afridi,0,1,wides ,1,0,null,null
+253,38.7,M Kaif,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+254,39.1,M Kaif,R Dravid,Shabbir Ahmed,0,0,null,0,0,null,null
+255,39.2,M Kaif,R Dravid,Shabbir Ahmed,0,0,null,0,0,null,null
+256,39.3,M Kaif,R Dravid,Shabbir Ahmed,0,0,null,0,0,null,null
+257,39.4,M Kaif,R Dravid,Shabbir Ahmed,4,0,null,4,0,null,null
+258,39.5,M Kaif,R Dravid,Shabbir Ahmed,0,0,null,0,0,null,null
+259,39.6,M Kaif,R Dravid,Shabbir Ahmed,1,0,null,1,0,null,null
+260,40.1,M Kaif,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+261,40.2,M Kaif,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+262,40.3,R Dravid,M Kaif,Shahid Afridi,1,0,null,1,0,null,null
+263,40.4,M Kaif,R Dravid,Shahid Afridi,2,0,null,2,0,null,null
+264,40.5,M Kaif,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+265,40.6,M Kaif,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+266,41.1,M Kaif,R Dravid,Shabbir Ahmed,0,0,null,0,0,null,null
+267,41.2,M Kaif,R Dravid,Shabbir Ahmed,2,0,null,2,0,null,null
+268,41.3,M Kaif,R Dravid,Shabbir Ahmed,0,0,null,0,0,null,null
+269,41.4,M Kaif,R Dravid,Shabbir Ahmed,4,0,null,4,0,null,null
+270,41.5,M Kaif,R Dravid,Shabbir Ahmed,4,0,null,4,0,null,null
+271,41.6,M Kaif,R Dravid,Shabbir Ahmed,0,0,null,0,0,null,null
+272,42.1,R Dravid,M Kaif,Shahid Afridi,1,0,null,1,0,null,null
+273,42.2,M Kaif,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+274,42.3,M Kaif,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+275,42.4,M Kaif,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+276,42.5,R Dravid,M Kaif,Shahid Afridi,1,0,null,1,0,null,null
+277,42.6,M Kaif,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+278,43.1,R Dravid,M Kaif,Shoaib Malik,0,0,null,0,0,null,null
+279,43.2,R Dravid,M Kaif,Shoaib Malik,1,0,null,1,0,null,null
+280,43.3,M Kaif,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+281,43.4,R Dravid,M Kaif,Shoaib Malik,2,0,null,2,0,null,null
+282,43.5,R Dravid,M Kaif,Shoaib Malik,0,0,null,0,0,null,null
+283,43.6,R Dravid,M Kaif,Shoaib Malik,4,0,null,4,0,null,null
+284,44.1,M Kaif,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+285,44.2,R Dravid,M Kaif,Shahid Afridi,1,0,null,1,0,null,null
+286,44.3,M Kaif,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+287,44.4,M Kaif,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+288,44.5,R Dravid,M Kaif,Shahid Afridi,1,0,null,1,0,null,null
+289,44.6,M Kaif,R Dravid,Shahid Afridi,1,0,null,1,0,null,null

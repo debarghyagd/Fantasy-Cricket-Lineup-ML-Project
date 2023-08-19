@@ -1,0 +1,306 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+1,0.2,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+2,0.3,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+3,0.4,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+4,0.5,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+5,0.6,SE Marsh,SR Watson,Mashrafe Mortaza,4,0,null,4,0,null,null
+6,1.1,SR Watson,SE Marsh,Shahadat Hossain,0,0,null,0,0,null,null
+7,1.2,SR Watson,SE Marsh,Shahadat Hossain,0,0,null,0,0,null,null
+8,1.3,SR Watson,SE Marsh,Shahadat Hossain,0,0,null,0,0,null,null
+9,1.4,SR Watson,SE Marsh,Shahadat Hossain,0,0,null,0,0,null,null
+10,1.5,SR Watson,SE Marsh,Shahadat Hossain,4,0,null,4,0,null,null
+11,1.6,SR Watson,SE Marsh,Shahadat Hossain,0,0,null,0,0,null,null
+12,2.1,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+13,2.2,SE Marsh,SR Watson,Mashrafe Mortaza,3,0,null,3,0,null,null
+14,2.3,SR Watson,SE Marsh,Mashrafe Mortaza,1,0,null,1,0,null,null
+15,2.4,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+16,2.5,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+17,2.6,SE Marsh,SR Watson,Mashrafe Mortaza,0,1,legbyes ,1,0,null,null
+18,3.1,SE Marsh,SR Watson,Shahadat Hossain,0,0,null,0,0,null,null
+19,3.2,SE Marsh,SR Watson,Shahadat Hossain,4,0,null,4,0,null,null
+20,3.3,SE Marsh,SR Watson,Shahadat Hossain,0,0,null,0,0,null,null
+21,3.4,SE Marsh,SR Watson,Shahadat Hossain,0,0,null,0,0,null,null
+22,3.5,SE Marsh,SR Watson,Shahadat Hossain,0,0,null,0,0,null,null
+23,3.6,SE Marsh,SR Watson,Shahadat Hossain,1,0,null,1,0,null,null
+24,4.1,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+25,4.2,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+26,4.3,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+27,4.4,SE Marsh,SR Watson,Mashrafe Mortaza,1,0,null,1,0,null,null
+28,4.5,SR Watson,SE Marsh,Mashrafe Mortaza,0,0,null,0,0,null,null
+29,4.6,SR Watson,SE Marsh,Mashrafe Mortaza,2,0,null,2,0,null,null
+30,5.1,SE Marsh,SR Watson,Shahadat Hossain,4,0,null,4,0,null,null
+31,5.2,SE Marsh,SR Watson,Shahadat Hossain,0,0,null,0,0,null,null
+32,5.3,SE Marsh,SR Watson,Shahadat Hossain,2,0,null,2,0,null,null
+33,5.4,SE Marsh,SR Watson,Shahadat Hossain,0,1,wides ,1,0,null,null
+34,5.5,SE Marsh,SR Watson,Shahadat Hossain,1,0,null,1,0,null,null
+35,5.6,SR Watson,SE Marsh,Shahadat Hossain,0,0,null,0,0,null,null
+36,5.7,SR Watson,SE Marsh,Shahadat Hossain,0,0,null,0,0,null,null
+37,6.1,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+38,6.2,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+39,6.3,SE Marsh,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+40,6.4,SE Marsh,SR Watson,Mashrafe Mortaza,1,0,null,1,0,null,null
+41,6.5,SR Watson,SE Marsh,Mashrafe Mortaza,1,0,null,1,0,null,null
+42,6.6,SE Marsh,SR Watson,Mashrafe Mortaza,1,0,null,1,0,null,null
+43,7.1,SE Marsh,SR Watson,Shahadat Hossain,4,0,null,4,0,null,null
+44,7.2,SE Marsh,SR Watson,Shahadat Hossain,0,0,null,0,0,null,null
+45,7.3,SE Marsh,SR Watson,Shahadat Hossain,0,0,null,0,0,null,null
+46,7.4,SE Marsh,SR Watson,Shahadat Hossain,1,0,null,1,0,null,null
+47,7.5,SR Watson,SE Marsh,Shahadat Hossain,1,0,null,1,0,null,null
+48,7.6,SE Marsh,SR Watson,Shahadat Hossain,3,0,null,3,0,null,null
+49,8.1,SE Marsh,SR Watson,Farhad Reza,0,0,null,0,1,SE Marsh,bowled
+50,8.2,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+51,8.3,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+52,8.4,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+53,8.5,MJ Clarke,SR Watson,Farhad Reza,0,1,wides ,1,0,null,null
+54,8.6,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+55,8.7,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+56,9.1,SR Watson,MJ Clarke,Shahadat Hossain,0,0,null,0,0,null,null
+57,9.2,SR Watson,MJ Clarke,Shahadat Hossain,0,0,null,0,0,null,null
+58,9.3,SR Watson,MJ Clarke,Shahadat Hossain,1,0,null,1,0,null,null
+59,9.4,MJ Clarke,SR Watson,Shahadat Hossain,0,0,null,0,0,null,null
+60,9.5,MJ Clarke,SR Watson,Shahadat Hossain,1,0,null,1,0,null,null
+61,9.6,SR Watson,MJ Clarke,Shahadat Hossain,0,0,null,0,0,null,null
+62,10.1,MJ Clarke,SR Watson,Farhad Reza,2,0,null,2,0,null,null
+63,10.2,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+64,10.3,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+65,10.4,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+66,10.5,MJ Clarke,SR Watson,Farhad Reza,0,1,wides ,1,0,null,null
+67,10.6,MJ Clarke,SR Watson,Farhad Reza,2,0,null,2,0,null,null
+68,10.7,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+69,11.1,SR Watson,MJ Clarke,Mashrafe Mortaza,0,0,null,0,0,null,null
+70,11.2,SR Watson,MJ Clarke,Mashrafe Mortaza,1,0,null,1,0,null,null
+71,11.3,MJ Clarke,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+72,11.4,MJ Clarke,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+73,11.5,MJ Clarke,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+74,11.6,MJ Clarke,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+75,12.1,SR Watson,MJ Clarke,Farhad Reza,1,0,null,1,0,null,null
+76,12.2,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+77,12.3,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+78,12.4,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+79,12.5,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+80,12.6,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+81,13.1,SR Watson,MJ Clarke,Mashrafe Mortaza,0,0,null,0,0,null,null
+82,13.2,SR Watson,MJ Clarke,Mashrafe Mortaza,4,0,null,4,0,null,null
+83,13.3,SR Watson,MJ Clarke,Mashrafe Mortaza,0,0,null,0,0,null,null
+84,13.4,SR Watson,MJ Clarke,Mashrafe Mortaza,1,0,null,1,0,null,null
+85,13.5,MJ Clarke,SR Watson,Mashrafe Mortaza,0,0,null,0,0,null,null
+86,13.6,MJ Clarke,SR Watson,Mashrafe Mortaza,1,0,null,1,0,null,null
+87,14.1,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+88,14.2,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+89,14.3,MJ Clarke,SR Watson,Farhad Reza,1,0,null,1,0,null,null
+90,14.4,SR Watson,MJ Clarke,Farhad Reza,1,0,null,1,0,null,null
+91,14.5,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+92,14.6,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+93,15.1,SR Watson,MJ Clarke,Shakib Al Hasan,1,0,null,1,0,null,null
+94,15.2,MJ Clarke,SR Watson,Shakib Al Hasan,1,0,null,1,0,null,null
+95,15.3,SR Watson,MJ Clarke,Shakib Al Hasan,0,0,null,0,0,null,null
+96,15.4,SR Watson,MJ Clarke,Shakib Al Hasan,2,0,null,2,0,null,null
+97,15.5,SR Watson,MJ Clarke,Shakib Al Hasan,0,0,null,0,0,null,null
+98,15.6,SR Watson,MJ Clarke,Shakib Al Hasan,0,0,null,0,0,null,null
+99,16.1,MJ Clarke,SR Watson,Farhad Reza,2,0,null,2,0,null,null
+100,16.2,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+101,16.3,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+102,16.4,MJ Clarke,SR Watson,Farhad Reza,0,0,null,0,0,null,null
+103,16.5,MJ Clarke,SR Watson,Farhad Reza,3,0,null,3,0,null,null
+104,16.6,SR Watson,MJ Clarke,Farhad Reza,1,0,null,1,0,null,null
+105,17.1,SR Watson,MJ Clarke,Shakib Al Hasan,0,0,null,0,0,null,null
+106,17.2,SR Watson,MJ Clarke,Shakib Al Hasan,0,0,null,0,0,null,null
+107,17.3,SR Watson,MJ Clarke,Shakib Al Hasan,0,0,null,0,0,null,null
+108,17.4,SR Watson,MJ Clarke,Shakib Al Hasan,1,0,null,1,0,null,null
+109,17.5,MJ Clarke,SR Watson,Shakib Al Hasan,0,0,null,0,0,null,null
+110,17.6,MJ Clarke,SR Watson,Shakib Al Hasan,1,0,null,1,0,null,null
+111,18.1,MJ Clarke,SR Watson,Abdur Razzak,0,0,null,0,0,null,null
+112,18.2,MJ Clarke,SR Watson,Abdur Razzak,0,0,null,0,0,null,null
+113,18.3,MJ Clarke,SR Watson,Abdur Razzak,0,0,null,0,0,null,null
+114,18.4,MJ Clarke,SR Watson,Abdur Razzak,0,0,null,0,0,null,null
+115,18.5,MJ Clarke,SR Watson,Abdur Razzak,1,0,null,1,0,null,null
+116,18.6,SR Watson,MJ Clarke,Abdur Razzak,0,0,null,0,0,null,null
+117,19.1,MJ Clarke,SR Watson,Shakib Al Hasan,1,0,null,1,0,null,null
+118,19.2,SR Watson,MJ Clarke,Shakib Al Hasan,0,0,null,0,0,null,null
+119,19.3,SR Watson,MJ Clarke,Shakib Al Hasan,1,0,null,1,0,null,null
+120,19.4,MJ Clarke,SR Watson,Shakib Al Hasan,0,0,null,0,0,null,null
+121,19.5,MJ Clarke,SR Watson,Shakib Al Hasan,0,0,null,0,0,null,null
+122,19.6,MJ Clarke,SR Watson,Shakib Al Hasan,1,0,null,1,0,null,null
+123,20.1,MJ Clarke,SR Watson,Abdur Razzak,0,0,null,0,0,null,null
+124,20.2,MJ Clarke,SR Watson,Abdur Razzak,1,0,null,1,0,null,null
+125,20.3,SR Watson,MJ Clarke,Abdur Razzak,1,0,null,1,0,null,null
+126,20.4,MJ Clarke,SR Watson,Abdur Razzak,0,0,null,0,0,null,null
+127,20.5,MJ Clarke,SR Watson,Abdur Razzak,0,0,null,0,0,null,null
+128,20.6,MJ Clarke,SR Watson,Abdur Razzak,1,0,null,1,0,null,null
+129,21.1,MJ Clarke,SR Watson,Shakib Al Hasan,0,0,null,0,0,null,null
+130,21.2,MJ Clarke,SR Watson,Shakib Al Hasan,1,0,null,1,0,null,null
+131,21.3,SR Watson,MJ Clarke,Shakib Al Hasan,0,0,null,0,0,null,null
+132,21.4,SR Watson,MJ Clarke,Shakib Al Hasan,1,0,null,1,0,null,null
+133,21.5,MJ Clarke,SR Watson,Shakib Al Hasan,0,0,null,0,0,null,null
+134,21.6,MJ Clarke,SR Watson,Shakib Al Hasan,1,0,null,1,0,null,null
+135,22.1,MJ Clarke,SR Watson,Abdur Razzak,1,0,null,1,0,null,null
+136,22.2,SR Watson,MJ Clarke,Abdur Razzak,0,0,null,0,0,null,null
+137,22.3,SR Watson,MJ Clarke,Abdur Razzak,1,0,null,1,0,null,null
+138,22.4,MJ Clarke,SR Watson,Abdur Razzak,0,0,null,0,0,null,null
+139,22.5,MJ Clarke,SR Watson,Abdur Razzak,1,0,null,1,0,null,null
+140,22.6,SR Watson,MJ Clarke,Abdur Razzak,0,0,null,0,0,null,null
+141,23.1,MJ Clarke,SR Watson,Shakib Al Hasan,0,0,null,0,0,null,null
+142,23.2,MJ Clarke,SR Watson,Shakib Al Hasan,0,0,null,0,0,null,null
+143,23.3,MJ Clarke,SR Watson,Shakib Al Hasan,0,0,null,0,0,null,null
+144,23.4,MJ Clarke,SR Watson,Shakib Al Hasan,0,0,null,0,0,null,null
+145,23.5,MJ Clarke,SR Watson,Shakib Al Hasan,0,0,null,0,1,SR Watson,run out
+146,23.6,MEK Hussey,MJ Clarke,Shakib Al Hasan,1,0,null,1,0,null,null
+147,24.1,MEK Hussey,MJ Clarke,Abdur Razzak,0,0,null,0,0,null,null
+148,24.2,MEK Hussey,MJ Clarke,Abdur Razzak,0,0,null,0,0,null,null
+149,24.3,MEK Hussey,MJ Clarke,Abdur Razzak,0,0,null,0,0,null,null
+150,24.4,MEK Hussey,MJ Clarke,Abdur Razzak,0,0,null,0,0,null,null
+151,24.5,MEK Hussey,MJ Clarke,Abdur Razzak,0,0,null,0,0,null,null
+152,24.6,MEK Hussey,MJ Clarke,Abdur Razzak,0,0,null,0,0,null,null
+153,25.1,MJ Clarke,MEK Hussey,Shakib Al Hasan,2,0,null,2,0,null,null
+154,25.2,MJ Clarke,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+155,25.3,MJ Clarke,MEK Hussey,Shakib Al Hasan,0,0,null,0,1,MJ Clarke,run out
+156,25.4,MEK Hussey,DJ Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+157,25.5,MEK Hussey,DJ Hussey,Shakib Al Hasan,1,0,null,1,0,null,null
+158,25.6,DJ Hussey,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+159,26.1,MEK Hussey,DJ Hussey,Abdur Razzak,1,0,null,1,0,null,null
+160,26.2,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+161,26.3,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+162,26.4,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+163,26.5,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+164,26.6,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+165,27.1,MEK Hussey,DJ Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+166,27.2,MEK Hussey,DJ Hussey,Shakib Al Hasan,1,0,null,1,0,null,null
+167,27.3,DJ Hussey,MEK Hussey,Shakib Al Hasan,1,0,null,1,0,null,null
+168,27.4,MEK Hussey,DJ Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+169,27.5,MEK Hussey,DJ Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+170,27.6,MEK Hussey,DJ Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+171,28.1,DJ Hussey,MEK Hussey,Abdur Razzak,1,0,null,1,0,null,null
+172,28.2,MEK Hussey,DJ Hussey,Abdur Razzak,1,0,null,1,0,null,null
+173,28.3,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+174,28.4,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+175,28.5,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+176,28.6,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+177,29.1,MEK Hussey,DJ Hussey,Mahmudullah,0,0,null,0,0,null,null
+178,29.2,MEK Hussey,DJ Hussey,Mahmudullah,1,0,null,1,0,null,null
+179,29.3,DJ Hussey,MEK Hussey,Mahmudullah,0,0,null,0,0,null,null
+180,29.4,DJ Hussey,MEK Hussey,Mahmudullah,1,0,null,1,0,null,null
+181,29.5,MEK Hussey,DJ Hussey,Mahmudullah,1,0,null,1,0,null,null
+182,29.6,DJ Hussey,MEK Hussey,Mahmudullah,1,0,null,1,0,null,null
+183,30.1,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+184,30.2,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+185,30.3,DJ Hussey,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+186,30.4,DJ Hussey,MEK Hussey,Abdur Razzak,1,0,null,1,0,null,null
+187,30.5,MEK Hussey,DJ Hussey,Abdur Razzak,0,0,null,0,0,null,null
+188,30.6,MEK Hussey,DJ Hussey,Abdur Razzak,0,0,null,0,0,null,null
+189,31.1,DJ Hussey,MEK Hussey,Mahmudullah,1,0,null,1,0,null,null
+190,31.2,MEK Hussey,DJ Hussey,Mahmudullah,0,0,null,0,0,null,null
+191,31.3,MEK Hussey,DJ Hussey,Mahmudullah,0,0,null,0,0,null,null
+192,31.4,MEK Hussey,DJ Hussey,Mahmudullah,2,0,null,2,0,null,null
+193,31.5,MEK Hussey,DJ Hussey,Mahmudullah,0,0,null,0,0,null,null
+194,31.6,MEK Hussey,DJ Hussey,Mahmudullah,0,0,null,0,0,null,null
+195,32.1,DJ Hussey,MEK Hussey,Farhad Reza,1,0,null,1,0,null,null
+196,32.2,MEK Hussey,DJ Hussey,Farhad Reza,0,0,null,0,0,null,null
+197,32.3,MEK Hussey,DJ Hussey,Farhad Reza,2,0,null,2,0,null,null
+198,32.4,MEK Hussey,DJ Hussey,Farhad Reza,0,0,null,0,0,null,null
+199,32.5,MEK Hussey,DJ Hussey,Farhad Reza,1,0,null,1,0,null,null
+200,32.6,DJ Hussey,MEK Hussey,Farhad Reza,1,0,null,1,0,null,null
+201,33.1,DJ Hussey,MEK Hussey,Mahmudullah,0,0,null,0,0,null,null
+202,33.2,DJ Hussey,MEK Hussey,Mahmudullah,1,0,null,1,0,null,null
+203,33.3,MEK Hussey,DJ Hussey,Mahmudullah,1,0,null,1,0,null,null
+204,33.4,DJ Hussey,MEK Hussey,Mahmudullah,1,0,null,1,0,null,null
+205,33.5,MEK Hussey,DJ Hussey,Mahmudullah,0,0,null,0,0,null,null
+206,33.6,MEK Hussey,DJ Hussey,Mahmudullah,0,0,null,0,0,null,null
+207,34.1,DJ Hussey,MEK Hussey,Farhad Reza,1,0,null,1,0,null,null
+208,34.2,MEK Hussey,DJ Hussey,Farhad Reza,0,0,null,0,0,null,null
+209,34.3,MEK Hussey,DJ Hussey,Farhad Reza,1,0,null,1,0,null,null
+210,34.4,DJ Hussey,MEK Hussey,Farhad Reza,0,0,null,0,1,DJ Hussey,run out
+211,34.5,MEK Hussey,BJ Haddin,Farhad Reza,0,0,null,0,0,null,null
+212,34.6,MEK Hussey,BJ Haddin,Farhad Reza,1,0,null,1,0,null,null
+213,35.1,MEK Hussey,BJ Haddin,Shahadat Hossain,2,0,null,2,0,null,null
+214,35.2,MEK Hussey,BJ Haddin,Shahadat Hossain,0,0,null,0,0,null,null
+215,35.3,MEK Hussey,BJ Haddin,Shahadat Hossain,1,0,null,1,0,null,null
+216,35.4,BJ Haddin,MEK Hussey,Shahadat Hossain,0,0,null,0,0,null,null
+217,35.5,BJ Haddin,MEK Hussey,Shahadat Hossain,0,5,wides ,5,0,null,null
+218,35.6,BJ Haddin,MEK Hussey,Shahadat Hossain,1,0,null,1,0,null,null
+219,35.7,MEK Hussey,BJ Haddin,Shahadat Hossain,0,0,null,0,0,null,null
+220,36.1,BJ Haddin,MEK Hussey,Farhad Reza,0,0,null,0,0,null,null
+221,36.2,BJ Haddin,MEK Hussey,Farhad Reza,0,0,null,0,0,null,null
+222,36.3,BJ Haddin,MEK Hussey,Farhad Reza,0,0,null,0,0,null,null
+223,36.4,BJ Haddin,MEK Hussey,Farhad Reza,0,0,null,0,0,null,null
+224,36.5,BJ Haddin,MEK Hussey,Farhad Reza,1,0,null,1,0,null,null
+225,36.6,MEK Hussey,BJ Haddin,Farhad Reza,0,0,null,0,0,null,null
+226,37.1,BJ Haddin,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+227,37.2,BJ Haddin,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+228,37.3,BJ Haddin,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+229,37.4,BJ Haddin,MEK Hussey,Shakib Al Hasan,1,0,null,1,0,null,null
+230,37.5,MEK Hussey,BJ Haddin,Shakib Al Hasan,1,0,null,1,0,null,null
+231,37.6,BJ Haddin,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+232,38.1,MEK Hussey,BJ Haddin,Mahmudullah,1,0,null,1,0,null,null
+233,38.2,BJ Haddin,MEK Hussey,Mahmudullah,1,0,null,1,0,null,null
+234,38.3,MEK Hussey,BJ Haddin,Mahmudullah,1,0,null,1,0,null,null
+235,38.4,BJ Haddin,MEK Hussey,Mahmudullah,1,0,null,1,0,null,null
+236,38.5,MEK Hussey,BJ Haddin,Mahmudullah,1,0,null,1,0,null,null
+237,38.6,BJ Haddin,MEK Hussey,Mahmudullah,0,0,null,0,0,null,null
+238,39.1,MEK Hussey,BJ Haddin,Shakib Al Hasan,1,0,null,1,0,null,null
+239,39.2,BJ Haddin,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+240,39.3,BJ Haddin,MEK Hussey,Shakib Al Hasan,1,0,null,1,0,null,null
+241,39.4,MEK Hussey,BJ Haddin,Shakib Al Hasan,1,0,null,1,0,null,null
+242,39.5,BJ Haddin,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+243,39.6,BJ Haddin,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+244,40.1,MEK Hussey,BJ Haddin,Mashrafe Mortaza,0,0,null,0,0,null,null
+245,40.2,MEK Hussey,BJ Haddin,Mashrafe Mortaza,1,0,null,1,0,null,null
+246,40.3,BJ Haddin,MEK Hussey,Mashrafe Mortaza,0,0,null,0,0,null,null
+247,40.4,BJ Haddin,MEK Hussey,Mashrafe Mortaza,1,0,null,1,0,null,null
+248,40.5,MEK Hussey,BJ Haddin,Mashrafe Mortaza,1,0,null,1,0,null,null
+249,40.6,BJ Haddin,MEK Hussey,Mashrafe Mortaza,1,0,null,1,0,null,null
+250,41.1,BJ Haddin,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+251,41.2,BJ Haddin,MEK Hussey,Abdur Razzak,1,0,null,1,0,null,null
+252,41.3,MEK Hussey,BJ Haddin,Abdur Razzak,4,0,null,4,0,null,null
+253,41.4,MEK Hussey,BJ Haddin,Abdur Razzak,1,0,null,1,0,null,null
+254,41.5,BJ Haddin,MEK Hussey,Abdur Razzak,1,0,null,1,0,null,null
+255,41.6,MEK Hussey,BJ Haddin,Abdur Razzak,0,0,null,0,0,null,null
+256,42.1,BJ Haddin,MEK Hussey,Mashrafe Mortaza,4,0,null,4,0,null,null
+257,42.2,BJ Haddin,MEK Hussey,Mashrafe Mortaza,1,0,null,1,0,null,null
+258,42.3,MEK Hussey,BJ Haddin,Mashrafe Mortaza,1,0,null,1,0,null,null
+259,42.4,BJ Haddin,MEK Hussey,Mashrafe Mortaza,0,0,null,0,0,null,null
+260,42.5,BJ Haddin,MEK Hussey,Mashrafe Mortaza,0,0,null,0,0,null,null
+261,42.6,BJ Haddin,MEK Hussey,Mashrafe Mortaza,1,0,null,1,0,null,null
+262,43.1,BJ Haddin,MEK Hussey,Abdur Razzak,0,0,null,0,1,BJ Haddin,caught
+263,43.2,CL White,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+264,43.3,CL White,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+265,43.4,CL White,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+266,43.5,CL White,MEK Hussey,Abdur Razzak,1,0,null,1,0,null,null
+267,43.6,MEK Hussey,CL White,Abdur Razzak,1,0,null,1,0,null,null
+268,44.1,MEK Hussey,CL White,Shakib Al Hasan,1,0,null,1,0,null,null
+269,44.2,CL White,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+270,44.3,CL White,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+271,44.4,CL White,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+272,44.5,CL White,MEK Hussey,Shakib Al Hasan,0,0,null,0,0,null,null
+273,44.6,CL White,MEK Hussey,Shakib Al Hasan,1,0,null,1,0,null,null
+274,45.1,CL White,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+275,45.2,CL White,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+276,45.3,CL White,MEK Hussey,Abdur Razzak,1,0,null,1,0,null,null
+277,45.4,MEK Hussey,CL White,Abdur Razzak,1,0,null,1,0,null,null
+278,45.5,CL White,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+279,45.6,CL White,MEK Hussey,Abdur Razzak,0,0,null,0,0,null,null
+280,46.1,MEK Hussey,CL White,Farhad Reza,1,0,null,1,0,null,null
+281,46.2,CL White,MEK Hussey,Farhad Reza,6,0,null,6,0,null,null
+282,46.3,CL White,MEK Hussey,Farhad Reza,4,0,null,4,0,null,null
+283,46.4,CL White,MEK Hussey,Farhad Reza,1,0,null,1,0,null,null
+284,46.5,MEK Hussey,CL White,Farhad Reza,0,0,null,0,0,null,null
+285,46.6,MEK Hussey,CL White,Farhad Reza,1,0,null,1,0,null,null
+286,47.1,MEK Hussey,CL White,Mashrafe Mortaza,1,0,null,1,0,null,null
+287,47.2,CL White,MEK Hussey,Mashrafe Mortaza,1,0,null,1,0,null,null
+288,47.3,MEK Hussey,CL White,Mashrafe Mortaza,1,0,null,1,0,null,null
+289,47.4,CL White,MEK Hussey,Mashrafe Mortaza,1,0,null,1,0,null,null
+290,47.5,MEK Hussey,CL White,Mashrafe Mortaza,1,0,null,1,0,null,null
+291,47.6,CL White,MEK Hussey,Mashrafe Mortaza,1,0,null,1,0,null,null
+292,48.1,CL White,MEK Hussey,Farhad Reza,1,0,null,1,0,null,null
+293,48.2,MEK Hussey,CL White,Farhad Reza,1,0,null,1,0,null,null
+294,48.3,CL White,MEK Hussey,Farhad Reza,2,0,null,2,0,null,null
+295,48.4,CL White,MEK Hussey,Farhad Reza,1,0,null,1,0,null,null
+296,48.5,MEK Hussey,CL White,Farhad Reza,0,0,null,0,0,null,null
+297,48.6,MEK Hussey,CL White,Farhad Reza,1,0,null,1,0,null,null
+298,49.1,MEK Hussey,CL White,Mashrafe Mortaza,2,0,null,2,0,null,null
+299,49.2,MEK Hussey,CL White,Mashrafe Mortaza,1,0,null,1,0,null,null
+300,49.3,CL White,MEK Hussey,Mashrafe Mortaza,1,0,null,1,0,null,null
+301,49.4,MEK Hussey,CL White,Mashrafe Mortaza,6,0,null,6,0,null,null
+302,49.5,MEK Hussey,CL White,Mashrafe Mortaza,0,1,wides ,1,0,null,null
+303,49.6,MEK Hussey,CL White,Mashrafe Mortaza,2,0,null,2,0,null,null
+304,49.7,MEK Hussey,CL White,Mashrafe Mortaza,4,0,null,4,0,null,null

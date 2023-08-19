@@ -1,0 +1,311 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,H Masakadza,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+1,0.2,H Masakadza,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+2,0.3,H Masakadza,SF Mire,FJ Klaassen,3,1,noballs ,4,0,null,null
+3,0.4,SF Mire,H Masakadza,FJ Klaassen,1,0,null,1,0,null,null
+4,0.5,H Masakadza,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+5,0.6,H Masakadza,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+6,0.7,H Masakadza,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+7,1.1,SF Mire,H Masakadza,VJ Kingma,0,0,null,0,0,null,null
+8,1.2,SF Mire,H Masakadza,VJ Kingma,0,0,null,0,0,null,null
+9,1.3,SF Mire,H Masakadza,VJ Kingma,0,0,null,0,0,null,null
+10,1.4,SF Mire,H Masakadza,VJ Kingma,0,1,wides ,1,0,null,null
+11,1.5,SF Mire,H Masakadza,VJ Kingma,0,0,null,0,0,null,null
+12,1.6,SF Mire,H Masakadza,VJ Kingma,0,0,null,0,0,null,null
+13,1.7,SF Mire,H Masakadza,VJ Kingma,0,0,null,0,0,null,null
+14,2.1,H Masakadza,SF Mire,FJ Klaassen,1,0,null,1,0,null,null
+15,2.2,SF Mire,H Masakadza,FJ Klaassen,0,0,null,0,0,null,null
+16,2.3,SF Mire,H Masakadza,FJ Klaassen,1,0,null,1,0,null,null
+17,2.4,H Masakadza,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+18,2.5,H Masakadza,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+19,2.6,H Masakadza,SF Mire,FJ Klaassen,0,1,noballs ,1,0,null,null
+20,2.7,H Masakadza,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+21,3.1,SF Mire,H Masakadza,VJ Kingma,0,0,null,0,0,null,null
+22,3.2,SF Mire,H Masakadza,VJ Kingma,4,0,null,4,0,null,null
+23,3.3,SF Mire,H Masakadza,VJ Kingma,1,0,null,1,0,null,null
+24,3.4,H Masakadza,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+25,3.5,H Masakadza,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+26,3.6,H Masakadza,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+27,4.1,SF Mire,H Masakadza,FJ Klaassen,0,0,null,0,0,null,null
+28,4.2,SF Mire,H Masakadza,FJ Klaassen,0,0,null,0,0,null,null
+29,4.3,SF Mire,H Masakadza,FJ Klaassen,4,0,null,4,0,null,null
+30,4.4,SF Mire,H Masakadza,FJ Klaassen,0,0,null,0,0,null,null
+31,4.5,SF Mire,H Masakadza,FJ Klaassen,0,0,null,0,0,null,null
+32,4.6,SF Mire,H Masakadza,FJ Klaassen,0,0,null,0,0,null,null
+33,5.1,H Masakadza,SF Mire,VJ Kingma,0,1,wides ,1,0,null,null
+34,5.2,H Masakadza,SF Mire,VJ Kingma,1,0,null,1,0,null,null
+35,5.3,SF Mire,H Masakadza,VJ Kingma,1,0,null,1,0,null,null
+36,5.4,H Masakadza,SF Mire,VJ Kingma,0,0,null,0,1,H Masakadza,caught
+37,5.5,CR Ervine,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+38,5.6,CR Ervine,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+39,5.7,CR Ervine,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+40,6.1,SF Mire,CR Ervine,FJ Klaassen,0,0,null,0,0,null,null
+41,6.2,SF Mire,CR Ervine,FJ Klaassen,1,0,null,1,0,null,null
+42,6.3,CR Ervine,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+43,6.4,CR Ervine,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+44,6.5,CR Ervine,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+45,6.6,CR Ervine,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+46,7.1,SF Mire,CR Ervine,VJ Kingma,1,0,null,1,0,null,null
+47,7.2,CR Ervine,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+48,7.3,CR Ervine,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+49,7.4,CR Ervine,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+50,7.5,CR Ervine,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+51,7.6,CR Ervine,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+52,8.1,SF Mire,CR Ervine,FJ Klaassen,0,0,null,0,0,null,null
+53,8.2,SF Mire,CR Ervine,FJ Klaassen,4,0,null,4,0,null,null
+54,8.3,SF Mire,CR Ervine,FJ Klaassen,1,0,null,1,0,null,null
+55,8.4,CR Ervine,SF Mire,FJ Klaassen,0,1,wides ,1,0,null,null
+56,8.5,CR Ervine,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+57,8.6,CR Ervine,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+58,8.7,CR Ervine,SF Mire,FJ Klaassen,0,0,null,0,0,null,null
+59,9.1,SF Mire,CR Ervine,VJ Kingma,0,0,null,0,0,null,null
+60,9.2,SF Mire,CR Ervine,VJ Kingma,1,0,null,1,0,null,null
+61,9.3,CR Ervine,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+62,9.4,CR Ervine,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+63,9.5,CR Ervine,SF Mire,VJ Kingma,0,0,null,0,0,null,null
+64,9.6,CR Ervine,SF Mire,VJ Kingma,4,0,null,4,0,null,null
+65,10.1,SF Mire,CR Ervine,FJ Klaassen,0,0,null,0,0,null,null
+66,10.2,SF Mire,CR Ervine,FJ Klaassen,4,0,null,4,0,null,null
+67,10.3,SF Mire,CR Ervine,FJ Klaassen,0,0,null,0,0,null,null
+68,10.4,SF Mire,CR Ervine,FJ Klaassen,0,0,null,0,0,null,null
+69,10.5,SF Mire,CR Ervine,FJ Klaassen,4,0,null,4,0,null,null
+70,10.6,SF Mire,CR Ervine,FJ Klaassen,0,0,null,0,1,SF Mire,caught
+71,11.1,CR Ervine,BRM Taylor,VJ Kingma,0,0,null,0,0,null,null
+72,11.2,CR Ervine,BRM Taylor,VJ Kingma,4,0,null,4,0,null,null
+73,11.3,CR Ervine,BRM Taylor,VJ Kingma,0,0,null,0,0,null,null
+74,11.4,CR Ervine,BRM Taylor,VJ Kingma,1,0,null,1,0,null,null
+75,11.5,BRM Taylor,CR Ervine,VJ Kingma,0,0,null,0,0,null,null
+76,11.6,BRM Taylor,CR Ervine,VJ Kingma,3,0,null,3,0,null,null
+77,12.1,BRM Taylor,CR Ervine,BD Glover,0,0,null,0,0,null,null
+78,12.2,BRM Taylor,CR Ervine,BD Glover,1,0,null,1,0,null,null
+79,12.3,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+80,12.4,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+81,12.5,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+82,12.6,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+83,13.1,BRM Taylor,CR Ervine,Saqib Zulfiqar,0,0,null,0,0,null,null
+84,13.2,BRM Taylor,CR Ervine,Saqib Zulfiqar,0,0,null,0,0,null,null
+85,13.3,BRM Taylor,CR Ervine,Saqib Zulfiqar,0,0,null,0,0,null,null
+86,13.4,BRM Taylor,CR Ervine,Saqib Zulfiqar,1,0,null,1,0,null,null
+87,13.5,CR Ervine,BRM Taylor,Saqib Zulfiqar,0,0,null,0,0,null,null
+88,13.6,CR Ervine,BRM Taylor,Saqib Zulfiqar,2,0,null,2,0,null,null
+89,14.1,BRM Taylor,CR Ervine,BD Glover,0,0,null,0,0,null,null
+90,14.2,BRM Taylor,CR Ervine,BD Glover,1,0,null,1,0,null,null
+91,14.3,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+92,14.4,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+93,14.5,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+94,14.6,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+95,15.1,BRM Taylor,CR Ervine,Saqib Zulfiqar,0,0,null,0,0,null,null
+96,15.2,BRM Taylor,CR Ervine,Saqib Zulfiqar,4,0,null,4,0,null,null
+97,15.3,BRM Taylor,CR Ervine,Saqib Zulfiqar,0,0,null,0,0,null,null
+98,15.4,BRM Taylor,CR Ervine,Saqib Zulfiqar,4,0,null,4,0,null,null
+99,15.5,BRM Taylor,CR Ervine,Saqib Zulfiqar,1,0,null,1,0,null,null
+100,15.6,CR Ervine,BRM Taylor,Saqib Zulfiqar,1,0,null,1,0,null,null
+101,16.1,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+102,16.2,CR Ervine,BRM Taylor,BD Glover,1,0,null,1,0,null,null
+103,16.3,BRM Taylor,CR Ervine,BD Glover,0,1,wides ,1,0,null,null
+104,16.4,BRM Taylor,CR Ervine,BD Glover,4,0,null,4,0,null,null
+105,16.5,BRM Taylor,CR Ervine,BD Glover,0,0,null,0,0,null,null
+106,16.6,BRM Taylor,CR Ervine,BD Glover,0,0,null,0,0,null,null
+107,16.7,BRM Taylor,CR Ervine,BD Glover,0,0,null,0,0,null,null
+108,17.1,CR Ervine,BRM Taylor,Saqib Zulfiqar,0,0,null,0,0,null,null
+109,17.2,CR Ervine,BRM Taylor,Saqib Zulfiqar,1,0,null,1,0,null,null
+110,17.3,BRM Taylor,CR Ervine,Saqib Zulfiqar,1,0,null,1,0,null,null
+111,17.4,CR Ervine,BRM Taylor,Saqib Zulfiqar,0,0,null,0,0,null,null
+112,17.5,CR Ervine,BRM Taylor,Saqib Zulfiqar,0,0,null,0,0,null,null
+113,17.6,CR Ervine,BRM Taylor,Saqib Zulfiqar,0,0,null,0,0,null,null
+114,18.1,BRM Taylor,CR Ervine,BD Glover,0,0,null,0,0,null,null
+115,18.2,BRM Taylor,CR Ervine,BD Glover,0,0,null,0,0,null,null
+116,18.3,BRM Taylor,CR Ervine,BD Glover,2,0,null,2,0,null,null
+117,18.4,BRM Taylor,CR Ervine,BD Glover,1,0,null,1,0,null,null
+118,18.5,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+119,18.6,CR Ervine,BRM Taylor,BD Glover,4,0,null,4,0,null,null
+120,19.1,BRM Taylor,CR Ervine,PM Seelaar,0,0,null,0,0,null,null
+121,19.2,BRM Taylor,CR Ervine,PM Seelaar,0,0,null,0,0,null,null
+122,19.3,BRM Taylor,CR Ervine,PM Seelaar,0,0,null,0,0,null,null
+123,19.4,BRM Taylor,CR Ervine,PM Seelaar,0,0,null,0,0,null,null
+124,19.5,BRM Taylor,CR Ervine,PM Seelaar,1,0,null,1,0,null,null
+125,19.6,CR Ervine,BRM Taylor,PM Seelaar,0,0,null,0,0,null,null
+126,20.1,BRM Taylor,CR Ervine,BD Glover,0,0,null,0,0,null,null
+127,20.2,BRM Taylor,CR Ervine,BD Glover,2,0,null,2,0,null,null
+128,20.3,BRM Taylor,CR Ervine,BD Glover,4,0,null,4,0,null,null
+129,20.4,BRM Taylor,CR Ervine,BD Glover,1,0,null,1,0,null,null
+130,20.5,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+131,20.6,CR Ervine,BRM Taylor,BD Glover,0,0,null,0,0,null,null
+132,21.1,BRM Taylor,CR Ervine,PM Seelaar,0,0,null,0,0,null,null
+133,21.2,BRM Taylor,CR Ervine,PM Seelaar,0,0,null,0,0,null,null
+134,21.3,BRM Taylor,CR Ervine,PM Seelaar,1,0,null,1,0,null,null
+135,21.4,CR Ervine,BRM Taylor,PM Seelaar,0,0,null,0,0,null,null
+136,21.5,CR Ervine,BRM Taylor,PM Seelaar,1,0,null,1,0,null,null
+137,21.6,BRM Taylor,CR Ervine,PM Seelaar,4,0,null,4,0,null,null
+138,22.1,CR Ervine,BRM Taylor,RE van der Merwe,1,0,null,1,0,null,null
+139,22.2,BRM Taylor,CR Ervine,RE van der Merwe,0,0,null,0,0,null,null
+140,22.3,BRM Taylor,CR Ervine,RE van der Merwe,0,0,null,0,0,null,null
+141,22.4,BRM Taylor,CR Ervine,RE van der Merwe,0,1,legbyes ,1,0,null,null
+142,22.5,CR Ervine,BRM Taylor,RE van der Merwe,4,1,noballs ,5,0,null,null
+143,22.6,CR Ervine,BRM Taylor,RE van der Merwe,6,0,null,6,0,null,null
+144,22.7,CR Ervine,BRM Taylor,RE van der Merwe,1,0,null,1,0,null,null
+145,23.1,CR Ervine,BRM Taylor,PM Seelaar,0,0,null,0,0,null,null
+146,23.2,CR Ervine,BRM Taylor,PM Seelaar,0,0,null,0,0,null,null
+147,23.3,CR Ervine,BRM Taylor,PM Seelaar,1,0,null,1,0,null,null
+148,23.4,BRM Taylor,CR Ervine,PM Seelaar,1,0,null,1,0,null,null
+149,23.5,CR Ervine,BRM Taylor,PM Seelaar,1,0,null,1,0,null,null
+150,23.6,BRM Taylor,CR Ervine,PM Seelaar,1,0,null,1,0,null,null
+151,24.1,BRM Taylor,CR Ervine,RE van der Merwe,6,0,null,6,0,null,null
+152,24.2,BRM Taylor,CR Ervine,RE van der Merwe,0,0,null,0,0,null,null
+153,24.3,BRM Taylor,CR Ervine,RE van der Merwe,1,0,null,1,0,null,null
+154,24.4,CR Ervine,BRM Taylor,RE van der Merwe,0,0,null,0,0,null,null
+155,24.5,CR Ervine,BRM Taylor,RE van der Merwe,0,0,null,0,0,null,null
+156,24.6,CR Ervine,BRM Taylor,RE van der Merwe,0,0,null,0,0,null,null
+157,25.1,BRM Taylor,CR Ervine,PM Seelaar,2,0,null,2,0,null,null
+158,25.2,BRM Taylor,CR Ervine,PM Seelaar,4,0,null,4,0,null,null
+159,25.3,BRM Taylor,CR Ervine,PM Seelaar,0,0,null,0,0,null,null
+160,25.4,BRM Taylor,CR Ervine,PM Seelaar,0,0,null,0,1,BRM Taylor,caught
+161,25.5,SC Williams,CR Ervine,PM Seelaar,1,0,null,1,0,null,null
+162,25.6,CR Ervine,SC Williams,PM Seelaar,1,0,null,1,0,null,null
+163,26.1,CR Ervine,SC Williams,FJ Klaassen,1,0,null,1,0,null,null
+164,26.2,SC Williams,CR Ervine,FJ Klaassen,1,0,null,1,0,null,null
+165,26.3,CR Ervine,SC Williams,FJ Klaassen,0,0,null,0,0,null,null
+166,26.4,CR Ervine,SC Williams,FJ Klaassen,0,0,null,0,0,null,null
+167,26.5,CR Ervine,SC Williams,FJ Klaassen,1,0,null,1,0,null,null
+168,26.6,SC Williams,CR Ervine,FJ Klaassen,0,0,null,0,1,SC Williams,caught
+169,27.1,CR Ervine,Sikandar Raza,PM Seelaar,1,0,null,1,0,null,null
+170,27.2,Sikandar Raza,CR Ervine,PM Seelaar,0,0,null,0,0,null,null
+171,27.3,Sikandar Raza,CR Ervine,PM Seelaar,1,0,null,1,0,null,null
+172,27.4,CR Ervine,Sikandar Raza,PM Seelaar,6,0,null,6,0,null,null
+173,27.5,CR Ervine,Sikandar Raza,PM Seelaar,1,0,null,1,0,null,null
+174,27.6,Sikandar Raza,CR Ervine,PM Seelaar,0,0,null,0,0,null,null
+175,28.1,CR Ervine,Sikandar Raza,FJ Klaassen,1,0,null,1,0,null,null
+176,28.2,Sikandar Raza,CR Ervine,FJ Klaassen,0,0,null,0,0,null,null
+177,28.3,Sikandar Raza,CR Ervine,FJ Klaassen,2,0,null,2,0,null,null
+178,28.4,Sikandar Raza,CR Ervine,FJ Klaassen,0,0,null,0,0,null,null
+179,28.5,Sikandar Raza,CR Ervine,FJ Klaassen,2,0,null,2,0,null,null
+180,28.6,Sikandar Raza,CR Ervine,FJ Klaassen,0,0,null,0,0,null,null
+181,29.1,CR Ervine,Sikandar Raza,PM Seelaar,1,0,null,1,0,null,null
+182,29.2,Sikandar Raza,CR Ervine,PM Seelaar,2,0,null,2,0,null,null
+183,29.3,Sikandar Raza,CR Ervine,PM Seelaar,1,0,null,1,0,null,null
+184,29.4,CR Ervine,Sikandar Raza,PM Seelaar,1,0,null,1,0,null,null
+185,29.5,Sikandar Raza,CR Ervine,PM Seelaar,0,0,null,0,0,null,null
+186,29.6,Sikandar Raza,CR Ervine,PM Seelaar,0,0,null,0,0,null,null
+187,30.1,CR Ervine,Sikandar Raza,BD Glover,0,0,null,0,0,null,null
+188,30.2,CR Ervine,Sikandar Raza,BD Glover,0,0,null,0,0,null,null
+189,30.3,CR Ervine,Sikandar Raza,BD Glover,1,0,null,1,0,null,null
+190,30.4,Sikandar Raza,CR Ervine,BD Glover,0,0,null,0,0,null,null
+191,30.5,Sikandar Raza,CR Ervine,BD Glover,0,0,null,0,0,null,null
+192,30.6,Sikandar Raza,CR Ervine,BD Glover,0,0,null,0,0,null,null
+193,31.1,CR Ervine,Sikandar Raza,PM Seelaar,1,0,null,1,0,null,null
+194,31.2,Sikandar Raza,CR Ervine,PM Seelaar,4,0,null,4,0,null,null
+195,31.3,Sikandar Raza,CR Ervine,PM Seelaar,1,0,null,1,0,null,null
+196,31.4,CR Ervine,Sikandar Raza,PM Seelaar,1,0,null,1,0,null,null
+197,31.5,Sikandar Raza,CR Ervine,PM Seelaar,4,0,null,4,0,null,null
+198,31.6,Sikandar Raza,CR Ervine,PM Seelaar,1,0,null,1,0,null,null
+199,32.1,Sikandar Raza,CR Ervine,BD Glover,1,0,null,1,0,null,null
+200,32.2,CR Ervine,Sikandar Raza,BD Glover,1,0,null,1,0,null,null
+201,32.3,Sikandar Raza,CR Ervine,BD Glover,0,0,null,0,0,null,null
+202,32.4,Sikandar Raza,CR Ervine,BD Glover,0,0,null,0,0,null,null
+203,32.5,Sikandar Raza,CR Ervine,BD Glover,2,0,null,2,0,null,null
+204,32.6,Sikandar Raza,CR Ervine,BD Glover,0,0,null,0,0,null,null
+205,33.1,CR Ervine,Sikandar Raza,RE van der Merwe,1,0,null,1,0,null,null
+206,33.2,Sikandar Raza,CR Ervine,RE van der Merwe,0,0,null,0,0,null,null
+207,33.3,Sikandar Raza,CR Ervine,RE van der Merwe,0,0,null,0,0,null,null
+208,33.4,Sikandar Raza,CR Ervine,RE van der Merwe,0,0,null,0,0,null,null
+209,33.5,Sikandar Raza,CR Ervine,RE van der Merwe,0,0,null,0,0,null,null
+210,33.6,Sikandar Raza,CR Ervine,RE van der Merwe,1,0,null,1,0,null,null
+211,34.1,Sikandar Raza,CR Ervine,W Barresi,4,0,null,4,0,null,null
+212,34.2,Sikandar Raza,CR Ervine,W Barresi,4,0,null,4,0,null,null
+213,34.3,Sikandar Raza,CR Ervine,W Barresi,1,0,null,1,0,null,null
+214,34.4,CR Ervine,Sikandar Raza,W Barresi,0,0,null,0,0,null,null
+215,34.5,CR Ervine,Sikandar Raza,W Barresi,4,0,null,4,0,null,null
+216,34.6,CR Ervine,Sikandar Raza,W Barresi,0,0,null,0,0,null,null
+217,35.1,Sikandar Raza,CR Ervine,RE van der Merwe,1,0,null,1,0,null,null
+218,35.2,CR Ervine,Sikandar Raza,RE van der Merwe,0,0,null,0,0,null,null
+219,35.3,CR Ervine,Sikandar Raza,RE van der Merwe,6,0,null,6,0,null,null
+220,35.4,CR Ervine,Sikandar Raza,RE van der Merwe,0,0,null,0,0,null,null
+221,35.5,CR Ervine,Sikandar Raza,RE van der Merwe,1,0,null,1,0,null,null
+222,35.6,Sikandar Raza,CR Ervine,RE van der Merwe,0,0,null,0,0,null,null
+223,36.1,CR Ervine,Sikandar Raza,VJ Kingma,0,0,null,0,0,null,null
+224,36.2,CR Ervine,Sikandar Raza,VJ Kingma,0,0,null,0,0,null,null
+225,36.3,CR Ervine,Sikandar Raza,VJ Kingma,0,0,null,0,0,null,null
+226,36.4,CR Ervine,Sikandar Raza,VJ Kingma,0,0,null,0,0,null,null
+227,36.5,CR Ervine,Sikandar Raza,VJ Kingma,0,0,null,0,0,null,null
+228,36.6,CR Ervine,Sikandar Raza,VJ Kingma,1,0,null,1,0,null,null
+229,37.1,CR Ervine,Sikandar Raza,RE van der Merwe,0,0,null,0,0,null,null
+230,37.2,CR Ervine,Sikandar Raza,RE van der Merwe,4,0,null,4,0,null,null
+231,37.3,CR Ervine,Sikandar Raza,RE van der Merwe,4,0,null,4,0,null,null
+232,37.4,CR Ervine,Sikandar Raza,RE van der Merwe,0,0,null,0,0,null,null
+233,37.5,CR Ervine,Sikandar Raza,RE van der Merwe,2,0,null,2,0,null,null
+234,37.6,CR Ervine,Sikandar Raza,RE van der Merwe,0,0,null,0,0,null,null
+235,38.1,Sikandar Raza,CR Ervine,VJ Kingma,1,0,null,1,0,null,null
+236,38.2,CR Ervine,Sikandar Raza,VJ Kingma,1,0,null,1,0,null,null
+237,38.3,Sikandar Raza,CR Ervine,VJ Kingma,6,0,null,6,0,null,null
+238,38.4,Sikandar Raza,CR Ervine,VJ Kingma,0,0,null,0,0,null,null
+239,38.5,Sikandar Raza,CR Ervine,VJ Kingma,1,0,null,1,0,null,null
+240,38.6,CR Ervine,Sikandar Raza,VJ Kingma,0,0,null,0,0,null,null
+241,39.1,Sikandar Raza,CR Ervine,BD Glover,0,1,wides ,1,0,null,null
+242,39.2,Sikandar Raza,CR Ervine,BD Glover,1,0,null,1,0,null,null
+243,39.3,CR Ervine,Sikandar Raza,BD Glover,0,1,wides ,1,0,null,null
+244,39.4,CR Ervine,Sikandar Raza,BD Glover,0,0,null,0,0,null,null
+245,39.5,CR Ervine,Sikandar Raza,BD Glover,0,0,null,0,0,null,null
+246,39.6,CR Ervine,Sikandar Raza,BD Glover,0,0,null,0,0,null,null
+247,39.7,CR Ervine,Sikandar Raza,BD Glover,1,0,null,1,0,null,null
+248,39.8,Sikandar Raza,CR Ervine,BD Glover,0,0,null,0,0,null,null
+249,40.1,CR Ervine,Sikandar Raza,Saqib Zulfiqar,4,0,null,4,0,null,null
+250,40.2,CR Ervine,Sikandar Raza,Saqib Zulfiqar,1,0,null,1,0,null,null
+251,40.3,Sikandar Raza,CR Ervine,Saqib Zulfiqar,2,0,null,2,0,null,null
+252,40.4,Sikandar Raza,CR Ervine,Saqib Zulfiqar,1,0,null,1,0,null,null
+253,40.5,CR Ervine,Sikandar Raza,Saqib Zulfiqar,2,0,null,2,0,null,null
+254,40.6,CR Ervine,Sikandar Raza,Saqib Zulfiqar,1,0,null,1,0,null,null
+255,41.1,CR Ervine,Sikandar Raza,BD Glover,0,0,null,0,1,CR Ervine,caught
+256,41.2,PJ Moor,Sikandar Raza,BD Glover,0,0,null,0,0,null,null
+257,41.3,PJ Moor,Sikandar Raza,BD Glover,0,0,null,0,0,null,null
+258,41.4,PJ Moor,Sikandar Raza,BD Glover,1,0,null,1,0,null,null
+259,41.5,Sikandar Raza,PJ Moor,BD Glover,1,0,null,1,0,null,null
+260,41.6,PJ Moor,Sikandar Raza,BD Glover,0,0,null,0,0,null,null
+261,42.1,Sikandar Raza,PJ Moor,Saqib Zulfiqar,1,0,null,1,0,null,null
+262,42.2,PJ Moor,Sikandar Raza,Saqib Zulfiqar,0,0,null,0,0,null,null
+263,42.3,PJ Moor,Sikandar Raza,Saqib Zulfiqar,0,0,null,0,0,null,null
+264,42.4,PJ Moor,Sikandar Raza,Saqib Zulfiqar,0,1,legbyes ,1,0,null,null
+265,42.5,Sikandar Raza,PJ Moor,Saqib Zulfiqar,0,0,null,0,0,null,null
+266,42.6,Sikandar Raza,PJ Moor,Saqib Zulfiqar,0,0,null,0,0,null,null
+267,43.1,PJ Moor,Sikandar Raza,BD Glover,1,0,null,1,0,null,null
+268,43.2,Sikandar Raza,PJ Moor,BD Glover,1,0,null,1,0,null,null
+269,43.3,PJ Moor,Sikandar Raza,BD Glover,0,0,null,0,0,null,null
+270,43.4,PJ Moor,Sikandar Raza,BD Glover,0,0,null,0,0,null,null
+271,43.5,PJ Moor,Sikandar Raza,BD Glover,0,0,null,0,0,null,null
+272,43.6,PJ Moor,Sikandar Raza,BD Glover,2,0,null,2,0,null,null
+273,44.1,Sikandar Raza,PJ Moor,Saqib Zulfiqar,0,0,null,0,0,null,null
+274,44.2,Sikandar Raza,PJ Moor,Saqib Zulfiqar,1,0,null,1,0,null,null
+275,44.3,PJ Moor,Sikandar Raza,Saqib Zulfiqar,1,0,null,1,0,null,null
+276,44.4,Sikandar Raza,PJ Moor,Saqib Zulfiqar,1,0,null,1,0,null,null
+277,44.5,PJ Moor,Sikandar Raza,Saqib Zulfiqar,0,0,null,0,1,PJ Moor,caught
+278,44.6,Sikandar Raza,DT Tiripano,Saqib Zulfiqar,0,0,null,0,0,null,null
+279,45.1,DT Tiripano,Sikandar Raza,VJ Kingma,1,0,null,1,0,null,null
+280,45.2,Sikandar Raza,DT Tiripano,VJ Kingma,1,0,null,1,0,null,null
+281,45.3,DT Tiripano,Sikandar Raza,VJ Kingma,4,0,null,4,0,null,null
+282,45.4,DT Tiripano,Sikandar Raza,VJ Kingma,0,0,null,0,0,null,null
+283,45.5,DT Tiripano,Sikandar Raza,VJ Kingma,0,0,null,0,0,null,null
+284,45.6,DT Tiripano,Sikandar Raza,VJ Kingma,1,0,null,1,0,null,null
+285,46.1,DT Tiripano,Sikandar Raza,Saqib Zulfiqar,1,0,null,1,0,null,null
+286,46.2,Sikandar Raza,DT Tiripano,Saqib Zulfiqar,6,0,null,6,0,null,null
+287,46.3,Sikandar Raza,DT Tiripano,Saqib Zulfiqar,0,1,wides ,1,0,null,null
+288,46.4,Sikandar Raza,DT Tiripano,Saqib Zulfiqar,6,0,null,6,0,null,null
+289,46.5,Sikandar Raza,DT Tiripano,Saqib Zulfiqar,0,0,null,0,0,null,null
+290,46.6,Sikandar Raza,DT Tiripano,Saqib Zulfiqar,4,0,null,4,0,null,null
+291,46.7,Sikandar Raza,DT Tiripano,Saqib Zulfiqar,1,0,null,1,0,null,null
+292,47.1,Sikandar Raza,DT Tiripano,FJ Klaassen,0,0,null,0,0,null,null
+293,47.2,Sikandar Raza,DT Tiripano,FJ Klaassen,1,0,null,1,0,null,null
+294,47.3,DT Tiripano,Sikandar Raza,FJ Klaassen,0,0,null,0,0,null,null
+295,47.4,DT Tiripano,Sikandar Raza,FJ Klaassen,4,0,null,4,0,null,null
+296,47.5,DT Tiripano,Sikandar Raza,FJ Klaassen,0,1,legbyes ,1,0,null,null
+297,47.6,Sikandar Raza,DT Tiripano,FJ Klaassen,1,0,null,1,0,null,null
+298,48.1,Sikandar Raza,DT Tiripano,VJ Kingma,0,0,null,0,0,null,null
+299,48.2,Sikandar Raza,DT Tiripano,VJ Kingma,6,0,null,6,0,null,null
+300,48.3,Sikandar Raza,DT Tiripano,VJ Kingma,1,0,null,1,0,null,null
+301,48.4,DT Tiripano,Sikandar Raza,VJ Kingma,1,0,null,1,0,null,null
+302,48.5,Sikandar Raza,DT Tiripano,VJ Kingma,1,0,null,1,0,null,null
+303,48.6,DT Tiripano,Sikandar Raza,VJ Kingma,0,0,null,0,0,null,null
+304,49.1,Sikandar Raza,DT Tiripano,FJ Klaassen,0,1,legbyes ,1,0,null,null
+305,49.2,DT Tiripano,Sikandar Raza,FJ Klaassen,3,0,null,3,0,null,null
+306,49.3,Sikandar Raza,DT Tiripano,FJ Klaassen,6,0,null,6,0,null,null
+307,49.4,Sikandar Raza,DT Tiripano,FJ Klaassen,1,0,null,1,0,null,null
+308,49.5,DT Tiripano,Sikandar Raza,FJ Klaassen,1,0,null,1,0,null,null
+309,49.6,Sikandar Raza,DT Tiripano,FJ Klaassen,1,0,null,1,0,null,null

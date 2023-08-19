@@ -1,0 +1,270 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+1,0.2,RP Alexander,MR Johnson,DR Tuffey,0,1,wides ,1,0,null,null
+2,0.3,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+3,0.4,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+4,0.5,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+5,0.6,RP Alexander,MR Johnson,DR Tuffey,0,1,wides ,1,0,null,null
+6,0.7,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+7,0.8,RP Alexander,MR Johnson,DR Tuffey,1,0,null,1,0,null,null
+8,1.1,RP Alexander,MR Johnson,JDP Oram,2,0,null,2,0,null,null
+9,1.2,RP Alexander,MR Johnson,JDP Oram,1,0,null,1,0,null,null
+10,1.3,MR Johnson,RP Alexander,JDP Oram,1,0,null,1,0,null,null
+11,1.4,RP Alexander,MR Johnson,JDP Oram,0,0,null,0,0,null,null
+12,1.5,RP Alexander,MR Johnson,JDP Oram,1,0,null,1,0,null,null
+13,1.6,MR Johnson,RP Alexander,JDP Oram,0,0,null,0,0,null,null
+14,2.1,RP Alexander,MR Johnson,DR Tuffey,4,0,null,4,0,null,null
+15,2.2,RP Alexander,MR Johnson,DR Tuffey,0,1,wides ,1,0,null,null
+16,2.3,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+17,2.4,MR Johnson,RP Alexander,DR Tuffey,4,0,null,4,0,null,null
+18,2.5,MR Johnson,RP Alexander,DR Tuffey,0,1,wides ,1,0,null,null
+19,2.6,MR Johnson,RP Alexander,DR Tuffey,1,0,null,1,0,null,null
+20,2.7,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+21,2.8,RP Alexander,MR Johnson,DR Tuffey,0,1,legbyes ,1,0,null,null
+22,3.1,RP Alexander,MR Johnson,JDP Oram,0,1,wides ,1,0,null,null
+23,3.2,RP Alexander,MR Johnson,JDP Oram,0,0,null,0,0,null,null
+24,3.3,RP Alexander,MR Johnson,JDP Oram,1,0,null,1,0,null,null
+25,3.4,MR Johnson,RP Alexander,JDP Oram,1,0,null,1,0,null,null
+26,3.5,RP Alexander,MR Johnson,JDP Oram,1,0,null,1,0,null,null
+27,3.6,MR Johnson,RP Alexander,JDP Oram,0,1,wides ,1,0,null,null
+28,3.7,MR Johnson,RP Alexander,JDP Oram,0,0,null,0,0,null,null
+29,4.1,RP Alexander,MR Johnson,DR Tuffey,4,0,null,4,0,null,null
+30,4.2,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+31,4.3,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+32,4.4,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+33,4.5,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+34,4.6,RP Alexander,MR Johnson,DR Tuffey,0,1,wides ,1,0,null,null
+35,4.7,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+36,5.1,MR Johnson,RP Alexander,JDP Oram,0,1,wides ,1,0,null,null
+37,5.2,MR Johnson,RP Alexander,JDP Oram,4,0,null,4,0,null,null
+38,5.3,MR Johnson,RP Alexander,JDP Oram,1,0,null,1,0,null,null
+39,5.4,RP Alexander,MR Johnson,JDP Oram,0,0,null,0,0,null,null
+40,5.5,RP Alexander,MR Johnson,JDP Oram,0,0,null,0,0,null,null
+41,5.6,RP Alexander,MR Johnson,JDP Oram,1,0,null,1,0,null,null
+42,5.7,MR Johnson,RP Alexander,JDP Oram,0,1,wides ,1,0,null,null
+43,5.8,MR Johnson,RP Alexander,JDP Oram,0,2,legbyes ,2,0,null,null
+44,6.1,RP Alexander,MR Johnson,DR Tuffey,1,0,null,1,0,null,null
+45,6.2,MR Johnson,RP Alexander,DR Tuffey,2,0,null,2,0,null,null
+46,6.3,MR Johnson,RP Alexander,DR Tuffey,0,0,null,0,0,null,null
+47,6.4,MR Johnson,RP Alexander,DR Tuffey,0,0,null,0,0,null,null
+48,6.5,MR Johnson,RP Alexander,DR Tuffey,1,0,null,1,0,null,null
+49,6.6,RP Alexander,MR Johnson,DR Tuffey,1,0,null,1,0,null,null
+50,7.1,RP Alexander,MR Johnson,JDP Oram,0,0,null,0,0,null,null
+51,7.2,RP Alexander,MR Johnson,JDP Oram,0,0,null,0,0,null,null
+52,7.3,RP Alexander,MR Johnson,JDP Oram,0,0,null,0,0,null,null
+53,7.4,RP Alexander,MR Johnson,JDP Oram,0,0,null,0,0,null,null
+54,7.5,RP Alexander,MR Johnson,JDP Oram,1,0,null,1,0,null,null
+55,7.6,MR Johnson,RP Alexander,JDP Oram,0,0,null,0,0,null,null
+56,8.1,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+57,8.2,RP Alexander,MR Johnson,DR Tuffey,1,0,null,1,0,null,null
+58,8.3,MR Johnson,RP Alexander,DR Tuffey,0,0,null,0,0,null,null
+59,8.4,MR Johnson,RP Alexander,DR Tuffey,4,0,null,4,0,null,null
+60,8.5,MR Johnson,RP Alexander,DR Tuffey,1,0,null,1,0,null,null
+61,8.6,RP Alexander,MR Johnson,DR Tuffey,0,0,null,0,0,null,null
+62,9.1,MR Johnson,RP Alexander,JDP Oram,0,0,null,0,1,MR Johnson,caught
+63,9.2,LC Romero,RP Alexander,JDP Oram,0,0,null,0,0,null,null
+64,9.3,LC Romero,RP Alexander,JDP Oram,0,0,null,0,1,LC Romero,caught
+65,9.4,SJ Massiah,RP Alexander,JDP Oram,0,0,null,0,0,null,null
+66,9.5,SJ Massiah,RP Alexander,JDP Oram,0,0,null,0,1,SJ Massiah,caught
+67,9.6,RW Staple,RP Alexander,JDP Oram,0,2,wides ,2,0,null,null
+68,9.7,RP Alexander,RW Staple,JDP Oram,0,0,null,0,0,null,null
+69,10.1,RW Staple,RP Alexander,CL Cairns,0,1,wides ,1,0,null,null
+70,10.2,RW Staple,RP Alexander,CL Cairns,0,0,null,0,1,RW Staple,lbw
+71,10.3,CB Lambert,RP Alexander,CL Cairns,0,0,null,0,0,null,null
+72,10.4,CB Lambert,RP Alexander,CL Cairns,1,0,null,1,0,null,null
+73,10.5,RP Alexander,CB Lambert,CL Cairns,0,0,null,0,0,null,null
+74,10.6,RP Alexander,CB Lambert,CL Cairns,4,0,null,4,0,null,null
+75,10.7,RP Alexander,CB Lambert,CL Cairns,0,0,null,0,0,null,null
+76,11.1,CB Lambert,RP Alexander,JDP Oram,0,0,null,0,0,null,null
+77,11.2,CB Lambert,RP Alexander,JDP Oram,0,0,null,0,0,null,null
+78,11.3,CB Lambert,RP Alexander,JDP Oram,0,0,null,0,0,null,null
+79,11.4,CB Lambert,RP Alexander,JDP Oram,0,0,null,0,0,null,null
+80,11.5,CB Lambert,RP Alexander,JDP Oram,1,0,null,1,0,null,null
+81,11.6,RP Alexander,CB Lambert,JDP Oram,1,0,null,1,0,null,null
+82,12.1,RP Alexander,CB Lambert,CL Cairns,1,0,null,1,0,null,null
+83,12.2,CB Lambert,RP Alexander,CL Cairns,0,0,null,0,0,null,null
+84,12.3,CB Lambert,RP Alexander,CL Cairns,0,0,null,0,0,null,null
+85,12.4,CB Lambert,RP Alexander,CL Cairns,0,0,null,0,0,null,null
+86,12.5,CB Lambert,RP Alexander,CL Cairns,0,0,null,0,0,null,null
+87,12.6,CB Lambert,RP Alexander,CL Cairns,0,0,null,0,0,null,null
+88,13.1,RP Alexander,CB Lambert,JDP Oram,0,0,null,0,0,null,null
+89,13.2,RP Alexander,CB Lambert,JDP Oram,0,0,null,0,0,null,null
+90,13.3,RP Alexander,CB Lambert,JDP Oram,0,0,null,0,0,null,null
+91,13.4,RP Alexander,CB Lambert,JDP Oram,0,0,null,0,0,null,null
+92,13.5,RP Alexander,CB Lambert,JDP Oram,0,0,null,0,1,RP Alexander,lbw
+93,13.6,JH Desai,CB Lambert,JDP Oram,0,0,null,0,0,null,null
+94,14.1,CB Lambert,JH Desai,CL Cairns,0,0,null,0,0,null,null
+95,14.2,CB Lambert,JH Desai,CL Cairns,0,0,null,0,0,null,null
+96,14.3,CB Lambert,JH Desai,CL Cairns,0,0,null,0,0,null,null
+97,14.4,CB Lambert,JH Desai,CL Cairns,1,0,null,1,0,null,null
+98,14.5,JH Desai,CB Lambert,CL Cairns,0,0,null,0,0,null,null
+99,14.6,JH Desai,CB Lambert,CL Cairns,0,0,null,0,0,null,null
+100,15.1,CB Lambert,JH Desai,JDP Oram,0,0,null,0,0,null,null
+101,15.2,CB Lambert,JH Desai,JDP Oram,0,0,null,0,0,null,null
+102,15.3,CB Lambert,JH Desai,JDP Oram,0,0,null,0,0,null,null
+103,15.4,CB Lambert,JH Desai,JDP Oram,0,0,null,0,0,null,null
+104,15.5,CB Lambert,JH Desai,JDP Oram,4,0,null,4,0,null,null
+105,15.6,CB Lambert,JH Desai,JDP Oram,0,0,null,0,0,null,null
+106,16.1,JH Desai,CB Lambert,CL Cairns,1,0,null,1,0,null,null
+107,16.2,CB Lambert,JH Desai,CL Cairns,0,0,null,0,0,null,null
+108,16.3,CB Lambert,JH Desai,CL Cairns,0,0,null,0,0,null,null
+109,16.4,CB Lambert,JH Desai,CL Cairns,0,1,wides ,1,0,null,null
+110,16.5,CB Lambert,JH Desai,CL Cairns,0,0,null,0,0,null,null
+111,16.6,CB Lambert,JH Desai,CL Cairns,0,0,null,0,0,null,null
+112,16.7,CB Lambert,JH Desai,CL Cairns,0,0,null,0,0,null,null
+113,17.1,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+114,17.2,JH Desai,CB Lambert,DR Tuffey,2,0,null,2,0,null,null
+115,17.3,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+116,17.4,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+117,17.5,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+118,17.6,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+119,18.1,CB Lambert,JH Desai,CL Cairns,0,0,null,0,0,null,null
+120,18.2,CB Lambert,JH Desai,CL Cairns,0,1,wides ,1,0,null,null
+121,18.3,CB Lambert,JH Desai,CL Cairns,1,0,null,1,0,null,null
+122,18.4,JH Desai,CB Lambert,CL Cairns,2,0,null,2,0,null,null
+123,18.5,JH Desai,CB Lambert,CL Cairns,1,0,null,1,0,null,null
+124,18.6,CB Lambert,JH Desai,CL Cairns,1,0,null,1,0,null,null
+125,18.7,JH Desai,CB Lambert,CL Cairns,0,0,null,0,0,null,null
+126,19.1,CB Lambert,JH Desai,DR Tuffey,0,0,null,0,0,null,null
+127,19.2,CB Lambert,JH Desai,DR Tuffey,0,0,null,0,0,null,null
+128,19.3,CB Lambert,JH Desai,DR Tuffey,1,0,null,1,0,null,null
+129,19.4,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+130,19.5,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+131,19.6,JH Desai,CB Lambert,DR Tuffey,4,0,null,4,0,null,null
+132,20.1,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+133,20.2,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+134,20.3,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+135,20.4,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+136,20.5,CB Lambert,JH Desai,CZ Harris,4,0,null,4,0,null,null
+137,20.6,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+138,21.1,JH Desai,CB Lambert,DR Tuffey,2,0,null,2,0,null,null
+139,21.2,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+140,21.3,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+141,21.4,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+142,21.5,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+143,21.6,JH Desai,CB Lambert,DR Tuffey,0,0,null,0,0,null,null
+144,22.1,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+145,22.2,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+146,22.3,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+147,22.4,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+148,22.5,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+149,22.6,CB Lambert,JH Desai,CZ Harris,1,0,null,1,0,null,null
+150,23.1,CB Lambert,JH Desai,DL Vettori,0,0,null,0,0,null,null
+151,23.2,CB Lambert,JH Desai,DL Vettori,0,0,null,0,0,null,null
+152,23.3,CB Lambert,JH Desai,DL Vettori,0,0,null,0,0,null,null
+153,23.4,CB Lambert,JH Desai,DL Vettori,1,0,null,1,0,null,null
+154,23.5,JH Desai,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+155,23.6,JH Desai,CB Lambert,DL Vettori,2,0,null,2,0,null,null
+156,24.1,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+157,24.2,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+158,24.3,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+159,24.4,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+160,24.5,CB Lambert,JH Desai,CZ Harris,4,0,null,4,0,null,null
+161,24.6,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+162,25.1,JH Desai,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+163,25.2,JH Desai,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+164,25.3,JH Desai,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+165,25.4,JH Desai,CB Lambert,DL Vettori,1,0,null,1,0,null,null
+166,25.5,CB Lambert,JH Desai,DL Vettori,0,0,null,0,0,null,null
+167,25.6,CB Lambert,JH Desai,DL Vettori,0,0,null,0,0,null,null
+168,26.1,JH Desai,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+169,26.2,JH Desai,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+170,26.3,JH Desai,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+171,26.4,JH Desai,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+172,26.5,JH Desai,CB Lambert,CZ Harris,1,0,null,1,0,null,null
+173,26.6,CB Lambert,JH Desai,CZ Harris,0,0,null,0,0,null,null
+174,27.1,JH Desai,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+175,27.2,JH Desai,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+176,27.3,JH Desai,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+177,27.4,JH Desai,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+178,27.5,JH Desai,CB Lambert,DL Vettori,0,0,null,0,1,JH Desai,lbw
+179,27.6,Aijaz Ali,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+180,28.1,CB Lambert,Aijaz Ali,CZ Harris,6,0,null,6,0,null,null
+181,28.2,CB Lambert,Aijaz Ali,CZ Harris,2,0,null,2,0,null,null
+182,28.3,CB Lambert,Aijaz Ali,CZ Harris,1,0,null,1,0,null,null
+183,28.4,Aijaz Ali,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+184,28.5,Aijaz Ali,CB Lambert,CZ Harris,4,0,null,4,0,null,null
+185,28.6,Aijaz Ali,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+186,29.1,CB Lambert,Aijaz Ali,DL Vettori,0,0,null,0,0,null,null
+187,29.2,CB Lambert,Aijaz Ali,DL Vettori,0,0,null,0,0,null,null
+188,29.3,CB Lambert,Aijaz Ali,DL Vettori,0,0,null,0,0,null,null
+189,29.4,CB Lambert,Aijaz Ali,DL Vettori,2,0,null,2,0,null,null
+190,29.5,CB Lambert,Aijaz Ali,DL Vettori,0,0,null,0,0,null,null
+191,29.6,CB Lambert,Aijaz Ali,DL Vettori,0,0,null,0,0,null,null
+192,30.1,Aijaz Ali,CB Lambert,CZ Harris,0,0,null,0,1,Aijaz Ali,caught
+193,30.2,Rashid Zia,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+194,30.3,Rashid Zia,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+195,30.4,Rashid Zia,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+196,30.5,Rashid Zia,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+197,30.6,Rashid Zia,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+198,31.1,CB Lambert,Rashid Zia,DL Vettori,1,0,null,1,0,null,null
+199,31.2,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+200,31.3,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+201,31.4,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+202,31.5,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+203,31.6,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+204,32.1,CB Lambert,Rashid Zia,CZ Harris,0,0,null,0,0,null,null
+205,32.2,CB Lambert,Rashid Zia,CZ Harris,4,0,null,4,0,null,null
+206,32.3,CB Lambert,Rashid Zia,CZ Harris,0,0,null,0,0,null,null
+207,32.4,CB Lambert,Rashid Zia,CZ Harris,0,0,null,0,0,null,null
+208,32.5,CB Lambert,Rashid Zia,CZ Harris,0,0,null,0,0,null,null
+209,32.6,CB Lambert,Rashid Zia,CZ Harris,0,0,null,0,0,null,null
+210,33.1,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+211,33.2,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+212,33.3,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+213,33.4,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+214,33.5,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+215,33.6,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+216,34.1,CB Lambert,Rashid Zia,CZ Harris,0,0,null,0,0,null,null
+217,34.2,CB Lambert,Rashid Zia,CZ Harris,0,0,null,0,0,null,null
+218,34.3,CB Lambert,Rashid Zia,CZ Harris,1,0,null,1,0,null,null
+219,34.4,Rashid Zia,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+220,34.5,Rashid Zia,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+221,34.6,Rashid Zia,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+222,35.1,CB Lambert,Rashid Zia,DL Vettori,1,0,null,1,0,null,null
+223,35.2,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+224,35.3,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+225,35.4,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+226,35.5,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+227,35.6,Rashid Zia,CB Lambert,DL Vettori,0,0,null,0,0,null,null
+228,36.1,CB Lambert,Rashid Zia,CZ Harris,0,0,null,0,0,null,null
+229,36.2,CB Lambert,Rashid Zia,CZ Harris,0,0,null,0,0,null,null
+230,36.3,CB Lambert,Rashid Zia,CZ Harris,0,0,null,0,0,null,null
+231,36.4,CB Lambert,Rashid Zia,CZ Harris,1,0,null,1,0,null,null
+232,36.5,Rashid Zia,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+233,36.6,Rashid Zia,CB Lambert,CZ Harris,0,0,null,0,0,null,null
+234,37.1,CB Lambert,Rashid Zia,DL Vettori,0,0,null,0,0,null,null
+235,37.2,CB Lambert,Rashid Zia,DL Vettori,0,0,null,0,1,CB Lambert,caught
+236,37.3,CA Reid,Rashid Zia,DL Vettori,0,0,null,0,0,null,null
+237,37.4,CA Reid,Rashid Zia,DL Vettori,0,0,null,0,0,null,null
+238,37.5,CA Reid,Rashid Zia,DL Vettori,0,0,null,0,0,null,null
+239,37.6,CA Reid,Rashid Zia,DL Vettori,0,0,null,0,0,null,null
+240,38.1,Rashid Zia,CA Reid,CZ Harris,0,0,null,0,0,null,null
+241,38.2,Rashid Zia,CA Reid,CZ Harris,0,0,null,0,0,null,null
+242,38.3,Rashid Zia,CA Reid,CZ Harris,0,0,null,0,0,null,null
+243,38.4,Rashid Zia,CA Reid,CZ Harris,0,0,null,0,0,null,null
+244,38.5,Rashid Zia,CA Reid,CZ Harris,0,0,null,0,0,null,null
+245,38.6,Rashid Zia,CA Reid,CZ Harris,0,0,null,0,0,null,null
+246,39.1,CA Reid,Rashid Zia,DL Vettori,1,0,null,1,0,null,null
+247,39.2,Rashid Zia,CA Reid,DL Vettori,4,0,null,4,0,null,null
+248,39.3,Rashid Zia,CA Reid,DL Vettori,0,0,null,0,0,null,null
+249,39.4,Rashid Zia,CA Reid,DL Vettori,0,0,null,0,0,null,null
+250,39.5,Rashid Zia,CA Reid,DL Vettori,0,0,null,0,0,null,null
+251,39.6,Rashid Zia,CA Reid,DL Vettori,0,0,null,0,0,null,null
+252,40.1,CA Reid,Rashid Zia,JDP Oram,0,0,null,0,0,null,null
+253,40.2,CA Reid,Rashid Zia,JDP Oram,0,0,null,0,0,null,null
+254,40.3,CA Reid,Rashid Zia,JDP Oram,0,0,null,0,0,null,null
+255,40.4,CA Reid,Rashid Zia,JDP Oram,4,0,null,4,0,null,null
+256,40.5,CA Reid,Rashid Zia,JDP Oram,0,0,null,0,0,null,null
+257,40.6,CA Reid,Rashid Zia,JDP Oram,1,0,null,1,0,null,null
+258,41.1,CA Reid,Rashid Zia,DL Vettori,0,0,null,0,1,CA Reid,bowled
+259,41.2,HR Johnson,Rashid Zia,DL Vettori,0,0,null,0,0,null,null
+260,41.3,HR Johnson,Rashid Zia,DL Vettori,0,0,null,0,0,null,null
+261,41.4,HR Johnson,Rashid Zia,DL Vettori,0,0,null,0,0,null,null
+262,41.5,HR Johnson,Rashid Zia,DL Vettori,0,1,wides ,1,0,null,null
+263,41.6,HR Johnson,Rashid Zia,DL Vettori,0,0,null,0,0,null,null
+264,41.7,HR Johnson,Rashid Zia,DL Vettori,0,0,null,0,0,null,null
+265,42.1,Rashid Zia,HR Johnson,JDP Oram,0,0,null,0,0,null,null
+266,42.2,Rashid Zia,HR Johnson,JDP Oram,4,0,null,4,0,null,null
+267,42.3,Rashid Zia,HR Johnson,JDP Oram,0,0,null,0,0,null,null
+268,42.4,Rashid Zia,HR Johnson,JDP Oram,0,0,null,0,1,Rashid Zia,caught

@@ -1,0 +1,6 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1244022,Shere Bangla National Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,7,12,1,0
+1,1244022,Shere Bangla National Stadium,Bangladesh,Hasan Mahmud,Right-arm medium,"[0, 1, 2]",0,2,8,0,0
+2,1244022,Shere Bangla National Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,2,10,0,0
+3,1244022,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,1,4,0,0
+4,1244023,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,2,6,0,0

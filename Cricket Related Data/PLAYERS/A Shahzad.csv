@@ -1,0 +1,15 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,446962,Melbourne Cricket Ground,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,2,3,0,0
+1,446962,Melbourne Cricket Ground,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,7,4,0,1
+2,446963,Bellerive Oval,Australia,DJ Hussey,Right-arm offbreak,"[1, 1, 0]",0,2,3,0,0
+3,446964,Sydney Cricket Ground,Australia,B Lee,Right-arm fast,"[0, 1, 0]",1,2,5,0,0
+4,446965,Adelaide Oval,Australia,DJ Hussey,Right-arm offbreak,"[1, 1, 0]",1,0,1,0,0
+5,446965,Adelaide Oval,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,4,4,0,0
+6,446966,"Brisbane Cricket Ground, Woolloongabba",Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,8,6,0,1
+7,446966,"Brisbane Cricket Ground, Woolloongabba",Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,1,12,0,0
+8,446966,"Brisbane Cricket Ground, Woolloongabba",Australia,DE Bollinger,Left-arm fast-medium,"[0, 0, 1]",1,0,6,0,0
+9,433585,Zahur Ahmed Chowdhury Stadium,Bangladesh,Shafiul Islam,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+10,433585,Zahur Ahmed Chowdhury Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+11,426404,County Ground,Bangladesh,Shafiul Islam,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+12,426404,County Ground,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,2,6,0,0
+13,433568,M Chinnaswamy Stadium,India,MM Patel,Right-arm fast-medium,"[0, 1, 1]",0,6,2,0,1

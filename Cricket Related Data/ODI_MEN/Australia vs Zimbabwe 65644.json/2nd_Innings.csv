@@ -1,0 +1,236 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,V Sibanda,SV Carlisle,JN Gillespie,1,0,null,1,0,null,null
+1,0.2,SV Carlisle,V Sibanda,JN Gillespie,1,0,null,1,0,null,null
+2,0.3,V Sibanda,SV Carlisle,JN Gillespie,0,0,null,0,0,null,null
+3,0.4,V Sibanda,SV Carlisle,JN Gillespie,0,0,null,0,0,null,null
+4,0.5,V Sibanda,SV Carlisle,JN Gillespie,0,0,null,0,0,null,null
+5,0.6,V Sibanda,SV Carlisle,JN Gillespie,0,0,null,0,0,null,null
+6,1.1,SV Carlisle,V Sibanda,BA Williams,0,0,null,0,0,null,null
+7,1.2,SV Carlisle,V Sibanda,BA Williams,0,0,null,0,0,null,null
+8,1.3,SV Carlisle,V Sibanda,BA Williams,0,0,null,0,0,null,null
+9,1.4,SV Carlisle,V Sibanda,BA Williams,0,0,null,0,0,null,null
+10,1.5,SV Carlisle,V Sibanda,BA Williams,0,0,null,0,1,SV Carlisle,caught
+11,1.6,MA Vermeulen,V Sibanda,BA Williams,0,0,null,0,0,null,null
+12,2.1,V Sibanda,MA Vermeulen,JN Gillespie,1,0,null,1,0,null,null
+13,2.2,MA Vermeulen,V Sibanda,JN Gillespie,1,0,null,1,0,null,null
+14,2.3,V Sibanda,MA Vermeulen,JN Gillespie,0,0,null,0,0,null,null
+15,2.4,V Sibanda,MA Vermeulen,JN Gillespie,0,0,null,0,0,null,null
+16,2.5,V Sibanda,MA Vermeulen,JN Gillespie,1,0,null,1,0,null,null
+17,2.6,MA Vermeulen,V Sibanda,JN Gillespie,2,0,null,2,0,null,null
+18,3.1,V Sibanda,MA Vermeulen,BA Williams,0,0,null,0,0,null,null
+19,3.2,V Sibanda,MA Vermeulen,BA Williams,0,0,null,0,0,null,null
+20,3.3,V Sibanda,MA Vermeulen,BA Williams,0,0,null,0,0,null,null
+21,3.4,V Sibanda,MA Vermeulen,BA Williams,2,0,null,2,0,null,null
+22,3.5,V Sibanda,MA Vermeulen,BA Williams,1,0,null,1,0,null,null
+23,3.6,MA Vermeulen,V Sibanda,BA Williams,0,1,wides ,1,0,null,null
+24,3.7,MA Vermeulen,V Sibanda,BA Williams,0,0,null,0,0,null,null
+25,4.1,V Sibanda,MA Vermeulen,JN Gillespie,1,0,null,1,0,null,null
+26,4.2,MA Vermeulen,V Sibanda,JN Gillespie,0,0,null,0,0,null,null
+27,4.3,MA Vermeulen,V Sibanda,JN Gillespie,1,0,null,1,0,null,null
+28,4.4,V Sibanda,MA Vermeulen,JN Gillespie,0,0,null,0,1,V Sibanda,caught
+29,4.5,MA Vermeulen,GW Flower,JN Gillespie,0,0,null,0,0,null,null
+30,4.6,MA Vermeulen,GW Flower,JN Gillespie,0,0,null,0,0,null,null
+31,5.1,GW Flower,MA Vermeulen,BA Williams,0,0,null,0,1,GW Flower,lbw
+32,5.2,S Matsikenyeri,MA Vermeulen,BA Williams,0,0,null,0,0,null,null
+33,5.3,S Matsikenyeri,MA Vermeulen,BA Williams,0,1,wides ,1,0,null,null
+34,5.4,S Matsikenyeri,MA Vermeulen,BA Williams,0,0,null,0,0,null,null
+35,5.5,S Matsikenyeri,MA Vermeulen,BA Williams,0,0,null,0,1,S Matsikenyeri,caught
+36,5.6,T Taibu,MA Vermeulen,BA Williams,2,0,null,2,0,null,null
+37,5.7,T Taibu,MA Vermeulen,BA Williams,0,0,null,0,0,null,null
+38,6.1,MA Vermeulen,T Taibu,JN Gillespie,1,0,null,1,0,null,null
+39,6.2,T Taibu,MA Vermeulen,JN Gillespie,0,0,null,0,0,null,null
+40,6.3,T Taibu,MA Vermeulen,JN Gillespie,0,0,null,0,0,null,null
+41,6.4,T Taibu,MA Vermeulen,JN Gillespie,0,0,null,0,0,null,null
+42,6.5,T Taibu,MA Vermeulen,JN Gillespie,0,0,null,0,0,null,null
+43,6.6,T Taibu,MA Vermeulen,JN Gillespie,0,0,null,0,0,null,null
+44,7.1,MA Vermeulen,T Taibu,BA Williams,0,0,null,0,0,null,null
+45,7.2,MA Vermeulen,T Taibu,BA Williams,0,0,null,0,0,null,null
+46,7.3,MA Vermeulen,T Taibu,BA Williams,0,0,null,0,1,MA Vermeulen,bowled
+47,7.4,HH Streak,T Taibu,BA Williams,0,0,null,0,0,null,null
+48,7.5,HH Streak,T Taibu,BA Williams,0,0,null,0,0,null,null
+49,7.6,HH Streak,T Taibu,BA Williams,0,0,null,0,0,null,null
+50,8.1,T Taibu,HH Streak,JN Gillespie,0,0,null,0,0,null,null
+51,8.2,T Taibu,HH Streak,JN Gillespie,0,0,null,0,0,null,null
+52,8.3,T Taibu,HH Streak,JN Gillespie,1,0,null,1,0,null,null
+53,8.4,HH Streak,T Taibu,JN Gillespie,0,0,null,0,0,null,null
+54,8.5,HH Streak,T Taibu,JN Gillespie,0,0,null,0,0,null,null
+55,8.6,HH Streak,T Taibu,JN Gillespie,1,0,null,1,0,null,null
+56,9.1,HH Streak,T Taibu,BA Williams,4,0,null,4,0,null,null
+57,9.2,HH Streak,T Taibu,BA Williams,0,0,null,0,0,null,null
+58,9.3,HH Streak,T Taibu,BA Williams,0,0,null,0,0,null,null
+59,9.4,HH Streak,T Taibu,BA Williams,0,0,null,0,0,null,null
+60,9.5,HH Streak,T Taibu,BA Williams,0,0,null,0,0,null,null
+61,9.6,HH Streak,T Taibu,BA Williams,1,0,null,1,0,null,null
+62,10.1,HH Streak,T Taibu,JN Gillespie,0,0,null,0,0,null,null
+63,10.2,HH Streak,T Taibu,JN Gillespie,0,0,null,0,0,null,null
+64,10.3,HH Streak,T Taibu,JN Gillespie,1,0,null,1,0,null,null
+65,10.4,T Taibu,HH Streak,JN Gillespie,0,0,null,0,0,null,null
+66,10.5,T Taibu,HH Streak,JN Gillespie,0,0,null,0,0,null,null
+67,10.6,T Taibu,HH Streak,JN Gillespie,0,1,wides ,1,0,null,null
+68,10.7,T Taibu,HH Streak,JN Gillespie,4,0,null,4,0,null,null
+69,11.1,HH Streak,T Taibu,BA Williams,0,0,null,0,0,null,null
+70,11.2,HH Streak,T Taibu,BA Williams,1,0,null,1,0,null,null
+71,11.3,T Taibu,HH Streak,BA Williams,0,0,null,0,0,null,null
+72,11.4,T Taibu,HH Streak,BA Williams,0,0,null,0,0,null,null
+73,11.5,T Taibu,HH Streak,BA Williams,0,0,null,0,0,null,null
+74,11.6,T Taibu,HH Streak,BA Williams,1,0,null,1,0,null,null
+75,12.1,T Taibu,HH Streak,JN Gillespie,0,0,null,0,0,null,null
+76,12.2,T Taibu,HH Streak,JN Gillespie,0,0,null,0,0,null,null
+77,12.3,T Taibu,HH Streak,JN Gillespie,0,0,null,0,0,null,null
+78,12.4,T Taibu,HH Streak,JN Gillespie,0,0,null,0,0,null,null
+79,12.5,T Taibu,HH Streak,JN Gillespie,1,0,null,1,0,null,null
+80,12.6,HH Streak,T Taibu,JN Gillespie,1,0,null,1,0,null,null
+81,13.1,HH Streak,T Taibu,BA Williams,1,0,null,1,0,null,null
+82,13.2,T Taibu,HH Streak,BA Williams,0,0,null,0,0,null,null
+83,13.3,T Taibu,HH Streak,BA Williams,0,0,null,0,0,null,null
+84,13.4,T Taibu,HH Streak,BA Williams,0,0,null,0,0,null,null
+85,13.5,T Taibu,HH Streak,BA Williams,4,0,null,4,0,null,null
+86,13.6,T Taibu,HH Streak,BA Williams,0,0,null,0,0,null,null
+87,14.1,HH Streak,T Taibu,AJ Bichel,0,1,legbyes ,1,0,null,null
+88,14.2,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+89,14.3,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+90,14.4,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+91,14.5,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+92,14.6,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+93,15.1,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+94,15.2,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+95,15.3,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+96,15.4,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+97,15.5,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+98,15.6,HH Streak,T Taibu,IJ Harvey,0,1,wides ,1,0,null,null
+99,15.7,HH Streak,T Taibu,IJ Harvey,1,0,null,1,0,null,null
+100,16.1,HH Streak,T Taibu,AJ Bichel,0,0,null,0,0,null,null
+101,16.2,HH Streak,T Taibu,AJ Bichel,1,0,null,1,0,null,null
+102,16.3,T Taibu,HH Streak,AJ Bichel,1,0,null,1,0,null,null
+103,16.4,HH Streak,T Taibu,AJ Bichel,2,0,null,2,0,null,null
+104,16.5,HH Streak,T Taibu,AJ Bichel,0,0,null,0,0,null,null
+105,16.6,HH Streak,T Taibu,AJ Bichel,5,0,null,5,0,null,null
+106,17.1,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+107,17.2,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+108,17.3,HH Streak,T Taibu,IJ Harvey,4,0,null,4,0,null,null
+109,17.4,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+110,17.5,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+111,17.6,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+112,18.1,T Taibu,HH Streak,AJ Bichel,2,0,null,2,0,null,null
+113,18.2,T Taibu,HH Streak,AJ Bichel,4,0,null,4,0,null,null
+114,18.3,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+115,18.4,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+116,18.5,T Taibu,HH Streak,AJ Bichel,1,0,null,1,0,null,null
+117,18.6,HH Streak,T Taibu,AJ Bichel,1,0,null,1,0,null,null
+118,19.1,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+119,19.2,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+120,19.3,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+121,19.4,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+122,19.5,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+123,19.6,HH Streak,T Taibu,IJ Harvey,4,0,null,4,0,null,null
+124,20.1,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+125,20.2,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+126,20.3,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+127,20.4,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+128,20.5,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+129,20.6,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+130,21.1,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+131,21.2,HH Streak,T Taibu,IJ Harvey,0,0,null,0,0,null,null
+132,21.3,HH Streak,T Taibu,IJ Harvey,1,0,null,1,0,null,null
+133,21.4,T Taibu,HH Streak,IJ Harvey,0,0,null,0,0,null,null
+134,21.5,T Taibu,HH Streak,IJ Harvey,0,0,null,0,0,null,null
+135,21.6,T Taibu,HH Streak,IJ Harvey,3,0,null,3,0,null,null
+136,22.1,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+137,22.2,T Taibu,HH Streak,AJ Bichel,0,3,wides ,3,0,null,null
+138,22.3,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+139,22.4,T Taibu,HH Streak,AJ Bichel,1,0,null,1,0,null,null
+140,22.5,HH Streak,T Taibu,AJ Bichel,0,0,null,0,0,null,null
+141,22.6,HH Streak,T Taibu,AJ Bichel,1,0,null,1,0,null,null
+142,22.7,T Taibu,HH Streak,AJ Bichel,0,2,legbyes ,2,0,null,null
+143,23.1,HH Streak,T Taibu,A Symonds,0,0,null,0,0,null,null
+144,23.2,HH Streak,T Taibu,A Symonds,0,0,null,0,0,null,null
+145,23.3,HH Streak,T Taibu,A Symonds,0,0,null,0,0,null,null
+146,23.4,HH Streak,T Taibu,A Symonds,0,0,null,0,0,null,null
+147,23.5,HH Streak,T Taibu,A Symonds,0,2,legbyes ,2,0,null,null
+148,23.6,HH Streak,T Taibu,A Symonds,0,0,null,0,0,null,null
+149,24.1,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+150,24.2,T Taibu,HH Streak,AJ Bichel,0,0,null,0,0,null,null
+151,24.3,T Taibu,HH Streak,AJ Bichel,1,0,null,1,0,null,null
+152,24.4,HH Streak,T Taibu,AJ Bichel,0,1,wides ,1,0,null,null
+153,24.5,HH Streak,T Taibu,AJ Bichel,0,0,null,0,0,null,null
+154,24.6,HH Streak,T Taibu,AJ Bichel,0,0,null,0,0,null,null
+155,24.7,HH Streak,T Taibu,AJ Bichel,0,0,null,0,0,null,null
+156,25.1,T Taibu,HH Streak,A Symonds,1,0,null,1,0,null,null
+157,25.2,HH Streak,T Taibu,A Symonds,0,0,null,0,0,null,null
+158,25.3,HH Streak,T Taibu,A Symonds,0,0,null,0,0,null,null
+159,25.4,HH Streak,T Taibu,A Symonds,0,0,null,0,0,null,null
+160,25.5,HH Streak,T Taibu,A Symonds,2,0,null,2,0,null,null
+161,25.6,HH Streak,T Taibu,A Symonds,0,1,wides ,1,0,null,null
+162,25.7,HH Streak,T Taibu,A Symonds,0,0,null,0,0,null,null
+163,26.1,T Taibu,HH Streak,MJ Clarke,1,0,null,1,0,null,null
+164,26.2,HH Streak,T Taibu,MJ Clarke,0,0,null,0,0,null,null
+165,26.3,HH Streak,T Taibu,MJ Clarke,0,1,byes ,1,0,null,null
+166,26.4,T Taibu,HH Streak,MJ Clarke,0,0,null,0,0,null,null
+167,26.5,T Taibu,HH Streak,MJ Clarke,1,0,null,1,0,null,null
+168,26.6,HH Streak,T Taibu,MJ Clarke,0,0,null,0,0,null,null
+169,27.1,T Taibu,HH Streak,A Symonds,0,1,wides ,1,0,null,null
+170,27.2,T Taibu,HH Streak,A Symonds,0,0,null,0,1,T Taibu,caught
+171,27.3,SM Ervine,HH Streak,A Symonds,0,1,legbyes ,1,0,null,null
+172,27.4,HH Streak,SM Ervine,A Symonds,0,0,null,0,0,null,null
+173,27.5,HH Streak,SM Ervine,A Symonds,0,0,null,0,0,null,null
+174,27.6,HH Streak,SM Ervine,A Symonds,1,0,null,1,0,null,null
+175,27.7,SM Ervine,HH Streak,A Symonds,1,0,null,1,0,null,null
+176,28.1,SM Ervine,HH Streak,MJ Clarke,1,0,null,1,0,null,null
+177,28.2,HH Streak,SM Ervine,MJ Clarke,0,0,null,0,0,null,null
+178,28.3,HH Streak,SM Ervine,MJ Clarke,0,0,null,0,0,null,null
+179,28.4,HH Streak,SM Ervine,MJ Clarke,0,0,null,0,0,null,null
+180,28.5,HH Streak,SM Ervine,MJ Clarke,0,0,null,0,0,null,null
+181,28.6,HH Streak,SM Ervine,MJ Clarke,2,0,null,2,0,null,null
+182,29.1,SM Ervine,HH Streak,A Symonds,0,1,wides ,1,0,null,null
+183,29.2,SM Ervine,HH Streak,A Symonds,1,0,null,1,0,null,null
+184,29.3,HH Streak,SM Ervine,A Symonds,1,0,null,1,0,null,null
+185,29.4,SM Ervine,HH Streak,A Symonds,1,0,null,1,0,null,null
+186,29.5,HH Streak,SM Ervine,A Symonds,0,0,null,0,0,null,null
+187,29.6,HH Streak,SM Ervine,A Symonds,1,0,null,1,0,null,null
+188,29.7,SM Ervine,HH Streak,A Symonds,0,0,null,0,0,null,null
+189,30.1,HH Streak,SM Ervine,MJ Clarke,0,0,null,0,0,null,null
+190,30.2,HH Streak,SM Ervine,MJ Clarke,1,0,null,1,0,null,null
+191,30.3,SM Ervine,HH Streak,MJ Clarke,0,0,null,0,0,null,null
+192,30.4,SM Ervine,HH Streak,MJ Clarke,0,0,null,0,0,null,null
+193,30.5,SM Ervine,HH Streak,MJ Clarke,0,0,null,0,0,null,null
+194,30.6,SM Ervine,HH Streak,MJ Clarke,2,0,null,2,0,null,null
+195,31.1,HH Streak,SM Ervine,A Symonds,0,0,null,0,0,null,null
+196,31.2,HH Streak,SM Ervine,A Symonds,2,0,null,2,0,null,null
+197,31.3,HH Streak,SM Ervine,A Symonds,1,0,null,1,0,null,null
+198,31.4,SM Ervine,HH Streak,A Symonds,1,0,null,1,0,null,null
+199,31.5,HH Streak,SM Ervine,A Symonds,0,0,null,0,0,null,null
+200,31.6,HH Streak,SM Ervine,A Symonds,1,0,null,1,0,null,null
+201,32.1,HH Streak,SM Ervine,MJ Clarke,1,0,null,1,0,null,null
+202,32.2,SM Ervine,HH Streak,MJ Clarke,1,0,null,1,0,null,null
+203,32.3,HH Streak,SM Ervine,MJ Clarke,0,0,null,0,0,null,null
+204,32.4,HH Streak,SM Ervine,MJ Clarke,1,0,null,1,0,null,null
+205,32.5,SM Ervine,HH Streak,MJ Clarke,0,0,null,0,0,null,null
+206,32.6,SM Ervine,HH Streak,MJ Clarke,0,0,null,0,0,null,null
+207,33.1,HH Streak,SM Ervine,A Symonds,1,0,null,1,0,null,null
+208,33.2,SM Ervine,HH Streak,A Symonds,4,0,null,4,0,null,null
+209,33.3,SM Ervine,HH Streak,A Symonds,2,0,null,2,0,null,null
+210,33.4,SM Ervine,HH Streak,A Symonds,0,0,null,0,1,SM Ervine,caught
+211,33.5,AM Blignaut,HH Streak,A Symonds,0,0,null,0,0,null,null
+212,33.6,AM Blignaut,HH Streak,A Symonds,0,0,null,0,0,null,null
+213,34.1,HH Streak,AM Blignaut,MJ Clarke,0,0,null,0,0,null,null
+214,34.2,HH Streak,AM Blignaut,MJ Clarke,0,1,wides ,1,0,null,null
+215,34.3,HH Streak,AM Blignaut,MJ Clarke,1,0,null,1,0,null,null
+216,34.4,AM Blignaut,HH Streak,MJ Clarke,0,0,null,0,0,null,null
+217,34.5,AM Blignaut,HH Streak,MJ Clarke,1,0,null,1,0,null,null
+218,34.6,HH Streak,AM Blignaut,MJ Clarke,0,0,null,0,0,null,null
+219,34.7,HH Streak,AM Blignaut,MJ Clarke,0,0,null,0,1,HH Streak,stumped
+220,35.1,AM Blignaut,RW Price,BA Williams,0,0,null,0,0,null,null
+221,35.2,AM Blignaut,RW Price,BA Williams,0,0,null,0,0,null,null
+222,35.3,AM Blignaut,RW Price,BA Williams,1,0,null,1,0,null,null
+223,35.4,RW Price,AM Blignaut,BA Williams,0,0,null,0,0,null,null
+224,35.5,RW Price,AM Blignaut,BA Williams,0,0,null,0,0,null,null
+225,35.6,RW Price,AM Blignaut,BA Williams,0,0,null,0,0,null,null
+226,36.1,AM Blignaut,RW Price,JN Gillespie,1,0,null,1,0,null,null
+227,36.2,RW Price,AM Blignaut,JN Gillespie,0,0,null,0,0,null,null
+228,36.3,RW Price,AM Blignaut,JN Gillespie,0,0,null,0,0,null,null
+229,36.4,RW Price,AM Blignaut,JN Gillespie,0,0,null,0,0,null,null
+230,36.5,RW Price,AM Blignaut,JN Gillespie,0,0,null,0,1,RW Price,bowled
+231,36.6,DT Hondo,AM Blignaut,JN Gillespie,0,0,null,0,0,null,null
+232,37.1,AM Blignaut,DT Hondo,BA Williams,1,0,null,1,0,null,null
+233,37.2,DT Hondo,AM Blignaut,BA Williams,1,0,null,1,0,null,null
+234,37.3,AM Blignaut,DT Hondo,BA Williams,0,0,null,0,1,AM Blignaut,caught

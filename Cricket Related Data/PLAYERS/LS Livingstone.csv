@@ -1,0 +1,22 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1276907,"Kennington Oval, London",India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",1,0,9,0,0
+1,1276908,"Lord's, London",India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,5,9,1,0
+2,1276908,"Lord's, London",India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,1,8,0,0
+3,1276908,"Lord's, London",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,10,7,0,1
+4,1276908,"Lord's, London",India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",1,13,8,1,1
+5,1276909,"Old Trafford, Manchester",India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,0,5,0,0
+6,1276909,"Old Trafford, Manchester",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,2,5,0,0
+7,1276909,"Old Trafford, Manchester",India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",1,12,8,0,2
+8,1281444,"VRA Ground, Amstelveen",Netherlands,LV van Beek,Right-arm fast-medium,"[0, 1, 1]",0,11,8,2,0
+9,1276911,"Old Trafford, Manchester",South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",0,7,8,0,0
+10,1276911,"Old Trafford, Manchester",South Africa,KA Maharaj,Left-arm orthodox,"[1, 0, 1]",0,4,8,0,0
+11,1243394,Maharashtra Cricket Association Stadium,India,KH Pandya,Left-arm orthodox,"[1, 0, 1]",0,5,4,0,0
+12,1243394,Maharashtra Cricket Association Stadium,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,6,5,1,0
+13,1243394,Maharashtra Cricket Association Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,15,5,0,2
+14,1243395,Maharashtra Cricket Association Stadium,India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+15,1243395,Maharashtra Cricket Association Stadium,India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",1,12,13,2,0
+16,1243395,Maharashtra Cricket Association Stadium,India,KH Pandya,Left-arm orthodox,"[1, 0, 1]",0,14,10,0,1
+17,1276910,"Riverside Ground, Chester-le-Street",South Africa,L Ngidi,Right-arm fast,"[0, 1, 0]",1,4,4,1,0
+18,1276910,"Riverside Ground, Chester-le-Street",South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",0,4,5,0,0
+19,1239534,"Riverside Ground, Chester-le-Street",Sri Lanka,C Karunaratne,Right-arm fast-medium,"[0, 1, 1]",1,6,3,0,1
+20,1239534,"Riverside Ground, Chester-le-Street",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,1,4,0,0

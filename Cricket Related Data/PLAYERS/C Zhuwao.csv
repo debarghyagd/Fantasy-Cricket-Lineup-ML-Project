@@ -1,0 +1,14 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1153635,"Shere Bangla National Stadium, Mirpur",Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",1,0,2,0,0
+1,1153635,"Shere Bangla National Stadium, Mirpur",Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,15,12,3,0
+2,325581,Gymkhana Club Ground,Ireland,PC Connell,Right-arm legbreak,"[1, 1, 1]",0,9,8,2,0
+3,325581,Gymkhana Club Ground,Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",0,6,8,1,0
+4,325581,Gymkhana Club Ground,Ireland,DT Johnston,Right-arm fast-medium,"[0, 1, 1]",1,1,6,0,0
+5,1133004,Queens Sports Club,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+6,1153636,Zahur Ahmed Chowdhury Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,10,12,0,1
+7,1153636,Zahur Ahmed Chowdhury Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+8,1133012,Queens Sports Club,Hong Kong,Nadeem Ahmed,Left-arm orthodox,"[1, 0, 1]",0,16,7,2,1
+9,1133012,Queens Sports Club,Hong Kong,Ehsan Nawaz,Right-arm fast-medium,"[0, 1, 1]",1,12,14,0,2
+10,1133022,Harare Sports Club,Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,16,8,0,2
+11,1133017,Queens Sports Club,Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",1,18,10,3,1
+12,1133026,Harare Sports Club,West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,0,3,0,0

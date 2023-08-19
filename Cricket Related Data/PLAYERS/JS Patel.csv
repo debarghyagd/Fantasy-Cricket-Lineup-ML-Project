@@ -1,0 +1,25 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,247503,"National Cricket Stadium, St George's",Australia,SW Tait,Right-arm fast,"[0, 1, 0]",0,0,1,0,0
+1,249228,Bellerive Oval,Australia,A Symonds,Right-arm medium,"[0, 1, 2]",1,4,3,1,0
+2,291347,Bellerive Oval,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,0,1,0,0
+3,291347,Bellerive Oval,Australia,GB Hogg,Left-arm chinaman,"[1, 0, 0]",0,1,1,0,0
+4,351691,Sydney Cricket Ground,Australia,BW Hilfenhaus,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+5,415287,SuperSport Park,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+6,415287,SuperSport Park,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",1,4,4,0,0
+7,415287,SuperSport Park,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,8,8,1,0
+8,415287,SuperSport Park,Australia,NM Hauritz,Right-arm offbreak,"[1, 1, 0]",0,3,4,0,0
+9,1033371,Clontarf Cricket Club Ground,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,4,4,0,0
+10,1033371,Clontarf Cricket Club Ground,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0
+11,1020039,Eden Park,South Africa,Imran Tahir,Right-arm legbreak,"[1, 1, 1]",1,0,2,0,0
+12,249746,Brabourne Stadium,South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+13,247505,"Sabina Park, Kingston",Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",0,4,7,0,0
+14,247505,"Sabina Park, Kingston",Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",1,10,13,0,1
+15,247505,"Sabina Park, Kingston",Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,4,6,0,0
+16,247505,"Sabina Park, Kingston",Sri Lanka,ST Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,16,14,2,0
+17,249749,Brabourne Stadium,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",0,3,14,0,0
+18,249749,Brabourne Stadium,Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",0,2,6,0,0
+19,249749,Brabourne Stadium,Sri Lanka,ST Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,0,3,0,0
+20,249749,Brabourne Stadium,Sri Lanka,WPUJC Vaas,Left-arm fast-medium,"[0, 0, 1]",0,1,5,0,0
+21,249749,Brabourne Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,4,13,0,0
+22,251492,Eden Park,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",1,5,7,1,0
+23,251492,Eden Park,Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",0,1,7,0,0

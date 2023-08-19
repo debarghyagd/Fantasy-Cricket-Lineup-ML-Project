@@ -1,0 +1,309 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+1,0.2,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+2,0.3,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+3,0.4,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+4,0.5,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+5,0.6,SP Khakurel,G Malla,Bilal Khan,1,0,null,1,0,null,null
+6,1.1,SP Khakurel,G Malla,Kaleemullah,0,0,null,0,0,null,null
+7,1.2,SP Khakurel,G Malla,Kaleemullah,0,0,null,0,0,null,null
+8,1.3,SP Khakurel,G Malla,Kaleemullah,1,0,null,1,0,null,null
+9,1.4,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+10,1.5,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+11,1.6,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+12,2.1,SP Khakurel,G Malla,Bilal Khan,1,0,null,1,0,null,null
+13,2.2,G Malla,SP Khakurel,Bilal Khan,4,0,null,4,0,null,null
+14,2.3,G Malla,SP Khakurel,Bilal Khan,1,0,null,1,0,null,null
+15,2.4,SP Khakurel,G Malla,Bilal Khan,1,0,null,1,0,null,null
+16,2.5,G Malla,SP Khakurel,Bilal Khan,0,0,null,0,0,null,null
+17,2.6,G Malla,SP Khakurel,Bilal Khan,0,0,null,0,0,null,null
+18,3.1,SP Khakurel,G Malla,Kaleemullah,4,0,null,4,0,null,null
+19,3.2,SP Khakurel,G Malla,Kaleemullah,0,0,null,0,0,null,null
+20,3.3,SP Khakurel,G Malla,Kaleemullah,0,0,null,0,0,null,null
+21,3.4,SP Khakurel,G Malla,Kaleemullah,0,0,null,0,0,null,null
+22,3.5,SP Khakurel,G Malla,Kaleemullah,1,0,null,1,0,null,null
+23,3.6,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+24,4.1,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+25,4.2,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+26,4.3,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+27,4.4,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+28,4.5,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+29,4.6,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+30,5.1,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+31,5.2,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+32,5.3,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+33,5.4,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+34,5.5,G Malla,SP Khakurel,Kaleemullah,4,0,null,4,0,null,null
+35,5.6,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+36,6.1,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+37,6.2,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+38,6.3,SP Khakurel,G Malla,Bilal Khan,1,0,null,1,0,null,null
+39,6.4,G Malla,SP Khakurel,Bilal Khan,0,0,null,0,0,null,null
+40,6.5,G Malla,SP Khakurel,Bilal Khan,0,0,null,0,0,null,null
+41,6.6,G Malla,SP Khakurel,Bilal Khan,0,0,null,0,0,null,null
+42,7.1,SP Khakurel,G Malla,Kaleemullah,0,0,null,0,0,null,null
+43,7.2,SP Khakurel,G Malla,Kaleemullah,0,0,null,0,0,null,null
+44,7.3,SP Khakurel,G Malla,Kaleemullah,1,0,null,1,0,null,null
+45,7.4,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+46,7.5,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+47,7.6,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+48,8.1,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+49,8.2,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+50,8.3,SP Khakurel,G Malla,Bilal Khan,1,0,null,1,0,null,null
+51,8.4,G Malla,SP Khakurel,Bilal Khan,1,0,null,1,0,null,null
+52,8.5,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+53,8.6,SP Khakurel,G Malla,Bilal Khan,0,0,null,0,0,null,null
+54,9.1,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+55,9.2,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+56,9.3,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+57,9.4,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+58,9.5,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+59,9.6,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+60,10.1,SP Khakurel,G Malla,Mohammad Nadeem,1,0,null,1,0,null,null
+61,10.2,G Malla,SP Khakurel,Mohammad Nadeem,0,0,null,0,0,null,null
+62,10.3,G Malla,SP Khakurel,Mohammad Nadeem,0,0,null,0,0,null,null
+63,10.4,G Malla,SP Khakurel,Mohammad Nadeem,1,0,null,1,0,null,null
+64,10.5,SP Khakurel,G Malla,Mohammad Nadeem,1,0,null,1,0,null,null
+65,10.6,G Malla,SP Khakurel,Mohammad Nadeem,1,0,null,1,0,null,null
+66,11.1,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+67,11.2,G Malla,SP Khakurel,Kaleemullah,1,0,null,1,0,null,null
+68,11.3,SP Khakurel,G Malla,Kaleemullah,3,0,null,3,0,null,null
+69,11.4,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+70,11.5,G Malla,SP Khakurel,Kaleemullah,1,0,null,1,0,null,null
+71,11.6,SP Khakurel,G Malla,Kaleemullah,1,0,null,1,0,null,null
+72,12.1,SP Khakurel,G Malla,Zeeshan Maqsood,0,0,null,0,0,null,null
+73,12.2,SP Khakurel,G Malla,Zeeshan Maqsood,1,0,null,1,0,null,null
+74,12.3,G Malla,SP Khakurel,Zeeshan Maqsood,1,0,null,1,0,null,null
+75,12.4,SP Khakurel,G Malla,Zeeshan Maqsood,2,0,null,2,0,null,null
+76,12.5,SP Khakurel,G Malla,Zeeshan Maqsood,1,0,null,1,0,null,null
+77,12.6,G Malla,SP Khakurel,Zeeshan Maqsood,1,0,null,1,0,null,null
+78,13.1,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+79,13.2,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+80,13.3,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+81,13.4,G Malla,SP Khakurel,Kaleemullah,4,0,null,4,0,null,null
+82,13.5,G Malla,SP Khakurel,Kaleemullah,6,0,null,6,0,null,null
+83,13.6,G Malla,SP Khakurel,Kaleemullah,0,0,null,0,0,null,null
+84,14.1,SP Khakurel,G Malla,Mohammad Nadeem,0,0,null,0,1,SP Khakurel,lbw
+85,14.2,P Khadka,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+86,14.3,P Khadka,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+87,14.4,P Khadka,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+88,14.5,P Khadka,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+89,14.6,P Khadka,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+90,15.1,G Malla,P Khadka,Zeeshan Maqsood,0,0,null,0,0,null,null
+91,15.2,G Malla,P Khadka,Zeeshan Maqsood,2,0,null,2,0,null,null
+92,15.3,G Malla,P Khadka,Zeeshan Maqsood,4,0,null,4,0,null,null
+93,15.4,G Malla,P Khadka,Zeeshan Maqsood,0,0,null,0,0,null,null
+94,15.5,G Malla,P Khadka,Zeeshan Maqsood,1,0,null,1,0,null,null
+95,15.6,P Khadka,G Malla,Zeeshan Maqsood,0,0,null,0,0,null,null
+96,16.1,G Malla,P Khadka,Mohammad Nadeem,1,0,null,1,0,null,null
+97,16.2,P Khadka,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+98,16.3,P Khadka,G Malla,Mohammad Nadeem,4,0,null,4,0,null,null
+99,16.4,P Khadka,G Malla,Mohammad Nadeem,4,0,null,4,0,null,null
+100,16.5,P Khadka,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+101,16.6,P Khadka,G Malla,Mohammad Nadeem,1,0,null,1,0,null,null
+102,17.1,P Khadka,G Malla,Zeeshan Maqsood,0,0,null,0,0,null,null
+103,17.2,P Khadka,G Malla,Zeeshan Maqsood,4,0,null,4,0,null,null
+104,17.3,P Khadka,G Malla,Zeeshan Maqsood,0,0,null,0,0,null,null
+105,17.4,P Khadka,G Malla,Zeeshan Maqsood,4,0,null,4,0,null,null
+106,17.5,P Khadka,G Malla,Zeeshan Maqsood,0,0,null,0,0,null,null
+107,17.6,P Khadka,G Malla,Zeeshan Maqsood,1,0,null,1,0,null,null
+108,18.1,P Khadka,G Malla,Khawar Ali,0,0,null,0,0,null,null
+109,18.2,P Khadka,G Malla,Khawar Ali,4,0,null,4,0,null,null
+110,18.3,P Khadka,G Malla,Khawar Ali,1,0,null,1,0,null,null
+111,18.4,G Malla,P Khadka,Khawar Ali,0,0,null,0,0,null,null
+112,18.5,G Malla,P Khadka,Khawar Ali,1,0,null,1,0,null,null
+113,18.6,P Khadka,G Malla,Khawar Ali,1,0,null,1,0,null,null
+114,19.1,P Khadka,G Malla,Zeeshan Maqsood,0,0,null,0,0,null,null
+115,19.2,P Khadka,G Malla,Zeeshan Maqsood,0,0,null,0,0,null,null
+116,19.3,P Khadka,G Malla,Zeeshan Maqsood,0,0,null,0,0,null,null
+117,19.4,P Khadka,G Malla,Zeeshan Maqsood,0,0,null,0,0,null,null
+118,19.5,P Khadka,G Malla,Zeeshan Maqsood,0,0,null,0,0,null,null
+119,19.6,P Khadka,G Malla,Zeeshan Maqsood,0,0,null,0,0,null,null
+120,20.1,G Malla,P Khadka,Khawar Ali,1,0,null,1,0,null,null
+121,20.2,P Khadka,G Malla,Khawar Ali,6,0,null,6,0,null,null
+122,20.3,P Khadka,G Malla,Khawar Ali,1,0,null,1,0,null,null
+123,20.4,G Malla,P Khadka,Khawar Ali,0,0,null,0,0,null,null
+124,20.5,G Malla,P Khadka,Khawar Ali,0,0,null,0,0,null,null
+125,20.6,G Malla,P Khadka,Khawar Ali,0,2,byes ,2,0,null,null
+126,21.1,P Khadka,G Malla,Zeeshan Maqsood,1,0,null,1,0,null,null
+127,21.2,G Malla,P Khadka,Zeeshan Maqsood,1,0,null,1,0,null,null
+128,21.3,P Khadka,G Malla,Zeeshan Maqsood,1,0,null,1,0,null,null
+129,21.4,G Malla,P Khadka,Zeeshan Maqsood,0,0,null,0,0,null,null
+130,21.5,G Malla,P Khadka,Zeeshan Maqsood,2,0,null,2,0,null,null
+131,21.6,G Malla,P Khadka,Zeeshan Maqsood,1,0,null,1,0,null,null
+132,22.1,G Malla,P Khadka,Khawar Ali,4,0,null,4,0,null,null
+133,22.2,G Malla,P Khadka,Khawar Ali,1,0,null,1,0,null,null
+134,22.3,P Khadka,G Malla,Khawar Ali,4,0,null,4,0,null,null
+135,22.4,P Khadka,G Malla,Khawar Ali,1,0,null,1,0,null,null
+136,22.5,G Malla,P Khadka,Khawar Ali,0,0,null,0,0,null,null
+137,22.6,G Malla,P Khadka,Khawar Ali,0,0,null,0,0,null,null
+138,23.1,P Khadka,G Malla,Mohammad Nadeem,0,0,null,0,1,P Khadka,caught
+139,23.2,DS Airee,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+140,23.3,DS Airee,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+141,23.4,DS Airee,G Malla,Mohammad Nadeem,0,0,null,0,1,DS Airee,caught
+142,23.5,Aarif Sheikh,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+143,23.6,Aarif Sheikh,G Malla,Mohammad Nadeem,1,0,null,1,0,null,null
+144,24.1,Aarif Sheikh,G Malla,Zeeshan Maqsood,1,0,null,1,0,null,null
+145,24.2,G Malla,Aarif Sheikh,Zeeshan Maqsood,0,0,null,0,0,null,null
+146,24.3,G Malla,Aarif Sheikh,Zeeshan Maqsood,0,0,null,0,0,null,null
+147,24.4,G Malla,Aarif Sheikh,Zeeshan Maqsood,0,0,null,0,0,null,null
+148,24.5,G Malla,Aarif Sheikh,Zeeshan Maqsood,1,0,null,1,0,null,null
+149,24.6,Aarif Sheikh,G Malla,Zeeshan Maqsood,4,0,null,4,0,null,null
+150,25.1,G Malla,Aarif Sheikh,Mohammad Nadeem,1,0,null,1,0,null,null
+151,25.2,Aarif Sheikh,G Malla,Mohammad Nadeem,1,0,null,1,0,null,null
+152,25.3,G Malla,Aarif Sheikh,Mohammad Nadeem,2,0,null,2,0,null,null
+153,25.4,G Malla,Aarif Sheikh,Mohammad Nadeem,4,0,null,4,0,null,null
+154,25.5,G Malla,Aarif Sheikh,Mohammad Nadeem,1,0,null,1,0,null,null
+155,25.6,Aarif Sheikh,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+156,26.1,G Malla,Aarif Sheikh,Bilal Khan,1,0,null,1,0,null,null
+157,26.2,Aarif Sheikh,G Malla,Bilal Khan,0,0,null,0,0,null,null
+158,26.3,Aarif Sheikh,G Malla,Bilal Khan,0,0,null,0,0,null,null
+159,26.4,Aarif Sheikh,G Malla,Bilal Khan,1,0,null,1,0,null,null
+160,26.5,G Malla,Aarif Sheikh,Bilal Khan,0,1,wides ,1,0,null,null
+161,26.6,G Malla,Aarif Sheikh,Bilal Khan,0,0,null,0,0,null,null
+162,26.7,G Malla,Aarif Sheikh,Bilal Khan,0,0,null,0,0,null,null
+163,27.1,Aarif Sheikh,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+164,27.2,Aarif Sheikh,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+165,27.3,Aarif Sheikh,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+166,27.4,Aarif Sheikh,G Malla,Mohammad Nadeem,1,0,null,1,0,null,null
+167,27.5,G Malla,Aarif Sheikh,Mohammad Nadeem,1,0,null,1,0,null,null
+168,27.6,Aarif Sheikh,G Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+169,28.1,G Malla,Aarif Sheikh,Aqib Ilyas,0,0,null,0,1,G Malla,caught
+170,28.2,Kushal Malla,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+171,28.3,Kushal Malla,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+172,28.4,Kushal Malla,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+173,28.5,Kushal Malla,Aarif Sheikh,Aqib Ilyas,4,0,null,4,0,null,null
+174,28.6,Kushal Malla,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+175,29.1,Aarif Sheikh,Kushal Malla,Mohammad Nadeem,0,0,null,0,0,null,null
+176,29.2,Aarif Sheikh,Kushal Malla,Mohammad Nadeem,1,0,null,1,0,null,null
+177,29.3,Kushal Malla,Aarif Sheikh,Mohammad Nadeem,4,0,null,4,0,null,null
+178,29.4,Kushal Malla,Aarif Sheikh,Mohammad Nadeem,0,0,null,0,0,null,null
+179,29.5,Kushal Malla,Aarif Sheikh,Mohammad Nadeem,0,0,null,0,0,null,null
+180,29.6,Kushal Malla,Aarif Sheikh,Mohammad Nadeem,1,0,null,1,0,null,null
+181,30.1,Kushal Malla,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+182,30.2,Kushal Malla,Aarif Sheikh,Aqib Ilyas,1,0,null,1,0,null,null
+183,30.3,Aarif Sheikh,Kushal Malla,Aqib Ilyas,0,0,null,0,0,null,null
+184,30.4,Aarif Sheikh,Kushal Malla,Aqib Ilyas,1,0,null,1,0,null,null
+185,30.5,Kushal Malla,Aarif Sheikh,Aqib Ilyas,1,0,null,1,0,null,null
+186,30.6,Aarif Sheikh,Kushal Malla,Aqib Ilyas,0,1,wides ,1,0,null,null
+187,30.7,Aarif Sheikh,Kushal Malla,Aqib Ilyas,0,1,wides ,1,0,null,null
+188,30.8,Aarif Sheikh,Kushal Malla,Aqib Ilyas,0,0,null,0,0,null,null
+189,31.1,Kushal Malla,Aarif Sheikh,ME Sanuth,0,0,null,0,0,null,null
+190,31.2,Kushal Malla,Aarif Sheikh,ME Sanuth,1,0,null,1,0,null,null
+191,31.3,Aarif Sheikh,Kushal Malla,ME Sanuth,1,0,null,1,0,null,null
+192,31.4,Kushal Malla,Aarif Sheikh,ME Sanuth,2,0,null,2,0,null,null
+193,31.5,Kushal Malla,Aarif Sheikh,ME Sanuth,6,0,null,6,0,null,null
+194,31.6,Kushal Malla,Aarif Sheikh,ME Sanuth,6,0,null,6,0,null,null
+195,32.1,Aarif Sheikh,Kushal Malla,Aqib Ilyas,1,0,null,1,0,null,null
+196,32.2,Kushal Malla,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+197,32.3,Kushal Malla,Aarif Sheikh,Aqib Ilyas,1,0,null,1,0,null,null
+198,32.4,Aarif Sheikh,Kushal Malla,Aqib Ilyas,0,0,null,0,0,null,null
+199,32.5,Aarif Sheikh,Kushal Malla,Aqib Ilyas,0,0,null,0,0,null,null
+200,32.6,Aarif Sheikh,Kushal Malla,Aqib Ilyas,1,0,null,1,0,null,null
+201,33.1,Aarif Sheikh,Kushal Malla,Bilal Khan,1,0,null,1,0,null,null
+202,33.2,Kushal Malla,Aarif Sheikh,Bilal Khan,1,0,null,1,0,null,null
+203,33.3,Aarif Sheikh,Kushal Malla,Bilal Khan,0,1,wides ,1,0,null,null
+204,33.4,Aarif Sheikh,Kushal Malla,Bilal Khan,1,0,null,1,0,null,null
+205,33.5,Kushal Malla,Aarif Sheikh,Bilal Khan,0,0,null,0,0,null,null
+206,33.6,Kushal Malla,Aarif Sheikh,Bilal Khan,0,0,null,0,0,null,null
+207,33.7,Kushal Malla,Aarif Sheikh,Bilal Khan,0,0,null,0,0,null,null
+208,34.1,Aarif Sheikh,Kushal Malla,Aqib Ilyas,1,0,null,1,0,null,null
+209,34.2,Kushal Malla,Aarif Sheikh,Aqib Ilyas,0,0,null,0,1,Kushal Malla,caught
+210,34.3,B Bhandari,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+211,34.4,B Bhandari,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+212,34.5,B Bhandari,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+213,34.6,B Bhandari,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+214,35.1,Aarif Sheikh,B Bhandari,Khawar Ali,0,0,null,0,0,null,null
+215,35.2,Aarif Sheikh,B Bhandari,Khawar Ali,1,0,null,1,0,null,null
+216,35.3,B Bhandari,Aarif Sheikh,Khawar Ali,0,0,null,0,0,null,null
+217,35.4,B Bhandari,Aarif Sheikh,Khawar Ali,0,0,null,0,0,null,null
+218,35.5,B Bhandari,Aarif Sheikh,Khawar Ali,0,0,null,0,0,null,null
+219,35.6,B Bhandari,Aarif Sheikh,Khawar Ali,0,0,null,0,0,null,null
+220,36.1,Aarif Sheikh,B Bhandari,Aqib Ilyas,0,0,null,0,0,null,null
+221,36.2,Aarif Sheikh,B Bhandari,Aqib Ilyas,0,0,null,0,0,null,null
+222,36.3,Aarif Sheikh,B Bhandari,Aqib Ilyas,1,0,null,1,0,null,null
+223,36.4,B Bhandari,Aarif Sheikh,Aqib Ilyas,1,0,null,1,0,null,null
+224,36.5,Aarif Sheikh,B Bhandari,Aqib Ilyas,0,1,wides ,1,0,null,null
+225,36.6,Aarif Sheikh,B Bhandari,Aqib Ilyas,1,0,null,1,0,null,null
+226,36.7,B Bhandari,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+227,37.1,Aarif Sheikh,B Bhandari,Khawar Ali,0,0,null,0,0,null,null
+228,37.2,Aarif Sheikh,B Bhandari,Khawar Ali,1,0,null,1,0,null,null
+229,37.3,B Bhandari,Aarif Sheikh,Khawar Ali,4,0,null,4,0,null,null
+230,37.4,B Bhandari,Aarif Sheikh,Khawar Ali,2,0,null,2,0,null,null
+231,37.5,B Bhandari,Aarif Sheikh,Khawar Ali,0,0,null,0,0,null,null
+232,37.6,B Bhandari,Aarif Sheikh,Khawar Ali,0,1,wides ,1,0,null,null
+233,37.7,B Bhandari,Aarif Sheikh,Khawar Ali,0,0,null,0,0,null,null
+234,38.1,Aarif Sheikh,B Bhandari,Aqib Ilyas,0,0,null,0,0,null,null
+235,38.2,Aarif Sheikh,B Bhandari,Aqib Ilyas,1,0,null,1,0,null,null
+236,38.3,B Bhandari,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+237,38.4,B Bhandari,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+238,38.5,B Bhandari,Aarif Sheikh,Aqib Ilyas,4,0,null,4,0,null,null
+239,38.6,B Bhandari,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+240,39.1,Aarif Sheikh,B Bhandari,Khawar Ali,0,0,null,0,0,null,null
+241,39.2,Aarif Sheikh,B Bhandari,Khawar Ali,1,0,null,1,0,null,null
+242,39.3,B Bhandari,Aarif Sheikh,Khawar Ali,0,0,null,0,0,null,null
+243,39.4,B Bhandari,Aarif Sheikh,Khawar Ali,1,0,null,1,0,null,null
+244,39.5,Aarif Sheikh,B Bhandari,Khawar Ali,2,0,null,2,0,null,null
+245,39.6,Aarif Sheikh,B Bhandari,Khawar Ali,0,0,null,0,0,null,null
+246,40.1,B Bhandari,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+247,40.2,B Bhandari,Aarif Sheikh,Aqib Ilyas,0,0,null,0,0,null,null
+248,40.3,B Bhandari,Aarif Sheikh,Aqib Ilyas,4,0,null,4,0,null,null
+249,40.4,B Bhandari,Aarif Sheikh,Aqib Ilyas,1,0,null,1,0,null,null
+250,40.5,Aarif Sheikh,B Bhandari,Aqib Ilyas,0,0,null,0,0,null,null
+251,40.6,Aarif Sheikh,B Bhandari,Aqib Ilyas,2,0,null,2,0,null,null
+252,41.1,B Bhandari,Aarif Sheikh,Zeeshan Maqsood,0,1,wides ,1,0,null,null
+253,41.2,B Bhandari,Aarif Sheikh,Zeeshan Maqsood,0,0,null,0,0,null,null
+254,41.3,B Bhandari,Aarif Sheikh,Zeeshan Maqsood,0,0,null,0,0,null,null
+255,41.4,B Bhandari,Aarif Sheikh,Zeeshan Maqsood,0,0,null,0,0,null,null
+256,41.5,B Bhandari,Aarif Sheikh,Zeeshan Maqsood,1,0,null,1,0,null,null
+257,41.6,Aarif Sheikh,B Bhandari,Zeeshan Maqsood,1,0,null,1,0,null,null
+258,41.7,B Bhandari,Aarif Sheikh,Zeeshan Maqsood,0,0,null,0,0,null,null
+259,42.1,Aarif Sheikh,B Bhandari,Aqib Ilyas,0,0,null,0,1,Aarif Sheikh,lbw
+260,42.2,Karan KC,B Bhandari,Aqib Ilyas,0,0,null,0,0,null,null
+261,42.3,Karan KC,B Bhandari,Aqib Ilyas,1,0,null,1,0,null,null
+262,42.4,B Bhandari,Karan KC,Aqib Ilyas,1,0,null,1,0,null,null
+263,42.5,Karan KC,B Bhandari,Aqib Ilyas,0,0,null,0,0,null,null
+264,42.6,Karan KC,B Bhandari,Aqib Ilyas,0,0,null,0,0,null,null
+265,43.1,B Bhandari,Karan KC,Zeeshan Maqsood,1,0,null,1,0,null,null
+266,43.2,Karan KC,B Bhandari,Zeeshan Maqsood,4,0,null,4,0,null,null
+267,43.3,Karan KC,B Bhandari,Zeeshan Maqsood,0,0,null,0,0,null,null
+268,43.4,Karan KC,B Bhandari,Zeeshan Maqsood,1,0,null,1,0,null,null
+269,43.5,B Bhandari,Karan KC,Zeeshan Maqsood,1,0,null,1,0,null,null
+270,43.6,Karan KC,B Bhandari,Zeeshan Maqsood,1,0,null,1,0,null,null
+271,44.1,Karan KC,B Bhandari,Aqib Ilyas,0,0,null,0,0,null,null
+272,44.2,Karan KC,B Bhandari,Aqib Ilyas,1,0,null,1,0,null,null
+273,44.3,B Bhandari,Karan KC,Aqib Ilyas,1,0,null,1,0,null,null
+274,44.4,Karan KC,B Bhandari,Aqib Ilyas,0,0,null,0,0,null,null
+275,44.5,Karan KC,B Bhandari,Aqib Ilyas,1,0,null,1,0,null,null
+276,44.6,B Bhandari,Karan KC,Aqib Ilyas,1,0,null,1,0,null,null
+277,45.1,B Bhandari,Karan KC,Bilal Khan,0,0,null,0,0,null,null
+278,45.2,B Bhandari,Karan KC,Bilal Khan,4,0,null,4,0,null,null
+279,45.3,B Bhandari,Karan KC,Bilal Khan,1,0,null,1,0,null,null
+280,45.4,Karan KC,B Bhandari,Bilal Khan,1,0,null,1,0,null,null
+281,45.5,B Bhandari,Karan KC,Bilal Khan,0,0,null,0,0,null,null
+282,45.6,B Bhandari,Karan KC,Bilal Khan,1,0,null,1,0,null,null
+283,46.1,B Bhandari,Karan KC,Aqib Ilyas,1,0,null,1,0,null,null
+284,46.2,Karan KC,B Bhandari,Aqib Ilyas,0,0,null,0,0,null,null
+285,46.3,Karan KC,B Bhandari,Aqib Ilyas,0,0,null,0,0,null,null
+286,46.4,Karan KC,B Bhandari,Aqib Ilyas,0,0,null,0,1,Karan KC,caught
+287,46.5,B Bhandari,S Lamichhane,Aqib Ilyas,0,0,null,0,0,null,null
+288,46.6,B Bhandari,S Lamichhane,Aqib Ilyas,0,1,byes ,1,0,null,null
+289,47.1,B Bhandari,S Lamichhane,Bilal Khan,0,0,null,0,0,null,null
+290,47.2,B Bhandari,S Lamichhane,Bilal Khan,0,2,wides ,2,0,null,null
+291,47.3,S Lamichhane,B Bhandari,Bilal Khan,0,0,null,0,0,null,null
+292,47.4,S Lamichhane,B Bhandari,Bilal Khan,1,0,null,1,0,null,null
+293,47.5,B Bhandari,S Lamichhane,Bilal Khan,1,0,null,1,0,null,null
+294,47.6,S Lamichhane,B Bhandari,Bilal Khan,0,0,null,0,0,null,null
+295,47.7,S Lamichhane,B Bhandari,Bilal Khan,0,0,null,0,0,null,null
+296,48.1,B Bhandari,S Lamichhane,Mohammad Nadeem,4,0,null,4,0,null,null
+297,48.2,B Bhandari,S Lamichhane,Mohammad Nadeem,0,0,null,0,0,null,null
+298,48.3,B Bhandari,S Lamichhane,Mohammad Nadeem,0,0,null,0,1,B Bhandari,run out
+299,48.4,S Lamichhane,KS Airee,Mohammad Nadeem,6,0,null,6,0,null,null
+300,48.5,S Lamichhane,KS Airee,Mohammad Nadeem,1,0,null,1,0,null,null
+301,48.6,KS Airee,S Lamichhane,Mohammad Nadeem,1,0,null,1,0,null,null
+302,49.1,KS Airee,S Lamichhane,Bilal Khan,2,0,null,2,0,null,null
+303,49.2,KS Airee,S Lamichhane,Bilal Khan,4,0,null,4,0,null,null
+304,49.3,KS Airee,S Lamichhane,Bilal Khan,0,0,null,0,0,null,null
+305,49.4,KS Airee,S Lamichhane,Bilal Khan,2,0,null,2,0,null,null
+306,49.5,KS Airee,S Lamichhane,Bilal Khan,0,1,byes ,1,0,null,null
+307,49.6,S Lamichhane,KS Airee,Bilal Khan,2,0,null,2,0,null,null

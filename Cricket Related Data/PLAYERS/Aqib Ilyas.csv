@@ -1,0 +1,50 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1290881,"Wanderers Cricket Ground, Windhoek",Namibia,BM Scholtz,Left-arm orthodox,"[1, 0, 1]",0,7,13,1,0
+1,1215122,Tribhuvan University International Cricket Ground,Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",0,2,11,0,0
+2,1215122,Tribhuvan University International Cricket Ground,Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",0,4,7,0,0
+3,1215122,Tribhuvan University International Cricket Ground,Nepal,A Bohara,Right-arm medium,"[0, 1, 2]",1,10,17,2,0
+4,1215125,Tribhuvan University International Cricket Ground,Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",0,18,17,1,1
+5,1215125,Tribhuvan University International Cricket Ground,Nepal,S Bhari,Left-arm orthodox,"[1, 0, 1]",0,9,12,1,0
+6,1215125,Tribhuvan University International Cricket Ground,Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",0,34,24,4,0
+7,1215125,Tribhuvan University International Cricket Ground,Nepal,P Khadka,Right-arm fast-medium,"[0, 1, 1]",0,19,23,3,0
+8,1196670,Mannofield Park,Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,3,7,0,0
+9,1196670,Mannofield Park,Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",0,21,13,3,0
+10,1196670,Mannofield Park,Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",1,1,2,0,0
+11,1196670,Mannofield Park,Papua New Guinea,D Ravu,Right-arm fast-medium,"[0, 1, 1]",0,7,8,1,0
+12,1196675,Mannofield Park,Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,10,17,1,0
+13,1196675,Mannofield Park,Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",1,17,18,2,0
+14,1196675,Mannofield Park,Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,9,8,1,0
+15,1275256,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",1,7,16,0,0
+16,1211169,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Zawar Farid,Right-arm medium,"[0, 1, 2]",0,9,9,1,0
+17,1211169,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",0,31,35,2,0
+18,1215123,Tribhuvan University International Cricket Ground,United States of America,J Theron,Right-arm fast-medium,"[0, 1, 1]",1,18,23,2,1
+19,1215123,Tribhuvan University International Cricket Ground,United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,4,12,0,0
+20,1215123,Tribhuvan University International Cricket Ground,United States of America,K Gore,Left-arm orthodox,"[1, 0, 1]",0,10,23,0,0
+21,1215123,Tribhuvan University International Cricket Ground,United States of America,TK Patel,Left-arm orthodox,"[1, 0, 1]",0,10,16,0,1
+22,1215123,Tribhuvan University International Cricket Ground,United States of America,SR Taylor,Right-arm offbreak,"[1, 1, 0]",0,14,17,3,0
+23,1215123,Tribhuvan University International Cricket Ground,United States of America,IG Holland,Right-arm fast-medium,"[0, 1, 1]",0,11,12,1,0
+24,1215123,Tribhuvan University International Cricket Ground,United States of America,EH Hutchinson,Right-arm fast-medium,"[0, 1, 1]",0,5,9,0,0
+25,1215126,Tribhuvan University International Cricket Ground,United States of America,J Theron,Right-arm fast-medium,"[0, 1, 1]",0,23,21,1,1
+26,1215126,Tribhuvan University International Cricket Ground,United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",1,9,14,1,0
+27,1215126,Tribhuvan University International Cricket Ground,United States of America,K Gore,Left-arm orthodox,"[1, 0, 1]",0,8,23,0,0
+28,1215126,Tribhuvan University International Cricket Ground,United States of America,NK Patel,Left-arm orthodox,"[1, 0, 1]",0,21,20,3,0
+29,1215126,Tribhuvan University International Cricket Ground,United States of America,SR Taylor,Right-arm offbreak,"[1, 1, 0]",0,17,18,3,0
+30,1215126,Tribhuvan University International Cricket Ground,United States of America,IG Holland,Right-arm fast-medium,"[0, 1, 1]",0,12,20,1,0
+31,1215126,Tribhuvan University International Cricket Ground,United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",0,15,14,2,0
+32,1275259,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,5,16,0,0
+33,1275259,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,L Siaka,Right-arm fast-medium,"[0, 1, 1]",0,5,10,0,0
+34,1275259,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,5,5,1,0
+35,1275259,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,D Ravu,Right-arm fast-medium,"[0, 1, 1]",0,18,11,1,1
+36,1196671,Mannofield Park,Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+37,1196671,Mannofield Park,Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",0,14,21,1,0
+38,1196671,Mannofield Park,Scotland,A Neill,Right-arm medium,"[0, 1, 2]",1,2,5,0,0
+39,1196671,Mannofield Park,Scotland,RD Berrington,Right-arm fast-medium,"[0, 1, 1]",0,5,14,0,0
+40,1196673,Mannofield Park,Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,7,6,1,0
+41,1196673,Mannofield Park,Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",1,11,20,0,0
+42,1196673,Mannofield Park,Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",0,5,8,0,0
+43,1196673,Mannofield Park,Scotland,MA Leask,Right-arm offbreak,"[1, 1, 0]",0,12,14,2,0
+44,1196673,Mannofield Park,Scotland,RD Berrington,Right-arm fast-medium,"[0, 1, 1]",0,7,5,1,0
+45,1275257,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,5,7,0,0
+46,1275257,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",1,8,14,0,0
+47,1275257,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",0,2,20,0,0
+48,1275257,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Scotland,MA Leask,Right-arm offbreak,"[1, 1, 0]",0,6,15,0,0

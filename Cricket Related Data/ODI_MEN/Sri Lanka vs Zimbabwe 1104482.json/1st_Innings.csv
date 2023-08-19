@@ -1,0 +1,311 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,N Dickwella,MD Gunathilaka,Sikandar Raza,2,0,null,2,0,null,null
+1,0.2,N Dickwella,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+2,0.3,N Dickwella,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+3,0.4,N Dickwella,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+4,0.5,N Dickwella,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+5,0.6,N Dickwella,MD Gunathilaka,Sikandar Raza,1,0,null,1,0,null,null
+6,1.1,N Dickwella,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+7,1.2,N Dickwella,MD Gunathilaka,TL Chatara,0,0,null,0,1,N Dickwella,caught
+8,1.3,BKG Mendis,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+9,1.4,BKG Mendis,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+10,1.5,BKG Mendis,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+11,1.6,BKG Mendis,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+12,2.1,MD Gunathilaka,BKG Mendis,Sikandar Raza,2,0,null,2,0,null,null
+13,2.2,MD Gunathilaka,BKG Mendis,Sikandar Raza,0,0,null,0,0,null,null
+14,2.3,MD Gunathilaka,BKG Mendis,Sikandar Raza,0,0,null,0,0,null,null
+15,2.4,MD Gunathilaka,BKG Mendis,Sikandar Raza,1,0,null,1,0,null,null
+16,2.5,BKG Mendis,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+17,2.6,BKG Mendis,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+18,3.1,MD Gunathilaka,BKG Mendis,TL Chatara,1,0,null,1,0,null,null
+19,3.2,BKG Mendis,MD Gunathilaka,TL Chatara,1,0,null,1,0,null,null
+20,3.3,MD Gunathilaka,BKG Mendis,TL Chatara,0,0,null,0,0,null,null
+21,3.4,MD Gunathilaka,BKG Mendis,TL Chatara,0,0,null,0,0,null,null
+22,3.5,MD Gunathilaka,BKG Mendis,TL Chatara,0,0,null,0,0,null,null
+23,3.6,MD Gunathilaka,BKG Mendis,TL Chatara,0,1,wides ,1,0,null,null
+24,3.7,MD Gunathilaka,BKG Mendis,TL Chatara,4,0,null,4,0,null,null
+25,4.1,BKG Mendis,MD Gunathilaka,Sikandar Raza,0,0,null,0,1,BKG Mendis,caught
+26,4.2,WU Tharanga,MD Gunathilaka,Sikandar Raza,1,0,null,1,0,null,null
+27,4.3,MD Gunathilaka,WU Tharanga,Sikandar Raza,0,0,null,0,0,null,null
+28,4.4,MD Gunathilaka,WU Tharanga,Sikandar Raza,0,0,null,0,0,null,null
+29,4.5,MD Gunathilaka,WU Tharanga,Sikandar Raza,0,0,null,0,0,null,null
+30,4.6,MD Gunathilaka,WU Tharanga,Sikandar Raza,0,1,wides ,1,0,null,null
+31,4.7,MD Gunathilaka,WU Tharanga,Sikandar Raza,1,0,null,1,0,null,null
+32,5.1,MD Gunathilaka,WU Tharanga,TL Chatara,4,0,null,4,0,null,null
+33,5.2,MD Gunathilaka,WU Tharanga,TL Chatara,0,0,null,0,0,null,null
+34,5.3,MD Gunathilaka,WU Tharanga,TL Chatara,4,0,null,4,0,null,null
+35,5.4,MD Gunathilaka,WU Tharanga,TL Chatara,0,0,null,0,0,null,null
+36,5.5,MD Gunathilaka,WU Tharanga,TL Chatara,0,0,null,0,0,null,null
+37,5.6,MD Gunathilaka,WU Tharanga,TL Chatara,0,0,null,0,0,null,null
+38,6.1,WU Tharanga,MD Gunathilaka,Sikandar Raza,1,0,null,1,0,null,null
+39,6.2,MD Gunathilaka,WU Tharanga,Sikandar Raza,0,0,null,0,0,null,null
+40,6.3,MD Gunathilaka,WU Tharanga,Sikandar Raza,0,0,null,0,0,null,null
+41,6.4,MD Gunathilaka,WU Tharanga,Sikandar Raza,0,0,null,0,0,null,null
+42,6.5,MD Gunathilaka,WU Tharanga,Sikandar Raza,0,0,null,0,0,null,null
+43,6.6,MD Gunathilaka,WU Tharanga,Sikandar Raza,0,0,null,0,0,null,null
+44,7.1,WU Tharanga,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+45,7.2,WU Tharanga,MD Gunathilaka,TL Chatara,0,1,wides ,1,0,null,null
+46,7.3,WU Tharanga,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+47,7.4,WU Tharanga,MD Gunathilaka,TL Chatara,4,0,null,4,0,null,null
+48,7.5,WU Tharanga,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+49,7.6,WU Tharanga,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+50,7.7,WU Tharanga,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+51,8.1,MD Gunathilaka,WU Tharanga,Sikandar Raza,1,0,null,1,0,null,null
+52,8.2,WU Tharanga,MD Gunathilaka,Sikandar Raza,0,0,null,0,1,WU Tharanga,bowled
+53,8.3,AD Mathews,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+54,8.4,AD Mathews,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+55,8.5,AD Mathews,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+56,8.6,AD Mathews,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+57,9.1,MD Gunathilaka,AD Mathews,TL Chatara,0,0,null,0,0,null,null
+58,9.2,MD Gunathilaka,AD Mathews,TL Chatara,1,0,null,1,0,null,null
+59,9.3,AD Mathews,MD Gunathilaka,TL Chatara,1,0,null,1,0,null,null
+60,9.4,MD Gunathilaka,AD Mathews,TL Chatara,0,0,null,0,0,null,null
+61,9.5,MD Gunathilaka,AD Mathews,TL Chatara,0,1,wides ,1,0,null,null
+62,9.6,MD Gunathilaka,AD Mathews,TL Chatara,0,0,null,0,0,null,null
+63,9.7,MD Gunathilaka,AD Mathews,TL Chatara,0,0,null,0,0,null,null
+64,10.1,AD Mathews,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+65,10.2,AD Mathews,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+66,10.3,AD Mathews,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+67,10.4,AD Mathews,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+68,10.5,AD Mathews,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+69,10.6,AD Mathews,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+70,11.1,MD Gunathilaka,AD Mathews,TL Chatara,4,0,null,4,0,null,null
+71,11.2,MD Gunathilaka,AD Mathews,TL Chatara,1,0,null,1,0,null,null
+72,11.3,AD Mathews,MD Gunathilaka,TL Chatara,1,0,null,1,0,null,null
+73,11.4,MD Gunathilaka,AD Mathews,TL Chatara,0,1,legbyes ,1,0,null,null
+74,11.5,AD Mathews,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+75,11.6,AD Mathews,MD Gunathilaka,TL Chatara,0,0,null,0,0,null,null
+76,12.1,MD Gunathilaka,AD Mathews,AG Cremer,0,0,null,0,0,null,null
+77,12.2,MD Gunathilaka,AD Mathews,AG Cremer,1,0,null,1,0,null,null
+78,12.3,AD Mathews,MD Gunathilaka,AG Cremer,1,0,null,1,0,null,null
+79,12.4,MD Gunathilaka,AD Mathews,AG Cremer,0,0,null,0,0,null,null
+80,12.5,MD Gunathilaka,AD Mathews,AG Cremer,0,0,null,0,0,null,null
+81,12.6,MD Gunathilaka,AD Mathews,AG Cremer,0,0,null,0,0,null,null
+82,13.1,AD Mathews,MD Gunathilaka,CB Mpofu,4,0,null,4,0,null,null
+83,13.2,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+84,13.3,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+85,13.4,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+86,13.5,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+87,13.6,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+88,14.1,MD Gunathilaka,AD Mathews,AG Cremer,1,0,null,1,0,null,null
+89,14.2,AD Mathews,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+90,14.3,AD Mathews,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+91,14.4,AD Mathews,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+92,14.5,AD Mathews,MD Gunathilaka,AG Cremer,1,0,null,1,0,null,null
+93,14.6,MD Gunathilaka,AD Mathews,AG Cremer,2,0,null,2,0,null,null
+94,15.1,AD Mathews,MD Gunathilaka,CB Mpofu,4,0,null,4,0,null,null
+95,15.2,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+96,15.3,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+97,15.4,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+98,15.5,AD Mathews,MD Gunathilaka,CB Mpofu,1,0,null,1,0,null,null
+99,15.6,MD Gunathilaka,AD Mathews,CB Mpofu,1,0,null,1,0,null,null
+100,16.1,MD Gunathilaka,AD Mathews,AG Cremer,1,0,null,1,0,null,null
+101,16.2,AD Mathews,MD Gunathilaka,AG Cremer,1,0,null,1,0,null,null
+102,16.3,MD Gunathilaka,AD Mathews,AG Cremer,0,0,null,0,0,null,null
+103,16.4,MD Gunathilaka,AD Mathews,AG Cremer,0,0,null,0,0,null,null
+104,16.5,MD Gunathilaka,AD Mathews,AG Cremer,0,0,null,0,0,null,null
+105,16.6,MD Gunathilaka,AD Mathews,AG Cremer,0,0,null,0,0,null,null
+106,17.1,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+107,17.2,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+108,17.3,AD Mathews,MD Gunathilaka,CB Mpofu,4,0,null,4,0,null,null
+109,17.4,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+110,17.5,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+111,17.6,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+112,18.1,MD Gunathilaka,AD Mathews,AG Cremer,1,0,null,1,0,null,null
+113,18.2,AD Mathews,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+114,18.3,AD Mathews,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+115,18.4,AD Mathews,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+116,18.5,AD Mathews,MD Gunathilaka,AG Cremer,2,0,null,2,0,null,null
+117,18.6,AD Mathews,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+118,19.1,MD Gunathilaka,AD Mathews,CB Mpofu,4,0,null,4,0,null,null
+119,19.2,MD Gunathilaka,AD Mathews,CB Mpofu,0,0,null,0,0,null,null
+120,19.3,MD Gunathilaka,AD Mathews,CB Mpofu,1,0,null,1,0,null,null
+121,19.4,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+122,19.5,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+123,19.6,AD Mathews,MD Gunathilaka,CB Mpofu,0,0,null,0,0,null,null
+124,20.1,MD Gunathilaka,AD Mathews,AG Cremer,0,2,legbyes ,2,0,null,null
+125,20.2,MD Gunathilaka,AD Mathews,AG Cremer,1,0,null,1,0,null,null
+126,20.3,AD Mathews,MD Gunathilaka,AG Cremer,4,0,null,4,0,null,null
+127,20.4,AD Mathews,MD Gunathilaka,AG Cremer,0,0,null,0,1,AD Mathews,caught
+128,20.5,DAS Gunaratne,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+129,20.6,DAS Gunaratne,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+130,21.1,MD Gunathilaka,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+131,21.2,MD Gunathilaka,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+132,21.3,MD Gunathilaka,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+133,21.4,DAS Gunaratne,MD Gunathilaka,SC Williams,0,0,null,0,0,null,null
+134,21.5,DAS Gunaratne,MD Gunathilaka,SC Williams,0,0,null,0,0,null,null
+135,21.6,DAS Gunaratne,MD Gunathilaka,SC Williams,1,0,null,1,0,null,null
+136,22.1,DAS Gunaratne,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+137,22.2,DAS Gunaratne,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+138,22.3,DAS Gunaratne,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+139,22.4,DAS Gunaratne,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+140,22.5,DAS Gunaratne,MD Gunathilaka,AG Cremer,1,0,null,1,0,null,null
+141,22.6,MD Gunathilaka,DAS Gunaratne,AG Cremer,0,0,null,0,0,null,null
+142,23.1,DAS Gunaratne,MD Gunathilaka,SC Williams,1,0,null,1,0,null,null
+143,23.2,MD Gunathilaka,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+144,23.3,DAS Gunaratne,MD Gunathilaka,SC Williams,1,0,null,1,0,null,null
+145,23.4,MD Gunathilaka,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+146,23.5,DAS Gunaratne,MD Gunathilaka,SC Williams,1,0,null,1,0,null,null
+147,23.6,MD Gunathilaka,DAS Gunaratne,SC Williams,0,1,wides ,1,0,null,null
+148,23.7,MD Gunathilaka,DAS Gunaratne,SC Williams,2,0,null,2,0,null,null
+149,24.1,DAS Gunaratne,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+150,24.2,DAS Gunaratne,MD Gunathilaka,AG Cremer,1,0,null,1,0,null,null
+151,24.3,MD Gunathilaka,DAS Gunaratne,AG Cremer,0,1,wides ,1,0,null,null
+152,24.4,MD Gunathilaka,DAS Gunaratne,AG Cremer,0,0,null,0,0,null,null
+153,24.5,MD Gunathilaka,DAS Gunaratne,AG Cremer,0,0,null,0,0,null,null
+154,24.6,MD Gunathilaka,DAS Gunaratne,AG Cremer,0,1,legbyes ,1,0,null,null
+155,24.7,DAS Gunaratne,MD Gunathilaka,AG Cremer,0,0,null,0,0,null,null
+156,25.1,MD Gunathilaka,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+157,25.2,MD Gunathilaka,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+158,25.3,DAS Gunaratne,MD Gunathilaka,SC Williams,1,0,null,1,0,null,null
+159,25.4,MD Gunathilaka,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+160,25.5,DAS Gunaratne,MD Gunathilaka,SC Williams,1,0,null,1,0,null,null
+161,25.6,MD Gunathilaka,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+162,26.1,MD Gunathilaka,DAS Gunaratne,Sikandar Raza,0,0,null,0,0,null,null
+163,26.2,MD Gunathilaka,DAS Gunaratne,Sikandar Raza,0,0,null,0,0,null,null
+164,26.3,MD Gunathilaka,DAS Gunaratne,Sikandar Raza,1,0,null,1,0,null,null
+165,26.4,DAS Gunaratne,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+166,26.5,DAS Gunaratne,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+167,26.6,DAS Gunaratne,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+168,27.1,MD Gunathilaka,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+169,27.2,MD Gunathilaka,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+170,27.3,DAS Gunaratne,MD Gunathilaka,SC Williams,1,0,null,1,0,null,null
+171,27.4,MD Gunathilaka,DAS Gunaratne,SC Williams,0,2,legbyes ,2,0,null,null
+172,27.5,MD Gunathilaka,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+173,27.6,DAS Gunaratne,MD Gunathilaka,SC Williams,0,0,null,0,0,null,null
+174,28.1,MD Gunathilaka,DAS Gunaratne,Sikandar Raza,1,0,null,1,0,null,null
+175,28.2,DAS Gunaratne,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+176,28.3,DAS Gunaratne,MD Gunathilaka,Sikandar Raza,1,0,null,1,0,null,null
+177,28.4,MD Gunathilaka,DAS Gunaratne,Sikandar Raza,1,0,null,1,0,null,null
+178,28.5,DAS Gunaratne,MD Gunathilaka,Sikandar Raza,1,0,null,1,0,null,null
+179,28.6,MD Gunathilaka,DAS Gunaratne,Sikandar Raza,0,0,null,0,0,null,null
+180,29.1,DAS Gunaratne,MD Gunathilaka,SC Williams,0,0,null,0,0,null,null
+181,29.2,DAS Gunaratne,MD Gunathilaka,SC Williams,0,0,null,0,0,null,null
+182,29.3,DAS Gunaratne,MD Gunathilaka,SC Williams,1,0,null,1,0,null,null
+183,29.4,MD Gunathilaka,DAS Gunaratne,SC Williams,0,4,byes ,4,0,null,null
+184,29.5,MD Gunathilaka,DAS Gunaratne,SC Williams,0,1,wides ,1,0,null,null
+185,29.6,MD Gunathilaka,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+186,29.7,MD Gunathilaka,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+187,30.1,DAS Gunaratne,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+188,30.2,DAS Gunaratne,MD Gunathilaka,Sikandar Raza,3,0,null,3,0,null,null
+189,30.3,MD Gunathilaka,DAS Gunaratne,Sikandar Raza,0,0,null,0,0,null,null
+190,30.4,MD Gunathilaka,DAS Gunaratne,Sikandar Raza,0,0,null,0,0,null,null
+191,30.5,MD Gunathilaka,DAS Gunaratne,Sikandar Raza,1,0,null,1,0,null,null
+192,30.6,DAS Gunaratne,MD Gunathilaka,Sikandar Raza,0,0,null,0,0,null,null
+193,31.1,MD Gunathilaka,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+194,31.2,DAS Gunaratne,MD Gunathilaka,SC Williams,1,0,null,1,0,null,null
+195,31.3,MD Gunathilaka,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+196,31.4,MD Gunathilaka,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+197,31.5,MD Gunathilaka,DAS Gunaratne,SC Williams,0,0,null,0,1,MD Gunathilaka,lbw
+198,31.6,PWH de Silva,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+199,32.1,DAS Gunaratne,PWH de Silva,Sikandar Raza,1,0,null,1,0,null,null
+200,32.2,PWH de Silva,DAS Gunaratne,Sikandar Raza,0,0,null,0,0,null,null
+201,32.3,PWH de Silva,DAS Gunaratne,Sikandar Raza,0,0,null,0,0,null,null
+202,32.4,PWH de Silva,DAS Gunaratne,Sikandar Raza,0,0,null,0,0,null,null
+203,32.5,PWH de Silva,DAS Gunaratne,Sikandar Raza,0,0,null,0,1,PWH de Silva,caught
+204,32.6,KMDN Kulasekara,DAS Gunaratne,Sikandar Raza,0,0,null,0,0,null,null
+205,33.1,DAS Gunaratne,KMDN Kulasekara,SC Williams,0,0,null,0,0,null,null
+206,33.2,DAS Gunaratne,KMDN Kulasekara,SC Williams,0,0,null,0,0,null,null
+207,33.3,DAS Gunaratne,KMDN Kulasekara,SC Williams,0,0,null,0,0,null,null
+208,33.4,DAS Gunaratne,KMDN Kulasekara,SC Williams,1,0,null,1,0,null,null
+209,33.5,KMDN Kulasekara,DAS Gunaratne,SC Williams,4,0,null,4,0,null,null
+210,33.6,KMDN Kulasekara,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+211,34.1,KMDN Kulasekara,DAS Gunaratne,AG Cremer,0,0,null,0,0,null,null
+212,34.2,KMDN Kulasekara,DAS Gunaratne,AG Cremer,0,0,null,0,1,KMDN Kulasekara,bowled
+213,34.3,A Dananjaya,DAS Gunaratne,AG Cremer,0,0,null,0,0,null,null
+214,34.4,A Dananjaya,DAS Gunaratne,AG Cremer,0,0,null,0,0,null,null
+215,34.5,A Dananjaya,DAS Gunaratne,AG Cremer,0,0,null,0,0,null,null
+216,34.6,A Dananjaya,DAS Gunaratne,AG Cremer,0,0,null,0,0,null,null
+217,35.1,DAS Gunaratne,A Dananjaya,MN Waller,0,0,null,0,0,null,null
+218,35.2,DAS Gunaratne,A Dananjaya,MN Waller,0,0,null,0,0,null,null
+219,35.3,DAS Gunaratne,A Dananjaya,MN Waller,1,0,null,1,0,null,null
+220,35.4,A Dananjaya,DAS Gunaratne,MN Waller,0,0,null,0,0,null,null
+221,35.5,A Dananjaya,DAS Gunaratne,MN Waller,0,0,null,0,0,null,null
+222,35.6,A Dananjaya,DAS Gunaratne,MN Waller,1,0,null,1,0,null,null
+223,36.1,A Dananjaya,DAS Gunaratne,AG Cremer,0,0,null,0,0,null,null
+224,36.2,A Dananjaya,DAS Gunaratne,AG Cremer,1,0,null,1,0,null,null
+225,36.3,DAS Gunaratne,A Dananjaya,AG Cremer,0,0,null,0,0,null,null
+226,36.4,DAS Gunaratne,A Dananjaya,AG Cremer,0,0,null,0,0,null,null
+227,36.5,DAS Gunaratne,A Dananjaya,AG Cremer,0,0,null,0,0,null,null
+228,36.6,DAS Gunaratne,A Dananjaya,AG Cremer,0,0,null,0,0,null,null
+229,37.1,A Dananjaya,DAS Gunaratne,MN Waller,1,0,null,1,0,null,null
+230,37.2,DAS Gunaratne,A Dananjaya,MN Waller,1,0,null,1,0,null,null
+231,37.3,A Dananjaya,DAS Gunaratne,MN Waller,1,0,null,1,0,null,null
+232,37.4,DAS Gunaratne,A Dananjaya,MN Waller,0,0,null,0,0,null,null
+233,37.5,DAS Gunaratne,A Dananjaya,MN Waller,1,0,null,1,0,null,null
+234,37.6,A Dananjaya,DAS Gunaratne,MN Waller,0,0,null,0,0,null,null
+235,38.1,DAS Gunaratne,A Dananjaya,AG Cremer,1,0,null,1,0,null,null
+236,38.2,A Dananjaya,DAS Gunaratne,AG Cremer,1,0,null,1,0,null,null
+237,38.3,DAS Gunaratne,A Dananjaya,AG Cremer,0,0,null,0,0,null,null
+238,38.4,DAS Gunaratne,A Dananjaya,AG Cremer,1,0,null,1,0,null,null
+239,38.5,A Dananjaya,DAS Gunaratne,AG Cremer,0,0,null,0,0,null,null
+240,38.6,A Dananjaya,DAS Gunaratne,AG Cremer,0,0,null,0,0,null,null
+241,39.1,DAS Gunaratne,A Dananjaya,MN Waller,0,5,wides ,5,0,null,null
+242,39.2,DAS Gunaratne,A Dananjaya,MN Waller,2,0,null,2,0,null,null
+243,39.3,DAS Gunaratne,A Dananjaya,MN Waller,0,0,null,0,0,null,null
+244,39.4,DAS Gunaratne,A Dananjaya,MN Waller,0,0,null,0,0,null,null
+245,39.5,DAS Gunaratne,A Dananjaya,MN Waller,1,0,null,1,0,null,null
+246,39.6,A Dananjaya,DAS Gunaratne,MN Waller,1,0,null,1,0,null,null
+247,39.7,DAS Gunaratne,A Dananjaya,MN Waller,1,0,null,1,0,null,null
+248,40.1,DAS Gunaratne,A Dananjaya,SC Williams,0,3,wides ,3,0,null,null
+249,40.2,DAS Gunaratne,A Dananjaya,SC Williams,0,0,null,0,0,null,null
+250,40.3,DAS Gunaratne,A Dananjaya,SC Williams,2,0,null,2,0,null,null
+251,40.4,DAS Gunaratne,A Dananjaya,SC Williams,1,0,null,1,0,null,null
+252,40.5,A Dananjaya,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+253,40.6,A Dananjaya,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+254,40.7,A Dananjaya,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+255,41.1,A Dananjaya,DAS Gunaratne,MN Waller,0,0,null,0,1,A Dananjaya,caught
+256,41.2,PVD Chameera,DAS Gunaratne,MN Waller,0,0,null,0,0,null,null
+257,41.3,PVD Chameera,DAS Gunaratne,MN Waller,0,0,null,0,0,null,null
+258,41.4,PVD Chameera,DAS Gunaratne,MN Waller,1,0,null,1,0,null,null
+259,41.5,DAS Gunaratne,PVD Chameera,MN Waller,1,0,null,1,0,null,null
+260,41.6,PVD Chameera,DAS Gunaratne,MN Waller,0,0,null,0,0,null,null
+261,42.1,DAS Gunaratne,PVD Chameera,SC Williams,0,0,null,0,0,null,null
+262,42.2,DAS Gunaratne,PVD Chameera,SC Williams,0,0,null,0,0,null,null
+263,42.3,DAS Gunaratne,PVD Chameera,SC Williams,0,0,null,0,0,null,null
+264,42.4,DAS Gunaratne,PVD Chameera,SC Williams,1,0,null,1,0,null,null
+265,42.5,PVD Chameera,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+266,42.6,PVD Chameera,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+267,43.1,PVD Chameera,DAS Gunaratne,MN Waller,0,0,null,0,0,null,null
+268,43.2,PVD Chameera,DAS Gunaratne,MN Waller,0,0,null,0,0,null,null
+269,43.3,PVD Chameera,DAS Gunaratne,MN Waller,0,0,null,0,0,null,null
+270,43.4,PVD Chameera,DAS Gunaratne,MN Waller,1,0,null,1,0,null,null
+271,43.5,DAS Gunaratne,PVD Chameera,MN Waller,1,0,null,1,0,null,null
+272,43.6,PVD Chameera,DAS Gunaratne,MN Waller,1,0,null,1,0,null,null
+273,44.1,PVD Chameera,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+274,44.2,DAS Gunaratne,PVD Chameera,SC Williams,1,0,null,1,0,null,null
+275,44.3,PVD Chameera,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+276,44.4,PVD Chameera,DAS Gunaratne,SC Williams,0,0,null,0,0,null,null
+277,44.5,PVD Chameera,DAS Gunaratne,SC Williams,1,0,null,1,0,null,null
+278,44.6,DAS Gunaratne,PVD Chameera,SC Williams,1,0,null,1,0,null,null
+279,45.1,DAS Gunaratne,PVD Chameera,TL Chatara,1,0,null,1,0,null,null
+280,45.2,PVD Chameera,DAS Gunaratne,TL Chatara,0,1,wides ,1,0,null,null
+281,45.3,PVD Chameera,DAS Gunaratne,TL Chatara,1,0,null,1,0,null,null
+282,45.4,DAS Gunaratne,PVD Chameera,TL Chatara,1,0,null,1,0,null,null
+283,45.5,PVD Chameera,DAS Gunaratne,TL Chatara,0,0,null,0,0,null,null
+284,45.6,PVD Chameera,DAS Gunaratne,TL Chatara,0,0,null,0,0,null,null
+285,45.7,PVD Chameera,DAS Gunaratne,TL Chatara,1,0,null,1,0,null,null
+286,46.1,PVD Chameera,DAS Gunaratne,CB Mpofu,1,0,null,1,0,null,null
+287,46.2,DAS Gunaratne,PVD Chameera,CB Mpofu,1,0,null,1,0,null,null
+288,46.3,PVD Chameera,DAS Gunaratne,CB Mpofu,0,0,null,0,0,null,null
+289,46.4,PVD Chameera,DAS Gunaratne,CB Mpofu,0,0,null,0,0,null,null
+290,46.5,PVD Chameera,DAS Gunaratne,CB Mpofu,1,0,null,1,0,null,null
+291,46.6,DAS Gunaratne,PVD Chameera,CB Mpofu,4,0,null,4,0,null,null
+292,47.1,PVD Chameera,DAS Gunaratne,TL Chatara,1,0,null,1,0,null,null
+293,47.2,DAS Gunaratne,PVD Chameera,TL Chatara,2,0,null,2,0,null,null
+294,47.3,DAS Gunaratne,PVD Chameera,TL Chatara,1,0,null,1,0,null,null
+295,47.4,PVD Chameera,DAS Gunaratne,TL Chatara,1,0,null,1,0,null,null
+296,47.5,DAS Gunaratne,PVD Chameera,TL Chatara,1,0,null,1,0,null,null
+297,47.6,PVD Chameera,DAS Gunaratne,TL Chatara,1,0,null,1,0,null,null
+298,48.1,PVD Chameera,DAS Gunaratne,CB Mpofu,0,0,null,0,0,null,null
+299,48.2,PVD Chameera,DAS Gunaratne,CB Mpofu,4,0,null,4,0,null,null
+300,48.3,PVD Chameera,DAS Gunaratne,CB Mpofu,0,0,null,0,0,null,null
+301,48.4,PVD Chameera,DAS Gunaratne,CB Mpofu,1,0,null,1,0,null,null
+302,48.5,DAS Gunaratne,PVD Chameera,CB Mpofu,4,0,null,4,0,null,null
+303,48.6,DAS Gunaratne,PVD Chameera,CB Mpofu,1,0,null,1,0,null,null
+304,49.1,DAS Gunaratne,PVD Chameera,TL Chatara,4,0,null,4,0,null,null
+305,49.2,DAS Gunaratne,PVD Chameera,TL Chatara,4,0,null,4,0,null,null
+306,49.3,DAS Gunaratne,PVD Chameera,TL Chatara,0,0,null,0,0,null,null
+307,49.4,DAS Gunaratne,PVD Chameera,TL Chatara,0,0,null,0,0,null,null
+308,49.5,DAS Gunaratne,PVD Chameera,TL Chatara,0,1,legbyes ,1,0,null,null
+309,49.6,PVD Chameera,DAS Gunaratne,TL Chatara,0,1,byes ,1,0,null,null

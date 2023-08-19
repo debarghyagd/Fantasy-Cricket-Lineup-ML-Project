@@ -1,0 +1,3 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1003273,"Grange Cricket Club Ground, Raeburn Place",Afghanistan,Shapoor Zadran,Left-arm fast-medium,"[0, 0, 1]",0,0,2,0,0
+1,1003273,"Grange Cricket Club Ground, Raeburn Place",Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",1,10,4,1,1

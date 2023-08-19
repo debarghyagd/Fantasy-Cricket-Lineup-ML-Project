@@ -1,0 +1,16 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,566946,Kennington Oval,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",1,7,12,0,0
+1,566946,Kennington Oval,England,RS Bopara,Right-arm medium,"[0, 1, 2]",0,12,14,2,0
+2,566946,Kennington Oval,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,1,6,0,0
+3,566946,Kennington Oval,England,JC Tredwell,Right-arm offbreak,"[1, 1, 0]",0,6,14,1,0
+4,566946,Kennington Oval,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,2,5,0,0
+5,578614,Sophia Gardens,India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,1,1,0,0
+6,578614,Sophia Gardens,India,I Sharma,Right-arm fast-medium,"[0, 1, 1]",1,3,5,0,0
+7,567358,Boland Park,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,19,5,0,3
+8,567359,De Beers Diamond Oval,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+9,567371,Kingsmead,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,0,5,0,0
+10,567371,Kingsmead,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",0,5,4,1,0
+11,567371,Kingsmead,Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",0,5,4,1,0
+12,567371,Kingsmead,Pakistan,Mohammad Irfan,Left-arm fast-medium,"[0, 0, 1]",1,4,4,1,0
+13,635656,Pallekele International Cricket Stadium,Sri Lanka,BAW Mendis,Right-arm offbreak,"[1, 1, 0]",0,7,4,0,1
+14,635656,Pallekele International Cricket Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,1,6,0,0

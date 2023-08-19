@@ -1,0 +1,15 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1233976,University Oval,Bangladesh,Hasan Mahmud,Right-arm medium,"[0, 1, 2]",1,11,10,2,0
+1,1233976,University Oval,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,2,7,0,0
+2,1233976,University Oval,Bangladesh,Mahedi Hasan,Right-arm offbreak,"[1, 1, 0]",0,7,24,0,0
+3,1233977,Hagley Oval,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,14,11,1,0
+4,1233977,Hagley Oval,Bangladesh,Mahedi Hasan,Right-arm offbreak,"[1, 1, 0]",0,12,16,1,0
+5,1233978,Basin Reserve,Bangladesh,Mahedi Hasan,Right-arm offbreak,"[1, 1, 0]",0,29,23,5,0
+6,1233978,Basin Reserve,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",1,36,23,6,0
+7,1233978,Basin Reserve,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,23,16,3,0
+8,1317911,"Kensington Oval, Bridgetown, Barbados",West Indies,K Sinclair,Right-arm offbreak,"[1, 1, 0]",0,2,5,0,0
+9,1317911,"Kensington Oval, Bridgetown, Barbados",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",1,2,10,0,0
+10,1317912,"Kensington Oval, Bridgetown, Barbados",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",1,0,5,0,0
+11,1317913,"Kensington Oval, Bridgetown, Barbados",West Indies,K Sinclair,Right-arm offbreak,"[1, 1, 0]",0,13,21,0,0
+12,1317913,"Kensington Oval, Bridgetown, Barbados",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,6,8,1,0
+13,1317913,"Kensington Oval, Bridgetown, Barbados",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,19,16,2,0

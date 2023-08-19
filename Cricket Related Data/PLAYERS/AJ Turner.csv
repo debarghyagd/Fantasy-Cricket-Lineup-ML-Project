@@ -1,0 +1,23 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1263161,"Kensington Oval, Bridgetown, Barbados",West Indies,HR Walsh,Right-arm legbreak,"[1, 1, 1]",1,11,20,0,0
+1,1263161,"Kensington Oval, Bridgetown, Barbados",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,10,8,1,0
+2,1263161,"Kensington Oval, Bridgetown, Barbados",West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",0,7,7,0,0
+3,1263161,"Kensington Oval, Bridgetown, Barbados",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,5,4,1,0
+4,1263162,"Kensington Oval, Bridgetown, Barbados",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",1,0,2,0,0
+5,1263162,"Kensington Oval, Bridgetown, Barbados",West Indies,HR Walsh,Right-arm legbreak,"[1, 1, 1]",0,1,2,0,0
+6,1168242,"Rajiv Gandhi International Stadium, Uppal",India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",1,9,9,0,1
+7,1168242,"Rajiv Gandhi International Stadium, Uppal",India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,3,5,0,0
+8,1168245,"Punjab Cricket Association IS Bindra Stadium, Mohali",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,15,14,0,1
+9,1168245,"Punjab Cricket Association IS Bindra Stadium, Mohali",India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,15,9,1,1
+10,1168245,"Punjab Cricket Association IS Bindra Stadium, Mohali",India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,18,11,2,1
+11,1168245,"Punjab Cricket Association IS Bindra Stadium, Mohali",India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,36,12,2,3
+12,1168246,Arun Jaitley Stadium,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+13,1168246,Arun Jaitley Stadium,India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,7,7,1,0
+14,1168246,Arun Jaitley Stadium,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",1,8,7,0,1
+15,1187028,Saurashtra Cricket Association Stadium,India,Navdeep Saini,Right-arm fast,"[0, 1, 0]",0,1,1,0,0
+16,1187028,Saurashtra Cricket Association Stadium,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,3,5,0,0
+17,1187028,Saurashtra Cricket Association Stadium,India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",1,4,5,0,0
+18,1187028,Saurashtra Cricket Association Stadium,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,5,4,0,0
+19,1187029,M.Chinnaswamy Stadium,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,1,6,0,0
+20,1187029,M.Chinnaswamy Stadium,India,Navdeep Saini,Right-arm fast,"[0, 1, 0]",1,2,3,0,0
+21,1187029,M.Chinnaswamy Stadium,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,1,1,0,0

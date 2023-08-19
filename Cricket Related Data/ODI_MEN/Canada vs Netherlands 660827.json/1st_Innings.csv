@@ -1,0 +1,163 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,H Patel,R Gunasekera,T van der Gugten,0,0,null,0,0,null,null
+1,0.2,H Patel,R Gunasekera,T van der Gugten,0,0,null,0,1,H Patel,bowled
+2,0.3,NR Kumar,R Gunasekera,T van der Gugten,0,1,wides ,1,0,null,null
+3,0.4,NR Kumar,R Gunasekera,T van der Gugten,0,0,null,0,0,null,null
+4,0.5,NR Kumar,R Gunasekera,T van der Gugten,0,1,wides ,1,0,null,null
+5,0.6,NR Kumar,R Gunasekera,T van der Gugten,0,0,null,0,1,NR Kumar,caught
+6,0.7,A Bagai,R Gunasekera,T van der Gugten,0,0,null,0,0,null,null
+7,0.8,A Bagai,R Gunasekera,T van der Gugten,0,0,null,0,0,null,null
+8,1.1,R Gunasekera,A Bagai,MR Swart,0,0,null,0,0,null,null
+9,1.2,R Gunasekera,A Bagai,MR Swart,0,0,null,0,0,null,null
+10,1.3,R Gunasekera,A Bagai,MR Swart,1,0,null,1,0,null,null
+11,1.4,A Bagai,R Gunasekera,MR Swart,0,0,null,0,0,null,null
+12,1.5,A Bagai,R Gunasekera,MR Swart,0,0,null,0,0,null,null
+13,1.6,A Bagai,R Gunasekera,MR Swart,0,0,null,0,0,null,null
+14,2.1,R Gunasekera,A Bagai,T van der Gugten,0,0,null,0,0,null,null
+15,2.2,R Gunasekera,A Bagai,T van der Gugten,0,0,null,0,0,null,null
+16,2.3,R Gunasekera,A Bagai,T van der Gugten,0,0,null,0,0,null,null
+17,2.4,R Gunasekera,A Bagai,T van der Gugten,0,1,wides ,1,0,null,null
+18,2.5,R Gunasekera,A Bagai,T van der Gugten,0,0,null,0,0,null,null
+19,2.6,R Gunasekera,A Bagai,T van der Gugten,0,1,wides ,1,0,null,null
+20,2.7,R Gunasekera,A Bagai,T van der Gugten,0,0,null,0,0,null,null
+21,2.8,R Gunasekera,A Bagai,T van der Gugten,0,0,null,0,0,null,null
+22,3.1,A Bagai,R Gunasekera,Mudassar Bukhari,0,0,null,0,0,null,null
+23,3.2,A Bagai,R Gunasekera,Mudassar Bukhari,0,0,null,0,0,null,null
+24,3.3,A Bagai,R Gunasekera,Mudassar Bukhari,0,0,null,0,0,null,null
+25,3.4,A Bagai,R Gunasekera,Mudassar Bukhari,0,0,null,0,0,null,null
+26,3.5,A Bagai,R Gunasekera,Mudassar Bukhari,0,0,null,0,0,null,null
+27,3.6,A Bagai,R Gunasekera,Mudassar Bukhari,0,0,null,0,0,null,null
+28,4.1,R Gunasekera,A Bagai,T van der Gugten,0,0,null,0,0,null,null
+29,4.2,R Gunasekera,A Bagai,T van der Gugten,0,0,null,0,0,null,null
+30,4.3,R Gunasekera,A Bagai,T van der Gugten,0,0,null,0,1,R Gunasekera,lbw
+31,4.4,Raza-ur-Rehman,A Bagai,T van der Gugten,0,0,null,0,0,null,null
+32,4.5,Raza-ur-Rehman,A Bagai,T van der Gugten,0,0,null,0,0,null,null
+33,4.6,Raza-ur-Rehman,A Bagai,T van der Gugten,0,0,null,0,1,Raza-ur-Rehman,caught
+34,5.1,A Bagai,AS Hansra,Mudassar Bukhari,0,1,wides ,1,0,null,null
+35,5.2,A Bagai,AS Hansra,Mudassar Bukhari,0,0,null,0,0,null,null
+36,5.3,A Bagai,AS Hansra,Mudassar Bukhari,0,0,null,0,0,null,null
+37,5.4,A Bagai,AS Hansra,Mudassar Bukhari,1,0,null,1,0,null,null
+38,5.5,AS Hansra,A Bagai,Mudassar Bukhari,0,0,null,0,1,AS Hansra,bowled
+39,5.6,D Daesrath,A Bagai,Mudassar Bukhari,0,0,null,0,0,null,null
+40,5.7,D Daesrath,A Bagai,Mudassar Bukhari,0,1,wides ,1,0,null,null
+41,5.8,D Daesrath,A Bagai,Mudassar Bukhari,0,0,null,0,0,null,null
+42,6.1,A Bagai,D Daesrath,T van der Gugten,2,0,null,2,0,null,null
+43,6.2,A Bagai,D Daesrath,T van der Gugten,0,0,null,0,1,A Bagai,caught
+44,6.3,Junaid Siddiqui,D Daesrath,T van der Gugten,0,1,wides ,1,0,null,null
+45,6.4,Junaid Siddiqui,D Daesrath,T van der Gugten,2,0,null,2,0,null,null
+46,6.5,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+47,6.6,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+48,6.7,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+49,7.1,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+50,7.2,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,1,0,null,1,0,null,null
+51,7.3,Junaid Siddiqui,D Daesrath,Mudassar Bukhari,0,0,null,0,0,null,null
+52,7.4,Junaid Siddiqui,D Daesrath,Mudassar Bukhari,0,0,null,0,0,null,null
+53,7.5,Junaid Siddiqui,D Daesrath,Mudassar Bukhari,0,0,null,0,0,null,null
+54,7.6,Junaid Siddiqui,D Daesrath,Mudassar Bukhari,0,1,wides ,1,0,null,null
+55,7.7,Junaid Siddiqui,D Daesrath,Mudassar Bukhari,0,0,null,0,0,null,null
+56,8.1,D Daesrath,Junaid Siddiqui,T van der Gugten,0,0,null,0,0,null,null
+57,8.2,D Daesrath,Junaid Siddiqui,T van der Gugten,0,0,null,0,0,null,null
+58,8.3,D Daesrath,Junaid Siddiqui,T van der Gugten,0,0,null,0,0,null,null
+59,8.4,D Daesrath,Junaid Siddiqui,T van der Gugten,1,0,null,1,0,null,null
+60,8.5,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+61,8.6,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+62,9.1,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+63,9.2,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,1,wides ,1,0,null,null
+64,9.3,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+65,9.4,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+66,9.5,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+67,9.6,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+68,9.7,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+69,10.1,Junaid Siddiqui,D Daesrath,T van der Gugten,0,1,wides ,1,0,null,null
+70,10.2,Junaid Siddiqui,D Daesrath,T van der Gugten,1,0,null,1,0,null,null
+71,10.3,D Daesrath,Junaid Siddiqui,T van der Gugten,0,0,null,0,0,null,null
+72,10.4,D Daesrath,Junaid Siddiqui,T van der Gugten,4,0,null,4,0,null,null
+73,10.5,D Daesrath,Junaid Siddiqui,T van der Gugten,0,0,null,0,0,null,null
+74,10.6,D Daesrath,Junaid Siddiqui,T van der Gugten,0,0,null,0,0,null,null
+75,10.7,D Daesrath,Junaid Siddiqui,T van der Gugten,0,0,null,0,0,null,null
+76,11.1,Junaid Siddiqui,D Daesrath,Mudassar Bukhari,0,0,null,0,0,null,null
+77,11.2,Junaid Siddiqui,D Daesrath,Mudassar Bukhari,0,0,null,0,0,null,null
+78,11.3,Junaid Siddiqui,D Daesrath,Mudassar Bukhari,0,0,null,0,0,null,null
+79,11.4,Junaid Siddiqui,D Daesrath,Mudassar Bukhari,1,0,null,1,0,null,null
+80,11.5,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+81,11.6,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+82,12.1,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+83,12.2,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+84,12.3,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+85,12.4,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+86,12.5,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+87,12.6,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+88,13.1,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+89,13.2,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+90,13.3,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,2,0,null,2,0,null,null
+91,13.4,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+92,13.5,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+93,13.6,D Daesrath,Junaid Siddiqui,Mudassar Bukhari,0,0,null,0,0,null,null
+94,14.1,Junaid Siddiqui,D Daesrath,T van der Gugten,2,0,null,2,0,null,null
+95,14.2,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+96,14.3,Junaid Siddiqui,D Daesrath,T van der Gugten,0,1,wides ,1,0,null,null
+97,14.4,Junaid Siddiqui,D Daesrath,T van der Gugten,2,0,null,2,0,null,null
+98,14.5,Junaid Siddiqui,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+99,14.6,Junaid Siddiqui,D Daesrath,T van der Gugten,1,0,null,1,0,null,null
+100,14.7,D Daesrath,Junaid Siddiqui,T van der Gugten,0,0,null,0,0,null,null
+101,15.1,Junaid Siddiqui,D Daesrath,Ahsan Malik,0,0,null,0,0,null,null
+102,15.2,Junaid Siddiqui,D Daesrath,Ahsan Malik,0,0,null,0,0,null,null
+103,15.3,Junaid Siddiqui,D Daesrath,Ahsan Malik,0,0,null,0,0,null,null
+104,15.4,Junaid Siddiqui,D Daesrath,Ahsan Malik,1,0,null,1,0,null,null
+105,15.5,D Daesrath,Junaid Siddiqui,Ahsan Malik,0,0,null,0,0,null,null
+106,15.6,D Daesrath,Junaid Siddiqui,Ahsan Malik,0,0,null,0,0,null,null
+107,16.1,Junaid Siddiqui,D Daesrath,PM Seelaar,1,0,null,1,0,null,null
+108,16.2,D Daesrath,Junaid Siddiqui,PM Seelaar,1,0,null,1,0,null,null
+109,16.3,Junaid Siddiqui,D Daesrath,PM Seelaar,1,0,null,1,0,null,null
+110,16.4,D Daesrath,Junaid Siddiqui,PM Seelaar,0,0,null,0,0,null,null
+111,16.5,D Daesrath,Junaid Siddiqui,PM Seelaar,1,0,null,1,0,null,null
+112,16.6,Junaid Siddiqui,D Daesrath,PM Seelaar,0,0,null,0,0,null,null
+113,17.1,D Daesrath,Junaid Siddiqui,Ahsan Malik,0,0,null,0,0,null,null
+114,17.2,D Daesrath,Junaid Siddiqui,Ahsan Malik,4,0,null,4,0,null,null
+115,17.3,D Daesrath,Junaid Siddiqui,Ahsan Malik,2,0,null,2,0,null,null
+116,17.4,D Daesrath,Junaid Siddiqui,Ahsan Malik,0,1,wides ,1,0,null,null
+117,17.5,D Daesrath,Junaid Siddiqui,Ahsan Malik,0,0,null,0,0,null,null
+118,17.6,D Daesrath,Junaid Siddiqui,Ahsan Malik,0,0,null,0,0,null,null
+119,17.7,D Daesrath,Junaid Siddiqui,Ahsan Malik,0,0,null,0,0,null,null
+120,18.1,Junaid Siddiqui,D Daesrath,PM Seelaar,0,0,null,0,1,Junaid Siddiqui,caught
+121,18.2,K Kamyuka,D Daesrath,PM Seelaar,2,0,null,2,0,null,null
+122,18.3,K Kamyuka,D Daesrath,PM Seelaar,0,0,null,0,1,K Kamyuka,lbw
+123,18.4,HS Baidwan,D Daesrath,PM Seelaar,1,0,null,1,0,null,null
+124,18.5,D Daesrath,HS Baidwan,PM Seelaar,0,0,null,0,0,null,null
+125,18.6,D Daesrath,HS Baidwan,PM Seelaar,0,0,null,0,0,null,null
+126,19.1,HS Baidwan,D Daesrath,Ahsan Malik,0,1,wides ,1,0,null,null
+127,19.2,HS Baidwan,D Daesrath,Ahsan Malik,0,0,null,0,0,null,null
+128,19.3,HS Baidwan,D Daesrath,Ahsan Malik,0,0,null,0,0,null,null
+129,19.4,HS Baidwan,D Daesrath,Ahsan Malik,0,0,null,0,0,null,null
+130,19.5,HS Baidwan,D Daesrath,Ahsan Malik,0,0,null,0,0,null,null
+131,19.6,HS Baidwan,D Daesrath,Ahsan Malik,1,0,null,1,0,null,null
+132,19.7,D Daesrath,HS Baidwan,Ahsan Malik,0,1,wides ,1,0,null,null
+133,19.8,D Daesrath,HS Baidwan,Ahsan Malik,4,0,null,4,0,null,null
+134,20.1,HS Baidwan,D Daesrath,PM Seelaar,0,0,null,0,1,HS Baidwan,lbw
+135,20.2,JOA Gordon,D Daesrath,PM Seelaar,0,0,null,0,0,null,null
+136,20.3,JOA Gordon,D Daesrath,PM Seelaar,0,0,null,0,0,null,null
+137,20.4,JOA Gordon,D Daesrath,PM Seelaar,0,0,null,0,0,null,null
+138,20.5,JOA Gordon,D Daesrath,PM Seelaar,0,0,null,0,0,null,null
+139,20.6,JOA Gordon,D Daesrath,PM Seelaar,0,0,null,0,0,null,null
+140,21.1,D Daesrath,JOA Gordon,Ahsan Malik,2,0,null,2,0,null,null
+141,21.2,D Daesrath,JOA Gordon,Ahsan Malik,0,0,null,0,0,null,null
+142,21.3,D Daesrath,JOA Gordon,Ahsan Malik,1,0,null,1,0,null,null
+143,21.4,JOA Gordon,D Daesrath,Ahsan Malik,0,0,null,0,0,null,null
+144,21.5,JOA Gordon,D Daesrath,Ahsan Malik,0,0,null,0,0,null,null
+145,21.6,JOA Gordon,D Daesrath,Ahsan Malik,0,0,null,0,0,null,null
+146,22.1,D Daesrath,JOA Gordon,PM Seelaar,0,0,null,0,0,null,null
+147,22.2,D Daesrath,JOA Gordon,PM Seelaar,0,0,null,0,0,null,null
+148,22.3,D Daesrath,JOA Gordon,PM Seelaar,0,0,null,0,0,null,null
+149,22.4,D Daesrath,JOA Gordon,PM Seelaar,0,0,null,0,0,null,null
+150,22.5,D Daesrath,JOA Gordon,PM Seelaar,0,0,null,0,0,null,null
+151,22.6,D Daesrath,JOA Gordon,PM Seelaar,6,0,null,6,0,null,null
+152,23.1,JOA Gordon,D Daesrath,T van der Gugten,2,0,null,2,0,null,null
+153,23.2,JOA Gordon,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+154,23.3,JOA Gordon,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+155,23.4,JOA Gordon,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+156,23.5,JOA Gordon,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+157,23.6,JOA Gordon,D Daesrath,T van der Gugten,0,0,null,0,0,null,null
+158,24.1,D Daesrath,JOA Gordon,PM Seelaar,0,0,null,0,0,null,null
+159,24.2,D Daesrath,JOA Gordon,PM Seelaar,2,0,null,2,0,null,null
+160,24.3,D Daesrath,JOA Gordon,PM Seelaar,0,0,null,0,0,null,null
+161,24.4,D Daesrath,JOA Gordon,PM Seelaar,0,0,null,0,1,D Daesrath,bowled

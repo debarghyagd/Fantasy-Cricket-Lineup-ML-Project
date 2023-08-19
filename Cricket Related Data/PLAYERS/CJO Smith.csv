@@ -1,0 +1,21 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,390253,Willowmoore Park,Afghanistan,Khaliq Dad,Right-arm fast-medium,"[0, 1, 1]",1,2,5,0,0
+1,390253,Willowmoore Park,Afghanistan,Hasti Gul,Right-arm medium,"[0, 1, 2]",0,13,8,2,0
+2,247458,"Warner Park, Basseterre",Australia,BJ Hodge,Right-arm offbreak,"[1, 1, 0]",0,11,20,1,0
+3,247458,"Warner Park, Basseterre",Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,7,13,1,0
+4,247458,"Warner Park, Basseterre",Australia,GB Hogg,Left-arm chinaman,"[1, 0, 0]",1,10,18,1,0
+5,247458,"Warner Park, Basseterre",Australia,GD McGrath,Right-arm fast-medium,"[0, 1, 1]",0,1,6,0,0
+6,247458,"Warner Park, Basseterre",Australia,SW Tait,Right-arm fast,"[0, 1, 0]",0,21,17,4,0
+7,390227,Willowmoore Park,Canada,E Katchay,Right-arm fast-medium,"[0, 1, 1]",0,12,10,2,0
+8,390227,Willowmoore Park,Canada,H Osinde,Right-arm fast-medium,"[0, 1, 1]",0,0,6,0,0
+9,390227,Willowmoore Park,Canada,Khurram Chohan,Right-arm fast,"[0, 1, 0]",0,8,8,1,0
+10,325580,Clontarf Cricket Club Ground,Ireland,PC Connell,Right-arm legbreak,"[1, 1, 1]",0,2,2,0,0
+11,325580,Clontarf Cricket Club Ground,Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,9,9,2,0
+12,390204,Willowmoore Park,Ireland,PC Connell,Right-arm legbreak,"[1, 1, 1]",1,0,4,0,0
+13,267389,Gymkhana Club Ground,Kenya,JK Kamande,Right-arm offbreak,"[1, 1, 0]",0,2,5,0,0
+14,267389,Gymkhana Club Ground,Kenya,SO Tikolo,,not known,1,0,2,0,0
+15,247474,"Warner Park, Basseterre",Netherlands,MBS Jonkman,Right-arm medium,"[0, 1, 2]",1,13,15,3,0
+16,325579,Clontarf Cricket Club Ground,Netherlands,RN ten Doeschate,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+17,275789,Titwood,India,RR Powar,Right-arm offbreak,"[1, 1, 0]",0,4,7,1,0
+18,247470,"Warner Park, Basseterre",South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",0,3,9,0,0
+19,247470,"Warner Park, Basseterre",South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",0,1,4,0,0

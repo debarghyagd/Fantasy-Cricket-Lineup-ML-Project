@@ -1,0 +1,19 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,736503,Kinrara Academy Oval,Afghanistan,Amir Hamza,Left-arm orthodox,"[1, 0, 1]",0,2,6,0,0
+1,736503,Kinrara Academy Oval,Afghanistan,Rahmat Shah,Right-arm legbreak,"[1, 1, 1]",0,8,11,1,0
+2,736503,Kinrara Academy Oval,Afghanistan,Shapoor Zadran,Left-arm fast-medium,"[0, 0, 1]",0,4,12,0,0
+3,736503,Kinrara Academy Oval,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,8,9,1,0
+4,656439,Western Australia Cricket Association Ground,India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,1,13,0,0
+5,656439,Western Australia Cricket Association Ground,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,3,14,0,0
+6,656429,"Brisbane Cricket Ground, Woolloongabba",Ireland,PR Stirling,Right-arm offbreak,"[1, 1, 0]",1,0,4,0,0
+7,656447,McLean Park,Pakistan,Rahat Ali,Left-arm fast-medium,"[0, 0, 1]",0,0,4,0,0
+8,656447,McLean Park,Pakistan,Sohail Khan,Right-arm fast-medium,"[0, 1, 1]",1,0,8,0,0
+9,997993,"Grange Cricket Club Ground, Raeburn Place",Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0
+10,997993,"Grange Cricket Club Ground, Raeburn Place",Scotland,MA Leask,Right-arm offbreak,"[1, 1, 0]",0,2,6,0,0
+11,803795,ICC Academy,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,5,7,1,0
+12,656413,Saxton Oval,Zimbabwe,T Kamungozi,Right-arm legbreak,"[1, 1, 1]",0,14,18,2,0
+13,656413,Saxton Oval,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,2,4,0,0
+14,656413,Saxton Oval,Zimbabwe,SF Mire,Right-arm fast-medium,"[0, 1, 1]",1,4,14,0,0
+15,656413,Saxton Oval,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,4,8,0,0
+16,656413,Saxton Oval,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+17,656413,Saxton Oval,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",0,8,17,1,0

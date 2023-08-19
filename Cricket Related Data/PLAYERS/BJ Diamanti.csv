@@ -1,0 +1,4 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,351693,"Brisbane Cricket Ground, Woolloongabba",Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,6,5,1,0
+1,351693,"Brisbane Cricket Ground, Woolloongabba",Australia,BW Hilfenhaus,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0
+2,351693,"Brisbane Cricket Ground, Woolloongabba",Australia,PM Siddle,Right-arm fast-medium,"[0, 1, 1]",0,4,7,0,0

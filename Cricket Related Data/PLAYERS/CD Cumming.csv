@@ -1,0 +1,9 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,64935,Basin Reserve,Australia,JN Gillespie,Right-arm fast,"[0, 1, 0]",0,4,4,1,0
+1,64935,Basin Reserve,Australia,MS Kasprowicz,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+2,64935,Basin Reserve,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,3,9,0,0
+3,64935,Basin Reserve,Australia,GD McGrath,Right-arm fast-medium,"[0, 1, 1]",1,1,2,0,0
+4,64850,"Gaddafi Stadium, Lahore",Pakistan,Mohammad Sami,Right-arm fast-medium,"[0, 1, 1]",0,17,16,3,0
+5,64855,Rawalpindi Cricket Stadium,Pakistan,Shoaib Akhtar,Right-arm fast,"[0, 1, 0]",1,0,5,0,0
+6,64853,"Gaddafi Stadium, Lahore",Pakistan,Mohammad Sami,Right-arm fast-medium,"[0, 1, 1]",0,2,16,0,0
+7,64857,Eden Park,Pakistan,Mohammad Sami,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0

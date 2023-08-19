@@ -1,0 +1,16 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,264070,Shere Bangla National Stadium,Bangladesh,Shahadat Hossain,Right-arm fast-medium,"[0, 1, 1]",0,12,24,0,0
+1,264070,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",1,2,9,0,0
+2,264071,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,6,17,1,0
+3,264071,Shere Bangla National Stadium,Bangladesh,Syed Rasel,Left-arm fast-medium,"[0, 0, 1]",1,4,10,0,0
+4,520594,McLean Park,New Zealand,DAJ Bracewell,Right-arm fast-medium,"[0, 1, 1]",0,5,10,1,0
+5,593985,"National Cricket Stadium, St George's",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",1,0,1,0,0
+6,593985,"National Cricket Stadium, St George's",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,1,10,0,0
+7,593985,"National Cricket Stadium, St George's",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,3,2,0,0
+8,736443,Harare Sports Club,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,1,4,0,0
+9,736443,Harare Sports Club,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",1,0,2,0,0
+10,736449,Harare Sports Club,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,3,13,0,0
+11,736449,Harare Sports Club,Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",0,4,10,0,0
+12,736449,Harare Sports Club,Australia,NM Lyon,Right-arm offbreak,"[1, 1, 0]",1,0,3,0,0
+13,736447,Harare Sports Club,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,0,6,0,0
+14,736447,Harare Sports Club,South Africa,KJ Abbott,Right-arm fast-medium,"[0, 1, 1]",0,0,4,0,0

@@ -1,0 +1,306 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Imam-ul-Haq,Shan Masood,JA Richardson,0,0,null,0,0,null,null
+1,0.2,Imam-ul-Haq,Shan Masood,JA Richardson,0,0,null,0,0,null,null
+2,0.3,Imam-ul-Haq,Shan Masood,JA Richardson,0,0,null,0,0,null,null
+3,0.4,Imam-ul-Haq,Shan Masood,JA Richardson,0,0,null,0,0,null,null
+4,0.5,Imam-ul-Haq,Shan Masood,JA Richardson,0,1,wides ,1,0,null,null
+5,0.6,Imam-ul-Haq,Shan Masood,JA Richardson,0,0,null,0,0,null,null
+6,0.7,Imam-ul-Haq,Shan Masood,JA Richardson,0,0,null,0,0,null,null
+7,1.1,Shan Masood,Imam-ul-Haq,NM Coulter-Nile,0,1,wides ,1,0,null,null
+8,1.2,Shan Masood,Imam-ul-Haq,NM Coulter-Nile,0,0,null,0,0,null,null
+9,1.3,Shan Masood,Imam-ul-Haq,NM Coulter-Nile,0,0,null,0,0,null,null
+10,1.4,Shan Masood,Imam-ul-Haq,NM Coulter-Nile,0,0,null,0,0,null,null
+11,1.5,Shan Masood,Imam-ul-Haq,NM Coulter-Nile,0,0,null,0,0,null,null
+12,1.6,Shan Masood,Imam-ul-Haq,NM Coulter-Nile,1,0,null,1,0,null,null
+13,1.7,Imam-ul-Haq,Shan Masood,NM Coulter-Nile,0,0,null,0,0,null,null
+14,2.1,Shan Masood,Imam-ul-Haq,JA Richardson,0,0,null,0,0,null,null
+15,2.2,Shan Masood,Imam-ul-Haq,JA Richardson,0,0,null,0,0,null,null
+16,2.3,Shan Masood,Imam-ul-Haq,JA Richardson,0,0,null,0,0,null,null
+17,2.4,Shan Masood,Imam-ul-Haq,JA Richardson,0,0,null,0,0,null,null
+18,2.5,Shan Masood,Imam-ul-Haq,JA Richardson,0,0,null,0,0,null,null
+19,2.6,Shan Masood,Imam-ul-Haq,JA Richardson,0,0,null,0,0,null,null
+20,3.1,Imam-ul-Haq,Shan Masood,NM Coulter-Nile,6,0,null,6,0,null,null
+21,3.2,Imam-ul-Haq,Shan Masood,NM Coulter-Nile,0,0,null,0,0,null,null
+22,3.3,Imam-ul-Haq,Shan Masood,NM Coulter-Nile,0,0,null,0,0,null,null
+23,3.4,Imam-ul-Haq,Shan Masood,NM Coulter-Nile,0,0,null,0,0,null,null
+24,3.5,Imam-ul-Haq,Shan Masood,NM Coulter-Nile,0,0,null,0,0,null,null
+25,3.6,Imam-ul-Haq,Shan Masood,NM Coulter-Nile,1,0,null,1,0,null,null
+26,4.1,Imam-ul-Haq,Shan Masood,JA Richardson,0,0,null,0,0,null,null
+27,4.2,Imam-ul-Haq,Shan Masood,JA Richardson,1,0,null,1,0,null,null
+28,4.3,Shan Masood,Imam-ul-Haq,JA Richardson,4,0,null,4,0,null,null
+29,4.4,Shan Masood,Imam-ul-Haq,JA Richardson,4,0,null,4,0,null,null
+30,4.5,Shan Masood,Imam-ul-Haq,JA Richardson,0,0,null,0,0,null,null
+31,4.6,Shan Masood,Imam-ul-Haq,JA Richardson,4,0,null,4,0,null,null
+32,5.1,Imam-ul-Haq,Shan Masood,NM Coulter-Nile,0,0,null,0,0,null,null
+33,5.2,Imam-ul-Haq,Shan Masood,NM Coulter-Nile,4,0,null,4,0,null,null
+34,5.3,Imam-ul-Haq,Shan Masood,NM Coulter-Nile,0,0,null,0,0,null,null
+35,5.4,Imam-ul-Haq,Shan Masood,NM Coulter-Nile,1,0,null,1,0,null,null
+36,5.5,Shan Masood,Imam-ul-Haq,NM Coulter-Nile,0,0,null,0,0,null,null
+37,5.6,Shan Masood,Imam-ul-Haq,NM Coulter-Nile,0,0,null,0,0,null,null
+38,6.1,Imam-ul-Haq,Shan Masood,NM Lyon,0,0,null,0,0,null,null
+39,6.2,Imam-ul-Haq,Shan Masood,NM Lyon,0,0,null,0,0,null,null
+40,6.3,Imam-ul-Haq,Shan Masood,NM Lyon,1,0,null,1,0,null,null
+41,6.4,Shan Masood,Imam-ul-Haq,NM Lyon,0,0,null,0,0,null,null
+42,6.5,Shan Masood,Imam-ul-Haq,NM Lyon,0,0,null,0,0,null,null
+43,6.6,Shan Masood,Imam-ul-Haq,NM Lyon,0,0,null,0,0,null,null
+44,7.1,Imam-ul-Haq,Shan Masood,GJ Maxwell,0,1,wides ,1,0,null,null
+45,7.2,Imam-ul-Haq,Shan Masood,GJ Maxwell,1,0,null,1,0,null,null
+46,7.3,Shan Masood,Imam-ul-Haq,GJ Maxwell,0,0,null,0,0,null,null
+47,7.4,Shan Masood,Imam-ul-Haq,GJ Maxwell,0,0,null,0,0,null,null
+48,7.5,Shan Masood,Imam-ul-Haq,GJ Maxwell,0,0,null,0,0,null,null
+49,7.6,Shan Masood,Imam-ul-Haq,GJ Maxwell,1,0,null,1,0,null,null
+50,7.7,Imam-ul-Haq,Shan Masood,GJ Maxwell,1,0,null,1,0,null,null
+51,8.1,Imam-ul-Haq,Shan Masood,NM Lyon,0,0,null,0,0,null,null
+52,8.2,Imam-ul-Haq,Shan Masood,NM Lyon,1,0,null,1,0,null,null
+53,8.3,Shan Masood,Imam-ul-Haq,NM Lyon,1,0,null,1,0,null,null
+54,8.4,Imam-ul-Haq,Shan Masood,NM Lyon,0,0,null,0,1,Imam-ul-Haq,caught and bowled
+55,8.5,Haris Sohail,Shan Masood,NM Lyon,2,0,null,2,0,null,null
+56,8.6,Haris Sohail,Shan Masood,NM Lyon,0,0,null,0,0,null,null
+57,9.1,Shan Masood,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+58,9.2,Shan Masood,Haris Sohail,GJ Maxwell,1,0,null,1,0,null,null
+59,9.3,Haris Sohail,Shan Masood,GJ Maxwell,0,0,null,0,0,null,null
+60,9.4,Haris Sohail,Shan Masood,GJ Maxwell,2,0,null,2,0,null,null
+61,9.5,Haris Sohail,Shan Masood,GJ Maxwell,0,0,null,0,0,null,null
+62,9.6,Haris Sohail,Shan Masood,GJ Maxwell,0,0,null,0,0,null,null
+63,10.1,Shan Masood,Haris Sohail,NM Lyon,0,0,null,0,0,null,null
+64,10.2,Shan Masood,Haris Sohail,NM Lyon,1,0,null,1,0,null,null
+65,10.3,Haris Sohail,Shan Masood,NM Lyon,0,0,null,0,0,null,null
+66,10.4,Haris Sohail,Shan Masood,NM Lyon,1,0,null,1,0,null,null
+67,10.5,Shan Masood,Haris Sohail,NM Lyon,0,0,null,0,0,null,null
+68,10.6,Shan Masood,Haris Sohail,NM Lyon,1,0,null,1,0,null,null
+69,11.1,Shan Masood,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+70,11.2,Shan Masood,Haris Sohail,GJ Maxwell,1,0,null,1,0,null,null
+71,11.3,Haris Sohail,Shan Masood,GJ Maxwell,1,0,null,1,0,null,null
+72,11.4,Shan Masood,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+73,11.5,Shan Masood,Haris Sohail,GJ Maxwell,4,0,null,4,0,null,null
+74,11.6,Shan Masood,Haris Sohail,GJ Maxwell,1,0,null,1,0,null,null
+75,12.1,Shan Masood,Haris Sohail,NM Lyon,1,0,null,1,0,null,null
+76,12.2,Haris Sohail,Shan Masood,NM Lyon,1,0,null,1,0,null,null
+77,12.3,Shan Masood,Haris Sohail,NM Lyon,0,0,null,0,0,null,null
+78,12.4,Shan Masood,Haris Sohail,NM Lyon,1,0,null,1,0,null,null
+79,12.5,Haris Sohail,Shan Masood,NM Lyon,0,0,null,0,0,null,null
+80,12.6,Haris Sohail,Shan Masood,NM Lyon,0,0,null,0,0,null,null
+81,13.1,Shan Masood,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+82,13.2,Shan Masood,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+83,13.3,Shan Masood,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+84,13.4,Haris Sohail,Shan Masood,A Zampa,1,0,null,1,0,null,null
+85,13.5,Shan Masood,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+86,13.6,Shan Masood,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+87,14.1,Haris Sohail,Shan Masood,NM Lyon,2,0,null,2,0,null,null
+88,14.2,Haris Sohail,Shan Masood,NM Lyon,1,0,null,1,0,null,null
+89,14.3,Shan Masood,Haris Sohail,NM Lyon,4,0,null,4,0,null,null
+90,14.4,Shan Masood,Haris Sohail,NM Lyon,0,0,null,0,0,null,null
+91,14.5,Shan Masood,Haris Sohail,NM Lyon,1,0,null,1,0,null,null
+92,14.6,Haris Sohail,Shan Masood,NM Lyon,0,0,null,0,0,null,null
+93,15.1,Shan Masood,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+94,15.2,Haris Sohail,Shan Masood,A Zampa,0,0,null,0,0,null,null
+95,15.3,Haris Sohail,Shan Masood,A Zampa,1,0,null,1,0,null,null
+96,15.4,Shan Masood,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+97,15.5,Haris Sohail,Shan Masood,A Zampa,1,0,null,1,0,null,null
+98,15.6,Shan Masood,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+99,16.1,Haris Sohail,Shan Masood,NM Lyon,1,0,null,1,0,null,null
+100,16.2,Shan Masood,Haris Sohail,NM Lyon,0,0,null,0,0,null,null
+101,16.3,Shan Masood,Haris Sohail,NM Lyon,0,0,null,0,0,null,null
+102,16.4,Shan Masood,Haris Sohail,NM Lyon,0,0,null,0,0,null,null
+103,16.5,Shan Masood,Haris Sohail,NM Lyon,0,0,null,0,0,null,null
+104,16.6,Shan Masood,Haris Sohail,NM Lyon,1,0,null,1,0,null,null
+105,17.1,Shan Masood,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+106,17.2,Shan Masood,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+107,17.3,Haris Sohail,Shan Masood,A Zampa,1,0,null,1,0,null,null
+108,17.4,Shan Masood,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+109,17.5,Haris Sohail,Shan Masood,A Zampa,1,0,null,1,0,null,null
+110,17.6,Shan Masood,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+111,18.1,Shan Masood,Haris Sohail,NM Coulter-Nile,1,0,null,1,0,null,null
+112,18.2,Haris Sohail,Shan Masood,NM Coulter-Nile,1,0,null,1,0,null,null
+113,18.3,Shan Masood,Haris Sohail,NM Coulter-Nile,1,0,null,1,0,null,null
+114,18.4,Haris Sohail,Shan Masood,NM Coulter-Nile,1,0,null,1,0,null,null
+115,18.5,Shan Masood,Haris Sohail,NM Coulter-Nile,0,0,null,0,1,Shan Masood,bowled
+116,18.6,Umar Akmal,Haris Sohail,NM Coulter-Nile,0,0,null,0,0,null,null
+117,19.1,Haris Sohail,Umar Akmal,A Zampa,1,0,null,1,0,null,null
+118,19.2,Umar Akmal,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+119,19.3,Haris Sohail,Umar Akmal,A Zampa,0,0,null,0,0,null,null
+120,19.4,Haris Sohail,Umar Akmal,A Zampa,1,0,null,1,0,null,null
+121,19.5,Umar Akmal,Haris Sohail,A Zampa,0,1,legbyes ,1,0,null,null
+122,19.6,Haris Sohail,Umar Akmal,A Zampa,4,0,null,4,0,null,null
+123,20.1,Umar Akmal,Haris Sohail,NM Coulter-Nile,0,0,null,0,0,null,null
+124,20.2,Umar Akmal,Haris Sohail,NM Coulter-Nile,3,0,null,3,0,null,null
+125,20.3,Haris Sohail,Umar Akmal,NM Coulter-Nile,0,0,null,0,0,null,null
+126,20.4,Haris Sohail,Umar Akmal,NM Coulter-Nile,0,0,null,0,0,null,null
+127,20.5,Haris Sohail,Umar Akmal,NM Coulter-Nile,0,0,null,0,0,null,null
+128,20.6,Haris Sohail,Umar Akmal,NM Coulter-Nile,0,0,null,0,0,null,null
+129,21.1,Umar Akmal,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+130,21.2,Haris Sohail,Umar Akmal,A Zampa,0,0,null,0,0,null,null
+131,21.3,Haris Sohail,Umar Akmal,A Zampa,1,0,null,1,0,null,null
+132,21.4,Umar Akmal,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+133,21.5,Haris Sohail,Umar Akmal,A Zampa,0,0,null,0,0,null,null
+134,21.6,Haris Sohail,Umar Akmal,A Zampa,1,0,null,1,0,null,null
+135,22.1,Haris Sohail,Umar Akmal,JA Richardson,4,0,null,4,0,null,null
+136,22.2,Haris Sohail,Umar Akmal,JA Richardson,1,0,null,1,0,null,null
+137,22.3,Umar Akmal,Haris Sohail,JA Richardson,1,0,null,1,0,null,null
+138,22.4,Haris Sohail,Umar Akmal,JA Richardson,0,0,null,0,0,null,null
+139,22.5,Haris Sohail,Umar Akmal,JA Richardson,1,0,null,1,0,null,null
+140,22.6,Umar Akmal,Haris Sohail,JA Richardson,1,0,null,1,0,null,null
+141,23.1,Umar Akmal,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+142,23.2,Umar Akmal,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+143,23.3,Haris Sohail,Umar Akmal,A Zampa,1,0,null,1,0,null,null
+144,23.4,Umar Akmal,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+145,23.5,Haris Sohail,Umar Akmal,A Zampa,1,0,null,1,0,null,null
+146,23.6,Umar Akmal,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+147,24.1,Haris Sohail,Umar Akmal,NM Lyon,0,0,null,0,0,null,null
+148,24.2,Haris Sohail,Umar Akmal,NM Lyon,0,0,null,0,0,null,null
+149,24.3,Haris Sohail,Umar Akmal,NM Lyon,0,0,null,0,0,null,null
+150,24.4,Haris Sohail,Umar Akmal,NM Lyon,1,0,null,1,0,null,null
+151,24.5,Umar Akmal,Haris Sohail,NM Lyon,1,0,null,1,0,null,null
+152,24.6,Haris Sohail,Umar Akmal,NM Lyon,1,0,null,1,0,null,null
+153,25.1,Haris Sohail,Umar Akmal,JA Richardson,0,0,null,0,0,null,null
+154,25.2,Haris Sohail,Umar Akmal,JA Richardson,1,0,null,1,0,null,null
+155,25.3,Umar Akmal,Haris Sohail,JA Richardson,0,0,null,0,0,null,null
+156,25.4,Umar Akmal,Haris Sohail,JA Richardson,0,0,null,0,0,null,null
+157,25.5,Umar Akmal,Haris Sohail,JA Richardson,1,0,null,1,0,null,null
+158,25.6,Haris Sohail,Umar Akmal,JA Richardson,0,0,null,0,0,null,null
+159,26.1,Umar Akmal,Haris Sohail,NM Lyon,1,0,null,1,0,null,null
+160,26.2,Haris Sohail,Umar Akmal,NM Lyon,0,0,null,0,0,null,null
+161,26.3,Haris Sohail,Umar Akmal,NM Lyon,0,0,null,0,0,null,null
+162,26.4,Haris Sohail,Umar Akmal,NM Lyon,1,0,null,1,0,null,null
+163,26.5,Umar Akmal,Haris Sohail,NM Lyon,1,0,null,1,0,null,null
+164,26.6,Haris Sohail,Umar Akmal,NM Lyon,1,0,null,1,0,null,null
+165,27.1,Haris Sohail,Umar Akmal,JA Richardson,1,0,null,1,0,null,null
+166,27.2,Umar Akmal,Haris Sohail,JA Richardson,0,0,null,0,0,null,null
+167,27.3,Umar Akmal,Haris Sohail,JA Richardson,6,0,null,6,0,null,null
+168,27.4,Umar Akmal,Haris Sohail,JA Richardson,6,0,null,6,0,null,null
+169,27.5,Umar Akmal,Haris Sohail,JA Richardson,0,0,null,0,0,null,null
+170,27.6,Umar Akmal,Haris Sohail,JA Richardson,6,0,null,6,0,null,null
+171,28.1,Haris Sohail,Umar Akmal,NM Lyon,0,0,null,0,0,null,null
+172,28.2,Haris Sohail,Umar Akmal,NM Lyon,0,0,null,0,0,null,null
+173,28.3,Haris Sohail,Umar Akmal,NM Lyon,0,0,null,0,0,null,null
+174,28.4,Haris Sohail,Umar Akmal,NM Lyon,0,0,null,0,0,null,null
+175,28.5,Haris Sohail,Umar Akmal,NM Lyon,0,0,null,0,0,null,null
+176,28.6,Haris Sohail,Umar Akmal,NM Lyon,2,0,null,2,0,null,null
+177,29.1,Umar Akmal,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+178,29.2,Haris Sohail,Umar Akmal,A Zampa,0,0,null,0,0,null,null
+179,29.3,Haris Sohail,Umar Akmal,A Zampa,1,0,null,1,0,null,null
+180,29.4,Umar Akmal,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+181,29.5,Haris Sohail,Umar Akmal,A Zampa,1,0,null,1,0,null,null
+182,29.6,Umar Akmal,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+183,30.1,Haris Sohail,Umar Akmal,NM Lyon,0,0,null,0,0,null,null
+184,30.2,Haris Sohail,Umar Akmal,NM Lyon,4,0,null,4,0,null,null
+185,30.3,Haris Sohail,Umar Akmal,NM Lyon,1,0,null,1,0,null,null
+186,30.4,Umar Akmal,Haris Sohail,NM Lyon,1,0,null,1,0,null,null
+187,30.5,Haris Sohail,Umar Akmal,NM Lyon,1,0,null,1,0,null,null
+188,30.6,Umar Akmal,Haris Sohail,NM Lyon,1,0,null,1,0,null,null
+189,31.1,Umar Akmal,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+190,31.2,Umar Akmal,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+191,31.3,Haris Sohail,Umar Akmal,A Zampa,0,0,null,0,0,null,null
+192,31.4,Haris Sohail,Umar Akmal,A Zampa,1,0,null,1,0,null,null
+193,31.5,Umar Akmal,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+194,31.6,Umar Akmal,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+195,32.1,Umar Akmal,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+196,32.2,Umar Akmal,Haris Sohail,GJ Maxwell,1,0,null,1,0,null,null
+197,32.3,Haris Sohail,Umar Akmal,GJ Maxwell,0,0,null,0,0,null,null
+198,32.4,Haris Sohail,Umar Akmal,GJ Maxwell,1,0,null,1,0,null,null
+199,32.5,Umar Akmal,Haris Sohail,GJ Maxwell,2,0,null,2,0,null,null
+200,32.6,Umar Akmal,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+201,33.1,Haris Sohail,Umar Akmal,MP Stoinis,1,0,null,1,0,null,null
+202,33.2,Umar Akmal,Haris Sohail,MP Stoinis,1,0,null,1,0,null,null
+203,33.3,Haris Sohail,Umar Akmal,MP Stoinis,0,1,wides ,1,0,null,null
+204,33.4,Haris Sohail,Umar Akmal,MP Stoinis,1,0,null,1,0,null,null
+205,33.5,Umar Akmal,Haris Sohail,MP Stoinis,0,0,null,0,0,null,null
+206,33.6,Umar Akmal,Haris Sohail,MP Stoinis,1,0,null,1,0,null,null
+207,33.7,Haris Sohail,Umar Akmal,MP Stoinis,1,0,null,1,0,null,null
+208,34.1,Haris Sohail,Umar Akmal,GJ Maxwell,0,0,null,0,0,null,null
+209,34.2,Haris Sohail,Umar Akmal,GJ Maxwell,1,0,null,1,0,null,null
+210,34.3,Umar Akmal,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+211,34.4,Umar Akmal,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+212,34.5,Umar Akmal,Haris Sohail,GJ Maxwell,1,0,null,1,0,null,null
+213,34.6,Haris Sohail,Umar Akmal,GJ Maxwell,1,0,null,1,0,null,null
+214,35.1,Haris Sohail,Umar Akmal,MP Stoinis,0,0,null,0,0,null,null
+215,35.2,Haris Sohail,Umar Akmal,MP Stoinis,6,0,null,6,0,null,null
+216,35.3,Haris Sohail,Umar Akmal,MP Stoinis,0,0,null,0,0,null,null
+217,35.4,Haris Sohail,Umar Akmal,MP Stoinis,0,0,null,0,0,null,null
+218,35.5,Haris Sohail,Umar Akmal,MP Stoinis,1,0,null,1,0,null,null
+219,35.6,Umar Akmal,Haris Sohail,MP Stoinis,1,0,null,1,0,null,null
+220,36.1,Umar Akmal,Haris Sohail,GJ Maxwell,1,0,null,1,0,null,null
+221,36.2,Haris Sohail,Umar Akmal,GJ Maxwell,1,0,null,1,0,null,null
+222,36.3,Umar Akmal,Haris Sohail,GJ Maxwell,1,0,null,1,0,null,null
+223,36.4,Haris Sohail,Umar Akmal,GJ Maxwell,1,0,null,1,0,null,null
+224,36.5,Umar Akmal,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+225,36.6,Umar Akmal,Haris Sohail,GJ Maxwell,1,0,null,1,0,null,null
+226,37.1,Umar Akmal,Haris Sohail,NM Coulter-Nile,0,0,null,0,0,null,null
+227,37.2,Umar Akmal,Haris Sohail,NM Coulter-Nile,0,0,null,0,1,Umar Akmal,caught
+228,37.3,Haris Sohail,Shoaib Malik,NM Coulter-Nile,1,0,null,1,0,null,null
+229,37.4,Shoaib Malik,Haris Sohail,NM Coulter-Nile,1,0,null,1,0,null,null
+230,37.5,Haris Sohail,Shoaib Malik,NM Coulter-Nile,1,0,null,1,0,null,null
+231,37.6,Shoaib Malik,Haris Sohail,NM Coulter-Nile,0,0,null,0,0,null,null
+232,38.1,Haris Sohail,Shoaib Malik,GJ Maxwell,1,0,null,1,0,null,null
+233,38.2,Shoaib Malik,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+234,38.3,Shoaib Malik,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+235,38.4,Shoaib Malik,Haris Sohail,GJ Maxwell,4,0,null,4,0,null,null
+236,38.5,Shoaib Malik,Haris Sohail,GJ Maxwell,6,0,null,6,0,null,null
+237,38.6,Shoaib Malik,Haris Sohail,GJ Maxwell,0,0,null,0,1,Shoaib Malik,bowled
+238,39.1,Haris Sohail,Faheem Ashraf,NM Coulter-Nile,0,0,null,0,0,null,null
+239,39.2,Haris Sohail,Faheem Ashraf,NM Coulter-Nile,1,0,null,1,0,null,null
+240,39.3,Faheem Ashraf,Haris Sohail,NM Coulter-Nile,0,0,null,0,0,null,null
+241,39.4,Faheem Ashraf,Haris Sohail,NM Coulter-Nile,1,0,null,1,0,null,null
+242,39.5,Haris Sohail,Faheem Ashraf,NM Coulter-Nile,1,0,null,1,0,null,null
+243,39.6,Faheem Ashraf,Haris Sohail,NM Coulter-Nile,1,0,null,1,0,null,null
+244,40.1,Faheem Ashraf,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+245,40.2,Faheem Ashraf,Haris Sohail,GJ Maxwell,0,1,wides ,1,0,null,null
+246,40.3,Faheem Ashraf,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+247,40.4,Faheem Ashraf,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+248,40.5,Faheem Ashraf,Haris Sohail,GJ Maxwell,1,0,null,1,0,null,null
+249,40.6,Haris Sohail,Faheem Ashraf,GJ Maxwell,1,0,null,1,0,null,null
+250,40.7,Faheem Ashraf,Haris Sohail,GJ Maxwell,2,0,null,2,0,null,null
+251,41.1,Haris Sohail,Faheem Ashraf,A Zampa,1,0,null,1,0,null,null
+252,41.2,Faheem Ashraf,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+253,41.3,Faheem Ashraf,Haris Sohail,A Zampa,4,0,null,4,0,null,null
+254,41.4,Faheem Ashraf,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+255,41.5,Faheem Ashraf,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+256,41.6,Haris Sohail,Faheem Ashraf,A Zampa,1,0,null,1,0,null,null
+257,42.1,Haris Sohail,Faheem Ashraf,GJ Maxwell,4,0,null,4,0,null,null
+258,42.2,Haris Sohail,Faheem Ashraf,GJ Maxwell,1,0,null,1,0,null,null
+259,42.3,Faheem Ashraf,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+260,42.4,Faheem Ashraf,Haris Sohail,GJ Maxwell,1,0,null,1,0,null,null
+261,42.5,Haris Sohail,Faheem Ashraf,GJ Maxwell,1,0,null,1,0,null,null
+262,42.6,Faheem Ashraf,Haris Sohail,GJ Maxwell,1,0,null,1,0,null,null
+263,43.1,Faheem Ashraf,Haris Sohail,A Zampa,0,0,null,0,0,null,null
+264,43.2,Faheem Ashraf,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+265,43.3,Haris Sohail,Faheem Ashraf,A Zampa,1,0,null,1,0,null,null
+266,43.4,Faheem Ashraf,Haris Sohail,A Zampa,1,0,null,1,0,null,null
+267,43.5,Haris Sohail,Faheem Ashraf,A Zampa,0,0,null,0,0,null,null
+268,43.6,Haris Sohail,Faheem Ashraf,A Zampa,1,0,null,1,0,null,null
+269,44.1,Haris Sohail,Faheem Ashraf,GJ Maxwell,2,0,null,2,0,null,null
+270,44.2,Haris Sohail,Faheem Ashraf,GJ Maxwell,0,0,null,0,0,null,null
+271,44.3,Haris Sohail,Faheem Ashraf,GJ Maxwell,1,0,null,1,0,null,null
+272,44.4,Faheem Ashraf,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+273,44.5,Faheem Ashraf,Haris Sohail,GJ Maxwell,0,0,null,0,0,null,null
+274,44.6,Faheem Ashraf,Haris Sohail,GJ Maxwell,4,0,null,4,0,null,null
+275,45.1,Haris Sohail,Faheem Ashraf,NM Coulter-Nile,1,0,null,1,0,null,null
+276,45.2,Faheem Ashraf,Haris Sohail,NM Coulter-Nile,0,1,legbyes ,1,0,null,null
+277,45.3,Haris Sohail,Faheem Ashraf,NM Coulter-Nile,4,0,null,4,0,null,null
+278,45.4,Haris Sohail,Faheem Ashraf,NM Coulter-Nile,1,0,null,1,0,null,null
+279,45.5,Faheem Ashraf,Haris Sohail,NM Coulter-Nile,4,0,null,4,0,null,null
+280,45.6,Faheem Ashraf,Haris Sohail,NM Coulter-Nile,2,0,null,2,0,null,null
+281,46.1,Haris Sohail,Faheem Ashraf,JA Richardson,0,0,null,0,0,null,null
+282,46.2,Haris Sohail,Faheem Ashraf,JA Richardson,0,0,null,0,0,null,null
+283,46.3,Haris Sohail,Faheem Ashraf,JA Richardson,4,0,null,4,0,null,null
+284,46.4,Haris Sohail,Faheem Ashraf,JA Richardson,1,0,null,1,0,null,null
+285,46.5,Faheem Ashraf,Haris Sohail,JA Richardson,4,0,null,4,0,null,null
+286,46.6,Faheem Ashraf,Haris Sohail,JA Richardson,0,0,null,0,1,Faheem Ashraf,caught
+287,47.1,Haris Sohail,Imad Wasim,NM Coulter-Nile,1,0,null,1,0,null,null
+288,47.2,Imad Wasim,Haris Sohail,NM Coulter-Nile,0,0,null,0,0,null,null
+289,47.3,Imad Wasim,Haris Sohail,NM Coulter-Nile,0,0,null,0,0,null,null
+290,47.4,Imad Wasim,Haris Sohail,NM Coulter-Nile,4,0,null,4,0,null,null
+291,47.5,Imad Wasim,Haris Sohail,NM Coulter-Nile,0,0,null,0,0,null,null
+292,47.6,Imad Wasim,Haris Sohail,NM Coulter-Nile,1,0,null,1,0,null,null
+293,48.1,Imad Wasim,Haris Sohail,JA Richardson,1,0,null,1,0,null,null
+294,48.2,Haris Sohail,Imad Wasim,JA Richardson,1,0,null,1,0,null,null
+295,48.3,Imad Wasim,Haris Sohail,JA Richardson,6,0,null,6,0,null,null
+296,48.4,Imad Wasim,Haris Sohail,JA Richardson,2,0,null,2,0,null,null
+297,48.5,Imad Wasim,Haris Sohail,JA Richardson,1,0,null,1,0,null,null
+298,48.6,Haris Sohail,Imad Wasim,JA Richardson,1,0,null,1,0,null,null
+299,49.1,Haris Sohail,Imad Wasim,NM Coulter-Nile,1,0,null,1,0,null,null
+300,49.2,Imad Wasim,Haris Sohail,NM Coulter-Nile,4,0,null,4,0,null,null
+301,49.3,Imad Wasim,Haris Sohail,NM Coulter-Nile,4,0,null,4,0,null,null
+302,49.4,Imad Wasim,Haris Sohail,NM Coulter-Nile,1,0,null,1,0,null,null
+303,49.5,Haris Sohail,Imad Wasim,NM Coulter-Nile,1,0,null,1,0,null,null
+304,49.6,Imad Wasim,Haris Sohail,NM Coulter-Nile,4,0,null,4,0,null,null

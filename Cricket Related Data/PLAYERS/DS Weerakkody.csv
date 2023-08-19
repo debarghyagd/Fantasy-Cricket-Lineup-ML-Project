@@ -1,0 +1,5 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,936159,St George's Park,South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",0,5,5,1,0
+1,936165,Newlands,South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",0,16,15,3,0
+2,936165,Newlands,South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",0,10,13,1,0
+3,936165,Newlands,South Africa,Imran Tahir,Right-arm legbreak,"[1, 1, 1]",1,13,13,2,0

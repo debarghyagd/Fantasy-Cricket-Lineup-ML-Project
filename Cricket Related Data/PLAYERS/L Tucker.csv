@@ -1,0 +1,57 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1244013,Sheikh Zayed Stadium,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,8,8,0,0
+1,1244013,Sheikh Zayed Stadium,Afghanistan,Naveen-ul-Haq,Right-arm fast-medium,"[0, 1, 1]",0,26,15,0,3
+2,1244013,Sheikh Zayed Stadium,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",1,19,29,1,0
+3,1244015,Sheikh Zayed Stadium,Afghanistan,Naveen-ul-Haq,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+4,1244015,Sheikh Zayed Stadium,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,10,13,2,0
+5,1244015,Sheikh Zayed Stadium,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",1,2,8,0,0
+6,1244015,Sheikh Zayed Stadium,Afghanistan,Javed Ahmadi,Right-arm offbreak,"[1, 1, 0]",0,9,13,1,0
+7,1244014,Sheikh Zayed Stadium,Afghanistan,Naveen-ul-Haq,Right-arm fast-medium,"[0, 1, 1]",0,7,6,1,0
+8,1244014,Sheikh Zayed Stadium,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",1,4,5,0,0
+9,1244014,Sheikh Zayed Stadium,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,6,8,1,0
+10,1161014,"The Village, Malahide",England,LE Plunkett,Right-arm fast,"[0, 1, 0]",1,6,4,1,0
+11,1198248,The Rose Bowl,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",1,6,18,0,0
+12,1198248,The Rose Bowl,England,S Mahmood,Right-arm fast-medium,"[0, 1, 1]",0,11,7,2,0
+13,1251964,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,LV van Beek,Right-arm fast-medium,"[0, 1, 1]",0,2,7,0,0
+14,1251964,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,VJ Kingma,Right-arm medium,"[0, 1, 2]",0,3,4,0,0
+15,1303309,"The Village, Malahide, Dublin",New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,3,8,0,0
+16,1303309,"The Village, Malahide, Dublin",New Zealand,IS Sodhi,Right-arm legbreak,"[1, 1, 1]",1,23,14,1,2
+17,1303310,"The Village, Malahide, Dublin",New Zealand,JA Duffy,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+18,1303310,"The Village, Malahide, Dublin",New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+19,1244524,Sheikh Zayed Stadium,United Arab Emirates,KP Meiyappan,Right-arm legbreak,"[1, 1, 1]",0,2,2,0,0
+20,1244524,Sheikh Zayed Stadium,United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",1,2,8,0,0
+21,1244525,Sheikh Zayed Stadium,United Arab Emirates,KP Meiyappan,Right-arm legbreak,"[1, 1, 1]",0,17,17,2,0
+22,1244525,Sheikh Zayed Stadium,United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",0,3,13,0,0
+23,1244525,Sheikh Zayed Stadium,United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",0,0,8,0,0
+24,1168508,Castle Avenue,West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",1,0,4,0,0
+25,1168517,"Bready Cricket Club, Magheramason",Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,10,7,1,0
+26,1168517,"Bready Cricket Club, Magheramason",Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",1,4,6,0,0
+27,1168517,"Bready Cricket Club, Magheramason",Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,6,10,0,0
+28,1168517,"Bready Cricket Club, Magheramason",Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,3,8,0,0
+29,1168518,"Civil Service Cricket Club, Stormont",Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,13,19,0,0
+30,1168518,"Civil Service Cricket Club, Stormont",Zimbabwe,SF Mire,Right-arm fast-medium,"[0, 1, 1]",0,10,7,2,0
+31,1168518,"Civil Service Cricket Club, Stormont",Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,19,17,3,0
+32,1168518,"Civil Service Cricket Club, Stormont",Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",1,6,3,1,0
+33,1168518,"Civil Service Cricket Club, Stormont",Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,8,6,1,0
+34,1168519,"Civil Service Cricket Club, Stormont",Zimbabwe,RP Burl,Right-arm legbreak,"[1, 1, 1]",0,5,9,1,0
+35,1168519,"Civil Service Cricket Club, Stormont",Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0
+36,1168519,"Civil Service Cricket Club, Stormont",Zimbabwe,H Masakadza,Right-arm medium,"[0, 1, 2]",0,0,1,0,0
+37,1272380,"Civil Service Cricket Club, Stormont, Belfast",Zimbabwe,R Ngarava,Left-arm fast-medium,"[0, 0, 1]",0,5,6,0,0
+38,1272380,"Civil Service Cricket Club, Stormont, Belfast",Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",1,14,7,0,1
+39,1272380,"Civil Service Cricket Club, Stormont, Belfast",Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,13,7,2,0
+40,1251962,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,BD Glover,Right-arm fast,"[0, 1, 0]",0,4,4,0,0
+41,1303311,"The Village, Malahide, Dublin",New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,5,7,0,0
+42,1303311,"The Village, Malahide, Dublin",New Zealand,BM Tickner,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+43,1203673,"Kensington Oval, Barbados",West Indies,HR Walsh,Right-arm legbreak,"[1, 1, 1]",0,12,25,1,0
+44,1203673,"Kensington Oval, Barbados",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",1,4,13,0,0
+45,1203673,"Kensington Oval, Barbados",West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",0,6,8,1,0
+46,1203674,"Kensington Oval, Barbados",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+47,1203674,"Kensington Oval, Barbados",West Indies,HR Walsh,Right-arm legbreak,"[1, 1, 1]",0,1,2,0,0
+48,1203675,"National Cricket Stadium, Grenada",West Indies,HR Walsh,Right-arm legbreak,"[1, 1, 1]",1,6,9,0,0
+49,1277085,"Sabina Park, Kingston, Jamaica",West Indies,R Shepherd,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+50,1277085,"Sabina Park, Kingston, Jamaica",West Indies,OF Smith,Right-arm medium,"[0, 1, 2]",0,0,3,0,0
+51,1277085,"Sabina Park, Kingston, Jamaica",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",1,6,8,1,0
+52,1277085,"Sabina Park, Kingston, Jamaica",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,1,1,0,0
+53,1272379,"Civil Service Cricket Club, Stormont, Belfast",Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,4,4,0,0
+54,1272379,"Civil Service Cricket Club, Stormont, Belfast",Zimbabwe,WP Masakadza,Left-arm orthodox,"[1, 0, 1]",1,7,13,0,0
+55,1272379,"Civil Service Cricket Club, Stormont, Belfast",Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0

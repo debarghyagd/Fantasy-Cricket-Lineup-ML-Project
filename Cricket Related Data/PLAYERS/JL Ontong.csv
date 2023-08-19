@@ -1,0 +1,16 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,225959,"Rajiv Gandhi International Stadium, Uppal",India,AB Agarkar,Right-arm fast-medium,"[0, 1, 1]",1,8,19,2,0
+1,225959,"Rajiv Gandhi International Stadium, Uppal",India,RP Singh,Left-arm fast-medium,"[0, 0, 1]",0,3,5,0,0
+2,520601,McLean Park,New Zealand,TS Nethula,Right-arm legbreak,"[1, 1, 1]",0,0,5,0,0
+3,520601,McLean Park,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,15,8,3,0
+4,520601,McLean Park,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+5,350348,Senwes Park,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",1,8,11,1,0
+6,350348,Senwes Park,Bangladesh,Syed Rasel,Left-arm fast-medium,"[0, 0, 1]",0,15,21,3,0
+7,350348,Senwes Park,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,4,7,0,0
+8,360800,OUTsurance Oval,Kenya,E Otieno,Right-arm fast-medium,"[0, 1, 1]",0,10,4,2,0
+9,360800,OUTsurance Oval,Kenya,HA Varaiya,Left-arm orthodox,"[1, 0, 1]",0,2,6,0,0
+10,360800,OUTsurance Oval,Kenya,SO Tikolo,,not known,0,6,7,0,0
+11,298805,SuperSport Park,West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",0,10,14,1,0
+12,298805,SuperSport Park,West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,8,8,0,0
+13,298805,SuperSport Park,West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+14,298805,SuperSport Park,West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,3,3,0,0

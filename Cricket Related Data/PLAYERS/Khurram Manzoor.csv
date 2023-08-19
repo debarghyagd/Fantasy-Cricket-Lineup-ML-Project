@@ -1,0 +1,12 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,385749,National Stadium,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",1,13,24,1,0
+1,385749,National Stadium,Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",0,19,25,2,0
+2,385749,National Stadium,Sri Lanka,ST Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,3,8,0,0
+3,385749,National Stadium,Sri Lanka,T Thushara,Left-arm fast-medium,"[0, 0, 1]",0,5,21,0,0
+4,385749,National Stadium,Sri Lanka,BAW Mendis,Right-arm offbreak,"[1, 1, 0]",0,34,26,5,0
+5,385751,Gaddafi Stadium,Sri Lanka,T Thushara,Left-arm fast-medium,"[0, 0, 1]",0,2,7,0,0
+6,374059,Sheikh Zayed Stadium,West Indies,LS Baker,Right-arm fast-medium,"[0, 1, 1]",0,5,12,0,0
+7,374059,Sheikh Zayed Stadium,West Indies,NO Miller,Left-arm orthodox,"[1, 0, 1]",0,18,20,1,0
+8,374059,Sheikh Zayed Stadium,West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,6,17,0,0
+9,325804,Sheikhupura Stadium,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",0,12,14,2,0
+10,325804,Sheikhupura Stadium,Zimbabwe,RW Price,Left-arm orthodox,"[1, 0, 1]",1,4,24,0,0

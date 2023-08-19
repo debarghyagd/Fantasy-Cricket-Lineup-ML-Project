@@ -1,0 +1,6 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1322035,"Titwood, Glasgow",Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",0,2,15,0,0
+1,1322035,"Titwood, Glasgow",Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",1,8,10,1,0
+2,1308248,Dubai International Cricket Stadium,Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,1,5,0,0
+3,1308248,Dubai International Cricket Stadium,Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",1,4,8,1,0
+4,1322036,"Mannofield Park, Aberdeen",United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",0,1,5,0,0

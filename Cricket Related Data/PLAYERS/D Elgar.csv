@@ -1,0 +1,21 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,534229,The Rose Bowl,England,GP Swann,Right-arm offbreak,"[1, 1, 0]",1,6,12,0,0
+1,534229,The Rose Bowl,England,RS Bopara,Right-arm medium,"[0, 1, 2]",0,6,13,1,0
+2,534230,Kennington Oval,England,RS Bopara,Right-arm medium,"[0, 1, 2]",0,13,21,0,0
+3,534230,Kennington Oval,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+4,534230,Kennington Oval,England,JC Tredwell,Right-arm offbreak,"[1, 1, 0]",0,18,18,1,0
+5,534230,Kennington Oval,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+6,534230,Kennington Oval,England,JW Dernbach,Right-arm fast-medium,"[0, 1, 1]",1,7,12,1,0
+7,534231,Lord's,England,SR Patel,Left-arm orthodox,"[1, 0, 1]",0,12,17,0,0
+8,534231,Lord's,England,RS Bopara,Right-arm medium,"[0, 1, 2]",0,6,10,0,0
+9,534231,Lord's,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",1,2,11,0,0
+10,534231,Lord's,England,JC Tredwell,Right-arm offbreak,"[1, 1, 0]",0,6,13,0,0
+11,534231,Lord's,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,6,3,1,0
+12,534231,Lord's,England,JW Dernbach,Right-arm fast-medium,"[0, 1, 1]",0,3,7,0,0
+13,534232,Trent Bridge,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,0,7,0,0
+14,534232,Trent Bridge,England,JW Dernbach,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+15,903601,Wankhede Stadium,India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",0,5,2,1,0
+16,1144147,Mangaung Oval,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,4,7,1,0
+17,1144147,Mangaung Oval,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+18,1144146,Diamond Oval,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,1,5,0,0
+19,1144146,Diamond Oval,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",1,1,6,0,0

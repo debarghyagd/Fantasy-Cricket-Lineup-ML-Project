@@ -1,0 +1,9 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,486520,Shere Bangla National Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,3,3,0,0
+1,486522,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,0,2,0,0
+2,520592,University Oval,New Zealand,AM Ellis,Right-arm fast-medium,"[0, 1, 1]",0,2,9,0,0
+3,520592,University Oval,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+4,520592,University Oval,New Zealand,DAJ Bracewell,Right-arm fast-medium,"[0, 1, 1]",0,5,9,1,0
+5,239913,"Queen's Park Oval, Port of Spain",West Indies,DR Smith,Right-arm medium,"[0, 1, 2]",0,6,12,1,0
+6,239913,"Queen's Park Oval, Port of Spain",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",1,2,9,0,0
+7,527015,Harare Sports Club,New Zealand,DAJ Bracewell,Right-arm fast-medium,"[0, 1, 1]",0,11,8,2,0

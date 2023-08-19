@@ -1,0 +1,302 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Mohammad Hafeez,Ahmed Shehzad,MJ Henry,1,0,null,1,0,null,null
+1,0.2,Ahmed Shehzad,Mohammad Hafeez,MJ Henry,0,0,null,0,0,null,null
+2,0.3,Ahmed Shehzad,Mohammad Hafeez,MJ Henry,0,0,null,0,0,null,null
+3,0.4,Ahmed Shehzad,Mohammad Hafeez,MJ Henry,0,0,null,0,0,null,null
+4,0.5,Ahmed Shehzad,Mohammad Hafeez,MJ Henry,0,0,null,0,0,null,null
+5,0.6,Ahmed Shehzad,Mohammad Hafeez,MJ Henry,0,0,null,0,1,Ahmed Shehzad,caught
+6,1.1,Mohammad Hafeez,Younis Khan,MJ McClenaghan,1,0,null,1,0,null,null
+7,1.2,Younis Khan,Mohammad Hafeez,MJ McClenaghan,0,1,noballs ,1,0,null,null
+8,1.3,Younis Khan,Mohammad Hafeez,MJ McClenaghan,2,0,null,2,0,null,null
+9,1.4,Younis Khan,Mohammad Hafeez,MJ McClenaghan,0,1,wides ,1,0,null,null
+10,1.5,Younis Khan,Mohammad Hafeez,MJ McClenaghan,4,0,null,4,0,null,null
+11,1.6,Younis Khan,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+12,1.7,Younis Khan,Mohammad Hafeez,MJ McClenaghan,0,1,wides ,1,0,null,null
+13,1.8,Younis Khan,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+14,1.9,Younis Khan,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,1,Younis Khan,caught
+15,2.1,Mohammad Hafeez,Asad Shafiq,MJ Henry,0,0,null,0,0,null,null
+16,2.2,Mohammad Hafeez,Asad Shafiq,MJ Henry,0,0,null,0,0,null,null
+17,2.3,Mohammad Hafeez,Asad Shafiq,MJ Henry,0,0,null,0,0,null,null
+18,2.4,Mohammad Hafeez,Asad Shafiq,MJ Henry,0,0,null,0,0,null,null
+19,2.5,Mohammad Hafeez,Asad Shafiq,MJ Henry,0,0,null,0,0,null,null
+20,2.6,Mohammad Hafeez,Asad Shafiq,MJ Henry,4,0,null,4,0,null,null
+21,3.1,Asad Shafiq,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+22,3.2,Asad Shafiq,Mohammad Hafeez,MJ McClenaghan,1,0,null,1,0,null,null
+23,3.3,Mohammad Hafeez,Asad Shafiq,MJ McClenaghan,0,0,null,0,0,null,null
+24,3.4,Mohammad Hafeez,Asad Shafiq,MJ McClenaghan,0,0,null,0,0,null,null
+25,3.5,Mohammad Hafeez,Asad Shafiq,MJ McClenaghan,0,0,null,0,0,null,null
+26,3.6,Mohammad Hafeez,Asad Shafiq,MJ McClenaghan,4,0,null,4,0,null,null
+27,4.1,Asad Shafiq,Mohammad Hafeez,MJ Henry,0,0,null,0,0,null,null
+28,4.2,Asad Shafiq,Mohammad Hafeez,MJ Henry,0,0,null,0,0,null,null
+29,4.3,Asad Shafiq,Mohammad Hafeez,MJ Henry,0,0,null,0,1,Asad Shafiq,bowled
+30,4.4,Haris Sohail,Mohammad Hafeez,MJ Henry,1,0,null,1,0,null,null
+31,4.5,Mohammad Hafeez,Haris Sohail,MJ Henry,0,0,null,0,0,null,null
+32,4.6,Mohammad Hafeez,Haris Sohail,MJ Henry,0,0,null,0,0,null,null
+33,5.1,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+34,5.2,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,1,0,null,1,0,null,null
+35,5.3,Mohammad Hafeez,Haris Sohail,MJ McClenaghan,4,0,null,4,0,null,null
+36,5.4,Mohammad Hafeez,Haris Sohail,MJ McClenaghan,0,1,wides ,1,0,null,null
+37,5.5,Mohammad Hafeez,Haris Sohail,MJ McClenaghan,1,0,null,1,0,null,null
+38,5.6,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+39,5.7,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+40,6.1,Mohammad Hafeez,Haris Sohail,MJ Henry,0,1,legbyes ,1,0,null,null
+41,6.2,Haris Sohail,Mohammad Hafeez,MJ Henry,1,0,null,1,0,null,null
+42,6.3,Mohammad Hafeez,Haris Sohail,MJ Henry,4,0,null,4,0,null,null
+43,6.4,Mohammad Hafeez,Haris Sohail,MJ Henry,0,0,null,0,0,null,null
+44,6.5,Mohammad Hafeez,Haris Sohail,MJ Henry,2,0,null,2,0,null,null
+45,6.6,Mohammad Hafeez,Haris Sohail,MJ Henry,0,0,null,0,0,null,null
+46,7.1,Haris Sohail,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+47,7.2,Haris Sohail,Mohammad Hafeez,AF Milne,4,0,null,4,0,null,null
+48,7.3,Haris Sohail,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+49,7.4,Haris Sohail,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+50,7.5,Haris Sohail,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+51,7.6,Haris Sohail,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+52,8.1,Mohammad Hafeez,Haris Sohail,MJ Henry,0,0,null,0,0,null,null
+53,8.2,Mohammad Hafeez,Haris Sohail,MJ Henry,0,0,null,0,0,null,null
+54,8.3,Mohammad Hafeez,Haris Sohail,MJ Henry,1,0,null,1,0,null,null
+55,8.4,Haris Sohail,Mohammad Hafeez,MJ Henry,0,0,null,0,0,null,null
+56,8.5,Haris Sohail,Mohammad Hafeez,MJ Henry,0,0,null,0,0,null,null
+57,8.6,Haris Sohail,Mohammad Hafeez,MJ Henry,1,0,null,1,0,null,null
+58,9.1,Haris Sohail,Mohammad Hafeez,AF Milne,1,0,null,1,0,null,null
+59,9.2,Mohammad Hafeez,Haris Sohail,AF Milne,2,0,null,2,0,null,null
+60,9.3,Mohammad Hafeez,Haris Sohail,AF Milne,1,0,null,1,0,null,null
+61,9.4,Haris Sohail,Mohammad Hafeez,AF Milne,1,0,null,1,0,null,null
+62,9.5,Mohammad Hafeez,Haris Sohail,AF Milne,0,0,null,0,0,null,null
+63,9.6,Mohammad Hafeez,Haris Sohail,AF Milne,0,0,null,0,0,null,null
+64,10.1,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,4,0,null,4,0,null,null
+65,10.2,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+66,10.3,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+67,10.4,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+68,10.5,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,3,0,null,3,0,null,null
+69,10.6,Mohammad Hafeez,Haris Sohail,MJ McClenaghan,1,0,null,1,0,null,null
+70,11.1,Mohammad Hafeez,Haris Sohail,DL Vettori,4,0,null,4,0,null,null
+71,11.2,Mohammad Hafeez,Haris Sohail,DL Vettori,0,0,null,0,0,null,null
+72,11.3,Mohammad Hafeez,Haris Sohail,DL Vettori,0,0,null,0,0,null,null
+73,11.4,Mohammad Hafeez,Haris Sohail,DL Vettori,0,0,null,0,0,null,null
+74,11.5,Mohammad Hafeez,Haris Sohail,DL Vettori,1,0,null,1,0,null,null
+75,11.6,Haris Sohail,Mohammad Hafeez,DL Vettori,1,0,null,1,0,null,null
+76,12.1,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+77,12.2,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+78,12.3,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+79,12.4,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,0,0,null,0,0,null,null
+80,12.5,Haris Sohail,Mohammad Hafeez,MJ McClenaghan,1,0,null,1,0,null,null
+81,12.6,Mohammad Hafeez,Haris Sohail,MJ McClenaghan,0,0,null,0,0,null,null
+82,13.1,Haris Sohail,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+83,13.2,Haris Sohail,Mohammad Hafeez,DL Vettori,1,0,null,1,0,null,null
+84,13.3,Mohammad Hafeez,Haris Sohail,DL Vettori,0,0,null,0,0,null,null
+85,13.4,Mohammad Hafeez,Haris Sohail,DL Vettori,0,0,null,0,0,null,null
+86,13.5,Mohammad Hafeez,Haris Sohail,DL Vettori,0,0,null,0,0,null,null
+87,13.6,Mohammad Hafeez,Haris Sohail,DL Vettori,0,0,null,0,0,null,null
+88,14.1,Haris Sohail,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+89,14.2,Haris Sohail,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+90,14.3,Haris Sohail,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+91,14.4,Haris Sohail,Mohammad Hafeez,AF Milne,1,0,null,1,0,null,null
+92,14.5,Mohammad Hafeez,Haris Sohail,AF Milne,0,0,null,0,0,null,null
+93,14.6,Mohammad Hafeez,Haris Sohail,AF Milne,1,0,null,1,0,null,null
+94,15.1,Mohammad Hafeez,Haris Sohail,DL Vettori,0,0,null,0,0,null,null
+95,15.2,Mohammad Hafeez,Haris Sohail,DL Vettori,0,0,null,0,0,null,null
+96,15.3,Mohammad Hafeez,Haris Sohail,DL Vettori,0,0,null,0,0,null,null
+97,15.4,Mohammad Hafeez,Haris Sohail,DL Vettori,4,0,null,4,0,null,null
+98,15.5,Mohammad Hafeez,Haris Sohail,DL Vettori,6,0,null,6,0,null,null
+99,15.6,Mohammad Hafeez,Haris Sohail,DL Vettori,1,0,null,1,0,null,null
+100,16.1,Mohammad Hafeez,Haris Sohail,AF Milne,0,0,null,0,0,null,null
+101,16.2,Mohammad Hafeez,Haris Sohail,AF Milne,1,0,null,1,0,null,null
+102,16.3,Haris Sohail,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+103,16.4,Haris Sohail,Mohammad Hafeez,AF Milne,1,0,null,1,0,null,null
+104,16.5,Mohammad Hafeez,Haris Sohail,AF Milne,0,0,null,0,0,null,null
+105,16.6,Mohammad Hafeez,Haris Sohail,AF Milne,1,0,null,1,0,null,null
+106,17.1,Mohammad Hafeez,Haris Sohail,AP Devcich,0,0,null,0,0,null,null
+107,17.2,Mohammad Hafeez,Haris Sohail,AP Devcich,0,0,null,0,0,null,null
+108,17.3,Mohammad Hafeez,Haris Sohail,AP Devcich,0,0,null,0,0,null,null
+109,17.4,Mohammad Hafeez,Haris Sohail,AP Devcich,4,0,null,4,0,null,null
+110,17.5,Mohammad Hafeez,Haris Sohail,AP Devcich,0,0,null,0,0,null,null
+111,17.6,Mohammad Hafeez,Haris Sohail,AP Devcich,0,0,null,0,0,null,null
+112,18.1,Haris Sohail,Mohammad Hafeez,CJ Anderson,1,0,null,1,0,null,null
+113,18.2,Mohammad Hafeez,Haris Sohail,CJ Anderson,0,0,null,0,0,null,null
+114,18.3,Mohammad Hafeez,Haris Sohail,CJ Anderson,1,0,null,1,0,null,null
+115,18.4,Haris Sohail,Mohammad Hafeez,CJ Anderson,1,0,null,1,0,null,null
+116,18.5,Mohammad Hafeez,Haris Sohail,CJ Anderson,1,0,null,1,0,null,null
+117,18.6,Haris Sohail,Mohammad Hafeez,CJ Anderson,0,0,null,0,0,null,null
+118,19.1,Mohammad Hafeez,Haris Sohail,AP Devcich,1,0,null,1,0,null,null
+119,19.2,Haris Sohail,Mohammad Hafeez,AP Devcich,0,0,null,0,0,null,null
+120,19.3,Haris Sohail,Mohammad Hafeez,AP Devcich,6,0,null,6,0,null,null
+121,19.4,Haris Sohail,Mohammad Hafeez,AP Devcich,2,0,null,2,0,null,null
+122,19.5,Haris Sohail,Mohammad Hafeez,AP Devcich,0,0,null,0,0,null,null
+123,19.6,Haris Sohail,Mohammad Hafeez,AP Devcich,1,0,null,1,0,null,null
+124,20.1,Haris Sohail,Mohammad Hafeez,CJ Anderson,0,0,null,0,1,Haris Sohail,caught
+125,20.2,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,0,0,null,0,0,null,null
+126,20.3,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,0,0,null,0,0,null,null
+127,20.4,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,1,0,null,1,0,null,null
+128,20.5,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,0,0,null,0,0,null,null
+129,20.6,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,0,0,null,0,0,null,null
+130,21.1,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+131,21.2,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+132,21.3,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+133,21.4,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+134,21.5,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+135,21.6,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,1,0,null,1,0,null,null
+136,22.1,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,4,0,null,4,0,null,null
+137,22.2,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,4,0,null,4,0,null,null
+138,22.3,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+139,22.4,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+140,22.5,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+141,22.6,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,1,0,null,1,0,null,null
+142,23.1,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+143,23.2,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+144,23.3,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,1,0,null,1,0,null,null
+145,23.4,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,0,0,null,0,0,null,null
+146,23.5,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,1,0,null,1,0,null,null
+147,23.6,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+148,24.1,Mohammad Hafeez,Misbah-ul-Haq,AF Milne,1,0,null,1,0,null,null
+149,24.2,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,0,1,wides ,1,0,null,null
+150,24.3,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,1,0,null,1,0,null,null
+151,24.4,Mohammad Hafeez,Misbah-ul-Haq,AF Milne,1,0,null,1,0,null,null
+152,24.5,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+153,24.6,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,1,0,null,1,0,null,null
+154,24.7,Mohammad Hafeez,Misbah-ul-Haq,AF Milne,1,0,null,1,0,null,null
+155,25.1,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,1,0,null,1,0,null,null
+156,25.2,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+157,25.3,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,1,0,null,1,0,null,null
+158,25.4,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,1,0,null,1,0,null,null
+159,25.5,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+160,25.6,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,1,0,null,1,0,null,null
+161,26.1,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,1,0,null,1,0,null,null
+162,26.2,Mohammad Hafeez,Misbah-ul-Haq,AF Milne,0,0,null,0,0,null,null
+163,26.3,Mohammad Hafeez,Misbah-ul-Haq,AF Milne,0,0,null,0,0,null,null
+164,26.4,Mohammad Hafeez,Misbah-ul-Haq,AF Milne,0,0,null,0,0,null,null
+165,26.5,Mohammad Hafeez,Misbah-ul-Haq,AF Milne,1,0,null,1,0,null,null
+166,26.6,Misbah-ul-Haq,Mohammad Hafeez,AF Milne,0,0,null,0,0,null,null
+167,27.1,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,1,0,null,1,0,null,null
+168,27.2,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,0,0,null,0,0,null,null
+169,27.3,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,0,0,null,0,0,null,null
+170,27.4,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,0,0,null,0,0,null,null
+171,27.5,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,0,0,null,0,0,null,null
+172,27.6,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,0,0,null,0,0,null,null
+173,28.1,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,1,0,null,1,0,null,null
+174,28.2,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,1,0,null,1,0,null,null
+175,28.3,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,1,0,null,1,0,null,null
+176,28.4,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+177,28.5,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,2,0,null,2,0,null,null
+178,28.6,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,1,0,null,1,0,null,null
+179,29.1,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,1,0,null,1,0,null,null
+180,29.2,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,0,0,null,0,0,null,null
+181,29.3,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,1,0,null,1,0,null,null
+182,29.4,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,1,0,null,1,0,null,null
+183,29.5,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,4,0,null,4,0,null,null
+184,29.6,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,0,0,null,0,0,null,null
+185,30.1,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,1,0,null,1,0,null,null
+186,30.2,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,0,0,null,0,0,null,null
+187,30.3,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,1,0,null,1,0,null,null
+188,30.4,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+189,30.5,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+190,30.6,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,1,0,null,1,0,null,null
+191,31.1,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,0,0,null,0,0,null,null
+192,31.2,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,1,0,null,1,0,null,null
+193,31.3,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,0,0,null,0,0,null,null
+194,31.4,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,1,0,null,1,0,null,null
+195,31.5,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,1,0,null,1,0,null,null
+196,31.6,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,1,0,null,1,0,null,null
+197,32.1,Mohammad Hafeez,Misbah-ul-Haq,DL Vettori,1,0,null,1,0,null,null
+198,32.2,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+199,32.3,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,6,0,null,6,0,null,null
+200,32.4,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+201,32.5,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,0,0,null,0,0,null,null
+202,32.6,Misbah-ul-Haq,Mohammad Hafeez,DL Vettori,2,0,null,2,0,null,null
+203,33.1,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,0,0,null,0,0,null,null
+204,33.2,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,4,0,null,4,0,null,null
+205,33.3,Mohammad Hafeez,Misbah-ul-Haq,CJ Anderson,1,0,null,1,0,null,null
+206,33.4,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,0,0,null,0,0,null,null
+207,33.5,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,6,0,null,6,0,null,null
+208,33.6,Misbah-ul-Haq,Mohammad Hafeez,CJ Anderson,0,0,null,0,0,null,null
+209,34.1,Mohammad Hafeez,Misbah-ul-Haq,MJ Henry,0,0,null,0,0,null,null
+210,34.2,Mohammad Hafeez,Misbah-ul-Haq,MJ Henry,0,0,null,0,1,Mohammad Hafeez,caught
+211,34.3,Sarfraz Ahmed,Misbah-ul-Haq,MJ Henry,1,0,null,1,0,null,null
+212,34.4,Misbah-ul-Haq,Sarfraz Ahmed,MJ Henry,0,0,null,0,0,null,null
+213,34.5,Misbah-ul-Haq,Sarfraz Ahmed,MJ Henry,0,0,null,0,0,null,null
+214,34.6,Misbah-ul-Haq,Sarfraz Ahmed,MJ Henry,1,0,null,1,0,null,null
+215,35.1,Misbah-ul-Haq,Sarfraz Ahmed,MJ McClenaghan,1,0,null,1,0,null,null
+216,35.2,Sarfraz Ahmed,Misbah-ul-Haq,MJ McClenaghan,1,0,null,1,0,null,null
+217,35.3,Misbah-ul-Haq,Sarfraz Ahmed,MJ McClenaghan,0,0,null,0,0,null,null
+218,35.4,Misbah-ul-Haq,Sarfraz Ahmed,MJ McClenaghan,0,0,null,0,0,null,null
+219,35.5,Misbah-ul-Haq,Sarfraz Ahmed,MJ McClenaghan,2,0,null,2,0,null,null
+220,35.6,Misbah-ul-Haq,Sarfraz Ahmed,MJ McClenaghan,1,0,null,1,0,null,null
+221,36.1,Misbah-ul-Haq,Sarfraz Ahmed,MJ Henry,1,0,null,1,0,null,null
+222,36.2,Sarfraz Ahmed,Misbah-ul-Haq,MJ Henry,0,0,null,0,0,null,null
+223,36.3,Sarfraz Ahmed,Misbah-ul-Haq,MJ Henry,1,0,null,1,0,null,null
+224,36.4,Misbah-ul-Haq,Sarfraz Ahmed,MJ Henry,0,0,null,0,0,null,null
+225,36.5,Misbah-ul-Haq,Sarfraz Ahmed,MJ Henry,0,0,null,0,1,Misbah-ul-Haq,caught
+226,36.6,Shahid Afridi,Sarfraz Ahmed,MJ Henry,1,0,null,1,0,null,null
+227,37.1,Shahid Afridi,Sarfraz Ahmed,MJ McClenaghan,0,0,null,0,0,null,null
+228,37.2,Shahid Afridi,Sarfraz Ahmed,MJ McClenaghan,0,1,wides ,1,0,null,null
+229,37.3,Shahid Afridi,Sarfraz Ahmed,MJ McClenaghan,1,0,null,1,0,null,null
+230,37.4,Sarfraz Ahmed,Shahid Afridi,MJ McClenaghan,0,0,null,0,0,null,null
+231,37.5,Sarfraz Ahmed,Shahid Afridi,MJ McClenaghan,1,0,null,1,0,null,null
+232,37.6,Shahid Afridi,Sarfraz Ahmed,MJ McClenaghan,1,0,null,1,0,null,null
+233,37.7,Sarfraz Ahmed,Shahid Afridi,MJ McClenaghan,1,0,null,1,0,null,null
+234,38.1,Sarfraz Ahmed,Shahid Afridi,MJ Henry,0,1,wides ,1,0,null,null
+235,38.2,Sarfraz Ahmed,Shahid Afridi,MJ Henry,2,0,null,2,0,null,null
+236,38.3,Sarfraz Ahmed,Shahid Afridi,MJ Henry,0,0,null,0,0,null,null
+237,38.4,Sarfraz Ahmed,Shahid Afridi,MJ Henry,1,0,null,1,0,null,null
+238,38.5,Shahid Afridi,Sarfraz Ahmed,MJ Henry,6,0,null,6,0,null,null
+239,38.6,Shahid Afridi,Sarfraz Ahmed,MJ Henry,0,0,null,0,0,null,null
+240,38.7,Shahid Afridi,Sarfraz Ahmed,MJ Henry,4,0,null,4,0,null,null
+241,39.1,Sarfraz Ahmed,Shahid Afridi,MJ McClenaghan,1,0,null,1,0,null,null
+242,39.2,Shahid Afridi,Sarfraz Ahmed,MJ McClenaghan,0,0,null,0,0,null,null
+243,39.3,Shahid Afridi,Sarfraz Ahmed,MJ McClenaghan,1,0,null,1,0,null,null
+244,39.4,Sarfraz Ahmed,Shahid Afridi,MJ McClenaghan,1,0,null,1,0,null,null
+245,39.5,Shahid Afridi,Sarfraz Ahmed,MJ McClenaghan,0,0,null,0,0,null,null
+246,39.6,Shahid Afridi,Sarfraz Ahmed,MJ McClenaghan,0,1,wides ,1,0,null,null
+247,39.7,Shahid Afridi,Sarfraz Ahmed,MJ McClenaghan,1,0,null,1,0,null,null
+248,40.1,Shahid Afridi,Sarfraz Ahmed,AF Milne,6,0,null,6,0,null,null
+249,40.2,Shahid Afridi,Sarfraz Ahmed,AF Milne,6,0,null,6,0,null,null
+250,40.3,Shahid Afridi,Sarfraz Ahmed,AF Milne,0,0,null,0,1,Shahid Afridi,caught
+251,40.4,Wahab Riaz,Sarfraz Ahmed,AF Milne,0,0,null,0,0,null,null
+252,40.5,Wahab Riaz,Sarfraz Ahmed,AF Milne,0,0,null,0,0,null,null
+253,40.6,Wahab Riaz,Sarfraz Ahmed,AF Milne,1,0,null,1,0,null,null
+254,41.1,Wahab Riaz,Sarfraz Ahmed,DL Vettori,0,0,null,0,0,null,null
+255,41.2,Wahab Riaz,Sarfraz Ahmed,DL Vettori,1,0,null,1,0,null,null
+256,41.3,Sarfraz Ahmed,Wahab Riaz,DL Vettori,1,0,null,1,0,null,null
+257,41.4,Wahab Riaz,Sarfraz Ahmed,DL Vettori,1,0,null,1,0,null,null
+258,41.5,Sarfraz Ahmed,Wahab Riaz,DL Vettori,1,0,null,1,0,null,null
+259,41.6,Wahab Riaz,Sarfraz Ahmed,DL Vettori,1,0,null,1,0,null,null
+260,42.1,Wahab Riaz,Sarfraz Ahmed,AF Milne,1,0,null,1,0,null,null
+261,42.2,Sarfraz Ahmed,Wahab Riaz,AF Milne,1,0,null,1,0,null,null
+262,42.3,Wahab Riaz,Sarfraz Ahmed,AF Milne,0,0,null,0,0,null,null
+263,42.4,Wahab Riaz,Sarfraz Ahmed,AF Milne,0,0,null,0,0,null,null
+264,42.5,Wahab Riaz,Sarfraz Ahmed,AF Milne,0,0,null,0,0,null,null
+265,42.6,Wahab Riaz,Sarfraz Ahmed,AF Milne,1,0,null,1,0,null,null
+266,43.1,Wahab Riaz,Sarfraz Ahmed,MJ Henry,1,0,null,1,0,null,null
+267,43.2,Sarfraz Ahmed,Wahab Riaz,MJ Henry,0,1,wides ,1,0,null,null
+268,43.3,Sarfraz Ahmed,Wahab Riaz,MJ Henry,1,0,null,1,0,null,null
+269,43.4,Wahab Riaz,Sarfraz Ahmed,MJ Henry,1,0,null,1,0,null,null
+270,43.5,Sarfraz Ahmed,Wahab Riaz,MJ Henry,0,1,wides ,1,0,null,null
+271,43.6,Sarfraz Ahmed,Wahab Riaz,MJ Henry,0,0,null,0,0,null,null
+272,43.7,Sarfraz Ahmed,Wahab Riaz,MJ Henry,1,0,null,1,0,null,null
+273,43.8,Wahab Riaz,Sarfraz Ahmed,MJ Henry,1,0,null,1,0,null,null
+274,44.1,Wahab Riaz,Sarfraz Ahmed,AF Milne,4,0,null,4,0,null,null
+275,44.2,Wahab Riaz,Sarfraz Ahmed,AF Milne,0,0,null,0,0,null,null
+276,44.3,Wahab Riaz,Sarfraz Ahmed,AF Milne,1,0,null,1,0,null,null
+277,44.4,Sarfraz Ahmed,Wahab Riaz,AF Milne,0,0,null,0,0,null,null
+278,44.5,Sarfraz Ahmed,Wahab Riaz,AF Milne,1,0,null,1,0,null,null
+279,44.6,Wahab Riaz,Sarfraz Ahmed,AF Milne,0,0,null,0,1,Wahab Riaz,caught
+280,45.1,Sarfraz Ahmed,Sohail Tanvir,MJ Henry,0,0,null,0,0,null,null
+281,45.2,Sarfraz Ahmed,Sohail Tanvir,MJ Henry,1,0,null,1,0,null,null
+282,45.3,Sohail Tanvir,Sarfraz Ahmed,MJ Henry,1,0,null,1,0,null,null
+283,45.4,Sarfraz Ahmed,Sohail Tanvir,MJ Henry,0,0,null,0,0,null,null
+284,45.5,Sarfraz Ahmed,Sohail Tanvir,MJ Henry,1,0,null,1,0,null,null
+285,45.6,Sohail Tanvir,Sarfraz Ahmed,MJ Henry,1,0,null,1,0,null,null
+286,46.1,Sohail Tanvir,Sarfraz Ahmed,MJ McClenaghan,1,0,null,1,0,null,null
+287,46.2,Sarfraz Ahmed,Sohail Tanvir,MJ McClenaghan,1,0,null,1,0,null,null
+288,46.3,Sohail Tanvir,Sarfraz Ahmed,MJ McClenaghan,1,0,null,1,0,null,null
+289,46.4,Sarfraz Ahmed,Sohail Tanvir,MJ McClenaghan,1,0,null,1,0,null,null
+290,46.5,Sohail Tanvir,Sarfraz Ahmed,MJ McClenaghan,1,0,null,1,0,null,null
+291,46.6,Sarfraz Ahmed,Sohail Tanvir,MJ McClenaghan,1,0,null,1,0,null,null
+292,47.1,Sarfraz Ahmed,Sohail Tanvir,CJ Anderson,0,0,null,0,0,null,null
+293,47.2,Sarfraz Ahmed,Sohail Tanvir,CJ Anderson,1,0,null,1,0,null,null
+294,47.3,Sohail Tanvir,Sarfraz Ahmed,CJ Anderson,0,0,null,0,0,null,null
+295,47.4,Sohail Tanvir,Sarfraz Ahmed,CJ Anderson,1,0,null,1,0,null,null
+296,47.5,Sarfraz Ahmed,Sohail Tanvir,CJ Anderson,1,0,null,1,0,null,null
+297,47.6,Sohail Tanvir,Sarfraz Ahmed,CJ Anderson,4,0,null,4,0,null,null
+298,48.1,Sarfraz Ahmed,Sohail Tanvir,MJ McClenaghan,0,0,null,0,1,Sarfraz Ahmed,caught
+299,48.2,Sohail Tanvir,Mohammad Irfan,MJ McClenaghan,4,0,null,4,0,null,null
+300,48.3,Sohail Tanvir,Mohammad Irfan,MJ McClenaghan,0,0,null,0,1,Sohail Tanvir,lbw

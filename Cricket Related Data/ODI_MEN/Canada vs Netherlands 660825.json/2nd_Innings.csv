@@ -1,0 +1,65 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,H Patel,R Gunasekera,T van der Gugten,0,0,null,0,0,null,null
+1,0.2,H Patel,R Gunasekera,T van der Gugten,0,0,null,0,0,null,null
+2,0.3,H Patel,R Gunasekera,T van der Gugten,1,0,null,1,0,null,null
+3,0.4,R Gunasekera,H Patel,T van der Gugten,0,0,null,0,0,null,null
+4,0.5,R Gunasekera,H Patel,T van der Gugten,0,1,wides ,1,0,null,null
+5,0.6,R Gunasekera,H Patel,T van der Gugten,0,1,wides ,1,0,null,null
+6,0.7,R Gunasekera,H Patel,T van der Gugten,0,0,null,0,0,null,null
+7,0.8,R Gunasekera,H Patel,T van der Gugten,0,0,null,0,1,R Gunasekera,caught
+8,1.1,H Patel,NR Kumar,Mudassar Bukhari,0,0,null,0,0,null,null
+9,1.2,H Patel,NR Kumar,Mudassar Bukhari,0,0,null,0,0,null,null
+10,1.3,H Patel,NR Kumar,Mudassar Bukhari,1,0,null,1,0,null,null
+11,1.4,NR Kumar,H Patel,Mudassar Bukhari,0,0,null,0,0,null,null
+12,1.5,NR Kumar,H Patel,Mudassar Bukhari,1,0,null,1,0,null,null
+13,1.6,H Patel,NR Kumar,Mudassar Bukhari,4,0,null,4,0,null,null
+14,2.1,NR Kumar,H Patel,T van der Gugten,0,0,null,0,0,null,null
+15,2.2,NR Kumar,H Patel,T van der Gugten,1,0,null,1,0,null,null
+16,2.3,H Patel,NR Kumar,T van der Gugten,0,0,null,0,0,null,null
+17,2.4,H Patel,NR Kumar,T van der Gugten,2,0,null,2,0,null,null
+18,2.5,H Patel,NR Kumar,T van der Gugten,4,0,null,4,0,null,null
+19,2.6,H Patel,NR Kumar,T van der Gugten,0,0,null,0,0,null,null
+20,3.1,NR Kumar,H Patel,Mudassar Bukhari,0,0,null,0,0,null,null
+21,3.2,NR Kumar,H Patel,Mudassar Bukhari,1,0,null,1,0,null,null
+22,3.3,H Patel,NR Kumar,Mudassar Bukhari,0,1,wides ,1,0,null,null
+23,3.4,H Patel,NR Kumar,Mudassar Bukhari,0,0,null,0,0,null,null
+24,3.5,H Patel,NR Kumar,Mudassar Bukhari,0,0,null,0,0,null,null
+25,3.6,H Patel,NR Kumar,Mudassar Bukhari,6,0,null,6,0,null,null
+26,3.7,H Patel,NR Kumar,Mudassar Bukhari,4,0,null,4,0,null,null
+27,4.1,NR Kumar,H Patel,MR Swart,0,0,null,0,0,null,null
+28,4.2,NR Kumar,H Patel,MR Swart,1,0,null,1,0,null,null
+29,4.3,H Patel,NR Kumar,MR Swart,0,0,null,0,0,null,null
+30,4.4,H Patel,NR Kumar,MR Swart,0,0,null,0,0,null,null
+31,4.5,H Patel,NR Kumar,MR Swart,1,0,null,1,0,null,null
+32,4.6,NR Kumar,H Patel,MR Swart,0,0,null,0,0,null,null
+33,5.1,H Patel,NR Kumar,E Schiferli,0,0,null,0,0,null,null
+34,5.2,H Patel,NR Kumar,E Schiferli,1,0,null,1,0,null,null
+35,5.3,NR Kumar,H Patel,E Schiferli,2,0,null,2,0,null,null
+36,5.4,NR Kumar,H Patel,E Schiferli,2,0,null,2,0,null,null
+37,5.5,NR Kumar,H Patel,E Schiferli,2,0,null,2,0,null,null
+38,5.6,NR Kumar,H Patel,E Schiferli,0,0,null,0,0,null,null
+39,6.1,H Patel,NR Kumar,PW Borren,0,5,wides ,5,0,null,null
+40,6.2,H Patel,NR Kumar,PW Borren,0,0,null,0,0,null,null
+41,6.3,H Patel,NR Kumar,PW Borren,2,0,null,2,0,null,null
+42,6.4,H Patel,NR Kumar,PW Borren,2,0,null,2,0,null,null
+43,6.5,H Patel,NR Kumar,PW Borren,0,0,null,0,0,null,null
+44,6.6,H Patel,NR Kumar,PW Borren,0,0,null,0,0,null,null
+45,6.7,H Patel,NR Kumar,PW Borren,1,0,null,1,0,null,null
+46,7.1,H Patel,NR Kumar,MR Swart,0,0,null,0,0,null,null
+47,7.2,H Patel,NR Kumar,MR Swart,0,0,null,0,0,null,null
+48,7.3,H Patel,NR Kumar,MR Swart,0,0,null,0,0,null,null
+49,7.4,H Patel,NR Kumar,MR Swart,1,0,null,1,0,null,null
+50,7.5,NR Kumar,H Patel,MR Swart,2,0,null,2,0,null,null
+51,7.6,NR Kumar,H Patel,MR Swart,1,0,null,1,0,null,null
+52,8.1,NR Kumar,H Patel,E Schiferli,1,0,null,1,0,null,null
+53,8.2,H Patel,NR Kumar,E Schiferli,2,0,null,2,0,null,null
+54,8.3,H Patel,NR Kumar,E Schiferli,1,0,null,1,0,null,null
+55,8.4,NR Kumar,H Patel,E Schiferli,0,0,null,0,0,null,null
+56,8.5,NR Kumar,H Patel,E Schiferli,0,0,null,0,0,null,null
+57,8.6,NR Kumar,H Patel,E Schiferli,1,0,null,1,0,null,null
+58,9.1,NR Kumar,H Patel,MR Swart,2,0,null,2,0,null,null
+59,9.2,NR Kumar,H Patel,MR Swart,1,0,null,1,0,null,null
+60,9.3,H Patel,NR Kumar,MR Swart,0,0,null,0,0,null,null
+61,9.4,H Patel,NR Kumar,MR Swart,1,0,null,1,0,null,null
+62,9.5,NR Kumar,H Patel,MR Swart,1,0,null,1,0,null,null
+63,9.6,H Patel,NR Kumar,MR Swart,0,1,legbyes ,1,0,null,null

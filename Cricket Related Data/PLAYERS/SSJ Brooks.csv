@@ -1,0 +1,55 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1278677,"Narendra Modi Stadium, Ahmedabad",India,DJ Hooda,Right-arm offbreak,"[1, 1, 0]",1,1,2,0,0
+1,1278677,"Narendra Modi Stadium, Ahmedabad",India,Washington Sundar,Right-arm offbreak,"[1, 1, 0]",0,19,16,1,1
+2,1278677,"Narendra Modi Stadium, Ahmedabad",India,Mohammed Siraj,Right-arm fast-medium,"[0, 1, 1]",0,4,3,1,0
+3,1278677,"Narendra Modi Stadium, Ahmedabad",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,15,21,0,1
+4,1278677,"Narendra Modi Stadium, Ahmedabad",India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",0,4,8,0,0
+5,1278678,"Narendra Modi Stadium, Ahmedabad",India,DL Chahar,Right-arm medium,"[0, 1, 2]",1,0,3,0,0
+6,1317900,"Queen's Park Oval, Port of Spain, Trinidad",India,DJ Hooda,Right-arm offbreak,"[1, 1, 0]",0,11,21,1,0
+7,1317900,"Queen's Park Oval, Port of Spain, Trinidad",India,Mohammed Siraj,Right-arm fast-medium,"[0, 1, 1]",0,7,11,1,0
+8,1317900,"Queen's Park Oval, Port of Spain, Trinidad",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,3,10,0,0
+9,1317900,"Queen's Park Oval, Port of Spain, Trinidad",India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",1,22,18,2,1
+10,1317902,"Queen's Park Oval, Port of Spain, Trinidad",India,Mohammed Siraj,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+11,1302349,"VRA Ground, Amstelveen",Netherlands,LV van Beek,Right-arm fast-medium,"[0, 1, 1]",1,8,8,1,0
+12,1302349,"VRA Ground, Amstelveen",Netherlands,VJ Kingma,Right-arm medium,"[0, 1, 2]",0,24,21,1,2
+13,1302349,"VRA Ground, Amstelveen",Netherlands,R Klein,Right-arm fast-medium,"[0, 1, 1]",0,7,10,0,0
+14,1302350,"VRA Ground, Amstelveen",Netherlands,R Klein,Right-arm fast-medium,"[0, 1, 1]",0,4,10,0,0
+15,1302350,"VRA Ground, Amstelveen",Netherlands,LV van Beek,Right-arm fast-medium,"[0, 1, 1]",1,2,10,0,0
+16,1317911,"Kensington Oval, Bridgetown, Barbados",New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,7,13,0,0
+17,1317911,"Kensington Oval, Bridgetown, Barbados",New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,13,19,2,0
+18,1317911,"Kensington Oval, Bridgetown, Barbados",New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,34,31,4,1
+19,1317912,"Kensington Oval, Bridgetown, Barbados",New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,0,6,0,0
+20,1317912,"Kensington Oval, Bridgetown, Barbados",New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+21,1315039,Multan Cricket Stadium,Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,5,15,0,0
+22,1315039,Multan Cricket Stadium,Pakistan,Haris Rauf,Right-arm fast,"[0, 1, 0]",0,8,8,1,0
+23,1315040,Multan Cricket Stadium,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,2,5,0,0
+24,1315040,Multan Cricket Stadium,Pakistan,Shahnawaz Dhani,Right-arm fast-medium,"[0, 1, 1]",0,15,16,1,1
+25,1317152,"Providence Stadium, Guyana",Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,13,11,2,0
+26,1317152,"Providence Stadium, Guyana",Bangladesh,Shoriful Islam,Left-arm fast-medium,"[0, 0, 1]",1,2,7,0,0
+27,1317153,"Providence Stadium, Guyana",Bangladesh,Mosaddek Hossain,Right-arm offbreak,"[1, 1, 0]",0,1,5,0,0
+28,1317154,"Providence Stadium, Guyana",Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",1,0,4,0,0
+29,1317154,"Providence Stadium, Guyana",Bangladesh,Taijul Islam,Left-arm orthodox,"[1, 0, 1]",0,4,5,1,0
+30,1278676,"Narendra Modi Stadium, Ahmedabad",India,Washington Sundar,Right-arm offbreak,"[1, 1, 0]",0,3,5,0,0
+31,1278676,"Narendra Modi Stadium, Ahmedabad",India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+32,1278676,"Narendra Modi Stadium, Ahmedabad",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",1,3,4,0,0
+33,1317901,"Queen's Park Oval, Port of Spain, Trinidad",India,DJ Hooda,Right-arm offbreak,"[1, 1, 0]",0,13,16,2,0
+34,1317901,"Queen's Park Oval, Port of Spain, Trinidad",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,12,8,2,0
+35,1277085,"Sabina Park, Kingston, Jamaica",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,17,11,3,0
+36,1277085,"Sabina Park, Kingston, Jamaica",Ireland,J Little,Left-arm fast,"[0, 0, 0]",0,8,8,0,0
+37,1277085,"Sabina Park, Kingston, Jamaica",Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,13,12,2,0
+38,1277085,"Sabina Park, Kingston, Jamaica",Ireland,MR Adair,Right-arm fast,"[0, 1, 0]",1,8,11,1,0
+39,1277085,"Sabina Park, Kingston, Jamaica",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,24,23,3,1
+40,1277086,"Sabina Park, Kingston, Jamaica",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,7,12,1,0
+41,1277086,"Sabina Park, Kingston, Jamaica",Ireland,J Little,Left-arm fast,"[0, 0, 0]",0,3,4,0,0
+42,1277086,"Sabina Park, Kingston, Jamaica",Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",1,3,11,0,0
+43,1277086,"Sabina Park, Kingston, Jamaica",Ireland,MR Adair,Right-arm fast,"[0, 1, 0]",0,1,3,0,0
+44,1277086,"Sabina Park, Kingston, Jamaica",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,6,19,0,0
+45,1277087,"Sabina Park, Kingston, Jamaica",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,1,5,0,0
+46,1277087,"Sabina Park, Kingston, Jamaica",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",1,0,1,0,0
+47,1302351,"VRA Ground, Amstelveen",Netherlands,LV van Beek,Right-arm fast-medium,"[0, 1, 1]",0,14,21,0,1
+48,1302351,"VRA Ground, Amstelveen",Netherlands,VJ Kingma,Right-arm medium,"[0, 1, 2]",0,10,12,0,0
+49,1302351,"VRA Ground, Amstelveen",Netherlands,R Klein,Right-arm fast-medium,"[0, 1, 1]",0,10,14,0,0
+50,1317913,"Kensington Oval, Bridgetown, Barbados",New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+51,1315038,Multan Cricket Stadium,Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,8,12,1,0
+52,1315038,Multan Cricket Stadium,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,18,15,3,0
+53,1315038,Multan Cricket Stadium,Pakistan,Haris Rauf,Right-arm fast,"[0, 1, 0]",0,9,14,1,0

@@ -1,0 +1,307 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,HM Amla,Q de Kock,TA Boult,0,1,wides ,1,0,null,null
+1,0.2,HM Amla,Q de Kock,TA Boult,0,0,null,0,0,null,null
+2,0.3,HM Amla,Q de Kock,TA Boult,3,0,null,3,0,null,null
+3,0.4,Q de Kock,HM Amla,TA Boult,0,1,wides ,1,0,null,null
+4,0.5,Q de Kock,HM Amla,TA Boult,0,0,null,0,0,null,null
+5,0.6,Q de Kock,HM Amla,TA Boult,0,0,null,0,0,null,null
+6,0.7,Q de Kock,HM Amla,TA Boult,2,0,null,2,0,null,null
+7,0.8,Q de Kock,HM Amla,TA Boult,2,0,null,2,0,null,null
+8,1.1,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+9,1.2,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+10,1.3,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+11,1.4,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+12,1.5,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+13,1.6,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+14,2.1,Q de Kock,HM Amla,TA Boult,0,0,null,0,0,null,null
+15,2.2,Q de Kock,HM Amla,TA Boult,1,0,null,1,0,null,null
+16,2.3,HM Amla,Q de Kock,TA Boult,0,0,null,0,0,null,null
+17,2.4,HM Amla,Q de Kock,TA Boult,0,0,null,0,0,null,null
+18,2.5,HM Amla,Q de Kock,TA Boult,0,0,null,0,0,null,null
+19,2.6,HM Amla,Q de Kock,TA Boult,0,0,null,0,0,null,null
+20,3.1,Q de Kock,HM Amla,TG Southee,1,0,null,1,0,null,null
+21,3.2,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+22,3.3,HM Amla,Q de Kock,TG Southee,1,0,null,1,0,null,null
+23,3.4,Q de Kock,HM Amla,TG Southee,0,0,null,0,0,null,null
+24,3.5,Q de Kock,HM Amla,TG Southee,1,0,null,1,0,null,null
+25,3.6,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+26,4.1,Q de Kock,HM Amla,TA Boult,0,0,null,0,0,null,null
+27,4.2,Q de Kock,HM Amla,TA Boult,0,0,null,0,0,null,null
+28,4.3,Q de Kock,HM Amla,TA Boult,0,0,null,0,0,null,null
+29,4.4,Q de Kock,HM Amla,TA Boult,0,0,null,0,0,null,null
+30,4.5,Q de Kock,HM Amla,TA Boult,2,0,null,2,0,null,null
+31,4.6,Q de Kock,HM Amla,TA Boult,0,0,null,0,0,null,null
+32,5.1,HM Amla,Q de Kock,TG Southee,4,0,null,4,0,null,null
+33,5.2,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+34,5.3,HM Amla,Q de Kock,TG Southee,3,0,null,3,0,null,null
+35,5.4,Q de Kock,HM Amla,TG Southee,0,0,null,0,0,null,null
+36,5.5,Q de Kock,HM Amla,TG Southee,4,0,null,4,0,null,null
+37,5.6,Q de Kock,HM Amla,TG Southee,0,0,null,0,0,null,null
+38,6.1,HM Amla,Q de Kock,TA Boult,0,0,null,0,0,null,null
+39,6.2,HM Amla,Q de Kock,TA Boult,1,0,null,1,0,null,null
+40,6.3,Q de Kock,HM Amla,TA Boult,0,0,null,0,0,null,null
+41,6.4,Q de Kock,HM Amla,TA Boult,0,0,null,0,0,null,null
+42,6.5,Q de Kock,HM Amla,TA Boult,4,0,null,4,0,null,null
+43,6.6,Q de Kock,HM Amla,TA Boult,0,0,null,0,0,null,null
+44,7.1,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+45,7.2,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+46,7.3,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+47,7.4,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+48,7.5,HM Amla,Q de Kock,TG Southee,2,0,null,2,0,null,null
+49,7.6,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+50,8.1,Q de Kock,HM Amla,MJ McClenaghan,0,0,null,0,0,null,null
+51,8.2,Q de Kock,HM Amla,MJ McClenaghan,0,0,null,0,0,null,null
+52,8.3,Q de Kock,HM Amla,MJ McClenaghan,1,0,null,1,0,null,null
+53,8.4,HM Amla,Q de Kock,MJ McClenaghan,0,0,null,0,0,null,null
+54,8.5,HM Amla,Q de Kock,MJ McClenaghan,0,0,null,0,0,null,null
+55,8.6,HM Amla,Q de Kock,MJ McClenaghan,1,0,null,1,0,null,null
+56,9.1,HM Amla,Q de Kock,TG Southee,4,0,null,4,0,null,null
+57,9.2,HM Amla,Q de Kock,TG Southee,1,0,null,1,0,null,null
+58,9.3,Q de Kock,HM Amla,TG Southee,1,0,null,1,0,null,null
+59,9.4,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+60,9.5,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+61,9.6,HM Amla,Q de Kock,TG Southee,0,0,null,0,0,null,null
+62,10.1,Q de Kock,HM Amla,MJ McClenaghan,4,0,null,4,0,null,null
+63,10.2,Q de Kock,HM Amla,MJ McClenaghan,0,0,null,0,0,null,null
+64,10.3,Q de Kock,HM Amla,MJ McClenaghan,1,0,null,1,0,null,null
+65,10.4,HM Amla,Q de Kock,MJ McClenaghan,0,0,null,0,0,null,null
+66,10.5,HM Amla,Q de Kock,MJ McClenaghan,0,0,null,0,0,null,null
+67,10.6,HM Amla,Q de Kock,MJ McClenaghan,1,0,null,1,0,null,null
+68,11.1,HM Amla,Q de Kock,CJ Anderson,0,0,null,0,0,null,null
+69,11.2,HM Amla,Q de Kock,CJ Anderson,4,0,null,4,0,null,null
+70,11.3,HM Amla,Q de Kock,CJ Anderson,0,0,null,0,0,null,null
+71,11.4,HM Amla,Q de Kock,CJ Anderson,1,0,null,1,0,null,null
+72,11.5,Q de Kock,HM Amla,CJ Anderson,1,0,null,1,0,null,null
+73,11.6,HM Amla,Q de Kock,CJ Anderson,0,0,null,0,0,null,null
+74,12.1,Q de Kock,HM Amla,MJ McClenaghan,0,1,noballs ,1,0,null,null
+75,12.2,Q de Kock,HM Amla,MJ McClenaghan,1,0,null,1,0,null,null
+76,12.3,HM Amla,Q de Kock,MJ McClenaghan,1,0,null,1,0,null,null
+77,12.4,Q de Kock,HM Amla,MJ McClenaghan,0,0,null,0,1,Q de Kock,bowled
+78,12.5,F du Plessis,HM Amla,MJ McClenaghan,1,0,null,1,0,null,null
+79,12.6,HM Amla,F du Plessis,MJ McClenaghan,0,0,null,0,0,null,null
+80,12.7,HM Amla,F du Plessis,MJ McClenaghan,0,1,wides ,1,0,null,null
+81,12.8,HM Amla,F du Plessis,MJ McClenaghan,0,0,null,0,0,null,null
+82,13.1,F du Plessis,HM Amla,TA Boult,0,0,null,0,0,null,null
+83,13.2,F du Plessis,HM Amla,TA Boult,0,0,null,0,0,null,null
+84,13.3,F du Plessis,HM Amla,TA Boult,0,0,null,0,0,null,null
+85,13.4,F du Plessis,HM Amla,TA Boult,2,0,null,2,0,null,null
+86,13.5,F du Plessis,HM Amla,TA Boult,0,0,null,0,0,null,null
+87,13.6,F du Plessis,HM Amla,TA Boult,4,0,null,4,0,null,null
+88,14.1,HM Amla,F du Plessis,MJ McClenaghan,2,0,null,2,0,null,null
+89,14.2,HM Amla,F du Plessis,MJ McClenaghan,1,0,null,1,0,null,null
+90,14.3,F du Plessis,HM Amla,MJ McClenaghan,3,0,null,3,0,null,null
+91,14.4,HM Amla,F du Plessis,MJ McClenaghan,1,0,null,1,0,null,null
+92,14.5,F du Plessis,HM Amla,MJ McClenaghan,0,0,null,0,0,null,null
+93,14.6,F du Plessis,HM Amla,MJ McClenaghan,0,0,null,0,0,null,null
+94,15.1,HM Amla,F du Plessis,TA Boult,0,0,null,0,0,null,null
+95,15.2,HM Amla,F du Plessis,TA Boult,4,0,null,4,0,null,null
+96,15.3,HM Amla,F du Plessis,TA Boult,4,0,null,4,0,null,null
+97,15.4,HM Amla,F du Plessis,TA Boult,0,0,null,0,0,null,null
+98,15.5,HM Amla,F du Plessis,TA Boult,1,0,null,1,0,null,null
+99,15.6,F du Plessis,HM Amla,TA Boult,1,0,null,1,0,null,null
+100,16.1,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+101,16.2,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+102,16.3,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+103,16.4,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+104,16.5,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+105,16.6,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+106,17.1,F du Plessis,HM Amla,JDS Neesham,1,0,null,1,0,null,null
+107,17.2,HM Amla,F du Plessis,JDS Neesham,1,0,null,1,0,null,null
+108,17.3,F du Plessis,HM Amla,JDS Neesham,0,0,null,0,0,null,null
+109,17.4,F du Plessis,HM Amla,JDS Neesham,0,0,null,0,0,null,null
+110,17.5,F du Plessis,HM Amla,JDS Neesham,3,0,null,3,0,null,null
+111,17.6,HM Amla,F du Plessis,JDS Neesham,1,0,null,1,0,null,null
+112,18.1,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+113,18.2,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+114,18.3,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+115,18.4,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+116,18.5,HM Amla,F du Plessis,DL Vettori,4,0,null,4,0,null,null
+117,18.6,HM Amla,F du Plessis,DL Vettori,1,0,null,1,0,null,null
+118,19.1,HM Amla,F du Plessis,JDS Neesham,0,0,null,0,0,null,null
+119,19.2,HM Amla,F du Plessis,JDS Neesham,1,0,null,1,0,null,null
+120,19.3,F du Plessis,HM Amla,JDS Neesham,6,0,null,6,0,null,null
+121,19.4,F du Plessis,HM Amla,JDS Neesham,4,0,null,4,0,null,null
+122,19.5,F du Plessis,HM Amla,JDS Neesham,0,0,null,0,0,null,null
+123,19.6,F du Plessis,HM Amla,JDS Neesham,1,0,null,1,0,null,null
+124,20.1,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+125,20.2,HM Amla,F du Plessis,DL Vettori,1,0,null,1,0,null,null
+126,20.3,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+127,20.4,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+128,20.5,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+129,20.6,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+130,21.1,F du Plessis,HM Amla,TG Southee,0,0,null,0,0,null,null
+131,21.2,F du Plessis,HM Amla,TG Southee,0,0,null,0,0,null,null
+132,21.3,F du Plessis,HM Amla,TG Southee,2,0,null,2,0,null,null
+133,21.4,F du Plessis,HM Amla,TG Southee,0,0,null,0,0,null,null
+134,21.5,F du Plessis,HM Amla,TG Southee,1,0,null,1,0,null,null
+135,21.6,HM Amla,F du Plessis,TG Southee,4,0,null,4,0,null,null
+136,22.1,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+137,22.2,HM Amla,F du Plessis,DL Vettori,1,0,null,1,0,null,null
+138,22.3,F du Plessis,HM Amla,DL Vettori,2,0,null,2,0,null,null
+139,22.4,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+140,22.5,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+141,22.6,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+142,23.1,HM Amla,F du Plessis,TG Southee,1,0,null,1,0,null,null
+143,23.2,F du Plessis,HM Amla,TG Southee,1,0,null,1,0,null,null
+144,23.3,HM Amla,F du Plessis,TG Southee,0,0,null,0,0,null,null
+145,23.4,HM Amla,F du Plessis,TG Southee,1,0,null,1,0,null,null
+146,23.5,F du Plessis,HM Amla,TG Southee,1,0,null,1,0,null,null
+147,23.6,HM Amla,F du Plessis,TG Southee,0,0,null,0,0,null,null
+148,24.1,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+149,24.2,HM Amla,F du Plessis,DL Vettori,1,0,null,1,0,null,null
+150,24.3,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+151,24.4,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+152,24.5,HM Amla,F du Plessis,DL Vettori,1,0,null,1,0,null,null
+153,24.6,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+154,25.1,HM Amla,F du Plessis,MJ McClenaghan,0,0,null,0,0,null,null
+155,25.2,HM Amla,F du Plessis,MJ McClenaghan,1,0,null,1,0,null,null
+156,25.3,F du Plessis,HM Amla,MJ McClenaghan,0,0,null,0,0,null,null
+157,25.4,F du Plessis,HM Amla,MJ McClenaghan,1,0,null,1,0,null,null
+158,25.5,HM Amla,F du Plessis,MJ McClenaghan,0,0,null,0,0,null,null
+159,25.6,HM Amla,F du Plessis,MJ McClenaghan,1,1,noballs ,2,0,null,null
+160,25.7,F du Plessis,HM Amla,MJ McClenaghan,2,0,null,2,0,null,null
+161,26.1,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+162,26.2,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+163,26.3,HM Amla,F du Plessis,DL Vettori,1,0,null,1,0,null,null
+164,26.4,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+165,26.5,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+166,26.6,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+167,27.1,F du Plessis,HM Amla,MJ McClenaghan,4,0,null,4,0,null,null
+168,27.2,F du Plessis,HM Amla,MJ McClenaghan,0,0,null,0,0,null,null
+169,27.3,F du Plessis,HM Amla,MJ McClenaghan,2,0,null,2,0,null,null
+170,27.4,F du Plessis,HM Amla,MJ McClenaghan,1,0,null,1,0,null,null
+171,27.5,HM Amla,F du Plessis,MJ McClenaghan,0,0,null,0,0,null,null
+172,27.6,HM Amla,F du Plessis,MJ McClenaghan,0,0,null,0,0,null,null
+173,28.1,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+174,28.2,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+175,28.3,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+176,28.4,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+177,28.5,HM Amla,F du Plessis,DL Vettori,1,0,null,1,0,null,null
+178,28.6,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+179,29.1,F du Plessis,HM Amla,CJ Anderson,1,0,null,1,0,null,null
+180,29.2,HM Amla,F du Plessis,CJ Anderson,1,0,null,1,0,null,null
+181,29.3,F du Plessis,HM Amla,CJ Anderson,6,0,null,6,0,null,null
+182,29.4,F du Plessis,HM Amla,CJ Anderson,1,0,null,1,0,null,null
+183,29.5,HM Amla,F du Plessis,CJ Anderson,1,0,null,1,0,null,null
+184,29.6,F du Plessis,HM Amla,CJ Anderson,1,0,null,1,0,null,null
+185,30.1,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+186,30.2,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+187,30.3,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+188,30.4,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+189,30.5,HM Amla,F du Plessis,DL Vettori,1,0,null,1,0,null,null
+190,30.6,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+191,31.1,F du Plessis,HM Amla,MJ Guptill,1,0,null,1,0,null,null
+192,31.2,HM Amla,F du Plessis,MJ Guptill,1,0,null,1,0,null,null
+193,31.3,F du Plessis,HM Amla,MJ Guptill,1,0,null,1,0,null,null
+194,31.4,HM Amla,F du Plessis,MJ Guptill,1,0,null,1,0,null,null
+195,31.5,F du Plessis,HM Amla,MJ Guptill,0,0,null,0,0,null,null
+196,31.6,F du Plessis,HM Amla,MJ Guptill,1,0,null,1,0,null,null
+197,32.1,F du Plessis,HM Amla,DL Vettori,0,0,null,0,0,null,null
+198,32.2,F du Plessis,HM Amla,DL Vettori,1,0,null,1,0,null,null
+199,32.3,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+200,32.4,HM Amla,F du Plessis,DL Vettori,4,0,null,4,0,null,null
+201,32.5,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+202,32.6,HM Amla,F du Plessis,DL Vettori,0,0,null,0,0,null,null
+203,33.1,F du Plessis,HM Amla,JDS Neesham,0,0,null,0,1,F du Plessis,caught
+204,33.2,AB de Villiers,HM Amla,JDS Neesham,1,0,null,1,0,null,null
+205,33.3,HM Amla,AB de Villiers,JDS Neesham,1,0,null,1,0,null,null
+206,33.4,AB de Villiers,HM Amla,JDS Neesham,1,0,null,1,0,null,null
+207,33.5,HM Amla,AB de Villiers,JDS Neesham,0,0,null,0,0,null,null
+208,33.6,HM Amla,AB de Villiers,JDS Neesham,1,0,null,1,0,null,null
+209,34.1,HM Amla,AB de Villiers,DL Vettori,1,0,null,1,0,null,null
+210,34.2,AB de Villiers,HM Amla,DL Vettori,4,0,null,4,0,null,null
+211,34.3,AB de Villiers,HM Amla,DL Vettori,1,0,null,1,0,null,null
+212,34.4,HM Amla,AB de Villiers,DL Vettori,4,0,null,4,0,null,null
+213,34.5,HM Amla,AB de Villiers,DL Vettori,1,0,null,1,0,null,null
+214,34.6,AB de Villiers,HM Amla,DL Vettori,0,0,null,0,0,null,null
+215,35.1,HM Amla,AB de Villiers,CJ Anderson,0,0,null,0,0,null,null
+216,35.2,HM Amla,AB de Villiers,CJ Anderson,1,0,null,1,0,null,null
+217,35.3,AB de Villiers,HM Amla,CJ Anderson,4,0,null,4,0,null,null
+218,35.4,AB de Villiers,HM Amla,CJ Anderson,6,0,null,6,0,null,null
+219,35.5,AB de Villiers,HM Amla,CJ Anderson,1,0,null,1,0,null,null
+220,35.6,HM Amla,AB de Villiers,CJ Anderson,1,0,null,1,0,null,null
+221,36.1,HM Amla,AB de Villiers,MJ McClenaghan,0,0,null,0,0,null,null
+222,36.2,HM Amla,AB de Villiers,MJ McClenaghan,1,0,null,1,0,null,null
+223,36.3,AB de Villiers,HM Amla,MJ McClenaghan,0,0,null,0,0,null,null
+224,36.4,AB de Villiers,HM Amla,MJ McClenaghan,1,0,null,1,0,null,null
+225,36.5,HM Amla,AB de Villiers,MJ McClenaghan,0,0,null,0,0,null,null
+226,36.6,HM Amla,AB de Villiers,MJ McClenaghan,0,0,null,0,0,null,null
+227,37.1,AB de Villiers,HM Amla,JDS Neesham,1,0,null,1,0,null,null
+228,37.2,HM Amla,AB de Villiers,JDS Neesham,4,0,null,4,0,null,null
+229,37.3,HM Amla,AB de Villiers,JDS Neesham,0,0,null,0,0,null,null
+230,37.4,HM Amla,AB de Villiers,JDS Neesham,4,0,null,4,0,null,null
+231,37.5,HM Amla,AB de Villiers,JDS Neesham,0,0,null,0,0,null,null
+232,37.6,HM Amla,AB de Villiers,JDS Neesham,1,0,null,1,0,null,null
+233,38.1,HM Amla,AB de Villiers,MJ McClenaghan,0,0,null,0,0,null,null
+234,38.2,HM Amla,AB de Villiers,MJ McClenaghan,1,0,null,1,0,null,null
+235,38.3,AB de Villiers,HM Amla,MJ McClenaghan,4,0,null,4,0,null,null
+236,38.4,AB de Villiers,HM Amla,MJ McClenaghan,0,0,null,0,0,null,null
+237,38.5,AB de Villiers,HM Amla,MJ McClenaghan,0,0,null,0,0,null,null
+238,38.6,AB de Villiers,HM Amla,MJ McClenaghan,1,0,null,1,0,null,null
+239,39.1,AB de Villiers,HM Amla,TA Boult,1,0,null,1,0,null,null
+240,39.2,HM Amla,AB de Villiers,TA Boult,0,0,null,0,0,null,null
+241,39.3,HM Amla,AB de Villiers,TA Boult,1,0,null,1,0,null,null
+242,39.4,AB de Villiers,HM Amla,TA Boult,1,0,null,1,0,null,null
+243,39.5,HM Amla,AB de Villiers,TA Boult,0,0,null,0,0,null,null
+244,39.6,HM Amla,AB de Villiers,TA Boult,1,0,null,1,0,null,null
+245,40.1,HM Amla,AB de Villiers,TG Southee,1,0,null,1,0,null,null
+246,40.2,AB de Villiers,HM Amla,TG Southee,0,0,null,0,0,null,null
+247,40.3,AB de Villiers,HM Amla,TG Southee,4,0,null,4,0,null,null
+248,40.4,AB de Villiers,HM Amla,TG Southee,0,0,null,0,0,null,null
+249,40.5,AB de Villiers,HM Amla,TG Southee,0,0,null,0,0,null,null
+250,40.6,AB de Villiers,HM Amla,TG Southee,1,0,null,1,0,null,null
+251,41.1,AB de Villiers,HM Amla,TA Boult,1,0,null,1,0,null,null
+252,41.2,HM Amla,AB de Villiers,TA Boult,0,0,null,0,0,null,null
+253,41.3,HM Amla,AB de Villiers,TA Boult,2,0,null,2,0,null,null
+254,41.4,HM Amla,AB de Villiers,TA Boult,0,0,null,0,0,null,null
+255,41.5,HM Amla,AB de Villiers,TA Boult,0,0,null,0,0,null,null
+256,41.6,HM Amla,AB de Villiers,TA Boult,0,1,wides ,1,0,null,null
+257,41.7,HM Amla,AB de Villiers,TA Boult,1,0,null,1,0,null,null
+258,42.1,HM Amla,AB de Villiers,TG Southee,1,0,null,1,0,null,null
+259,42.2,AB de Villiers,HM Amla,TG Southee,4,0,null,4,0,null,null
+260,42.3,AB de Villiers,HM Amla,TG Southee,0,0,null,0,1,AB de Villiers,caught
+261,42.4,HM Amla,JP Duminy,TG Southee,1,0,null,1,0,null,null
+262,42.5,JP Duminy,HM Amla,TG Southee,1,0,null,1,0,null,null
+263,42.6,HM Amla,JP Duminy,TG Southee,1,0,null,1,0,null,null
+264,43.1,HM Amla,JP Duminy,TA Boult,4,0,null,4,0,null,null
+265,43.2,HM Amla,JP Duminy,TA Boult,4,0,null,4,0,null,null
+266,43.3,HM Amla,JP Duminy,TA Boult,4,0,null,4,0,null,null
+267,43.4,HM Amla,JP Duminy,TA Boult,4,0,null,4,0,null,null
+268,43.5,HM Amla,JP Duminy,TA Boult,2,0,null,2,0,null,null
+269,43.6,HM Amla,JP Duminy,TA Boult,0,0,null,0,0,null,null
+270,44.1,JP Duminy,HM Amla,TG Southee,1,0,null,1,0,null,null
+271,44.2,HM Amla,JP Duminy,TG Southee,0,0,null,0,1,HM Amla,bowled
+272,44.3,DA Miller,JP Duminy,TG Southee,0,0,null,0,0,null,null
+273,44.4,DA Miller,JP Duminy,TG Southee,1,0,null,1,0,null,null
+274,44.5,JP Duminy,DA Miller,TG Southee,1,0,null,1,0,null,null
+275,44.6,DA Miller,JP Duminy,TG Southee,0,0,null,0,0,null,null
+276,45.1,JP Duminy,DA Miller,MJ Guptill,0,0,null,0,0,null,null
+277,45.2,JP Duminy,DA Miller,MJ Guptill,1,0,null,1,0,null,null
+278,45.3,DA Miller,JP Duminy,MJ Guptill,1,0,null,1,0,null,null
+279,45.4,JP Duminy,DA Miller,MJ Guptill,1,0,null,1,0,null,null
+280,45.5,DA Miller,JP Duminy,MJ Guptill,1,0,null,1,0,null,null
+281,45.6,JP Duminy,DA Miller,MJ Guptill,1,0,null,1,0,null,null
+282,46.1,JP Duminy,DA Miller,MJ McClenaghan,0,0,null,0,0,null,null
+283,46.2,JP Duminy,DA Miller,MJ McClenaghan,0,0,null,0,0,null,null
+284,46.3,JP Duminy,DA Miller,MJ McClenaghan,1,0,null,1,0,null,null
+285,46.4,DA Miller,JP Duminy,MJ McClenaghan,1,0,null,1,0,null,null
+286,46.5,JP Duminy,DA Miller,MJ McClenaghan,2,0,null,2,0,null,null
+287,46.6,JP Duminy,DA Miller,MJ McClenaghan,1,0,null,1,0,null,null
+288,47.1,JP Duminy,DA Miller,TA Boult,4,0,null,4,0,null,null
+289,47.2,JP Duminy,DA Miller,TA Boult,4,0,null,4,0,null,null
+290,47.3,JP Duminy,DA Miller,TA Boult,1,0,null,1,0,null,null
+291,47.4,DA Miller,JP Duminy,TA Boult,1,0,null,1,0,null,null
+292,47.5,JP Duminy,DA Miller,TA Boult,0,0,null,0,1,JP Duminy,lbw
+293,47.6,RR Rossouw,DA Miller,TA Boult,0,0,null,0,1,RR Rossouw,caught
+294,48.1,DA Miller,VD Philander,MJ McClenaghan,1,0,null,1,0,null,null
+295,48.2,VD Philander,DA Miller,MJ McClenaghan,0,0,null,0,0,null,null
+296,48.3,VD Philander,DA Miller,MJ McClenaghan,1,0,null,1,0,null,null
+297,48.4,DA Miller,VD Philander,MJ McClenaghan,1,0,null,1,0,null,null
+298,48.5,VD Philander,DA Miller,MJ McClenaghan,0,0,null,0,0,null,null
+299,48.6,VD Philander,DA Miller,MJ McClenaghan,0,0,null,0,1,VD Philander,caught
+300,49.1,DW Steyn,DA Miller,CJ Anderson,0,0,null,0,0,null,null
+301,49.2,DW Steyn,DA Miller,CJ Anderson,0,0,null,0,1,DW Steyn,caught
+302,49.3,DA Miller,M Morkel,CJ Anderson,0,0,null,0,1,DA Miller,bowled
+303,49.4,Imran Tahir,M Morkel,CJ Anderson,0,0,null,0,0,null,null
+304,49.5,Imran Tahir,M Morkel,CJ Anderson,0,0,null,0,0,null,null
+305,49.6,Imran Tahir,M Morkel,CJ Anderson,0,0,null,0,0,null,null

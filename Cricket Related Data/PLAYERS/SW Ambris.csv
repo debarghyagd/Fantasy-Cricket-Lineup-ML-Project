@@ -1,0 +1,40 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1168509,Castle Avenue,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,6,12,1,0
+1,1168509,Castle Avenue,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,9,16,1,0
+2,1168509,Castle Avenue,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,5,6,0,0
+3,1168512,"The Village, Malahide",Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",1,11,12,2,0
+4,1168512,"The Village, Malahide",Bangladesh,Abu Jayed,Right-arm fast-medium,"[0, 1, 1]",0,12,7,2,0
+5,1168514,"The Village, Malahide",Bangladesh,Mosaddek Hossain,Right-arm offbreak,"[1, 1, 0]",0,4,7,0,0
+6,1168514,"The Village, Malahide",Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,16,16,1,0
+7,1168514,"The Village, Malahide",Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,25,18,5,0
+8,1244024,Zahur Ahmed Chowdhury Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",1,6,8,1,0
+9,1144516,Old Trafford,India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",1,16,15,2,0
+10,1144516,Old Trafford,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,4,6,0,0
+11,1144516,Old Trafford,India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,4,10,0,0
+12,1144516,Old Trafford,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,7,9,0,0
+13,1187021,"MA Chidambaram Stadium, Chepauk",India,DL Chahar,Right-arm medium,"[0, 1, 2]",1,0,1,0,0
+14,1187021,"MA Chidambaram Stadium, Chepauk",India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,9,7,2,0
+15,1168511,"The Village, Malahide",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,46,44,6,0
+16,1168511,"The Village, Malahide",Ireland,J Little,Left-arm fast,"[0, 0, 0]",0,31,23,5,0
+17,1168511,"The Village, Malahide",Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,19,13,2,0
+18,1168511,"The Village, Malahide",Ireland,MR Adair,Right-arm fast,"[0, 1, 0]",0,19,14,3,0
+19,1168511,"The Village, Malahide",Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",1,27,19,3,1
+20,1168511,"The Village, Malahide",Ireland,PR Stirling,Right-arm offbreak,"[1, 1, 0]",0,6,14,0,0
+21,1144521,Riverside Ground,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,1,2,0,0
+22,1144521,Riverside Ground,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,4,5,1,0
+23,1213871,Sinhalese Sports Club Ground,Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",0,3,8,0,0
+24,1213872,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",0,5,10,1,0
+25,1213872,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+26,1213873,Pallekele International Cricket Stadium,Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",0,11,10,1,0
+27,1213873,Pallekele International Cricket Stadium,Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",1,0,1,0,0
+28,1213873,Pallekele International Cricket Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,10,15,1,0
+29,1213873,Pallekele International Cricket Stadium,Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",0,12,7,2,0
+30,1244022,Shere Bangla National Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",1,0,1,0,0
+31,1244022,Shere Bangla National Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,7,4,0,1
+32,1244023,Shere Bangla National Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",1,1,8,0,0
+33,1244023,Shere Bangla National Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,5,7,1,0
+34,1031675,The Rose Bowl,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,4,5,0,0
+35,1031675,The Rose Bowl,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,6,7,1,0
+36,1031675,The Rose Bowl,England,JT Ball,Right arm Fast medium,"[0, 1, 1]",0,17,9,2,0
+37,1203675,"National Cricket Stadium, Grenada",Ireland,Simi Singh,Right-arm offbreak,"[1, 1, 0]",1,0,4,0,0
+38,1203675,"National Cricket Stadium, Grenada",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,5,4,1,0

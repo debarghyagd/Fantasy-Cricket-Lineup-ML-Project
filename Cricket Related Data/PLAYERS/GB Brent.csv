@@ -1,0 +1,32 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,249743,Sawai Mansingh Stadium,Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",0,1,6,0,0
+1,249743,Sawai Mansingh Stadium,Bangladesh,Rajin Saleh,Right-arm offbreak,"[1, 1, 0]",0,2,4,0,0
+2,249743,Sawai Mansingh Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,2,20,0,0
+3,264068,Shaheed Chandu Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",1,2,5,0,0
+4,264068,Shaheed Chandu Stadium,Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",0,0,1,0,0
+5,264069,Shaheed Chandu Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+6,264070,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,5,7,1,0
+7,264071,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",1,1,3,0,0
+8,64881,Harare Sports Club,Bangladesh,Tapash Baisya,Right-arm fast-medium,"[0, 1, 1]",0,5,2,1,0
+9,64881,Harare Sports Club,Bangladesh,Tareq Aziz,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+10,247461,"Sabina Park, Kingston",Ireland,DT Johnston,Right-arm fast-medium,"[0, 1, 1]",0,2,7,0,0
+11,247473,"Sabina Park, Kingston",Pakistan,Danish Kaneria,Right-arm legbreak,"[1, 1, 1]",0,7,3,0,1
+12,325801,"Niaz Stadium, Hyderabad",Pakistan,Samiullah Khan,Left-arm fast-medium,"[0, 0, 1]",0,11,8,2,0
+13,325801,"Niaz Stadium, Hyderabad",Pakistan,Iftikhar Anjum,Right-arm medium,"[0, 1, 2]",0,2,3,0,0
+14,325802,Multan Cricket Stadium,Pakistan,Sohail Tanvir,Left-arm fast-medium,"[0, 0, 1]",0,6,8,0,0
+15,325802,Multan Cricket Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",0,1,2,0,0
+16,325802,Multan Cricket Stadium,Pakistan,Yasir Arafat,Right-arm medium,"[0, 1, 2]",0,3,5,0,0
+17,325803,Iqbal Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",0,3,6,0,0
+18,325804,Sheikhupura Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",1,1,2,0,0
+19,300486,Queens Sports Club,South Africa,MS Tshabalala,Right-arm offbreak,"[1, 1, 0]",0,8,16,0,0
+20,300486,Queens Sports Club,South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",0,13,12,1,1
+21,300486,Queens Sports Club,South Africa,JJ van der Wath,Right-arm fast-medium,"[0, 1, 1]",1,17,15,1,1
+22,300486,Queens Sports Club,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",0,2,14,0,0
+23,300487,Harare Sports Club,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,2,1,0,0
+24,300488,Harare Sports Club,South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+25,317579,Harare Sports Club,West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",0,2,7,0,0
+26,317579,Harare Sports Club,West Indies,RN Lewis,Left-arm orthodox,"[1, 0, 1]",1,8,13,0,0
+27,317579,Harare Sports Club,West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,2,5,0,0
+28,317581,Queens Sports Club,West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",0,4,3,0,0
+29,317581,Queens Sports Club,West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,5,4,1,0
+30,64852,Harare Sports Club,West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,4,7,0,0

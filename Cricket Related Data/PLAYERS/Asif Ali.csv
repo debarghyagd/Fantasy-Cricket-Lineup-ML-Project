@@ -1,0 +1,42 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1153250,Sheikh Zayed Stadium,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,1,4,0,0
+1,1153250,Sheikh Zayed Stadium,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",1,6,2,0,1
+2,1144499,The Cooper Associates County Ground,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,2,3,0,0
+3,1144499,The Cooper Associates County Ground,Australia,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",1,1,2,0,0
+4,1153254,Sheikh Zayed Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,3,4,0,0
+5,1153254,Sheikh Zayed Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,3,8,0,0
+6,1153254,Sheikh Zayed Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,13,13,2,0
+7,1153254,Sheikh Zayed Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+8,1144488,Trent Bridge,England,JC Archer,Right-arm fast,"[0, 1, 0]",0,10,6,0,1
+9,1144488,Trent Bridge,England,MA Wood,Right-arm fast,"[0, 1, 0]",1,4,6,0,0
+10,1152842,The Rose Bowl,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,12,8,0,1
+11,1152842,The Rose Bowl,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,6,5,1,0
+12,1152842,The Rose Bowl,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,15,8,0,2
+13,1152843,County Ground,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,9,7,0,1
+14,1152843,County Ground,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,7,9,0,0
+15,1152843,County Ground,England,JL Denly,Right-arm legbreak,"[1, 1, 1]",0,2,3,0,0
+16,1152844,Trent Bridge,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,4,3,0,0
+17,1152844,Trent Bridge,England,JC Archer,Right-arm fast,"[0, 1, 0]",1,12,8,1,1
+18,1152845,Headingley,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,8,5,1,0
+19,1153247,Dubai International Cricket Stadium,India,KM Jadhav,Right-arm offbreak,"[1, 1, 0]",1,1,6,0,0
+20,1153247,Dubai International Cricket Stadium,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,8,4,0,1
+21,1153251,Dubai International Cricket Stadium,India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",1,4,3,0,0
+22,1153251,Dubai International Cricket Stadium,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,4,3,0,0
+23,1153251,Dubai International Cricket Stadium,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,3,9,0,0
+24,1153251,Dubai International Cricket Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,19,6,1,2
+25,1157380,Dubai International Cricket Stadium,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,7,3,0,1
+26,1157380,Dubai International Cricket Stadium,New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",1,1,2,0,0
+27,1157380,Dubai International Cricket Stadium,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+28,1142920,Queens Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",1,16,10,0,1
+29,1142920,Queens Sports Club,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,13,8,2,0
+30,1142920,Queens Sports Club,Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,17,8,2,1
+31,1142923,Queens Sports Club,Zimbabwe,R Ngarava,Left-arm fast-medium,"[0, 0, 1]",0,8,4,1,0
+32,1142923,Queens Sports Club,Zimbabwe,WP Masakadza,Left-arm orthodox,"[1, 0, 1]",0,5,5,1,0
+33,1142923,Queens Sports Club,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,21,10,1,2
+34,1142923,Queens Sports Club,Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,16,6,2,1
+35,1142924,Queens Sports Club,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",1,7,8,0,1
+36,1142924,Queens Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,3,4,0,0
+37,1142924,Queens Sports Club,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,8,4,0,1
+38,1251572,"SuperSport Park, Centurion",South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",0,1,5,0,0
+39,1251573,The Wanderers Stadium,South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",0,8,9,1,0
+40,1251573,The Wanderers Stadium,South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",0,2,8,0,0

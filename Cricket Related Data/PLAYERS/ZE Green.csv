@@ -1,0 +1,22 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1322031,"Cambusdoon New Ground, Ayr",Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",1,1,5,0,0
+1,1322031,"Cambusdoon New Ground, Ayr",Nepal,Basir Ahamad,Left-arm orthodox,"[1, 0, 1]",0,2,6,0,0
+2,1174845,Wanderers Cricket Ground,Oman,Khawar Ali,Right-arm legbreak,"[1, 1, 1]",0,19,14,2,0
+3,1174845,Wanderers Cricket Ground,Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,8,11,0,0
+4,1290881,"Wanderers Cricket Ground, Windhoek",Oman,Mohammad Nadeem,Right-arm fast-medium,"[0, 1, 1]",1,8,10,1,0
+5,1290881,"Wanderers Cricket Ground, Windhoek",Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,6,10,1,0
+6,1290881,"Wanderers Cricket Ground, Windhoek",Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,6,14,0,0
+7,1199229,Central Broward Regional Park Stadium Turf Ground,Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",1,0,2,0,0
+8,1199230,Central Broward Regional Park Stadium Turf Ground,Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",0,17,8,0,2
+9,1199230,Central Broward Regional Park Stadium Turf Ground,Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,12,18,0,1
+10,1211170,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,DDP D'Silva,Left-arm orthodox,"[1, 0, 1]",1,2,9,0,0
+11,1211173,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",0,1,1,0,0
+12,1211173,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,DDP D'Silva,Left-arm orthodox,"[1, 0, 1]",1,0,10,0,0
+13,1211171,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Khawar Ali,Right-arm legbreak,"[1, 1, 1]",0,4,3,0,0
+14,1211171,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,5,7,1,0
+15,1211171,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Mohammad Nadeem,Right-arm fast-medium,"[0, 1, 1]",0,6,6,1,0
+16,1211171,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,8,12,2,0
+17,1199226,Central Broward Regional Park Stadium Turf Ground,United States of America,K Gore,Left-arm orthodox,"[1, 0, 1]",0,12,21,2,0
+18,1199226,Central Broward Regional Park Stadium Turf Ground,United States of America,NK Patel,Left-arm orthodox,"[1, 0, 1]",1,12,21,2,0
+19,1199226,Central Broward Regional Park Stadium Turf Ground,United States of America,TK Patel,Left-arm orthodox,"[1, 0, 1]",0,7,18,1,0
+20,1199226,Central Broward Regional Park Stadium Turf Ground,United States of America,SR Taylor,Right-arm offbreak,"[1, 1, 0]",0,5,15,0,0

@@ -1,0 +1,8 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,64840,"Iqbal Stadium, Faisalabad",South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",0,5,9,1,0
+1,64840,"Iqbal Stadium, Faisalabad",South Africa,AJ Hall,Right-arm fast-medium,"[0, 1, 1]",0,6,3,1,0
+2,64840,"Iqbal Stadium, Faisalabad",South Africa,A Nel,Right-arm fast-medium,"[0, 1, 1]",1,2,4,0,0
+3,64841,Rawalpindi Cricket Stadium,South Africa,A Nel,Right-arm fast-medium,"[0, 1, 1]",1,0,5,0,0
+4,257771,Multan Cricket Stadium,West Indies,IDR Bradshaw,Left-arm fast-medium,"[0, 0, 1]",0,4,3,1,0
+5,257771,Multan Cricket Stadium,West Indies,D Mohammed,Left-arm chinaman,"[1, 0, 0]",0,8,11,0,0
+6,257771,Multan Cricket Stadium,West Indies,DR Smith,Right-arm medium,"[0, 1, 2]",0,14,31,1,0

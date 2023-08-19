@@ -1,0 +1,374 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1144503,Sophia Gardens,Afghanistan,Hamid Hassan,Right-arm fast,"[0, 1, 0]",0,4,6,0,0
+1,1144503,Sophia Gardens,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,31,25,4,0
+2,1144503,Sophia Gardens,Afghanistan,Aftab Alam,Right-arm fast-medium,"[0, 1, 1]",0,6,11,1,0
+3,1144527,Old Trafford,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,18,13,3,0
+4,1144527,Old Trafford,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,11,9,2,0
+5,1144527,Old Trafford,Australia,JP Behrendorff,Left-arm fast-medium,"[0, 0, 1]",0,5,4,0,0
+6,1144527,Old Trafford,Australia,NM Lyon,Right-arm offbreak,"[1, 1, 0]",1,13,19,1,0
+7,1144986,Perth Stadium,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,2,2,0,0
+8,1144986,Perth Stadium,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",1,15,7,3,0
+9,1144986,Perth Stadium,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,17,18,3,0
+10,1144986,Perth Stadium,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,13,13,1,0
+11,1144987,Adelaide Oval,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+12,1144987,Adelaide Oval,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",1,8,12,1,0
+13,736445,Harare Sports Club,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,2,3,0,0
+14,736445,Harare Sports Club,Australia,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",0,3,4,0,0
+15,736445,Harare Sports Club,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",1,14,12,2,0
+16,736451,Harare Sports Club,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,1,2,0,0
+17,736451,Harare Sports Club,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",1,0,3,0,0
+18,736455,Harare Sports Club,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",1,7,7,1,0
+19,754723,Western Australia Cricket Association Ground,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",1,0,3,0,0
+20,754723,Western Australia Cricket Association Ground,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,2,5,0,0
+21,754725,Western Australia Cricket Association Ground,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,4,7,1,0
+22,754725,Western Australia Cricket Association Ground,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+23,754727,Manuka Oval,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,8,15,1,0
+24,754727,Manuka Oval,Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+25,754727,Manuka Oval,Australia,XJ Doherty,Left-arm orthodox,"[1, 0, 1]",0,9,13,1,0
+26,754727,Manuka Oval,Australia,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",0,20,9,2,1
+27,754727,Manuka Oval,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",1,1,6,0,0
+28,754727,Manuka Oval,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,7,7,0,0
+29,754729,Melbourne Cricket Ground,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,7,8,0,0
+30,754729,Melbourne Cricket Ground,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+31,754729,Melbourne Cricket Ground,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",1,5,17,0,0
+32,754729,Melbourne Cricket Ground,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,4,12,0,0
+33,754731,Sydney Cricket Ground,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",1,21,23,3,0
+34,754731,Sydney Cricket Ground,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,9,28,1,0
+35,754731,Sydney Cricket Ground,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,12,21,0,0
+36,754731,Sydney Cricket Ground,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,23,20,4,0
+37,754731,Sydney Cricket Ground,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,10,7,2,0
+38,932853,Providence Stadium,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",0,17,12,2,1
+39,932853,Providence Stadium,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",1,1,11,0,0
+40,932855,"Warner Park, Basseterre",Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",1,8,14,1,0
+41,932855,"Warner Park, Basseterre",Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,10,14,2,0
+42,932861,"Kensington Oval, Bridgetown",Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,5,7,1,0
+43,1075504,Diamond Oval,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,26,24,3,0
+44,1075504,Diamond Oval,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,31,31,3,1
+45,1075504,Diamond Oval,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,6,6,0,0
+46,1075504,Diamond Oval,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,26,23,4,0
+47,1144487,Kennington Oval,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,6,9,1,0
+48,1277098,"The Wanderers Stadium, Johannesburg",Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,1,3,0,0
+49,1277098,"The Wanderers Stadium, Johannesburg",Bangladesh,Shoriful Islam,Left-arm fast-medium,"[0, 0, 1]",0,13,5,3,0
+50,1277098,"The Wanderers Stadium, Johannesburg",Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,5,6,1,0
+51,817207,Shere Bangla National Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,4,12,0,0
+52,817207,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,22,17,4,0
+53,817207,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,7,6,1,0
+54,817209,Shere Bangla National Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",1,1,4,0,0
+55,817209,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,1,6,0,0
+56,817211,Zahur Ahmed Chowdhury Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",1,1,4,0,0
+57,817211,Zahur Ahmed Chowdhury Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,6,4,1,0
+58,1031425,Headingley,England,MA Wood,Right-arm fast,"[0, 1, 0]",0,3,3,0,0
+59,1031427,The Rose Bowl,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",1,17,14,2,0
+60,1031427,The Rose Bowl,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,22,24,3,0
+61,1031427,The Rose Bowl,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,8,8,1,0
+62,1031427,The Rose Bowl,England,JT Ball,Right arm Fast medium,"[0, 1, 1]",0,23,21,4,0
+63,1031427,The Rose Bowl,England,MA Wood,Right-arm fast,"[0, 1, 0]",0,11,22,1,0
+64,1031427,The Rose Bowl,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,17,18,0,0
+65,1031429,Lord's,England,TS Roland-Jones,Right-arm fast-medium,"[0, 1, 1]",0,14,9,2,0
+66,1031429,Lord's,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+67,1031429,Lord's,England,JT Ball,Right arm Fast medium,"[0, 1, 1]",1,8,19,0,0
+68,1144483,Kennington Oval,England,JC Archer,Right-arm fast,"[0, 1, 0]",0,4,11,0,0
+69,1144483,Kennington Oval,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,12,15,0,1
+70,1144483,Kennington Oval,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",1,16,11,1,1
+71,1144483,Kennington Oval,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,17,15,2,0
+72,1276911,"Old Trafford, Manchester",England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,1,2,0,0
+73,1022367,Kennington Oval,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,7,14,1,0
+74,1022367,Kennington Oval,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,12,16,1,0
+75,1022367,Kennington Oval,India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",0,11,12,0,0
+76,1144490,The Rose Bowl,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",1,3,11,0,0
+77,1144490,The Rose Bowl,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,7,6,1,0
+78,1277083,"Boland Park, Paarl",India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,14,15,2,0
+79,1277083,"Boland Park, Paarl",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,12,14,0,0
+80,1277083,"Boland Park, Paarl",India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,26,15,2,2
+81,1277083,"Boland Park, Paarl",India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",1,6,10,1,0
+82,656423,Melbourne Cricket Ground,India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,6,11,1,0
+83,656423,Melbourne Cricket Ground,India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",1,1,5,0,0
+84,903593,Green Park,India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,17,15,3,0
+85,903593,Green Park,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,12,17,2,0
+86,903595,Holkar Cricket Stadium,India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,8,8,1,0
+87,903595,Holkar Cricket Stadium,India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",1,8,11,1,0
+88,903595,Holkar Cricket Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,13,11,2,0
+89,903597,Saurashtra Cricket Association Stadium,India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",0,19,28,1,0
+90,903597,Saurashtra Cricket Association Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,28,26,3,1
+91,903597,Saurashtra Cricket Association Stadium,India,MM Sharma,Right-arm fast-medium,"[0, 1, 1]",0,21,20,4,0
+92,903597,Saurashtra Cricket Association Stadium,India,A Mishra,Right-arm legbreak,"[1, 1, 1]",0,14,24,1,0
+93,903599,"MA Chidambaram Stadium, Chepauk",India,MM Sharma,Right-arm fast-medium,"[0, 1, 1]",0,17,14,3,0
+94,903599,"MA Chidambaram Stadium, Chepauk",India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",1,1,4,0,0
+95,903599,"MA Chidambaram Stadium, Chepauk",India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,24,18,3,1
+96,903601,Wankhede Stadium,India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",0,24,22,3,0
+97,903601,Wankhede Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,20,18,4,0
+98,903601,Wankhede Stadium,India,MM Sharma,Right-arm fast-medium,"[0, 1, 1]",0,22,14,3,1
+99,903601,Wankhede Stadium,India,A Mishra,Right-arm legbreak,"[1, 1, 1]",0,23,19,4,0
+100,1020031,Seddon Park,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,15,12,3,0
+101,1020031,Seddon Park,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,11,14,1,0
+102,1020031,Seddon Park,New Zealand,C de Grandhomme,Right-arm fast-medium,"[0, 1, 1]",0,6,6,1,0
+103,1020031,Seddon Park,New Zealand,IS Sodhi,Right-arm legbreak,"[1, 1, 1]",0,10,13,1,0
+104,1020033,Hagley Oval,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,12,17,2,0
+105,1020033,Hagley Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,14,18,2,0
+106,1020033,Hagley Oval,New Zealand,C de Grandhomme,Right-arm fast-medium,"[0, 1, 1]",0,4,6,0,0
+107,1020033,Hagley Oval,New Zealand,IS Sodhi,Right-arm legbreak,"[1, 1, 1]",0,9,7,1,0
+108,1020033,Hagley Oval,New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",0,8,8,1,0
+109,1020035,Westpac Stadium,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,23,19,4,0
+110,1020035,Westpac Stadium,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,11,14,1,0
+111,1020035,Westpac Stadium,New Zealand,C de Grandhomme,Right-arm fast-medium,"[0, 1, 1]",1,11,17,1,0
+112,1020035,Westpac Stadium,New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,18,16,0,2
+113,1020039,Eden Park,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,5,4,1,0
+114,1144507,Edgbaston,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,4,5,1,0
+115,1144507,Edgbaston,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+116,656491,Eden Park,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,12,12,2,0
+117,656491,Eden Park,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+118,749771,Bay Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,0,1,0,0
+119,749771,Bay Oval,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,9,4,2,0
+120,749773,Bay Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,11,17,1,0
+121,749773,Bay Oval,New Zealand,CJ Anderson,Left-arm fast-medium,"[0, 0, 1]",0,1,1,0,0
+122,749773,Bay Oval,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,7,7,1,0
+123,749775,Seddon Park,New Zealand,CJ Anderson,Left-arm fast-medium,"[0, 0, 1]",0,10,8,2,0
+124,749775,Seddon Park,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,6,12,0,0
+125,749775,Seddon Park,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",0,24,26,4,0
+126,749775,Seddon Park,New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",0,10,7,2,0
+127,1022359,Edgbaston,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",0,12,15,1,0
+128,1022359,Edgbaston,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,7,15,0,0
+129,1022359,Edgbaston,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",1,11,11,1,0
+130,1144512,Lord's,Pakistan,Wahab Riaz,Left-arm fast,"[0, 0, 0]",0,16,14,1,1
+131,1144512,Lord's,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,2,13,0,0
+132,1144512,Lord's,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,6,7,0,0
+133,1144512,Lord's,Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,3,10,0,0
+134,649095,Sheikh Zayed Stadium,Pakistan,Wahab Riaz,Left-arm fast,"[0, 0, 0]",0,8,10,1,0
+135,649095,Sheikh Zayed Stadium,Pakistan,Sohail Tanvir,Left-arm fast-medium,"[0, 0, 1]",0,7,11,1,0
+136,649095,Sheikh Zayed Stadium,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,11,10,1,0
+137,649095,Sheikh Zayed Stadium,Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",0,3,9,0,0
+138,649095,Sheikh Zayed Stadium,Pakistan,Mohammad Irfan,Left-arm fast-medium,"[0, 0, 1]",0,10,11,2,0
+139,649097,Sheikh Zayed Stadium,Pakistan,Sohail Tanvir,Left-arm fast-medium,"[0, 0, 1]",0,11,16,1,0
+140,649097,Sheikh Zayed Stadium,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,17,25,1,0
+141,649097,Sheikh Zayed Stadium,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",1,24,26,4,0
+142,649097,Sheikh Zayed Stadium,Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",0,10,22,0,0
+143,649097,Sheikh Zayed Stadium,Pakistan,Mohammad Irfan,Left-arm fast-medium,"[0, 0, 1]",0,25,19,2,1
+144,649099,Sharjah Cricket Stadium,Pakistan,Sohail Tanvir,Left-arm fast-medium,"[0, 0, 1]",0,14,26,1,0
+145,649099,Sharjah Cricket Stadium,Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",1,2,7,0,0
+146,649099,Sharjah Cricket Stadium,Pakistan,Mohammad Irfan,Left-arm fast-medium,"[0, 0, 1]",0,17,8,4,0
+147,649099,Sharjah Cricket Stadium,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,1,1,0,0
+148,656455,Eden Park,Pakistan,Mohammad Irfan,Left-arm fast-medium,"[0, 0, 1]",1,0,2,0,0
+149,1144988,Bellerive Oval,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",1,4,7,0,0
+150,1185319,Boland Park,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,2,2,0,0
+151,1185319,Boland Park,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",1,1,5,0,0
+152,1185319,Boland Park,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,12,9,1,0
+153,1185320,Mangaung Oval,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",1,0,2,0,0
+154,1185321,Senwes Park,Australia,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",0,7,3,0,1
+155,1185321,Senwes Park,Australia,JA Richardson,Right-arm fast,"[0, 1, 0]",0,16,22,2,1
+156,1185321,Senwes Park,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",1,3,6,0,0
+157,936135,SuperSport Park,Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",0,37,25,2,3
+158,936135,SuperSport Park,Australia,DJ Worrall,Right-arm fast-medium,"[0, 1, 1]",0,37,29,3,2
+159,936135,SuperSport Park,Australia,SM Boland,Right-arm fast-medium,"[0, 1, 1]",1,27,15,4,1
+160,936135,SuperSport Park,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,36,17,3,3
+161,936135,SuperSport Park,Australia,TM Head,Right-arm offbreak,"[1, 1, 0]",0,12,8,2,0
+162,936137,New Wanderers Stadium,Australia,JM Mennie,Right-arm fast-medium,"[0, 1, 1]",0,18,16,2,0
+163,936137,New Wanderers Stadium,Australia,CP Tremain,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+164,936139,Kingsmead,Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",0,13,5,1,1
+165,936139,Kingsmead,Australia,DJ Worrall,Right-arm fast-medium,"[0, 1, 1]",0,4,9,0,0
+166,936139,Kingsmead,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,8,5,1,0
+167,936139,Kingsmead,Australia,CP Tremain,Right-arm fast-medium,"[0, 1, 1]",1,15,13,1,0
+168,936139,Kingsmead,Australia,TM Head,Right-arm offbreak,"[1, 1, 0]",0,19,9,2,1
+169,936141,St George's Park,Australia,CP Tremain,Right-arm fast-medium,"[0, 1, 1]",1,9,7,2,0
+170,936141,St George's Park,Australia,SM Boland,Right-arm fast-medium,"[0, 1, 1]",0,9,8,1,0
+171,936143,Newlands,Australia,CP Tremain,Right-arm fast-medium,"[0, 1, 1]",0,9,9,0,0
+172,936143,Newlands,Australia,SM Boland,Right-arm fast-medium,"[0, 1, 1]",1,3,9,0,0
+173,1075505,Boland Park,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,12,17,0,0
+174,1075505,Boland Park,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,8,13,0,0
+175,1075505,Boland Park,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,12,13,0,0
+176,1075506,Buffalo Park,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,11,8,0,1
+177,1075506,Buffalo Park,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,3,8,0,0
+178,1075506,Buffalo Park,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,21,17,4,0
+179,1277099,"SuperSport Park, Centurion",Bangladesh,Shoriful Islam,Left-arm fast-medium,"[0, 0, 1]",0,2,3,0,0
+180,1277099,"SuperSport Park, Centurion",Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,5,2,1,0
+181,1185310,Newlands,England,CJ Jordan,Right-arm fast-medium,"[0, 1, 1]",0,4,5,0,0
+182,1185310,Newlands,England,JL Denly,Right-arm legbreak,"[1, 1, 1]",0,11,8,1,0
+183,1185310,Newlands,England,MW Parkinson,Right-arm legbreak,"[1, 1, 1]",0,20,15,3,0
+184,1185312,The Wanderers Stadium,England,S Mahmood,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+185,1185312,The Wanderers Stadium,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,20,22,1,1
+186,1185312,The Wanderers Stadium,England,CJ Jordan,Right-arm fast-medium,"[0, 1, 1]",0,9,13,0,1
+187,1185312,The Wanderers Stadium,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",1,11,13,0,0
+188,1276910,"Riverside Ground, Chester-le-Street",England,MJ Potts,Right-arm fast-medium,"[0, 1, 1]",0,13,10,2,0
+189,1276912,"Headingley, Leeds",England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,13,18,1,0
+190,1276912,"Headingley, Leeds",England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,21,20,3,0
+191,1276912,"Headingley, Leeds",England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,26,21,4,0
+192,800469,Mangaung Oval,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,27,15,0,3
+193,800469,Mangaung Oval,England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,18,15,0,1
+194,800469,Mangaung Oval,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,21,16,2,1
+195,800469,Mangaung Oval,England,CJ Jordan,Right-arm fast-medium,"[0, 1, 1]",0,33,19,5,1
+196,800469,Mangaung Oval,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,30,23,4,0
+197,800471,St George's Park,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",1,8,8,2,0
+198,800471,St George's Park,England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,6,7,1,0
+199,800473,SuperSport Park,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,37,26,4,1
+200,800473,SuperSport Park,England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,29,23,6,0
+201,800473,SuperSport Park,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,14,13,1,0
+202,800473,SuperSport Park,England,CJ Jordan,Right-arm fast-medium,"[0, 1, 1]",0,17,17,2,1
+203,800473,SuperSport Park,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",1,21,24,1,1
+204,800475,New Wanderers Stadium,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",0,16,16,3,0
+205,800475,New Wanderers Stadium,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",1,4,7,0,0
+206,800475,New Wanderers Stadium,England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,2,9,0,0
+207,800477,Newlands,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",0,0,8,0,0
+208,800477,Newlands,England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",1,4,10,1,0
+209,1122279,Kingsmead,India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",0,14,10,2,0
+210,1122279,Kingsmead,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,9,17,2,0
+211,1122279,Kingsmead,India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",1,7,10,0,0
+212,1122279,Kingsmead,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,4,12,0,0
+213,1122280,SuperSport Park,India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",0,9,8,2,0
+214,1122280,SuperSport Park,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,6,18,0,0
+215,1122280,SuperSport Park,India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",1,3,7,0,0
+216,1122280,SuperSport Park,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+217,1277082,"Boland Park, Paarl",India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,6,11,1,0
+218,1277082,"Boland Park, Paarl",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,3,4,0,0
+219,1277082,"Boland Park, Paarl",India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,7,14,0,0
+220,1277082,"Boland Park, Paarl",India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",0,6,8,1,0
+221,1277084,"Newlands, Cape Town",India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",1,20,24,2,0
+222,1277084,"Newlands, Cape Town",India,DL Chahar,Right-arm medium,"[0, 1, 2]",0,37,32,5,0
+223,1277084,"Newlands, Cape Town",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,15,18,2,0
+224,1277084,"Newlands, Cape Town",India,J Yadav,Right-arm offbreak,"[1, 1, 0]",0,29,34,2,1
+225,648651,New Wanderers Stadium,India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,9,16,1,0
+226,648651,New Wanderers Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,29,26,5,0
+227,648651,New Wanderers Stadium,India,MM Sharma,Right-arm fast-medium,"[0, 1, 1]",0,21,19,2,1
+228,648653,Kingsmead,India,I Sharma,Right-arm fast-medium,"[0, 1, 1]",0,18,20,2,0
+229,648653,Kingsmead,India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,17,18,3,0
+230,648653,Kingsmead,India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,9,11,2,0
+231,648655,SuperSport Park,India,I Sharma,Right-arm fast-medium,"[0, 1, 1]",1,6,17,0,0
+232,648655,SuperSport Park,India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,8,20,1,0
+233,648655,SuperSport Park,India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,26,21,5,0
+234,1251952,"The Village, Malahide, Dublin",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,19,17,3,0
+235,1251952,"The Village, Malahide, Dublin",Ireland,J Little,Left-arm fast,"[0, 0, 0]",0,14,16,1,0
+236,1251952,"The Village, Malahide, Dublin",Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,30,14,3,2
+237,1251952,"The Village, Malahide, Dublin",Ireland,MR Adair,Right-arm fast,"[0, 1, 0]",0,13,9,2,0
+238,1251952,"The Village, Malahide, Dublin",Ireland,Simi Singh,Right-arm offbreak,"[1, 1, 0]",1,10,16,0,0
+239,1251952,"The Village, Malahide, Dublin",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,34,20,2,3
+240,936131,Willowmoore Park,Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,29,18,5,1
+241,936131,Willowmoore Park,Ireland,PKD Chase,Right-arm fast-medium,"[0, 1, 1]",0,10,9,1,0
+242,936131,Willowmoore Park,Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,14,13,1,0
+243,936131,Willowmoore Park,Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,16,17,1,0
+244,936131,Willowmoore Park,Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",1,13,11,0,1
+245,567358,Boland Park,New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",0,12,18,1,0
+246,567359,De Beers Diamond Oval,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",1,4,13,0,0
+247,567360,Senwes Park,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,12,15,2,0
+248,567360,Senwes Park,New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",0,3,3,0,0
+249,1144158,SuperSport Park,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,15,14,2,0
+250,1144158,SuperSport Park,Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,10,11,1,0
+251,1144158,SuperSport Park,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,5,5,1,0
+252,1144159,The Wanderers Stadium,Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",1,0,6,0,0
+253,1144159,The Wanderers Stadium,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",0,0,2,0,0
+254,1144160,Newlands,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",1,35,22,3,3
+255,1144160,Newlands,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,6,5,1,0
+256,1144160,Newlands,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,6,8,0,0
+257,1144160,Newlands,Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,10,10,2,0
+258,1251572,"SuperSport Park, Centurion",Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",1,20,18,3,1
+259,1251573,The Wanderers Stadium,Pakistan,Mohammad Hasnain,Right-arm fast-medium,"[0, 1, 1]",0,14,16,2,0
+260,1251573,The Wanderers Stadium,Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,26,23,5,0
+261,1251573,The Wanderers Stadium,Pakistan,Haris Rauf,Right-arm fast,"[0, 1, 0]",1,18,17,1,1
+262,567372,Willowmoore Park,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",1,2,3,0,0
+263,567372,Willowmoore Park,Pakistan,Mohammad Irfan,Left-arm fast-medium,"[0, 0, 1]",0,1,9,0,0
+264,685731,Newlands,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",0,5,6,1,0
+265,685731,Newlands,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,5,9,1,0
+266,685731,Newlands,Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",0,3,4,0,0
+267,685733,St George's Park,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,7,11,0,0
+268,685733,St George's Park,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",0,4,9,1,0
+269,685733,St George's Park,Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",0,4,7,0,0
+270,685733,St George's Park,Pakistan,Anwar Ali,Right-arm fast-medium,"[0, 1, 1]",0,13,12,1,0
+271,685735,SuperSport Park,Pakistan,Sohail Tanvir,Left-arm fast-medium,"[0, 0, 1]",0,10,12,2,0
+272,685735,SuperSport Park,Pakistan,Anwar Ali,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+273,1022351,Kennington Oval,Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",1,7,9,1,0
+274,1022351,Kennington Oval,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,8,18,1,0
+275,1022351,Kennington Oval,Sri Lanka,DAS Gunaratne,Right-arm medium,"[0, 1, 2]",0,4,4,0,0
+276,1142586,Pallekele International Cricket Stadium,Sri Lanka,CBRLS Kumara,Right-arm fast-medium,"[0, 1, 1]",1,1,3,0,0
+277,1144167,The Wanderers Stadium,Sri Lanka,MVT Fernando,Left-arm fast-medium,"[0, 0, 1]",0,8,7,1,0
+278,1144167,The Wanderers Stadium,Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",0,17,12,3,0
+279,1144167,The Wanderers Stadium,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,5,12,0,0
+280,1144167,The Wanderers Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,22,17,3,0
+281,1144167,The Wanderers Stadium,Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",1,21,18,4,0
+282,1144168,SuperSport Park,Sri Lanka,CAK Rajitha,Right-arm fast-medium,"[0, 1, 1]",0,16,12,4,0
+283,1144168,SuperSport Park,Sri Lanka,MVT Fernando,Left-arm fast-medium,"[0, 0, 1]",0,27,17,6,0
+284,1144168,SuperSport Park,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,23,12,4,1
+285,1144168,SuperSport Park,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,10,12,1,0
+286,1144168,SuperSport Park,Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",0,17,12,2,0
+287,1144169,Kingsmead,Sri Lanka,CAK Rajitha,Right-arm fast-medium,"[0, 1, 1]",1,33,22,6,0
+288,1144169,Kingsmead,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,18,21,3,0
+289,1144169,Kingsmead,Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",0,23,24,0,2
+290,1144169,Kingsmead,Sri Lanka,PHKD Mendis,Right-arm offbreak,"[1, 1, 0]",0,4,10,0,0
+291,1144170,St George's Park,Sri Lanka,CAK Rajitha,Right-arm fast-medium,"[0, 1, 1]",0,9,8,1,0
+292,1144170,St George's Park,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",1,17,22,3,0
+293,1144170,St George's Park,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,5,9,0,0
+294,1144170,St George's Park,Sri Lanka,PHKD Mendis,Right-arm offbreak,"[1, 1, 0]",0,8,7,1,0
+295,1144171,Newlands,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,2,5,0,0
+296,1144171,Newlands,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,4,9,1,0
+297,1144517,Riverside Ground,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,9,11,2,0
+298,1144517,Riverside Ground,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,6,5,1,0
+299,656483,Sydney Cricket Ground,Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",0,6,8,0,0
+300,656483,Sydney Cricket Ground,Sri Lanka,PHT Kaushal,Right-arm offbreak,"[1, 1, 0]",0,14,16,1,0
+301,656483,Sydney Cricket Ground,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,23,17,3,0
+302,656483,Sydney Cricket Ground,Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,15,11,3,0
+303,936159,St George's Park,Sri Lanka,JDF Vandersay,Right-arm legbreak,"[1, 1, 1]",0,1,1,0,0
+304,936159,St George's Park,Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",1,9,5,2,0
+305,936159,St George's Park,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,4,7,0,0
+306,936161,Kingsmead,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",1,2,6,0,0
+307,936161,Kingsmead,Sri Lanka,PC de Silva,Left-arm orthodox,"[1, 0, 1]",0,4,1,1,0
+308,936163,New Wanderers Stadium,Sri Lanka,CBRLS Kumara,Right-arm fast-medium,"[0, 1, 1]",1,2,3,0,0
+309,936165,Newlands,Sri Lanka,SS Pathirana,Left-arm orthodox,"[1, 0, 1]",1,0,1,0,0
+310,936165,Newlands,Sri Lanka,CBRLS Kumara,Right-arm fast-medium,"[0, 1, 1]",0,18,9,4,0
+311,936165,Newlands,Sri Lanka,LD Madushanka,Right-arm fast-medium,"[0, 1, 1]",0,9,10,1,0
+312,936165,Newlands,Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",0,11,4,1,1
+313,936165,Newlands,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,3,8,0,0
+314,936167,SuperSport Park,Sri Lanka,SS Pathirana,Left-arm orthodox,"[1, 0, 1]",0,10,5,2,0
+315,936167,SuperSport Park,Sri Lanka,JDF Vandersay,Right-arm legbreak,"[1, 1, 1]",0,17,18,1,0
+316,936167,SuperSport Park,Sri Lanka,CBRLS Kumara,Right-arm fast-medium,"[0, 1, 1]",0,22,18,4,0
+317,936167,SuperSport Park,Sri Lanka,LD Madushanka,Right-arm fast-medium,"[0, 1, 1]",0,14,11,3,0
+318,936167,SuperSport Park,Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,11,11,1,0
+319,936167,SuperSport Park,Sri Lanka,DAS Gunaratne,Right-arm medium,"[0, 1, 2]",0,23,16,3,0
+320,656469,Westpac Stadium,United Arab Emirates,Mohammad Tauqir,Right-arm offbreak,"[1, 1, 0]",0,3,4,0,0
+321,1144497,The Rose Bowl,West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,4,8,0,0
+322,1144497,The Rose Bowl,West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",0,12,13,1,0
+323,656435,Sydney Cricket Ground,West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",0,8,12,2,0
+324,722347,SuperSport Park,West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",0,4,6,1,0
+325,656403,Seddon Park,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",1,2,6,0,0
+326,656403,Seddon Park,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",0,5,10,1,0
+327,1142584,Rangiri Dambulla International Stadium,Sri Lanka,GSNFG Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,14,14,1,1
+328,1142584,Rangiri Dambulla International Stadium,Sri Lanka,CBRLS Kumara,Right-arm fast-medium,"[0, 1, 1]",0,5,10,0,0
+329,1142584,Rangiri Dambulla International Stadium,Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",0,7,7,1,0
+330,1142584,Rangiri Dambulla International Stadium,Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",1,12,17,1,0
+331,1142585,Rangiri Dambulla International Stadium,Sri Lanka,GSNFG Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,5,7,0,0
+332,1142585,Rangiri Dambulla International Stadium,Sri Lanka,CAK Rajitha,Right-arm fast-medium,"[0, 1, 1]",1,15,10,3,0
+333,1142585,Rangiri Dambulla International Stadium,Sri Lanka,NGRP Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,17,20,2,0
+334,1142585,Rangiri Dambulla International Stadium,Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",0,23,17,3,1
+335,1142587,Pallekele International Cricket Stadium,Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",0,4,4,1,0
+336,1142588,"R.Premadasa Stadium, Khettarama",Sri Lanka,CBRLS Kumara,Right-arm fast-medium,"[0, 1, 1]",0,12,6,2,0
+337,1142588,"R.Premadasa Stadium, Khettarama",Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,14,16,2,0
+338,1142588,"R.Premadasa Stadium, Khettarama",Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",1,17,22,3,0
+339,635655,Pallekele International Cricket Stadium,Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",0,4,6,0,0
+340,635655,Pallekele International Cricket Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,9,12,2,0
+341,635655,Pallekele International Cricket Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+342,635656,Pallekele International Cricket Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,0,3,0,0
+343,635656,Pallekele International Cricket Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,8,6,2,0
+344,635657,R Premadasa Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,12,9,2,0
+345,730083,R Premadasa Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",1,2,8,0,0
+346,730083,R Premadasa Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,5,6,1,0
+347,730083,R Premadasa Stadium,Sri Lanka,BAW Mendis,Right-arm offbreak,"[1, 1, 0]",0,2,2,0,0
+348,730085,Pallekele International Cricket Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,4,6,1,0
+349,730087,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",0,24,24,3,0
+350,730087,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",0,17,25,1,0
+351,730087,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,12,15,1,0
+352,730087,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,17,10,3,0
+353,730087,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,BAW Mendis,Right-arm offbreak,"[1, 1, 0]",0,18,17,1,0
+354,932849,Providence Stadium,West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",0,1,1,0,0
+355,932849,Providence Stadium,West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",0,19,18,4,0
+356,932859,"Warner Park, Basseterre",West Indies,KA Pollard,Right-arm medium,"[0, 1, 2]",0,17,23,1,0
+357,932859,"Warner Park, Basseterre",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,9,20,1,0
+358,932859,"Warner Park, Basseterre",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",0,11,17,1,0
+359,932859,"Warner Park, Basseterre",West Indies,SJ Benn,Left-arm orthodox,"[1, 0, 1]",0,19,19,2,0
+360,932865,"Kensington Oval, Bridgetown",West Indies,ST Gabriel,Right-arm fast-medium,"[0, 1, 1]",1,4,2,1,0
+361,736437,Queens Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,8,11,1,0
+362,736437,Queens Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,5,4,0,0
+363,736437,Queens Sports Club,Zimbabwe,N Madziva,Right-arm medium,"[0, 1, 2]",0,14,11,3,0
+364,736439,Queens Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,4,3,0,0
+365,736439,Queens Sports Club,Zimbabwe,N Madziva,Right-arm medium,"[0, 1, 2]",0,11,10,2,0
+366,736441,Queens Sports Club,Zimbabwe,T Kamungozi,Right-arm legbreak,"[1, 1, 1]",0,8,6,1,0
+367,736441,Queens Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,1,3,0,0
+368,736441,Queens Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,15,17,2,0
+369,736441,Queens Sports Club,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",1,26,24,2,1
+370,736447,Harare Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,10,14,0,0
+371,736447,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,7,11,0,0
+372,736453,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",1,2,4,0,0

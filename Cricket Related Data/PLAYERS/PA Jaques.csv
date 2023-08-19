@@ -1,0 +1,10 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,256608,Kinrara Academy Oval,India,AB Agarkar,Right-arm fast-medium,"[0, 1, 1]",0,23,18,2,1
+1,256608,Kinrara Academy Oval,India,MM Patel,Right-arm fast-medium,"[0, 1, 1]",1,2,8,0,0
+2,226376,Docklands Stadium,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,36,27,8,0
+3,226376,Docklands Stadium,South Africa,GJP Kruger,Right-arm fast-medium,"[0, 1, 1]",0,23,20,4,0
+4,226376,Docklands Stadium,South Africa,AJ Hall,Right-arm fast-medium,"[0, 1, 1]",0,13,22,2,0
+5,226376,Docklands Stadium,South Africa,JJ van der Wath,Right-arm fast-medium,"[0, 1, 1]",1,4,11,0,0
+6,251494,Westpac Stadium,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",1,0,4,0,0
+7,251495,Eden Park,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",1,0,12,0,0
+8,238197,Newlands,South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",1,0,4,0,0

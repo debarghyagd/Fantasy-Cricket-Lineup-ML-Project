@@ -1,0 +1,217 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Imam-ul-Haq,Fakhar Zaman,S Mahmood,0,0,null,0,1,Imam-ul-Haq,lbw
+1,0.2,Babar Azam,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+2,0.3,Babar Azam,Fakhar Zaman,S Mahmood,0,0,null,0,1,Babar Azam,caught
+3,0.4,Mohammad Rizwan,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+4,0.5,Mohammad Rizwan,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+5,0.6,Mohammad Rizwan,Fakhar Zaman,S Mahmood,4,0,null,4,0,null,null
+6,1.1,Fakhar Zaman,Mohammad Rizwan,L Gregory,0,0,null,0,0,null,null
+7,1.2,Fakhar Zaman,Mohammad Rizwan,L Gregory,0,0,null,0,0,null,null
+8,1.3,Fakhar Zaman,Mohammad Rizwan,L Gregory,0,0,null,0,0,null,null
+9,1.4,Fakhar Zaman,Mohammad Rizwan,L Gregory,0,0,null,0,0,null,null
+10,1.5,Fakhar Zaman,Mohammad Rizwan,L Gregory,0,0,null,0,0,null,null
+11,1.6,Fakhar Zaman,Mohammad Rizwan,L Gregory,0,0,null,0,0,null,null
+12,2.1,Mohammad Rizwan,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+13,2.2,Mohammad Rizwan,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+14,2.3,Mohammad Rizwan,Fakhar Zaman,S Mahmood,4,0,null,4,0,null,null
+15,2.4,Mohammad Rizwan,Fakhar Zaman,S Mahmood,1,0,null,1,0,null,null
+16,2.5,Fakhar Zaman,Mohammad Rizwan,S Mahmood,1,0,null,1,0,null,null
+17,2.6,Mohammad Rizwan,Fakhar Zaman,S Mahmood,4,0,null,4,0,null,null
+18,3.1,Fakhar Zaman,Mohammad Rizwan,L Gregory,3,0,null,3,0,null,null
+19,3.2,Mohammad Rizwan,Fakhar Zaman,L Gregory,0,0,null,0,1,Mohammad Rizwan,caught
+20,3.3,Saud Shakeel,Fakhar Zaman,L Gregory,0,0,null,0,0,null,null
+21,3.4,Saud Shakeel,Fakhar Zaman,L Gregory,0,0,null,0,0,null,null
+22,3.5,Saud Shakeel,Fakhar Zaman,L Gregory,0,0,null,0,0,null,null
+23,3.6,Saud Shakeel,Fakhar Zaman,L Gregory,0,0,null,0,0,null,null
+24,4.1,Fakhar Zaman,Saud Shakeel,S Mahmood,0,0,null,0,0,null,null
+25,4.2,Fakhar Zaman,Saud Shakeel,S Mahmood,1,0,null,1,0,null,null
+26,4.3,Saud Shakeel,Fakhar Zaman,S Mahmood,4,0,null,4,0,null,null
+27,4.4,Saud Shakeel,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+28,4.5,Saud Shakeel,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+29,4.6,Saud Shakeel,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+30,5.1,Fakhar Zaman,Saud Shakeel,L Gregory,0,0,null,0,0,null,null
+31,5.2,Fakhar Zaman,Saud Shakeel,L Gregory,0,0,null,0,0,null,null
+32,5.3,Fakhar Zaman,Saud Shakeel,L Gregory,2,0,null,2,0,null,null
+33,5.4,Fakhar Zaman,Saud Shakeel,L Gregory,0,0,null,0,0,null,null
+34,5.5,Fakhar Zaman,Saud Shakeel,L Gregory,0,0,null,0,0,null,null
+35,5.6,Fakhar Zaman,Saud Shakeel,L Gregory,0,0,null,0,0,null,null
+36,6.1,Saud Shakeel,Fakhar Zaman,S Mahmood,1,0,null,1,0,null,null
+37,6.2,Fakhar Zaman,Saud Shakeel,S Mahmood,1,0,null,1,0,null,null
+38,6.3,Saud Shakeel,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+39,6.4,Saud Shakeel,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+40,6.5,Saud Shakeel,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+41,6.6,Saud Shakeel,Fakhar Zaman,S Mahmood,0,0,null,0,1,Saud Shakeel,lbw
+42,7.1,Fakhar Zaman,Sohaib Maqsood,L Gregory,0,0,null,0,0,null,null
+43,7.2,Fakhar Zaman,Sohaib Maqsood,L Gregory,0,0,null,0,0,null,null
+44,7.3,Fakhar Zaman,Sohaib Maqsood,L Gregory,0,0,null,0,0,null,null
+45,7.4,Fakhar Zaman,Sohaib Maqsood,L Gregory,1,0,null,1,0,null,null
+46,7.5,Sohaib Maqsood,Fakhar Zaman,L Gregory,1,0,null,1,0,null,null
+47,7.6,Fakhar Zaman,Sohaib Maqsood,L Gregory,4,0,null,4,0,null,null
+48,8.1,Sohaib Maqsood,Fakhar Zaman,S Mahmood,0,0,null,0,0,null,null
+49,8.2,Sohaib Maqsood,Fakhar Zaman,S Mahmood,1,0,null,1,0,null,null
+50,8.3,Fakhar Zaman,Sohaib Maqsood,S Mahmood,4,0,null,4,0,null,null
+51,8.4,Fakhar Zaman,Sohaib Maqsood,S Mahmood,0,0,null,0,0,null,null
+52,8.5,Fakhar Zaman,Sohaib Maqsood,S Mahmood,0,0,null,0,0,null,null
+53,8.6,Fakhar Zaman,Sohaib Maqsood,S Mahmood,1,0,null,1,0,null,null
+54,9.1,Fakhar Zaman,Sohaib Maqsood,C Overton,0,0,null,0,0,null,null
+55,9.2,Fakhar Zaman,Sohaib Maqsood,C Overton,4,0,null,4,0,null,null
+56,9.3,Fakhar Zaman,Sohaib Maqsood,C Overton,0,0,null,0,0,null,null
+57,9.4,Fakhar Zaman,Sohaib Maqsood,C Overton,4,0,null,4,0,null,null
+58,9.5,Fakhar Zaman,Sohaib Maqsood,C Overton,0,0,null,0,0,null,null
+59,9.6,Fakhar Zaman,Sohaib Maqsood,C Overton,0,0,null,0,0,null,null
+60,10.1,Sohaib Maqsood,Fakhar Zaman,BA Carse,1,0,null,1,0,null,null
+61,10.2,Fakhar Zaman,Sohaib Maqsood,BA Carse,0,0,null,0,0,null,null
+62,10.3,Fakhar Zaman,Sohaib Maqsood,BA Carse,0,0,null,0,0,null,null
+63,10.4,Fakhar Zaman,Sohaib Maqsood,BA Carse,4,0,null,4,0,null,null
+64,10.5,Fakhar Zaman,Sohaib Maqsood,BA Carse,0,0,null,0,0,null,null
+65,10.6,Fakhar Zaman,Sohaib Maqsood,BA Carse,0,0,null,0,0,null,null
+66,11.1,Sohaib Maqsood,Fakhar Zaman,C Overton,0,0,null,0,0,null,null
+67,11.2,Sohaib Maqsood,Fakhar Zaman,C Overton,0,0,null,0,0,null,null
+68,11.3,Sohaib Maqsood,Fakhar Zaman,C Overton,4,0,null,4,0,null,null
+69,11.4,Sohaib Maqsood,Fakhar Zaman,C Overton,2,0,null,2,0,null,null
+70,11.5,Sohaib Maqsood,Fakhar Zaman,C Overton,0,0,null,0,0,null,null
+71,11.6,Sohaib Maqsood,Fakhar Zaman,C Overton,0,0,null,0,0,null,null
+72,12.1,Fakhar Zaman,Sohaib Maqsood,BA Carse,0,0,null,0,0,null,null
+73,12.2,Fakhar Zaman,Sohaib Maqsood,BA Carse,1,0,null,1,0,null,null
+74,12.3,Sohaib Maqsood,Fakhar Zaman,BA Carse,0,0,null,0,0,null,null
+75,12.4,Sohaib Maqsood,Fakhar Zaman,BA Carse,0,0,null,0,0,null,null
+76,12.5,Sohaib Maqsood,Fakhar Zaman,BA Carse,6,0,null,6,0,null,null
+77,12.6,Sohaib Maqsood,Fakhar Zaman,BA Carse,0,0,null,0,0,null,null
+78,13.1,Fakhar Zaman,Sohaib Maqsood,C Overton,1,0,null,1,0,null,null
+79,13.2,Sohaib Maqsood,Fakhar Zaman,C Overton,0,0,null,0,0,null,null
+80,13.3,Sohaib Maqsood,Fakhar Zaman,C Overton,0,0,null,0,0,null,null
+81,13.4,Sohaib Maqsood,Fakhar Zaman,C Overton,0,0,null,0,0,null,null
+82,13.5,Sohaib Maqsood,Fakhar Zaman,C Overton,0,0,null,0,0,null,null
+83,13.6,Sohaib Maqsood,Fakhar Zaman,C Overton,0,0,null,0,0,null,null
+84,14.1,Fakhar Zaman,Sohaib Maqsood,BA Carse,0,0,null,0,0,null,null
+85,14.2,Fakhar Zaman,Sohaib Maqsood,BA Carse,1,0,null,1,0,null,null
+86,14.3,Sohaib Maqsood,Fakhar Zaman,BA Carse,0,0,null,0,0,null,null
+87,14.4,Sohaib Maqsood,Fakhar Zaman,BA Carse,0,0,null,0,0,null,null
+88,14.5,Sohaib Maqsood,Fakhar Zaman,BA Carse,1,0,null,1,0,null,null
+89,14.6,Fakhar Zaman,Sohaib Maqsood,BA Carse,0,0,null,0,0,null,null
+90,15.1,Sohaib Maqsood,Fakhar Zaman,C Overton,0,0,null,0,0,null,null
+91,15.2,Sohaib Maqsood,Fakhar Zaman,C Overton,0,0,null,0,0,null,null
+92,15.3,Sohaib Maqsood,Fakhar Zaman,C Overton,1,0,null,1,0,null,null
+93,15.4,Fakhar Zaman,Sohaib Maqsood,C Overton,2,0,null,2,0,null,null
+94,15.5,Fakhar Zaman,Sohaib Maqsood,C Overton,0,0,null,0,0,null,null
+95,15.6,Fakhar Zaman,Sohaib Maqsood,C Overton,0,0,null,0,0,null,null
+96,16.1,Sohaib Maqsood,Fakhar Zaman,BA Carse,0,0,null,0,0,null,null
+97,16.2,Sohaib Maqsood,Fakhar Zaman,BA Carse,1,0,null,1,0,null,null
+98,16.3,Fakhar Zaman,Sohaib Maqsood,BA Carse,0,0,null,0,0,null,null
+99,16.4,Fakhar Zaman,Sohaib Maqsood,BA Carse,1,0,null,1,0,null,null
+100,16.5,Sohaib Maqsood,Fakhar Zaman,BA Carse,0,0,null,0,0,null,null
+101,16.6,Sohaib Maqsood,Fakhar Zaman,BA Carse,0,0,null,0,0,null,null
+102,17.1,Fakhar Zaman,Sohaib Maqsood,MW Parkinson,0,0,null,0,0,null,null
+103,17.2,Fakhar Zaman,Sohaib Maqsood,MW Parkinson,1,0,null,1,0,null,null
+104,17.3,Sohaib Maqsood,Fakhar Zaman,MW Parkinson,1,0,null,1,0,null,null
+105,17.4,Fakhar Zaman,Sohaib Maqsood,MW Parkinson,1,0,null,1,0,null,null
+106,17.5,Sohaib Maqsood,Fakhar Zaman,MW Parkinson,0,0,null,0,0,null,null
+107,17.6,Sohaib Maqsood,Fakhar Zaman,MW Parkinson,0,0,null,0,0,null,null
+108,18.1,Fakhar Zaman,Sohaib Maqsood,BA Carse,4,0,null,4,0,null,null
+109,18.2,Fakhar Zaman,Sohaib Maqsood,BA Carse,0,0,null,0,0,null,null
+110,18.3,Fakhar Zaman,Sohaib Maqsood,BA Carse,0,0,null,0,1,Sohaib Maqsood,run out
+111,18.4,Fakhar Zaman,Shadab Khan,BA Carse,0,0,null,0,0,null,null
+112,18.5,Fakhar Zaman,Shadab Khan,BA Carse,0,1,wides ,1,0,null,null
+113,18.6,Fakhar Zaman,Shadab Khan,BA Carse,0,0,null,0,0,null,null
+114,18.7,Fakhar Zaman,Shadab Khan,BA Carse,2,0,null,2,0,null,null
+115,19.1,Shadab Khan,Fakhar Zaman,MW Parkinson,0,0,null,0,0,null,null
+116,19.2,Shadab Khan,Fakhar Zaman,MW Parkinson,1,0,null,1,0,null,null
+117,19.3,Fakhar Zaman,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+118,19.4,Fakhar Zaman,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+119,19.5,Fakhar Zaman,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+120,19.6,Fakhar Zaman,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+121,20.1,Shadab Khan,Fakhar Zaman,BA Stokes,1,1,noballs ,2,0,null,null
+122,20.2,Fakhar Zaman,Shadab Khan,BA Stokes,0,0,null,0,0,null,null
+123,20.3,Fakhar Zaman,Shadab Khan,BA Stokes,2,0,null,2,0,null,null
+124,20.4,Fakhar Zaman,Shadab Khan,BA Stokes,1,0,null,1,0,null,null
+125,20.5,Shadab Khan,Fakhar Zaman,BA Stokes,0,0,null,0,0,null,null
+126,20.6,Shadab Khan,Fakhar Zaman,BA Stokes,1,0,null,1,0,null,null
+127,20.7,Fakhar Zaman,Shadab Khan,BA Stokes,0,0,null,0,0,null,null
+128,21.1,Shadab Khan,Fakhar Zaman,MW Parkinson,0,0,null,0,0,null,null
+129,21.2,Shadab Khan,Fakhar Zaman,MW Parkinson,0,0,null,0,0,null,null
+130,21.3,Shadab Khan,Fakhar Zaman,MW Parkinson,1,0,null,1,0,null,null
+131,21.4,Fakhar Zaman,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+132,21.5,Fakhar Zaman,Shadab Khan,MW Parkinson,0,0,null,0,1,Fakhar Zaman,caught
+133,21.6,Faheem Ashraf,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+134,22.1,Shadab Khan,Faheem Ashraf,S Mahmood,0,0,null,0,0,null,null
+135,22.2,Shadab Khan,Faheem Ashraf,S Mahmood,0,0,null,0,0,null,null
+136,22.3,Shadab Khan,Faheem Ashraf,S Mahmood,0,0,null,0,0,null,null
+137,22.4,Shadab Khan,Faheem Ashraf,S Mahmood,0,0,null,0,0,null,null
+138,22.5,Shadab Khan,Faheem Ashraf,S Mahmood,0,0,null,0,0,null,null
+139,22.6,Shadab Khan,Faheem Ashraf,S Mahmood,0,0,null,0,0,null,null
+140,23.1,Faheem Ashraf,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+141,23.2,Faheem Ashraf,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+142,23.3,Faheem Ashraf,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+143,23.4,Faheem Ashraf,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+144,23.5,Faheem Ashraf,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+145,23.6,Faheem Ashraf,Shadab Khan,MW Parkinson,2,0,null,2,0,null,null
+146,24.1,Shadab Khan,Faheem Ashraf,S Mahmood,1,0,null,1,0,null,null
+147,24.2,Faheem Ashraf,Shadab Khan,S Mahmood,0,0,null,0,0,null,null
+148,24.3,Faheem Ashraf,Shadab Khan,S Mahmood,0,0,null,0,0,null,null
+149,24.4,Faheem Ashraf,Shadab Khan,S Mahmood,2,0,null,2,0,null,null
+150,24.5,Faheem Ashraf,Shadab Khan,S Mahmood,1,0,null,1,0,null,null
+151,24.6,Shadab Khan,Faheem Ashraf,S Mahmood,1,0,null,1,0,null,null
+152,25.1,Shadab Khan,Faheem Ashraf,MW Parkinson,0,0,null,0,0,null,null
+153,25.2,Shadab Khan,Faheem Ashraf,MW Parkinson,2,0,null,2,0,null,null
+154,25.3,Shadab Khan,Faheem Ashraf,MW Parkinson,0,0,null,0,0,null,null
+155,25.4,Shadab Khan,Faheem Ashraf,MW Parkinson,0,0,null,0,0,null,null
+156,25.5,Shadab Khan,Faheem Ashraf,MW Parkinson,0,0,null,0,0,null,null
+157,25.6,Shadab Khan,Faheem Ashraf,MW Parkinson,1,0,null,1,0,null,null
+158,26.1,Shadab Khan,Faheem Ashraf,S Mahmood,1,0,null,1,0,null,null
+159,26.2,Faheem Ashraf,Shadab Khan,S Mahmood,0,0,null,0,1,Faheem Ashraf,caught
+160,26.3,Hasan Ali,Shadab Khan,S Mahmood,0,0,null,0,0,null,null
+161,26.4,Hasan Ali,Shadab Khan,S Mahmood,0,0,null,0,0,null,null
+162,26.5,Hasan Ali,Shadab Khan,S Mahmood,0,0,null,0,0,null,null
+163,26.6,Hasan Ali,Shadab Khan,S Mahmood,0,0,null,0,0,null,null
+164,27.1,Shadab Khan,Hasan Ali,MW Parkinson,1,0,null,1,0,null,null
+165,27.2,Hasan Ali,Shadab Khan,MW Parkinson,1,0,null,1,0,null,null
+166,27.3,Shadab Khan,Hasan Ali,MW Parkinson,0,0,null,0,0,null,null
+167,27.4,Shadab Khan,Hasan Ali,MW Parkinson,6,0,null,6,0,null,null
+168,27.5,Shadab Khan,Hasan Ali,MW Parkinson,1,0,null,1,0,null,null
+169,27.6,Hasan Ali,Shadab Khan,MW Parkinson,0,1,wides ,1,0,null,null
+170,27.7,Hasan Ali,Shadab Khan,MW Parkinson,4,0,null,4,0,null,null
+171,28.1,Shadab Khan,Hasan Ali,S Mahmood,2,0,null,2,0,null,null
+172,28.2,Shadab Khan,Hasan Ali,S Mahmood,1,0,null,1,0,null,null
+173,28.3,Hasan Ali,Shadab Khan,S Mahmood,0,0,null,0,0,null,null
+174,28.4,Hasan Ali,Shadab Khan,S Mahmood,1,0,null,1,0,null,null
+175,28.5,Shadab Khan,Hasan Ali,S Mahmood,0,0,null,0,0,null,null
+176,28.6,Shadab Khan,Hasan Ali,S Mahmood,1,0,null,1,0,null,null
+177,29.1,Shadab Khan,Hasan Ali,MW Parkinson,2,0,null,2,0,null,null
+178,29.2,Shadab Khan,Hasan Ali,MW Parkinson,1,0,null,1,0,null,null
+179,29.3,Hasan Ali,Shadab Khan,MW Parkinson,0,0,null,0,1,Hasan Ali,caught
+180,29.4,Shadab Khan,Shaheen Shah Afridi,MW Parkinson,1,0,null,1,0,null,null
+181,29.5,Shaheen Shah Afridi,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+182,29.6,Shaheen Shah Afridi,Shadab Khan,MW Parkinson,0,0,null,0,0,null,null
+183,30.1,Shadab Khan,Shaheen Shah Afridi,S Mahmood,0,0,null,0,0,null,null
+184,30.2,Shadab Khan,Shaheen Shah Afridi,S Mahmood,1,0,null,1,0,null,null
+185,30.3,Shaheen Shah Afridi,Shadab Khan,S Mahmood,3,0,null,3,0,null,null
+186,30.4,Shadab Khan,Shaheen Shah Afridi,S Mahmood,0,0,null,0,0,null,null
+187,30.5,Shadab Khan,Shaheen Shah Afridi,S Mahmood,0,0,null,0,0,null,null
+188,30.6,Shadab Khan,Shaheen Shah Afridi,S Mahmood,0,0,null,0,0,null,null
+189,31.1,Shaheen Shah Afridi,Shadab Khan,C Overton,0,0,null,0,0,null,null
+190,31.2,Shaheen Shah Afridi,Shadab Khan,C Overton,0,0,null,0,0,null,null
+191,31.3,Shaheen Shah Afridi,Shadab Khan,C Overton,0,0,null,0,0,null,null
+192,31.4,Shaheen Shah Afridi,Shadab Khan,C Overton,0,1,wides ,1,0,null,null
+193,31.5,Shaheen Shah Afridi,Shadab Khan,C Overton,0,0,null,0,0,null,null
+194,31.6,Shaheen Shah Afridi,Shadab Khan,C Overton,0,0,null,0,0,null,null
+195,31.7,Shaheen Shah Afridi,Shadab Khan,C Overton,0,0,null,0,0,null,null
+196,32.1,Shadab Khan,Shaheen Shah Afridi,BA Carse,1,0,null,1,0,null,null
+197,32.2,Shaheen Shah Afridi,Shadab Khan,BA Carse,1,0,null,1,0,null,null
+198,32.3,Shadab Khan,Shaheen Shah Afridi,BA Carse,1,0,null,1,0,null,null
+199,32.4,Shaheen Shah Afridi,Shadab Khan,BA Carse,0,0,null,0,0,null,null
+200,32.5,Shaheen Shah Afridi,Shadab Khan,BA Carse,0,0,null,0,0,null,null
+201,32.6,Shaheen Shah Afridi,Shadab Khan,BA Carse,0,0,null,0,0,null,null
+202,33.1,Shadab Khan,Shaheen Shah Afridi,C Overton,1,0,null,1,0,null,null
+203,33.2,Shaheen Shah Afridi,Shadab Khan,C Overton,1,0,null,1,0,null,null
+204,33.3,Shadab Khan,Shaheen Shah Afridi,C Overton,0,0,null,0,1,Shadab Khan,caught
+205,33.4,Haris Rauf,Shaheen Shah Afridi,C Overton,0,0,null,0,0,null,null
+206,33.5,Haris Rauf,Shaheen Shah Afridi,C Overton,0,0,null,0,0,null,null
+207,33.6,Haris Rauf,Shaheen Shah Afridi,C Overton,0,0,null,0,0,null,null
+208,34.1,Shaheen Shah Afridi,Haris Rauf,BA Carse,0,0,null,0,0,null,null
+209,34.2,Shaheen Shah Afridi,Haris Rauf,BA Carse,4,0,null,4,0,null,null
+210,34.3,Shaheen Shah Afridi,Haris Rauf,BA Carse,0,0,null,0,0,null,null
+211,34.4,Shaheen Shah Afridi,Haris Rauf,BA Carse,0,0,null,0,0,null,null
+212,34.5,Shaheen Shah Afridi,Haris Rauf,BA Carse,0,0,null,0,0,null,null
+213,34.6,Shaheen Shah Afridi,Haris Rauf,BA Carse,1,0,null,1,0,null,null
+214,35.1,Shaheen Shah Afridi,Haris Rauf,C Overton,2,0,null,2,0,null,null
+215,35.2,Shaheen Shah Afridi,Haris Rauf,C Overton,0,0,null,0,1,Shaheen Shah Afridi,caught

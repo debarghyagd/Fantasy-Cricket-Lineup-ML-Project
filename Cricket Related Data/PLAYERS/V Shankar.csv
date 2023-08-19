@@ -1,0 +1,25 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1144510,The Rose Bowl,Afghanistan,Rahmat Shah,Right-arm legbreak,"[1, 1, 1]",1,11,11,2,0
+1,1144510,The Rose Bowl,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,9,14,0,0
+2,1168243,"Vidarbha Cricket Association Stadium, Jamtha",Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",0,12,12,2,0
+3,1168243,"Vidarbha Cricket Association Stadium, Jamtha",Australia,NM Lyon,Right-arm offbreak,"[1, 1, 0]",0,12,18,1,0
+4,1168243,"Vidarbha Cricket Association Stadium, Jamtha",Australia,MP Stoinis,Right-arm medium,"[0, 1, 2]",0,11,4,1,1
+5,1168243,"Vidarbha Cricket Association Stadium, Jamtha",Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,11,7,1,0
+6,1168244,JSCA International Stadium Complex,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,5,7,0,0
+7,1168244,JSCA International Stadium Complex,Australia,NM Lyon,Right-arm offbreak,"[1, 1, 0]",1,5,5,1,0
+8,1168244,JSCA International Stadium Complex,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,6,6,1,0
+9,1168244,JSCA International Stadium Complex,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,16,14,2,0
+10,1168245,"Punjab Cricket Association IS Bindra Stadium, Mohali",Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",1,10,8,0,1
+11,1168245,"Punjab Cricket Association IS Bindra Stadium, Mohali",Australia,JA Richardson,Right-arm fast,"[0, 1, 0]",0,16,9,1,1
+12,1168246,Arun Jaitley Stadium,Australia,NM Lyon,Right-arm offbreak,"[1, 1, 0]",0,4,7,0,0
+13,1168246,Arun Jaitley Stadium,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,2,4,0,0
+14,1168246,Arun Jaitley Stadium,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",1,10,10,0,1
+15,1144504,Old Trafford,Pakistan,Wahab Riaz,Left-arm fast,"[0, 0, 0]",0,7,7,0,0
+16,1144504,Old Trafford,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,8,9,1,0
+17,1144516,Old Trafford,West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+18,1144516,Old Trafford,West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",0,2,8,0,0
+19,1153695,Westpac Stadium,New Zealand,C Munro,Right-arm medium,"[0, 1, 2]",1,6,11,0,0
+20,1153695,Westpac Stadium,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,5,8,1,0
+21,1153695,Westpac Stadium,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",0,1,5,0,0
+22,1153695,Westpac Stadium,New Zealand,C de Grandhomme,Right-arm fast-medium,"[0, 1, 1]",0,9,15,1,0
+23,1153695,Westpac Stadium,New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",0,11,13,1,0

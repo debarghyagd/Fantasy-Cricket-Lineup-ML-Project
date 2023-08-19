@@ -1,0 +1,307 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,AN Cook,C Kieswetter,Shafiul Islam,0,1,wides ,1,0,null,null
+1,0.2,AN Cook,C Kieswetter,Shafiul Islam,0,0,null,0,0,null,null
+2,0.3,AN Cook,C Kieswetter,Shafiul Islam,0,0,null,0,0,null,null
+3,0.4,AN Cook,C Kieswetter,Shafiul Islam,0,0,null,0,0,null,null
+4,0.5,AN Cook,C Kieswetter,Shafiul Islam,1,0,null,1,0,null,null
+5,0.6,C Kieswetter,AN Cook,Shafiul Islam,0,0,null,0,0,null,null
+6,0.7,C Kieswetter,AN Cook,Shafiul Islam,0,0,null,0,0,null,null
+7,1.1,AN Cook,C Kieswetter,Rubel Hossain,0,0,null,0,0,null,null
+8,1.2,AN Cook,C Kieswetter,Rubel Hossain,4,0,null,4,0,null,null
+9,1.3,AN Cook,C Kieswetter,Rubel Hossain,0,0,null,0,0,null,null
+10,1.4,AN Cook,C Kieswetter,Rubel Hossain,0,5,wides ,5,0,null,null
+11,1.5,AN Cook,C Kieswetter,Rubel Hossain,0,0,null,0,0,null,null
+12,1.6,AN Cook,C Kieswetter,Rubel Hossain,1,0,null,1,0,null,null
+13,1.7,C Kieswetter,AN Cook,Rubel Hossain,0,0,null,0,0,null,null
+14,2.1,AN Cook,C Kieswetter,Shafiul Islam,0,0,null,0,0,null,null
+15,2.2,AN Cook,C Kieswetter,Shafiul Islam,0,0,null,0,0,null,null
+16,2.3,AN Cook,C Kieswetter,Shafiul Islam,1,0,null,1,0,null,null
+17,2.4,C Kieswetter,AN Cook,Shafiul Islam,0,0,null,0,0,null,null
+18,2.5,C Kieswetter,AN Cook,Shafiul Islam,4,0,null,4,0,null,null
+19,2.6,C Kieswetter,AN Cook,Shafiul Islam,0,0,null,0,0,null,null
+20,3.1,AN Cook,C Kieswetter,Abdur Razzak,1,0,null,1,0,null,null
+21,3.2,C Kieswetter,AN Cook,Abdur Razzak,0,0,null,0,0,null,null
+22,3.3,C Kieswetter,AN Cook,Abdur Razzak,0,0,null,0,0,null,null
+23,3.4,C Kieswetter,AN Cook,Abdur Razzak,0,0,null,0,0,null,null
+24,3.5,C Kieswetter,AN Cook,Abdur Razzak,0,0,null,0,0,null,null
+25,3.6,C Kieswetter,AN Cook,Abdur Razzak,0,0,null,0,0,null,null
+26,4.1,AN Cook,C Kieswetter,Shafiul Islam,0,0,null,0,0,null,null
+27,4.2,AN Cook,C Kieswetter,Shafiul Islam,4,0,null,4,0,null,null
+28,4.3,AN Cook,C Kieswetter,Shafiul Islam,2,0,null,2,0,null,null
+29,4.4,AN Cook,C Kieswetter,Shafiul Islam,0,0,null,0,0,null,null
+30,4.5,AN Cook,C Kieswetter,Shafiul Islam,1,0,null,1,0,null,null
+31,4.6,C Kieswetter,AN Cook,Shafiul Islam,0,0,null,0,0,null,null
+32,5.1,AN Cook,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+33,5.2,AN Cook,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+34,5.3,AN Cook,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+35,5.4,AN Cook,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+36,5.5,AN Cook,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+37,5.6,AN Cook,C Kieswetter,Abdur Razzak,1,0,null,1,0,null,null
+38,6.1,AN Cook,C Kieswetter,Shafiul Islam,0,0,null,0,0,null,null
+39,6.2,AN Cook,C Kieswetter,Shafiul Islam,0,0,null,0,0,null,null
+40,6.3,AN Cook,C Kieswetter,Shafiul Islam,3,0,null,3,0,null,null
+41,6.4,C Kieswetter,AN Cook,Shafiul Islam,0,0,null,0,0,null,null
+42,6.5,C Kieswetter,AN Cook,Shafiul Islam,4,0,null,4,0,null,null
+43,6.6,C Kieswetter,AN Cook,Shafiul Islam,0,0,null,0,0,null,null
+44,7.1,AN Cook,C Kieswetter,Abdur Razzak,1,0,null,1,0,null,null
+45,7.2,C Kieswetter,AN Cook,Abdur Razzak,0,0,null,0,0,null,null
+46,7.3,C Kieswetter,AN Cook,Abdur Razzak,0,0,null,0,0,null,null
+47,7.4,C Kieswetter,AN Cook,Abdur Razzak,0,0,null,0,0,null,null
+48,7.5,C Kieswetter,AN Cook,Abdur Razzak,0,0,null,0,0,null,null
+49,7.6,C Kieswetter,AN Cook,Abdur Razzak,0,0,null,0,0,null,null
+50,8.1,AN Cook,C Kieswetter,Shakib Al Hasan,1,0,null,1,0,null,null
+51,8.2,C Kieswetter,AN Cook,Shakib Al Hasan,0,0,null,0,0,null,null
+52,8.3,C Kieswetter,AN Cook,Shakib Al Hasan,0,0,null,0,0,null,null
+53,8.4,C Kieswetter,AN Cook,Shakib Al Hasan,0,0,null,0,0,null,null
+54,8.5,C Kieswetter,AN Cook,Shakib Al Hasan,0,0,null,0,0,null,null
+55,8.6,C Kieswetter,AN Cook,Shakib Al Hasan,4,0,null,4,0,null,null
+56,9.1,AN Cook,C Kieswetter,Abdur Razzak,2,0,null,2,0,null,null
+57,9.2,AN Cook,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+58,9.3,AN Cook,C Kieswetter,Abdur Razzak,4,0,null,4,0,null,null
+59,9.4,AN Cook,C Kieswetter,Abdur Razzak,1,0,null,1,0,null,null
+60,9.5,C Kieswetter,AN Cook,Abdur Razzak,4,0,null,4,0,null,null
+61,9.6,C Kieswetter,AN Cook,Abdur Razzak,0,0,null,0,0,null,null
+62,10.1,AN Cook,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+63,10.2,AN Cook,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+64,10.3,AN Cook,C Kieswetter,Shakib Al Hasan,3,0,null,3,0,null,null
+65,10.4,C Kieswetter,AN Cook,Shakib Al Hasan,0,0,null,0,0,null,null
+66,10.5,C Kieswetter,AN Cook,Shakib Al Hasan,2,0,null,2,0,null,null
+67,10.6,C Kieswetter,AN Cook,Shakib Al Hasan,0,0,null,0,0,null,null
+68,11.1,AN Cook,C Kieswetter,Naeem Islam,0,1,wides ,1,0,null,null
+69,11.2,AN Cook,C Kieswetter,Naeem Islam,1,0,null,1,0,null,null
+70,11.3,C Kieswetter,AN Cook,Naeem Islam,1,0,null,1,0,null,null
+71,11.4,AN Cook,C Kieswetter,Naeem Islam,0,0,null,0,0,null,null
+72,11.5,AN Cook,C Kieswetter,Naeem Islam,0,0,null,0,0,null,null
+73,11.6,AN Cook,C Kieswetter,Naeem Islam,0,0,null,0,0,null,null
+74,11.7,AN Cook,C Kieswetter,Naeem Islam,0,0,null,0,0,null,null
+75,12.1,C Kieswetter,AN Cook,Shakib Al Hasan,0,0,null,0,0,null,null
+76,12.2,C Kieswetter,AN Cook,Shakib Al Hasan,1,0,null,1,0,null,null
+77,12.3,AN Cook,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+78,12.4,AN Cook,C Kieswetter,Shakib Al Hasan,0,0,null,0,1,AN Cook,caught
+79,12.5,KP Pietersen,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+80,12.6,KP Pietersen,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+81,13.1,C Kieswetter,KP Pietersen,Abdur Razzak,0,0,null,0,0,null,null
+82,13.2,C Kieswetter,KP Pietersen,Abdur Razzak,0,0,null,0,0,null,null
+83,13.3,C Kieswetter,KP Pietersen,Abdur Razzak,0,0,null,0,0,null,null
+84,13.4,C Kieswetter,KP Pietersen,Abdur Razzak,0,0,null,0,0,null,null
+85,13.5,C Kieswetter,KP Pietersen,Abdur Razzak,0,0,null,0,0,null,null
+86,13.6,C Kieswetter,KP Pietersen,Abdur Razzak,4,0,null,4,0,null,null
+87,14.1,KP Pietersen,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+88,14.2,KP Pietersen,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+89,14.3,KP Pietersen,C Kieswetter,Shakib Al Hasan,1,0,null,1,0,null,null
+90,14.4,C Kieswetter,KP Pietersen,Shakib Al Hasan,0,0,null,0,0,null,null
+91,14.5,C Kieswetter,KP Pietersen,Shakib Al Hasan,2,0,null,2,0,null,null
+92,14.6,C Kieswetter,KP Pietersen,Shakib Al Hasan,0,0,null,0,0,null,null
+93,15.1,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,2,0,null,2,0,null,null
+94,15.2,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+95,15.3,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+96,15.4,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+97,15.5,C Kieswetter,KP Pietersen,Suhrawadi Shuvo,1,0,null,1,0,null,null
+98,15.6,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,6,0,null,6,0,null,null
+99,16.1,C Kieswetter,KP Pietersen,Shakib Al Hasan,1,0,null,1,0,null,null
+100,16.2,KP Pietersen,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+101,16.3,KP Pietersen,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+102,16.4,KP Pietersen,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+103,16.5,KP Pietersen,C Kieswetter,Shakib Al Hasan,1,0,null,1,0,null,null
+104,16.6,C Kieswetter,KP Pietersen,Shakib Al Hasan,0,0,null,0,0,null,null
+105,17.1,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+106,17.2,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+107,17.3,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+108,17.4,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+109,17.5,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+110,17.6,C Kieswetter,KP Pietersen,Suhrawadi Shuvo,0,0,null,0,0,null,null
+111,18.1,KP Pietersen,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+112,18.2,KP Pietersen,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+113,18.3,KP Pietersen,C Kieswetter,Shakib Al Hasan,1,0,null,1,0,null,null
+114,18.4,C Kieswetter,KP Pietersen,Shakib Al Hasan,1,0,null,1,0,null,null
+115,18.5,KP Pietersen,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+116,18.6,KP Pietersen,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+117,19.1,C Kieswetter,KP Pietersen,Suhrawadi Shuvo,0,0,null,0,0,null,null
+118,19.2,C Kieswetter,KP Pietersen,Suhrawadi Shuvo,0,0,null,0,0,null,null
+119,19.3,C Kieswetter,KP Pietersen,Suhrawadi Shuvo,1,0,null,1,0,null,null
+120,19.4,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+121,19.5,C Kieswetter,KP Pietersen,Suhrawadi Shuvo,1,0,null,1,0,null,null
+122,19.6,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+123,20.1,KP Pietersen,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+124,20.2,KP Pietersen,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+125,20.3,KP Pietersen,C Kieswetter,Abdur Razzak,0,1,wides ,1,0,null,null
+126,20.4,KP Pietersen,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+127,20.5,KP Pietersen,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+128,20.6,KP Pietersen,C Kieswetter,Abdur Razzak,1,0,null,1,0,null,null
+129,20.7,C Kieswetter,KP Pietersen,Abdur Razzak,0,0,null,0,0,null,null
+130,21.1,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,4,0,null,4,0,null,null
+131,21.2,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+132,21.3,C Kieswetter,KP Pietersen,Suhrawadi Shuvo,1,0,null,1,0,null,null
+133,21.4,KP Pietersen,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+134,21.5,C Kieswetter,KP Pietersen,Suhrawadi Shuvo,0,0,null,0,0,null,null
+135,21.6,C Kieswetter,KP Pietersen,Suhrawadi Shuvo,1,0,null,1,0,null,null
+136,22.1,C Kieswetter,KP Pietersen,Abdur Razzak,1,0,null,1,0,null,null
+137,22.2,KP Pietersen,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+138,22.3,KP Pietersen,C Kieswetter,Abdur Razzak,0,0,null,0,1,KP Pietersen,lbw
+139,22.4,PD Collingwood,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+140,22.5,PD Collingwood,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+141,22.6,PD Collingwood,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+142,23.1,C Kieswetter,PD Collingwood,Naeem Islam,0,0,null,0,0,null,null
+143,23.2,C Kieswetter,PD Collingwood,Naeem Islam,0,0,null,0,0,null,null
+144,23.3,C Kieswetter,PD Collingwood,Naeem Islam,1,0,null,1,0,null,null
+145,23.4,PD Collingwood,C Kieswetter,Naeem Islam,1,0,null,1,0,null,null
+146,23.5,C Kieswetter,PD Collingwood,Naeem Islam,1,0,null,1,0,null,null
+147,23.6,PD Collingwood,C Kieswetter,Naeem Islam,0,0,null,0,0,null,null
+148,24.1,C Kieswetter,PD Collingwood,Abdur Razzak,1,0,null,1,0,null,null
+149,24.2,PD Collingwood,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+150,24.3,PD Collingwood,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+151,24.4,PD Collingwood,C Kieswetter,Abdur Razzak,1,0,null,1,0,null,null
+152,24.5,C Kieswetter,PD Collingwood,Abdur Razzak,0,0,null,0,0,null,null
+153,24.6,C Kieswetter,PD Collingwood,Abdur Razzak,1,0,null,1,0,null,null
+154,25.1,C Kieswetter,PD Collingwood,Naeem Islam,0,0,null,0,0,null,null
+155,25.2,C Kieswetter,PD Collingwood,Naeem Islam,0,0,null,0,0,null,null
+156,25.3,C Kieswetter,PD Collingwood,Naeem Islam,0,0,null,0,0,null,null
+157,25.4,C Kieswetter,PD Collingwood,Naeem Islam,1,0,null,1,0,null,null
+158,25.5,PD Collingwood,C Kieswetter,Naeem Islam,0,0,null,0,0,null,null
+159,25.6,PD Collingwood,C Kieswetter,Naeem Islam,1,0,null,1,0,null,null
+160,26.1,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+161,26.2,C Kieswetter,PD Collingwood,Suhrawadi Shuvo,0,0,null,0,0,null,null
+162,26.3,C Kieswetter,PD Collingwood,Suhrawadi Shuvo,1,0,null,1,0,null,null
+163,26.4,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+164,26.5,C Kieswetter,PD Collingwood,Suhrawadi Shuvo,1,0,null,1,0,null,null
+165,26.6,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+166,27.1,C Kieswetter,PD Collingwood,Naeem Islam,1,0,null,1,0,null,null
+167,27.2,PD Collingwood,C Kieswetter,Naeem Islam,0,0,null,0,0,null,null
+168,27.3,PD Collingwood,C Kieswetter,Naeem Islam,2,0,null,2,0,null,null
+169,27.4,PD Collingwood,C Kieswetter,Naeem Islam,2,0,null,2,0,null,null
+170,27.5,PD Collingwood,C Kieswetter,Naeem Islam,0,0,null,0,0,null,null
+171,27.6,PD Collingwood,C Kieswetter,Naeem Islam,1,0,null,1,0,null,null
+172,28.1,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+173,28.2,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+174,28.3,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,4,0,null,4,0,null,null
+175,28.4,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+176,28.5,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+177,28.6,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+178,29.1,PD Collingwood,C Kieswetter,Naeem Islam,1,0,null,1,0,null,null
+179,29.2,C Kieswetter,PD Collingwood,Naeem Islam,0,0,null,0,0,null,null
+180,29.3,C Kieswetter,PD Collingwood,Naeem Islam,0,0,null,0,0,null,null
+181,29.4,C Kieswetter,PD Collingwood,Naeem Islam,1,0,null,1,0,null,null
+182,29.5,PD Collingwood,C Kieswetter,Naeem Islam,0,0,null,0,0,null,null
+183,29.6,PD Collingwood,C Kieswetter,Naeem Islam,1,0,null,1,0,null,null
+184,30.1,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+185,30.2,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+186,30.3,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,2,0,null,2,0,null,null
+187,30.4,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+188,30.5,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+189,30.6,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+190,31.1,C Kieswetter,PD Collingwood,Naeem Islam,1,0,null,1,0,null,null
+191,31.2,PD Collingwood,C Kieswetter,Naeem Islam,1,0,null,1,0,null,null
+192,31.3,C Kieswetter,PD Collingwood,Naeem Islam,1,0,null,1,0,null,null
+193,31.4,PD Collingwood,C Kieswetter,Naeem Islam,1,0,null,1,0,null,null
+194,31.5,C Kieswetter,PD Collingwood,Naeem Islam,1,0,null,1,0,null,null
+195,31.6,PD Collingwood,C Kieswetter,Naeem Islam,0,0,null,0,0,null,null
+196,32.1,C Kieswetter,PD Collingwood,Suhrawadi Shuvo,0,0,null,0,0,null,null
+197,32.2,C Kieswetter,PD Collingwood,Suhrawadi Shuvo,0,0,null,0,0,null,null
+198,32.3,C Kieswetter,PD Collingwood,Suhrawadi Shuvo,4,0,null,4,0,null,null
+199,32.4,C Kieswetter,PD Collingwood,Suhrawadi Shuvo,1,0,null,1,0,null,null
+200,32.5,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+201,32.6,C Kieswetter,PD Collingwood,Suhrawadi Shuvo,1,0,null,1,0,null,null
+202,33.1,C Kieswetter,PD Collingwood,Mahmudullah,0,0,null,0,0,null,null
+203,33.2,C Kieswetter,PD Collingwood,Mahmudullah,2,0,null,2,0,null,null
+204,33.3,C Kieswetter,PD Collingwood,Mahmudullah,1,0,null,1,0,null,null
+205,33.4,PD Collingwood,C Kieswetter,Mahmudullah,1,0,null,1,0,null,null
+206,33.5,C Kieswetter,PD Collingwood,Mahmudullah,1,0,null,1,0,null,null
+207,33.6,PD Collingwood,C Kieswetter,Mahmudullah,1,0,null,1,0,null,null
+208,34.1,PD Collingwood,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+209,34.2,PD Collingwood,C Kieswetter,Shakib Al Hasan,2,0,null,2,0,null,null
+210,34.3,PD Collingwood,C Kieswetter,Shakib Al Hasan,2,0,null,2,0,null,null
+211,34.4,PD Collingwood,C Kieswetter,Shakib Al Hasan,1,0,null,1,0,null,null
+212,34.5,C Kieswetter,PD Collingwood,Shakib Al Hasan,1,0,null,1,0,null,null
+213,34.6,PD Collingwood,C Kieswetter,Shakib Al Hasan,2,0,null,2,0,null,null
+214,35.1,C Kieswetter,PD Collingwood,Mahmudullah,6,0,null,6,0,null,null
+215,35.2,C Kieswetter,PD Collingwood,Mahmudullah,1,0,null,1,0,null,null
+216,35.3,PD Collingwood,C Kieswetter,Mahmudullah,1,0,null,1,0,null,null
+217,35.4,C Kieswetter,PD Collingwood,Mahmudullah,2,0,null,2,0,null,null
+218,35.5,C Kieswetter,PD Collingwood,Mahmudullah,1,0,null,1,0,null,null
+219,35.6,PD Collingwood,C Kieswetter,Mahmudullah,1,0,null,1,0,null,null
+220,36.1,PD Collingwood,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+221,36.2,PD Collingwood,C Kieswetter,Shakib Al Hasan,1,0,null,1,0,null,null
+222,36.3,C Kieswetter,PD Collingwood,Shakib Al Hasan,0,0,null,0,0,null,null
+223,36.4,C Kieswetter,PD Collingwood,Shakib Al Hasan,0,0,null,0,0,null,null
+224,36.5,C Kieswetter,PD Collingwood,Shakib Al Hasan,1,0,null,1,0,null,null
+225,36.6,PD Collingwood,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+226,37.1,C Kieswetter,PD Collingwood,Rubel Hossain,1,0,null,1,0,null,null
+227,37.2,PD Collingwood,C Kieswetter,Rubel Hossain,1,0,null,1,0,null,null
+228,37.3,C Kieswetter,PD Collingwood,Rubel Hossain,1,0,null,1,0,null,null
+229,37.4,PD Collingwood,C Kieswetter,Rubel Hossain,1,0,null,1,0,null,null
+230,37.5,C Kieswetter,PD Collingwood,Rubel Hossain,0,0,null,0,0,null,null
+231,37.6,C Kieswetter,PD Collingwood,Rubel Hossain,2,0,null,2,0,null,null
+232,38.1,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+233,38.2,PD Collingwood,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,1,PD Collingwood,caught
+234,38.3,C Kieswetter,EJG Morgan,Suhrawadi Shuvo,0,0,null,0,0,null,null
+235,38.4,C Kieswetter,EJG Morgan,Suhrawadi Shuvo,0,0,null,0,0,null,null
+236,38.5,C Kieswetter,EJG Morgan,Suhrawadi Shuvo,0,0,null,0,0,null,null
+237,38.6,C Kieswetter,EJG Morgan,Suhrawadi Shuvo,0,0,null,0,0,null,null
+238,39.1,EJG Morgan,C Kieswetter,Rubel Hossain,0,0,null,0,0,null,null
+239,39.2,EJG Morgan,C Kieswetter,Rubel Hossain,4,0,null,4,0,null,null
+240,39.3,EJG Morgan,C Kieswetter,Rubel Hossain,0,0,null,0,0,null,null
+241,39.4,EJG Morgan,C Kieswetter,Rubel Hossain,1,0,null,1,0,null,null
+242,39.5,C Kieswetter,EJG Morgan,Rubel Hossain,1,0,null,1,0,null,null
+243,39.6,EJG Morgan,C Kieswetter,Rubel Hossain,0,1,legbyes ,1,0,null,null
+244,40.1,EJG Morgan,C Kieswetter,Suhrawadi Shuvo,0,0,null,0,0,null,null
+245,40.2,EJG Morgan,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+246,40.3,C Kieswetter,EJG Morgan,Suhrawadi Shuvo,1,0,null,1,0,null,null
+247,40.4,EJG Morgan,C Kieswetter,Suhrawadi Shuvo,1,0,null,1,0,null,null
+248,40.5,C Kieswetter,EJG Morgan,Suhrawadi Shuvo,0,0,null,0,0,null,null
+249,40.6,C Kieswetter,EJG Morgan,Suhrawadi Shuvo,1,0,null,1,0,null,null
+250,41.1,C Kieswetter,EJG Morgan,Shakib Al Hasan,1,0,null,1,0,null,null
+251,41.2,EJG Morgan,C Kieswetter,Shakib Al Hasan,1,0,null,1,0,null,null
+252,41.3,C Kieswetter,EJG Morgan,Shakib Al Hasan,6,0,null,6,0,null,null
+253,41.4,C Kieswetter,EJG Morgan,Shakib Al Hasan,1,0,null,1,0,null,null
+254,41.5,EJG Morgan,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+255,41.6,EJG Morgan,C Kieswetter,Shakib Al Hasan,4,0,null,4,0,null,null
+256,42.1,C Kieswetter,EJG Morgan,Abdur Razzak,0,1,wides ,1,0,null,null
+257,42.2,C Kieswetter,EJG Morgan,Abdur Razzak,4,0,null,4,0,null,null
+258,42.3,C Kieswetter,EJG Morgan,Abdur Razzak,4,0,null,4,0,null,null
+259,42.4,C Kieswetter,EJG Morgan,Abdur Razzak,1,0,null,1,0,null,null
+260,42.5,EJG Morgan,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+261,42.6,EJG Morgan,C Kieswetter,Abdur Razzak,1,0,null,1,0,null,null
+262,42.7,C Kieswetter,EJG Morgan,Abdur Razzak,1,0,null,1,0,null,null
+263,43.1,C Kieswetter,EJG Morgan,Rubel Hossain,4,0,null,4,0,null,null
+264,43.2,C Kieswetter,EJG Morgan,Rubel Hossain,0,0,null,0,0,null,null
+265,43.3,C Kieswetter,EJG Morgan,Rubel Hossain,1,0,null,1,0,null,null
+266,43.4,EJG Morgan,C Kieswetter,Rubel Hossain,0,0,null,0,0,null,null
+267,43.5,EJG Morgan,C Kieswetter,Rubel Hossain,0,0,null,0,0,null,null
+268,43.6,EJG Morgan,C Kieswetter,Rubel Hossain,4,0,null,4,0,null,null
+269,44.1,C Kieswetter,EJG Morgan,Shakib Al Hasan,0,0,null,0,0,null,null
+270,44.2,C Kieswetter,EJG Morgan,Shakib Al Hasan,1,0,null,1,0,null,null
+271,44.3,EJG Morgan,C Kieswetter,Shakib Al Hasan,1,0,null,1,0,null,null
+272,44.4,C Kieswetter,EJG Morgan,Shakib Al Hasan,0,1,legbyes ,1,0,null,null
+273,44.5,EJG Morgan,C Kieswetter,Shakib Al Hasan,0,0,null,0,0,null,null
+274,44.6,EJG Morgan,C Kieswetter,Shakib Al Hasan,2,0,null,2,0,null,null
+275,45.1,C Kieswetter,EJG Morgan,Rubel Hossain,1,0,null,1,0,null,null
+276,45.2,EJG Morgan,C Kieswetter,Rubel Hossain,1,0,null,1,0,null,null
+277,45.3,C Kieswetter,EJG Morgan,Rubel Hossain,6,0,null,6,0,null,null
+278,45.4,C Kieswetter,EJG Morgan,Rubel Hossain,1,0,null,1,0,null,null
+279,45.5,EJG Morgan,C Kieswetter,Rubel Hossain,6,0,null,6,0,null,null
+280,45.6,EJG Morgan,C Kieswetter,Rubel Hossain,1,0,null,1,0,null,null
+281,46.1,EJG Morgan,C Kieswetter,Abdur Razzak,0,0,null,0,0,null,null
+282,46.2,EJG Morgan,C Kieswetter,Abdur Razzak,1,0,null,1,0,null,null
+283,46.3,C Kieswetter,EJG Morgan,Abdur Razzak,0,0,null,0,1,C Kieswetter,bowled
+284,46.4,LJ Wright,EJG Morgan,Abdur Razzak,1,0,null,1,0,null,null
+285,46.5,EJG Morgan,LJ Wright,Abdur Razzak,1,0,null,1,0,null,null
+286,46.6,LJ Wright,EJG Morgan,Abdur Razzak,1,0,null,1,0,null,null
+287,47.1,LJ Wright,EJG Morgan,Naeem Islam,1,0,null,1,0,null,null
+288,47.2,EJG Morgan,LJ Wright,Naeem Islam,4,0,null,4,0,null,null
+289,47.3,EJG Morgan,LJ Wright,Naeem Islam,1,0,null,1,0,null,null
+290,47.4,LJ Wright,EJG Morgan,Naeem Islam,2,0,null,2,0,null,null
+291,47.5,LJ Wright,EJG Morgan,Naeem Islam,2,0,null,2,0,null,null
+292,47.6,LJ Wright,EJG Morgan,Naeem Islam,4,0,null,4,0,null,null
+293,48.1,EJG Morgan,LJ Wright,Shafiul Islam,1,0,null,1,0,null,null
+294,48.2,LJ Wright,EJG Morgan,Shafiul Islam,0,1,legbyes ,1,0,null,null
+295,48.3,EJG Morgan,LJ Wright,Shafiul Islam,0,1,wides ,1,0,null,null
+296,48.4,EJG Morgan,LJ Wright,Shafiul Islam,0,0,null,0,1,EJG Morgan,caught
+297,48.5,LJ Wright,TT Bresnan,Shafiul Islam,2,0,null,2,0,null,null
+298,48.6,LJ Wright,TT Bresnan,Shafiul Islam,4,0,null,4,0,null,null
+299,48.7,LJ Wright,TT Bresnan,Shafiul Islam,6,0,null,6,0,null,null
+300,49.1,TT Bresnan,LJ Wright,Rubel Hossain,4,0,null,4,0,null,null
+301,49.2,TT Bresnan,LJ Wright,Rubel Hossain,1,0,null,1,0,null,null
+302,49.3,LJ Wright,TT Bresnan,Rubel Hossain,2,0,null,2,0,null,null
+303,49.4,LJ Wright,TT Bresnan,Rubel Hossain,1,0,null,1,0,null,null
+304,49.5,TT Bresnan,LJ Wright,Rubel Hossain,1,0,null,1,0,null,null
+305,49.6,LJ Wright,TT Bresnan,Rubel Hossain,6,0,null,6,0,null,null

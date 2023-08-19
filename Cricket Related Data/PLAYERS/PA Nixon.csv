@@ -1,0 +1,37 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,247491,"Sir Vivian Richards Stadium, North Sound",Australia,GD McGrath,Right-arm fast-medium,"[0, 1, 1]",1,7,5,0,1
+1,249232,Melbourne Cricket Ground,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",1,0,2,0,0
+2,249232,Melbourne Cricket Ground,Australia,SR Clark,Right-arm fast-medium,"[0, 1, 1]",0,0,2,0,0
+3,249233,"Brisbane Cricket Ground, Woolloongabba",Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,5,10,1,0
+4,249233,"Brisbane Cricket Ground, Woolloongabba",Australia,B Lee,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+5,249233,"Brisbane Cricket Ground, Woolloongabba",Australia,GD McGrath,Right-arm fast-medium,"[0, 1, 1]",0,4,12,0,0
+6,249234,Adelaide Oval,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,1,4,0,0
+7,249234,Adelaide Oval,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,1,5,0,0
+8,249234,Adelaide Oval,Australia,GB Hogg,Left-arm chinaman,"[1, 0, 0]",1,2,10,0,0
+9,249235,Sydney Cricket Ground,Australia,SW Tait,Right-arm fast,"[0, 1, 0]",1,4,2,1,0
+10,249240,Melbourne Cricket Ground,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+11,249240,Melbourne Cricket Ground,Australia,GD McGrath,Right-arm fast-medium,"[0, 1, 1]",0,6,6,0,0
+12,249241,Sydney Cricket Ground,Australia,GD McGrath,Right-arm fast-medium,"[0, 1, 1]",1,4,5,0,0
+13,247494,"Kensington Oval, Bridgetown",Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",0,8,11,0,1
+14,247494,"Kensington Oval, Bridgetown",Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,4,4,1,0
+15,247494,"Kensington Oval, Bridgetown",Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,6,12,0,0
+16,247467,"Beausejour Stadium, Gros Islet",Canada,AC Cummins,Right-arm fast,"[0, 1, 0]",0,11,3,1,1
+17,247467,"Beausejour Stadium, Gros Islet",Canada,GR Codrington,Right-arm fast-medium,"[0, 1, 1]",0,12,5,3,0
+18,247484,Providence Stadium,Ireland,DT Johnston,Right-arm fast-medium,"[0, 1, 1]",0,8,7,1,0
+19,247463,"Beausejour Stadium, Gros Islet",New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",0,6,8,0,0
+20,247463,"Beausejour Stadium, Gros Islet",New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",0,6,10,1,0
+21,249236,Bellerive Oval,New Zealand,MR Gillespie,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+22,249236,Bellerive Oval,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",0,2,2,0,0
+23,249236,Bellerive Oval,New Zealand,NJ Astle,Right-arm medium,"[0, 1, 2]",0,2,3,0,0
+24,249238,Western Australia Cricket Association Ground,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",1,7,7,1,0
+25,249239,"Brisbane Cricket Ground, Woolloongabba",New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",0,0,1,0,0
+26,249239,"Brisbane Cricket Ground, Woolloongabba",New Zealand,MR Gillespie,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+27,247500,"Kensington Oval, Bridgetown",South Africa,AJ Hall,Right-arm fast-medium,"[0, 1, 1]",1,1,2,0,0
+28,247489,"Sir Vivian Richards Stadium, North Sound",Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",0,17,13,1,1
+29,247489,"Sir Vivian Richards Stadium, North Sound",Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",0,3,6,0,0
+30,247489,"Sir Vivian Richards Stadium, North Sound",Sri Lanka,ST Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,3,3,0,0
+31,247489,"Sir Vivian Richards Stadium, North Sound",Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,8,12,0,0
+32,247489,"Sir Vivian Richards Stadium, North Sound",Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",0,11,11,1,0
+33,247504,"Kensington Oval, Bridgetown",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",1,6,9,0,0
+34,247504,"Kensington Oval, Bridgetown",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",0,12,15,1,0
+35,247504,"Kensington Oval, Bridgetown",West Indies,CD Collymore,Right-arm fast-medium,"[0, 1, 1]",0,16,9,3,0

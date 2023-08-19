@@ -1,0 +1,8 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,522248,Harare Sports Club,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",1,0,1,0,0
+1,522248,Harare Sports Club,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,6,4,1,0
+2,522248,Harare Sports Club,Zimbabwe,H Masakadza,Right-arm medium,"[0, 1, 2]",0,3,7,0,0
+3,522249,Queens Sports Club,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",0,0,4,0,0
+4,522249,Queens Sports Club,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,3,3,0,0
+5,522249,Queens Sports Club,Zimbabwe,RW Price,Left-arm orthodox,"[1, 0, 1]",0,13,19,2,0
+6,522250,Queens Sports Club,Zimbabwe,RW Price,Left-arm orthodox,"[1, 0, 1]",1,1,8,0,0

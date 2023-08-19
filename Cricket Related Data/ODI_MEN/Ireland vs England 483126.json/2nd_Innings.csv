@@ -1,0 +1,143 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,EC Joyce,PR Stirling,CR Woakes,0,0,null,0,0,null,null
+1,0.2,EC Joyce,PR Stirling,CR Woakes,0,0,null,0,0,null,null
+2,0.3,EC Joyce,PR Stirling,CR Woakes,4,0,null,4,0,null,null
+3,0.4,EC Joyce,PR Stirling,CR Woakes,0,0,null,0,0,null,null
+4,0.5,EC Joyce,PR Stirling,CR Woakes,0,1,wides ,1,0,null,null
+5,0.6,EC Joyce,PR Stirling,CR Woakes,0,0,null,0,0,null,null
+6,0.7,EC Joyce,PR Stirling,CR Woakes,0,0,null,0,0,null,null
+7,1.1,PR Stirling,EC Joyce,ST Finn,0,1,wides ,1,0,null,null
+8,1.2,PR Stirling,EC Joyce,ST Finn,6,0,null,6,0,null,null
+9,1.3,PR Stirling,EC Joyce,ST Finn,0,0,null,0,0,null,null
+10,1.4,PR Stirling,EC Joyce,ST Finn,0,0,null,0,1,PR Stirling,caught
+11,1.5,EC Joyce,WTS Porterfield,ST Finn,0,0,null,0,0,null,null
+12,1.6,EC Joyce,WTS Porterfield,ST Finn,1,0,null,1,0,null,null
+13,1.7,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+14,2.1,EC Joyce,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+15,2.2,EC Joyce,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+16,2.3,EC Joyce,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+17,2.4,EC Joyce,WTS Porterfield,CR Woakes,4,0,null,4,0,null,null
+18,2.5,EC Joyce,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+19,2.6,EC Joyce,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+20,3.1,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+21,3.2,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+22,3.3,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+23,3.4,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+24,3.5,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+25,3.6,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+26,4.1,EC Joyce,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+27,4.2,EC Joyce,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+28,4.3,EC Joyce,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+29,4.4,EC Joyce,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+30,4.5,EC Joyce,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+31,4.6,EC Joyce,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+32,5.1,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+33,5.2,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+34,5.3,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+35,5.4,WTS Porterfield,EC Joyce,ST Finn,2,0,null,2,0,null,null
+36,5.5,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+37,5.6,WTS Porterfield,EC Joyce,ST Finn,0,0,null,0,0,null,null
+38,6.1,EC Joyce,WTS Porterfield,CR Woakes,1,0,null,1,0,null,null
+39,6.2,WTS Porterfield,EC Joyce,CR Woakes,0,0,null,0,0,null,null
+40,6.3,WTS Porterfield,EC Joyce,CR Woakes,0,0,null,0,0,null,null
+41,6.4,WTS Porterfield,EC Joyce,CR Woakes,4,0,null,4,0,null,null
+42,6.5,WTS Porterfield,EC Joyce,CR Woakes,0,0,null,0,0,null,null
+43,6.6,WTS Porterfield,EC Joyce,CR Woakes,0,0,null,0,0,null,null
+44,7.1,EC Joyce,WTS Porterfield,ST Finn,0,0,null,0,1,EC Joyce,caught
+45,7.2,NJ O'Brien,WTS Porterfield,ST Finn,0,0,null,0,0,null,null
+46,7.3,NJ O'Brien,WTS Porterfield,ST Finn,2,0,null,2,0,null,null
+47,7.4,NJ O'Brien,WTS Porterfield,ST Finn,0,0,null,0,0,null,null
+48,7.5,NJ O'Brien,WTS Porterfield,ST Finn,0,0,null,0,0,null,null
+49,7.6,NJ O'Brien,WTS Porterfield,ST Finn,0,0,null,0,0,null,null
+50,8.1,WTS Porterfield,NJ O'Brien,CR Woakes,0,0,null,0,0,null,null
+51,8.2,WTS Porterfield,NJ O'Brien,CR Woakes,0,0,null,0,0,null,null
+52,8.3,WTS Porterfield,NJ O'Brien,CR Woakes,1,0,null,1,0,null,null
+53,8.4,NJ O'Brien,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+54,8.5,NJ O'Brien,WTS Porterfield,CR Woakes,0,0,null,0,0,null,null
+55,8.6,NJ O'Brien,WTS Porterfield,CR Woakes,1,0,null,1,0,null,null
+56,9.1,NJ O'Brien,WTS Porterfield,ST Finn,0,0,null,0,0,null,null
+57,9.2,NJ O'Brien,WTS Porterfield,ST Finn,0,0,null,0,0,null,null
+58,9.3,NJ O'Brien,WTS Porterfield,ST Finn,0,0,null,0,0,null,null
+59,9.4,NJ O'Brien,WTS Porterfield,ST Finn,0,0,null,0,0,null,null
+60,9.5,NJ O'Brien,WTS Porterfield,ST Finn,4,0,null,4,0,null,null
+61,9.6,NJ O'Brien,WTS Porterfield,ST Finn,0,0,null,0,0,null,null
+62,10.1,WTS Porterfield,NJ O'Brien,CR Woakes,0,0,null,0,0,null,null
+63,10.2,WTS Porterfield,NJ O'Brien,CR Woakes,4,0,null,4,0,null,null
+64,10.3,WTS Porterfield,NJ O'Brien,CR Woakes,0,0,null,0,0,null,null
+65,10.4,WTS Porterfield,NJ O'Brien,CR Woakes,0,0,null,0,0,null,null
+66,10.5,WTS Porterfield,NJ O'Brien,CR Woakes,0,0,null,0,0,null,null
+67,10.6,WTS Porterfield,NJ O'Brien,CR Woakes,0,0,null,0,0,null,null
+68,11.1,NJ O'Brien,WTS Porterfield,JW Dernbach,0,0,null,0,0,null,null
+69,11.2,NJ O'Brien,WTS Porterfield,JW Dernbach,1,0,null,1,0,null,null
+70,11.3,WTS Porterfield,NJ O'Brien,JW Dernbach,0,0,null,0,0,null,null
+71,11.4,WTS Porterfield,NJ O'Brien,JW Dernbach,0,0,null,0,0,null,null
+72,11.5,WTS Porterfield,NJ O'Brien,JW Dernbach,0,0,null,0,0,null,null
+73,11.6,WTS Porterfield,NJ O'Brien,JW Dernbach,0,0,null,0,0,null,null
+74,12.1,NJ O'Brien,WTS Porterfield,RS Bopara,1,0,null,1,0,null,null
+75,12.2,WTS Porterfield,NJ O'Brien,RS Bopara,0,0,null,0,0,null,null
+76,12.3,WTS Porterfield,NJ O'Brien,RS Bopara,0,0,null,0,0,null,null
+77,12.4,WTS Porterfield,NJ O'Brien,RS Bopara,4,0,null,4,0,null,null
+78,12.5,WTS Porterfield,NJ O'Brien,RS Bopara,0,0,null,0,0,null,null
+79,12.6,WTS Porterfield,NJ O'Brien,RS Bopara,0,0,null,0,0,null,null
+80,13.1,NJ O'Brien,WTS Porterfield,SG Borthwick,1,0,null,1,0,null,null
+81,13.2,WTS Porterfield,NJ O'Brien,SG Borthwick,0,0,null,0,1,WTS Porterfield,run out
+82,13.3,KJ O'Brien,NJ O'Brien,SG Borthwick,0,0,null,0,0,null,null
+83,13.4,KJ O'Brien,NJ O'Brien,SG Borthwick,0,0,null,0,0,null,null
+84,13.5,KJ O'Brien,NJ O'Brien,SG Borthwick,6,0,null,6,0,null,null
+85,13.6,KJ O'Brien,NJ O'Brien,SG Borthwick,6,0,null,6,0,null,null
+86,14.1,NJ O'Brien,KJ O'Brien,SR Patel,1,0,null,1,0,null,null
+87,14.2,KJ O'Brien,NJ O'Brien,SR Patel,1,0,null,1,0,null,null
+88,14.3,NJ O'Brien,KJ O'Brien,SR Patel,1,0,null,1,0,null,null
+89,14.4,KJ O'Brien,NJ O'Brien,SR Patel,4,0,null,4,0,null,null
+90,14.5,KJ O'Brien,NJ O'Brien,SR Patel,1,0,null,1,0,null,null
+91,14.6,NJ O'Brien,KJ O'Brien,SR Patel,0,0,null,0,0,null,null
+92,15.1,KJ O'Brien,NJ O'Brien,JW Dernbach,1,0,null,1,0,null,null
+93,15.2,NJ O'Brien,KJ O'Brien,JW Dernbach,1,0,null,1,0,null,null
+94,15.3,KJ O'Brien,NJ O'Brien,JW Dernbach,0,1,legbyes ,1,0,null,null
+95,15.4,NJ O'Brien,KJ O'Brien,JW Dernbach,0,0,null,0,0,null,null
+96,15.5,NJ O'Brien,KJ O'Brien,JW Dernbach,0,0,null,0,1,NJ O'Brien,caught
+97,15.6,KJ O'Brien,NG Jones,JW Dernbach,0,0,null,0,0,null,null
+98,16.1,NG Jones,KJ O'Brien,RS Bopara,1,0,null,1,0,null,null
+99,16.2,KJ O'Brien,NG Jones,RS Bopara,1,0,null,1,0,null,null
+100,16.3,NG Jones,KJ O'Brien,RS Bopara,1,0,null,1,0,null,null
+101,16.4,KJ O'Brien,NG Jones,RS Bopara,0,1,wides ,1,0,null,null
+102,16.5,KJ O'Brien,NG Jones,RS Bopara,1,0,null,1,0,null,null
+103,16.6,NG Jones,KJ O'Brien,RS Bopara,0,0,null,0,0,null,null
+104,16.7,NG Jones,KJ O'Brien,RS Bopara,0,0,null,0,1,NG Jones,bowled
+105,17.1,KJ O'Brien,GC Wilson,JW Dernbach,4,0,null,4,0,null,null
+106,17.2,KJ O'Brien,GC Wilson,JW Dernbach,1,0,null,1,0,null,null
+107,17.3,GC Wilson,KJ O'Brien,JW Dernbach,1,0,null,1,0,null,null
+108,17.4,KJ O'Brien,GC Wilson,JW Dernbach,0,0,null,0,1,KJ O'Brien,bowled
+109,17.5,JF Mooney,GC Wilson,JW Dernbach,4,0,null,4,0,null,null
+110,17.6,JF Mooney,GC Wilson,JW Dernbach,0,0,null,0,0,null,null
+111,18.1,GC Wilson,JF Mooney,RS Bopara,0,0,null,0,0,null,null
+112,18.2,GC Wilson,JF Mooney,RS Bopara,1,0,null,1,0,null,null
+113,18.3,JF Mooney,GC Wilson,RS Bopara,1,0,null,1,0,null,null
+114,18.4,GC Wilson,JF Mooney,RS Bopara,1,0,null,1,0,null,null
+115,18.5,JF Mooney,GC Wilson,RS Bopara,1,0,null,1,0,null,null
+116,18.6,GC Wilson,JF Mooney,RS Bopara,1,0,null,1,0,null,null
+117,19.1,GC Wilson,JF Mooney,JW Dernbach,1,0,null,1,0,null,null
+118,19.2,JF Mooney,GC Wilson,JW Dernbach,6,0,null,6,0,null,null
+119,19.3,JF Mooney,GC Wilson,JW Dernbach,1,0,null,1,0,null,null
+120,19.4,GC Wilson,JF Mooney,JW Dernbach,1,0,null,1,0,null,null
+121,19.5,JF Mooney,GC Wilson,JW Dernbach,2,0,null,2,0,null,null
+122,19.6,JF Mooney,GC Wilson,JW Dernbach,0,0,null,0,1,JF Mooney,caught
+123,20.1,AR Cusack,GC Wilson,RS Bopara,1,0,null,1,0,null,null
+124,20.2,GC Wilson,AR Cusack,RS Bopara,4,0,null,4,0,null,null
+125,20.3,GC Wilson,AR Cusack,RS Bopara,1,0,null,1,0,null,null
+126,20.4,AR Cusack,GC Wilson,RS Bopara,0,0,null,0,0,null,null
+127,20.5,AR Cusack,GC Wilson,RS Bopara,0,1,wides ,1,0,null,null
+128,20.6,AR Cusack,GC Wilson,RS Bopara,1,0,null,1,0,null,null
+129,20.7,GC Wilson,AR Cusack,RS Bopara,1,0,null,1,0,null,null
+130,21.1,GC Wilson,AR Cusack,SR Patel,0,0,null,0,0,null,null
+131,21.2,GC Wilson,AR Cusack,SR Patel,0,0,null,0,0,null,null
+132,21.3,GC Wilson,AR Cusack,SR Patel,1,0,null,1,0,null,null
+133,21.4,AR Cusack,GC Wilson,SR Patel,1,0,null,1,0,null,null
+134,21.5,GC Wilson,AR Cusack,SR Patel,0,0,null,0,1,GC Wilson,caught
+135,21.6,AR Cusack,GH Dockrell,SR Patel,2,0,null,2,0,null,null
+136,22.1,GH Dockrell,AR Cusack,JW Dernbach,1,0,null,1,0,null,null
+137,22.2,AR Cusack,GH Dockrell,JW Dernbach,1,0,null,1,0,null,null
+138,22.3,GH Dockrell,AR Cusack,JW Dernbach,0,0,null,0,0,null,null
+139,22.4,GH Dockrell,AR Cusack,JW Dernbach,4,0,null,4,0,null,null
+140,22.5,GH Dockrell,AR Cusack,JW Dernbach,0,0,null,0,0,null,null
+141,22.6,GH Dockrell,AR Cusack,JW Dernbach,0,1,byes ,1,0,null,null

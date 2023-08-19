@@ -1,0 +1,12 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,226364,Eden Park,Australia,B Lee,Right-arm fast,"[0, 1, 0]",1,0,3,0,0
+1,64933,Eden Park,Australia,A Symonds,Right-arm medium,"[0, 1, 2]",0,7,5,0,0
+2,64933,Eden Park,Australia,GB Hogg,Left-arm chinaman,"[1, 0, 0]",0,7,8,1,0
+3,64933,Eden Park,Australia,MS Kasprowicz,Right-arm fast-medium,"[0, 1, 1]",1,0,3,0,0
+4,296904,Riverside Ground,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,0,4,0,0
+5,296904,Riverside Ground,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",0,3,9,0,0
+6,296904,Riverside Ground,England,RJ Sidebottom,Left-arm fast-medium,"[0, 0, 1]",0,1,12,0,0
+7,64935,Basin Reserve,Australia,JN Gillespie,Right-arm fast,"[0, 1, 0]",1,6,5,1,0
+8,251489,McLean Park,Sri Lanka,WPUJC Vaas,Left-arm fast-medium,"[0, 0, 1]",1,0,1,0,0
+9,251491,Jade Stadium,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",1,3,12,0,0
+10,251491,Jade Stadium,Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0

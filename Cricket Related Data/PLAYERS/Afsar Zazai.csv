@@ -1,0 +1,30 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,656411,Manuka Oval,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+1,656411,Manuka Oval,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+2,656473,Sydney Cricket Ground,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,6,12,0,0
+3,656473,Sydney Cricket Ground,England,CJ Jordan,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+4,810833,Dubai International Cricket Stadium,Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",1,5,5,0,0
+5,810833,Dubai International Cricket Stadium,Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,4,5,0,0
+6,810833,Dubai International Cricket Stadium,Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,1,1,0,0
+7,656431,University Oval,Scotland,RD Berrington,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+8,812623,ICC Academy,Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,12,10,2,0
+9,812623,ICC Academy,Scotland,MA Leask,Right-arm offbreak,"[1, 1, 0]",0,10,14,1,0
+10,812623,ICC Academy,Scotland,RD Berrington,Right-arm fast-medium,"[0, 1, 1]",0,13,22,0,0
+11,656421,University Oval,Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",0,0,1,0,0
+12,656421,University Oval,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+13,656421,University Oval,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,7,18,1,0
+14,656449,Western Australia Cricket Association Ground,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,1,2,0,0
+15,656449,Western Australia Cricket Association Ground,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,1,5,0,0
+16,656449,Western Australia Cricket Association Ground,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,4,13,0,0
+17,656449,Western Australia Cricket Association Ground,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",1,1,10,0,0
+18,803795,ICC Academy,United Arab Emirates,Khurram Khan,Left-arm orthodox,"[1, 0, 1]",0,11,30,0,0
+19,803795,ICC Academy,United Arab Emirates,AM Guruge,Left-arm fast-medium,"[0, 0, 1]",0,12,10,2,0
+20,803795,ICC Academy,United Arab Emirates,Mohammad Tauqir,Right-arm offbreak,"[1, 1, 0]",0,6,12,0,0
+21,803795,ICC Academy,United Arab Emirates,Krishna Chandran,Right-arm medium,"[0, 1, 2]",1,6,12,0,0
+22,803797,ICC Academy,United Arab Emirates,Khurram Khan,Left-arm orthodox,"[1, 0, 1]",1,5,8,0,0
+23,803797,ICC Academy,United Arab Emirates,AM Guruge,Left-arm fast-medium,"[0, 0, 1]",0,9,11,1,0
+24,803797,ICC Academy,United Arab Emirates,Krishna Chandran,Right-arm medium,"[0, 1, 2]",0,12,21,1,0
+25,1089779,"Darren Sammy National Cricket Stadium, Gros Islet",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",1,6,9,0,0
+26,1089779,"Darren Sammy National Cricket Stadium, Gros Islet",West Indies,AR Nurse,Right-arm offbreak,"[1, 1, 0]",0,5,6,0,0
+27,1089780,"Darren Sammy National Cricket Stadium, Gros Islet",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,0,17,0,0
+28,1089780,"Darren Sammy National Cricket Stadium, Gros Islet",West Indies,AR Nurse,Right-arm offbreak,"[1, 1, 0]",0,4,9,0,0

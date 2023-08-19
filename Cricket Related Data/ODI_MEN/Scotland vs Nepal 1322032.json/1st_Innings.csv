@@ -1,0 +1,263 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,KJ Coetzer,MH Cross,Karan KC,1,0,null,1,0,null,null
+1,0.2,MH Cross,KJ Coetzer,Karan KC,2,0,null,2,0,null,null
+2,0.3,MH Cross,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+3,0.4,MH Cross,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+4,0.5,MH Cross,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+5,0.6,MH Cross,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+6,1.1,KJ Coetzer,MH Cross,Sompal Kami,0,0,null,0,0,null,null
+7,1.2,KJ Coetzer,MH Cross,Sompal Kami,0,0,null,0,0,null,null
+8,1.3,KJ Coetzer,MH Cross,Sompal Kami,1,0,null,1,0,null,null
+9,1.4,MH Cross,KJ Coetzer,Sompal Kami,0,0,null,0,0,null,null
+10,1.5,MH Cross,KJ Coetzer,Sompal Kami,0,0,null,0,0,null,null
+11,1.6,MH Cross,KJ Coetzer,Sompal Kami,0,0,null,0,1,MH Cross,caught
+12,2.1,KJ Coetzer,CS MacLeod,Karan KC,4,0,null,4,0,null,null
+13,2.2,KJ Coetzer,CS MacLeod,Karan KC,0,0,null,0,0,null,null
+14,2.3,KJ Coetzer,CS MacLeod,Karan KC,0,0,null,0,0,null,null
+15,2.4,KJ Coetzer,CS MacLeod,Karan KC,0,0,null,0,0,null,null
+16,2.5,KJ Coetzer,CS MacLeod,Karan KC,0,0,null,0,0,null,null
+17,2.6,KJ Coetzer,CS MacLeod,Karan KC,0,0,null,0,0,null,null
+18,3.1,CS MacLeod,KJ Coetzer,Sompal Kami,0,0,null,0,0,null,null
+19,3.2,CS MacLeod,KJ Coetzer,Sompal Kami,0,0,null,0,0,null,null
+20,3.3,CS MacLeod,KJ Coetzer,Sompal Kami,0,0,null,0,0,null,null
+21,3.4,CS MacLeod,KJ Coetzer,Sompal Kami,0,0,null,0,0,null,null
+22,3.5,CS MacLeod,KJ Coetzer,Sompal Kami,0,1,wides ,1,0,null,null
+23,3.6,CS MacLeod,KJ Coetzer,Sompal Kami,1,0,null,1,0,null,null
+24,3.7,KJ Coetzer,CS MacLeod,Sompal Kami,0,0,null,0,0,null,null
+25,4.1,CS MacLeod,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+26,4.2,CS MacLeod,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+27,4.3,CS MacLeod,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+28,4.4,CS MacLeod,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+29,4.5,CS MacLeod,KJ Coetzer,Karan KC,1,0,null,1,0,null,null
+30,4.6,KJ Coetzer,CS MacLeod,Karan KC,0,0,null,0,0,null,null
+31,5.1,CS MacLeod,KJ Coetzer,Sompal Kami,2,0,null,2,0,null,null
+32,5.2,CS MacLeod,KJ Coetzer,Sompal Kami,4,0,null,4,0,null,null
+33,5.3,CS MacLeod,KJ Coetzer,Sompal Kami,0,0,null,0,0,null,null
+34,5.4,CS MacLeod,KJ Coetzer,Sompal Kami,0,0,null,0,0,null,null
+35,5.5,CS MacLeod,KJ Coetzer,Sompal Kami,1,0,null,1,0,null,null
+36,5.6,KJ Coetzer,CS MacLeod,Sompal Kami,0,0,null,0,0,null,null
+37,6.1,CS MacLeod,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+38,6.2,CS MacLeod,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+39,6.3,CS MacLeod,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+40,6.4,CS MacLeod,KJ Coetzer,Karan KC,4,0,null,4,0,null,null
+41,6.5,CS MacLeod,KJ Coetzer,Karan KC,0,0,null,0,0,null,null
+42,6.6,CS MacLeod,KJ Coetzer,Karan KC,0,0,null,0,1,CS MacLeod,caught
+43,7.1,KJ Coetzer,RD Berrington,Sompal Kami,0,0,null,0,1,KJ Coetzer,caught
+44,7.2,HG Munsey,RD Berrington,Sompal Kami,0,0,null,0,0,null,null
+45,7.3,HG Munsey,RD Berrington,Sompal Kami,2,0,null,2,0,null,null
+46,7.4,HG Munsey,RD Berrington,Sompal Kami,0,0,null,0,0,null,null
+47,7.5,HG Munsey,RD Berrington,Sompal Kami,0,0,null,0,0,null,null
+48,7.6,HG Munsey,RD Berrington,Sompal Kami,0,0,null,0,0,null,null
+49,8.1,RD Berrington,HG Munsey,Karan KC,0,0,null,0,0,null,null
+50,8.2,RD Berrington,HG Munsey,Karan KC,2,0,null,2,0,null,null
+51,8.3,RD Berrington,HG Munsey,Karan KC,0,0,null,0,0,null,null
+52,8.4,RD Berrington,HG Munsey,Karan KC,0,0,null,0,0,null,null
+53,8.5,RD Berrington,HG Munsey,Karan KC,0,0,null,0,0,null,null
+54,8.6,RD Berrington,HG Munsey,Karan KC,0,0,null,0,0,null,null
+55,9.1,HG Munsey,RD Berrington,Sompal Kami,1,0,null,1,0,null,null
+56,9.2,RD Berrington,HG Munsey,Sompal Kami,0,0,null,0,0,null,null
+57,9.3,RD Berrington,HG Munsey,Sompal Kami,0,0,null,0,0,null,null
+58,9.4,RD Berrington,HG Munsey,Sompal Kami,0,0,null,0,0,null,null
+59,9.5,RD Berrington,HG Munsey,Sompal Kami,1,0,null,1,0,null,null
+60,9.6,HG Munsey,RD Berrington,Sompal Kami,1,0,null,1,0,null,null
+61,10.1,HG Munsey,RD Berrington,Mohammad Aadil Alam,0,0,null,0,1,HG Munsey,caught
+62,10.2,MA Leask,RD Berrington,Mohammad Aadil Alam,0,0,null,0,0,null,null
+63,10.3,MA Leask,RD Berrington,Mohammad Aadil Alam,0,0,null,0,0,null,null
+64,10.4,MA Leask,RD Berrington,Mohammad Aadil Alam,0,0,null,0,0,null,null
+65,10.5,MA Leask,RD Berrington,Mohammad Aadil Alam,4,0,null,4,0,null,null
+66,10.6,MA Leask,RD Berrington,Mohammad Aadil Alam,0,0,null,0,0,null,null
+67,11.1,RD Berrington,MA Leask,Sompal Kami,0,0,null,0,0,null,null
+68,11.2,RD Berrington,MA Leask,Sompal Kami,0,0,null,0,1,RD Berrington,caught
+69,11.3,MRJ Watt,MA Leask,Sompal Kami,0,0,null,0,0,null,null
+70,11.4,MRJ Watt,MA Leask,Sompal Kami,0,0,null,0,0,null,null
+71,11.5,MRJ Watt,MA Leask,Sompal Kami,0,1,wides ,1,0,null,null
+72,11.6,MRJ Watt,MA Leask,Sompal Kami,1,0,null,1,0,null,null
+73,11.7,MA Leask,MRJ Watt,Sompal Kami,0,0,null,0,0,null,null
+74,12.1,MRJ Watt,MA Leask,Mohammad Aadil Alam,0,0,null,0,0,null,null
+75,12.2,MRJ Watt,MA Leask,Mohammad Aadil Alam,4,0,null,4,0,null,null
+76,12.3,MRJ Watt,MA Leask,Mohammad Aadil Alam,1,0,null,1,0,null,null
+77,12.4,MA Leask,MRJ Watt,Mohammad Aadil Alam,0,0,null,0,0,null,null
+78,12.5,MA Leask,MRJ Watt,Mohammad Aadil Alam,0,0,null,0,0,null,null
+79,12.6,MA Leask,MRJ Watt,Mohammad Aadil Alam,0,0,null,0,0,null,null
+80,13.1,MRJ Watt,MA Leask,Sompal Kami,0,0,null,0,0,null,null
+81,13.2,MRJ Watt,MA Leask,Sompal Kami,2,0,null,2,0,null,null
+82,13.3,MRJ Watt,MA Leask,Sompal Kami,0,0,null,0,0,null,null
+83,13.4,MRJ Watt,MA Leask,Sompal Kami,4,0,null,4,0,null,null
+84,13.5,MRJ Watt,MA Leask,Sompal Kami,0,0,null,0,0,null,null
+85,13.6,MRJ Watt,MA Leask,Sompal Kami,0,0,null,0,0,null,null
+86,14.1,MA Leask,MRJ Watt,Mohammad Aadil Alam,0,0,null,0,1,MA Leask,caught
+87,14.2,SM Sharif,MRJ Watt,Mohammad Aadil Alam,1,0,null,1,0,null,null
+88,14.3,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+89,14.4,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+90,14.5,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+91,14.6,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+92,15.1,SM Sharif,MRJ Watt,Sompal Kami,0,0,null,0,0,null,null
+93,15.2,SM Sharif,MRJ Watt,Sompal Kami,0,0,null,0,0,null,null
+94,15.3,SM Sharif,MRJ Watt,Sompal Kami,0,0,null,0,0,null,null
+95,15.4,SM Sharif,MRJ Watt,Sompal Kami,0,0,null,0,0,null,null
+96,15.5,SM Sharif,MRJ Watt,Sompal Kami,4,0,null,4,0,null,null
+97,15.6,SM Sharif,MRJ Watt,Sompal Kami,0,0,null,0,0,null,null
+98,16.1,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+99,16.2,MRJ Watt,SM Sharif,Mohammad Aadil Alam,1,0,null,1,0,null,null
+100,16.3,SM Sharif,MRJ Watt,Mohammad Aadil Alam,0,0,null,0,0,null,null
+101,16.4,SM Sharif,MRJ Watt,Mohammad Aadil Alam,1,0,null,1,0,null,null
+102,16.5,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+103,16.6,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+104,17.1,SM Sharif,MRJ Watt,Karan KC,0,0,null,0,0,null,null
+105,17.2,SM Sharif,MRJ Watt,Karan KC,1,0,null,1,0,null,null
+106,17.3,MRJ Watt,SM Sharif,Karan KC,0,0,null,0,0,null,null
+107,17.4,MRJ Watt,SM Sharif,Karan KC,0,0,null,0,0,null,null
+108,17.5,MRJ Watt,SM Sharif,Karan KC,0,0,null,0,0,null,null
+109,17.6,MRJ Watt,SM Sharif,Karan KC,0,0,null,0,0,null,null
+110,18.1,SM Sharif,MRJ Watt,Mohammad Aadil Alam,0,0,null,0,0,null,null
+111,18.2,SM Sharif,MRJ Watt,Mohammad Aadil Alam,1,0,null,1,0,null,null
+112,18.3,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+113,18.4,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+114,18.5,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+115,18.6,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+116,19.1,SM Sharif,MRJ Watt,S Lamichhane,4,0,null,4,0,null,null
+117,19.2,SM Sharif,MRJ Watt,S Lamichhane,1,0,null,1,0,null,null
+118,19.3,MRJ Watt,SM Sharif,S Lamichhane,0,1,wides ,1,0,null,null
+119,19.4,MRJ Watt,SM Sharif,S Lamichhane,1,0,null,1,0,null,null
+120,19.5,SM Sharif,MRJ Watt,S Lamichhane,0,0,null,0,0,null,null
+121,19.6,SM Sharif,MRJ Watt,S Lamichhane,0,0,null,0,0,null,null
+122,19.7,SM Sharif,MRJ Watt,S Lamichhane,0,0,null,0,0,null,null
+123,20.1,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+124,20.2,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+125,20.3,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+126,20.4,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+127,20.5,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+128,20.6,MRJ Watt,SM Sharif,Mohammad Aadil Alam,0,0,null,0,0,null,null
+129,21.1,SM Sharif,MRJ Watt,S Lamichhane,0,0,null,0,0,null,null
+130,21.2,SM Sharif,MRJ Watt,S Lamichhane,0,0,null,0,0,null,null
+131,21.3,SM Sharif,MRJ Watt,S Lamichhane,0,0,null,0,0,null,null
+132,21.4,SM Sharif,MRJ Watt,S Lamichhane,1,0,null,1,0,null,null
+133,21.5,MRJ Watt,SM Sharif,S Lamichhane,0,0,null,0,0,null,null
+134,21.6,MRJ Watt,SM Sharif,S Lamichhane,0,0,null,0,0,null,null
+135,22.1,SM Sharif,MRJ Watt,Mohammad Aadil Alam,0,0,null,0,0,null,null
+136,22.2,SM Sharif,MRJ Watt,Mohammad Aadil Alam,2,0,null,2,0,null,null
+137,22.3,SM Sharif,MRJ Watt,Mohammad Aadil Alam,0,0,null,0,0,null,null
+138,22.4,SM Sharif,MRJ Watt,Mohammad Aadil Alam,0,0,null,0,1,SM Sharif,caught
+139,22.5,GT Main,MRJ Watt,Mohammad Aadil Alam,0,0,null,0,0,null,null
+140,22.6,GT Main,MRJ Watt,Mohammad Aadil Alam,1,0,null,1,0,null,null
+141,23.1,GT Main,MRJ Watt,S Lamichhane,0,0,null,0,0,null,null
+142,23.2,GT Main,MRJ Watt,S Lamichhane,1,0,null,1,0,null,null
+143,23.3,MRJ Watt,GT Main,S Lamichhane,1,0,null,1,0,null,null
+144,23.4,GT Main,MRJ Watt,S Lamichhane,1,0,null,1,0,null,null
+145,23.5,MRJ Watt,GT Main,S Lamichhane,0,0,null,0,0,null,null
+146,23.6,MRJ Watt,GT Main,S Lamichhane,0,0,null,0,0,null,null
+147,24.1,GT Main,MRJ Watt,Mohammad Aadil Alam,0,0,null,0,0,null,null
+148,24.2,GT Main,MRJ Watt,Mohammad Aadil Alam,4,0,null,4,0,null,null
+149,24.3,GT Main,MRJ Watt,Mohammad Aadil Alam,1,0,null,1,0,null,null
+150,24.4,MRJ Watt,GT Main,Mohammad Aadil Alam,0,0,null,0,0,null,null
+151,24.5,MRJ Watt,GT Main,Mohammad Aadil Alam,0,0,null,0,0,null,null
+152,24.6,MRJ Watt,GT Main,Mohammad Aadil Alam,1,0,null,1,0,null,null
+153,25.1,MRJ Watt,GT Main,S Lamichhane,1,0,null,1,0,null,null
+154,25.2,GT Main,MRJ Watt,S Lamichhane,3,0,null,3,0,null,null
+155,25.3,MRJ Watt,GT Main,S Lamichhane,0,0,null,0,0,null,null
+156,25.4,MRJ Watt,GT Main,S Lamichhane,0,0,null,0,1,MRJ Watt,caught
+157,25.5,A Neill,GT Main,S Lamichhane,0,0,null,0,0,null,null
+158,25.6,A Neill,GT Main,S Lamichhane,0,0,null,0,0,null,null
+159,26.1,GT Main,A Neill,Sompal Kami,0,0,null,0,0,null,null
+160,26.2,GT Main,A Neill,Sompal Kami,0,0,null,0,0,null,null
+161,26.3,GT Main,A Neill,Sompal Kami,4,0,null,4,0,null,null
+162,26.4,GT Main,A Neill,Sompal Kami,0,0,null,0,0,null,null
+163,26.5,GT Main,A Neill,Sompal Kami,0,0,null,0,0,null,null
+164,26.6,GT Main,A Neill,Sompal Kami,1,0,null,1,0,null,null
+165,27.1,GT Main,A Neill,S Lamichhane,4,0,null,4,0,null,null
+166,27.2,GT Main,A Neill,S Lamichhane,0,0,null,0,0,null,null
+167,27.3,GT Main,A Neill,S Lamichhane,0,0,null,0,0,null,null
+168,27.4,GT Main,A Neill,S Lamichhane,2,0,null,2,0,null,null
+169,27.5,GT Main,A Neill,S Lamichhane,1,0,null,1,0,null,null
+170,27.6,A Neill,GT Main,S Lamichhane,0,0,null,0,0,null,null
+171,28.1,GT Main,A Neill,Basir Ahamad,0,0,null,0,0,null,null
+172,28.2,GT Main,A Neill,Basir Ahamad,1,0,null,1,0,null,null
+173,28.3,A Neill,GT Main,Basir Ahamad,0,0,null,0,0,null,null
+174,28.4,A Neill,GT Main,Basir Ahamad,1,0,null,1,0,null,null
+175,28.5,GT Main,A Neill,Basir Ahamad,0,0,null,0,0,null,null
+176,28.6,GT Main,A Neill,Basir Ahamad,0,0,null,0,0,null,null
+177,29.1,A Neill,GT Main,S Lamichhane,0,0,null,0,0,null,null
+178,29.2,A Neill,GT Main,S Lamichhane,0,0,null,0,0,null,null
+179,29.3,A Neill,GT Main,S Lamichhane,1,0,null,1,0,null,null
+180,29.4,GT Main,A Neill,S Lamichhane,1,0,null,1,0,null,null
+181,29.5,A Neill,GT Main,S Lamichhane,0,0,null,0,0,null,null
+182,29.6,A Neill,GT Main,S Lamichhane,0,0,null,0,1,A Neill,bowled
+183,30.1,GT Main,Hamza Tahir,Sompal Kami,4,0,null,4,0,null,null
+184,30.2,GT Main,Hamza Tahir,Sompal Kami,0,0,null,0,0,null,null
+185,30.3,GT Main,Hamza Tahir,Sompal Kami,0,0,null,0,0,null,null
+186,30.4,GT Main,Hamza Tahir,Sompal Kami,0,0,null,0,0,null,null
+187,30.5,GT Main,Hamza Tahir,Sompal Kami,0,0,null,0,0,null,null
+188,30.6,GT Main,Hamza Tahir,Sompal Kami,4,0,null,4,0,null,null
+189,31.1,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+190,31.2,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+191,31.3,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+192,31.4,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+193,31.5,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+194,31.6,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+195,32.1,GT Main,Hamza Tahir,Karan KC,0,1,wides ,1,0,null,null
+196,32.2,GT Main,Hamza Tahir,Karan KC,0,0,null,0,0,null,null
+197,32.3,GT Main,Hamza Tahir,Karan KC,6,0,null,6,0,null,null
+198,32.4,GT Main,Hamza Tahir,Karan KC,1,0,null,1,0,null,null
+199,32.5,Hamza Tahir,GT Main,Karan KC,0,0,null,0,0,null,null
+200,32.6,Hamza Tahir,GT Main,Karan KC,0,0,null,0,0,null,null
+201,32.7,Hamza Tahir,GT Main,Karan KC,0,0,null,0,0,null,null
+202,33.1,GT Main,Hamza Tahir,S Lamichhane,2,0,null,2,0,null,null
+203,33.2,GT Main,Hamza Tahir,S Lamichhane,0,0,null,0,0,null,null
+204,33.3,GT Main,Hamza Tahir,S Lamichhane,4,0,null,4,0,null,null
+205,33.4,GT Main,Hamza Tahir,S Lamichhane,1,0,null,1,0,null,null
+206,33.5,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+207,33.6,Hamza Tahir,GT Main,S Lamichhane,2,0,null,2,0,null,null
+208,34.1,GT Main,Hamza Tahir,Karan KC,0,0,null,0,0,null,null
+209,34.2,GT Main,Hamza Tahir,Karan KC,0,0,null,0,0,null,null
+210,34.3,GT Main,Hamza Tahir,Karan KC,1,0,null,1,0,null,null
+211,34.4,Hamza Tahir,GT Main,Karan KC,0,0,null,0,0,null,null
+212,34.5,Hamza Tahir,GT Main,Karan KC,0,0,null,0,0,null,null
+213,34.6,Hamza Tahir,GT Main,Karan KC,0,0,null,0,0,null,null
+214,35.1,GT Main,Hamza Tahir,S Lamichhane,0,0,null,0,0,null,null
+215,35.2,GT Main,Hamza Tahir,S Lamichhane,1,0,null,1,0,null,null
+216,35.3,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+217,35.4,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+218,35.5,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+219,35.6,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+220,36.1,GT Main,Hamza Tahir,Mohammad Aadil Alam,0,0,null,0,0,null,null
+221,36.2,GT Main,Hamza Tahir,Mohammad Aadil Alam,0,0,null,0,0,null,null
+222,36.3,GT Main,Hamza Tahir,Mohammad Aadil Alam,1,0,null,1,0,null,null
+223,36.4,Hamza Tahir,GT Main,Mohammad Aadil Alam,0,0,null,0,0,null,null
+224,36.5,Hamza Tahir,GT Main,Mohammad Aadil Alam,0,0,null,0,0,null,null
+225,36.6,Hamza Tahir,GT Main,Mohammad Aadil Alam,0,0,null,0,0,null,null
+226,37.1,GT Main,Hamza Tahir,DS Airee,1,0,null,1,0,null,null
+227,37.2,Hamza Tahir,GT Main,DS Airee,0,0,null,0,0,null,null
+228,37.3,Hamza Tahir,GT Main,DS Airee,0,0,null,0,0,null,null
+229,37.4,Hamza Tahir,GT Main,DS Airee,0,0,null,0,0,null,null
+230,37.5,Hamza Tahir,GT Main,DS Airee,0,0,null,0,0,null,null
+231,37.6,Hamza Tahir,GT Main,DS Airee,0,0,null,0,0,null,null
+232,38.1,GT Main,Hamza Tahir,Mohammad Aadil Alam,4,0,null,4,0,null,null
+233,38.2,GT Main,Hamza Tahir,Mohammad Aadil Alam,1,0,null,1,0,null,null
+234,38.3,Hamza Tahir,GT Main,Mohammad Aadil Alam,2,0,null,2,0,null,null
+235,38.4,Hamza Tahir,GT Main,Mohammad Aadil Alam,0,0,null,0,0,null,null
+236,38.5,Hamza Tahir,GT Main,Mohammad Aadil Alam,1,0,null,1,0,null,null
+237,38.6,GT Main,Hamza Tahir,Mohammad Aadil Alam,0,0,null,0,0,null,null
+238,39.1,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+239,39.2,Hamza Tahir,GT Main,S Lamichhane,0,1,legbyes ,1,0,null,null
+240,39.3,GT Main,Hamza Tahir,S Lamichhane,1,0,null,1,0,null,null
+241,39.4,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+242,39.5,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+243,39.6,Hamza Tahir,GT Main,S Lamichhane,0,0,null,0,0,null,null
+244,40.1,GT Main,Hamza Tahir,Karan KC,2,0,null,2,0,null,null
+245,40.2,GT Main,Hamza Tahir,Karan KC,0,1,wides ,1,0,null,null
+246,40.3,GT Main,Hamza Tahir,Karan KC,2,0,null,2,0,null,null
+247,40.4,GT Main,Hamza Tahir,Karan KC,0,0,null,0,0,null,null
+248,40.5,GT Main,Hamza Tahir,Karan KC,1,0,null,1,0,null,null
+249,40.6,Hamza Tahir,GT Main,Karan KC,0,0,null,0,0,null,null
+250,40.7,Hamza Tahir,GT Main,Karan KC,1,0,null,1,0,null,null
+251,41.1,Hamza Tahir,GT Main,Basir Ahamad,0,0,null,0,0,null,null
+252,41.2,Hamza Tahir,GT Main,Basir Ahamad,0,0,null,0,0,null,null
+253,41.3,Hamza Tahir,GT Main,Basir Ahamad,1,0,null,1,0,null,null
+254,41.4,GT Main,Hamza Tahir,Basir Ahamad,1,0,null,1,0,null,null
+255,41.5,Hamza Tahir,GT Main,Basir Ahamad,0,0,null,0,0,null,null
+256,41.6,Hamza Tahir,GT Main,Basir Ahamad,0,0,null,0,0,null,null
+257,42.1,GT Main,Hamza Tahir,DS Airee,0,0,null,0,0,null,null
+258,42.2,GT Main,Hamza Tahir,DS Airee,0,0,null,0,0,null,null
+259,42.3,GT Main,Hamza Tahir,DS Airee,1,0,null,1,0,null,null
+260,42.4,Hamza Tahir,GT Main,DS Airee,0,0,null,0,0,null,null
+261,42.5,Hamza Tahir,GT Main,DS Airee,0,0,null,0,1,Hamza Tahir,caught

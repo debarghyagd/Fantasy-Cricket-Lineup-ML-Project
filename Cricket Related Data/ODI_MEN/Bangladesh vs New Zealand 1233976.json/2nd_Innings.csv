@@ -1,0 +1,133 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,MJ Guptill,HM Nicholls,Mustafizur Rahman,0,0,null,0,0,null,null
+1,0.2,MJ Guptill,HM Nicholls,Mustafizur Rahman,0,0,null,0,0,null,null
+2,0.3,MJ Guptill,HM Nicholls,Mustafizur Rahman,0,0,null,0,0,null,null
+3,0.4,MJ Guptill,HM Nicholls,Mustafizur Rahman,0,0,null,0,0,null,null
+4,0.5,MJ Guptill,HM Nicholls,Mustafizur Rahman,4,0,null,4,0,null,null
+5,0.6,MJ Guptill,HM Nicholls,Mustafizur Rahman,6,0,null,6,0,null,null
+6,1.1,HM Nicholls,MJ Guptill,Hasan Mahmud,1,0,null,1,0,null,null
+7,1.2,MJ Guptill,HM Nicholls,Hasan Mahmud,4,0,null,4,0,null,null
+8,1.3,MJ Guptill,HM Nicholls,Hasan Mahmud,0,0,null,0,0,null,null
+9,1.4,MJ Guptill,HM Nicholls,Hasan Mahmud,0,0,null,0,0,null,null
+10,1.5,MJ Guptill,HM Nicholls,Hasan Mahmud,4,0,null,4,0,null,null
+11,1.6,MJ Guptill,HM Nicholls,Hasan Mahmud,1,0,null,1,0,null,null
+12,2.1,MJ Guptill,HM Nicholls,Mustafizur Rahman,0,0,null,0,0,null,null
+13,2.2,MJ Guptill,HM Nicholls,Mustafizur Rahman,1,0,null,1,0,null,null
+14,2.3,HM Nicholls,MJ Guptill,Mustafizur Rahman,4,0,null,4,0,null,null
+15,2.4,HM Nicholls,MJ Guptill,Mustafizur Rahman,0,0,null,0,0,null,null
+16,2.5,HM Nicholls,MJ Guptill,Mustafizur Rahman,1,0,null,1,0,null,null
+17,2.6,MJ Guptill,HM Nicholls,Mustafizur Rahman,0,0,null,0,0,null,null
+18,3.1,HM Nicholls,MJ Guptill,Hasan Mahmud,4,0,null,4,0,null,null
+19,3.2,HM Nicholls,MJ Guptill,Hasan Mahmud,0,0,null,0,0,null,null
+20,3.3,HM Nicholls,MJ Guptill,Hasan Mahmud,2,0,null,2,0,null,null
+21,3.4,HM Nicholls,MJ Guptill,Hasan Mahmud,0,1,legbyes ,1,0,null,null
+22,3.5,MJ Guptill,HM Nicholls,Hasan Mahmud,6,0,null,6,0,null,null
+23,3.6,MJ Guptill,HM Nicholls,Hasan Mahmud,6,0,null,6,0,null,null
+24,4.1,HM Nicholls,MJ Guptill,Mustafizur Rahman,0,0,null,0,0,null,null
+25,4.2,HM Nicholls,MJ Guptill,Mustafizur Rahman,0,0,null,0,0,null,null
+26,4.3,HM Nicholls,MJ Guptill,Mustafizur Rahman,0,0,null,0,0,null,null
+27,4.4,HM Nicholls,MJ Guptill,Mustafizur Rahman,0,0,null,0,0,null,null
+28,4.5,HM Nicholls,MJ Guptill,Mustafizur Rahman,1,0,null,1,0,null,null
+29,4.6,MJ Guptill,HM Nicholls,Mustafizur Rahman,6,0,null,6,0,null,null
+30,5.1,HM Nicholls,MJ Guptill,Taskin Ahmed,0,1,wides ,1,0,null,null
+31,5.2,HM Nicholls,MJ Guptill,Taskin Ahmed,0,1,legbyes ,1,0,null,null
+32,5.3,MJ Guptill,HM Nicholls,Taskin Ahmed,0,0,null,0,0,null,null
+33,5.4,MJ Guptill,HM Nicholls,Taskin Ahmed,0,0,null,0,1,MJ Guptill,caught
+34,5.5,DP Conway,HM Nicholls,Taskin Ahmed,0,1,byes ,1,0,null,null
+35,5.6,HM Nicholls,DP Conway,Taskin Ahmed,0,0,null,0,0,null,null
+36,5.7,HM Nicholls,DP Conway,Taskin Ahmed,0,0,null,0,0,null,null
+37,6.1,DP Conway,HM Nicholls,Mustafizur Rahman,0,0,null,0,0,null,null
+38,6.2,DP Conway,HM Nicholls,Mustafizur Rahman,2,0,null,2,0,null,null
+39,6.3,DP Conway,HM Nicholls,Mustafizur Rahman,0,1,wides ,1,0,null,null
+40,6.4,DP Conway,HM Nicholls,Mustafizur Rahman,0,0,null,0,0,null,null
+41,6.5,DP Conway,HM Nicholls,Mustafizur Rahman,0,0,null,0,0,null,null
+42,6.6,DP Conway,HM Nicholls,Mustafizur Rahman,0,0,null,0,0,null,null
+43,6.7,DP Conway,HM Nicholls,Mustafizur Rahman,0,0,null,0,0,null,null
+44,7.1,HM Nicholls,DP Conway,Taskin Ahmed,0,0,null,0,0,null,null
+45,7.2,HM Nicholls,DP Conway,Taskin Ahmed,0,0,null,0,0,null,null
+46,7.3,HM Nicholls,DP Conway,Taskin Ahmed,2,0,null,2,0,null,null
+47,7.4,HM Nicholls,DP Conway,Taskin Ahmed,4,0,null,4,0,null,null
+48,7.5,HM Nicholls,DP Conway,Taskin Ahmed,0,1,noballs ,1,0,null,null
+49,7.6,HM Nicholls,DP Conway,Taskin Ahmed,0,1,noballs ,1,0,null,null
+50,7.7,HM Nicholls,DP Conway,Taskin Ahmed,4,0,null,4,0,null,null
+51,7.8,HM Nicholls,DP Conway,Taskin Ahmed,1,0,null,1,0,null,null
+52,8.1,HM Nicholls,DP Conway,Mahedi Hasan,0,0,null,0,0,null,null
+53,8.2,HM Nicholls,DP Conway,Mahedi Hasan,1,0,null,1,0,null,null
+54,8.3,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+55,8.4,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+56,8.5,DP Conway,HM Nicholls,Mahedi Hasan,2,0,null,2,0,null,null
+57,8.6,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+58,9.1,HM Nicholls,DP Conway,Taskin Ahmed,1,0,null,1,0,null,null
+59,9.2,DP Conway,HM Nicholls,Taskin Ahmed,0,0,null,0,0,null,null
+60,9.3,DP Conway,HM Nicholls,Taskin Ahmed,0,0,null,0,0,null,null
+61,9.4,DP Conway,HM Nicholls,Taskin Ahmed,1,0,null,1,0,null,null
+62,9.5,HM Nicholls,DP Conway,Taskin Ahmed,0,0,null,0,0,null,null
+63,9.6,HM Nicholls,DP Conway,Taskin Ahmed,4,0,null,4,0,null,null
+64,10.1,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+65,10.2,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+66,10.3,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+67,10.4,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+68,10.5,DP Conway,HM Nicholls,Mahedi Hasan,1,0,null,1,0,null,null
+69,10.6,HM Nicholls,DP Conway,Mahedi Hasan,0,0,null,0,0,null,null
+70,11.1,DP Conway,HM Nicholls,Taskin Ahmed,1,0,null,1,0,null,null
+71,11.2,HM Nicholls,DP Conway,Taskin Ahmed,0,0,null,0,0,null,null
+72,11.3,HM Nicholls,DP Conway,Taskin Ahmed,0,0,null,0,0,null,null
+73,11.4,HM Nicholls,DP Conway,Taskin Ahmed,0,0,null,0,0,null,null
+74,11.5,HM Nicholls,DP Conway,Taskin Ahmed,1,0,null,1,0,null,null
+75,11.6,DP Conway,HM Nicholls,Taskin Ahmed,1,0,null,1,0,null,null
+76,12.1,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+77,12.2,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+78,12.3,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+79,12.4,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+80,12.5,DP Conway,HM Nicholls,Mahedi Hasan,1,0,null,1,0,null,null
+81,12.6,HM Nicholls,DP Conway,Mahedi Hasan,1,0,null,1,0,null,null
+82,13.1,HM Nicholls,DP Conway,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+83,13.2,DP Conway,HM Nicholls,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+84,13.3,HM Nicholls,DP Conway,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+85,13.4,HM Nicholls,DP Conway,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+86,13.5,DP Conway,HM Nicholls,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+87,13.6,HM Nicholls,DP Conway,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+88,14.1,HM Nicholls,DP Conway,Mahedi Hasan,0,0,null,0,0,null,null
+89,14.2,HM Nicholls,DP Conway,Mahedi Hasan,1,0,null,1,0,null,null
+90,14.3,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+91,14.4,DP Conway,HM Nicholls,Mahedi Hasan,1,0,null,1,0,null,null
+92,14.5,HM Nicholls,DP Conway,Mahedi Hasan,1,0,null,1,0,null,null
+93,14.6,DP Conway,HM Nicholls,Mahedi Hasan,1,0,null,1,0,null,null
+94,15.1,DP Conway,HM Nicholls,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+95,15.2,HM Nicholls,DP Conway,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+96,15.3,DP Conway,HM Nicholls,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+97,15.4,HM Nicholls,DP Conway,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+98,15.5,DP Conway,HM Nicholls,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+99,15.6,DP Conway,HM Nicholls,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+100,16.1,HM Nicholls,DP Conway,Mahedi Hasan,1,0,null,1,0,null,null
+101,16.2,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+102,16.3,DP Conway,HM Nicholls,Mahedi Hasan,1,0,null,1,0,null,null
+103,16.4,HM Nicholls,DP Conway,Mahedi Hasan,0,0,null,0,0,null,null
+104,16.5,HM Nicholls,DP Conway,Mahedi Hasan,0,0,null,0,0,null,null
+105,16.6,HM Nicholls,DP Conway,Mahedi Hasan,4,0,null,4,0,null,null
+106,17.1,DP Conway,HM Nicholls,Hasan Mahmud,1,0,null,1,0,null,null
+107,17.2,HM Nicholls,DP Conway,Hasan Mahmud,1,0,null,1,0,null,null
+108,17.3,DP Conway,HM Nicholls,Hasan Mahmud,0,0,null,0,0,null,null
+109,17.4,DP Conway,HM Nicholls,Hasan Mahmud,4,0,null,4,0,null,null
+110,17.5,DP Conway,HM Nicholls,Hasan Mahmud,2,0,null,2,0,null,null
+111,17.6,DP Conway,HM Nicholls,Hasan Mahmud,0,0,null,0,0,null,null
+112,18.1,HM Nicholls,DP Conway,Mahedi Hasan,1,0,null,1,0,null,null
+113,18.2,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+114,18.3,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+115,18.4,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+116,18.5,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+117,18.6,DP Conway,HM Nicholls,Mahedi Hasan,0,0,null,0,0,null,null
+118,19.1,HM Nicholls,DP Conway,Hasan Mahmud,1,0,null,1,0,null,null
+119,19.2,DP Conway,HM Nicholls,Hasan Mahmud,0,0,null,0,0,null,null
+120,19.3,DP Conway,HM Nicholls,Hasan Mahmud,0,0,null,0,0,null,null
+121,19.4,DP Conway,HM Nicholls,Hasan Mahmud,4,0,null,4,0,null,null
+122,19.5,DP Conway,HM Nicholls,Hasan Mahmud,0,0,null,0,0,null,null
+123,19.6,DP Conway,HM Nicholls,Hasan Mahmud,0,0,null,0,1,DP Conway,caught
+124,20.1,WA Young,HM Nicholls,Soumya Sarkar,1,0,null,1,0,null,null
+125,20.2,HM Nicholls,WA Young,Soumya Sarkar,1,0,null,1,0,null,null
+126,20.3,WA Young,HM Nicholls,Soumya Sarkar,0,0,null,0,0,null,null
+127,20.4,WA Young,HM Nicholls,Soumya Sarkar,1,0,null,1,0,null,null
+128,20.5,HM Nicholls,WA Young,Soumya Sarkar,1,0,null,1,0,null,null
+129,20.6,WA Young,HM Nicholls,Soumya Sarkar,1,0,null,1,0,null,null
+130,21.1,WA Young,HM Nicholls,Hasan Mahmud,4,0,null,4,0,null,null
+131,21.2,WA Young,HM Nicholls,Hasan Mahmud,4,0,null,4,0,null,null

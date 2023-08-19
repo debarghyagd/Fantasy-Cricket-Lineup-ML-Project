@@ -1,0 +1,3 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,64862,Newlands,South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",0,2,4,0,0
+1,64864,Kingsmead,South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",1,2,5,0,0

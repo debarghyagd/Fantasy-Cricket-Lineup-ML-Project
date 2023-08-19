@@ -1,0 +1,62 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1144522,Edgbaston,Bangladesh,Mosaddek Hossain,Right-arm offbreak,"[1, 1, 0]",0,7,7,0,1
+1,1144522,Edgbaston,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,10,11,1,0
+2,1144522,Edgbaston,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,6,5,1,0
+3,1144522,Edgbaston,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,3,9,0,0
+4,1144520,Edgbaston,England,JC Archer,Right-arm fast,"[0, 1, 0]",0,3,1,0,0
+5,1144520,Edgbaston,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",1,10,14,1,0
+6,1144520,Edgbaston,England,MA Wood,Right-arm fast,"[0, 1, 0]",0,18,14,3,0
+7,1276908,"Lord's, London",England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,0,1,0,0
+8,1276908,"Lord's, London",England,BA Carse,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+9,1276909,"Old Trafford, Manchester",England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,15,23,1,0
+10,1276909,"Old Trafford, Manchester",England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,4,9,0,0
+11,1276909,"Old Trafford, Manchester",England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,11,9,2,0
+12,1276909,"Old Trafford, Manchester",England,BA Carse,Right-arm fast,"[0, 1, 0]",0,11,21,0,0
+13,1168245,"Punjab Cricket Association IS Bindra Stadium, Mohali",Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",1,0,2,0,0
+14,1168245,"Punjab Cricket Association IS Bindra Stadium, Mohali",Australia,JA Richardson,Right-arm fast,"[0, 1, 0]",0,16,7,3,0
+15,1168245,"Punjab Cricket Association IS Bindra Stadium, Mohali",Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,7,7,0,0
+16,1168245,"Punjab Cricket Association IS Bindra Stadium, Mohali",Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,13,8,1,1
+17,1168246,Arun Jaitley Stadium,Australia,NM Lyon,Right-arm offbreak,"[1, 1, 0]",1,2,6,0,0
+18,1168246,Arun Jaitley Stadium,Australia,MP Stoinis,Right-arm medium,"[0, 1, 2]",0,6,6,1,0
+19,1168246,Arun Jaitley Stadium,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,8,4,0,1
+20,1187027,Wankhede Stadium,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",1,1,4,0,0
+21,1187027,Wankhede Stadium,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,4,8,0,0
+22,1187027,Wankhede Stadium,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,6,8,1,0
+23,1187027,Wankhede Stadium,Australia,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",0,3,5,0,0
+24,1243394,Maharashtra Cricket Association Stadium,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,3,4,0,0
+25,1243394,Maharashtra Cricket Association Stadium,England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,7,4,1,0
+26,1243394,Maharashtra Cricket Association Stadium,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,20,7,0,3
+27,1243394,Maharashtra Cricket Association Stadium,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,12,9,0,1
+28,1243395,Maharashtra Cricket Association Stadium,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,10,15,0,0
+29,1243395,Maharashtra Cricket Association Stadium,England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,3,5,0,0
+30,1243395,Maharashtra Cricket Association Stadium,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,43,25,2,3
+31,1144528,Old Trafford,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,2,6,0,0
+32,1144528,Old Trafford,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",0,16,20,3,0
+33,1144528,Old Trafford,New Zealand,C de Grandhomme,Right-arm fast-medium,"[0, 1, 1]",0,4,4,0,0
+34,1144528,Old Trafford,New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,5,18,0,0
+35,1144528,Old Trafford,New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",0,5,6,1,0
+36,1277083,"Boland Park, Paarl",South Africa,KA Maharaj,Left-arm orthodox,"[1, 0, 1]",0,17,13,1,1
+37,1277083,"Boland Park, Paarl",South Africa,SSB Magala,Right-arm fast-medium,"[0, 1, 1]",0,4,6,0,0
+38,1277083,"Boland Park, Paarl",South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",1,30,17,5,1
+39,1157755,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",1,5,6,0,0
+40,1187021,"MA Chidambaram Stadium, Chepauk",West Indies,KA Pollard,Right-arm medium,"[0, 1, 2]",1,11,10,1,0
+41,1187021,"MA Chidambaram Stadium, Chepauk",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,13,25,1,0
+42,1187021,"MA Chidambaram Stadium, Chepauk",West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",0,4,5,0,0
+43,1187022,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,13,5,0,2
+44,1187022,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",0,25,8,3,2
+45,1278677,"Narendra Modi Stadium, Ahmedabad",West Indies,OF Smith,Right-arm medium,"[0, 1, 2]",1,4,7,1,0
+46,1278677,"Narendra Modi Stadium, Ahmedabad",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,6,13,1,0
+47,1278677,"Narendra Modi Stadium, Ahmedabad",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,7,14,1,0
+48,1278678,"Narendra Modi Stadium, Ahmedabad",West Indies,OF Smith,Right-arm medium,"[0, 1, 2]",0,8,12,1,0
+49,1278678,"Narendra Modi Stadium, Ahmedabad",West Indies,HR Walsh,Right-arm legbreak,"[1, 1, 1]",1,19,17,3,0
+50,1278678,"Narendra Modi Stadium, Ahmedabad",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,9,5,1,0
+51,1278678,"Narendra Modi Stadium, Ahmedabad",West Indies,FA Allen,Left-arm orthodox,"[1, 0, 1]",0,11,10,0,1
+52,1277082,"Boland Park, Paarl",South Africa,KA Maharaj,Left-arm orthodox,"[1, 0, 1]",0,3,4,0,0
+53,1277082,"Boland Park, Paarl",South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",0,3,8,0,0
+54,1277082,"Boland Park, Paarl",South Africa,L Ngidi,Right-arm fast,"[0, 1, 0]",0,2,2,0,0
+55,1157756,Maharashtra Cricket Association Stadium,West Indies,FA Allen,Left-arm orthodox,"[1, 0, 1]",0,12,9,1,1
+56,1157756,Maharashtra Cricket Association Stadium,West Indies,AR Nurse,Right-arm offbreak,"[1, 1, 0]",1,2,4,0,0
+57,1188625,"Queen's Park Oval, Trinidad",West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",0,7,10,1,0
+58,1188626,"Queen's Park Oval, Trinidad",West Indies,FA Allen,Left-arm orthodox,"[1, 0, 1]",1,0,1,0,0
+59,1278676,"Narendra Modi Stadium, Ahmedabad",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,6,4,1,0
+60,1278676,"Narendra Modi Stadium, Ahmedabad",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,5,5,1,0

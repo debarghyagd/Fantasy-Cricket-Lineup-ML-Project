@@ -1,0 +1,18 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1115796,Hagley Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,0,2,0,0
+1,1115796,Hagley Oval,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",0,4,1,1,0
+2,1115797,Hagley Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,1,2,0,0
+3,1115797,Hagley Oval,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+4,1031675,The Rose Bowl,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,7,7,0,0
+5,1031675,The Rose Bowl,England,JT Ball,Right arm Fast medium,"[0, 1, 1]",0,9,7,1,0
+6,1031675,The Rose Bowl,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",1,4,6,0,0
+7,1098208,"Sir Vivian Richards Stadium, North Sound",India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,3,20,0,0
+8,1098208,"Sir Vivian Richards Stadium, North Sound",India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",1,9,7,2,0
+9,1098208,"Sir Vivian Richards Stadium, North Sound",India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,0,2,0,0
+10,1098208,"Sir Vivian Richards Stadium, North Sound",India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,7,9,1,0
+11,1098209,"Sir Vivian Richards Stadium, North Sound",India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,3,8,0,0
+12,1098209,"Sir Vivian Richards Stadium, North Sound",India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",1,8,14,1,0
+13,1098209,"Sir Vivian Richards Stadium, North Sound",India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,10,25,1,0
+14,1098210,"Sabina Park, Kingston",India,UT Yadav,Right-arm fast,"[0, 1, 0]",1,29,32,6,0
+15,1098210,"Sabina Park, Kingston",India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",0,0,5,0,0
+16,1098210,"Sabina Park, Kingston",India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,16,12,3,0

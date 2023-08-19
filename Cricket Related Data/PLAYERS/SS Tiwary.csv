@@ -1,0 +1,7 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,464529,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Australia,CJ McKay,Right-arm fast-medium,"[0, 1, 1]",0,2,8,0,0
+1,464529,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Australia,NM Hauritz,Right-arm offbreak,"[1, 1, 0]",0,1,1,0,0
+2,464529,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,8,4,2,0
+3,467886,M Chinnaswamy Stadium,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,16,15,2,0
+4,467886,M Chinnaswamy Stadium,New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",0,1,3,0,0
+5,467886,M Chinnaswamy Stadium,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,3,5,0,0

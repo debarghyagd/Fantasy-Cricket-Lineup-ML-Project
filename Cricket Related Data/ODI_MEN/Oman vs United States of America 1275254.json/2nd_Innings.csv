@@ -1,0 +1,249 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,SR Taylor,DOD Rikhi,Bilal Khan,2,0,null,2,0,null,null
+1,0.2,SR Taylor,DOD Rikhi,Bilal Khan,0,0,null,0,0,null,null
+2,0.3,SR Taylor,DOD Rikhi,Bilal Khan,0,0,null,0,0,null,null
+3,0.4,SR Taylor,DOD Rikhi,Bilal Khan,0,0,null,0,0,null,null
+4,0.5,SR Taylor,DOD Rikhi,Bilal Khan,0,0,null,0,0,null,null
+5,0.6,SR Taylor,DOD Rikhi,Bilal Khan,0,0,null,0,0,null,null
+6,1.1,DOD Rikhi,SR Taylor,Kaleemullah,0,0,null,0,0,null,null
+7,1.2,DOD Rikhi,SR Taylor,Kaleemullah,0,0,null,0,0,null,null
+8,1.3,DOD Rikhi,SR Taylor,Kaleemullah,0,0,null,0,0,null,null
+9,1.4,DOD Rikhi,SR Taylor,Kaleemullah,0,1,wides ,1,0,null,null
+10,1.5,DOD Rikhi,SR Taylor,Kaleemullah,0,0,null,0,0,null,null
+11,1.6,DOD Rikhi,SR Taylor,Kaleemullah,0,0,null,0,0,null,null
+12,1.7,DOD Rikhi,SR Taylor,Kaleemullah,0,1,legbyes ,1,0,null,null
+13,2.1,DOD Rikhi,SR Taylor,Bilal Khan,0,0,null,0,0,null,null
+14,2.2,DOD Rikhi,SR Taylor,Bilal Khan,0,0,null,0,1,DOD Rikhi,lbw
+15,2.3,MD Patel,SR Taylor,Bilal Khan,0,0,null,0,0,null,null
+16,2.4,MD Patel,SR Taylor,Bilal Khan,0,0,null,0,0,null,null
+17,2.5,MD Patel,SR Taylor,Bilal Khan,1,0,null,1,0,null,null
+18,2.6,SR Taylor,MD Patel,Bilal Khan,0,0,null,0,0,null,null
+19,3.1,MD Patel,SR Taylor,Kaleemullah,3,0,null,3,0,null,null
+20,3.2,SR Taylor,MD Patel,Kaleemullah,0,0,null,0,0,null,null
+21,3.3,SR Taylor,MD Patel,Kaleemullah,1,0,null,1,0,null,null
+22,3.4,MD Patel,SR Taylor,Kaleemullah,0,0,null,0,0,null,null
+23,3.5,MD Patel,SR Taylor,Kaleemullah,0,0,null,0,0,null,null
+24,3.6,MD Patel,SR Taylor,Kaleemullah,0,0,null,0,0,null,null
+25,4.1,SR Taylor,MD Patel,Bilal Khan,0,0,null,0,0,null,null
+26,4.2,SR Taylor,MD Patel,Bilal Khan,0,0,null,0,0,null,null
+27,4.3,SR Taylor,MD Patel,Bilal Khan,0,1,legbyes ,1,0,null,null
+28,4.4,MD Patel,SR Taylor,Bilal Khan,1,0,null,1,0,null,null
+29,4.5,SR Taylor,MD Patel,Bilal Khan,0,0,null,0,0,null,null
+30,4.6,SR Taylor,MD Patel,Bilal Khan,0,0,null,0,0,null,null
+31,5.1,MD Patel,SR Taylor,Kaleemullah,1,0,null,1,0,null,null
+32,5.2,SR Taylor,MD Patel,Kaleemullah,0,0,null,0,0,null,null
+33,5.3,SR Taylor,MD Patel,Kaleemullah,0,0,null,0,0,null,null
+34,5.4,SR Taylor,MD Patel,Kaleemullah,0,0,null,0,0,null,null
+35,5.5,SR Taylor,MD Patel,Kaleemullah,4,0,null,4,0,null,null
+36,5.6,SR Taylor,MD Patel,Kaleemullah,0,0,null,0,0,null,null
+37,6.1,MD Patel,SR Taylor,Bilal Khan,0,0,null,0,0,null,null
+38,6.2,MD Patel,SR Taylor,Bilal Khan,0,0,null,0,0,null,null
+39,6.3,MD Patel,SR Taylor,Bilal Khan,6,0,null,6,0,null,null
+40,6.4,MD Patel,SR Taylor,Bilal Khan,0,0,null,0,0,null,null
+41,6.5,MD Patel,SR Taylor,Bilal Khan,0,0,null,0,0,null,null
+42,6.6,MD Patel,SR Taylor,Bilal Khan,0,0,null,0,0,null,null
+43,7.1,SR Taylor,MD Patel,Kaleemullah,0,0,null,0,0,null,null
+44,7.2,SR Taylor,MD Patel,Kaleemullah,0,0,null,0,0,null,null
+45,7.3,SR Taylor,MD Patel,Kaleemullah,0,0,null,0,1,SR Taylor,bowled
+46,7.4,NK Patel,MD Patel,Kaleemullah,0,0,null,0,0,null,null
+47,7.5,NK Patel,MD Patel,Kaleemullah,0,1,wides ,1,0,null,null
+48,7.6,NK Patel,MD Patel,Kaleemullah,0,0,null,0,0,null,null
+49,7.7,NK Patel,MD Patel,Kaleemullah,3,0,null,3,0,null,null
+50,8.1,NK Patel,MD Patel,Mohammad Nadeem,0,1,legbyes ,1,0,null,null
+51,8.2,MD Patel,NK Patel,Mohammad Nadeem,4,0,null,4,0,null,null
+52,8.3,MD Patel,NK Patel,Mohammad Nadeem,1,0,null,1,0,null,null
+53,8.4,NK Patel,MD Patel,Mohammad Nadeem,2,0,null,2,0,null,null
+54,8.5,NK Patel,MD Patel,Mohammad Nadeem,0,0,null,0,0,null,null
+55,8.6,NK Patel,MD Patel,Mohammad Nadeem,0,0,null,0,0,null,null
+56,9.1,MD Patel,NK Patel,Kaleemullah,0,0,null,0,0,null,null
+57,9.2,MD Patel,NK Patel,Kaleemullah,0,0,null,0,0,null,null
+58,9.3,MD Patel,NK Patel,Kaleemullah,0,0,null,0,0,null,null
+59,9.4,MD Patel,NK Patel,Kaleemullah,2,0,null,2,0,null,null
+60,9.5,MD Patel,NK Patel,Kaleemullah,0,0,null,0,0,null,null
+61,9.6,MD Patel,NK Patel,Kaleemullah,4,0,null,4,0,null,null
+62,10.1,NK Patel,MD Patel,Zeeshan Maqsood,0,0,null,0,0,null,null
+63,10.2,NK Patel,MD Patel,Zeeshan Maqsood,1,0,null,1,0,null,null
+64,10.3,MD Patel,NK Patel,Zeeshan Maqsood,0,0,null,0,0,null,null
+65,10.4,MD Patel,NK Patel,Zeeshan Maqsood,2,0,null,2,0,null,null
+66,10.5,MD Patel,NK Patel,Zeeshan Maqsood,0,0,null,0,0,null,null
+67,10.6,MD Patel,NK Patel,Zeeshan Maqsood,0,0,null,0,0,null,null
+68,11.1,NK Patel,MD Patel,Mohammad Nadeem,0,0,null,0,0,null,null
+69,11.2,NK Patel,MD Patel,Mohammad Nadeem,1,0,null,1,0,null,null
+70,11.3,MD Patel,NK Patel,Mohammad Nadeem,3,0,null,3,0,null,null
+71,11.4,NK Patel,MD Patel,Mohammad Nadeem,4,0,null,4,0,null,null
+72,11.5,NK Patel,MD Patel,Mohammad Nadeem,0,0,null,0,0,null,null
+73,11.6,NK Patel,MD Patel,Mohammad Nadeem,0,0,null,0,0,null,null
+74,12.1,MD Patel,NK Patel,Zeeshan Maqsood,2,0,null,2,0,null,null
+75,12.2,MD Patel,NK Patel,Zeeshan Maqsood,0,0,null,0,0,null,null
+76,12.3,MD Patel,NK Patel,Zeeshan Maqsood,1,0,null,1,0,null,null
+77,12.4,NK Patel,MD Patel,Zeeshan Maqsood,1,0,null,1,0,null,null
+78,12.5,MD Patel,NK Patel,Zeeshan Maqsood,2,0,null,2,0,null,null
+79,12.6,MD Patel,NK Patel,Zeeshan Maqsood,1,0,null,1,0,null,null
+80,13.1,MD Patel,NK Patel,Khawar Ali,0,0,null,0,0,null,null
+81,13.2,MD Patel,NK Patel,Khawar Ali,0,1,wides ,1,0,null,null
+82,13.3,MD Patel,NK Patel,Khawar Ali,0,0,null,0,0,null,null
+83,13.4,MD Patel,NK Patel,Khawar Ali,0,0,null,0,0,null,null
+84,13.5,MD Patel,NK Patel,Khawar Ali,1,0,null,1,0,null,null
+85,13.6,NK Patel,MD Patel,Khawar Ali,0,0,null,0,0,null,null
+86,13.7,NK Patel,MD Patel,Khawar Ali,0,0,null,0,0,null,null
+87,14.1,MD Patel,NK Patel,Zeeshan Maqsood,0,0,null,0,0,null,null
+88,14.2,MD Patel,NK Patel,Zeeshan Maqsood,1,0,null,1,0,null,null
+89,14.3,NK Patel,MD Patel,Zeeshan Maqsood,0,0,null,0,0,null,null
+90,14.4,NK Patel,MD Patel,Zeeshan Maqsood,2,0,null,2,0,null,null
+91,14.5,NK Patel,MD Patel,Zeeshan Maqsood,1,0,null,1,0,null,null
+92,14.6,MD Patel,NK Patel,Zeeshan Maqsood,0,0,null,0,0,null,null
+93,15.1,NK Patel,MD Patel,Khawar Ali,0,0,null,0,0,null,null
+94,15.2,NK Patel,MD Patel,Khawar Ali,0,0,null,0,0,null,null
+95,15.3,NK Patel,MD Patel,Khawar Ali,1,0,null,1,0,null,null
+96,15.4,MD Patel,NK Patel,Khawar Ali,1,0,null,1,0,null,null
+97,15.5,NK Patel,MD Patel,Khawar Ali,0,0,null,0,1,NK Patel,bowled
+98,15.6,JS Malhotra,MD Patel,Khawar Ali,0,0,null,0,0,null,null
+99,16.1,MD Patel,JS Malhotra,Ayan Khan,0,0,null,0,0,null,null
+100,16.2,MD Patel,JS Malhotra,Ayan Khan,1,0,null,1,0,null,null
+101,16.3,JS Malhotra,MD Patel,Ayan Khan,1,0,null,1,0,null,null
+102,16.4,MD Patel,JS Malhotra,Ayan Khan,2,0,null,2,0,null,null
+103,16.5,MD Patel,JS Malhotra,Ayan Khan,0,0,null,0,0,null,null
+104,16.6,MD Patel,JS Malhotra,Ayan Khan,1,0,null,1,0,null,null
+105,17.1,MD Patel,JS Malhotra,Khawar Ali,1,0,null,1,0,null,null
+106,17.2,JS Malhotra,MD Patel,Khawar Ali,0,0,null,0,0,null,null
+107,17.3,JS Malhotra,MD Patel,Khawar Ali,1,0,null,1,0,null,null
+108,17.4,MD Patel,JS Malhotra,Khawar Ali,0,0,null,0,0,null,null
+109,17.5,MD Patel,JS Malhotra,Khawar Ali,2,0,null,2,0,null,null
+110,17.6,MD Patel,JS Malhotra,Khawar Ali,1,0,null,1,0,null,null
+111,18.1,MD Patel,JS Malhotra,Ayan Khan,1,0,null,1,0,null,null
+112,18.2,JS Malhotra,MD Patel,Ayan Khan,2,0,null,2,0,null,null
+113,18.3,JS Malhotra,MD Patel,Ayan Khan,1,0,null,1,0,null,null
+114,18.4,MD Patel,JS Malhotra,Ayan Khan,6,0,null,6,0,null,null
+115,18.5,MD Patel,JS Malhotra,Ayan Khan,1,0,null,1,0,null,null
+116,18.6,JS Malhotra,MD Patel,Ayan Khan,0,0,null,0,0,null,null
+117,19.1,MD Patel,JS Malhotra,Khawar Ali,1,0,null,1,0,null,null
+118,19.2,JS Malhotra,MD Patel,Khawar Ali,1,0,null,1,0,null,null
+119,19.3,MD Patel,JS Malhotra,Khawar Ali,0,0,null,0,0,null,null
+120,19.4,MD Patel,JS Malhotra,Khawar Ali,1,0,null,1,0,null,null
+121,19.5,JS Malhotra,MD Patel,Khawar Ali,1,0,null,1,0,null,null
+122,19.6,MD Patel,JS Malhotra,Khawar Ali,1,0,null,1,0,null,null
+123,20.1,MD Patel,JS Malhotra,Ayan Khan,0,4,wides ,4,0,null,null
+124,20.2,JS Malhotra,MD Patel,Ayan Khan,0,0,null,0,0,null,null
+125,20.3,JS Malhotra,MD Patel,Ayan Khan,0,0,null,0,0,null,null
+126,20.4,JS Malhotra,MD Patel,Ayan Khan,1,0,null,1,0,null,null
+127,20.5,MD Patel,JS Malhotra,Ayan Khan,0,0,null,0,1,MD Patel,caught
+128,20.6,G Singh,JS Malhotra,Ayan Khan,0,0,null,0,0,null,null
+129,20.7,G Singh,JS Malhotra,Ayan Khan,0,0,null,0,0,null,null
+130,21.1,JS Malhotra,G Singh,Khawar Ali,0,0,null,0,0,null,null
+131,21.2,JS Malhotra,G Singh,Khawar Ali,0,0,null,0,0,null,null
+132,21.3,JS Malhotra,G Singh,Khawar Ali,0,0,null,0,0,null,null
+133,21.4,JS Malhotra,G Singh,Khawar Ali,1,0,null,1,0,null,null
+134,21.5,G Singh,JS Malhotra,Khawar Ali,0,0,null,0,0,null,null
+135,21.6,G Singh,JS Malhotra,Khawar Ali,0,0,null,0,0,null,null
+136,22.1,JS Malhotra,G Singh,Ayan Khan,0,0,null,0,0,null,null
+137,22.2,JS Malhotra,G Singh,Ayan Khan,1,0,null,1,0,null,null
+138,22.3,G Singh,JS Malhotra,Ayan Khan,0,1,legbyes ,1,0,null,null
+139,22.4,JS Malhotra,G Singh,Ayan Khan,0,0,null,0,0,null,null
+140,22.5,JS Malhotra,G Singh,Ayan Khan,0,0,null,0,0,null,null
+141,22.6,JS Malhotra,G Singh,Ayan Khan,0,0,null,0,0,null,null
+142,23.1,G Singh,JS Malhotra,Khawar Ali,0,0,null,0,0,null,null
+143,23.2,G Singh,JS Malhotra,Khawar Ali,1,0,null,1,0,null,null
+144,23.3,JS Malhotra,G Singh,Khawar Ali,0,0,null,0,0,null,null
+145,23.4,JS Malhotra,G Singh,Khawar Ali,1,0,null,1,0,null,null
+146,23.5,G Singh,JS Malhotra,Khawar Ali,0,0,null,0,0,null,null
+147,23.6,G Singh,JS Malhotra,Khawar Ali,1,0,null,1,0,null,null
+148,24.1,G Singh,JS Malhotra,Ayan Khan,0,0,null,0,0,null,null
+149,24.2,G Singh,JS Malhotra,Ayan Khan,0,2,legbyes ,2,0,null,null
+150,24.3,G Singh,JS Malhotra,Ayan Khan,0,0,null,0,0,null,null
+151,24.4,G Singh,JS Malhotra,Ayan Khan,0,0,null,0,0,null,null
+152,24.5,G Singh,JS Malhotra,Ayan Khan,0,1,wides ,1,0,null,null
+153,24.6,G Singh,JS Malhotra,Ayan Khan,2,0,null,2,0,null,null
+154,24.7,G Singh,JS Malhotra,Ayan Khan,1,0,null,1,0,null,null
+155,25.1,G Singh,JS Malhotra,Bilal Khan,0,0,null,0,0,null,null
+156,25.2,G Singh,JS Malhotra,Bilal Khan,0,0,null,0,0,null,null
+157,25.3,G Singh,JS Malhotra,Bilal Khan,4,0,null,4,0,null,null
+158,25.4,G Singh,JS Malhotra,Bilal Khan,0,0,null,0,0,null,null
+159,25.5,G Singh,JS Malhotra,Bilal Khan,0,0,null,0,0,null,null
+160,25.6,G Singh,JS Malhotra,Bilal Khan,0,1,wides ,1,0,null,null
+161,25.7,G Singh,JS Malhotra,Bilal Khan,2,0,null,2,0,null,null
+162,26.1,JS Malhotra,G Singh,Zeeshan Maqsood,1,0,null,1,0,null,null
+163,26.2,G Singh,JS Malhotra,Zeeshan Maqsood,1,0,null,1,0,null,null
+164,26.3,JS Malhotra,G Singh,Zeeshan Maqsood,0,0,null,0,0,null,null
+165,26.4,JS Malhotra,G Singh,Zeeshan Maqsood,1,0,null,1,0,null,null
+166,26.5,G Singh,JS Malhotra,Zeeshan Maqsood,1,0,null,1,0,null,null
+167,26.6,JS Malhotra,G Singh,Zeeshan Maqsood,0,0,null,0,0,null,null
+168,27.1,G Singh,JS Malhotra,Mohammad Nadeem,1,0,null,1,0,null,null
+169,27.2,JS Malhotra,G Singh,Mohammad Nadeem,2,0,null,2,0,null,null
+170,27.3,JS Malhotra,G Singh,Mohammad Nadeem,1,0,null,1,0,null,null
+171,27.4,G Singh,JS Malhotra,Mohammad Nadeem,0,0,null,0,0,null,null
+172,27.5,G Singh,JS Malhotra,Mohammad Nadeem,1,0,null,1,0,null,null
+173,27.6,JS Malhotra,G Singh,Mohammad Nadeem,0,0,null,0,0,null,null
+174,28.1,G Singh,JS Malhotra,Zeeshan Maqsood,1,0,null,1,0,null,null
+175,28.2,JS Malhotra,G Singh,Zeeshan Maqsood,1,0,null,1,0,null,null
+176,28.3,G Singh,JS Malhotra,Zeeshan Maqsood,1,0,null,1,0,null,null
+177,28.4,JS Malhotra,G Singh,Zeeshan Maqsood,0,0,null,0,1,JS Malhotra,bowled
+178,28.5,K Gore,G Singh,Zeeshan Maqsood,0,0,null,0,0,null,null
+179,28.6,K Gore,G Singh,Zeeshan Maqsood,0,0,null,0,0,null,null
+180,29.1,G Singh,K Gore,Mohammad Nadeem,0,0,null,0,0,null,null
+181,29.2,G Singh,K Gore,Mohammad Nadeem,2,0,null,2,0,null,null
+182,29.3,G Singh,K Gore,Mohammad Nadeem,1,0,null,1,0,null,null
+183,29.4,K Gore,G Singh,Mohammad Nadeem,0,0,null,0,0,null,null
+184,29.5,K Gore,G Singh,Mohammad Nadeem,0,0,null,0,0,null,null
+185,29.6,K Gore,G Singh,Mohammad Nadeem,4,0,null,4,0,null,null
+186,30.1,G Singh,K Gore,Zeeshan Maqsood,1,0,null,1,0,null,null
+187,30.2,K Gore,G Singh,Zeeshan Maqsood,0,0,null,0,0,null,null
+188,30.3,K Gore,G Singh,Zeeshan Maqsood,0,0,null,0,0,null,null
+189,30.4,K Gore,G Singh,Zeeshan Maqsood,0,0,null,0,0,null,null
+190,30.5,K Gore,G Singh,Zeeshan Maqsood,1,0,null,1,0,null,null
+191,30.6,G Singh,K Gore,Zeeshan Maqsood,1,0,null,1,0,null,null
+192,31.1,G Singh,K Gore,Kaleemullah,1,0,null,1,0,null,null
+193,31.2,K Gore,G Singh,Kaleemullah,0,0,null,0,0,null,null
+194,31.3,K Gore,G Singh,Kaleemullah,0,1,wides ,1,0,null,null
+195,31.4,K Gore,G Singh,Kaleemullah,2,0,null,2,0,null,null
+196,31.5,K Gore,G Singh,Kaleemullah,0,0,null,0,0,null,null
+197,31.6,K Gore,G Singh,Kaleemullah,0,0,null,0,0,null,null
+198,31.7,K Gore,G Singh,Kaleemullah,1,0,null,1,0,null,null
+199,32.1,K Gore,G Singh,Zeeshan Maqsood,0,0,null,0,0,null,null
+200,32.2,K Gore,G Singh,Zeeshan Maqsood,2,0,null,2,0,null,null
+201,32.3,K Gore,G Singh,Zeeshan Maqsood,0,0,null,0,0,null,null
+202,32.4,K Gore,G Singh,Zeeshan Maqsood,0,0,null,0,0,null,null
+203,32.5,K Gore,G Singh,Zeeshan Maqsood,1,0,null,1,0,null,null
+204,32.6,G Singh,K Gore,Zeeshan Maqsood,3,0,null,3,0,null,null
+205,33.1,G Singh,K Gore,Kaleemullah,4,0,null,4,0,null,null
+206,33.2,G Singh,K Gore,Kaleemullah,0,0,null,0,0,null,null
+207,33.3,G Singh,K Gore,Kaleemullah,1,0,null,1,0,null,null
+208,33.4,K Gore,G Singh,Kaleemullah,1,0,null,1,0,null,null
+209,33.5,G Singh,K Gore,Kaleemullah,4,0,null,4,0,null,null
+210,33.6,G Singh,K Gore,Kaleemullah,2,0,null,2,0,null,null
+211,34.1,K Gore,G Singh,Ayan Khan,1,0,null,1,0,null,null
+212,34.2,G Singh,K Gore,Ayan Khan,1,0,null,1,0,null,null
+213,34.3,K Gore,G Singh,Ayan Khan,0,0,null,0,0,null,null
+214,34.4,K Gore,G Singh,Ayan Khan,4,0,null,4,0,null,null
+215,34.5,K Gore,G Singh,Ayan Khan,0,1,wides ,1,0,null,null
+216,34.6,K Gore,G Singh,Ayan Khan,0,0,null,0,1,K Gore,lbw
+217,34.7,EH Hutchinson,G Singh,Ayan Khan,0,0,null,0,0,null,null
+218,35.1,G Singh,EH Hutchinson,Khawar Ali,6,0,null,6,0,null,null
+219,35.2,G Singh,EH Hutchinson,Khawar Ali,0,0,null,0,0,null,null
+220,35.3,G Singh,EH Hutchinson,Khawar Ali,2,0,null,2,0,null,null
+221,35.4,G Singh,EH Hutchinson,Khawar Ali,1,0,null,1,0,null,null
+222,35.5,EH Hutchinson,G Singh,Khawar Ali,0,0,null,0,0,null,null
+223,35.6,EH Hutchinson,G Singh,Khawar Ali,6,0,null,6,0,null,null
+224,36.1,G Singh,EH Hutchinson,Ayan Khan,0,0,null,0,0,null,null
+225,36.2,G Singh,EH Hutchinson,Ayan Khan,1,0,null,1,0,null,null
+226,36.3,EH Hutchinson,G Singh,Ayan Khan,0,0,null,0,0,null,null
+227,36.4,EH Hutchinson,G Singh,Ayan Khan,0,0,null,0,0,null,null
+228,36.5,EH Hutchinson,G Singh,Ayan Khan,0,0,null,0,0,null,null
+229,36.6,EH Hutchinson,G Singh,Ayan Khan,1,0,null,1,0,null,null
+230,37.1,EH Hutchinson,G Singh,Khawar Ali,0,0,null,0,0,null,null
+231,37.2,EH Hutchinson,G Singh,Khawar Ali,1,0,null,1,0,null,null
+232,37.3,G Singh,EH Hutchinson,Khawar Ali,0,1,wides ,1,0,null,null
+233,37.4,G Singh,EH Hutchinson,Khawar Ali,0,0,null,0,1,G Singh,stumped
+234,37.5,SN Netravalkar,EH Hutchinson,Khawar Ali,1,0,null,1,0,null,null
+235,37.6,EH Hutchinson,SN Netravalkar,Khawar Ali,4,0,null,4,0,null,null
+236,37.7,EH Hutchinson,SN Netravalkar,Khawar Ali,6,0,null,6,0,null,null
+237,38.1,SN Netravalkar,EH Hutchinson,Ayan Khan,0,0,null,0,1,SN Netravalkar,caught
+238,38.2,NP Kenjige,EH Hutchinson,Ayan Khan,1,0,null,1,0,null,null
+239,38.3,EH Hutchinson,NP Kenjige,Ayan Khan,0,0,null,0,0,null,null
+240,38.4,EH Hutchinson,NP Kenjige,Ayan Khan,0,0,null,0,0,null,null
+241,38.5,EH Hutchinson,NP Kenjige,Ayan Khan,0,0,null,0,1,EH Hutchinson,caught
+242,38.6,K Phillip,NP Kenjige,Ayan Khan,0,0,null,0,0,null,null
+243,39.1,NP Kenjige,K Phillip,Khawar Ali,1,0,null,1,0,null,null
+244,39.2,K Phillip,NP Kenjige,Khawar Ali,1,0,null,1,0,null,null
+245,39.3,NP Kenjige,K Phillip,Khawar Ali,0,0,null,0,0,null,null
+246,39.4,NP Kenjige,K Phillip,Khawar Ali,1,0,null,1,0,null,null
+247,39.5,K Phillip,NP Kenjige,Khawar Ali,0,0,null,0,1,K Phillip,stumped

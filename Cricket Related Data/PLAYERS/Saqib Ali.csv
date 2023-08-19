@@ -1,0 +1,9 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,335346,Gaddafi Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",1,2,7,0,0
+1,335350,Gaddafi Stadium,Sri Lanka,T Thushara,Left-arm fast-medium,"[0, 0, 1]",0,5,11,0,0
+2,335350,Gaddafi Stadium,Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",0,1,4,0,0
+3,335350,Gaddafi Stadium,Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",0,12,13,1,0
+4,335350,Gaddafi Stadium,Sri Lanka,BAW Mendis,Right-arm offbreak,"[1, 1, 0]",1,1,4,0,0
+5,803795,ICC Academy,Afghanistan,Shapoor Zadran,Left-arm fast-medium,"[0, 0, 1]",0,1,7,0,0
+6,803797,ICC Academy,Afghanistan,Hamid Hassan,Right-arm fast,"[0, 1, 0]",0,0,4,0,0
+7,803797,ICC Academy,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,9,12,2,0

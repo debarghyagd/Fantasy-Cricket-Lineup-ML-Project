@@ -1,0 +1,327 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,CJ Nevin,SP Fleming,NW Bracken,0,1,legbyes ,1,0,null,null
+1,0.2,SP Fleming,CJ Nevin,NW Bracken,0,0,null,0,0,null,null
+2,0.3,SP Fleming,CJ Nevin,NW Bracken,0,0,null,0,0,null,null
+3,0.4,SP Fleming,CJ Nevin,NW Bracken,0,0,null,0,0,null,null
+4,0.5,SP Fleming,CJ Nevin,NW Bracken,0,0,null,0,0,null,null
+5,0.6,SP Fleming,CJ Nevin,NW Bracken,0,0,null,0,0,null,null
+6,1.1,CJ Nevin,SP Fleming,BA Williams,0,1,wides ,1,0,null,null
+7,1.2,CJ Nevin,SP Fleming,BA Williams,0,0,null,0,0,null,null
+8,1.3,CJ Nevin,SP Fleming,BA Williams,0,0,null,0,0,null,null
+9,1.4,CJ Nevin,SP Fleming,BA Williams,0,0,null,0,0,null,null
+10,1.5,CJ Nevin,SP Fleming,BA Williams,0,0,null,0,0,null,null
+11,1.6,CJ Nevin,SP Fleming,BA Williams,0,0,null,0,0,null,null
+12,1.7,CJ Nevin,SP Fleming,BA Williams,0,1,wides ,1,0,null,null
+13,1.8,CJ Nevin,SP Fleming,BA Williams,0,0,null,0,0,null,null
+14,2.1,SP Fleming,CJ Nevin,NW Bracken,0,0,null,0,0,null,null
+15,2.2,SP Fleming,CJ Nevin,NW Bracken,0,0,null,0,0,null,null
+16,2.3,SP Fleming,CJ Nevin,NW Bracken,0,0,null,0,0,null,null
+17,2.4,SP Fleming,CJ Nevin,NW Bracken,0,0,null,0,0,null,null
+18,2.5,SP Fleming,CJ Nevin,NW Bracken,0,0,null,0,0,null,null
+19,2.6,SP Fleming,CJ Nevin,NW Bracken,0,0,null,0,0,null,null
+20,3.1,CJ Nevin,SP Fleming,BA Williams,0,0,null,0,1,CJ Nevin,lbw
+21,3.2,L Vincent,SP Fleming,BA Williams,0,0,null,0,0,null,null
+22,3.3,L Vincent,SP Fleming,BA Williams,0,0,null,0,0,null,null
+23,3.4,L Vincent,SP Fleming,BA Williams,1,0,null,1,0,null,null
+24,3.5,SP Fleming,L Vincent,BA Williams,0,0,null,0,0,null,null
+25,3.6,SP Fleming,L Vincent,BA Williams,0,1,wides ,1,0,null,null
+26,3.7,SP Fleming,L Vincent,BA Williams,3,0,null,3,0,null,null
+27,4.1,SP Fleming,L Vincent,NW Bracken,0,0,null,0,0,null,null
+28,4.2,SP Fleming,L Vincent,NW Bracken,0,1,wides ,1,0,null,null
+29,4.3,SP Fleming,L Vincent,NW Bracken,0,0,null,0,0,null,null
+30,4.4,SP Fleming,L Vincent,NW Bracken,0,0,null,0,0,null,null
+31,4.5,SP Fleming,L Vincent,NW Bracken,0,0,null,0,0,null,null
+32,4.6,SP Fleming,L Vincent,NW Bracken,0,0,null,0,0,null,null
+33,4.7,SP Fleming,L Vincent,NW Bracken,0,1,wides ,1,0,null,null
+34,4.8,SP Fleming,L Vincent,NW Bracken,0,0,null,0,0,null,null
+35,5.1,L Vincent,SP Fleming,BA Williams,0,0,null,0,0,null,null
+36,5.2,L Vincent,SP Fleming,BA Williams,0,0,null,0,0,null,null
+37,5.3,L Vincent,SP Fleming,BA Williams,0,0,null,0,1,L Vincent,caught
+38,5.4,SB Styris,SP Fleming,BA Williams,0,1,wides ,1,0,null,null
+39,5.5,SB Styris,SP Fleming,BA Williams,0,0,null,0,1,SB Styris,lbw
+40,5.6,CD McMillan,SP Fleming,BA Williams,0,1,wides ,1,0,null,null
+41,5.7,CD McMillan,SP Fleming,BA Williams,0,0,null,0,0,null,null
+42,5.8,CD McMillan,SP Fleming,BA Williams,0,0,null,0,0,null,null
+43,6.1,SP Fleming,CD McMillan,NW Bracken,0,0,null,0,0,null,null
+44,6.2,SP Fleming,CD McMillan,NW Bracken,0,1,wides ,1,0,null,null
+45,6.3,SP Fleming,CD McMillan,NW Bracken,4,0,null,4,0,null,null
+46,6.4,SP Fleming,CD McMillan,NW Bracken,0,1,wides ,1,0,null,null
+47,6.5,SP Fleming,CD McMillan,NW Bracken,0,0,null,0,0,null,null
+48,6.6,SP Fleming,CD McMillan,NW Bracken,2,0,null,2,0,null,null
+49,6.7,SP Fleming,CD McMillan,NW Bracken,0,1,wides ,1,0,null,null
+50,6.8,SP Fleming,CD McMillan,NW Bracken,0,0,null,0,0,null,null
+51,6.9,SP Fleming,CD McMillan,NW Bracken,0,0,null,0,0,null,null
+52,7.1,CD McMillan,SP Fleming,BA Williams,0,0,null,0,0,null,null
+53,7.2,CD McMillan,SP Fleming,BA Williams,0,0,null,0,0,null,null
+54,7.3,CD McMillan,SP Fleming,BA Williams,0,0,null,0,0,null,null
+55,7.4,CD McMillan,SP Fleming,BA Williams,0,0,null,0,1,CD McMillan,bowled
+56,7.5,CL Cairns,SP Fleming,BA Williams,0,0,null,0,0,null,null
+57,7.6,CL Cairns,SP Fleming,BA Williams,0,0,null,0,0,null,null
+58,8.1,SP Fleming,CL Cairns,NW Bracken,0,0,null,0,0,null,null
+59,8.2,SP Fleming,CL Cairns,NW Bracken,0,0,null,0,0,null,null
+60,8.3,SP Fleming,CL Cairns,NW Bracken,0,0,null,0,0,null,null
+61,8.4,SP Fleming,CL Cairns,NW Bracken,0,0,null,0,0,null,null
+62,8.5,SP Fleming,CL Cairns,NW Bracken,0,1,wides ,1,0,null,null
+63,8.6,SP Fleming,CL Cairns,NW Bracken,0,0,null,0,0,null,null
+64,8.7,SP Fleming,CL Cairns,NW Bracken,0,0,null,0,0,null,null
+65,9.1,CL Cairns,SP Fleming,BA Williams,0,0,null,0,0,null,null
+66,9.2,CL Cairns,SP Fleming,BA Williams,4,0,null,4,0,null,null
+67,9.3,CL Cairns,SP Fleming,BA Williams,0,0,null,0,0,null,null
+68,9.4,CL Cairns,SP Fleming,BA Williams,0,0,null,0,0,null,null
+69,9.5,CL Cairns,SP Fleming,BA Williams,0,0,null,0,0,null,null
+70,9.6,CL Cairns,SP Fleming,BA Williams,2,0,null,2,0,null,null
+71,10.1,SP Fleming,CL Cairns,AJ Bichel,2,0,null,2,0,null,null
+72,10.2,SP Fleming,CL Cairns,AJ Bichel,4,0,null,4,0,null,null
+73,10.3,SP Fleming,CL Cairns,AJ Bichel,0,1,legbyes ,1,0,null,null
+74,10.4,CL Cairns,SP Fleming,AJ Bichel,1,0,null,1,0,null,null
+75,10.5,SP Fleming,CL Cairns,AJ Bichel,0,1,wides ,1,0,null,null
+76,10.6,SP Fleming,CL Cairns,AJ Bichel,0,0,null,0,0,null,null
+77,10.7,SP Fleming,CL Cairns,AJ Bichel,0,0,null,0,0,null,null
+78,11.1,CL Cairns,SP Fleming,BA Williams,4,0,null,4,0,null,null
+79,11.2,CL Cairns,SP Fleming,BA Williams,0,1,wides ,1,0,null,null
+80,11.3,CL Cairns,SP Fleming,BA Williams,0,0,null,0,0,null,null
+81,11.4,CL Cairns,SP Fleming,BA Williams,0,0,null,0,0,null,null
+82,11.5,CL Cairns,SP Fleming,BA Williams,1,0,null,1,0,null,null
+83,11.6,SP Fleming,CL Cairns,BA Williams,0,0,null,0,0,null,null
+84,11.7,SP Fleming,CL Cairns,BA Williams,0,5,wides ,5,0,null,null
+85,11.8,SP Fleming,CL Cairns,BA Williams,0,0,null,0,0,null,null
+86,12.1,CL Cairns,SP Fleming,AJ Bichel,4,0,null,4,0,null,null
+87,12.2,CL Cairns,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+88,12.3,CL Cairns,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+89,12.4,CL Cairns,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+90,12.5,CL Cairns,SP Fleming,AJ Bichel,2,0,null,2,0,null,null
+91,12.6,CL Cairns,SP Fleming,AJ Bichel,1,0,null,1,0,null,null
+92,13.1,CL Cairns,SP Fleming,IJ Harvey,4,0,null,4,0,null,null
+93,13.2,CL Cairns,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+94,13.3,CL Cairns,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+95,13.4,CL Cairns,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+96,13.5,CL Cairns,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+97,13.6,CL Cairns,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+98,14.1,SP Fleming,CL Cairns,AJ Bichel,0,1,wides ,1,0,null,null
+99,14.2,SP Fleming,CL Cairns,AJ Bichel,0,0,null,0,0,null,null
+100,14.3,SP Fleming,CL Cairns,AJ Bichel,0,0,null,0,0,null,null
+101,14.4,SP Fleming,CL Cairns,AJ Bichel,0,1,legbyes ,1,0,null,null
+102,14.5,CL Cairns,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+103,14.6,CL Cairns,SP Fleming,AJ Bichel,0,1,wides ,1,0,null,null
+104,14.7,CL Cairns,SP Fleming,AJ Bichel,4,0,null,4,0,null,null
+105,14.8,CL Cairns,SP Fleming,AJ Bichel,0,1,wides ,1,0,null,null
+106,14.9,CL Cairns,SP Fleming,AJ Bichel,0,1,noballs ,1,0,null,null
+107,14.10,CL Cairns,SP Fleming,AJ Bichel,0,0,null,0,1,CL Cairns,lbw
+108,15.1,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+109,15.2,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+110,15.3,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+111,15.4,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+112,15.5,SP Fleming,JDP Oram,IJ Harvey,1,0,null,1,0,null,null
+113,15.6,JDP Oram,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+114,16.1,SP Fleming,JDP Oram,AJ Bichel,0,0,null,0,0,null,null
+115,16.2,SP Fleming,JDP Oram,AJ Bichel,1,0,null,1,0,null,null
+116,16.3,JDP Oram,SP Fleming,AJ Bichel,0,1,wides ,1,0,null,null
+117,16.4,JDP Oram,SP Fleming,AJ Bichel,2,0,null,2,0,null,null
+118,16.5,JDP Oram,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+119,16.6,JDP Oram,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+120,16.7,JDP Oram,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+121,17.1,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+122,17.2,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+123,17.3,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+124,17.4,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+125,17.5,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+126,17.6,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+127,18.1,JDP Oram,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+128,18.2,JDP Oram,SP Fleming,AJ Bichel,0,1,wides ,1,0,null,null
+129,18.3,JDP Oram,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+130,18.4,JDP Oram,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+131,18.5,JDP Oram,SP Fleming,AJ Bichel,0,1,wides ,1,0,null,null
+132,18.6,JDP Oram,SP Fleming,AJ Bichel,1,0,null,1,0,null,null
+133,18.7,SP Fleming,JDP Oram,AJ Bichel,1,0,null,1,0,null,null
+134,18.8,JDP Oram,SP Fleming,AJ Bichel,0,1,wides ,1,0,null,null
+135,18.9,JDP Oram,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+136,19.1,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+137,19.2,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+138,19.3,SP Fleming,JDP Oram,IJ Harvey,4,0,null,4,0,null,null
+139,19.4,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+140,19.5,SP Fleming,JDP Oram,IJ Harvey,4,0,null,4,0,null,null
+141,19.6,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+142,20.1,JDP Oram,SP Fleming,A Symonds,0,0,null,0,0,null,null
+143,20.2,JDP Oram,SP Fleming,A Symonds,0,0,null,0,0,null,null
+144,20.3,JDP Oram,SP Fleming,A Symonds,0,0,null,0,0,null,null
+145,20.4,JDP Oram,SP Fleming,A Symonds,0,0,null,0,0,null,null
+146,20.5,JDP Oram,SP Fleming,A Symonds,0,0,null,0,0,null,null
+147,20.6,JDP Oram,SP Fleming,A Symonds,0,0,null,0,0,null,null
+148,21.1,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+149,21.2,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+150,21.3,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+151,21.4,SP Fleming,JDP Oram,IJ Harvey,1,0,null,1,0,null,null
+152,21.5,JDP Oram,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+153,21.6,JDP Oram,SP Fleming,IJ Harvey,1,0,null,1,0,null,null
+154,22.1,JDP Oram,SP Fleming,A Symonds,4,0,null,4,0,null,null
+155,22.2,JDP Oram,SP Fleming,A Symonds,0,0,null,0,0,null,null
+156,22.3,JDP Oram,SP Fleming,A Symonds,1,0,null,1,0,null,null
+157,22.4,SP Fleming,JDP Oram,A Symonds,0,0,null,0,0,null,null
+158,22.5,SP Fleming,JDP Oram,A Symonds,1,0,null,1,0,null,null
+159,22.6,JDP Oram,SP Fleming,A Symonds,0,0,null,0,0,null,null
+160,23.1,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+161,23.2,SP Fleming,JDP Oram,IJ Harvey,1,0,null,1,0,null,null
+162,23.3,JDP Oram,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+163,23.4,JDP Oram,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+164,23.5,JDP Oram,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+165,23.6,JDP Oram,SP Fleming,IJ Harvey,1,0,null,1,0,null,null
+166,24.1,JDP Oram,SP Fleming,A Symonds,4,0,null,4,0,null,null
+167,24.2,JDP Oram,SP Fleming,A Symonds,0,0,null,0,0,null,null
+168,24.3,JDP Oram,SP Fleming,A Symonds,4,0,null,4,0,null,null
+169,24.4,JDP Oram,SP Fleming,A Symonds,0,0,null,0,0,null,null
+170,24.5,JDP Oram,SP Fleming,A Symonds,0,0,null,0,0,null,null
+171,24.6,JDP Oram,SP Fleming,A Symonds,4,0,null,4,0,null,null
+172,25.1,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+173,25.2,SP Fleming,JDP Oram,IJ Harvey,2,0,null,2,0,null,null
+174,25.3,SP Fleming,JDP Oram,IJ Harvey,0,0,null,0,0,null,null
+175,25.4,SP Fleming,JDP Oram,IJ Harvey,1,0,null,1,0,null,null
+176,25.5,JDP Oram,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+177,25.6,JDP Oram,SP Fleming,IJ Harvey,0,0,null,0,0,null,null
+178,26.1,SP Fleming,JDP Oram,NW Bracken,1,0,null,1,0,null,null
+179,26.2,JDP Oram,SP Fleming,NW Bracken,2,0,null,2,0,null,null
+180,26.3,JDP Oram,SP Fleming,NW Bracken,0,0,null,0,0,null,null
+181,26.4,JDP Oram,SP Fleming,NW Bracken,0,0,null,0,0,null,null
+182,26.5,JDP Oram,SP Fleming,NW Bracken,0,0,null,0,0,null,null
+183,26.6,JDP Oram,SP Fleming,NW Bracken,1,0,null,1,0,null,null
+184,27.1,JDP Oram,SP Fleming,MJ Clarke,0,0,null,0,0,null,null
+185,27.2,JDP Oram,SP Fleming,MJ Clarke,1,0,null,1,0,null,null
+186,27.3,SP Fleming,JDP Oram,MJ Clarke,2,0,null,2,0,null,null
+187,27.4,SP Fleming,JDP Oram,MJ Clarke,1,0,null,1,0,null,null
+188,27.5,JDP Oram,SP Fleming,MJ Clarke,1,0,null,1,0,null,null
+189,27.6,SP Fleming,JDP Oram,MJ Clarke,1,0,null,1,0,null,null
+190,28.1,SP Fleming,JDP Oram,NW Bracken,0,0,null,0,0,null,null
+191,28.2,SP Fleming,JDP Oram,NW Bracken,0,0,null,0,0,null,null
+192,28.3,SP Fleming,JDP Oram,NW Bracken,0,0,null,0,0,null,null
+193,28.4,SP Fleming,JDP Oram,NW Bracken,0,0,null,0,0,null,null
+194,28.5,SP Fleming,JDP Oram,NW Bracken,0,0,null,0,0,null,null
+195,28.6,SP Fleming,JDP Oram,NW Bracken,0,0,null,0,0,null,null
+196,29.1,JDP Oram,SP Fleming,MJ Clarke,1,0,null,1,0,null,null
+197,29.2,SP Fleming,JDP Oram,MJ Clarke,1,0,null,1,0,null,null
+198,29.3,JDP Oram,SP Fleming,MJ Clarke,1,0,null,1,0,null,null
+199,29.4,SP Fleming,JDP Oram,MJ Clarke,1,0,null,1,0,null,null
+200,29.5,JDP Oram,SP Fleming,MJ Clarke,4,0,null,4,0,null,null
+201,29.6,JDP Oram,SP Fleming,MJ Clarke,0,0,null,0,0,null,null
+202,30.1,SP Fleming,JDP Oram,AJ Bichel,0,0,null,0,0,null,null
+203,30.2,SP Fleming,JDP Oram,AJ Bichel,0,0,null,0,0,null,null
+204,30.3,SP Fleming,JDP Oram,AJ Bichel,0,0,null,0,0,null,null
+205,30.4,SP Fleming,JDP Oram,AJ Bichel,0,0,null,0,0,null,null
+206,30.5,SP Fleming,JDP Oram,AJ Bichel,1,0,null,1,0,null,null
+207,30.6,JDP Oram,SP Fleming,AJ Bichel,0,0,null,0,0,null,null
+208,31.1,SP Fleming,JDP Oram,A Symonds,0,0,null,0,0,null,null
+209,31.2,SP Fleming,JDP Oram,A Symonds,0,0,null,0,0,null,null
+210,31.3,SP Fleming,JDP Oram,A Symonds,0,0,null,0,0,null,null
+211,31.4,SP Fleming,JDP Oram,A Symonds,0,0,null,0,0,null,null
+212,31.5,SP Fleming,JDP Oram,A Symonds,0,0,null,0,0,null,null
+213,31.6,SP Fleming,JDP Oram,A Symonds,0,0,null,0,1,SP Fleming,caught
+214,32.1,CZ Harris,JDP Oram,AJ Bichel,1,0,null,1,0,null,null
+215,32.2,JDP Oram,CZ Harris,AJ Bichel,0,5,wides ,5,0,null,null
+216,32.3,JDP Oram,CZ Harris,AJ Bichel,0,0,null,0,0,null,null
+217,32.4,JDP Oram,CZ Harris,AJ Bichel,0,0,null,0,0,null,null
+218,32.5,JDP Oram,CZ Harris,AJ Bichel,4,0,null,4,0,null,null
+219,32.6,JDP Oram,CZ Harris,AJ Bichel,0,1,legbyes ,1,0,null,null
+220,32.7,CZ Harris,JDP Oram,AJ Bichel,0,0,null,0,0,null,null
+221,33.1,JDP Oram,CZ Harris,A Symonds,0,0,null,0,0,null,null
+222,33.2,JDP Oram,CZ Harris,A Symonds,0,0,null,0,0,null,null
+223,33.3,JDP Oram,CZ Harris,A Symonds,0,0,null,0,0,null,null
+224,33.4,JDP Oram,CZ Harris,A Symonds,0,0,null,0,0,null,null
+225,33.5,JDP Oram,CZ Harris,A Symonds,4,0,null,4,0,null,null
+226,33.6,JDP Oram,CZ Harris,A Symonds,1,0,null,1,0,null,null
+227,34.1,JDP Oram,CZ Harris,BA Williams,4,0,null,4,0,null,null
+228,34.2,JDP Oram,CZ Harris,BA Williams,1,0,null,1,0,null,null
+229,34.3,CZ Harris,JDP Oram,BA Williams,0,0,null,0,0,null,null
+230,34.4,CZ Harris,JDP Oram,BA Williams,0,0,null,0,0,null,null
+231,34.5,CZ Harris,JDP Oram,BA Williams,0,0,null,0,0,null,null
+232,34.6,CZ Harris,JDP Oram,BA Williams,0,0,null,0,1,CZ Harris,caught
+233,35.1,BB McCullum,JDP Oram,A Symonds,0,0,null,0,0,null,null
+234,35.2,BB McCullum,JDP Oram,A Symonds,0,0,null,0,0,null,null
+235,35.3,BB McCullum,JDP Oram,A Symonds,0,0,null,0,0,null,null
+236,35.4,BB McCullum,JDP Oram,A Symonds,0,0,null,0,0,null,null
+237,35.5,BB McCullum,JDP Oram,A Symonds,0,0,null,0,0,null,null
+238,35.6,BB McCullum,JDP Oram,A Symonds,1,0,null,1,0,null,null
+239,36.1,BB McCullum,JDP Oram,BA Williams,0,0,null,0,0,null,null
+240,36.2,BB McCullum,JDP Oram,BA Williams,2,0,null,2,0,null,null
+241,36.3,BB McCullum,JDP Oram,BA Williams,0,1,wides ,1,0,null,null
+242,36.4,BB McCullum,JDP Oram,BA Williams,0,0,null,0,0,null,null
+243,36.5,BB McCullum,JDP Oram,BA Williams,0,0,null,0,0,null,null
+244,36.6,BB McCullum,JDP Oram,BA Williams,0,0,null,0,0,null,null
+245,36.7,BB McCullum,JDP Oram,BA Williams,6,0,null,6,0,null,null
+246,37.1,JDP Oram,BB McCullum,A Symonds,1,0,null,1,0,null,null
+247,37.2,BB McCullum,JDP Oram,A Symonds,1,0,null,1,0,null,null
+248,37.3,JDP Oram,BB McCullum,A Symonds,1,0,null,1,0,null,null
+249,37.4,BB McCullum,JDP Oram,A Symonds,1,0,null,1,0,null,null
+250,37.5,JDP Oram,BB McCullum,A Symonds,0,0,null,0,0,null,null
+251,37.6,JDP Oram,BB McCullum,A Symonds,1,0,null,1,0,null,null
+252,38.1,JDP Oram,BB McCullum,BA Williams,0,0,null,0,0,null,null
+253,38.2,JDP Oram,BB McCullum,BA Williams,0,1,wides ,1,0,null,null
+254,38.3,JDP Oram,BB McCullum,BA Williams,1,0,null,1,0,null,null
+255,38.4,BB McCullum,JDP Oram,BA Williams,4,0,null,4,0,null,null
+256,38.5,BB McCullum,JDP Oram,BA Williams,4,0,null,4,0,null,null
+257,38.6,BB McCullum,JDP Oram,BA Williams,0,0,null,0,0,null,null
+258,38.7,BB McCullum,JDP Oram,BA Williams,0,0,null,0,0,null,null
+259,39.1,JDP Oram,BB McCullum,A Symonds,0,0,null,0,0,null,null
+260,39.2,JDP Oram,BB McCullum,A Symonds,0,0,null,0,0,null,null
+261,39.3,JDP Oram,BB McCullum,A Symonds,0,0,null,0,0,null,null
+262,39.4,JDP Oram,BB McCullum,A Symonds,0,0,null,0,0,null,null
+263,39.5,JDP Oram,BB McCullum,A Symonds,1,0,null,1,0,null,null
+264,39.6,BB McCullum,JDP Oram,A Symonds,1,0,null,1,0,null,null
+265,40.1,BB McCullum,JDP Oram,BA Williams,1,0,null,1,0,null,null
+266,40.2,JDP Oram,BB McCullum,BA Williams,1,0,null,1,0,null,null
+267,40.3,BB McCullum,JDP Oram,BA Williams,0,0,null,0,0,null,null
+268,40.4,BB McCullum,JDP Oram,BA Williams,1,0,null,1,0,null,null
+269,40.5,JDP Oram,BB McCullum,BA Williams,0,0,null,0,0,null,null
+270,40.6,JDP Oram,BB McCullum,BA Williams,0,0,null,0,0,null,null
+271,41.1,BB McCullum,JDP Oram,A Symonds,1,0,null,1,0,null,null
+272,41.2,JDP Oram,BB McCullum,A Symonds,1,0,null,1,0,null,null
+273,41.3,BB McCullum,JDP Oram,A Symonds,0,0,null,0,0,null,null
+274,41.4,BB McCullum,JDP Oram,A Symonds,4,0,null,4,0,null,null
+275,41.5,BB McCullum,JDP Oram,A Symonds,0,0,null,0,0,null,null
+276,41.6,BB McCullum,JDP Oram,A Symonds,4,0,null,4,0,null,null
+277,42.1,JDP Oram,BB McCullum,AJ Bichel,4,0,null,4,0,null,null
+278,42.2,JDP Oram,BB McCullum,AJ Bichel,0,0,null,0,0,null,null
+279,42.3,JDP Oram,BB McCullum,AJ Bichel,0,0,null,0,0,null,null
+280,42.4,JDP Oram,BB McCullum,AJ Bichel,6,0,null,6,0,null,null
+281,42.5,JDP Oram,BB McCullum,AJ Bichel,2,0,null,2,0,null,null
+282,42.6,JDP Oram,BB McCullum,AJ Bichel,1,0,null,1,0,null,null
+283,43.1,JDP Oram,BB McCullum,A Symonds,4,0,null,4,0,null,null
+284,43.2,JDP Oram,BB McCullum,A Symonds,0,1,noballs ,1,0,null,null
+285,43.3,JDP Oram,BB McCullum,A Symonds,2,0,null,2,0,null,null
+286,43.4,JDP Oram,BB McCullum,A Symonds,0,0,null,0,0,null,null
+287,43.5,JDP Oram,BB McCullum,A Symonds,4,0,null,4,0,null,null
+288,43.6,JDP Oram,BB McCullum,A Symonds,4,0,null,4,0,null,null
+289,43.7,JDP Oram,BB McCullum,A Symonds,0,0,null,0,1,JDP Oram,bowled
+290,44.1,BB McCullum,DL Vettori,AJ Bichel,2,0,null,2,0,null,null
+291,44.2,BB McCullum,DL Vettori,AJ Bichel,0,0,null,0,0,null,null
+292,44.3,BB McCullum,DL Vettori,AJ Bichel,0,0,null,0,0,null,null
+293,44.4,BB McCullum,DL Vettori,AJ Bichel,0,0,null,0,0,null,null
+294,44.5,BB McCullum,DL Vettori,AJ Bichel,1,0,null,1,0,null,null
+295,44.6,DL Vettori,BB McCullum,AJ Bichel,0,0,null,0,0,null,null
+296,45.1,BB McCullum,DL Vettori,NW Bracken,0,0,null,0,0,null,null
+297,45.2,BB McCullum,DL Vettori,NW Bracken,1,0,null,1,0,null,null
+298,45.3,DL Vettori,BB McCullum,NW Bracken,0,0,null,0,0,null,null
+299,45.4,DL Vettori,BB McCullum,NW Bracken,4,0,null,4,0,null,null
+300,45.5,DL Vettori,BB McCullum,NW Bracken,0,0,null,0,0,null,null
+301,45.6,DL Vettori,BB McCullum,NW Bracken,0,0,null,0,0,null,null
+302,46.1,BB McCullum,DL Vettori,IJ Harvey,0,0,null,0,0,null,null
+303,46.2,BB McCullum,DL Vettori,IJ Harvey,1,0,null,1,0,null,null
+304,46.3,DL Vettori,BB McCullum,IJ Harvey,4,0,null,4,0,null,null
+305,46.4,DL Vettori,BB McCullum,IJ Harvey,1,0,null,1,0,null,null
+306,46.5,BB McCullum,DL Vettori,IJ Harvey,1,0,null,1,0,null,null
+307,46.6,DL Vettori,BB McCullum,IJ Harvey,1,0,null,1,0,null,null
+308,47.1,DL Vettori,BB McCullum,NW Bracken,1,0,null,1,0,null,null
+309,47.2,BB McCullum,DL Vettori,NW Bracken,1,0,null,1,0,null,null
+310,47.3,DL Vettori,BB McCullum,NW Bracken,2,0,null,2,0,null,null
+311,47.4,DL Vettori,BB McCullum,NW Bracken,1,0,null,1,0,null,null
+312,47.5,BB McCullum,DL Vettori,NW Bracken,0,0,null,0,0,null,null
+313,47.6,BB McCullum,DL Vettori,NW Bracken,1,0,null,1,0,null,null
+314,48.1,BB McCullum,DL Vettori,IJ Harvey,0,0,null,0,0,null,null
+315,48.2,BB McCullum,DL Vettori,IJ Harvey,1,0,null,1,0,null,null
+316,48.3,DL Vettori,BB McCullum,IJ Harvey,2,0,null,2,0,null,null
+317,48.4,DL Vettori,BB McCullum,IJ Harvey,2,0,null,2,0,null,null
+318,48.5,DL Vettori,BB McCullum,IJ Harvey,0,0,null,0,0,null,null
+319,48.6,DL Vettori,BB McCullum,IJ Harvey,0,0,null,0,1,DL Vettori,bowled
+320,49.1,BB McCullum,DR Tuffey,NW Bracken,4,0,null,4,0,null,null
+321,49.2,BB McCullum,DR Tuffey,NW Bracken,0,0,null,0,0,null,null
+322,49.3,BB McCullum,DR Tuffey,NW Bracken,2,0,null,2,0,null,null
+323,49.4,BB McCullum,DR Tuffey,NW Bracken,4,0,null,4,0,null,null
+324,49.5,BB McCullum,DR Tuffey,NW Bracken,1,0,null,1,0,null,null
+325,49.6,DR Tuffey,BB McCullum,NW Bracken,1,0,null,1,0,null,null

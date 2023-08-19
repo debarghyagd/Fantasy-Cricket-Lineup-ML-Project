@@ -1,0 +1,305 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+1,0.2,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+2,0.3,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+3,0.4,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+4,0.5,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+5,0.6,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+6,1.1,Waseem Muhammad,Chirag Suri,Kaleemullah,2,0,null,2,0,null,null
+7,1.2,Waseem Muhammad,Chirag Suri,Kaleemullah,0,0,null,0,0,null,null
+8,1.3,Waseem Muhammad,Chirag Suri,Kaleemullah,0,0,null,0,0,null,null
+9,1.4,Waseem Muhammad,Chirag Suri,Kaleemullah,0,0,null,0,0,null,null
+10,1.5,Waseem Muhammad,Chirag Suri,Kaleemullah,0,0,null,0,0,null,null
+11,1.6,Waseem Muhammad,Chirag Suri,Kaleemullah,4,0,null,4,0,null,null
+12,2.1,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+13,2.2,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+14,2.3,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+15,2.4,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+16,2.5,Chirag Suri,Waseem Muhammad,Bilal Khan,4,0,null,4,0,null,null
+17,2.6,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+18,3.1,Waseem Muhammad,Chirag Suri,Kaleemullah,1,0,null,1,0,null,null
+19,3.2,Chirag Suri,Waseem Muhammad,Kaleemullah,1,0,null,1,0,null,null
+20,3.3,Waseem Muhammad,Chirag Suri,Kaleemullah,2,0,null,2,0,null,null
+21,3.4,Waseem Muhammad,Chirag Suri,Kaleemullah,0,0,null,0,0,null,null
+22,3.5,Waseem Muhammad,Chirag Suri,Kaleemullah,0,0,null,0,0,null,null
+23,3.6,Waseem Muhammad,Chirag Suri,Kaleemullah,0,0,null,0,0,null,null
+24,4.1,Chirag Suri,Waseem Muhammad,Bilal Khan,2,0,null,2,0,null,null
+25,4.2,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+26,4.3,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+27,4.4,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+28,4.5,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+29,4.6,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+30,5.1,Waseem Muhammad,Chirag Suri,Kaleemullah,0,0,null,0,0,null,null
+31,5.2,Waseem Muhammad,Chirag Suri,Kaleemullah,0,0,null,0,0,null,null
+32,5.3,Waseem Muhammad,Chirag Suri,Kaleemullah,6,0,null,6,0,null,null
+33,5.4,Waseem Muhammad,Chirag Suri,Kaleemullah,0,0,null,0,0,null,null
+34,5.5,Waseem Muhammad,Chirag Suri,Kaleemullah,4,0,null,4,0,null,null
+35,5.6,Waseem Muhammad,Chirag Suri,Kaleemullah,0,0,null,0,0,null,null
+36,6.1,Chirag Suri,Waseem Muhammad,Bilal Khan,0,1,wides ,1,0,null,null
+37,6.2,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+38,6.3,Chirag Suri,Waseem Muhammad,Bilal Khan,0,0,null,0,1,Chirag Suri,bowled
+39,6.4,CP Rizwan,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+40,6.5,CP Rizwan,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+41,6.6,CP Rizwan,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+42,6.7,CP Rizwan,Waseem Muhammad,Bilal Khan,1,0,null,1,0,null,null
+43,7.1,CP Rizwan,Waseem Muhammad,Kaleemullah,0,0,null,0,0,null,null
+44,7.2,CP Rizwan,Waseem Muhammad,Kaleemullah,0,0,null,0,0,null,null
+45,7.3,CP Rizwan,Waseem Muhammad,Kaleemullah,0,0,null,0,0,null,null
+46,7.4,CP Rizwan,Waseem Muhammad,Kaleemullah,1,0,null,1,0,null,null
+47,7.5,Waseem Muhammad,CP Rizwan,Kaleemullah,0,0,null,0,0,null,null
+48,7.6,Waseem Muhammad,CP Rizwan,Kaleemullah,4,0,null,4,0,null,null
+49,8.1,CP Rizwan,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+50,8.2,CP Rizwan,Waseem Muhammad,Bilal Khan,1,0,null,1,0,null,null
+51,8.3,Waseem Muhammad,CP Rizwan,Bilal Khan,0,0,null,0,0,null,null
+52,8.4,Waseem Muhammad,CP Rizwan,Bilal Khan,0,0,null,0,0,null,null
+53,8.5,Waseem Muhammad,CP Rizwan,Bilal Khan,0,0,null,0,0,null,null
+54,8.6,Waseem Muhammad,CP Rizwan,Bilal Khan,0,0,null,0,0,null,null
+55,9.1,CP Rizwan,Waseem Muhammad,Kaleemullah,0,0,null,0,0,null,null
+56,9.2,CP Rizwan,Waseem Muhammad,Kaleemullah,0,0,null,0,1,CP Rizwan,bowled
+57,9.3,V Aravind,Waseem Muhammad,Kaleemullah,0,0,null,0,1,V Aravind,caught
+58,9.4,Muhammad Usman,Waseem Muhammad,Kaleemullah,1,0,null,1,0,null,null
+59,9.5,Waseem Muhammad,Muhammad Usman,Kaleemullah,0,0,null,0,0,null,null
+60,9.6,Waseem Muhammad,Muhammad Usman,Kaleemullah,0,0,null,0,0,null,null
+61,10.1,Muhammad Usman,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+62,10.2,Muhammad Usman,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+63,10.3,Muhammad Usman,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+64,10.4,Muhammad Usman,Waseem Muhammad,Bilal Khan,0,1,wides ,1,0,null,null
+65,10.5,Muhammad Usman,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+66,10.6,Muhammad Usman,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+67,10.7,Muhammad Usman,Waseem Muhammad,Bilal Khan,0,0,null,0,0,null,null
+68,11.1,Waseem Muhammad,Muhammad Usman,Kaleemullah,0,0,null,0,0,null,null
+69,11.2,Waseem Muhammad,Muhammad Usman,Kaleemullah,4,0,null,4,0,null,null
+70,11.3,Waseem Muhammad,Muhammad Usman,Kaleemullah,0,0,null,0,0,null,null
+71,11.4,Waseem Muhammad,Muhammad Usman,Kaleemullah,0,0,null,0,0,null,null
+72,11.5,Waseem Muhammad,Muhammad Usman,Kaleemullah,0,0,null,0,0,null,null
+73,11.6,Waseem Muhammad,Muhammad Usman,Kaleemullah,1,0,null,1,0,null,null
+74,12.1,Waseem Muhammad,Muhammad Usman,Shoaib Khan,4,0,null,4,0,null,null
+75,12.2,Waseem Muhammad,Muhammad Usman,Shoaib Khan,0,0,null,0,0,null,null
+76,12.3,Waseem Muhammad,Muhammad Usman,Shoaib Khan,1,0,null,1,0,null,null
+77,12.4,Muhammad Usman,Waseem Muhammad,Shoaib Khan,1,0,null,1,0,null,null
+78,12.5,Waseem Muhammad,Muhammad Usman,Shoaib Khan,0,0,null,0,0,null,null
+79,12.6,Waseem Muhammad,Muhammad Usman,Shoaib Khan,1,0,null,1,0,null,null
+80,13.1,Waseem Muhammad,Muhammad Usman,Nestor Dhamba,0,0,null,0,0,null,null
+81,13.2,Waseem Muhammad,Muhammad Usman,Nestor Dhamba,1,0,null,1,0,null,null
+82,13.3,Muhammad Usman,Waseem Muhammad,Nestor Dhamba,0,0,null,0,0,null,null
+83,13.4,Muhammad Usman,Waseem Muhammad,Nestor Dhamba,1,0,null,1,0,null,null
+84,13.5,Waseem Muhammad,Muhammad Usman,Nestor Dhamba,0,0,null,0,0,null,null
+85,13.6,Waseem Muhammad,Muhammad Usman,Nestor Dhamba,0,0,null,0,0,null,null
+86,14.1,Muhammad Usman,Waseem Muhammad,Zeeshan Maqsood,0,0,null,0,0,null,null
+87,14.2,Muhammad Usman,Waseem Muhammad,Zeeshan Maqsood,0,0,null,0,0,null,null
+88,14.3,Muhammad Usman,Waseem Muhammad,Zeeshan Maqsood,0,0,null,0,0,null,null
+89,14.4,Muhammad Usman,Waseem Muhammad,Zeeshan Maqsood,0,0,null,0,0,null,null
+90,14.5,Muhammad Usman,Waseem Muhammad,Zeeshan Maqsood,0,0,null,0,0,null,null
+91,14.6,Muhammad Usman,Waseem Muhammad,Zeeshan Maqsood,0,0,null,0,0,null,null
+92,15.1,Waseem Muhammad,Muhammad Usman,Khawar Ali,0,0,null,0,1,Waseem Muhammad,caught
+93,15.2,Basil Hameed,Muhammad Usman,Khawar Ali,0,0,null,0,0,null,null
+94,15.3,Basil Hameed,Muhammad Usman,Khawar Ali,2,0,null,2,0,null,null
+95,15.4,Basil Hameed,Muhammad Usman,Khawar Ali,0,0,null,0,0,null,null
+96,15.5,Basil Hameed,Muhammad Usman,Khawar Ali,0,0,null,0,0,null,null
+97,15.6,Basil Hameed,Muhammad Usman,Khawar Ali,2,0,null,2,0,null,null
+98,16.1,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+99,16.2,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+100,16.3,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+101,16.4,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+102,16.5,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,2,0,null,2,0,null,null
+103,16.6,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,4,0,null,4,0,null,null
+104,17.1,Basil Hameed,Muhammad Usman,Khawar Ali,0,0,null,0,0,null,null
+105,17.2,Basil Hameed,Muhammad Usman,Khawar Ali,0,0,null,0,0,null,null
+106,17.3,Basil Hameed,Muhammad Usman,Khawar Ali,1,0,null,1,0,null,null
+107,17.4,Muhammad Usman,Basil Hameed,Khawar Ali,0,1,wides ,1,0,null,null
+108,17.5,Muhammad Usman,Basil Hameed,Khawar Ali,0,0,null,0,0,null,null
+109,17.6,Muhammad Usman,Basil Hameed,Khawar Ali,1,0,null,1,0,null,null
+110,17.7,Basil Hameed,Muhammad Usman,Khawar Ali,1,0,null,1,0,null,null
+111,18.1,Basil Hameed,Muhammad Usman,Zeeshan Maqsood,0,0,null,0,0,null,null
+112,18.2,Basil Hameed,Muhammad Usman,Zeeshan Maqsood,1,0,null,1,0,null,null
+113,18.3,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+114,18.4,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+115,18.5,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+116,18.6,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+117,19.1,Basil Hameed,Muhammad Usman,Khawar Ali,4,0,null,4,0,null,null
+118,19.2,Basil Hameed,Muhammad Usman,Khawar Ali,4,0,null,4,0,null,null
+119,19.3,Basil Hameed,Muhammad Usman,Khawar Ali,1,0,null,1,0,null,null
+120,19.4,Muhammad Usman,Basil Hameed,Khawar Ali,0,0,null,0,0,null,null
+121,19.5,Muhammad Usman,Basil Hameed,Khawar Ali,0,0,null,0,0,null,null
+122,19.6,Muhammad Usman,Basil Hameed,Khawar Ali,0,1,legbyes ,1,0,null,null
+123,20.1,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,1,0,null,1,0,null,null
+124,20.2,Basil Hameed,Muhammad Usman,Zeeshan Maqsood,0,0,null,0,0,null,null
+125,20.3,Basil Hameed,Muhammad Usman,Zeeshan Maqsood,1,0,null,1,0,null,null
+126,20.4,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+127,20.5,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+128,20.6,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,1,0,null,1,0,null,null
+129,21.1,Muhammad Usman,Basil Hameed,Khawar Ali,0,0,null,0,0,null,null
+130,21.2,Muhammad Usman,Basil Hameed,Khawar Ali,1,0,null,1,0,null,null
+131,21.3,Basil Hameed,Muhammad Usman,Khawar Ali,0,0,null,0,0,null,null
+132,21.4,Basil Hameed,Muhammad Usman,Khawar Ali,1,0,null,1,0,null,null
+133,21.5,Muhammad Usman,Basil Hameed,Khawar Ali,0,0,null,0,0,null,null
+134,21.6,Muhammad Usman,Basil Hameed,Khawar Ali,0,0,null,0,0,null,null
+135,22.1,Basil Hameed,Muhammad Usman,Zeeshan Maqsood,1,0,null,1,0,null,null
+136,22.2,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+137,22.3,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,2,0,null,2,0,null,null
+138,22.4,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+139,22.5,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,1,0,null,1,0,null,null
+140,22.6,Basil Hameed,Muhammad Usman,Zeeshan Maqsood,0,0,null,0,0,null,null
+141,23.1,Muhammad Usman,Basil Hameed,Khawar Ali,4,0,null,4,0,null,null
+142,23.2,Muhammad Usman,Basil Hameed,Khawar Ali,6,0,null,6,0,null,null
+143,23.3,Muhammad Usman,Basil Hameed,Khawar Ali,0,0,null,0,0,null,null
+144,23.4,Muhammad Usman,Basil Hameed,Khawar Ali,2,0,null,2,0,null,null
+145,23.5,Muhammad Usman,Basil Hameed,Khawar Ali,1,0,null,1,0,null,null
+146,23.6,Muhammad Usman,Basil Hameed,Khawar Ali,0,0,null,0,0,null,null
+147,24.1,Basil Hameed,Muhammad Usman,Zeeshan Maqsood,0,0,null,0,0,null,null
+148,24.2,Basil Hameed,Muhammad Usman,Zeeshan Maqsood,1,0,null,1,0,null,null
+149,24.3,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,0,0,null,0,0,null,null
+150,24.4,Muhammad Usman,Basil Hameed,Zeeshan Maqsood,1,0,null,1,0,null,null
+151,24.5,Basil Hameed,Muhammad Usman,Zeeshan Maqsood,0,0,null,0,0,null,null
+152,24.6,Basil Hameed,Muhammad Usman,Zeeshan Maqsood,0,0,null,0,0,null,null
+153,25.1,Muhammad Usman,Basil Hameed,Nestor Dhamba,1,0,null,1,0,null,null
+154,25.2,Basil Hameed,Muhammad Usman,Nestor Dhamba,1,0,null,1,0,null,null
+155,25.3,Muhammad Usman,Basil Hameed,Nestor Dhamba,0,0,null,0,0,null,null
+156,25.4,Muhammad Usman,Basil Hameed,Nestor Dhamba,0,0,null,0,0,null,null
+157,25.5,Muhammad Usman,Basil Hameed,Nestor Dhamba,0,0,null,0,0,null,null
+158,25.6,Muhammad Usman,Basil Hameed,Nestor Dhamba,0,0,null,0,0,null,null
+159,26.1,Basil Hameed,Muhammad Usman,Bilal Khan,4,0,null,4,0,null,null
+160,26.2,Basil Hameed,Muhammad Usman,Bilal Khan,1,0,null,1,0,null,null
+161,26.3,Muhammad Usman,Basil Hameed,Bilal Khan,0,0,null,0,0,null,null
+162,26.4,Muhammad Usman,Basil Hameed,Bilal Khan,0,0,null,0,0,null,null
+163,26.5,Muhammad Usman,Basil Hameed,Bilal Khan,1,0,null,1,0,null,null
+164,26.6,Basil Hameed,Muhammad Usman,Bilal Khan,0,0,null,0,0,null,null
+165,27.1,Muhammad Usman,Basil Hameed,Nestor Dhamba,0,0,null,0,0,null,null
+166,27.2,Muhammad Usman,Basil Hameed,Nestor Dhamba,0,0,null,0,0,null,null
+167,27.3,Muhammad Usman,Basil Hameed,Nestor Dhamba,1,0,null,1,0,null,null
+168,27.4,Basil Hameed,Muhammad Usman,Nestor Dhamba,0,0,null,0,1,Basil Hameed,caught
+169,27.5,Rohan Mustafa,Muhammad Usman,Nestor Dhamba,0,0,null,0,0,null,null
+170,27.6,Rohan Mustafa,Muhammad Usman,Nestor Dhamba,0,0,null,0,0,null,null
+171,28.1,Muhammad Usman,Rohan Mustafa,Bilal Khan,0,0,null,0,0,null,null
+172,28.2,Muhammad Usman,Rohan Mustafa,Bilal Khan,0,0,null,0,0,null,null
+173,28.3,Muhammad Usman,Rohan Mustafa,Bilal Khan,1,0,null,1,0,null,null
+174,28.4,Rohan Mustafa,Muhammad Usman,Bilal Khan,0,0,null,0,0,null,null
+175,28.5,Rohan Mustafa,Muhammad Usman,Bilal Khan,1,0,null,1,0,null,null
+176,28.6,Muhammad Usman,Rohan Mustafa,Bilal Khan,4,0,null,4,0,null,null
+177,29.1,Rohan Mustafa,Muhammad Usman,Nestor Dhamba,0,0,null,0,0,null,null
+178,29.2,Rohan Mustafa,Muhammad Usman,Nestor Dhamba,1,0,null,1,0,null,null
+179,29.3,Muhammad Usman,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+180,29.4,Muhammad Usman,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+181,29.5,Muhammad Usman,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+182,29.6,Muhammad Usman,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+183,30.1,Rohan Mustafa,Muhammad Usman,Jatinder Singh,0,0,null,0,0,null,null
+184,30.2,Rohan Mustafa,Muhammad Usman,Jatinder Singh,0,0,null,0,0,null,null
+185,30.3,Rohan Mustafa,Muhammad Usman,Jatinder Singh,4,0,null,4,0,null,null
+186,30.4,Rohan Mustafa,Muhammad Usman,Jatinder Singh,2,0,null,2,0,null,null
+187,30.5,Rohan Mustafa,Muhammad Usman,Jatinder Singh,1,0,null,1,0,null,null
+188,30.6,Muhammad Usman,Rohan Mustafa,Jatinder Singh,1,0,null,1,0,null,null
+189,31.1,Muhammad Usman,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+190,31.2,Muhammad Usman,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+191,31.3,Muhammad Usman,Rohan Mustafa,Nestor Dhamba,1,0,null,1,0,null,null
+192,31.4,Rohan Mustafa,Muhammad Usman,Nestor Dhamba,0,0,null,0,0,null,null
+193,31.5,Rohan Mustafa,Muhammad Usman,Nestor Dhamba,1,0,null,1,0,null,null
+194,31.6,Muhammad Usman,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+195,32.1,Rohan Mustafa,Muhammad Usman,Jatinder Singh,1,0,null,1,0,null,null
+196,32.2,Muhammad Usman,Rohan Mustafa,Jatinder Singh,0,0,null,0,0,null,null
+197,32.3,Muhammad Usman,Rohan Mustafa,Jatinder Singh,1,0,null,1,0,null,null
+198,32.4,Rohan Mustafa,Muhammad Usman,Jatinder Singh,0,0,null,0,0,null,null
+199,32.5,Rohan Mustafa,Muhammad Usman,Jatinder Singh,0,0,null,0,0,null,null
+200,32.6,Rohan Mustafa,Muhammad Usman,Jatinder Singh,1,0,null,1,0,null,null
+201,33.1,Rohan Mustafa,Muhammad Usman,Nestor Dhamba,3,0,null,3,0,null,null
+202,33.2,Muhammad Usman,Rohan Mustafa,Nestor Dhamba,1,0,null,1,0,null,null
+203,33.3,Rohan Mustafa,Muhammad Usman,Nestor Dhamba,0,0,null,0,0,null,null
+204,33.4,Rohan Mustafa,Muhammad Usman,Nestor Dhamba,0,0,null,0,0,null,null
+205,33.5,Rohan Mustafa,Muhammad Usman,Nestor Dhamba,0,0,null,0,0,null,null
+206,33.6,Rohan Mustafa,Muhammad Usman,Nestor Dhamba,0,0,null,0,0,null,null
+207,34.1,Muhammad Usman,Rohan Mustafa,Zeeshan Maqsood,4,0,null,4,0,null,null
+208,34.2,Muhammad Usman,Rohan Mustafa,Zeeshan Maqsood,1,0,null,1,0,null,null
+209,34.3,Rohan Mustafa,Muhammad Usman,Zeeshan Maqsood,0,1,wides ,1,0,null,null
+210,34.4,Rohan Mustafa,Muhammad Usman,Zeeshan Maqsood,0,0,null,0,0,null,null
+211,34.5,Rohan Mustafa,Muhammad Usman,Zeeshan Maqsood,0,0,null,0,0,null,null
+212,34.6,Rohan Mustafa,Muhammad Usman,Zeeshan Maqsood,0,0,null,0,0,null,null
+213,34.7,Rohan Mustafa,Muhammad Usman,Zeeshan Maqsood,0,0,null,0,0,null,null
+214,35.1,Muhammad Usman,Rohan Mustafa,Nestor Dhamba,0,0,null,0,1,Muhammad Usman,bowled
+215,35.2,Kashif Daud,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+216,35.3,Kashif Daud,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+217,35.4,Kashif Daud,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+218,35.5,Kashif Daud,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+219,35.6,Kashif Daud,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+220,36.1,Rohan Mustafa,Kashif Daud,Zeeshan Maqsood,0,0,null,0,0,null,null
+221,36.2,Rohan Mustafa,Kashif Daud,Zeeshan Maqsood,0,0,null,0,0,null,null
+222,36.3,Rohan Mustafa,Kashif Daud,Zeeshan Maqsood,0,0,null,0,0,null,null
+223,36.4,Rohan Mustafa,Kashif Daud,Zeeshan Maqsood,1,0,null,1,0,null,null
+224,36.5,Kashif Daud,Rohan Mustafa,Zeeshan Maqsood,0,0,null,0,0,null,null
+225,36.6,Kashif Daud,Rohan Mustafa,Zeeshan Maqsood,0,0,null,0,0,null,null
+226,37.1,Rohan Mustafa,Kashif Daud,Nestor Dhamba,1,0,null,1,0,null,null
+227,37.2,Kashif Daud,Rohan Mustafa,Nestor Dhamba,1,0,null,1,0,null,null
+228,37.3,Rohan Mustafa,Kashif Daud,Nestor Dhamba,1,0,null,1,0,null,null
+229,37.4,Kashif Daud,Rohan Mustafa,Nestor Dhamba,0,0,null,0,0,null,null
+230,37.5,Kashif Daud,Rohan Mustafa,Nestor Dhamba,1,0,null,1,0,null,null
+231,37.6,Rohan Mustafa,Kashif Daud,Nestor Dhamba,0,0,null,0,0,null,null
+232,38.1,Kashif Daud,Rohan Mustafa,Zeeshan Maqsood,0,0,null,0,0,null,null
+233,38.2,Kashif Daud,Rohan Mustafa,Zeeshan Maqsood,0,0,null,0,0,null,null
+234,38.3,Kashif Daud,Rohan Mustafa,Zeeshan Maqsood,1,0,null,1,0,null,null
+235,38.4,Rohan Mustafa,Kashif Daud,Zeeshan Maqsood,6,0,null,6,0,null,null
+236,38.5,Rohan Mustafa,Kashif Daud,Zeeshan Maqsood,1,0,null,1,0,null,null
+237,38.6,Kashif Daud,Rohan Mustafa,Zeeshan Maqsood,0,0,null,0,0,null,null
+238,39.1,Rohan Mustafa,Kashif Daud,Nestor Dhamba,0,0,null,0,0,null,null
+239,39.2,Rohan Mustafa,Kashif Daud,Nestor Dhamba,0,0,null,0,0,null,null
+240,39.3,Rohan Mustafa,Kashif Daud,Nestor Dhamba,0,0,null,0,0,null,null
+241,39.4,Rohan Mustafa,Kashif Daud,Nestor Dhamba,0,0,null,0,1,Rohan Mustafa,lbw
+242,39.5,Ahmed Raza,Kashif Daud,Nestor Dhamba,0,0,null,0,0,null,null
+243,39.6,Ahmed Raza,Kashif Daud,Nestor Dhamba,0,0,null,0,0,null,null
+244,40.1,Kashif Daud,Ahmed Raza,Zeeshan Maqsood,0,0,null,0,0,null,null
+245,40.2,Kashif Daud,Ahmed Raza,Zeeshan Maqsood,0,0,null,0,0,null,null
+246,40.3,Kashif Daud,Ahmed Raza,Zeeshan Maqsood,1,0,null,1,0,null,null
+247,40.4,Ahmed Raza,Kashif Daud,Zeeshan Maqsood,1,0,null,1,0,null,null
+248,40.5,Kashif Daud,Ahmed Raza,Zeeshan Maqsood,1,0,null,1,0,null,null
+249,40.6,Ahmed Raza,Kashif Daud,Zeeshan Maqsood,0,0,null,0,0,null,null
+250,41.1,Kashif Daud,Ahmed Raza,Nestor Dhamba,1,0,null,1,0,null,null
+251,41.2,Ahmed Raza,Kashif Daud,Nestor Dhamba,0,0,null,0,0,null,null
+252,41.3,Ahmed Raza,Kashif Daud,Nestor Dhamba,1,0,null,1,0,null,null
+253,41.4,Kashif Daud,Ahmed Raza,Nestor Dhamba,1,0,null,1,0,null,null
+254,41.5,Ahmed Raza,Kashif Daud,Nestor Dhamba,1,0,null,1,0,null,null
+255,41.6,Kashif Daud,Ahmed Raza,Nestor Dhamba,0,0,null,0,0,null,null
+256,42.1,Ahmed Raza,Kashif Daud,Kaleemullah,1,0,null,1,0,null,null
+257,42.2,Kashif Daud,Ahmed Raza,Kaleemullah,0,0,null,0,0,null,null
+258,42.3,Kashif Daud,Ahmed Raza,Kaleemullah,0,1,legbyes ,1,0,null,null
+259,42.4,Ahmed Raza,Kashif Daud,Kaleemullah,0,2,legbyes ,2,0,null,null
+260,42.5,Ahmed Raza,Kashif Daud,Kaleemullah,1,0,null,1,0,null,null
+261,42.6,Kashif Daud,Ahmed Raza,Kaleemullah,1,0,null,1,0,null,null
+262,43.1,Kashif Daud,Ahmed Raza,Khawar Ali,4,0,null,4,0,null,null
+263,43.2,Kashif Daud,Ahmed Raza,Khawar Ali,1,0,null,1,0,null,null
+264,43.3,Ahmed Raza,Kashif Daud,Khawar Ali,0,0,null,0,1,Ahmed Raza,caught
+265,43.4,Zahoor Khan,Kashif Daud,Khawar Ali,0,0,null,0,0,null,null
+266,43.5,Zahoor Khan,Kashif Daud,Khawar Ali,0,0,null,0,0,null,null
+267,43.6,Zahoor Khan,Kashif Daud,Khawar Ali,1,0,null,1,0,null,null
+268,44.1,Zahoor Khan,Kashif Daud,Kaleemullah,0,0,null,0,0,null,null
+269,44.2,Zahoor Khan,Kashif Daud,Kaleemullah,0,1,legbyes ,1,0,null,null
+270,44.3,Kashif Daud,Zahoor Khan,Kaleemullah,2,0,null,2,0,null,null
+271,44.4,Kashif Daud,Zahoor Khan,Kaleemullah,6,0,null,6,0,null,null
+272,44.5,Kashif Daud,Zahoor Khan,Kaleemullah,1,0,null,1,0,null,null
+273,44.6,Zahoor Khan,Kashif Daud,Kaleemullah,0,0,null,0,0,null,null
+274,45.1,Kashif Daud,Zahoor Khan,Khawar Ali,1,0,null,1,0,null,null
+275,45.2,Zahoor Khan,Kashif Daud,Khawar Ali,1,0,null,1,0,null,null
+276,45.3,Kashif Daud,Zahoor Khan,Khawar Ali,0,0,null,0,0,null,null
+277,45.4,Kashif Daud,Zahoor Khan,Khawar Ali,0,0,null,0,0,null,null
+278,45.5,Kashif Daud,Zahoor Khan,Khawar Ali,1,0,null,1,0,null,null
+279,45.6,Zahoor Khan,Kashif Daud,Khawar Ali,0,0,null,0,0,null,null
+280,46.1,Kashif Daud,Zahoor Khan,Bilal Khan,0,0,null,0,0,null,null
+281,46.2,Kashif Daud,Zahoor Khan,Bilal Khan,0,0,null,0,0,null,null
+282,46.3,Kashif Daud,Zahoor Khan,Bilal Khan,2,0,null,2,0,null,null
+283,46.4,Kashif Daud,Zahoor Khan,Bilal Khan,1,0,null,1,0,null,null
+284,46.5,Zahoor Khan,Kashif Daud,Bilal Khan,1,0,null,1,0,null,null
+285,46.6,Kashif Daud,Zahoor Khan,Bilal Khan,1,0,null,1,0,null,null
+286,47.1,Kashif Daud,Zahoor Khan,Kaleemullah,0,0,null,0,0,null,null
+287,47.2,Kashif Daud,Zahoor Khan,Kaleemullah,6,0,null,6,0,null,null
+288,47.3,Kashif Daud,Zahoor Khan,Kaleemullah,6,0,null,6,0,null,null
+289,47.4,Kashif Daud,Zahoor Khan,Kaleemullah,1,0,null,1,0,null,null
+290,47.5,Zahoor Khan,Kashif Daud,Kaleemullah,0,0,null,0,0,null,null
+291,47.6,Zahoor Khan,Kashif Daud,Kaleemullah,0,0,null,0,0,null,null
+292,48.1,Kashif Daud,Zahoor Khan,Bilal Khan,0,0,null,0,0,null,null
+293,48.2,Kashif Daud,Zahoor Khan,Bilal Khan,4,0,null,4,0,null,null
+294,48.3,Kashif Daud,Zahoor Khan,Bilal Khan,0,0,null,0,0,null,null
+295,48.4,Kashif Daud,Zahoor Khan,Bilal Khan,0,0,null,0,0,null,null
+296,48.5,Kashif Daud,Zahoor Khan,Bilal Khan,1,0,null,1,0,null,null
+297,48.6,Zahoor Khan,Kashif Daud,Bilal Khan,0,0,null,0,0,null,null
+298,49.1,Kashif Daud,Zahoor Khan,Khawar Ali,0,0,null,0,0,null,null
+299,49.2,Kashif Daud,Zahoor Khan,Khawar Ali,0,0,null,0,0,null,null
+300,49.3,Kashif Daud,Zahoor Khan,Khawar Ali,2,0,null,2,0,null,null
+301,49.4,Kashif Daud,Zahoor Khan,Khawar Ali,4,0,null,4,0,null,null
+302,49.5,Kashif Daud,Zahoor Khan,Khawar Ali,0,0,null,0,1,Kashif Daud,caught
+303,49.6,Zahoor Khan,Akif Raja,Khawar Ali,2,0,null,2,1,Akif Raja,run out

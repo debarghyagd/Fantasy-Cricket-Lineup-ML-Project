@@ -1,0 +1,16 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1288313,"Gaddafi Stadium, Lahore",Pakistan,Zahid Mahmood,Right-arm legbreak,"[1, 1, 1]",0,12,20,1,0
+1,1288313,"Gaddafi Stadium, Lahore",Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,5,10,0,0
+2,1288313,"Gaddafi Stadium, Lahore",Pakistan,Haris Rauf,Right-arm fast,"[0, 1, 0]",0,7,8,0,0
+3,1288313,"Gaddafi Stadium, Lahore",Pakistan,Iftikhar Ahmed,Right-arm offbreak,"[1, 1, 0]",0,13,12,2,0
+4,1288314,"Gaddafi Stadium, Lahore",Pakistan,Zahid Mahmood,Right-arm legbreak,"[1, 1, 1]",0,16,19,2,0
+5,1288314,"Gaddafi Stadium, Lahore",Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,13,15,1,1
+6,1288314,"Gaddafi Stadium, Lahore",Pakistan,Haris Rauf,Right-arm fast,"[0, 1, 0]",0,16,24,2,0
+7,1288314,"Gaddafi Stadium, Lahore",Pakistan,Iftikhar Ahmed,Right-arm offbreak,"[1, 1, 0]",0,24,15,1,2
+8,1288315,"Gaddafi Stadium, Lahore",Pakistan,Zahid Mahmood,Right-arm legbreak,"[1, 1, 1]",0,15,9,1,1
+9,1288315,"Gaddafi Stadium, Lahore",Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,5,18,0,0
+10,1288315,"Gaddafi Stadium, Lahore",Pakistan,Haris Rauf,Right-arm fast,"[0, 1, 0]",0,9,14,1,0
+11,1263161,"Kensington Oval, Bridgetown, Barbados",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",1,4,8,0,0
+12,1263161,"Kensington Oval, Bridgetown, Barbados",West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",0,2,6,0,0
+13,1263161,"Kensington Oval, Bridgetown, Barbados",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,11,16,1,0
+14,1263162,"Kensington Oval, Bridgetown, Barbados",West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",1,0,2,0,0

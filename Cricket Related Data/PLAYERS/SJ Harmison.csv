@@ -1,0 +1,27 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,211678,Riverside Ground,Australia,JN Gillespie,Right-arm fast,"[0, 1, 0]",0,5,7,0,0
+1,211678,Riverside Ground,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+2,211678,Riverside Ground,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,0,1,0,0
+3,211678,Riverside Ground,Australia,GD McGrath,Right-arm fast-medium,"[0, 1, 1]",0,5,7,0,0
+4,249750,Sawai Mansingh Stadium,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",1,0,1,0,0
+5,66305,Riverside Ground,New Zealand,CL Cairns,Right-arm fast-medium,"[0, 1, 1]",0,10,22,1,0
+6,64929,SuperSport Park,South Africa,AJ Hall,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+7,225250,Lord's,Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+8,225250,Lord's,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,4,5,0,0
+9,225251,Kennington Oval,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",1,2,3,0,0
+10,225253,Old Trafford,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+11,225253,Old Trafford,Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+12,66304,Trent Bridge,West Indies,JJC Lawson,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+13,66304,Trent Bridge,West Indies,DR Smith,Right-arm medium,"[0, 1, 2]",0,2,2,0,0
+14,249745,Sawai Mansingh Stadium,India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",0,2,5,0,0
+15,249745,Sawai Mansingh Stadium,India,RR Powar,Right-arm offbreak,"[1, 1, 0]",1,0,3,0,0
+16,361044,Maharani Usharaje Trust Cricket Ground,India,Z Khan,Left-arm fast-medium,"[0, 0, 1]",0,6,5,1,0
+17,65034,Lord's,India,Yuvraj Singh,Left-arm orthodox,"[1, 0, 1]",0,1,2,0,0
+18,65034,Lord's,India,A Nehra,Left-arm fast-medium,"[0, 0, 1]",0,1,1,0,0
+19,226354,National Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",1,1,2,0,0
+20,64926,Newlands,South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",0,2,4,0,0
+21,64926,Newlands,South Africa,N Boje,Left-arm orthodox,"[1, 0, 1]",1,2,5,0,0
+22,352666,Providence Stadium,West Indies,NO Miller,Left-arm orthodox,"[1, 0, 1]",0,4,4,0,0
+23,352666,Providence Stadium,West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",0,8,6,0,0
+24,352666,Providence Stadium,West Indies,KA Pollard,Right-arm medium,"[0, 1, 2]",0,1,1,0,0
+25,352666,Providence Stadium,West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,4,7,0,0

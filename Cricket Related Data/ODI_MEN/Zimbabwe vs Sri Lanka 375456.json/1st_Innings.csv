@@ -1,0 +1,200 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,H Masakadza,V Sibanda,MF Maharoof,0,1,wides ,1,0,null,null
+1,0.2,H Masakadza,V Sibanda,MF Maharoof,0,0,null,0,0,null,null
+2,0.3,H Masakadza,V Sibanda,MF Maharoof,0,1,wides ,1,0,null,null
+3,0.4,H Masakadza,V Sibanda,MF Maharoof,0,1,wides ,1,0,null,null
+4,0.5,H Masakadza,V Sibanda,MF Maharoof,0,0,null,0,0,null,null
+5,0.6,H Masakadza,V Sibanda,MF Maharoof,0,0,null,0,0,null,null
+6,0.7,H Masakadza,V Sibanda,MF Maharoof,0,0,null,0,0,null,null
+7,0.8,H Masakadza,V Sibanda,MF Maharoof,0,1,wides ,1,0,null,null
+8,0.9,H Masakadza,V Sibanda,MF Maharoof,0,0,null,0,0,null,null
+9,0.10,H Masakadza,V Sibanda,MF Maharoof,0,0,null,0,0,null,null
+10,1.1,V Sibanda,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+11,1.2,V Sibanda,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+12,1.3,V Sibanda,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+13,1.4,V Sibanda,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+14,1.5,V Sibanda,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+15,1.6,V Sibanda,H Masakadza,KMDN Kulasekara,4,0,null,4,0,null,null
+16,2.1,H Masakadza,V Sibanda,MF Maharoof,0,0,null,0,0,null,null
+17,2.2,H Masakadza,V Sibanda,MF Maharoof,0,0,null,0,0,null,null
+18,2.3,H Masakadza,V Sibanda,MF Maharoof,0,0,null,0,0,null,null
+19,2.4,H Masakadza,V Sibanda,MF Maharoof,0,0,null,0,0,null,null
+20,2.5,H Masakadza,V Sibanda,MF Maharoof,0,1,wides ,1,0,null,null
+21,2.6,H Masakadza,V Sibanda,MF Maharoof,1,0,null,1,0,null,null
+22,2.7,V Sibanda,H Masakadza,MF Maharoof,0,0,null,0,0,null,null
+23,3.1,H Masakadza,V Sibanda,KMDN Kulasekara,0,0,null,0,0,null,null
+24,3.2,H Masakadza,V Sibanda,KMDN Kulasekara,0,0,null,0,0,null,null
+25,3.3,H Masakadza,V Sibanda,KMDN Kulasekara,0,0,null,0,0,null,null
+26,3.4,H Masakadza,V Sibanda,KMDN Kulasekara,0,0,null,0,0,null,null
+27,3.5,H Masakadza,V Sibanda,KMDN Kulasekara,0,0,null,0,0,null,null
+28,3.6,H Masakadza,V Sibanda,KMDN Kulasekara,0,0,null,0,0,null,null
+29,4.1,V Sibanda,H Masakadza,MF Maharoof,0,1,wides ,1,0,null,null
+30,4.2,V Sibanda,H Masakadza,MF Maharoof,0,1,wides ,1,0,null,null
+31,4.3,V Sibanda,H Masakadza,MF Maharoof,0,0,null,0,0,null,null
+32,4.4,V Sibanda,H Masakadza,MF Maharoof,0,0,null,0,0,null,null
+33,4.5,V Sibanda,H Masakadza,MF Maharoof,0,0,null,0,0,null,null
+34,4.6,V Sibanda,H Masakadza,MF Maharoof,0,0,null,0,0,null,null
+35,4.7,V Sibanda,H Masakadza,MF Maharoof,0,0,null,0,0,null,null
+36,4.8,V Sibanda,H Masakadza,MF Maharoof,0,1,legbyes ,1,0,null,null
+37,5.1,V Sibanda,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+38,5.2,V Sibanda,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+39,5.3,V Sibanda,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+40,5.4,V Sibanda,H Masakadza,KMDN Kulasekara,1,0,null,1,0,null,null
+41,5.5,H Masakadza,V Sibanda,KMDN Kulasekara,4,0,null,4,0,null,null
+42,5.6,H Masakadza,V Sibanda,KMDN Kulasekara,4,0,null,4,0,null,null
+43,6.1,V Sibanda,H Masakadza,MF Maharoof,0,0,null,0,0,null,null
+44,6.2,V Sibanda,H Masakadza,MF Maharoof,0,0,null,0,0,null,null
+45,6.3,V Sibanda,H Masakadza,MF Maharoof,4,0,null,4,0,null,null
+46,6.4,V Sibanda,H Masakadza,MF Maharoof,0,0,null,0,0,null,null
+47,6.5,V Sibanda,H Masakadza,MF Maharoof,0,0,null,0,0,null,null
+48,6.6,V Sibanda,H Masakadza,MF Maharoof,0,1,wides ,1,0,null,null
+49,6.7,V Sibanda,H Masakadza,MF Maharoof,0,0,null,0,0,null,null
+50,7.1,H Masakadza,V Sibanda,KMDN Kulasekara,0,0,null,0,0,null,null
+51,7.2,H Masakadza,V Sibanda,KMDN Kulasekara,0,0,null,0,0,null,null
+52,7.3,H Masakadza,V Sibanda,KMDN Kulasekara,0,0,null,0,0,null,null
+53,7.4,H Masakadza,V Sibanda,KMDN Kulasekara,0,1,legbyes ,1,0,null,null
+54,7.5,V Sibanda,H Masakadza,KMDN Kulasekara,0,0,null,0,1,V Sibanda,caught
+55,7.6,CJ Chibhabha,H Masakadza,KMDN Kulasekara,2,0,null,2,0,null,null
+56,8.1,H Masakadza,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+57,8.2,H Masakadza,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+58,8.3,H Masakadza,CJ Chibhabha,T Thushara,0,1,wides ,1,0,null,null
+59,8.4,H Masakadza,CJ Chibhabha,T Thushara,4,0,null,4,0,null,null
+60,8.5,H Masakadza,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+61,8.6,H Masakadza,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+62,8.7,H Masakadza,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+63,9.1,CJ Chibhabha,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+64,9.2,CJ Chibhabha,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+65,9.3,CJ Chibhabha,H Masakadza,KMDN Kulasekara,2,0,null,2,0,null,null
+66,9.4,CJ Chibhabha,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+67,9.5,CJ Chibhabha,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+68,9.6,CJ Chibhabha,H Masakadza,KMDN Kulasekara,0,0,null,0,0,null,null
+69,10.1,H Masakadza,CJ Chibhabha,T Thushara,1,0,null,1,0,null,null
+70,10.2,CJ Chibhabha,H Masakadza,T Thushara,1,0,null,1,0,null,null
+71,10.3,H Masakadza,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+72,10.4,H Masakadza,CJ Chibhabha,T Thushara,1,0,null,1,0,null,null
+73,10.5,CJ Chibhabha,H Masakadza,T Thushara,0,0,null,0,0,null,null
+74,10.6,CJ Chibhabha,H Masakadza,T Thushara,0,0,null,0,1,H Masakadza,run out
+75,11.1,T Taibu,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+76,11.2,T Taibu,CJ Chibhabha,KMDN Kulasekara,2,0,null,2,0,null,null
+77,11.3,T Taibu,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+78,11.4,T Taibu,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+79,11.5,T Taibu,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+80,11.6,T Taibu,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+81,12.1,CJ Chibhabha,T Taibu,T Thushara,0,0,null,0,0,null,null
+82,12.2,CJ Chibhabha,T Taibu,T Thushara,0,0,null,0,0,null,null
+83,12.3,CJ Chibhabha,T Taibu,T Thushara,2,0,null,2,0,null,null
+84,12.4,CJ Chibhabha,T Taibu,T Thushara,2,0,null,2,0,null,null
+85,12.5,CJ Chibhabha,T Taibu,T Thushara,1,0,null,1,0,null,null
+86,12.6,T Taibu,CJ Chibhabha,T Thushara,2,0,null,2,0,null,null
+87,13.1,CJ Chibhabha,T Taibu,KMDN Kulasekara,0,0,null,0,0,null,null
+88,13.2,CJ Chibhabha,T Taibu,KMDN Kulasekara,1,0,null,1,0,null,null
+89,13.3,T Taibu,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+90,13.4,T Taibu,CJ Chibhabha,KMDN Kulasekara,4,0,null,4,0,null,null
+91,13.5,T Taibu,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+92,13.6,T Taibu,CJ Chibhabha,KMDN Kulasekara,1,0,null,1,0,null,null
+93,14.1,T Taibu,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+94,14.2,T Taibu,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+95,14.3,T Taibu,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+96,14.4,T Taibu,CJ Chibhabha,T Thushara,0,1,wides ,1,0,null,null
+97,14.5,T Taibu,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+98,14.6,T Taibu,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+99,14.7,T Taibu,CJ Chibhabha,T Thushara,1,0,null,1,0,null,null
+100,15.1,T Taibu,CJ Chibhabha,MF Maharoof,0,1,wides ,1,0,null,null
+101,15.2,T Taibu,CJ Chibhabha,MF Maharoof,0,0,null,0,0,null,null
+102,15.3,T Taibu,CJ Chibhabha,MF Maharoof,0,1,wides ,1,0,null,null
+103,15.4,T Taibu,CJ Chibhabha,MF Maharoof,0,0,null,0,0,null,null
+104,15.5,T Taibu,CJ Chibhabha,MF Maharoof,0,0,null,0,0,null,null
+105,15.6,T Taibu,CJ Chibhabha,MF Maharoof,1,0,null,1,0,null,null
+106,15.7,CJ Chibhabha,T Taibu,MF Maharoof,0,0,null,0,0,null,null
+107,15.8,CJ Chibhabha,T Taibu,MF Maharoof,0,0,null,0,0,null,null
+108,16.1,T Taibu,CJ Chibhabha,T Thushara,2,0,null,2,0,null,null
+109,16.2,T Taibu,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+110,16.3,T Taibu,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+111,16.4,T Taibu,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+112,16.5,T Taibu,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+113,16.6,T Taibu,CJ Chibhabha,T Thushara,0,0,null,0,0,null,null
+114,17.1,CJ Chibhabha,T Taibu,MF Maharoof,0,0,null,0,0,null,null
+115,17.2,CJ Chibhabha,T Taibu,MF Maharoof,0,0,null,0,0,null,null
+116,17.3,CJ Chibhabha,T Taibu,MF Maharoof,1,0,null,1,0,null,null
+117,17.4,T Taibu,CJ Chibhabha,MF Maharoof,0,0,null,0,0,null,null
+118,17.5,T Taibu,CJ Chibhabha,MF Maharoof,1,0,null,1,0,null,null
+119,17.6,CJ Chibhabha,T Taibu,MF Maharoof,1,0,null,1,0,null,null
+120,18.1,CJ Chibhabha,T Taibu,T Thushara,0,0,null,0,0,null,null
+121,18.2,CJ Chibhabha,T Taibu,T Thushara,4,0,null,4,0,null,null
+122,18.3,CJ Chibhabha,T Taibu,T Thushara,0,0,null,0,0,null,null
+123,18.4,CJ Chibhabha,T Taibu,T Thushara,4,0,null,4,0,null,null
+124,18.5,CJ Chibhabha,T Taibu,T Thushara,0,0,null,0,0,null,null
+125,18.6,CJ Chibhabha,T Taibu,T Thushara,1,0,null,1,0,null,null
+126,19.1,CJ Chibhabha,T Taibu,MF Maharoof,0,0,null,0,0,null,null
+127,19.2,CJ Chibhabha,T Taibu,MF Maharoof,0,0,null,0,0,null,null
+128,19.3,CJ Chibhabha,T Taibu,MF Maharoof,1,0,null,1,0,null,null
+129,19.4,T Taibu,CJ Chibhabha,MF Maharoof,0,1,wides ,1,0,null,null
+130,19.5,T Taibu,CJ Chibhabha,MF Maharoof,0,0,null,0,0,null,null
+131,19.6,T Taibu,CJ Chibhabha,MF Maharoof,0,0,null,0,0,null,null
+132,19.7,T Taibu,CJ Chibhabha,MF Maharoof,2,0,null,2,0,null,null
+133,20.1,CJ Chibhabha,T Taibu,BAW Mendis,1,0,null,1,0,null,null
+134,20.2,T Taibu,CJ Chibhabha,BAW Mendis,0,0,null,0,0,null,null
+135,20.3,T Taibu,CJ Chibhabha,BAW Mendis,1,0,null,1,0,null,null
+136,20.4,CJ Chibhabha,T Taibu,BAW Mendis,1,0,null,1,0,null,null
+137,20.5,T Taibu,CJ Chibhabha,BAW Mendis,0,2,legbyes ,2,0,null,null
+138,20.6,T Taibu,CJ Chibhabha,BAW Mendis,0,0,null,0,0,null,null
+139,21.1,CJ Chibhabha,T Taibu,MF Maharoof,0,0,null,0,1,CJ Chibhabha,caught
+140,21.2,T Taibu,S Matsikenyeri,MF Maharoof,1,0,null,1,0,null,null
+141,21.3,S Matsikenyeri,T Taibu,MF Maharoof,0,0,null,0,0,null,null
+142,21.4,S Matsikenyeri,T Taibu,MF Maharoof,0,0,null,0,0,null,null
+143,21.5,S Matsikenyeri,T Taibu,MF Maharoof,0,0,null,0,0,null,null
+144,21.6,S Matsikenyeri,T Taibu,MF Maharoof,2,0,null,2,0,null,null
+145,22.1,T Taibu,S Matsikenyeri,BAW Mendis,4,0,null,4,0,null,null
+146,22.2,T Taibu,S Matsikenyeri,BAW Mendis,1,0,null,1,0,null,null
+147,22.3,S Matsikenyeri,T Taibu,BAW Mendis,0,0,null,0,0,null,null
+148,22.4,S Matsikenyeri,T Taibu,BAW Mendis,0,0,null,0,0,null,null
+149,22.5,S Matsikenyeri,T Taibu,BAW Mendis,0,0,null,0,0,null,null
+150,22.6,S Matsikenyeri,T Taibu,BAW Mendis,0,0,null,0,0,null,null
+151,23.1,T Taibu,S Matsikenyeri,M Muralitharan,2,0,null,2,0,null,null
+152,23.2,T Taibu,S Matsikenyeri,M Muralitharan,0,0,null,0,0,null,null
+153,23.3,T Taibu,S Matsikenyeri,M Muralitharan,2,0,null,2,0,null,null
+154,23.4,T Taibu,S Matsikenyeri,M Muralitharan,0,4,byes ,4,0,null,null
+155,23.5,T Taibu,S Matsikenyeri,M Muralitharan,1,0,null,1,0,null,null
+156,23.6,S Matsikenyeri,T Taibu,M Muralitharan,1,0,null,1,0,null,null
+157,24.1,S Matsikenyeri,T Taibu,BAW Mendis,1,0,null,1,0,null,null
+158,24.2,T Taibu,S Matsikenyeri,BAW Mendis,1,0,null,1,0,null,null
+159,24.3,S Matsikenyeri,T Taibu,BAW Mendis,0,0,null,0,0,null,null
+160,24.4,S Matsikenyeri,T Taibu,BAW Mendis,2,0,null,2,0,null,null
+161,24.5,S Matsikenyeri,T Taibu,BAW Mendis,0,0,null,0,0,null,null
+162,24.6,S Matsikenyeri,T Taibu,BAW Mendis,1,0,null,1,0,null,null
+163,25.1,S Matsikenyeri,T Taibu,M Muralitharan,1,0,null,1,0,null,null
+164,25.2,T Taibu,S Matsikenyeri,M Muralitharan,1,0,null,1,0,null,null
+165,25.3,S Matsikenyeri,T Taibu,M Muralitharan,3,0,null,3,0,null,null
+166,25.4,T Taibu,S Matsikenyeri,M Muralitharan,0,0,null,0,0,null,null
+167,25.5,T Taibu,S Matsikenyeri,M Muralitharan,2,0,null,2,0,null,null
+168,25.6,T Taibu,S Matsikenyeri,M Muralitharan,0,0,null,0,0,null,null
+169,26.1,S Matsikenyeri,T Taibu,BAW Mendis,1,0,null,1,0,null,null
+170,26.2,T Taibu,S Matsikenyeri,BAW Mendis,0,0,null,0,0,null,null
+171,26.3,T Taibu,S Matsikenyeri,BAW Mendis,0,0,null,0,0,null,null
+172,26.4,T Taibu,S Matsikenyeri,BAW Mendis,1,0,null,1,0,null,null
+173,26.5,S Matsikenyeri,T Taibu,BAW Mendis,6,0,null,6,0,null,null
+174,26.6,S Matsikenyeri,T Taibu,BAW Mendis,3,0,null,3,0,null,null
+175,27.1,S Matsikenyeri,T Taibu,M Muralitharan,0,0,null,0,1,S Matsikenyeri,bowled
+176,27.2,E Chigumbura,T Taibu,M Muralitharan,0,0,null,0,1,E Chigumbura,lbw
+177,27.3,T Maruma,T Taibu,M Muralitharan,0,0,null,0,0,null,null
+178,27.4,T Maruma,T Taibu,M Muralitharan,0,0,null,0,0,null,null
+179,27.5,T Maruma,T Taibu,M Muralitharan,0,0,null,0,0,null,null
+180,27.6,T Maruma,T Taibu,M Muralitharan,0,0,null,0,1,T Maruma,caught
+181,28.1,T Taibu,P Utseya,BAW Mendis,1,0,null,1,0,null,null
+182,28.2,P Utseya,T Taibu,BAW Mendis,0,0,null,0,1,P Utseya,lbw
+183,28.3,RW Price,T Taibu,BAW Mendis,0,0,null,0,0,null,null
+184,28.4,RW Price,T Taibu,BAW Mendis,0,0,null,0,0,null,null
+185,28.5,RW Price,T Taibu,BAW Mendis,0,0,null,0,0,null,null
+186,28.6,RW Price,T Taibu,BAW Mendis,0,0,null,0,1,RW Price,stumped
+187,29.1,T Taibu,T Mupariwa,M Muralitharan,1,0,null,1,0,null,null
+188,29.2,T Mupariwa,T Taibu,M Muralitharan,0,0,null,0,0,null,null
+189,29.3,T Mupariwa,T Taibu,M Muralitharan,0,0,null,0,0,null,null
+190,29.4,T Mupariwa,T Taibu,M Muralitharan,0,0,null,0,0,null,null
+191,29.5,T Mupariwa,T Taibu,M Muralitharan,0,0,null,0,1,T Mupariwa,caught
+192,29.6,CB Mpofu,T Taibu,M Muralitharan,0,0,null,0,0,null,null
+193,30.1,T Taibu,CB Mpofu,BAW Mendis,0,0,null,0,0,null,null
+194,30.2,T Taibu,CB Mpofu,BAW Mendis,0,0,null,0,0,null,null
+195,30.3,T Taibu,CB Mpofu,BAW Mendis,0,0,null,0,0,null,null
+196,30.4,T Taibu,CB Mpofu,BAW Mendis,1,0,null,1,0,null,null
+197,30.5,CB Mpofu,T Taibu,BAW Mendis,0,0,null,0,0,null,null
+198,30.6,CB Mpofu,T Taibu,BAW Mendis,0,0,null,0,1,CB Mpofu,bowled

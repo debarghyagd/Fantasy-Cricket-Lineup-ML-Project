@@ -1,0 +1,306 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,CH Gayle,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+1,0.2,CH Gayle,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+2,0.3,CH Gayle,RL Powell,Naved-ul-Hasan,0,0,null,0,1,CH Gayle,caught
+3,0.4,RR Sarwan,RL Powell,Naved-ul-Hasan,0,1,wides ,1,0,null,null
+4,0.5,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+5,0.6,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+6,0.7,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+7,1.1,RL Powell,RR Sarwan,Iftikhar Anjum,0,0,null,0,0,null,null
+8,1.2,RL Powell,RR Sarwan,Iftikhar Anjum,4,0,null,4,0,null,null
+9,1.3,RL Powell,RR Sarwan,Iftikhar Anjum,0,0,null,0,0,null,null
+10,1.4,RL Powell,RR Sarwan,Iftikhar Anjum,1,0,null,1,0,null,null
+11,1.5,RR Sarwan,RL Powell,Iftikhar Anjum,2,0,null,2,0,null,null
+12,1.6,RR Sarwan,RL Powell,Iftikhar Anjum,1,0,null,1,0,null,null
+13,2.1,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+14,2.2,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+15,2.3,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+16,2.4,RR Sarwan,RL Powell,Naved-ul-Hasan,3,0,null,3,0,null,null
+17,2.5,RL Powell,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+18,2.6,RL Powell,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+19,3.1,RR Sarwan,RL Powell,Iftikhar Anjum,4,0,null,4,0,null,null
+20,3.2,RR Sarwan,RL Powell,Iftikhar Anjum,0,0,null,0,0,null,null
+21,3.3,RR Sarwan,RL Powell,Iftikhar Anjum,2,0,null,2,0,null,null
+22,3.4,RR Sarwan,RL Powell,Iftikhar Anjum,0,0,null,0,0,null,null
+23,3.5,RR Sarwan,RL Powell,Iftikhar Anjum,0,0,null,0,0,null,null
+24,3.6,RR Sarwan,RL Powell,Iftikhar Anjum,3,0,null,3,0,null,null
+25,4.1,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+26,4.2,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+27,4.3,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+28,4.4,RR Sarwan,RL Powell,Naved-ul-Hasan,4,0,null,4,0,null,null
+29,4.5,RR Sarwan,RL Powell,Naved-ul-Hasan,1,0,null,1,0,null,null
+30,4.6,RL Powell,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+31,5.1,RR Sarwan,RL Powell,Iftikhar Anjum,0,1,wides ,1,0,null,null
+32,5.2,RR Sarwan,RL Powell,Iftikhar Anjum,4,0,null,4,0,null,null
+33,5.3,RR Sarwan,RL Powell,Iftikhar Anjum,0,1,wides ,1,0,null,null
+34,5.4,RR Sarwan,RL Powell,Iftikhar Anjum,0,0,null,0,0,null,null
+35,5.5,RR Sarwan,RL Powell,Iftikhar Anjum,1,0,null,1,0,null,null
+36,5.6,RL Powell,RR Sarwan,Iftikhar Anjum,2,0,null,2,0,null,null
+37,5.7,RL Powell,RR Sarwan,Iftikhar Anjum,4,0,null,4,0,null,null
+38,5.8,RL Powell,RR Sarwan,Iftikhar Anjum,0,0,null,0,0,null,null
+39,6.1,RR Sarwan,RL Powell,Naved-ul-Hasan,1,0,null,1,0,null,null
+40,6.2,RL Powell,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+41,6.3,RL Powell,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+42,6.4,RL Powell,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+43,6.5,RL Powell,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+44,6.6,RL Powell,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+45,7.1,RR Sarwan,RL Powell,Mohammad Khalil,1,0,null,1,0,null,null
+46,7.2,RL Powell,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+47,7.3,RL Powell,RR Sarwan,Mohammad Khalil,2,0,null,2,0,null,null
+48,7.4,RL Powell,RR Sarwan,Mohammad Khalil,1,0,null,1,0,null,null
+49,7.5,RR Sarwan,RL Powell,Mohammad Khalil,1,0,null,1,0,null,null
+50,7.6,RL Powell,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+51,8.1,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+52,8.2,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+53,8.3,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+54,8.4,RR Sarwan,RL Powell,Naved-ul-Hasan,4,0,null,4,0,null,null
+55,8.5,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+56,8.6,RR Sarwan,RL Powell,Naved-ul-Hasan,0,0,null,0,0,null,null
+57,9.1,RL Powell,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+58,9.2,RL Powell,RR Sarwan,Mohammad Khalil,1,0,null,1,0,null,null
+59,9.3,RR Sarwan,RL Powell,Mohammad Khalil,0,0,null,0,0,null,null
+60,9.4,RR Sarwan,RL Powell,Mohammad Khalil,4,0,null,4,0,null,null
+61,9.5,RR Sarwan,RL Powell,Mohammad Khalil,4,0,null,4,0,null,null
+62,9.6,RR Sarwan,RL Powell,Mohammad Khalil,0,0,null,0,0,null,null
+63,10.1,RL Powell,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+64,10.2,RL Powell,RR Sarwan,Naved-ul-Hasan,2,0,null,2,0,null,null
+65,10.3,RL Powell,RR Sarwan,Naved-ul-Hasan,4,0,null,4,0,null,null
+66,10.4,RL Powell,RR Sarwan,Naved-ul-Hasan,0,1,wides ,1,0,null,null
+67,10.5,RL Powell,RR Sarwan,Naved-ul-Hasan,2,0,null,2,0,null,null
+68,10.6,RL Powell,RR Sarwan,Naved-ul-Hasan,0,0,null,0,1,RL Powell,caught
+69,10.7,BC Lara,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+70,11.1,RR Sarwan,BC Lara,Mohammad Khalil,0,0,null,0,0,null,null
+71,11.2,RR Sarwan,BC Lara,Mohammad Khalil,1,0,null,1,0,null,null
+72,11.3,BC Lara,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+73,11.4,BC Lara,RR Sarwan,Mohammad Khalil,0,1,wides ,1,0,null,null
+74,11.5,BC Lara,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+75,11.6,BC Lara,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+76,11.7,BC Lara,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+77,12.1,RR Sarwan,BC Lara,Abdul Razzaq,0,0,null,0,0,null,null
+78,12.2,RR Sarwan,BC Lara,Abdul Razzaq,4,0,null,4,0,null,null
+79,12.3,RR Sarwan,BC Lara,Abdul Razzaq,1,0,null,1,0,null,null
+80,12.4,BC Lara,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+81,12.5,BC Lara,RR Sarwan,Abdul Razzaq,4,0,null,4,0,null,null
+82,12.6,BC Lara,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+83,13.1,RR Sarwan,BC Lara,Mohammad Khalil,1,0,null,1,0,null,null
+84,13.2,BC Lara,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+85,13.3,BC Lara,RR Sarwan,Mohammad Khalil,4,0,null,4,0,null,null
+86,13.4,BC Lara,RR Sarwan,Mohammad Khalil,4,0,null,4,0,null,null
+87,13.5,BC Lara,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+88,13.6,BC Lara,RR Sarwan,Mohammad Khalil,1,0,null,1,0,null,null
+89,14.1,BC Lara,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+90,14.2,BC Lara,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+91,14.3,BC Lara,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+92,14.4,RR Sarwan,BC Lara,Abdul Razzaq,2,0,null,2,0,null,null
+93,14.5,RR Sarwan,BC Lara,Abdul Razzaq,1,0,null,1,0,null,null
+94,14.6,BC Lara,RR Sarwan,Abdul Razzaq,4,1,noballs ,5,0,null,null
+95,14.7,BC Lara,RR Sarwan,Abdul Razzaq,0,1,noballs ,1,0,null,null
+96,14.8,BC Lara,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+97,15.1,BC Lara,RR Sarwan,Mohammad Khalil,0,0,null,0,1,BC Lara,caught
+98,15.2,RR Sarwan,S Chanderpaul,Mohammad Khalil,0,0,null,0,0,null,null
+99,15.3,RR Sarwan,S Chanderpaul,Mohammad Khalil,0,0,null,0,0,null,null
+100,15.4,RR Sarwan,S Chanderpaul,Mohammad Khalil,1,0,null,1,0,null,null
+101,15.5,S Chanderpaul,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+102,15.6,S Chanderpaul,RR Sarwan,Mohammad Khalil,1,0,null,1,0,null,null
+103,16.1,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+104,16.2,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+105,16.3,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+106,16.4,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+107,16.5,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,1,wides ,1,0,null,null
+108,16.6,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+109,16.7,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+110,17.1,RR Sarwan,S Chanderpaul,Mohammad Khalil,0,0,null,0,0,null,null
+111,17.2,RR Sarwan,S Chanderpaul,Mohammad Khalil,1,0,null,1,0,null,null
+112,17.3,S Chanderpaul,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+113,17.4,S Chanderpaul,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+114,17.5,S Chanderpaul,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+115,17.6,S Chanderpaul,RR Sarwan,Mohammad Khalil,1,0,null,1,0,null,null
+116,18.1,S Chanderpaul,RR Sarwan,Abdul Razzaq,2,0,null,2,0,null,null
+117,18.2,S Chanderpaul,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+118,18.3,RR Sarwan,S Chanderpaul,Abdul Razzaq,0,1,wides ,1,0,null,null
+119,18.4,RR Sarwan,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+120,18.5,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+121,18.6,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+122,18.7,S Chanderpaul,RR Sarwan,Abdul Razzaq,2,0,null,2,0,null,null
+123,19.1,RR Sarwan,S Chanderpaul,Mohammad Khalil,1,0,null,1,0,null,null
+124,19.2,S Chanderpaul,RR Sarwan,Mohammad Khalil,3,0,null,3,0,null,null
+125,19.3,RR Sarwan,S Chanderpaul,Mohammad Khalil,1,0,null,1,0,null,null
+126,19.4,S Chanderpaul,RR Sarwan,Mohammad Khalil,4,0,null,4,0,null,null
+127,19.5,S Chanderpaul,RR Sarwan,Mohammad Khalil,0,0,null,0,0,null,null
+128,19.6,S Chanderpaul,RR Sarwan,Mohammad Khalil,2,0,null,2,0,null,null
+129,20.1,RR Sarwan,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+130,20.2,RR Sarwan,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+131,20.3,RR Sarwan,S Chanderpaul,Abdul Razzaq,0,1,noballs ,1,0,null,null
+132,20.4,RR Sarwan,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+133,20.5,S Chanderpaul,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+134,20.6,RR Sarwan,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+135,20.7,RR Sarwan,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+136,21.1,RR Sarwan,S Chanderpaul,Iftikhar Anjum,1,0,null,1,0,null,null
+137,21.2,S Chanderpaul,RR Sarwan,Iftikhar Anjum,4,0,null,4,0,null,null
+138,21.3,S Chanderpaul,RR Sarwan,Iftikhar Anjum,0,0,null,0,0,null,null
+139,21.4,S Chanderpaul,RR Sarwan,Iftikhar Anjum,0,0,null,0,0,null,null
+140,21.5,S Chanderpaul,RR Sarwan,Iftikhar Anjum,4,0,null,4,0,null,null
+141,21.6,S Chanderpaul,RR Sarwan,Iftikhar Anjum,0,0,null,0,0,null,null
+142,22.1,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+143,22.2,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+144,22.3,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+145,22.4,RR Sarwan,S Chanderpaul,Shahid Afridi,1,0,null,1,0,null,null
+146,22.5,S Chanderpaul,RR Sarwan,Shahid Afridi,0,0,null,0,0,null,null
+147,22.6,S Chanderpaul,RR Sarwan,Shahid Afridi,1,1,noballs ,2,0,null,null
+148,22.7,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+149,23.1,S Chanderpaul,RR Sarwan,Iftikhar Anjum,0,0,null,0,0,null,null
+150,23.2,S Chanderpaul,RR Sarwan,Iftikhar Anjum,2,0,null,2,0,null,null
+151,23.3,S Chanderpaul,RR Sarwan,Iftikhar Anjum,1,0,null,1,0,null,null
+152,23.4,RR Sarwan,S Chanderpaul,Iftikhar Anjum,1,0,null,1,0,null,null
+153,23.5,S Chanderpaul,RR Sarwan,Iftikhar Anjum,1,0,null,1,0,null,null
+154,23.6,RR Sarwan,S Chanderpaul,Iftikhar Anjum,0,0,null,0,0,null,null
+155,24.1,S Chanderpaul,RR Sarwan,Shahid Afridi,1,0,null,1,0,null,null
+156,24.2,RR Sarwan,S Chanderpaul,Shahid Afridi,1,0,null,1,0,null,null
+157,24.3,S Chanderpaul,RR Sarwan,Shahid Afridi,0,0,null,0,0,null,null
+158,24.4,S Chanderpaul,RR Sarwan,Shahid Afridi,1,0,null,1,0,null,null
+159,24.5,RR Sarwan,S Chanderpaul,Shahid Afridi,4,0,null,4,0,null,null
+160,24.6,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+161,25.1,S Chanderpaul,RR Sarwan,Salman Butt,2,0,null,2,0,null,null
+162,25.2,S Chanderpaul,RR Sarwan,Salman Butt,1,0,null,1,0,null,null
+163,25.3,RR Sarwan,S Chanderpaul,Salman Butt,1,0,null,1,0,null,null
+164,25.4,S Chanderpaul,RR Sarwan,Salman Butt,0,0,null,0,0,null,null
+165,25.5,S Chanderpaul,RR Sarwan,Salman Butt,1,0,null,1,0,null,null
+166,25.6,RR Sarwan,S Chanderpaul,Salman Butt,6,0,null,6,0,null,null
+167,26.1,S Chanderpaul,RR Sarwan,Shahid Afridi,0,0,null,0,0,null,null
+168,26.2,S Chanderpaul,RR Sarwan,Shahid Afridi,1,0,null,1,0,null,null
+169,26.3,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+170,26.4,RR Sarwan,S Chanderpaul,Shahid Afridi,1,0,null,1,0,null,null
+171,26.5,S Chanderpaul,RR Sarwan,Shahid Afridi,0,0,null,0,0,null,null
+172,26.6,S Chanderpaul,RR Sarwan,Shahid Afridi,0,0,null,0,0,null,null
+173,27.1,RR Sarwan,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+174,27.2,S Chanderpaul,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+175,27.3,RR Sarwan,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+176,27.4,RR Sarwan,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+177,27.5,S Chanderpaul,RR Sarwan,Abdul Razzaq,4,0,null,4,0,null,null
+178,27.6,S Chanderpaul,RR Sarwan,Abdul Razzaq,4,0,null,4,0,null,null
+179,28.1,RR Sarwan,S Chanderpaul,Shahid Afridi,1,0,null,1,0,null,null
+180,28.2,S Chanderpaul,RR Sarwan,Shahid Afridi,0,0,null,0,0,null,null
+181,28.3,S Chanderpaul,RR Sarwan,Shahid Afridi,0,0,null,0,0,null,null
+182,28.4,S Chanderpaul,RR Sarwan,Shahid Afridi,1,0,null,1,0,null,null
+183,28.5,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+184,28.6,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+185,29.1,S Chanderpaul,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+186,29.2,RR Sarwan,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+187,29.3,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+188,29.4,S Chanderpaul,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+189,29.5,RR Sarwan,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+190,29.6,S Chanderpaul,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+191,30.1,S Chanderpaul,RR Sarwan,Shahid Afridi,1,0,null,1,0,null,null
+192,30.2,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+193,30.3,RR Sarwan,S Chanderpaul,Shahid Afridi,2,0,null,2,0,null,null
+194,30.4,RR Sarwan,S Chanderpaul,Shahid Afridi,4,0,null,4,0,null,null
+195,30.5,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+196,30.6,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+197,31.1,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+198,31.2,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+199,31.3,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+200,31.4,S Chanderpaul,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+201,31.5,RR Sarwan,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+202,31.6,RR Sarwan,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+203,32.1,RR Sarwan,S Chanderpaul,Shahid Afridi,1,0,null,1,0,null,null
+204,32.2,S Chanderpaul,RR Sarwan,Shahid Afridi,1,0,null,1,0,null,null
+205,32.3,RR Sarwan,S Chanderpaul,Shahid Afridi,1,0,null,1,0,null,null
+206,32.4,S Chanderpaul,RR Sarwan,Shahid Afridi,1,0,null,1,0,null,null
+207,32.5,RR Sarwan,S Chanderpaul,Shahid Afridi,0,0,null,0,1,RR Sarwan,stumped
+208,32.6,WW Hinds,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+209,33.1,S Chanderpaul,WW Hinds,Iftikhar Anjum,4,0,null,4,0,null,null
+210,33.2,S Chanderpaul,WW Hinds,Iftikhar Anjum,0,0,null,0,0,null,null
+211,33.3,S Chanderpaul,WW Hinds,Iftikhar Anjum,0,0,null,0,1,S Chanderpaul,caught
+212,33.4,DJ Bravo,WW Hinds,Iftikhar Anjum,0,1,legbyes ,1,0,null,null
+213,33.5,WW Hinds,DJ Bravo,Iftikhar Anjum,0,0,null,0,0,null,null
+214,33.6,WW Hinds,DJ Bravo,Iftikhar Anjum,0,1,wides ,1,0,null,null
+215,33.7,WW Hinds,DJ Bravo,Iftikhar Anjum,0,0,null,0,0,null,null
+216,34.1,DJ Bravo,WW Hinds,Shahid Afridi,0,1,wides ,1,0,null,null
+217,34.2,DJ Bravo,WW Hinds,Shahid Afridi,0,0,null,0,0,null,null
+218,34.3,DJ Bravo,WW Hinds,Shahid Afridi,1,0,null,1,0,null,null
+219,34.4,WW Hinds,DJ Bravo,Shahid Afridi,1,0,null,1,0,null,null
+220,34.5,DJ Bravo,WW Hinds,Shahid Afridi,0,0,null,0,0,null,null
+221,34.6,DJ Bravo,WW Hinds,Shahid Afridi,0,0,null,0,0,null,null
+222,34.7,DJ Bravo,WW Hinds,Shahid Afridi,0,0,null,0,1,DJ Bravo,bowled
+223,35.1,WW Hinds,CO Browne,Iftikhar Anjum,0,0,null,0,0,null,null
+224,35.2,WW Hinds,CO Browne,Iftikhar Anjum,0,0,null,0,0,null,null
+225,35.3,WW Hinds,CO Browne,Iftikhar Anjum,2,0,null,2,0,null,null
+226,35.4,WW Hinds,CO Browne,Iftikhar Anjum,1,0,null,1,0,null,null
+227,35.5,CO Browne,WW Hinds,Iftikhar Anjum,0,0,null,0,0,null,null
+228,35.6,CO Browne,WW Hinds,Iftikhar Anjum,3,0,null,3,0,null,null
+229,36.1,CO Browne,WW Hinds,Shahid Afridi,1,0,null,1,0,null,null
+230,36.2,WW Hinds,CO Browne,Shahid Afridi,0,0,null,0,0,null,null
+231,36.3,WW Hinds,CO Browne,Shahid Afridi,0,0,null,0,0,null,null
+232,36.4,WW Hinds,CO Browne,Shahid Afridi,0,0,null,0,0,null,null
+233,36.5,WW Hinds,CO Browne,Shahid Afridi,1,0,null,1,0,null,null
+234,36.6,CO Browne,WW Hinds,Shahid Afridi,0,0,null,0,0,null,null
+235,37.1,WW Hinds,CO Browne,Iftikhar Anjum,2,0,null,2,0,null,null
+236,37.2,WW Hinds,CO Browne,Iftikhar Anjum,1,0,null,1,0,null,null
+237,37.3,CO Browne,WW Hinds,Iftikhar Anjum,0,0,null,0,0,null,null
+238,37.4,CO Browne,WW Hinds,Iftikhar Anjum,2,0,null,2,0,null,null
+239,37.5,CO Browne,WW Hinds,Iftikhar Anjum,1,0,null,1,0,null,null
+240,37.6,WW Hinds,CO Browne,Iftikhar Anjum,4,0,null,4,0,null,null
+241,38.1,CO Browne,WW Hinds,Shahid Afridi,0,0,null,0,0,null,null
+242,38.2,CO Browne,WW Hinds,Shahid Afridi,1,0,null,1,0,null,null
+243,38.3,WW Hinds,CO Browne,Shahid Afridi,4,0,null,4,0,null,null
+244,38.4,WW Hinds,CO Browne,Shahid Afridi,0,0,null,0,0,null,null
+245,38.5,WW Hinds,CO Browne,Shahid Afridi,1,0,null,1,0,null,null
+246,38.6,CO Browne,WW Hinds,Shahid Afridi,0,0,null,0,0,null,null
+247,39.1,WW Hinds,CO Browne,Mohammad Khalil,2,0,null,2,0,null,null
+248,39.2,WW Hinds,CO Browne,Mohammad Khalil,1,0,null,1,0,null,null
+249,39.3,CO Browne,WW Hinds,Mohammad Khalil,1,0,null,1,0,null,null
+250,39.4,WW Hinds,CO Browne,Mohammad Khalil,1,0,null,1,0,null,null
+251,39.5,CO Browne,WW Hinds,Mohammad Khalil,1,0,null,1,0,null,null
+252,39.6,WW Hinds,CO Browne,Mohammad Khalil,1,0,null,1,0,null,null
+253,40.1,WW Hinds,CO Browne,Shahid Afridi,1,0,null,1,0,null,null
+254,40.2,CO Browne,WW Hinds,Shahid Afridi,4,0,null,4,0,null,null
+255,40.3,CO Browne,WW Hinds,Shahid Afridi,4,0,null,4,0,null,null
+256,40.4,CO Browne,WW Hinds,Shahid Afridi,0,0,null,0,0,null,null
+257,40.5,CO Browne,WW Hinds,Shahid Afridi,1,0,null,1,0,null,null
+258,40.6,WW Hinds,CO Browne,Shahid Afridi,1,0,null,1,0,null,null
+259,41.1,WW Hinds,CO Browne,Mohammad Khalil,1,1,noballs ,2,0,null,null
+260,41.2,CO Browne,WW Hinds,Mohammad Khalil,1,0,null,1,0,null,null
+261,41.3,WW Hinds,CO Browne,Mohammad Khalil,0,1,wides ,1,0,null,null
+262,41.4,WW Hinds,CO Browne,Mohammad Khalil,1,0,null,1,0,null,null
+263,41.5,CO Browne,WW Hinds,Mohammad Khalil,0,0,null,0,0,null,null
+264,41.6,CO Browne,WW Hinds,Mohammad Khalil,1,0,null,1,0,null,null
+265,41.7,WW Hinds,CO Browne,Mohammad Khalil,0,0,null,0,0,null,null
+266,41.8,WW Hinds,CO Browne,Mohammad Khalil,0,0,null,0,0,null,null
+267,42.1,CO Browne,WW Hinds,Naved-ul-Hasan,1,0,null,1,0,null,null
+268,42.2,WW Hinds,CO Browne,Naved-ul-Hasan,0,0,null,0,0,null,null
+269,42.3,WW Hinds,CO Browne,Naved-ul-Hasan,1,0,null,1,0,null,null
+270,42.4,CO Browne,WW Hinds,Naved-ul-Hasan,0,0,null,0,0,null,null
+271,42.5,CO Browne,WW Hinds,Naved-ul-Hasan,0,0,null,0,0,null,null
+272,42.6,CO Browne,WW Hinds,Naved-ul-Hasan,0,0,null,0,0,null,null
+273,43.1,WW Hinds,CO Browne,Mohammad Khalil,0,0,null,0,0,null,null
+274,43.2,WW Hinds,CO Browne,Mohammad Khalil,2,0,null,2,0,null,null
+275,43.3,WW Hinds,CO Browne,Mohammad Khalil,1,0,null,1,0,null,null
+276,43.4,CO Browne,WW Hinds,Mohammad Khalil,1,0,null,1,0,null,null
+277,43.5,WW Hinds,CO Browne,Mohammad Khalil,0,0,null,0,1,WW Hinds,caught
+278,43.6,CO Browne,IDR Bradshaw,Mohammad Khalil,1,0,null,1,0,null,null
+279,44.1,CO Browne,IDR Bradshaw,Naved-ul-Hasan,1,0,null,1,0,null,null
+280,44.2,IDR Bradshaw,CO Browne,Naved-ul-Hasan,0,0,null,0,0,null,null
+281,44.3,IDR Bradshaw,CO Browne,Naved-ul-Hasan,0,0,null,0,0,null,null
+282,44.4,IDR Bradshaw,CO Browne,Naved-ul-Hasan,0,0,null,0,0,null,null
+283,44.5,IDR Bradshaw,CO Browne,Naved-ul-Hasan,0,0,null,0,1,IDR Bradshaw,bowled
+284,44.6,PT Collins,CO Browne,Naved-ul-Hasan,1,0,null,1,0,null,null
+285,45.1,PT Collins,CO Browne,Iftikhar Anjum,0,0,null,0,0,null,null
+286,45.2,PT Collins,CO Browne,Iftikhar Anjum,0,0,null,0,1,PT Collins,caught
+287,45.3,Reon King,CO Browne,Iftikhar Anjum,0,0,null,0,0,null,null
+288,45.4,Reon King,CO Browne,Iftikhar Anjum,1,0,null,1,0,null,null
+289,45.5,CO Browne,Reon King,Iftikhar Anjum,1,0,null,1,0,null,null
+290,45.6,Reon King,CO Browne,Iftikhar Anjum,0,1,legbyes ,1,0,null,null
+291,46.1,Reon King,CO Browne,Naved-ul-Hasan,0,0,null,0,0,null,null
+292,46.2,Reon King,CO Browne,Naved-ul-Hasan,0,0,null,0,0,null,null
+293,46.3,Reon King,CO Browne,Naved-ul-Hasan,0,0,null,0,0,null,null
+294,46.4,Reon King,CO Browne,Naved-ul-Hasan,1,0,null,1,0,null,null
+295,46.5,CO Browne,Reon King,Naved-ul-Hasan,0,1,wides ,1,0,null,null
+296,46.6,CO Browne,Reon King,Naved-ul-Hasan,0,1,legbyes ,1,0,null,null
+297,46.7,Reon King,CO Browne,Naved-ul-Hasan,0,0,null,0,0,null,null
+298,47.1,CO Browne,Reon King,Abdul Razzaq,1,0,null,1,0,null,null
+299,47.2,Reon King,CO Browne,Abdul Razzaq,1,0,null,1,0,null,null
+300,47.3,CO Browne,Reon King,Abdul Razzaq,4,0,null,4,0,null,null
+301,47.4,CO Browne,Reon King,Abdul Razzaq,4,0,null,4,0,null,null
+302,47.5,CO Browne,Reon King,Abdul Razzaq,1,0,null,1,0,null,null
+303,47.6,Reon King,CO Browne,Abdul Razzaq,0,0,null,0,0,null,null
+304,48.1,CO Browne,Reon King,Naved-ul-Hasan,0,0,null,0,1,CO Browne,bowled

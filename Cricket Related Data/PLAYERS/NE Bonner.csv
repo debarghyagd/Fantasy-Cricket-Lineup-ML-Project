@@ -1,0 +1,12 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1244024,Zahur Ahmed Chowdhury Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,6,9,0,0
+1,1244024,Zahur Ahmed Chowdhury Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,1,5,0,0
+2,1244024,Zahur Ahmed Chowdhury Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,3,6,0,0
+3,1302349,"VRA Ground, Amstelveen",Netherlands,LV van Beek,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+4,1302350,"VRA Ground, Amstelveen",Netherlands,LV van Beek,Right-arm fast-medium,"[0, 1, 1]",0,12,15,2,0
+5,1244022,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,0,4,0,0
+6,1244023,Shere Bangla National Stadium,Bangladesh,Hasan Mahmud,Right-arm medium,"[0, 1, 2]",1,6,7,1,0
+7,1244023,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,7,11,0,0
+8,1302351,"VRA Ground, Amstelveen",Netherlands,R Klein,Right-arm fast-medium,"[0, 1, 1]",0,8,4,1,0
+9,1302351,"VRA Ground, Amstelveen",Netherlands,LV van Beek,Right-arm fast-medium,"[0, 1, 1]",0,10,12,0,0
+10,1302351,"VRA Ground, Amstelveen",Netherlands,VJ Kingma,Right-arm medium,"[0, 1, 2]",0,1,2,0,0

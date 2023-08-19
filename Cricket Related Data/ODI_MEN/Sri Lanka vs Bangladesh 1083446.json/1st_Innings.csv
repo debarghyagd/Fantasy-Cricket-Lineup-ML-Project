@@ -1,0 +1,310 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tamim Iqbal,Soumya Sarkar,RAS Lakmal,0,0,null,0,0,null,null
+1,0.2,Tamim Iqbal,Soumya Sarkar,RAS Lakmal,0,0,null,0,0,null,null
+2,0.3,Tamim Iqbal,Soumya Sarkar,RAS Lakmal,2,0,null,2,0,null,null
+3,0.4,Tamim Iqbal,Soumya Sarkar,RAS Lakmal,0,0,null,0,0,null,null
+4,0.5,Tamim Iqbal,Soumya Sarkar,RAS Lakmal,0,0,null,0,0,null,null
+5,0.6,Tamim Iqbal,Soumya Sarkar,RAS Lakmal,0,0,null,0,0,null,null
+6,1.1,Soumya Sarkar,Tamim Iqbal,CBRLS Kumara,0,0,null,0,0,null,null
+7,1.2,Soumya Sarkar,Tamim Iqbal,CBRLS Kumara,0,4,legbyes ,4,0,null,null
+8,1.3,Soumya Sarkar,Tamim Iqbal,CBRLS Kumara,0,1,legbyes ,1,0,null,null
+9,1.4,Tamim Iqbal,Soumya Sarkar,CBRLS Kumara,0,0,null,0,0,null,null
+10,1.5,Tamim Iqbal,Soumya Sarkar,CBRLS Kumara,4,0,null,4,0,null,null
+11,1.6,Tamim Iqbal,Soumya Sarkar,CBRLS Kumara,0,0,null,0,0,null,null
+12,2.1,Soumya Sarkar,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+13,2.2,Soumya Sarkar,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+14,2.3,Soumya Sarkar,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+15,2.4,Soumya Sarkar,Tamim Iqbal,RAS Lakmal,2,0,null,2,0,null,null
+16,2.5,Soumya Sarkar,Tamim Iqbal,RAS Lakmal,4,0,null,4,0,null,null
+17,2.6,Soumya Sarkar,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+18,3.1,Tamim Iqbal,Soumya Sarkar,CBRLS Kumara,0,0,null,0,0,null,null
+19,3.2,Tamim Iqbal,Soumya Sarkar,CBRLS Kumara,0,0,null,0,0,null,null
+20,3.3,Tamim Iqbal,Soumya Sarkar,CBRLS Kumara,4,0,null,4,0,null,null
+21,3.4,Tamim Iqbal,Soumya Sarkar,CBRLS Kumara,0,0,null,0,0,null,null
+22,3.5,Tamim Iqbal,Soumya Sarkar,CBRLS Kumara,0,0,null,0,0,null,null
+23,3.6,Tamim Iqbal,Soumya Sarkar,CBRLS Kumara,4,0,null,4,0,null,null
+24,4.1,Soumya Sarkar,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+25,4.2,Soumya Sarkar,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+26,4.3,Soumya Sarkar,Tamim Iqbal,RAS Lakmal,4,0,null,4,0,null,null
+27,4.4,Soumya Sarkar,Tamim Iqbal,RAS Lakmal,0,0,null,0,1,Soumya Sarkar,caught
+28,4.5,Sabbir Rahman,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+29,4.6,Sabbir Rahman,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+30,5.1,Tamim Iqbal,Sabbir Rahman,CBRLS Kumara,2,0,null,2,0,null,null
+31,5.2,Tamim Iqbal,Sabbir Rahman,CBRLS Kumara,1,0,null,1,0,null,null
+32,5.3,Sabbir Rahman,Tamim Iqbal,CBRLS Kumara,0,0,null,0,0,null,null
+33,5.4,Sabbir Rahman,Tamim Iqbal,CBRLS Kumara,0,0,null,0,0,null,null
+34,5.5,Sabbir Rahman,Tamim Iqbal,CBRLS Kumara,0,0,null,0,0,null,null
+35,5.6,Sabbir Rahman,Tamim Iqbal,CBRLS Kumara,0,0,null,0,0,null,null
+36,6.1,Tamim Iqbal,Sabbir Rahman,RAS Lakmal,1,0,null,1,0,null,null
+37,6.2,Sabbir Rahman,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+38,6.3,Sabbir Rahman,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+39,6.4,Sabbir Rahman,Tamim Iqbal,RAS Lakmal,4,0,null,4,0,null,null
+40,6.5,Sabbir Rahman,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+41,6.6,Sabbir Rahman,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+42,7.1,Tamim Iqbal,Sabbir Rahman,NLTC Perera,0,0,null,0,0,null,null
+43,7.2,Tamim Iqbal,Sabbir Rahman,NLTC Perera,1,0,null,1,0,null,null
+44,7.3,Sabbir Rahman,Tamim Iqbal,NLTC Perera,0,0,null,0,0,null,null
+45,7.4,Sabbir Rahman,Tamim Iqbal,NLTC Perera,4,0,null,4,0,null,null
+46,7.5,Sabbir Rahman,Tamim Iqbal,NLTC Perera,4,0,null,4,0,null,null
+47,7.6,Sabbir Rahman,Tamim Iqbal,NLTC Perera,4,0,null,4,0,null,null
+48,8.1,Tamim Iqbal,Sabbir Rahman,RAS Lakmal,0,0,null,0,0,null,null
+49,8.2,Tamim Iqbal,Sabbir Rahman,RAS Lakmal,0,0,null,0,0,null,null
+50,8.3,Tamim Iqbal,Sabbir Rahman,RAS Lakmal,1,0,null,1,0,null,null
+51,8.4,Sabbir Rahman,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+52,8.5,Sabbir Rahman,Tamim Iqbal,RAS Lakmal,4,0,null,4,0,null,null
+53,8.6,Sabbir Rahman,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+54,9.1,Tamim Iqbal,Sabbir Rahman,CBRLS Kumara,4,0,null,4,0,null,null
+55,9.2,Tamim Iqbal,Sabbir Rahman,CBRLS Kumara,0,0,null,0,0,null,null
+56,9.3,Tamim Iqbal,Sabbir Rahman,CBRLS Kumara,0,0,null,0,0,null,null
+57,9.4,Tamim Iqbal,Sabbir Rahman,CBRLS Kumara,0,0,null,0,0,null,null
+58,9.5,Tamim Iqbal,Sabbir Rahman,CBRLS Kumara,1,0,null,1,0,null,null
+59,9.6,Sabbir Rahman,Tamim Iqbal,CBRLS Kumara,4,0,null,4,0,null,null
+60,10.1,Tamim Iqbal,Sabbir Rahman,NLTC Perera,0,0,null,0,0,null,null
+61,10.2,Tamim Iqbal,Sabbir Rahman,NLTC Perera,0,0,null,0,0,null,null
+62,10.3,Tamim Iqbal,Sabbir Rahman,NLTC Perera,1,0,null,1,0,null,null
+63,10.4,Sabbir Rahman,Tamim Iqbal,NLTC Perera,0,0,null,0,0,null,null
+64,10.5,Sabbir Rahman,Tamim Iqbal,NLTC Perera,0,0,null,0,0,null,null
+65,10.6,Sabbir Rahman,Tamim Iqbal,NLTC Perera,0,0,null,0,0,null,null
+66,11.1,Tamim Iqbal,Sabbir Rahman,SS Pathirana,0,0,null,0,0,null,null
+67,11.2,Tamim Iqbal,Sabbir Rahman,SS Pathirana,1,0,null,1,0,null,null
+68,11.3,Sabbir Rahman,Tamim Iqbal,SS Pathirana,1,0,null,1,0,null,null
+69,11.4,Tamim Iqbal,Sabbir Rahman,SS Pathirana,0,0,null,0,0,null,null
+70,11.5,Tamim Iqbal,Sabbir Rahman,SS Pathirana,1,0,null,1,0,null,null
+71,11.6,Sabbir Rahman,Tamim Iqbal,SS Pathirana,0,1,wides ,1,0,null,null
+72,11.7,Sabbir Rahman,Tamim Iqbal,SS Pathirana,0,0,null,0,0,null,null
+73,12.1,Tamim Iqbal,Sabbir Rahman,NLTC Perera,4,0,null,4,0,null,null
+74,12.2,Tamim Iqbal,Sabbir Rahman,NLTC Perera,0,1,legbyes ,1,0,null,null
+75,12.3,Sabbir Rahman,Tamim Iqbal,NLTC Perera,4,0,null,4,0,null,null
+76,12.4,Sabbir Rahman,Tamim Iqbal,NLTC Perera,1,0,null,1,0,null,null
+77,12.5,Tamim Iqbal,Sabbir Rahman,NLTC Perera,0,0,null,0,0,null,null
+78,12.6,Tamim Iqbal,Sabbir Rahman,NLTC Perera,0,0,null,0,0,null,null
+79,13.1,Sabbir Rahman,Tamim Iqbal,SS Pathirana,4,0,null,4,0,null,null
+80,13.2,Sabbir Rahman,Tamim Iqbal,SS Pathirana,1,0,null,1,0,null,null
+81,13.3,Tamim Iqbal,Sabbir Rahman,SS Pathirana,0,0,null,0,0,null,null
+82,13.4,Tamim Iqbal,Sabbir Rahman,SS Pathirana,1,0,null,1,0,null,null
+83,13.5,Sabbir Rahman,Tamim Iqbal,SS Pathirana,0,0,null,0,0,null,null
+84,13.6,Sabbir Rahman,Tamim Iqbal,SS Pathirana,1,0,null,1,0,null,null
+85,14.1,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,1,0,null,1,0,null,null
+86,14.2,Tamim Iqbal,Sabbir Rahman,PADLR Sandakan,0,0,null,0,0,null,null
+87,14.3,Tamim Iqbal,Sabbir Rahman,PADLR Sandakan,0,0,null,0,0,null,null
+88,14.4,Tamim Iqbal,Sabbir Rahman,PADLR Sandakan,0,0,null,0,0,null,null
+89,14.5,Tamim Iqbal,Sabbir Rahman,PADLR Sandakan,1,0,null,1,0,null,null
+90,14.6,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,1,0,null,1,0,null,null
+91,15.1,Sabbir Rahman,Tamim Iqbal,SS Pathirana,0,0,null,0,0,null,null
+92,15.2,Sabbir Rahman,Tamim Iqbal,SS Pathirana,0,0,null,0,0,null,null
+93,15.3,Sabbir Rahman,Tamim Iqbal,SS Pathirana,1,0,null,1,0,null,null
+94,15.4,Tamim Iqbal,Sabbir Rahman,SS Pathirana,1,0,null,1,0,null,null
+95,15.5,Sabbir Rahman,Tamim Iqbal,SS Pathirana,1,0,null,1,0,null,null
+96,15.6,Tamim Iqbal,Sabbir Rahman,SS Pathirana,0,0,null,0,0,null,null
+97,16.1,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,2,0,null,2,0,null,null
+98,16.2,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,0,0,null,0,0,null,null
+99,16.3,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,0,0,null,0,0,null,null
+100,16.4,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,0,0,null,0,0,null,null
+101,16.5,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,0,0,null,0,0,null,null
+102,16.6,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,0,0,null,0,0,null,null
+103,17.1,Tamim Iqbal,Sabbir Rahman,SS Pathirana,2,0,null,2,0,null,null
+104,17.2,Tamim Iqbal,Sabbir Rahman,SS Pathirana,0,0,null,0,0,null,null
+105,17.3,Tamim Iqbal,Sabbir Rahman,SS Pathirana,0,0,null,0,0,null,null
+106,17.4,Tamim Iqbal,Sabbir Rahman,SS Pathirana,0,0,null,0,0,null,null
+107,17.5,Tamim Iqbal,Sabbir Rahman,SS Pathirana,1,0,null,1,0,null,null
+108,17.6,Sabbir Rahman,Tamim Iqbal,SS Pathirana,1,0,null,1,0,null,null
+109,18.1,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,0,1,wides ,1,0,null,null
+110,18.2,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,1,0,null,1,0,null,null
+111,18.3,Tamim Iqbal,Sabbir Rahman,PADLR Sandakan,0,0,null,0,0,null,null
+112,18.4,Tamim Iqbal,Sabbir Rahman,PADLR Sandakan,0,0,null,0,0,null,null
+113,18.5,Tamim Iqbal,Sabbir Rahman,PADLR Sandakan,0,0,null,0,0,null,null
+114,18.6,Tamim Iqbal,Sabbir Rahman,PADLR Sandakan,1,0,null,1,0,null,null
+115,18.7,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,4,0,null,4,0,null,null
+116,19.1,Tamim Iqbal,Sabbir Rahman,SS Pathirana,1,0,null,1,0,null,null
+117,19.2,Sabbir Rahman,Tamim Iqbal,SS Pathirana,0,5,wides ,5,0,null,null
+118,19.3,Sabbir Rahman,Tamim Iqbal,SS Pathirana,0,0,null,0,0,null,null
+119,19.4,Sabbir Rahman,Tamim Iqbal,SS Pathirana,1,0,null,1,0,null,null
+120,19.5,Tamim Iqbal,Sabbir Rahman,SS Pathirana,0,0,null,0,0,null,null
+121,19.6,Tamim Iqbal,Sabbir Rahman,SS Pathirana,1,0,null,1,0,null,null
+122,19.7,Sabbir Rahman,Tamim Iqbal,SS Pathirana,1,0,null,1,0,null,null
+123,20.1,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,0,0,null,0,0,null,null
+124,20.2,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,0,0,null,0,0,null,null
+125,20.3,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,0,0,null,0,0,null,null
+126,20.4,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,4,0,null,4,0,null,null
+127,20.5,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,0,0,null,0,0,null,null
+128,20.6,Sabbir Rahman,Tamim Iqbal,PADLR Sandakan,0,0,null,0,0,null,null
+129,21.1,Tamim Iqbal,Sabbir Rahman,DAS Gunaratne,1,0,null,1,0,null,null
+130,21.2,Sabbir Rahman,Tamim Iqbal,DAS Gunaratne,0,0,null,0,0,null,null
+131,21.3,Sabbir Rahman,Tamim Iqbal,DAS Gunaratne,0,0,null,0,1,Sabbir Rahman,caught
+132,21.4,Mushfiqur Rahim,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+133,21.5,Tamim Iqbal,Mushfiqur Rahim,DAS Gunaratne,0,0,null,0,0,null,null
+134,21.6,Tamim Iqbal,Mushfiqur Rahim,DAS Gunaratne,0,0,null,0,0,null,null
+135,22.1,Mushfiqur Rahim,Tamim Iqbal,PADLR Sandakan,0,0,null,0,1,Mushfiqur Rahim,caught and bowled
+136,22.2,Shakib Al Hasan,Tamim Iqbal,PADLR Sandakan,2,0,null,2,0,null,null
+137,22.3,Shakib Al Hasan,Tamim Iqbal,PADLR Sandakan,1,0,null,1,0,null,null
+138,22.4,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,0,0,null,0,0,null,null
+139,22.5,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,0,0,null,0,0,null,null
+140,22.6,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,1,0,null,1,0,null,null
+141,23.1,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+142,23.2,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+143,23.3,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+144,23.4,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+145,23.5,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+146,23.6,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,0,0,null,0,0,null,null
+147,24.1,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,0,0,null,0,0,null,null
+148,24.2,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,4,0,null,4,0,null,null
+149,24.3,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,0,0,null,0,0,null,null
+150,24.4,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,0,0,null,0,0,null,null
+151,24.5,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,0,0,null,0,0,null,null
+152,24.6,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,0,0,null,0,0,null,null
+153,25.1,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+154,25.2,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+155,25.3,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+156,25.4,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+157,25.5,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+158,25.6,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+159,26.1,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,2,0,null,2,0,null,null
+160,26.2,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,1,0,null,1,0,null,null
+161,26.3,Shakib Al Hasan,Tamim Iqbal,MD Gunathilaka,1,0,null,1,0,null,null
+162,26.4,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,0,0,null,0,0,null,null
+163,26.5,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,1,0,null,1,0,null,null
+164,26.6,Shakib Al Hasan,Tamim Iqbal,MD Gunathilaka,0,0,null,0,0,null,null
+165,27.1,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+166,27.2,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+167,27.3,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+168,27.4,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+169,27.5,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+170,27.6,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+171,28.1,Shakib Al Hasan,Tamim Iqbal,MD Gunathilaka,0,0,null,0,0,null,null
+172,28.2,Shakib Al Hasan,Tamim Iqbal,MD Gunathilaka,1,0,null,1,0,null,null
+173,28.3,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,1,0,null,1,0,null,null
+174,28.4,Shakib Al Hasan,Tamim Iqbal,MD Gunathilaka,1,0,null,1,0,null,null
+175,28.5,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,0,0,null,0,0,null,null
+176,28.6,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,0,0,null,0,0,null,null
+177,29.1,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+178,29.2,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+179,29.3,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+180,29.4,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+181,29.5,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,1,wides ,1,0,null,null
+182,29.6,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+183,29.7,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+184,30.1,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,0,0,null,0,0,null,null
+185,30.2,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,4,0,null,4,0,null,null
+186,30.3,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,1,0,null,1,0,null,null
+187,30.4,Shakib Al Hasan,Tamim Iqbal,MD Gunathilaka,1,0,null,1,0,null,null
+188,30.5,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,4,0,null,4,0,null,null
+189,30.6,Tamim Iqbal,Shakib Al Hasan,MD Gunathilaka,4,0,null,4,0,null,null
+190,31.1,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,2,0,null,2,0,null,null
+191,31.2,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,0,0,null,0,0,null,null
+192,31.3,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,0,0,null,0,0,null,null
+193,31.4,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,0,0,null,0,0,null,null
+194,31.5,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+195,31.6,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+196,32.1,Shakib Al Hasan,Tamim Iqbal,PADLR Sandakan,0,1,wides ,1,0,null,null
+197,32.2,Shakib Al Hasan,Tamim Iqbal,PADLR Sandakan,1,0,null,1,0,null,null
+198,32.3,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,0,1,wides ,1,0,null,null
+199,32.4,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,0,0,null,0,0,null,null
+200,32.5,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,1,0,null,1,0,null,null
+201,32.6,Shakib Al Hasan,Tamim Iqbal,PADLR Sandakan,1,0,null,1,0,null,null
+202,32.7,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,4,0,null,4,0,null,null
+203,32.8,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,2,0,null,2,0,null,null
+204,33.1,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,1,0,null,1,0,null,null
+205,33.2,Tamim Iqbal,Shakib Al Hasan,RAS Lakmal,1,0,null,1,0,null,null
+206,33.3,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+207,33.4,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,0,1,legbyes ,1,0,null,null
+208,33.5,Tamim Iqbal,Shakib Al Hasan,RAS Lakmal,0,0,null,0,0,null,null
+209,33.6,Tamim Iqbal,Shakib Al Hasan,RAS Lakmal,4,0,null,4,0,null,null
+210,34.1,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+211,34.2,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+212,34.3,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+213,34.4,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,1,legbyes ,1,0,null,null
+214,34.5,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,0,0,null,0,0,null,null
+215,34.6,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,0,0,null,0,0,null,null
+216,35.1,Tamim Iqbal,Shakib Al Hasan,RAS Lakmal,1,0,null,1,0,null,null
+217,35.2,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+218,35.3,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,2,0,null,2,0,null,null
+219,35.4,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+220,35.5,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,2,0,null,2,0,null,null
+221,35.6,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+222,36.1,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+223,36.2,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,0,0,null,0,0,null,null
+224,36.3,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,4,0,null,4,0,null,null
+225,36.4,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,2,0,null,2,0,null,null
+226,36.5,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+227,36.6,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+228,37.1,Shakib Al Hasan,Tamim Iqbal,NLTC Perera,0,0,null,0,0,null,null
+229,37.2,Shakib Al Hasan,Tamim Iqbal,NLTC Perera,0,0,null,0,0,null,null
+230,37.3,Shakib Al Hasan,Tamim Iqbal,NLTC Perera,2,0,null,2,0,null,null
+231,37.4,Shakib Al Hasan,Tamim Iqbal,NLTC Perera,0,0,null,0,0,null,null
+232,37.5,Shakib Al Hasan,Tamim Iqbal,NLTC Perera,0,1,legbyes ,1,0,null,null
+233,37.6,Tamim Iqbal,Shakib Al Hasan,NLTC Perera,1,0,null,1,0,null,null
+234,38.1,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+235,38.2,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+236,38.3,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+237,38.4,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+238,38.5,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+239,38.6,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,0,0,null,0,0,null,null
+240,39.1,Shakib Al Hasan,Tamim Iqbal,NLTC Perera,1,0,null,1,0,null,null
+241,39.2,Tamim Iqbal,Shakib Al Hasan,NLTC Perera,0,0,null,0,0,null,null
+242,39.3,Tamim Iqbal,Shakib Al Hasan,NLTC Perera,2,0,null,2,0,null,null
+243,39.4,Tamim Iqbal,Shakib Al Hasan,NLTC Perera,0,0,null,0,0,null,null
+244,39.5,Tamim Iqbal,Shakib Al Hasan,NLTC Perera,1,0,null,1,0,null,null
+245,39.6,Shakib Al Hasan,Tamim Iqbal,NLTC Perera,1,0,null,1,0,null,null
+246,40.1,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,1,0,null,1,0,null,null
+247,40.2,Tamim Iqbal,Shakib Al Hasan,DAS Gunaratne,1,0,null,1,0,null,null
+248,40.3,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,0,0,null,0,0,null,null
+249,40.4,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,0,0,null,0,0,null,null
+250,40.5,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,2,0,null,2,0,null,null
+251,40.6,Shakib Al Hasan,Tamim Iqbal,DAS Gunaratne,2,0,null,2,0,null,null
+252,41.1,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,0,0,null,0,0,null,null
+253,41.2,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,4,0,null,4,0,null,null
+254,41.3,Tamim Iqbal,Shakib Al Hasan,PADLR Sandakan,1,0,null,1,0,null,null
+255,41.4,Shakib Al Hasan,Tamim Iqbal,PADLR Sandakan,0,0,null,0,0,null,null
+256,41.5,Shakib Al Hasan,Tamim Iqbal,PADLR Sandakan,2,0,null,2,0,null,null
+257,41.6,Shakib Al Hasan,Tamim Iqbal,PADLR Sandakan,1,0,null,1,0,null,null
+258,42.1,Shakib Al Hasan,Tamim Iqbal,CBRLS Kumara,1,0,null,1,0,null,null
+259,42.2,Tamim Iqbal,Shakib Al Hasan,CBRLS Kumara,1,0,null,1,0,null,null
+260,42.3,Shakib Al Hasan,Tamim Iqbal,CBRLS Kumara,1,0,null,1,0,null,null
+261,42.4,Tamim Iqbal,Shakib Al Hasan,CBRLS Kumara,1,0,null,1,0,null,null
+262,42.5,Shakib Al Hasan,Tamim Iqbal,CBRLS Kumara,0,0,null,0,0,null,null
+263,42.6,Shakib Al Hasan,Tamim Iqbal,CBRLS Kumara,1,0,null,1,0,null,null
+264,43.1,Shakib Al Hasan,Tamim Iqbal,NLTC Perera,0,0,null,0,0,null,null
+265,43.2,Shakib Al Hasan,Tamim Iqbal,NLTC Perera,1,0,null,1,0,null,null
+266,43.3,Tamim Iqbal,Shakib Al Hasan,NLTC Perera,4,0,null,4,0,null,null
+267,43.4,Tamim Iqbal,Shakib Al Hasan,NLTC Perera,0,0,null,0,0,null,null
+268,43.5,Tamim Iqbal,Shakib Al Hasan,NLTC Perera,1,0,null,1,0,null,null
+269,43.6,Shakib Al Hasan,Tamim Iqbal,NLTC Perera,1,0,null,1,0,null,null
+270,44.1,Shakib Al Hasan,Tamim Iqbal,CBRLS Kumara,1,0,null,1,0,null,null
+271,44.2,Tamim Iqbal,Shakib Al Hasan,CBRLS Kumara,1,0,null,1,0,null,null
+272,44.3,Shakib Al Hasan,Tamim Iqbal,CBRLS Kumara,4,0,null,4,0,null,null
+273,44.4,Shakib Al Hasan,Tamim Iqbal,CBRLS Kumara,4,0,null,4,0,null,null
+274,44.5,Shakib Al Hasan,Tamim Iqbal,CBRLS Kumara,4,0,null,4,0,null,null
+275,44.6,Shakib Al Hasan,Tamim Iqbal,CBRLS Kumara,1,0,null,1,0,null,null
+276,45.1,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,0,0,null,0,0,null,null
+277,45.2,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,1,0,null,1,0,null,null
+278,45.3,Tamim Iqbal,Shakib Al Hasan,RAS Lakmal,1,0,null,1,0,null,null
+279,45.4,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,6,0,null,6,0,null,null
+280,45.5,Shakib Al Hasan,Tamim Iqbal,RAS Lakmal,0,0,null,0,1,Shakib Al Hasan,caught
+281,45.6,Mosaddek Hossain,Tamim Iqbal,RAS Lakmal,4,0,null,4,0,null,null
+282,46.1,Tamim Iqbal,Mosaddek Hossain,NLTC Perera,4,0,null,4,0,null,null
+283,46.2,Tamim Iqbal,Mosaddek Hossain,NLTC Perera,0,0,null,0,0,null,null
+284,46.3,Tamim Iqbal,Mosaddek Hossain,NLTC Perera,2,0,null,2,0,null,null
+285,46.4,Tamim Iqbal,Mosaddek Hossain,NLTC Perera,1,0,null,1,0,null,null
+286,46.5,Mosaddek Hossain,Tamim Iqbal,NLTC Perera,1,0,null,1,0,null,null
+287,46.6,Tamim Iqbal,Mosaddek Hossain,NLTC Perera,1,0,null,1,0,null,null
+288,47.1,Tamim Iqbal,Mosaddek Hossain,CBRLS Kumara,4,0,null,4,0,null,null
+289,47.2,Tamim Iqbal,Mosaddek Hossain,CBRLS Kumara,1,0,null,1,0,null,null
+290,47.3,Mosaddek Hossain,Tamim Iqbal,CBRLS Kumara,1,0,null,1,0,null,null
+291,47.4,Tamim Iqbal,Mosaddek Hossain,CBRLS Kumara,6,0,null,6,0,null,null
+292,47.5,Tamim Iqbal,Mosaddek Hossain,CBRLS Kumara,0,0,null,0,1,Tamim Iqbal,caught
+293,47.6,Mahmudullah,Mosaddek Hossain,CBRLS Kumara,0,1,wides ,1,0,null,null
+294,47.7,Mahmudullah,Mosaddek Hossain,CBRLS Kumara,1,0,null,1,0,null,null
+295,48.1,Mahmudullah,Mosaddek Hossain,NLTC Perera,0,1,legbyes ,1,0,null,null
+296,48.2,Mosaddek Hossain,Mahmudullah,NLTC Perera,4,0,null,4,0,null,null
+297,48.3,Mosaddek Hossain,Mahmudullah,NLTC Perera,1,0,null,1,0,null,null
+298,48.4,Mahmudullah,Mosaddek Hossain,NLTC Perera,6,0,null,6,0,null,null
+299,48.5,Mahmudullah,Mosaddek Hossain,NLTC Perera,1,0,null,1,0,null,null
+300,48.6,Mosaddek Hossain,Mahmudullah,NLTC Perera,4,0,null,4,0,null,null
+301,49.1,Mahmudullah,Mosaddek Hossain,CBRLS Kumara,2,0,null,2,0,null,null
+302,49.2,Mahmudullah,Mosaddek Hossain,CBRLS Kumara,0,1,wides ,1,0,null,null
+303,49.3,Mahmudullah,Mosaddek Hossain,CBRLS Kumara,0,1,wides ,1,0,null,null
+304,49.4,Mahmudullah,Mosaddek Hossain,CBRLS Kumara,1,0,null,1,0,null,null
+305,49.5,Mosaddek Hossain,Mahmudullah,CBRLS Kumara,2,0,null,2,0,null,null
+306,49.6,Mosaddek Hossain,Mahmudullah,CBRLS Kumara,6,0,null,6,0,null,null
+307,49.7,Mosaddek Hossain,Mahmudullah,CBRLS Kumara,1,0,null,1,0,null,null
+308,49.8,Mahmudullah,Mosaddek Hossain,CBRLS Kumara,2,0,null,2,0,null,null

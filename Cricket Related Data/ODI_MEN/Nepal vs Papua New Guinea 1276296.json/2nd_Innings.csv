@@ -1,0 +1,117 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,TP Ura,L Siaka,Sompal Kami,0,0,null,0,0,null,null
+1,0.2,TP Ura,L Siaka,Sompal Kami,0,0,null,0,0,null,null
+2,0.3,TP Ura,L Siaka,Sompal Kami,0,0,null,0,0,null,null
+3,0.4,TP Ura,L Siaka,Sompal Kami,0,0,null,0,0,null,null
+4,0.5,TP Ura,L Siaka,Sompal Kami,0,0,null,0,0,null,null
+5,0.6,TP Ura,L Siaka,Sompal Kami,1,0,null,1,0,null,null
+6,1.1,TP Ura,L Siaka,Bikram Sob,0,0,null,0,0,null,null
+7,1.2,TP Ura,L Siaka,Bikram Sob,0,0,null,0,0,null,null
+8,1.3,TP Ura,L Siaka,Bikram Sob,0,0,null,0,0,null,null
+9,1.4,TP Ura,L Siaka,Bikram Sob,0,0,null,0,0,null,null
+10,1.5,TP Ura,L Siaka,Bikram Sob,0,0,null,0,0,null,null
+11,1.6,TP Ura,L Siaka,Bikram Sob,2,0,null,2,0,null,null
+12,2.1,L Siaka,TP Ura,Sompal Kami,4,0,null,4,0,null,null
+13,2.2,L Siaka,TP Ura,Sompal Kami,0,0,null,0,0,null,null
+14,2.3,L Siaka,TP Ura,Sompal Kami,0,0,null,0,1,L Siaka,bowled
+15,2.4,A Vala,TP Ura,Sompal Kami,1,0,null,1,0,null,null
+16,2.5,TP Ura,A Vala,Sompal Kami,0,0,null,0,0,null,null
+17,2.6,TP Ura,A Vala,Sompal Kami,0,1,wides ,1,0,null,null
+18,2.7,TP Ura,A Vala,Sompal Kami,1,0,null,1,0,null,null
+19,3.1,TP Ura,A Vala,Bikram Sob,0,0,null,0,0,null,null
+20,3.2,TP Ura,A Vala,Bikram Sob,0,0,null,0,0,null,null
+21,3.3,TP Ura,A Vala,Bikram Sob,0,0,null,0,0,null,null
+22,3.4,TP Ura,A Vala,Bikram Sob,1,0,null,1,0,null,null
+23,3.5,A Vala,TP Ura,Bikram Sob,0,0,null,0,1,A Vala,caught
+24,3.6,CJA Amini,TP Ura,Bikram Sob,0,0,null,0,0,null,null
+25,4.1,TP Ura,CJA Amini,Sompal Kami,1,0,null,1,0,null,null
+26,4.2,CJA Amini,TP Ura,Sompal Kami,0,0,null,0,0,null,null
+27,4.3,CJA Amini,TP Ura,Sompal Kami,0,0,null,0,0,null,null
+28,4.4,CJA Amini,TP Ura,Sompal Kami,3,0,null,3,0,null,null
+29,4.5,TP Ura,CJA Amini,Sompal Kami,1,0,null,1,0,null,null
+30,4.6,CJA Amini,TP Ura,Sompal Kami,0,0,null,0,0,null,null
+31,5.1,TP Ura,CJA Amini,Bikram Sob,1,0,null,1,0,null,null
+32,5.2,CJA Amini,TP Ura,Bikram Sob,0,0,null,0,0,null,null
+33,5.3,CJA Amini,TP Ura,Bikram Sob,2,0,null,2,0,null,null
+34,5.4,CJA Amini,TP Ura,Bikram Sob,0,0,null,0,0,null,null
+35,5.5,CJA Amini,TP Ura,Bikram Sob,0,0,null,0,0,null,null
+36,5.6,CJA Amini,TP Ura,Bikram Sob,0,0,null,0,0,null,null
+37,6.1,TP Ura,CJA Amini,Sompal Kami,0,0,null,0,0,null,null
+38,6.2,TP Ura,CJA Amini,Sompal Kami,0,0,null,0,0,null,null
+39,6.3,TP Ura,CJA Amini,Sompal Kami,0,0,null,0,0,null,null
+40,6.4,TP Ura,CJA Amini,Sompal Kami,4,0,null,4,0,null,null
+41,6.5,TP Ura,CJA Amini,Sompal Kami,0,0,null,0,0,null,null
+42,6.6,TP Ura,CJA Amini,Sompal Kami,4,0,null,4,0,null,null
+43,7.1,CJA Amini,TP Ura,Bikram Sob,4,0,null,4,0,null,null
+44,7.2,CJA Amini,TP Ura,Bikram Sob,1,0,null,1,0,null,null
+45,7.3,TP Ura,CJA Amini,Bikram Sob,2,0,null,2,0,null,null
+46,7.4,TP Ura,CJA Amini,Bikram Sob,0,0,null,0,0,null,null
+47,7.5,TP Ura,CJA Amini,Bikram Sob,0,0,null,0,0,null,null
+48,7.6,TP Ura,CJA Amini,Bikram Sob,0,0,null,0,0,null,null
+49,8.1,CJA Amini,TP Ura,Karan KC,0,0,null,0,0,null,null
+50,8.2,CJA Amini,TP Ura,Karan KC,1,0,null,1,0,null,null
+51,8.3,TP Ura,CJA Amini,Karan KC,1,0,null,1,0,null,null
+52,8.4,CJA Amini,TP Ura,Karan KC,2,0,null,2,0,null,null
+53,8.5,CJA Amini,TP Ura,Karan KC,1,0,null,1,0,null,null
+54,8.6,TP Ura,CJA Amini,Karan KC,0,0,null,0,0,null,null
+55,9.1,CJA Amini,TP Ura,S Lamichhane,0,0,null,0,0,null,null
+56,9.2,CJA Amini,TP Ura,S Lamichhane,1,0,null,1,0,null,null
+57,9.3,TP Ura,CJA Amini,S Lamichhane,0,0,null,0,0,null,null
+58,9.4,TP Ura,CJA Amini,S Lamichhane,0,0,null,0,1,TP Ura,run out
+59,9.5,CJA Amini,S Bau,S Lamichhane,0,0,null,0,0,null,null
+60,9.6,CJA Amini,S Bau,S Lamichhane,0,0,null,0,0,null,null
+61,10.1,S Bau,CJA Amini,Karan KC,2,0,null,2,0,null,null
+62,10.2,S Bau,CJA Amini,Karan KC,1,0,null,1,0,null,null
+63,10.3,CJA Amini,S Bau,Karan KC,0,0,null,0,0,null,null
+64,10.4,CJA Amini,S Bau,Karan KC,0,0,null,0,0,null,null
+65,10.5,CJA Amini,S Bau,Karan KC,1,0,null,1,0,null,null
+66,10.6,S Bau,CJA Amini,Karan KC,0,0,null,0,0,null,null
+67,11.1,CJA Amini,S Bau,S Lamichhane,0,0,null,0,0,null,null
+68,11.2,CJA Amini,S Bau,S Lamichhane,0,0,null,0,1,CJA Amini,lbw
+69,11.3,K Doriga,S Bau,S Lamichhane,1,0,null,1,0,null,null
+70,11.4,S Bau,K Doriga,S Lamichhane,0,0,null,0,0,null,null
+71,11.5,S Bau,K Doriga,S Lamichhane,0,0,null,0,0,null,null
+72,11.6,S Bau,K Doriga,S Lamichhane,0,0,null,0,0,null,null
+73,12.1,K Doriga,S Bau,Karan KC,0,0,null,0,0,null,null
+74,12.2,K Doriga,S Bau,Karan KC,0,0,null,0,0,null,null
+75,12.3,K Doriga,S Bau,Karan KC,2,0,null,2,0,null,null
+76,12.4,K Doriga,S Bau,Karan KC,0,0,null,0,0,null,null
+77,12.5,K Doriga,S Bau,Karan KC,1,0,null,1,0,null,null
+78,12.6,S Bau,K Doriga,Karan KC,4,0,null,4,0,null,null
+79,13.1,K Doriga,S Bau,S Lamichhane,0,0,null,0,0,null,null
+80,13.2,K Doriga,S Bau,S Lamichhane,0,0,null,0,0,null,null
+81,13.3,K Doriga,S Bau,S Lamichhane,0,0,null,0,0,null,null
+82,13.4,K Doriga,S Bau,S Lamichhane,0,0,null,0,1,K Doriga,lbw
+83,13.5,G Toka,S Bau,S Lamichhane,0,0,null,0,0,null,null
+84,13.6,G Toka,S Bau,S Lamichhane,1,0,null,1,0,null,null
+85,14.1,G Toka,S Bau,Karan KC,1,0,null,1,0,null,null
+86,14.2,S Bau,G Toka,Karan KC,0,0,null,0,0,null,null
+87,14.3,S Bau,G Toka,Karan KC,2,0,null,2,0,null,null
+88,14.4,S Bau,G Toka,Karan KC,1,0,null,1,0,null,null
+89,14.5,G Toka,S Bau,Karan KC,0,0,null,0,0,null,null
+90,14.6,G Toka,S Bau,Karan KC,6,0,null,6,0,null,null
+91,15.1,S Bau,G Toka,S Lamichhane,0,0,null,0,0,null,null
+92,15.2,S Bau,G Toka,S Lamichhane,1,0,null,1,0,null,null
+93,15.3,G Toka,S Bau,S Lamichhane,0,0,null,0,0,null,null
+94,15.4,G Toka,S Bau,S Lamichhane,0,0,null,0,0,null,null
+95,15.5,G Toka,S Bau,S Lamichhane,1,0,null,1,0,null,null
+96,15.6,S Bau,G Toka,S Lamichhane,0,0,null,0,1,S Bau,bowled
+97,16.1,G Toka,N Vanua,S Bhari,0,0,null,0,0,null,null
+98,16.2,G Toka,N Vanua,S Bhari,0,0,null,0,0,null,null
+99,16.3,G Toka,N Vanua,S Bhari,1,0,null,1,0,null,null
+100,16.4,N Vanua,G Toka,S Bhari,6,0,null,6,0,null,null
+101,16.5,N Vanua,G Toka,S Bhari,0,0,null,0,0,null,null
+102,16.6,N Vanua,G Toka,S Bhari,0,0,null,0,0,null,null
+103,17.1,G Toka,N Vanua,S Lamichhane,0,0,null,0,1,G Toka,caught
+104,17.2,N Vanua,CA Soper,S Lamichhane,0,0,null,0,0,null,null
+105,17.3,N Vanua,CA Soper,S Lamichhane,6,0,null,6,0,null,null
+106,17.4,N Vanua,CA Soper,S Lamichhane,0,0,null,0,0,null,null
+107,17.5,N Vanua,CA Soper,S Lamichhane,0,3,byes ,3,0,null,null
+108,17.6,CA Soper,N Vanua,S Lamichhane,0,0,null,0,1,CA Soper,bowled
+109,18.1,N Vanua,D Ravu,S Bhari,0,0,null,0,0,null,null
+110,18.2,N Vanua,D Ravu,S Bhari,0,0,null,0,0,null,null
+111,18.3,N Vanua,D Ravu,S Bhari,0,0,null,0,1,N Vanua,caught
+112,18.4,KV Morea,D Ravu,S Bhari,0,0,null,0,0,null,null
+113,18.5,KV Morea,D Ravu,S Bhari,0,0,null,0,0,null,null
+114,18.6,KV Morea,D Ravu,S Bhari,1,0,null,1,0,null,null
+115,19.1,KV Morea,D Ravu,S Lamichhane,0,0,null,0,1,KV Morea,caught

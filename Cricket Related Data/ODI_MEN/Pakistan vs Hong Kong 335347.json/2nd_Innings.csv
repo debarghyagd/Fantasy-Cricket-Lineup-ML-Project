@@ -1,0 +1,237 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tabarak Dar,Skhawat Ali,Umar Gul,0,1,byes ,1,0,null,null
+1,0.2,Skhawat Ali,Tabarak Dar,Umar Gul,0,0,null,0,0,null,null
+2,0.3,Skhawat Ali,Tabarak Dar,Umar Gul,1,0,null,1,0,null,null
+3,0.4,Tabarak Dar,Skhawat Ali,Umar Gul,0,0,null,0,0,null,null
+4,0.5,Tabarak Dar,Skhawat Ali,Umar Gul,1,0,null,1,0,null,null
+5,0.6,Skhawat Ali,Tabarak Dar,Umar Gul,0,0,null,0,0,null,null
+6,1.1,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+7,1.2,Tabarak Dar,Skhawat Ali,Sohail Tanvir,1,0,null,1,0,null,null
+8,1.3,Skhawat Ali,Tabarak Dar,Sohail Tanvir,0,1,wides ,1,0,null,null
+9,1.4,Skhawat Ali,Tabarak Dar,Sohail Tanvir,0,0,null,0,0,null,null
+10,1.5,Skhawat Ali,Tabarak Dar,Sohail Tanvir,0,0,null,0,0,null,null
+11,1.6,Skhawat Ali,Tabarak Dar,Sohail Tanvir,0,0,null,0,0,null,null
+12,1.7,Skhawat Ali,Tabarak Dar,Sohail Tanvir,0,1,wides ,1,0,null,null
+13,1.8,Skhawat Ali,Tabarak Dar,Sohail Tanvir,0,0,null,0,0,null,null
+14,2.1,Tabarak Dar,Skhawat Ali,Umar Gul,4,0,null,4,0,null,null
+15,2.2,Tabarak Dar,Skhawat Ali,Umar Gul,0,0,null,0,0,null,null
+16,2.3,Tabarak Dar,Skhawat Ali,Umar Gul,0,0,null,0,0,null,null
+17,2.4,Tabarak Dar,Skhawat Ali,Umar Gul,1,0,null,1,0,null,null
+18,2.5,Skhawat Ali,Tabarak Dar,Umar Gul,0,0,null,0,0,null,null
+19,2.6,Skhawat Ali,Tabarak Dar,Umar Gul,0,0,null,0,0,null,null
+20,3.1,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,1,wides ,1,0,null,null
+21,3.2,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+22,3.3,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+23,3.4,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+24,3.5,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+25,3.6,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+26,3.7,Tabarak Dar,Skhawat Ali,Sohail Tanvir,4,0,null,4,0,null,null
+27,4.1,Skhawat Ali,Tabarak Dar,Umar Gul,0,0,null,0,0,null,null
+28,4.2,Skhawat Ali,Tabarak Dar,Umar Gul,0,0,null,0,0,null,null
+29,4.3,Skhawat Ali,Tabarak Dar,Umar Gul,2,0,null,2,0,null,null
+30,4.4,Skhawat Ali,Tabarak Dar,Umar Gul,4,0,null,4,0,null,null
+31,4.5,Skhawat Ali,Tabarak Dar,Umar Gul,0,0,null,0,0,null,null
+32,4.6,Skhawat Ali,Tabarak Dar,Umar Gul,0,0,null,0,0,null,null
+33,5.1,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+34,5.2,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+35,5.3,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+36,5.4,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+37,5.5,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+38,5.6,Tabarak Dar,Skhawat Ali,Sohail Tanvir,0,0,null,0,0,null,null
+39,6.1,Skhawat Ali,Tabarak Dar,Umar Gul,1,0,null,1,0,null,null
+40,6.2,Tabarak Dar,Skhawat Ali,Umar Gul,4,0,null,4,0,null,null
+41,6.3,Tabarak Dar,Skhawat Ali,Umar Gul,0,0,null,0,0,null,null
+42,6.4,Tabarak Dar,Skhawat Ali,Umar Gul,0,0,null,0,0,null,null
+43,6.5,Tabarak Dar,Skhawat Ali,Umar Gul,0,0,null,0,0,null,null
+44,6.6,Tabarak Dar,Skhawat Ali,Umar Gul,0,0,null,0,0,null,null
+45,7.1,Skhawat Ali,Irfan Ahmed,Sohail Tanvir,0,1,wides ,1,0,null,null
+46,7.2,Skhawat Ali,Irfan Ahmed,Sohail Tanvir,0,0,null,0,0,null,null
+47,7.3,Skhawat Ali,Irfan Ahmed,Sohail Tanvir,0,0,null,0,0,null,null
+48,7.4,Skhawat Ali,Irfan Ahmed,Sohail Tanvir,0,0,null,0,0,null,null
+49,7.5,Skhawat Ali,Irfan Ahmed,Sohail Tanvir,0,0,null,0,1,Skhawat Ali,caught
+50,7.6,KH Butt,Irfan Ahmed,Sohail Tanvir,0,0,null,0,0,null,null
+51,7.7,KH Butt,Irfan Ahmed,Sohail Tanvir,0,0,null,0,0,null,null
+52,8.1,Irfan Ahmed,KH Butt,Iftikhar Anjum,0,0,null,0,1,Irfan Ahmed,bowled
+53,8.2,CK Kruger,KH Butt,Iftikhar Anjum,0,0,null,0,0,null,null
+54,8.3,CK Kruger,KH Butt,Iftikhar Anjum,0,2,wides ,2,0,null,null
+55,8.4,KH Butt,CK Kruger,Iftikhar Anjum,0,0,null,0,0,null,null
+56,8.5,KH Butt,CK Kruger,Iftikhar Anjum,0,1,legbyes ,1,0,null,null
+57,8.6,CK Kruger,KH Butt,Iftikhar Anjum,0,0,null,0,0,null,null
+58,8.7,CK Kruger,KH Butt,Iftikhar Anjum,0,0,null,0,0,null,null
+59,9.1,KH Butt,CK Kruger,Sohail Tanvir,1,0,null,1,0,null,null
+60,9.2,CK Kruger,KH Butt,Sohail Tanvir,0,0,null,0,1,CK Kruger,bowled
+61,9.3,Zain Abbas,KH Butt,Sohail Tanvir,0,0,null,0,0,null,null
+62,9.4,Zain Abbas,KH Butt,Sohail Tanvir,0,0,null,0,0,null,null
+63,9.5,Zain Abbas,KH Butt,Sohail Tanvir,4,0,null,4,0,null,null
+64,9.6,Zain Abbas,KH Butt,Sohail Tanvir,0,1,wides ,1,0,null,null
+65,9.7,Zain Abbas,KH Butt,Sohail Tanvir,0,0,null,0,0,null,null
+66,10.1,KH Butt,Zain Abbas,Iftikhar Anjum,1,0,null,1,0,null,null
+67,10.2,Zain Abbas,KH Butt,Iftikhar Anjum,1,0,null,1,0,null,null
+68,10.3,KH Butt,Zain Abbas,Iftikhar Anjum,0,0,null,0,0,null,null
+69,10.4,KH Butt,Zain Abbas,Iftikhar Anjum,1,0,null,1,0,null,null
+70,10.5,Zain Abbas,KH Butt,Iftikhar Anjum,0,0,null,0,0,null,null
+71,10.6,Zain Abbas,KH Butt,Iftikhar Anjum,0,0,null,0,0,null,null
+72,11.1,KH Butt,Zain Abbas,Sohail Tanvir,0,0,null,0,0,null,null
+73,11.2,KH Butt,Zain Abbas,Sohail Tanvir,1,0,null,1,0,null,null
+74,11.3,Zain Abbas,KH Butt,Sohail Tanvir,2,0,null,2,0,null,null
+75,11.4,Zain Abbas,KH Butt,Sohail Tanvir,2,0,null,2,0,null,null
+76,11.5,Zain Abbas,KH Butt,Sohail Tanvir,0,0,null,0,0,null,null
+77,11.6,Zain Abbas,KH Butt,Sohail Tanvir,0,0,null,0,0,null,null
+78,12.1,KH Butt,Zain Abbas,Iftikhar Anjum,0,0,null,0,0,null,null
+79,12.2,KH Butt,Zain Abbas,Iftikhar Anjum,0,0,null,0,0,null,null
+80,12.3,KH Butt,Zain Abbas,Iftikhar Anjum,0,0,null,0,1,KH Butt,bowled
+81,12.4,JJ Atkinson,Zain Abbas,Iftikhar Anjum,0,0,null,0,0,null,null
+82,12.5,JJ Atkinson,Zain Abbas,Iftikhar Anjum,0,1,legbyes ,1,0,null,null
+83,12.6,Zain Abbas,JJ Atkinson,Iftikhar Anjum,0,0,null,0,0,null,null
+84,13.1,JJ Atkinson,Zain Abbas,Umar Gul,0,0,null,0,0,null,null
+85,13.2,JJ Atkinson,Zain Abbas,Umar Gul,0,0,null,0,0,null,null
+86,13.3,JJ Atkinson,Zain Abbas,Umar Gul,0,0,null,0,0,null,null
+87,13.4,JJ Atkinson,Zain Abbas,Umar Gul,0,0,null,0,0,null,null
+88,13.5,JJ Atkinson,Zain Abbas,Umar Gul,0,0,null,0,0,null,null
+89,13.6,JJ Atkinson,Zain Abbas,Umar Gul,0,0,null,0,0,null,null
+90,14.1,Zain Abbas,JJ Atkinson,Iftikhar Anjum,0,0,null,0,0,null,null
+91,14.2,Zain Abbas,JJ Atkinson,Iftikhar Anjum,0,0,null,0,0,null,null
+92,14.3,Zain Abbas,JJ Atkinson,Iftikhar Anjum,0,0,null,0,0,null,null
+93,14.4,Zain Abbas,JJ Atkinson,Iftikhar Anjum,0,0,null,0,0,null,null
+94,14.5,Zain Abbas,JJ Atkinson,Iftikhar Anjum,1,0,null,1,0,null,null
+95,14.6,JJ Atkinson,Zain Abbas,Iftikhar Anjum,0,0,null,0,0,null,null
+96,15.1,Zain Abbas,JJ Atkinson,Umar Gul,0,0,null,0,0,null,null
+97,15.2,Zain Abbas,JJ Atkinson,Umar Gul,0,0,null,0,0,null,null
+98,15.3,Zain Abbas,JJ Atkinson,Umar Gul,0,0,null,0,0,null,null
+99,15.4,Zain Abbas,JJ Atkinson,Umar Gul,0,0,null,0,0,null,null
+100,15.5,Zain Abbas,JJ Atkinson,Umar Gul,0,0,null,0,0,null,null
+101,15.6,Zain Abbas,JJ Atkinson,Umar Gul,1,0,null,1,0,null,null
+102,16.1,Zain Abbas,JJ Atkinson,Iftikhar Anjum,4,0,null,4,0,null,null
+103,16.2,Zain Abbas,JJ Atkinson,Iftikhar Anjum,1,0,null,1,0,null,null
+104,16.3,JJ Atkinson,Zain Abbas,Iftikhar Anjum,4,0,null,4,0,null,null
+105,16.4,JJ Atkinson,Zain Abbas,Iftikhar Anjum,1,0,null,1,0,null,null
+106,16.5,Zain Abbas,JJ Atkinson,Iftikhar Anjum,0,0,null,0,0,null,null
+107,16.6,Zain Abbas,JJ Atkinson,Iftikhar Anjum,0,0,null,0,0,null,null
+108,17.1,JJ Atkinson,Zain Abbas,Shahid Afridi,0,0,null,0,0,null,null
+109,17.2,JJ Atkinson,Zain Abbas,Shahid Afridi,0,0,null,0,0,null,null
+110,17.3,JJ Atkinson,Zain Abbas,Shahid Afridi,0,0,null,0,0,null,null
+111,17.4,JJ Atkinson,Zain Abbas,Shahid Afridi,0,0,null,0,0,null,null
+112,17.5,JJ Atkinson,Zain Abbas,Shahid Afridi,0,0,null,0,0,null,null
+113,17.6,JJ Atkinson,Zain Abbas,Shahid Afridi,1,0,null,1,0,null,null
+114,18.1,JJ Atkinson,Zain Abbas,Iftikhar Anjum,1,0,null,1,0,null,null
+115,18.2,Zain Abbas,JJ Atkinson,Iftikhar Anjum,0,0,null,0,0,null,null
+116,18.3,Zain Abbas,JJ Atkinson,Iftikhar Anjum,0,0,null,0,0,null,null
+117,18.4,Zain Abbas,JJ Atkinson,Iftikhar Anjum,1,0,null,1,0,null,null
+118,18.5,JJ Atkinson,Zain Abbas,Iftikhar Anjum,0,0,null,0,0,null,null
+119,18.6,JJ Atkinson,Zain Abbas,Iftikhar Anjum,0,0,null,0,0,null,null
+120,19.1,Zain Abbas,JJ Atkinson,Shahid Afridi,0,0,null,0,0,null,null
+121,19.2,Zain Abbas,JJ Atkinson,Shahid Afridi,0,0,null,0,0,null,null
+122,19.3,Zain Abbas,JJ Atkinson,Shahid Afridi,1,0,null,1,0,null,null
+123,19.4,JJ Atkinson,Zain Abbas,Shahid Afridi,0,1,wides ,1,0,null,null
+124,19.5,JJ Atkinson,Zain Abbas,Shahid Afridi,0,0,null,0,0,null,null
+125,19.6,JJ Atkinson,Zain Abbas,Shahid Afridi,4,0,null,4,0,null,null
+126,19.7,JJ Atkinson,Zain Abbas,Shahid Afridi,0,1,wides ,1,0,null,null
+127,19.8,JJ Atkinson,Zain Abbas,Shahid Afridi,2,0,null,2,0,null,null
+128,20.1,Zain Abbas,JJ Atkinson,Shoaib Malik,1,0,null,1,0,null,null
+129,20.2,JJ Atkinson,Zain Abbas,Shoaib Malik,0,0,null,0,0,null,null
+130,20.3,JJ Atkinson,Zain Abbas,Shoaib Malik,2,0,null,2,0,null,null
+131,20.4,JJ Atkinson,Zain Abbas,Shoaib Malik,2,0,null,2,0,null,null
+132,20.5,JJ Atkinson,Zain Abbas,Shoaib Malik,0,0,null,0,0,null,null
+133,20.6,JJ Atkinson,Zain Abbas,Shoaib Malik,1,0,null,1,0,null,null
+134,21.1,JJ Atkinson,Zain Abbas,Shahid Afridi,0,0,null,0,0,null,null
+135,21.2,JJ Atkinson,Zain Abbas,Shahid Afridi,0,0,null,0,1,JJ Atkinson,bowled
+136,21.3,Tabarak Dar,Zain Abbas,Shahid Afridi,1,0,null,1,0,null,null
+137,21.4,Zain Abbas,Tabarak Dar,Shahid Afridi,0,0,null,0,0,null,null
+138,21.5,Zain Abbas,Tabarak Dar,Shahid Afridi,0,0,null,0,0,null,null
+139,21.6,Zain Abbas,Tabarak Dar,Shahid Afridi,0,0,null,0,0,null,null
+140,22.1,Tabarak Dar,Zain Abbas,Shoaib Malik,0,0,null,0,0,null,null
+141,22.2,Tabarak Dar,Zain Abbas,Shoaib Malik,0,0,null,0,0,null,null
+142,22.3,Tabarak Dar,Zain Abbas,Shoaib Malik,0,1,wides ,1,0,null,null
+143,22.4,Tabarak Dar,Zain Abbas,Shoaib Malik,0,0,null,0,0,null,null
+144,22.5,Tabarak Dar,Zain Abbas,Shoaib Malik,0,0,null,0,0,null,null
+145,22.6,Tabarak Dar,Zain Abbas,Shoaib Malik,1,0,null,1,0,null,null
+146,22.7,Zain Abbas,Tabarak Dar,Shoaib Malik,0,0,null,0,0,null,null
+147,23.1,Tabarak Dar,Zain Abbas,Shahid Afridi,0,1,wides ,1,0,null,null
+148,23.2,Tabarak Dar,Zain Abbas,Shahid Afridi,0,0,null,0,0,null,null
+149,23.3,Tabarak Dar,Zain Abbas,Shahid Afridi,1,0,null,1,0,null,null
+150,23.4,Zain Abbas,Tabarak Dar,Shahid Afridi,2,0,null,2,0,null,null
+151,23.5,Zain Abbas,Tabarak Dar,Shahid Afridi,0,0,null,0,0,null,null
+152,23.6,Zain Abbas,Tabarak Dar,Shahid Afridi,0,0,null,0,0,null,null
+153,23.7,Zain Abbas,Tabarak Dar,Shahid Afridi,0,0,null,0,0,null,null
+154,24.1,Tabarak Dar,Zain Abbas,Shoaib Malik,0,0,null,0,0,null,null
+155,24.2,Tabarak Dar,Zain Abbas,Shoaib Malik,0,0,null,0,0,null,null
+156,24.3,Tabarak Dar,Zain Abbas,Shoaib Malik,1,0,null,1,0,null,null
+157,24.4,Zain Abbas,Tabarak Dar,Shoaib Malik,0,0,null,0,0,null,null
+158,24.5,Zain Abbas,Tabarak Dar,Shoaib Malik,0,0,null,0,0,null,null
+159,24.6,Zain Abbas,Tabarak Dar,Shoaib Malik,0,0,null,0,0,null,null
+160,25.1,Tabarak Dar,Zain Abbas,Shahid Afridi,1,0,null,1,0,null,null
+161,25.2,Zain Abbas,Tabarak Dar,Shahid Afridi,0,0,null,0,0,null,null
+162,25.3,Zain Abbas,Tabarak Dar,Shahid Afridi,0,0,null,0,0,null,null
+163,25.4,Zain Abbas,Tabarak Dar,Shahid Afridi,1,0,null,1,0,null,null
+164,25.5,Tabarak Dar,Zain Abbas,Shahid Afridi,0,0,null,0,0,null,null
+165,25.6,Tabarak Dar,Zain Abbas,Shahid Afridi,0,0,null,0,0,null,null
+166,26.1,Zain Abbas,Tabarak Dar,Shoaib Malik,1,0,null,1,0,null,null
+167,26.2,Tabarak Dar,Zain Abbas,Shoaib Malik,1,0,null,1,0,null,null
+168,26.3,Zain Abbas,Tabarak Dar,Shoaib Malik,1,0,null,1,0,null,null
+169,26.4,Tabarak Dar,Zain Abbas,Shoaib Malik,0,0,null,0,0,null,null
+170,26.5,Tabarak Dar,Zain Abbas,Shoaib Malik,0,0,null,0,0,null,null
+171,26.6,Tabarak Dar,Zain Abbas,Shoaib Malik,0,0,null,0,0,null,null
+172,27.1,Zain Abbas,Tabarak Dar,Shahid Afridi,0,0,null,0,0,null,null
+173,27.2,Zain Abbas,Tabarak Dar,Shahid Afridi,0,0,null,0,0,null,null
+174,27.3,Zain Abbas,Tabarak Dar,Shahid Afridi,1,0,null,1,0,null,null
+175,27.4,Tabarak Dar,Zain Abbas,Shahid Afridi,1,0,null,1,0,null,null
+176,27.5,Zain Abbas,Tabarak Dar,Shahid Afridi,1,0,null,1,1,Zain Abbas,retired hurt
+177,27.6,Tabarak Dar,Munir Dar,Shahid Afridi,1,0,null,1,0,null,null
+178,28.1,Tabarak Dar,Munir Dar,Shoaib Malik,0,0,null,0,0,null,null
+179,28.2,Tabarak Dar,Munir Dar,Shoaib Malik,0,0,null,0,0,null,null
+180,28.3,Tabarak Dar,Munir Dar,Shoaib Malik,1,0,null,1,0,null,null
+181,28.4,Munir Dar,Tabarak Dar,Shoaib Malik,4,0,null,4,0,null,null
+182,28.5,Munir Dar,Tabarak Dar,Shoaib Malik,0,0,null,0,0,null,null
+183,28.6,Munir Dar,Tabarak Dar,Shoaib Malik,4,0,null,4,0,null,null
+184,29.1,Tabarak Dar,Munir Dar,Shahid Afridi,0,0,null,0,0,null,null
+185,29.2,Tabarak Dar,Munir Dar,Shahid Afridi,0,0,null,0,1,Tabarak Dar,lbw
+186,29.3,Najeeb Amar,Munir Dar,Shahid Afridi,0,0,null,0,0,null,null
+187,29.4,Najeeb Amar,Munir Dar,Shahid Afridi,0,0,null,0,0,null,null
+188,29.5,Najeeb Amar,Munir Dar,Shahid Afridi,4,0,null,4,0,null,null
+189,29.6,Najeeb Amar,Munir Dar,Shahid Afridi,1,0,null,1,0,null,null
+190,30.1,Najeeb Amar,Munir Dar,Shoaib Malik,0,0,null,0,0,null,null
+191,30.2,Najeeb Amar,Munir Dar,Shoaib Malik,0,0,null,0,0,null,null
+192,30.3,Najeeb Amar,Munir Dar,Shoaib Malik,0,0,null,0,0,null,null
+193,30.4,Najeeb Amar,Munir Dar,Shoaib Malik,0,0,null,0,0,null,null
+194,30.5,Najeeb Amar,Munir Dar,Shoaib Malik,1,0,null,1,0,null,null
+195,30.6,Munir Dar,Najeeb Amar,Shoaib Malik,0,0,null,0,0,null,null
+196,31.1,Najeeb Amar,Munir Dar,Shahid Afridi,0,0,null,0,0,null,null
+197,31.2,Najeeb Amar,Munir Dar,Shahid Afridi,1,0,null,1,0,null,null
+198,31.3,Munir Dar,Najeeb Amar,Shahid Afridi,0,0,null,0,0,null,null
+199,31.4,Munir Dar,Najeeb Amar,Shahid Afridi,1,0,null,1,0,null,null
+200,31.5,Najeeb Amar,Munir Dar,Shahid Afridi,2,0,null,2,0,null,null
+201,31.6,Najeeb Amar,Munir Dar,Shahid Afridi,1,0,null,1,0,null,null
+202,32.1,Najeeb Amar,Munir Dar,Shoaib Malik,0,0,null,0,0,null,null
+203,32.2,Najeeb Amar,Munir Dar,Shoaib Malik,2,0,null,2,0,null,null
+204,32.3,Najeeb Amar,Munir Dar,Shoaib Malik,1,0,null,1,0,null,null
+205,32.4,Munir Dar,Najeeb Amar,Shoaib Malik,1,0,null,1,0,null,null
+206,32.5,Najeeb Amar,Munir Dar,Shoaib Malik,0,0,null,0,0,null,null
+207,32.6,Najeeb Amar,Munir Dar,Shoaib Malik,4,0,null,4,0,null,null
+208,33.1,Munir Dar,Najeeb Amar,Fawad Alam,0,0,null,0,0,null,null
+209,33.2,Munir Dar,Najeeb Amar,Fawad Alam,4,0,null,4,0,null,null
+210,33.3,Munir Dar,Najeeb Amar,Fawad Alam,0,0,null,0,0,null,null
+211,33.4,Munir Dar,Najeeb Amar,Fawad Alam,0,1,wides ,1,0,null,null
+212,33.5,Munir Dar,Najeeb Amar,Fawad Alam,0,0,null,0,0,null,null
+213,33.6,Munir Dar,Najeeb Amar,Fawad Alam,0,0,null,0,1,Munir Dar,run out
+214,33.7,Nadeem Ahmed,Najeeb Amar,Fawad Alam,0,0,null,0,0,null,null
+215,34.1,Najeeb Amar,Nadeem Ahmed,Shoaib Malik,0,0,null,0,0,null,null
+216,34.2,Najeeb Amar,Nadeem Ahmed,Shoaib Malik,1,0,null,1,0,null,null
+217,34.3,Nadeem Ahmed,Najeeb Amar,Shoaib Malik,0,0,null,0,0,null,null
+218,34.4,Nadeem Ahmed,Najeeb Amar,Shoaib Malik,0,0,null,0,0,null,null
+219,34.5,Nadeem Ahmed,Najeeb Amar,Shoaib Malik,0,0,null,0,0,null,null
+220,34.6,Nadeem Ahmed,Najeeb Amar,Shoaib Malik,0,0,null,0,0,null,null
+221,35.1,Najeeb Amar,Nadeem Ahmed,Fawad Alam,0,0,null,0,0,null,null
+222,35.2,Najeeb Amar,Nadeem Ahmed,Fawad Alam,1,0,null,1,0,null,null
+223,35.3,Nadeem Ahmed,Najeeb Amar,Fawad Alam,0,0,null,0,0,null,null
+224,35.4,Nadeem Ahmed,Najeeb Amar,Fawad Alam,0,0,null,0,0,null,null
+225,35.5,Nadeem Ahmed,Najeeb Amar,Fawad Alam,1,0,null,1,0,null,null
+226,35.6,Najeeb Amar,Nadeem Ahmed,Fawad Alam,1,0,null,1,0,null,null
+227,36.1,Najeeb Amar,Nadeem Ahmed,Younis Khan,0,1,wides ,1,0,null,null
+228,36.2,Najeeb Amar,Nadeem Ahmed,Younis Khan,1,0,null,1,0,null,null
+229,36.3,Nadeem Ahmed,Najeeb Amar,Younis Khan,0,0,null,0,0,null,null
+230,36.4,Nadeem Ahmed,Najeeb Amar,Younis Khan,0,0,null,0,0,null,null
+231,36.5,Nadeem Ahmed,Najeeb Amar,Younis Khan,0,0,null,0,0,null,null
+232,36.6,Nadeem Ahmed,Najeeb Amar,Younis Khan,1,0,null,1,0,null,null
+233,36.7,Najeeb Amar,Nadeem Ahmed,Younis Khan,0,0,null,0,1,Najeeb Amar,lbw
+234,37.1,Nadeem Ahmed,Afzaal Haider,Fawad Alam,0,0,null,0,0,null,null
+235,37.2,Nadeem Ahmed,Afzaal Haider,Fawad Alam,0,0,null,0,1,Nadeem Ahmed,caught

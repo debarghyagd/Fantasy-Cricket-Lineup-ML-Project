@@ -1,0 +1,28 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1153316,Sylhet International Cricket Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,0,11,0,0
+1,1153316,Sylhet International Cricket Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,6,6,0,1
+2,1168512,"The Village, Malahide",Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+3,1168512,"The Village, Malahide",Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,6,6,1,0
+4,1144516,Old Trafford,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+5,1157757,Brabourne Stadium,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,5,4,1,0
+6,1157757,Brabourne Stadium,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",1,2,2,0,0
+7,1278677,"Narendra Modi Stadium, Ahmedabad",India,DJ Hooda,Right-arm offbreak,"[1, 1, 0]",0,11,14,0,1
+8,1278677,"Narendra Modi Stadium, Ahmedabad",India,Mohammed Siraj,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+9,1278677,"Narendra Modi Stadium, Ahmedabad",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,1,3,0,0
+10,1278677,"Narendra Modi Stadium, Ahmedabad",India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+11,1278678,"Narendra Modi Stadium, Ahmedabad",India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",1,0,1,0,0
+12,1144521,Riverside Ground,Sri Lanka,CAK Rajitha,Right-arm fast-medium,"[0, 1, 1]",0,13,6,1,1
+13,1144521,Riverside Ground,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,21,13,3,0
+14,1213872,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",1,12,8,1,1
+15,1213872,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",0,5,6,1,0
+16,1213873,Pallekele International Cricket Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",1,14,6,1,1
+17,1157756,Maharashtra Cricket Association Stadium,India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",1,0,1,0,0
+18,1157756,Maharashtra Cricket Association Stadium,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,1,1,0,0
+19,1157758,Greenfield International Stadium,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",1,2,6,0,0
+20,1188626,"Queen's Park Oval, Trinidad",India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+21,1278676,"Narendra Modi Stadium, Ahmedabad",India,Washington Sundar,Right-arm offbreak,"[1, 1, 0]",1,1,4,0,0
+22,1278676,"Narendra Modi Stadium, Ahmedabad",India,Mohammed Siraj,Right-arm fast-medium,"[0, 1, 1]",0,8,12,1,0
+23,1278676,"Narendra Modi Stadium, Ahmedabad",India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",0,10,13,1,0
+24,1278676,"Narendra Modi Stadium, Ahmedabad",India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",0,9,12,0,0
+25,1252070,Sir Vivian Richards Stadium,Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",1,10,3,1,1
+26,1252070,Sir Vivian Richards Stadium,Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,5,4,0,0

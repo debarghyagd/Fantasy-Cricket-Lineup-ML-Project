@@ -1,0 +1,232 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,TS Kamunhukamwe,RW Chakabva,Mashrafe Mortaza,0,1,wides ,1,0,null,null
+1,0.2,TS Kamunhukamwe,RW Chakabva,Mashrafe Mortaza,4,0,null,4,0,null,null
+2,0.3,TS Kamunhukamwe,RW Chakabva,Mashrafe Mortaza,0,0,null,0,0,null,null
+3,0.4,TS Kamunhukamwe,RW Chakabva,Mashrafe Mortaza,0,0,null,0,0,null,null
+4,0.5,TS Kamunhukamwe,RW Chakabva,Mashrafe Mortaza,0,0,null,0,1,TS Kamunhukamwe,caught
+5,0.6,BRM Taylor,RW Chakabva,Mashrafe Mortaza,0,0,null,0,0,null,null
+6,0.7,BRM Taylor,RW Chakabva,Mashrafe Mortaza,0,0,null,0,0,null,null
+7,1.1,RW Chakabva,BRM Taylor,Mohammad Saifuddin,1,0,null,1,0,null,null
+8,1.2,BRM Taylor,RW Chakabva,Mohammad Saifuddin,0,1,wides ,1,0,null,null
+9,1.3,BRM Taylor,RW Chakabva,Mohammad Saifuddin,4,0,null,4,0,null,null
+10,1.4,BRM Taylor,RW Chakabva,Mohammad Saifuddin,0,0,null,0,0,null,null
+11,1.5,BRM Taylor,RW Chakabva,Mohammad Saifuddin,0,1,wides ,1,0,null,null
+12,1.6,BRM Taylor,RW Chakabva,Mohammad Saifuddin,0,0,null,0,0,null,null
+13,1.7,BRM Taylor,RW Chakabva,Mohammad Saifuddin,1,0,null,1,0,null,null
+14,1.8,RW Chakabva,BRM Taylor,Mohammad Saifuddin,2,0,null,2,0,null,null
+15,2.1,BRM Taylor,RW Chakabva,Mashrafe Mortaza,0,0,null,0,0,null,null
+16,2.2,BRM Taylor,RW Chakabva,Mashrafe Mortaza,0,0,null,0,0,null,null
+17,2.3,BRM Taylor,RW Chakabva,Mashrafe Mortaza,0,0,null,0,0,null,null
+18,2.4,BRM Taylor,RW Chakabva,Mashrafe Mortaza,4,0,null,4,0,null,null
+19,2.5,BRM Taylor,RW Chakabva,Mashrafe Mortaza,1,0,null,1,0,null,null
+20,2.6,RW Chakabva,BRM Taylor,Mashrafe Mortaza,4,0,null,4,0,null,null
+21,3.1,BRM Taylor,RW Chakabva,Mohammad Saifuddin,4,0,null,4,0,null,null
+22,3.2,BRM Taylor,RW Chakabva,Mohammad Saifuddin,0,0,null,0,0,null,null
+23,3.3,BRM Taylor,RW Chakabva,Mohammad Saifuddin,0,0,null,0,0,null,null
+24,3.4,BRM Taylor,RW Chakabva,Mohammad Saifuddin,0,0,null,0,1,BRM Taylor,caught
+25,3.5,SC Williams,RW Chakabva,Mohammad Saifuddin,4,0,null,4,0,null,null
+26,3.6,SC Williams,RW Chakabva,Mohammad Saifuddin,0,0,null,0,0,null,null
+27,4.1,RW Chakabva,SC Williams,Mashrafe Mortaza,0,0,null,0,0,null,null
+28,4.2,RW Chakabva,SC Williams,Mashrafe Mortaza,1,0,null,1,0,null,null
+29,4.3,SC Williams,RW Chakabva,Mashrafe Mortaza,4,0,null,4,0,null,null
+30,4.4,SC Williams,RW Chakabva,Mashrafe Mortaza,0,0,null,0,0,null,null
+31,4.5,SC Williams,RW Chakabva,Mashrafe Mortaza,0,0,null,0,0,null,null
+32,4.6,SC Williams,RW Chakabva,Mashrafe Mortaza,2,0,null,2,0,null,null
+33,5.1,RW Chakabva,SC Williams,Mohammad Saifuddin,1,0,null,1,0,null,null
+34,5.2,SC Williams,RW Chakabva,Mohammad Saifuddin,0,1,wides ,1,0,null,null
+35,5.3,SC Williams,RW Chakabva,Mohammad Saifuddin,0,0,null,0,0,null,null
+36,5.4,SC Williams,RW Chakabva,Mohammad Saifuddin,4,0,null,4,0,null,null
+37,5.5,SC Williams,RW Chakabva,Mohammad Saifuddin,1,0,null,1,0,null,null
+38,5.6,RW Chakabva,SC Williams,Mohammad Saifuddin,0,0,null,0,0,null,null
+39,5.7,RW Chakabva,SC Williams,Mohammad Saifuddin,1,0,null,1,0,null,null
+40,6.1,RW Chakabva,SC Williams,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+41,6.2,SC Williams,RW Chakabva,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+42,6.3,RW Chakabva,SC Williams,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+43,6.4,RW Chakabva,SC Williams,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+44,6.5,SC Williams,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+45,6.6,SC Williams,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+46,7.1,RW Chakabva,SC Williams,Mustafizur Rahman,1,0,null,1,0,null,null
+47,7.2,SC Williams,RW Chakabva,Mustafizur Rahman,0,0,null,0,0,null,null
+48,7.3,SC Williams,RW Chakabva,Mustafizur Rahman,0,0,null,0,0,null,null
+49,7.4,SC Williams,RW Chakabva,Mustafizur Rahman,1,0,null,1,0,null,null
+50,7.5,RW Chakabva,SC Williams,Mustafizur Rahman,0,0,null,0,0,null,null
+51,7.6,RW Chakabva,SC Williams,Mustafizur Rahman,0,0,null,0,0,null,null
+52,8.1,SC Williams,RW Chakabva,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+53,8.2,RW Chakabva,SC Williams,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+54,8.3,SC Williams,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+55,8.4,SC Williams,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+56,8.5,SC Williams,RW Chakabva,Mehedi Hasan Miraz,4,0,null,4,0,null,null
+57,8.6,SC Williams,RW Chakabva,Mehedi Hasan Miraz,2,0,null,2,0,null,null
+58,9.1,RW Chakabva,SC Williams,Mustafizur Rahman,1,0,null,1,0,null,null
+59,9.2,SC Williams,RW Chakabva,Mustafizur Rahman,0,0,null,0,0,null,null
+60,9.3,SC Williams,RW Chakabva,Mustafizur Rahman,0,0,null,0,0,null,null
+61,9.4,SC Williams,RW Chakabva,Mustafizur Rahman,0,0,null,0,0,null,null
+62,9.5,SC Williams,RW Chakabva,Mustafizur Rahman,1,0,null,1,0,null,null
+63,9.6,RW Chakabva,SC Williams,Mustafizur Rahman,1,0,null,1,0,null,null
+64,10.1,RW Chakabva,SC Williams,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+65,10.2,RW Chakabva,SC Williams,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+66,10.3,SC Williams,RW Chakabva,Mehedi Hasan Miraz,0,1,wides ,1,0,null,null
+67,10.4,SC Williams,RW Chakabva,Mehedi Hasan Miraz,4,0,null,4,0,null,null
+68,10.5,SC Williams,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+69,10.6,SC Williams,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+70,10.7,SC Williams,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+71,11.1,RW Chakabva,SC Williams,Mustafizur Rahman,0,0,null,0,0,null,null
+72,11.2,RW Chakabva,SC Williams,Mustafizur Rahman,1,0,null,1,0,null,null
+73,11.3,SC Williams,RW Chakabva,Mustafizur Rahman,0,0,null,0,0,null,null
+74,11.4,SC Williams,RW Chakabva,Mustafizur Rahman,0,0,null,0,0,null,null
+75,11.5,SC Williams,RW Chakabva,Mustafizur Rahman,0,0,null,0,0,null,null
+76,11.6,SC Williams,RW Chakabva,Mustafizur Rahman,0,0,null,0,0,null,null
+77,12.1,RW Chakabva,SC Williams,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+78,12.2,RW Chakabva,SC Williams,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+79,12.3,SC Williams,RW Chakabva,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+80,12.4,RW Chakabva,SC Williams,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+81,12.5,SC Williams,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+82,12.6,SC Williams,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+83,13.1,RW Chakabva,SC Williams,Afif Hossain,1,0,null,1,0,null,null
+84,13.2,SC Williams,RW Chakabva,Afif Hossain,0,0,null,0,1,SC Williams,bowled
+85,13.3,W Madhevere,RW Chakabva,Afif Hossain,0,0,null,0,0,null,null
+86,13.4,W Madhevere,RW Chakabva,Afif Hossain,0,0,null,0,0,null,null
+87,13.5,W Madhevere,RW Chakabva,Afif Hossain,0,0,null,0,0,null,null
+88,13.6,W Madhevere,RW Chakabva,Afif Hossain,0,0,null,0,0,null,null
+89,14.1,RW Chakabva,W Madhevere,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+90,14.2,RW Chakabva,W Madhevere,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+91,14.3,W Madhevere,RW Chakabva,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+92,14.4,RW Chakabva,W Madhevere,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+93,14.5,W Madhevere,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+94,14.6,W Madhevere,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+95,15.1,RW Chakabva,W Madhevere,Afif Hossain,1,0,null,1,0,null,null
+96,15.2,W Madhevere,RW Chakabva,Afif Hossain,0,0,null,0,0,null,null
+97,15.3,W Madhevere,RW Chakabva,Afif Hossain,2,0,null,2,0,null,null
+98,15.4,W Madhevere,RW Chakabva,Afif Hossain,1,0,null,1,0,null,null
+99,15.5,RW Chakabva,W Madhevere,Afif Hossain,1,0,null,1,0,null,null
+100,15.6,W Madhevere,RW Chakabva,Afif Hossain,6,0,null,6,0,null,null
+101,16.1,RW Chakabva,W Madhevere,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+102,16.2,RW Chakabva,W Madhevere,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+103,16.3,W Madhevere,RW Chakabva,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+104,16.4,RW Chakabva,W Madhevere,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+105,16.5,W Madhevere,RW Chakabva,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+106,16.6,W Madhevere,RW Chakabva,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+107,17.1,W Madhevere,RW Chakabva,Taijul Islam,0,0,null,0,0,null,null
+108,17.2,W Madhevere,RW Chakabva,Taijul Islam,1,0,null,1,0,null,null
+109,17.3,RW Chakabva,W Madhevere,Taijul Islam,1,0,null,1,0,null,null
+110,17.4,W Madhevere,RW Chakabva,Taijul Islam,1,0,null,1,0,null,null
+111,17.5,RW Chakabva,W Madhevere,Taijul Islam,1,0,null,1,0,null,null
+112,17.6,W Madhevere,RW Chakabva,Taijul Islam,0,0,null,0,0,null,null
+113,18.1,RW Chakabva,W Madhevere,Mashrafe Mortaza,1,0,null,1,0,null,null
+114,18.2,W Madhevere,RW Chakabva,Mashrafe Mortaza,1,0,null,1,0,null,null
+115,18.3,RW Chakabva,W Madhevere,Mashrafe Mortaza,0,0,null,0,0,null,null
+116,18.4,RW Chakabva,W Madhevere,Mashrafe Mortaza,1,0,null,1,0,null,null
+117,18.5,W Madhevere,RW Chakabva,Mashrafe Mortaza,2,0,null,2,0,null,null
+118,18.6,W Madhevere,RW Chakabva,Mashrafe Mortaza,1,0,null,1,0,null,null
+119,19.1,W Madhevere,RW Chakabva,Taijul Islam,1,0,null,1,0,null,null
+120,19.2,RW Chakabva,W Madhevere,Taijul Islam,0,0,null,0,0,null,null
+121,19.3,RW Chakabva,W Madhevere,Taijul Islam,1,0,null,1,0,null,null
+122,19.4,W Madhevere,RW Chakabva,Taijul Islam,4,0,null,4,0,null,null
+123,19.5,W Madhevere,RW Chakabva,Taijul Islam,1,0,null,1,0,null,null
+124,19.6,RW Chakabva,W Madhevere,Taijul Islam,0,0,null,0,0,null,null
+125,20.1,W Madhevere,RW Chakabva,Mashrafe Mortaza,1,0,null,1,0,null,null
+126,20.2,RW Chakabva,W Madhevere,Mashrafe Mortaza,0,0,null,0,0,null,null
+127,20.3,RW Chakabva,W Madhevere,Mashrafe Mortaza,1,0,null,1,0,null,null
+128,20.4,W Madhevere,RW Chakabva,Mashrafe Mortaza,1,0,null,1,0,null,null
+129,20.5,RW Chakabva,W Madhevere,Mashrafe Mortaza,1,0,null,1,0,null,null
+130,20.6,W Madhevere,RW Chakabva,Mashrafe Mortaza,0,0,null,0,0,null,null
+131,21.1,RW Chakabva,W Madhevere,Taijul Islam,0,0,null,0,1,RW Chakabva,bowled
+132,21.2,Sikandar Raza,W Madhevere,Taijul Islam,0,0,null,0,0,null,null
+133,21.3,Sikandar Raza,W Madhevere,Taijul Islam,0,0,null,0,0,null,null
+134,21.4,Sikandar Raza,W Madhevere,Taijul Islam,1,0,null,1,0,null,null
+135,21.5,W Madhevere,Sikandar Raza,Taijul Islam,1,0,null,1,0,null,null
+136,21.6,Sikandar Raza,W Madhevere,Taijul Islam,1,0,null,1,0,null,null
+137,22.1,Sikandar Raza,W Madhevere,Mashrafe Mortaza,4,0,null,4,0,null,null
+138,22.2,Sikandar Raza,W Madhevere,Mashrafe Mortaza,2,0,null,2,0,null,null
+139,22.3,Sikandar Raza,W Madhevere,Mashrafe Mortaza,4,0,null,4,0,null,null
+140,22.4,Sikandar Raza,W Madhevere,Mashrafe Mortaza,1,0,null,1,0,null,null
+141,22.5,W Madhevere,Sikandar Raza,Mashrafe Mortaza,4,0,null,4,0,null,null
+142,22.6,W Madhevere,Sikandar Raza,Mashrafe Mortaza,1,0,null,1,0,null,null
+143,23.1,W Madhevere,Sikandar Raza,Taijul Islam,1,0,null,1,0,null,null
+144,23.2,Sikandar Raza,W Madhevere,Taijul Islam,0,0,null,0,0,null,null
+145,23.3,Sikandar Raza,W Madhevere,Taijul Islam,0,0,null,0,0,null,null
+146,23.4,Sikandar Raza,W Madhevere,Taijul Islam,1,0,null,1,0,null,null
+147,23.5,W Madhevere,Sikandar Raza,Taijul Islam,0,0,null,0,0,null,null
+148,23.6,W Madhevere,Sikandar Raza,Taijul Islam,0,0,null,0,0,null,null
+149,24.1,Sikandar Raza,W Madhevere,Mohammad Saifuddin,1,0,null,1,0,null,null
+150,24.2,W Madhevere,Sikandar Raza,Mohammad Saifuddin,0,0,null,0,0,null,null
+151,24.3,W Madhevere,Sikandar Raza,Mohammad Saifuddin,0,1,wides ,1,0,null,null
+152,24.4,W Madhevere,Sikandar Raza,Mohammad Saifuddin,1,0,null,1,0,null,null
+153,24.5,Sikandar Raza,W Madhevere,Mohammad Saifuddin,1,0,null,1,0,null,null
+154,24.6,W Madhevere,Sikandar Raza,Mohammad Saifuddin,4,0,null,4,0,null,null
+155,24.7,W Madhevere,Sikandar Raza,Mohammad Saifuddin,0,0,null,0,0,null,null
+156,25.1,Sikandar Raza,W Madhevere,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+157,25.2,W Madhevere,Sikandar Raza,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+158,25.3,Sikandar Raza,W Madhevere,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+159,25.4,W Madhevere,Sikandar Raza,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+160,25.5,Sikandar Raza,W Madhevere,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+161,25.6,W Madhevere,Sikandar Raza,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+162,26.1,W Madhevere,Sikandar Raza,Mohammad Saifuddin,1,0,null,1,0,null,null
+163,26.2,Sikandar Raza,W Madhevere,Mohammad Saifuddin,0,0,null,0,0,null,null
+164,26.3,Sikandar Raza,W Madhevere,Mohammad Saifuddin,1,0,null,1,0,null,null
+165,26.4,W Madhevere,Sikandar Raza,Mohammad Saifuddin,0,0,null,0,1,W Madhevere,caught
+166,26.5,R Mutumbami,Sikandar Raza,Mohammad Saifuddin,0,0,null,0,0,null,null
+167,26.6,R Mutumbami,Sikandar Raza,Mohammad Saifuddin,0,0,null,0,0,null,null
+168,27.1,Sikandar Raza,R Mutumbami,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+169,27.2,Sikandar Raza,R Mutumbami,Mehedi Hasan Miraz,4,0,null,4,0,null,null
+170,27.3,Sikandar Raza,R Mutumbami,Mehedi Hasan Miraz,6,0,null,6,0,null,null
+171,27.4,Sikandar Raza,R Mutumbami,Mehedi Hasan Miraz,4,0,null,4,0,null,null
+172,27.5,Sikandar Raza,R Mutumbami,Mehedi Hasan Miraz,0,0,null,0,1,R Mutumbami,run out
+173,27.6,Sikandar Raza,CT Mutombodzi,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+174,28.1,CT Mutombodzi,Sikandar Raza,Taijul Islam,1,0,null,1,0,null,null
+175,28.2,Sikandar Raza,CT Mutombodzi,Taijul Islam,1,0,null,1,0,null,null
+176,28.3,CT Mutombodzi,Sikandar Raza,Taijul Islam,1,0,null,1,0,null,null
+177,28.4,Sikandar Raza,CT Mutombodzi,Taijul Islam,0,0,null,0,0,null,null
+178,28.5,Sikandar Raza,CT Mutombodzi,Taijul Islam,1,0,null,1,0,null,null
+179,28.6,CT Mutombodzi,Sikandar Raza,Taijul Islam,1,0,null,1,0,null,null
+180,29.1,CT Mutombodzi,Sikandar Raza,Mustafizur Rahman,0,0,null,0,0,null,null
+181,29.2,CT Mutombodzi,Sikandar Raza,Mustafizur Rahman,4,0,null,4,0,null,null
+182,29.3,CT Mutombodzi,Sikandar Raza,Mustafizur Rahman,0,0,null,0,1,CT Mutombodzi,caught
+183,29.4,DT Tiripano,Sikandar Raza,Mustafizur Rahman,0,0,null,0,0,null,null
+184,29.5,DT Tiripano,Sikandar Raza,Mustafizur Rahman,0,0,null,0,0,null,null
+185,29.6,DT Tiripano,Sikandar Raza,Mustafizur Rahman,0,0,null,0,0,null,null
+186,30.1,Sikandar Raza,DT Tiripano,Taijul Islam,0,0,null,0,0,null,null
+187,30.2,Sikandar Raza,DT Tiripano,Taijul Islam,0,0,null,0,0,null,null
+188,30.3,Sikandar Raza,DT Tiripano,Taijul Islam,1,0,null,1,0,null,null
+189,30.4,DT Tiripano,Sikandar Raza,Taijul Islam,0,0,null,0,0,null,null
+190,30.5,DT Tiripano,Sikandar Raza,Taijul Islam,0,0,null,0,0,null,null
+191,30.6,DT Tiripano,Sikandar Raza,Taijul Islam,0,0,null,0,0,null,null
+192,31.1,Sikandar Raza,DT Tiripano,Mustafizur Rahman,4,0,null,4,0,null,null
+193,31.2,Sikandar Raza,DT Tiripano,Mustafizur Rahman,1,0,null,1,0,null,null
+194,31.3,DT Tiripano,Sikandar Raza,Mustafizur Rahman,6,0,null,6,0,null,null
+195,31.4,DT Tiripano,Sikandar Raza,Mustafizur Rahman,0,0,null,0,0,null,null
+196,31.5,DT Tiripano,Sikandar Raza,Mustafizur Rahman,6,0,null,6,0,null,null
+197,31.6,DT Tiripano,Sikandar Raza,Mustafizur Rahman,0,0,null,0,0,null,null
+198,32.1,Sikandar Raza,DT Tiripano,Taijul Islam,1,0,null,1,0,null,null
+199,32.2,DT Tiripano,Sikandar Raza,Taijul Islam,0,0,null,0,0,null,null
+200,32.3,DT Tiripano,Sikandar Raza,Taijul Islam,1,0,null,1,0,null,null
+201,32.4,Sikandar Raza,DT Tiripano,Taijul Islam,1,0,null,1,0,null,null
+202,32.5,DT Tiripano,Sikandar Raza,Taijul Islam,0,0,null,0,0,null,null
+203,32.6,DT Tiripano,Sikandar Raza,Taijul Islam,2,0,null,2,0,null,null
+204,33.1,Sikandar Raza,DT Tiripano,Mustafizur Rahman,2,0,null,2,0,null,null
+205,33.2,Sikandar Raza,DT Tiripano,Mustafizur Rahman,0,0,null,0,0,null,null
+206,33.3,Sikandar Raza,DT Tiripano,Mustafizur Rahman,1,0,null,1,0,null,null
+207,33.4,DT Tiripano,Sikandar Raza,Mustafizur Rahman,0,0,null,0,0,null,null
+208,33.5,DT Tiripano,Sikandar Raza,Mustafizur Rahman,0,1,legbyes ,1,0,null,null
+209,33.6,Sikandar Raza,DT Tiripano,Mustafizur Rahman,2,0,null,2,0,null,null
+210,34.1,DT Tiripano,Sikandar Raza,Taijul Islam,0,0,null,0,0,null,null
+211,34.2,DT Tiripano,Sikandar Raza,Taijul Islam,0,0,null,0,1,DT Tiripano,bowled
+212,34.3,CT Mumba,Sikandar Raza,Taijul Islam,1,0,null,1,0,null,null
+213,34.4,Sikandar Raza,CT Mumba,Taijul Islam,0,0,null,0,0,null,null
+214,34.5,Sikandar Raza,CT Mumba,Taijul Islam,1,0,null,1,0,null,null
+215,34.6,CT Mumba,Sikandar Raza,Taijul Islam,0,0,null,0,0,null,null
+216,35.1,Sikandar Raza,CT Mumba,Mohammad Saifuddin,1,0,null,1,0,null,null
+217,35.2,CT Mumba,Sikandar Raza,Mohammad Saifuddin,0,0,null,0,0,null,null
+218,35.3,CT Mumba,Sikandar Raza,Mohammad Saifuddin,1,0,null,1,0,null,null
+219,35.4,Sikandar Raza,CT Mumba,Mohammad Saifuddin,1,0,null,1,0,null,null
+220,35.5,CT Mumba,Sikandar Raza,Mohammad Saifuddin,1,0,null,1,0,null,null
+221,35.6,Sikandar Raza,CT Mumba,Mohammad Saifuddin,1,0,null,1,0,null,null
+222,36.1,Sikandar Raza,CT Mumba,Taijul Islam,0,0,null,0,0,null,null
+223,36.2,Sikandar Raza,CT Mumba,Taijul Islam,6,0,null,6,0,null,null
+224,36.3,Sikandar Raza,CT Mumba,Taijul Islam,0,0,null,0,0,null,null
+225,36.4,Sikandar Raza,CT Mumba,Taijul Islam,1,0,null,1,0,null,null
+226,36.5,CT Mumba,Sikandar Raza,Taijul Islam,1,0,null,1,0,null,null
+227,36.6,Sikandar Raza,CT Mumba,Taijul Islam,1,0,null,1,0,null,null
+228,37.1,Sikandar Raza,CT Mumba,Mohammad Saifuddin,0,0,null,0,0,null,null
+229,37.2,Sikandar Raza,CT Mumba,Mohammad Saifuddin,0,0,null,0,1,Sikandar Raza,caught
+230,37.3,CK Tshuma,CT Mumba,Mohammad Saifuddin,0,0,null,0,1,CK Tshuma,bowled

@@ -1,0 +1,187 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tamim Iqbal,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+1,0.2,Tamim Iqbal,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+2,0.3,Tamim Iqbal,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+3,0.4,Tamim Iqbal,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,1,Tamim Iqbal,lbw
+4,0.5,Naeem Islam,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+5,0.6,Naeem Islam,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+6,1.1,Shahriar Nafees,Naeem Islam,Umar Gul,0,0,null,0,0,null,null
+7,1.2,Shahriar Nafees,Naeem Islam,Umar Gul,0,1,wides ,1,0,null,null
+8,1.3,Shahriar Nafees,Naeem Islam,Umar Gul,0,0,null,0,0,null,null
+9,1.4,Shahriar Nafees,Naeem Islam,Umar Gul,0,0,null,0,0,null,null
+10,1.5,Shahriar Nafees,Naeem Islam,Umar Gul,0,0,null,0,0,null,null
+11,1.6,Shahriar Nafees,Naeem Islam,Umar Gul,0,0,null,0,0,null,null
+12,1.7,Shahriar Nafees,Naeem Islam,Umar Gul,0,0,null,0,0,null,null
+13,2.1,Naeem Islam,Shahriar Nafees,Mohammad Hafeez,1,0,null,1,0,null,null
+14,2.2,Shahriar Nafees,Naeem Islam,Mohammad Hafeez,0,0,null,0,0,null,null
+15,2.3,Shahriar Nafees,Naeem Islam,Mohammad Hafeez,0,0,null,0,0,null,null
+16,2.4,Shahriar Nafees,Naeem Islam,Mohammad Hafeez,0,0,null,0,0,null,null
+17,2.5,Shahriar Nafees,Naeem Islam,Mohammad Hafeez,0,0,null,0,0,null,null
+18,2.6,Shahriar Nafees,Naeem Islam,Mohammad Hafeez,0,0,null,0,0,null,null
+19,3.1,Naeem Islam,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+20,3.2,Naeem Islam,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+21,3.3,Naeem Islam,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+22,3.4,Naeem Islam,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+23,3.5,Naeem Islam,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+24,3.6,Naeem Islam,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+25,4.1,Shahriar Nafees,Naeem Islam,Mohammad Hafeez,0,0,null,0,0,null,null
+26,4.2,Shahriar Nafees,Naeem Islam,Mohammad Hafeez,0,0,null,0,0,null,null
+27,4.3,Shahriar Nafees,Naeem Islam,Mohammad Hafeez,0,0,null,0,0,null,null
+28,4.4,Shahriar Nafees,Naeem Islam,Mohammad Hafeez,0,0,null,0,0,null,null
+29,4.5,Shahriar Nafees,Naeem Islam,Mohammad Hafeez,0,0,null,0,0,null,null
+30,4.6,Shahriar Nafees,Naeem Islam,Mohammad Hafeez,0,0,null,0,0,null,null
+31,5.1,Naeem Islam,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+32,5.2,Naeem Islam,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+33,5.3,Naeem Islam,Shahriar Nafees,Umar Gul,4,0,null,4,0,null,null
+34,5.4,Naeem Islam,Shahriar Nafees,Umar Gul,0,0,null,0,1,Naeem Islam,caught
+35,5.5,Mushfiqur Rahim,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+36,5.6,Mushfiqur Rahim,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+37,6.1,Shahriar Nafees,Mushfiqur Rahim,Mohammad Hafeez,0,0,null,0,0,null,null
+38,6.2,Shahriar Nafees,Mushfiqur Rahim,Mohammad Hafeez,1,0,null,1,0,null,null
+39,6.3,Mushfiqur Rahim,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+40,6.4,Mushfiqur Rahim,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+41,6.5,Mushfiqur Rahim,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+42,6.6,Mushfiqur Rahim,Shahriar Nafees,Mohammad Hafeez,1,0,null,1,0,null,null
+43,7.1,Mushfiqur Rahim,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+44,7.2,Mushfiqur Rahim,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+45,7.3,Mushfiqur Rahim,Shahriar Nafees,Umar Gul,0,5,wides ,5,0,null,null
+46,7.4,Mushfiqur Rahim,Shahriar Nafees,Umar Gul,0,0,null,0,0,null,null
+47,7.5,Mushfiqur Rahim,Shahriar Nafees,Umar Gul,3,0,null,3,0,null,null
+48,7.6,Shahriar Nafees,Mushfiqur Rahim,Umar Gul,0,0,null,0,0,null,null
+49,7.7,Shahriar Nafees,Mushfiqur Rahim,Umar Gul,0,0,null,0,0,null,null
+50,8.1,Mushfiqur Rahim,Shahriar Nafees,Mohammad Hafeez,2,0,null,2,0,null,null
+51,8.2,Mushfiqur Rahim,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+52,8.3,Mushfiqur Rahim,Shahriar Nafees,Mohammad Hafeez,2,0,null,2,0,null,null
+53,8.4,Mushfiqur Rahim,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+54,8.5,Mushfiqur Rahim,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+55,8.6,Mushfiqur Rahim,Shahriar Nafees,Mohammad Hafeez,0,0,null,0,0,null,null
+56,9.1,Shahriar Nafees,Mushfiqur Rahim,Umar Gul,1,0,null,1,0,null,null
+57,9.2,Mushfiqur Rahim,Shahriar Nafees,Umar Gul,1,0,null,1,0,null,null
+58,9.3,Shahriar Nafees,Mushfiqur Rahim,Umar Gul,0,0,null,0,0,null,null
+59,9.4,Shahriar Nafees,Mushfiqur Rahim,Umar Gul,4,0,null,4,0,null,null
+60,9.5,Shahriar Nafees,Mushfiqur Rahim,Umar Gul,0,0,null,0,0,null,null
+61,9.6,Shahriar Nafees,Mushfiqur Rahim,Umar Gul,0,0,null,0,0,null,null
+62,10.1,Mushfiqur Rahim,Shahriar Nafees,Shahid Afridi,0,0,null,0,0,null,null
+63,10.2,Mushfiqur Rahim,Shahriar Nafees,Shahid Afridi,0,0,null,0,0,null,null
+64,10.3,Mushfiqur Rahim,Shahriar Nafees,Shahid Afridi,0,0,null,0,0,null,null
+65,10.4,Mushfiqur Rahim,Shahriar Nafees,Shahid Afridi,0,0,null,0,0,null,null
+66,10.5,Mushfiqur Rahim,Shahriar Nafees,Shahid Afridi,0,0,null,0,0,null,null
+67,10.6,Mushfiqur Rahim,Shahriar Nafees,Shahid Afridi,1,0,null,1,0,null,null
+68,11.1,Mushfiqur Rahim,Shahriar Nafees,Shoaib Malik,0,0,null,0,0,null,null
+69,11.2,Mushfiqur Rahim,Shahriar Nafees,Shoaib Malik,1,0,null,1,0,null,null
+70,11.3,Shahriar Nafees,Mushfiqur Rahim,Shoaib Malik,1,0,null,1,0,null,null
+71,11.4,Mushfiqur Rahim,Shahriar Nafees,Shoaib Malik,0,0,null,0,0,null,null
+72,11.5,Mushfiqur Rahim,Shahriar Nafees,Shoaib Malik,0,0,null,0,1,Mushfiqur Rahim,caught
+73,11.6,Shakib Al Hasan,Shahriar Nafees,Shoaib Malik,0,0,null,0,0,null,null
+74,12.1,Shahriar Nafees,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+75,12.2,Shahriar Nafees,Shakib Al Hasan,Shahid Afridi,0,0,null,0,1,Shahriar Nafees,caught
+76,12.3,Mahmudullah,Shakib Al Hasan,Shahid Afridi,1,0,null,1,0,null,null
+77,12.4,Shakib Al Hasan,Mahmudullah,Shahid Afridi,1,0,null,1,0,null,null
+78,12.5,Mahmudullah,Shakib Al Hasan,Shahid Afridi,0,0,null,0,1,Mahmudullah,caught
+79,12.6,Nasir Hossain,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+80,13.1,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,1,0,null,1,0,null,null
+81,13.2,Nasir Hossain,Shakib Al Hasan,Shoaib Malik,0,2,wides ,2,0,null,null
+82,13.3,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+83,13.4,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+84,13.5,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+85,13.6,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+86,13.7,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+87,14.1,Nasir Hossain,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+88,14.2,Nasir Hossain,Shakib Al Hasan,Shahid Afridi,1,0,null,1,0,null,null
+89,14.3,Shakib Al Hasan,Nasir Hossain,Shahid Afridi,1,0,null,1,0,null,null
+90,14.4,Nasir Hossain,Shakib Al Hasan,Shahid Afridi,1,0,null,1,0,null,null
+91,14.5,Shakib Al Hasan,Nasir Hossain,Shahid Afridi,0,0,null,0,0,null,null
+92,14.6,Shakib Al Hasan,Nasir Hossain,Shahid Afridi,0,0,null,0,0,null,null
+93,15.1,Nasir Hossain,Shakib Al Hasan,Shoaib Malik,1,0,null,1,0,null,null
+94,15.2,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+95,15.3,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+96,15.4,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+97,15.5,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+98,15.6,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+99,16.1,Nasir Hossain,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+100,16.2,Nasir Hossain,Shakib Al Hasan,Shahid Afridi,1,0,null,1,0,null,null
+101,16.3,Shakib Al Hasan,Nasir Hossain,Shahid Afridi,0,0,null,0,0,null,null
+102,16.4,Shakib Al Hasan,Nasir Hossain,Shahid Afridi,3,0,null,3,0,null,null
+103,16.5,Nasir Hossain,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+104,16.6,Nasir Hossain,Shakib Al Hasan,Shahid Afridi,4,0,null,4,0,null,null
+105,17.1,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+106,17.2,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,1,0,null,1,0,null,null
+107,17.3,Nasir Hossain,Shakib Al Hasan,Shoaib Malik,0,0,null,0,0,null,null
+108,17.4,Nasir Hossain,Shakib Al Hasan,Shoaib Malik,1,0,null,1,0,null,null
+109,17.5,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+110,17.6,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+111,18.1,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+112,18.2,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+113,18.3,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+114,18.4,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+115,18.5,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+116,18.6,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,1,0,null,1,0,null,null
+117,19.1,Nasir Hossain,Shakib Al Hasan,Shoaib Malik,1,0,null,1,0,null,null
+118,19.2,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,2,0,null,2,0,null,null
+119,19.3,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,1,0,null,1,0,null,null
+120,19.4,Nasir Hossain,Shakib Al Hasan,Shoaib Malik,0,2,byes ,2,0,null,null
+121,19.5,Nasir Hossain,Shakib Al Hasan,Shoaib Malik,1,0,null,1,0,null,null
+122,19.6,Shakib Al Hasan,Nasir Hossain,Shoaib Malik,0,0,null,0,0,null,null
+123,20.1,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+124,20.2,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+125,20.3,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,2,0,null,2,0,null,null
+126,20.4,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+127,20.5,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+128,20.6,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+129,21.1,Shakib Al Hasan,Nasir Hossain,Aizaz Cheema,1,0,null,1,0,null,null
+130,21.2,Nasir Hossain,Shakib Al Hasan,Aizaz Cheema,1,0,null,1,0,null,null
+131,21.3,Shakib Al Hasan,Nasir Hossain,Aizaz Cheema,1,0,null,1,0,null,null
+132,21.4,Nasir Hossain,Shakib Al Hasan,Aizaz Cheema,0,0,null,0,0,null,null
+133,21.5,Nasir Hossain,Shakib Al Hasan,Aizaz Cheema,4,0,null,4,0,null,null
+134,21.6,Nasir Hossain,Shakib Al Hasan,Aizaz Cheema,1,0,null,1,0,null,null
+135,22.1,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+136,22.2,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+137,22.3,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+138,22.4,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+139,22.5,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,0,0,null,0,0,null,null
+140,22.6,Nasir Hossain,Shakib Al Hasan,Saeed Ajmal,1,0,null,1,0,null,null
+141,23.1,Nasir Hossain,Shakib Al Hasan,Aizaz Cheema,0,0,null,0,0,null,null
+142,23.2,Nasir Hossain,Shakib Al Hasan,Aizaz Cheema,0,0,null,0,0,null,null
+143,23.3,Nasir Hossain,Shakib Al Hasan,Aizaz Cheema,0,0,null,0,0,null,null
+144,23.4,Nasir Hossain,Shakib Al Hasan,Aizaz Cheema,0,0,null,0,1,Nasir Hossain,caught
+145,23.5,Farhad Reza,Shakib Al Hasan,Aizaz Cheema,0,0,null,0,0,null,null
+146,23.6,Farhad Reza,Shakib Al Hasan,Aizaz Cheema,0,0,null,0,0,null,null
+147,24.1,Shakib Al Hasan,Farhad Reza,Saeed Ajmal,0,0,null,0,0,null,null
+148,24.2,Shakib Al Hasan,Farhad Reza,Saeed Ajmal,0,0,null,0,0,null,null
+149,24.3,Shakib Al Hasan,Farhad Reza,Saeed Ajmal,0,0,null,0,0,null,null
+150,24.4,Shakib Al Hasan,Farhad Reza,Saeed Ajmal,0,0,null,0,0,null,null
+151,24.5,Shakib Al Hasan,Farhad Reza,Saeed Ajmal,0,0,null,0,0,null,null
+152,24.6,Shakib Al Hasan,Farhad Reza,Saeed Ajmal,0,0,null,0,0,null,null
+153,25.1,Farhad Reza,Shakib Al Hasan,Aizaz Cheema,1,0,null,1,0,null,null
+154,25.2,Shakib Al Hasan,Farhad Reza,Aizaz Cheema,2,0,null,2,0,null,null
+155,25.3,Shakib Al Hasan,Farhad Reza,Aizaz Cheema,0,0,null,0,0,null,null
+156,25.4,Shakib Al Hasan,Farhad Reza,Aizaz Cheema,1,0,null,1,0,null,null
+157,25.5,Farhad Reza,Shakib Al Hasan,Aizaz Cheema,0,0,null,0,0,null,null
+158,25.6,Farhad Reza,Shakib Al Hasan,Aizaz Cheema,0,0,null,0,0,null,null
+159,26.1,Shakib Al Hasan,Farhad Reza,Shahid Afridi,0,0,null,0,0,null,null
+160,26.2,Shakib Al Hasan,Farhad Reza,Shahid Afridi,0,0,null,0,1,Shakib Al Hasan,caught
+161,26.3,Abdur Razzak,Farhad Reza,Shahid Afridi,0,0,null,0,0,null,null
+162,26.4,Abdur Razzak,Farhad Reza,Shahid Afridi,0,0,null,0,0,null,null
+163,26.5,Abdur Razzak,Farhad Reza,Shahid Afridi,2,0,null,2,0,null,null
+164,26.6,Abdur Razzak,Farhad Reza,Shahid Afridi,1,0,null,1,0,null,null
+165,27.1,Abdur Razzak,Farhad Reza,Saeed Ajmal,0,0,null,0,0,null,null
+166,27.2,Abdur Razzak,Farhad Reza,Saeed Ajmal,0,0,null,0,1,Abdur Razzak,caught
+167,27.3,Shafiul Islam,Farhad Reza,Saeed Ajmal,0,0,null,0,0,null,null
+168,27.4,Shafiul Islam,Farhad Reza,Saeed Ajmal,0,0,null,0,0,null,null
+169,27.5,Shafiul Islam,Farhad Reza,Saeed Ajmal,0,0,null,0,0,null,null
+170,27.6,Shafiul Islam,Farhad Reza,Saeed Ajmal,0,0,null,0,0,null,null
+171,28.1,Farhad Reza,Shafiul Islam,Shahid Afridi,0,0,null,0,1,Farhad Reza,lbw
+172,28.2,Rubel Hossain,Shafiul Islam,Shahid Afridi,0,0,null,0,0,null,null
+173,28.3,Rubel Hossain,Shafiul Islam,Shahid Afridi,0,0,null,0,0,null,null
+174,28.4,Rubel Hossain,Shafiul Islam,Shahid Afridi,4,0,null,4,0,null,null
+175,28.5,Rubel Hossain,Shafiul Islam,Shahid Afridi,1,0,null,1,0,null,null
+176,28.6,Shafiul Islam,Rubel Hossain,Shahid Afridi,0,2,legbyes ,2,0,null,null
+177,29.1,Rubel Hossain,Shafiul Islam,Saeed Ajmal,0,0,null,0,0,null,null
+178,29.2,Rubel Hossain,Shafiul Islam,Saeed Ajmal,4,0,null,4,0,null,null
+179,29.3,Rubel Hossain,Shafiul Islam,Saeed Ajmal,0,0,null,0,0,null,null
+180,29.4,Rubel Hossain,Shafiul Islam,Saeed Ajmal,4,0,null,4,0,null,null
+181,29.5,Rubel Hossain,Shafiul Islam,Saeed Ajmal,1,0,null,1,0,null,null
+182,29.6,Shafiul Islam,Rubel Hossain,Saeed Ajmal,0,0,null,0,0,null,null
+183,30.1,Rubel Hossain,Shafiul Islam,Shahid Afridi,1,0,null,1,0,null,null
+184,30.2,Shafiul Islam,Rubel Hossain,Shahid Afridi,0,0,null,0,0,null,null
+185,30.3,Shafiul Islam,Rubel Hossain,Shahid Afridi,0,0,null,0,1,Shafiul Islam,caught

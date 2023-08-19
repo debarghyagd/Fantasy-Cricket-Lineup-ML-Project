@@ -1,0 +1,247 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,WIA Fernando,M Bhanuka,Navdeep Saini,1,0,null,1,0,null,null
+1,0.2,M Bhanuka,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+2,0.3,M Bhanuka,WIA Fernando,Navdeep Saini,2,0,null,2,0,null,null
+3,0.4,M Bhanuka,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+4,0.5,M Bhanuka,WIA Fernando,Navdeep Saini,0,1,noballs ,1,0,null,null
+5,0.6,M Bhanuka,WIA Fernando,Navdeep Saini,0,1,wides ,1,0,null,null
+6,0.7,M Bhanuka,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+7,0.8,M Bhanuka,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+8,1.1,WIA Fernando,M Bhanuka,C Sakariya,0,0,null,0,0,null,null
+9,1.2,WIA Fernando,M Bhanuka,C Sakariya,4,0,null,4,0,null,null
+10,1.3,WIA Fernando,M Bhanuka,C Sakariya,0,0,null,0,0,null,null
+11,1.4,WIA Fernando,M Bhanuka,C Sakariya,1,0,null,1,0,null,null
+12,1.5,M Bhanuka,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+13,1.6,M Bhanuka,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+14,2.1,WIA Fernando,M Bhanuka,Navdeep Saini,6,0,null,6,0,null,null
+15,2.2,WIA Fernando,M Bhanuka,Navdeep Saini,0,0,null,0,0,null,null
+16,2.3,WIA Fernando,M Bhanuka,Navdeep Saini,0,0,null,0,0,null,null
+17,2.4,WIA Fernando,M Bhanuka,Navdeep Saini,0,0,null,0,0,null,null
+18,2.5,WIA Fernando,M Bhanuka,Navdeep Saini,3,0,null,3,0,null,null
+19,2.6,M Bhanuka,WIA Fernando,Navdeep Saini,1,0,null,1,0,null,null
+20,3.1,M Bhanuka,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+21,3.2,M Bhanuka,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+22,3.3,M Bhanuka,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+23,3.4,M Bhanuka,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+24,3.5,M Bhanuka,WIA Fernando,C Sakariya,4,0,null,4,0,null,null
+25,3.6,M Bhanuka,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+26,4.1,WIA Fernando,M Bhanuka,RD Chahar,0,0,null,0,0,null,null
+27,4.2,WIA Fernando,M Bhanuka,RD Chahar,0,0,null,0,0,null,null
+28,4.3,WIA Fernando,M Bhanuka,RD Chahar,0,0,null,0,0,null,null
+29,4.4,WIA Fernando,M Bhanuka,RD Chahar,0,0,null,0,0,null,null
+30,4.5,WIA Fernando,M Bhanuka,RD Chahar,1,0,null,1,0,null,null
+31,4.6,M Bhanuka,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+32,5.1,WIA Fernando,M Bhanuka,K Gowtham,4,0,null,4,0,null,null
+33,5.2,WIA Fernando,M Bhanuka,K Gowtham,0,5,wides ,5,0,null,null
+34,5.3,WIA Fernando,M Bhanuka,K Gowtham,1,0,null,1,0,null,null
+35,5.4,M Bhanuka,WIA Fernando,K Gowtham,0,0,null,0,1,M Bhanuka,caught
+36,5.5,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+37,5.6,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+38,5.7,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+39,6.1,WIA Fernando,PBB Rajapaksa,RD Chahar,4,0,null,4,0,null,null
+40,6.2,WIA Fernando,PBB Rajapaksa,RD Chahar,0,0,null,0,0,null,null
+41,6.3,WIA Fernando,PBB Rajapaksa,RD Chahar,1,0,null,1,0,null,null
+42,6.4,PBB Rajapaksa,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+43,6.5,PBB Rajapaksa,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+44,6.6,PBB Rajapaksa,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+45,7.1,WIA Fernando,PBB Rajapaksa,K Gowtham,0,0,null,0,0,null,null
+46,7.2,WIA Fernando,PBB Rajapaksa,K Gowtham,1,0,null,1,0,null,null
+47,7.3,PBB Rajapaksa,WIA Fernando,K Gowtham,1,0,null,1,0,null,null
+48,7.4,WIA Fernando,PBB Rajapaksa,K Gowtham,0,0,null,0,0,null,null
+49,7.5,WIA Fernando,PBB Rajapaksa,K Gowtham,1,0,null,1,0,null,null
+50,7.6,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+51,8.1,WIA Fernando,PBB Rajapaksa,Navdeep Saini,2,0,null,2,0,null,null
+52,8.2,WIA Fernando,PBB Rajapaksa,Navdeep Saini,0,0,null,0,0,null,null
+53,8.3,WIA Fernando,PBB Rajapaksa,Navdeep Saini,0,0,null,0,0,null,null
+54,8.4,WIA Fernando,PBB Rajapaksa,Navdeep Saini,1,0,null,1,0,null,null
+55,8.5,PBB Rajapaksa,WIA Fernando,Navdeep Saini,4,0,null,4,0,null,null
+56,8.6,PBB Rajapaksa,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+57,9.1,WIA Fernando,PBB Rajapaksa,K Gowtham,0,0,null,0,0,null,null
+58,9.2,WIA Fernando,PBB Rajapaksa,K Gowtham,1,0,null,1,0,null,null
+59,9.3,PBB Rajapaksa,WIA Fernando,K Gowtham,4,0,null,4,0,null,null
+60,9.4,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+61,9.5,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+62,9.6,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+63,10.1,WIA Fernando,PBB Rajapaksa,HH Pandya,2,0,null,2,0,null,null
+64,10.2,WIA Fernando,PBB Rajapaksa,HH Pandya,1,0,null,1,0,null,null
+65,10.3,PBB Rajapaksa,WIA Fernando,HH Pandya,2,0,null,2,0,null,null
+66,10.4,PBB Rajapaksa,WIA Fernando,HH Pandya,0,0,null,0,0,null,null
+67,10.5,PBB Rajapaksa,WIA Fernando,HH Pandya,4,0,null,4,0,null,null
+68,10.6,PBB Rajapaksa,WIA Fernando,HH Pandya,4,0,null,4,0,null,null
+69,11.1,WIA Fernando,PBB Rajapaksa,K Gowtham,1,0,null,1,0,null,null
+70,11.2,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+71,11.3,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+72,11.4,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+73,11.5,PBB Rajapaksa,WIA Fernando,K Gowtham,1,0,null,1,0,null,null
+74,11.6,WIA Fernando,PBB Rajapaksa,K Gowtham,1,0,null,1,0,null,null
+75,12.1,WIA Fernando,PBB Rajapaksa,HH Pandya,1,0,null,1,0,null,null
+76,12.2,PBB Rajapaksa,WIA Fernando,HH Pandya,0,0,null,0,0,null,null
+77,12.3,PBB Rajapaksa,WIA Fernando,HH Pandya,4,0,null,4,0,null,null
+78,12.4,PBB Rajapaksa,WIA Fernando,HH Pandya,0,0,null,0,0,null,null
+79,12.5,PBB Rajapaksa,WIA Fernando,HH Pandya,0,0,null,0,0,null,null
+80,12.6,PBB Rajapaksa,WIA Fernando,HH Pandya,0,1,wides ,1,0,null,null
+81,12.7,PBB Rajapaksa,WIA Fernando,HH Pandya,4,0,null,4,0,null,null
+82,13.1,WIA Fernando,PBB Rajapaksa,K Gowtham,0,2,legbyes ,2,0,null,null
+83,13.2,WIA Fernando,PBB Rajapaksa,K Gowtham,4,0,null,4,0,null,null
+84,13.3,WIA Fernando,PBB Rajapaksa,K Gowtham,0,1,wides ,1,0,null,null
+85,13.4,WIA Fernando,PBB Rajapaksa,K Gowtham,2,0,null,2,0,null,null
+86,13.5,WIA Fernando,PBB Rajapaksa,K Gowtham,0,0,null,0,0,null,null
+87,13.6,WIA Fernando,PBB Rajapaksa,K Gowtham,1,0,null,1,0,null,null
+88,13.7,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+89,14.1,WIA Fernando,PBB Rajapaksa,N Rana,0,0,null,0,0,null,null
+90,14.2,WIA Fernando,PBB Rajapaksa,N Rana,0,0,null,0,0,null,null
+91,14.3,WIA Fernando,PBB Rajapaksa,N Rana,0,0,null,0,0,null,null
+92,14.4,WIA Fernando,PBB Rajapaksa,N Rana,0,0,null,0,0,null,null
+93,14.5,WIA Fernando,PBB Rajapaksa,N Rana,0,0,null,0,0,null,null
+94,14.6,WIA Fernando,PBB Rajapaksa,N Rana,1,0,null,1,0,null,null
+95,15.1,WIA Fernando,PBB Rajapaksa,RD Chahar,0,0,null,0,0,null,null
+96,15.2,WIA Fernando,PBB Rajapaksa,RD Chahar,1,0,null,1,0,null,null
+97,15.3,PBB Rajapaksa,WIA Fernando,RD Chahar,0,4,byes ,4,0,null,null
+98,15.4,PBB Rajapaksa,WIA Fernando,RD Chahar,1,0,null,1,0,null,null
+99,15.5,WIA Fernando,PBB Rajapaksa,RD Chahar,1,0,null,1,0,null,null
+100,15.6,PBB Rajapaksa,WIA Fernando,RD Chahar,2,0,null,2,0,null,null
+101,16.1,WIA Fernando,PBB Rajapaksa,N Rana,0,0,null,0,0,null,null
+102,16.2,WIA Fernando,PBB Rajapaksa,N Rana,1,0,null,1,0,null,null
+103,16.3,PBB Rajapaksa,WIA Fernando,N Rana,0,0,null,0,0,null,null
+104,16.4,PBB Rajapaksa,WIA Fernando,N Rana,1,0,null,1,0,null,null
+105,16.5,WIA Fernando,PBB Rajapaksa,N Rana,0,0,null,0,0,null,null
+106,16.6,WIA Fernando,PBB Rajapaksa,N Rana,1,0,null,1,0,null,null
+107,17.1,WIA Fernando,PBB Rajapaksa,RD Chahar,1,0,null,1,0,null,null
+108,17.2,PBB Rajapaksa,WIA Fernando,RD Chahar,4,0,null,4,0,null,null
+109,17.3,PBB Rajapaksa,WIA Fernando,RD Chahar,1,0,null,1,0,null,null
+110,17.4,WIA Fernando,PBB Rajapaksa,RD Chahar,0,0,null,0,0,null,null
+111,17.5,WIA Fernando,PBB Rajapaksa,RD Chahar,1,0,null,1,0,null,null
+112,17.6,PBB Rajapaksa,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+113,18.1,WIA Fernando,PBB Rajapaksa,N Rana,1,0,null,1,0,null,null
+114,18.2,PBB Rajapaksa,WIA Fernando,N Rana,1,0,null,1,0,null,null
+115,18.3,WIA Fernando,PBB Rajapaksa,N Rana,1,0,null,1,0,null,null
+116,18.4,PBB Rajapaksa,WIA Fernando,N Rana,2,0,null,2,0,null,null
+117,18.5,PBB Rajapaksa,WIA Fernando,N Rana,1,0,null,1,0,null,null
+118,18.6,WIA Fernando,PBB Rajapaksa,N Rana,0,0,null,0,0,null,null
+119,19.1,PBB Rajapaksa,WIA Fernando,RD Chahar,1,0,null,1,0,null,null
+120,19.2,WIA Fernando,PBB Rajapaksa,RD Chahar,0,0,null,0,0,null,null
+121,19.3,WIA Fernando,PBB Rajapaksa,RD Chahar,1,0,null,1,0,null,null
+122,19.4,PBB Rajapaksa,WIA Fernando,RD Chahar,4,0,null,4,0,null,null
+123,19.5,PBB Rajapaksa,WIA Fernando,RD Chahar,4,0,null,4,0,null,null
+124,19.6,PBB Rajapaksa,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+125,20.1,WIA Fernando,PBB Rajapaksa,C Sakariya,0,0,null,0,0,null,null
+126,20.2,WIA Fernando,PBB Rajapaksa,C Sakariya,1,0,null,1,0,null,null
+127,20.3,PBB Rajapaksa,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+128,20.4,PBB Rajapaksa,WIA Fernando,C Sakariya,4,0,null,4,0,null,null
+129,20.5,PBB Rajapaksa,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+130,20.6,PBB Rajapaksa,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+131,21.1,WIA Fernando,PBB Rajapaksa,K Gowtham,0,0,null,0,0,null,null
+132,21.2,WIA Fernando,PBB Rajapaksa,K Gowtham,0,0,null,0,0,null,null
+133,21.3,WIA Fernando,PBB Rajapaksa,K Gowtham,1,0,null,1,0,null,null
+134,21.4,PBB Rajapaksa,WIA Fernando,K Gowtham,4,0,null,4,0,null,null
+135,21.5,PBB Rajapaksa,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+136,21.6,PBB Rajapaksa,WIA Fernando,K Gowtham,1,0,null,1,0,null,null
+137,22.1,PBB Rajapaksa,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+138,22.2,PBB Rajapaksa,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+139,22.3,PBB Rajapaksa,WIA Fernando,C Sakariya,2,0,null,2,0,null,null
+140,22.4,PBB Rajapaksa,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+141,22.5,PBB Rajapaksa,WIA Fernando,C Sakariya,4,0,null,4,0,null,null
+142,22.6,PBB Rajapaksa,WIA Fernando,C Sakariya,0,0,null,0,1,PBB Rajapaksa,caught
+143,23.1,DM de Silva,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+144,23.2,DM de Silva,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+145,23.3,DM de Silva,WIA Fernando,RD Chahar,1,0,null,1,0,null,null
+146,23.4,WIA Fernando,DM de Silva,RD Chahar,1,0,null,1,0,null,null
+147,23.5,DM de Silva,WIA Fernando,RD Chahar,1,1,noballs ,2,0,null,null
+148,23.6,WIA Fernando,DM de Silva,RD Chahar,1,0,null,1,0,null,null
+149,23.7,DM de Silva,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+150,24.1,WIA Fernando,DM de Silva,C Sakariya,0,0,null,0,0,null,null
+151,24.2,WIA Fernando,DM de Silva,C Sakariya,0,1,wides ,1,0,null,null
+152,24.3,WIA Fernando,DM de Silva,C Sakariya,1,0,null,1,0,null,null
+153,24.4,DM de Silva,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+154,24.5,DM de Silva,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+155,24.6,DM de Silva,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+156,24.7,DM de Silva,WIA Fernando,C Sakariya,0,0,null,0,1,DM de Silva,caught and bowled
+157,25.1,WIA Fernando,KIC Asalanka,Navdeep Saini,0,0,null,0,0,null,null
+158,25.2,WIA Fernando,KIC Asalanka,Navdeep Saini,1,0,null,1,0,null,null
+159,25.3,KIC Asalanka,WIA Fernando,Navdeep Saini,1,0,null,1,0,null,null
+160,25.4,WIA Fernando,KIC Asalanka,Navdeep Saini,1,0,null,1,0,null,null
+161,25.5,KIC Asalanka,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+162,25.6,KIC Asalanka,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+163,26.1,WIA Fernando,KIC Asalanka,C Sakariya,0,0,null,0,0,null,null
+164,26.2,WIA Fernando,KIC Asalanka,C Sakariya,0,1,noballs ,1,0,null,null
+165,26.3,WIA Fernando,KIC Asalanka,C Sakariya,1,1,noballs ,2,0,null,null
+166,26.4,KIC Asalanka,WIA Fernando,C Sakariya,1,0,null,1,0,null,null
+167,26.5,WIA Fernando,KIC Asalanka,C Sakariya,1,0,null,1,0,null,null
+168,26.6,KIC Asalanka,WIA Fernando,C Sakariya,1,0,null,1,0,null,null
+169,26.7,WIA Fernando,KIC Asalanka,C Sakariya,1,0,null,1,0,null,null
+170,26.8,KIC Asalanka,WIA Fernando,C Sakariya,1,0,null,1,0,null,null
+171,27.1,KIC Asalanka,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+172,27.2,KIC Asalanka,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+173,27.3,KIC Asalanka,WIA Fernando,Navdeep Saini,2,0,null,2,0,null,null
+174,27.4,KIC Asalanka,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+175,27.5,KIC Asalanka,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+176,27.6,KIC Asalanka,WIA Fernando,Navdeep Saini,0,0,null,0,0,null,null
+177,28.1,WIA Fernando,KIC Asalanka,K Gowtham,1,0,null,1,0,null,null
+178,28.2,KIC Asalanka,WIA Fernando,K Gowtham,1,0,null,1,0,null,null
+179,28.3,WIA Fernando,KIC Asalanka,K Gowtham,0,0,null,0,0,null,null
+180,28.4,WIA Fernando,KIC Asalanka,K Gowtham,1,0,null,1,0,null,null
+181,28.5,KIC Asalanka,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+182,28.6,KIC Asalanka,WIA Fernando,K Gowtham,4,0,null,4,0,null,null
+183,29.1,WIA Fernando,KIC Asalanka,HH Pandya,0,1,wides ,1,0,null,null
+184,29.2,WIA Fernando,KIC Asalanka,HH Pandya,1,0,null,1,0,null,null
+185,29.3,KIC Asalanka,WIA Fernando,HH Pandya,2,0,null,2,0,null,null
+186,29.4,KIC Asalanka,WIA Fernando,HH Pandya,0,0,null,0,0,null,null
+187,29.5,KIC Asalanka,WIA Fernando,HH Pandya,0,0,null,0,0,null,null
+188,29.6,KIC Asalanka,WIA Fernando,HH Pandya,0,0,null,0,0,null,null
+189,29.7,KIC Asalanka,WIA Fernando,HH Pandya,0,0,null,0,0,null,null
+190,30.1,WIA Fernando,KIC Asalanka,K Gowtham,0,0,null,0,0,null,null
+191,30.2,WIA Fernando,KIC Asalanka,K Gowtham,1,0,null,1,0,null,null
+192,30.3,KIC Asalanka,WIA Fernando,K Gowtham,2,0,null,2,0,null,null
+193,30.4,KIC Asalanka,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+194,30.5,KIC Asalanka,WIA Fernando,K Gowtham,4,0,null,4,0,null,null
+195,30.6,KIC Asalanka,WIA Fernando,K Gowtham,0,0,null,0,0,null,null
+196,31.1,WIA Fernando,KIC Asalanka,HH Pandya,1,0,null,1,0,null,null
+197,31.2,KIC Asalanka,WIA Fernando,HH Pandya,4,0,null,4,0,null,null
+198,31.3,KIC Asalanka,WIA Fernando,HH Pandya,0,0,null,0,0,null,null
+199,31.4,KIC Asalanka,WIA Fernando,HH Pandya,1,0,null,1,0,null,null
+200,31.5,WIA Fernando,KIC Asalanka,HH Pandya,0,5,wides ,5,0,null,null
+201,31.6,WIA Fernando,KIC Asalanka,HH Pandya,1,0,null,1,0,null,null
+202,31.7,KIC Asalanka,WIA Fernando,HH Pandya,0,0,null,0,1,KIC Asalanka,lbw
+203,32.1,WIA Fernando,MD Shanaka,RD Chahar,0,0,null,0,0,null,null
+204,32.2,WIA Fernando,MD Shanaka,RD Chahar,0,0,null,0,0,null,null
+205,32.3,WIA Fernando,MD Shanaka,RD Chahar,1,0,null,1,0,null,null
+206,32.4,MD Shanaka,WIA Fernando,RD Chahar,0,0,null,0,1,MD Shanaka,caught
+207,32.5,RTM Mendis,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+208,32.6,RTM Mendis,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+209,33.1,WIA Fernando,RTM Mendis,HH Pandya,0,0,null,0,0,null,null
+210,33.2,WIA Fernando,RTM Mendis,HH Pandya,1,0,null,1,0,null,null
+211,33.3,RTM Mendis,WIA Fernando,HH Pandya,1,0,null,1,0,null,null
+212,33.4,WIA Fernando,RTM Mendis,HH Pandya,1,0,null,1,0,null,null
+213,33.5,RTM Mendis,WIA Fernando,HH Pandya,0,4,legbyes ,4,0,null,null
+214,33.6,RTM Mendis,WIA Fernando,HH Pandya,1,0,null,1,0,null,null
+215,34.1,RTM Mendis,WIA Fernando,RD Chahar,0,0,null,0,0,null,null
+216,34.2,RTM Mendis,WIA Fernando,RD Chahar,2,0,null,2,0,null,null
+217,34.3,RTM Mendis,WIA Fernando,RD Chahar,4,0,null,4,0,null,null
+218,34.4,RTM Mendis,WIA Fernando,RD Chahar,1,0,null,1,0,null,null
+219,34.5,WIA Fernando,RTM Mendis,RD Chahar,0,0,null,0,0,null,null
+220,34.6,WIA Fernando,RTM Mendis,RD Chahar,1,0,null,1,0,null,null
+221,35.1,WIA Fernando,RTM Mendis,C Sakariya,1,0,null,1,0,null,null
+222,35.2,RTM Mendis,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+223,35.3,RTM Mendis,WIA Fernando,C Sakariya,0,0,null,0,0,null,null
+224,35.4,RTM Mendis,WIA Fernando,C Sakariya,1,0,null,1,0,null,null
+225,35.5,WIA Fernando,RTM Mendis,C Sakariya,0,0,null,0,0,null,null
+226,35.6,WIA Fernando,RTM Mendis,C Sakariya,0,0,null,0,0,null,null
+227,36.1,RTM Mendis,WIA Fernando,RD Chahar,1,0,null,1,0,null,null
+228,36.2,WIA Fernando,RTM Mendis,RD Chahar,0,0,null,0,1,WIA Fernando,caught
+229,36.3,C Karunaratne,RTM Mendis,RD Chahar,0,0,null,0,0,null,null
+230,36.4,C Karunaratne,RTM Mendis,RD Chahar,1,0,null,1,0,null,null
+231,36.5,RTM Mendis,C Karunaratne,RD Chahar,2,0,null,2,0,null,null
+232,36.6,RTM Mendis,C Karunaratne,RD Chahar,0,0,null,0,0,null,null
+233,37.1,C Karunaratne,RTM Mendis,C Sakariya,0,0,null,0,0,null,null
+234,37.2,C Karunaratne,RTM Mendis,C Sakariya,0,0,null,0,0,null,null
+235,37.3,C Karunaratne,RTM Mendis,C Sakariya,0,0,null,0,0,null,null
+236,37.4,C Karunaratne,RTM Mendis,C Sakariya,2,0,null,2,0,null,null
+237,37.5,C Karunaratne,RTM Mendis,C Sakariya,0,0,null,0,0,null,null
+238,37.6,C Karunaratne,RTM Mendis,C Sakariya,0,0,null,0,0,null,null
+239,38.1,RTM Mendis,C Karunaratne,RD Chahar,0,0,null,0,0,null,null
+240,38.2,RTM Mendis,C Karunaratne,RD Chahar,1,0,null,1,0,null,null
+241,38.3,C Karunaratne,RTM Mendis,RD Chahar,0,0,null,0,0,null,null
+242,38.4,C Karunaratne,RTM Mendis,RD Chahar,0,0,null,0,1,C Karunaratne,stumped
+243,38.5,A Dananjaya,RTM Mendis,RD Chahar,4,1,noballs ,5,0,null,null
+244,38.6,A Dananjaya,RTM Mendis,RD Chahar,1,0,null,1,0,null,null
+245,38.7,RTM Mendis,A Dananjaya,RD Chahar,1,0,null,1,0,null,null

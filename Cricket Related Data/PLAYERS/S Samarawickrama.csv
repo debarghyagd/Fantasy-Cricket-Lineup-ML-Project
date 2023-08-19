@@ -1,0 +1,18 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1198487,National Stadium,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",1,5,8,1,0
+1,1198487,National Stadium,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,1,7,0,0
+2,1140381,Pallekele International Cricket Stadium,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,4,4,0,0
+3,1140381,Pallekele International Cricket Stadium,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,3,9,0,0
+4,1140381,Pallekele International Cricket Stadium,England,OP Stone,Right-arm fast,"[0, 1, 0]",0,10,5,2,0
+5,1140381,Pallekele International Cricket Stadium,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",1,13,10,2,0
+6,1140382,Pallekele International Cricket Stadium,England,OP Stone,Right-arm fast,"[0, 1, 0]",0,0,2,0,0
+7,1140383,"R.Premadasa Stadium, Khettarama",England,MM Ali,Right-arm offbreak,"[1, 1, 0]",1,7,7,1,0
+8,1140383,"R.Premadasa Stadium, Khettarama",England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,5,5,0,0
+9,1140383,"R.Premadasa Stadium, Khettarama",England,MA Wood,Right-arm fast,"[0, 1, 0]",0,5,8,1,0
+10,1140383,"R.Premadasa Stadium, Khettarama",England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,8,11,0,0
+11,1122728,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,6,13,1,0
+12,1122728,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",1,4,8,0,0
+13,1122728,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,13,20,1,0
+14,1122728,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,8,6,1,0
+15,1122728,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",0,11,10,2,0
+16,1120290,Sharjah Cricket Stadium,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",1,0,3,0,0

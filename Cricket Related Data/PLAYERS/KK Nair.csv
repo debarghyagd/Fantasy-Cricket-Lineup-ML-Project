@@ -1,0 +1,8 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1007649,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",1,3,9,0,0
+1,1007649,Harare Sports Club,Zimbabwe,T Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,4,11,1,0
+2,1007651,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",1,1,5,0,0
+3,1007651,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,16,21,3,0
+4,1007651,Harare Sports Club,Zimbabwe,CJ Chibhabha,Right-arm medium,"[0, 1, 2]",0,11,25,1,0
+5,1007651,Harare Sports Club,Zimbabwe,AG Cremer,Right-arm legbreak,"[1, 1, 1]",0,8,7,1,0
+6,1007651,Harare Sports Club,Zimbabwe,T Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,2,8,0,0

@@ -1,0 +1,201 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,N Dickwella,WIA Fernando,K Rabada,2,0,null,2,0,null,null
+1,0.2,N Dickwella,WIA Fernando,K Rabada,1,0,null,1,0,null,null
+2,0.3,WIA Fernando,N Dickwella,K Rabada,4,0,null,4,0,null,null
+3,0.4,WIA Fernando,N Dickwella,K Rabada,0,0,null,0,0,null,null
+4,0.5,WIA Fernando,N Dickwella,K Rabada,0,0,null,0,0,null,null
+5,0.6,WIA Fernando,N Dickwella,K Rabada,0,1,wides ,1,0,null,null
+6,0.7,WIA Fernando,N Dickwella,K Rabada,0,0,null,0,0,null,null
+7,1.1,N Dickwella,WIA Fernando,L Ngidi,0,0,null,0,0,null,null
+8,1.2,N Dickwella,WIA Fernando,L Ngidi,0,0,null,0,0,null,null
+9,1.3,N Dickwella,WIA Fernando,L Ngidi,2,0,null,2,0,null,null
+10,1.4,N Dickwella,WIA Fernando,L Ngidi,0,0,null,0,0,null,null
+11,1.5,N Dickwella,WIA Fernando,L Ngidi,1,0,null,1,0,null,null
+12,1.6,WIA Fernando,N Dickwella,L Ngidi,0,0,null,0,0,null,null
+13,2.1,N Dickwella,WIA Fernando,K Rabada,0,0,null,0,0,null,null
+14,2.2,N Dickwella,WIA Fernando,K Rabada,0,0,null,0,0,null,null
+15,2.3,N Dickwella,WIA Fernando,K Rabada,0,0,null,0,1,N Dickwella,caught
+16,2.4,WIA Fernando,MDKJ Perera,K Rabada,0,0,null,0,0,null,null
+17,2.5,WIA Fernando,MDKJ Perera,K Rabada,6,0,null,6,0,null,null
+18,2.6,WIA Fernando,MDKJ Perera,K Rabada,0,5,wides ,5,0,null,null
+19,2.7,WIA Fernando,MDKJ Perera,K Rabada,0,0,null,0,0,null,null
+20,3.1,MDKJ Perera,WIA Fernando,L Ngidi,0,0,null,0,0,null,null
+21,3.2,MDKJ Perera,WIA Fernando,L Ngidi,0,0,null,0,0,null,null
+22,3.3,MDKJ Perera,WIA Fernando,L Ngidi,0,0,null,0,0,null,null
+23,3.4,MDKJ Perera,WIA Fernando,L Ngidi,0,0,null,0,0,null,null
+24,3.5,MDKJ Perera,WIA Fernando,L Ngidi,0,0,null,0,0,null,null
+25,3.6,MDKJ Perera,WIA Fernando,L Ngidi,1,0,null,1,0,null,null
+26,4.1,MDKJ Perera,WIA Fernando,K Rabada,0,0,null,0,0,null,null
+27,4.2,MDKJ Perera,WIA Fernando,K Rabada,2,0,null,2,0,null,null
+28,4.3,MDKJ Perera,WIA Fernando,K Rabada,0,0,null,0,0,null,null
+29,4.4,MDKJ Perera,WIA Fernando,K Rabada,0,4,legbyes ,4,0,null,null
+30,4.5,MDKJ Perera,WIA Fernando,K Rabada,0,0,null,0,0,null,null
+31,4.6,MDKJ Perera,WIA Fernando,K Rabada,0,0,null,0,0,null,null
+32,5.1,WIA Fernando,MDKJ Perera,L Ngidi,0,0,null,0,1,WIA Fernando,bowled
+33,5.2,BOP Fernando,MDKJ Perera,L Ngidi,0,0,null,0,0,null,null
+34,5.3,BOP Fernando,MDKJ Perera,L Ngidi,0,0,null,0,0,null,null
+35,5.4,BOP Fernando,MDKJ Perera,L Ngidi,1,0,null,1,0,null,null
+36,5.5,MDKJ Perera,BOP Fernando,L Ngidi,1,0,null,1,0,null,null
+37,5.6,BOP Fernando,MDKJ Perera,L Ngidi,0,0,null,0,0,null,null
+38,6.1,MDKJ Perera,BOP Fernando,K Rabada,1,0,null,1,0,null,null
+39,6.2,BOP Fernando,MDKJ Perera,K Rabada,0,0,null,0,0,null,null
+40,6.3,BOP Fernando,MDKJ Perera,K Rabada,0,0,null,0,0,null,null
+41,6.4,BOP Fernando,MDKJ Perera,K Rabada,3,0,null,3,0,null,null
+42,6.5,MDKJ Perera,BOP Fernando,K Rabada,0,0,null,0,0,null,null
+43,6.6,MDKJ Perera,BOP Fernando,K Rabada,0,1,wides ,1,0,null,null
+44,6.7,MDKJ Perera,BOP Fernando,K Rabada,2,0,null,2,0,null,null
+45,7.1,BOP Fernando,MDKJ Perera,L Ngidi,0,0,null,0,0,null,null
+46,7.2,BOP Fernando,MDKJ Perera,L Ngidi,1,0,null,1,0,null,null
+47,7.3,MDKJ Perera,BOP Fernando,L Ngidi,0,0,null,0,0,null,null
+48,7.4,MDKJ Perera,BOP Fernando,L Ngidi,0,0,null,0,0,null,null
+49,7.5,MDKJ Perera,BOP Fernando,L Ngidi,0,0,null,0,0,null,null
+50,7.6,MDKJ Perera,BOP Fernando,L Ngidi,0,0,null,0,0,null,null
+51,8.1,BOP Fernando,MDKJ Perera,K Rabada,0,0,null,0,0,null,null
+52,8.2,BOP Fernando,MDKJ Perera,K Rabada,0,0,null,0,0,null,null
+53,8.3,BOP Fernando,MDKJ Perera,K Rabada,2,0,null,2,0,null,null
+54,8.4,BOP Fernando,MDKJ Perera,K Rabada,4,0,null,4,0,null,null
+55,8.5,BOP Fernando,MDKJ Perera,K Rabada,1,0,null,1,0,null,null
+56,8.6,MDKJ Perera,BOP Fernando,K Rabada,0,0,null,0,0,null,null
+57,9.1,BOP Fernando,MDKJ Perera,L Ngidi,0,0,null,0,0,null,null
+58,9.2,BOP Fernando,MDKJ Perera,L Ngidi,0,0,null,0,0,null,null
+59,9.3,BOP Fernando,MDKJ Perera,L Ngidi,4,0,null,4,0,null,null
+60,9.4,BOP Fernando,MDKJ Perera,L Ngidi,0,0,null,0,0,null,null
+61,9.5,BOP Fernando,MDKJ Perera,L Ngidi,1,0,null,1,0,null,null
+62,9.6,MDKJ Perera,BOP Fernando,L Ngidi,1,0,null,1,0,null,null
+63,10.1,MDKJ Perera,BOP Fernando,A Nortje,0,0,null,0,1,MDKJ Perera,caught
+64,10.2,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+65,10.3,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+66,10.4,BKG Mendis,BOP Fernando,A Nortje,1,0,null,1,0,null,null
+67,10.5,BOP Fernando,BKG Mendis,A Nortje,0,0,null,0,0,null,null
+68,10.6,BOP Fernando,BKG Mendis,A Nortje,0,0,null,0,0,null,null
+69,11.1,BKG Mendis,BOP Fernando,PWA Mulder,0,0,null,0,0,null,null
+70,11.2,BKG Mendis,BOP Fernando,PWA Mulder,0,0,null,0,0,null,null
+71,11.3,BKG Mendis,BOP Fernando,PWA Mulder,1,0,null,1,0,null,null
+72,11.4,BOP Fernando,BKG Mendis,PWA Mulder,1,0,null,1,0,null,null
+73,11.5,BKG Mendis,BOP Fernando,PWA Mulder,1,0,null,1,0,null,null
+74,11.6,BOP Fernando,BKG Mendis,PWA Mulder,0,0,null,0,0,null,null
+75,12.1,BKG Mendis,BOP Fernando,A Nortje,4,0,null,4,0,null,null
+76,12.2,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+77,12.3,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+78,12.4,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+79,12.5,BKG Mendis,BOP Fernando,A Nortje,2,0,null,2,0,null,null
+80,12.6,BKG Mendis,BOP Fernando,A Nortje,4,0,null,4,0,null,null
+81,13.1,BOP Fernando,BKG Mendis,PWA Mulder,1,0,null,1,0,null,null
+82,13.2,BKG Mendis,BOP Fernando,PWA Mulder,2,0,null,2,0,null,null
+83,13.3,BKG Mendis,BOP Fernando,PWA Mulder,1,0,null,1,0,null,null
+84,13.4,BOP Fernando,BKG Mendis,PWA Mulder,0,1,wides ,1,0,null,null
+85,13.5,BOP Fernando,BKG Mendis,PWA Mulder,4,0,null,4,0,null,null
+86,13.6,BOP Fernando,BKG Mendis,PWA Mulder,1,0,null,1,0,null,null
+87,13.7,BKG Mendis,BOP Fernando,PWA Mulder,0,0,null,0,0,null,null
+88,14.1,BOP Fernando,BKG Mendis,A Nortje,1,0,null,1,0,null,null
+89,14.2,BKG Mendis,BOP Fernando,A Nortje,1,0,null,1,0,null,null
+90,14.3,BOP Fernando,BKG Mendis,A Nortje,0,0,null,0,0,null,null
+91,14.4,BOP Fernando,BKG Mendis,A Nortje,1,0,null,1,0,null,null
+92,14.5,BKG Mendis,BOP Fernando,A Nortje,1,0,null,1,0,null,null
+93,14.6,BOP Fernando,BKG Mendis,A Nortje,0,0,null,0,0,null,null
+94,15.1,BKG Mendis,BOP Fernando,Imran Tahir,1,0,null,1,0,null,null
+95,15.2,BOP Fernando,BKG Mendis,Imran Tahir,1,0,null,1,0,null,null
+96,15.3,BKG Mendis,BOP Fernando,Imran Tahir,1,0,null,1,0,null,null
+97,15.4,BOP Fernando,BKG Mendis,Imran Tahir,0,0,null,0,0,null,null
+98,15.5,BOP Fernando,BKG Mendis,Imran Tahir,0,0,null,0,0,null,null
+99,15.6,BOP Fernando,BKG Mendis,Imran Tahir,0,0,null,0,0,null,null
+100,16.1,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+101,16.2,BKG Mendis,BOP Fernando,A Nortje,1,0,null,1,0,null,null
+102,16.3,BOP Fernando,BKG Mendis,A Nortje,1,0,null,1,0,null,null
+103,16.4,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+104,16.5,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+105,16.6,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+106,17.1,BOP Fernando,BKG Mendis,Imran Tahir,0,0,null,0,0,null,null
+107,17.2,BOP Fernando,BKG Mendis,Imran Tahir,1,0,null,1,0,null,null
+108,17.3,BKG Mendis,BOP Fernando,Imran Tahir,1,0,null,1,0,null,null
+109,17.4,BOP Fernando,BKG Mendis,Imran Tahir,0,0,null,0,0,null,null
+110,17.5,BOP Fernando,BKG Mendis,Imran Tahir,1,0,null,1,0,null,null
+111,17.6,BKG Mendis,BOP Fernando,Imran Tahir,1,0,null,1,0,null,null
+112,18.1,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+113,18.2,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+114,18.3,BKG Mendis,BOP Fernando,A Nortje,0,0,null,0,0,null,null
+115,18.4,BKG Mendis,BOP Fernando,A Nortje,1,0,null,1,0,null,null
+116,18.5,BOP Fernando,BKG Mendis,A Nortje,0,1,wides ,1,0,null,null
+117,18.6,BOP Fernando,BKG Mendis,A Nortje,0,0,null,0,0,null,null
+118,18.7,BOP Fernando,BKG Mendis,A Nortje,1,0,null,1,0,null,null
+119,19.1,BOP Fernando,BKG Mendis,Imran Tahir,0,0,null,0,0,null,null
+120,19.2,BOP Fernando,BKG Mendis,Imran Tahir,0,0,null,0,0,null,null
+121,19.3,BOP Fernando,BKG Mendis,Imran Tahir,0,0,null,0,1,BKG Mendis,run out
+122,19.4,DM de Silva,BOP Fernando,Imran Tahir,0,0,null,0,0,null,null
+123,19.5,DM de Silva,BOP Fernando,Imran Tahir,0,0,null,0,0,null,null
+124,19.6,DM de Silva,BOP Fernando,Imran Tahir,0,0,null,0,0,null,null
+125,20.1,BOP Fernando,DM de Silva,A Nortje,0,0,null,0,1,BOP Fernando,lbw
+126,20.2,NLTC Perera,DM de Silva,A Nortje,0,0,null,0,0,null,null
+127,20.3,NLTC Perera,DM de Silva,A Nortje,0,0,null,0,0,null,null
+128,20.4,NLTC Perera,DM de Silva,A Nortje,0,0,null,0,0,null,null
+129,20.5,NLTC Perera,DM de Silva,A Nortje,1,0,null,1,0,null,null
+130,20.6,DM de Silva,NLTC Perera,A Nortje,0,0,null,0,0,null,null
+131,21.1,NLTC Perera,DM de Silva,Imran Tahir,1,0,null,1,0,null,null
+132,21.2,DM de Silva,NLTC Perera,Imran Tahir,0,0,null,0,0,null,null
+133,21.3,DM de Silva,NLTC Perera,Imran Tahir,0,0,null,0,0,null,null
+134,21.4,DM de Silva,NLTC Perera,Imran Tahir,1,0,null,1,0,null,null
+135,21.5,NLTC Perera,DM de Silva,Imran Tahir,0,0,null,0,0,null,null
+136,21.6,NLTC Perera,DM de Silva,Imran Tahir,0,0,null,0,0,null,null
+137,22.1,DM de Silva,NLTC Perera,A Nortje,0,0,null,0,0,null,null
+138,22.2,DM de Silva,NLTC Perera,A Nortje,4,0,null,4,0,null,null
+139,22.3,DM de Silva,NLTC Perera,A Nortje,0,0,null,0,0,null,null
+140,22.4,DM de Silva,NLTC Perera,A Nortje,0,0,null,0,0,null,null
+141,22.5,DM de Silva,NLTC Perera,A Nortje,0,0,null,0,0,null,null
+142,22.6,DM de Silva,NLTC Perera,A Nortje,0,0,null,0,0,null,null
+143,23.1,NLTC Perera,DM de Silva,Imran Tahir,0,0,null,0,0,null,null
+144,23.2,NLTC Perera,DM de Silva,Imran Tahir,0,0,null,0,0,null,null
+145,23.3,NLTC Perera,DM de Silva,Imran Tahir,1,0,null,1,0,null,null
+146,23.4,DM de Silva,NLTC Perera,Imran Tahir,1,0,null,1,0,null,null
+147,23.5,NLTC Perera,DM de Silva,Imran Tahir,1,0,null,1,0,null,null
+148,23.6,DM de Silva,NLTC Perera,Imran Tahir,1,0,null,1,0,null,null
+149,24.1,DM de Silva,NLTC Perera,K Rabada,0,0,null,0,0,null,null
+150,24.2,DM de Silva,NLTC Perera,K Rabada,0,0,null,0,0,null,null
+151,24.3,DM de Silva,NLTC Perera,K Rabada,0,0,null,0,0,null,null
+152,24.4,DM de Silva,NLTC Perera,K Rabada,1,0,null,1,0,null,null
+153,24.5,NLTC Perera,DM de Silva,K Rabada,4,0,null,4,0,null,null
+154,24.6,NLTC Perera,DM de Silva,K Rabada,0,0,null,0,0,null,null
+155,25.1,DM de Silva,NLTC Perera,Imran Tahir,0,0,null,0,0,null,null
+156,25.2,DM de Silva,NLTC Perera,Imran Tahir,0,0,null,0,0,null,null
+157,25.3,DM de Silva,NLTC Perera,Imran Tahir,4,0,null,4,0,null,null
+158,25.4,DM de Silva,NLTC Perera,Imran Tahir,2,0,null,2,0,null,null
+159,25.5,DM de Silva,NLTC Perera,Imran Tahir,0,1,wides ,1,0,null,null
+160,25.6,DM de Silva,NLTC Perera,Imran Tahir,1,0,null,1,0,null,null
+161,25.7,NLTC Perera,DM de Silva,Imran Tahir,0,0,null,0,0,null,null
+162,26.1,DM de Silva,NLTC Perera,K Rabada,0,0,null,0,0,null,null
+163,26.2,DM de Silva,NLTC Perera,K Rabada,0,0,null,0,1,DM de Silva,caught
+164,26.3,A Dananjaya,NLTC Perera,K Rabada,1,0,null,1,0,null,null
+165,26.4,NLTC Perera,A Dananjaya,K Rabada,1,0,null,1,0,null,null
+166,26.5,A Dananjaya,NLTC Perera,K Rabada,0,0,null,0,0,null,null
+167,26.6,A Dananjaya,NLTC Perera,K Rabada,0,0,null,0,0,null,null
+168,27.1,NLTC Perera,A Dananjaya,Imran Tahir,4,0,null,4,0,null,null
+169,27.2,NLTC Perera,A Dananjaya,Imran Tahir,0,0,null,0,0,null,null
+170,27.3,NLTC Perera,A Dananjaya,Imran Tahir,1,0,null,1,0,null,null
+171,27.4,A Dananjaya,NLTC Perera,Imran Tahir,0,0,null,0,0,null,null
+172,27.5,A Dananjaya,NLTC Perera,Imran Tahir,2,0,null,2,0,null,null
+173,27.6,A Dananjaya,NLTC Perera,Imran Tahir,0,0,null,0,0,null,null
+174,28.1,NLTC Perera,A Dananjaya,K Rabada,0,0,null,0,0,null,null
+175,28.2,NLTC Perera,A Dananjaya,K Rabada,1,0,null,1,0,null,null
+176,28.3,A Dananjaya,NLTC Perera,K Rabada,0,0,null,0,0,null,null
+177,28.4,A Dananjaya,NLTC Perera,K Rabada,0,0,null,0,0,null,null
+178,28.5,A Dananjaya,NLTC Perera,K Rabada,0,0,null,0,0,null,null
+179,28.6,A Dananjaya,NLTC Perera,K Rabada,0,0,null,0,0,null,null
+180,29.1,NLTC Perera,A Dananjaya,Imran Tahir,2,0,null,2,0,null,null
+181,29.2,NLTC Perera,A Dananjaya,Imran Tahir,6,0,null,6,0,null,null
+182,29.3,NLTC Perera,A Dananjaya,Imran Tahir,0,0,null,0,1,NLTC Perera,caught
+183,29.4,A Dananjaya,CAK Rajitha,Imran Tahir,1,0,null,1,0,null,null
+184,29.5,CAK Rajitha,A Dananjaya,Imran Tahir,0,0,null,0,1,CAK Rajitha,lbw
+185,29.6,SL Malinga,A Dananjaya,Imran Tahir,0,0,null,0,0,null,null
+186,30.1,A Dananjaya,SL Malinga,K Rabada,0,0,null,0,0,null,null
+187,30.2,A Dananjaya,SL Malinga,K Rabada,0,0,null,0,0,null,null
+188,30.3,A Dananjaya,SL Malinga,K Rabada,0,0,null,0,0,null,null
+189,30.4,A Dananjaya,SL Malinga,K Rabada,0,0,null,0,0,null,null
+190,30.5,A Dananjaya,SL Malinga,K Rabada,0,0,null,0,1,A Dananjaya,caught
+191,30.6,MVT Fernando,SL Malinga,K Rabada,0,0,null,0,0,null,null
+192,31.1,SL Malinga,MVT Fernando,Imran Tahir,0,0,null,0,0,null,null
+193,31.2,SL Malinga,MVT Fernando,Imran Tahir,1,0,null,1,0,null,null
+194,31.3,MVT Fernando,SL Malinga,Imran Tahir,0,0,null,0,0,null,null
+195,31.4,MVT Fernando,SL Malinga,Imran Tahir,0,0,null,0,0,null,null
+196,31.5,MVT Fernando,SL Malinga,Imran Tahir,0,0,null,0,0,null,null
+197,31.6,MVT Fernando,SL Malinga,Imran Tahir,1,0,null,1,0,null,null
+198,32.1,MVT Fernando,SL Malinga,L Ngidi,1,0,null,1,0,null,null
+199,32.2,SL Malinga,MVT Fernando,L Ngidi,0,0,null,0,1,SL Malinga,caught

@@ -1,0 +1,131 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,AN Petersen,RJ Peterson,SL Malinga,2,0,null,2,0,null,null
+1,0.2,AN Petersen,RJ Peterson,SL Malinga,1,0,null,1,0,null,null
+2,0.3,RJ Peterson,AN Petersen,SL Malinga,3,0,null,3,0,null,null
+3,0.4,AN Petersen,RJ Peterson,SL Malinga,1,0,null,1,0,null,null
+4,0.5,RJ Peterson,AN Petersen,SL Malinga,0,0,null,0,0,null,null
+5,0.6,RJ Peterson,AN Petersen,SL Malinga,0,0,null,0,1,RJ Peterson,bowled
+6,1.1,AN Petersen,JP Duminy,RMS Eranga,0,0,null,0,0,null,null
+7,1.2,AN Petersen,JP Duminy,RMS Eranga,0,0,null,0,0,null,null
+8,1.3,AN Petersen,JP Duminy,RMS Eranga,0,0,null,0,0,null,null
+9,1.4,AN Petersen,JP Duminy,RMS Eranga,4,0,null,4,0,null,null
+10,1.5,AN Petersen,JP Duminy,RMS Eranga,0,0,null,0,0,null,null
+11,1.6,AN Petersen,JP Duminy,RMS Eranga,0,0,null,0,0,null,null
+12,2.1,JP Duminy,AN Petersen,SL Malinga,3,0,null,3,0,null,null
+13,2.2,AN Petersen,JP Duminy,SL Malinga,1,0,null,1,0,null,null
+14,2.3,JP Duminy,AN Petersen,SL Malinga,0,0,null,0,0,null,null
+15,2.4,JP Duminy,AN Petersen,SL Malinga,0,1,wides ,1,0,null,null
+16,2.5,JP Duminy,AN Petersen,SL Malinga,0,0,null,0,0,null,null
+17,2.6,JP Duminy,AN Petersen,SL Malinga,0,0,null,0,0,null,null
+18,2.7,JP Duminy,AN Petersen,SL Malinga,4,0,null,4,0,null,null
+19,3.1,AN Petersen,JP Duminy,RMS Eranga,0,0,null,0,0,null,null
+20,3.2,AN Petersen,JP Duminy,RMS Eranga,0,1,wides ,1,0,null,null
+21,3.3,AN Petersen,JP Duminy,RMS Eranga,4,0,null,4,0,null,null
+22,3.4,AN Petersen,JP Duminy,RMS Eranga,0,0,null,0,0,null,null
+23,3.5,AN Petersen,JP Duminy,RMS Eranga,0,0,null,0,0,null,null
+24,3.6,AN Petersen,JP Duminy,RMS Eranga,2,0,null,2,0,null,null
+25,3.7,AN Petersen,JP Duminy,RMS Eranga,0,0,null,0,0,null,null
+26,4.1,JP Duminy,AN Petersen,NLTC Perera,0,0,null,0,0,null,null
+27,4.2,JP Duminy,AN Petersen,NLTC Perera,0,0,null,0,0,null,null
+28,4.3,JP Duminy,AN Petersen,NLTC Perera,0,0,null,0,0,null,null
+29,4.4,JP Duminy,AN Petersen,NLTC Perera,0,0,null,0,0,null,null
+30,4.5,JP Duminy,AN Petersen,NLTC Perera,0,0,null,0,0,null,null
+31,4.6,JP Duminy,AN Petersen,NLTC Perera,3,0,null,3,0,null,null
+32,5.1,JP Duminy,AN Petersen,RMS Eranga,0,0,null,0,0,null,null
+33,5.2,JP Duminy,AN Petersen,RMS Eranga,0,0,null,0,0,null,null
+34,5.3,JP Duminy,AN Petersen,RMS Eranga,0,0,null,0,0,null,null
+35,5.4,JP Duminy,AN Petersen,RMS Eranga,4,0,null,4,0,null,null
+36,5.5,JP Duminy,AN Petersen,RMS Eranga,1,0,null,1,0,null,null
+37,5.6,AN Petersen,JP Duminy,RMS Eranga,4,0,null,4,0,null,null
+38,6.1,JP Duminy,AN Petersen,NLTC Perera,0,0,null,0,1,JP Duminy,caught
+39,6.2,AB de Villiers,AN Petersen,NLTC Perera,0,1,legbyes ,1,0,null,null
+40,6.3,AN Petersen,AB de Villiers,NLTC Perera,1,0,null,1,0,null,null
+41,6.4,AB de Villiers,AN Petersen,NLTC Perera,0,0,null,0,0,null,null
+42,6.5,AB de Villiers,AN Petersen,NLTC Perera,4,0,null,4,0,null,null
+43,6.6,AB de Villiers,AN Petersen,NLTC Perera,0,0,null,0,0,null,null
+44,7.1,AN Petersen,AB de Villiers,RMS Eranga,0,0,null,0,0,null,null
+45,7.2,AN Petersen,AB de Villiers,RMS Eranga,0,0,null,0,0,null,null
+46,7.3,AN Petersen,AB de Villiers,RMS Eranga,0,0,null,0,0,null,null
+47,7.4,AN Petersen,AB de Villiers,RMS Eranga,0,0,null,0,0,null,null
+48,7.5,AN Petersen,AB de Villiers,RMS Eranga,0,0,null,0,0,null,null
+49,7.6,AN Petersen,AB de Villiers,RMS Eranga,0,1,wides ,1,0,null,null
+50,7.7,AN Petersen,AB de Villiers,RMS Eranga,0,0,null,0,0,null,null
+51,8.1,AB de Villiers,AN Petersen,NLTC Perera,0,0,null,0,0,null,null
+52,8.2,AB de Villiers,AN Petersen,NLTC Perera,0,0,null,0,0,null,null
+53,8.3,AB de Villiers,AN Petersen,NLTC Perera,2,0,null,2,0,null,null
+54,8.4,AB de Villiers,AN Petersen,NLTC Perera,0,0,null,0,0,null,null
+55,8.5,AB de Villiers,AN Petersen,NLTC Perera,1,0,null,1,0,null,null
+56,8.6,AN Petersen,AB de Villiers,NLTC Perera,4,0,null,4,0,null,null
+57,9.1,AB de Villiers,AN Petersen,HMRKB Herath,1,0,null,1,0,null,null
+58,9.2,AN Petersen,AB de Villiers,HMRKB Herath,0,0,null,0,0,null,null
+59,9.3,AN Petersen,AB de Villiers,HMRKB Herath,0,1,wides ,1,0,null,null
+60,9.4,AN Petersen,AB de Villiers,HMRKB Herath,0,0,null,0,0,null,null
+61,9.5,AN Petersen,AB de Villiers,HMRKB Herath,0,0,null,0,1,AN Petersen,lbw
+62,9.6,F du Plessis,AB de Villiers,HMRKB Herath,1,0,null,1,0,null,null
+63,9.7,AB de Villiers,F du Plessis,HMRKB Herath,0,0,null,0,0,null,null
+64,10.1,F du Plessis,AB de Villiers,TM Dilshan,0,0,null,0,0,null,null
+65,10.2,F du Plessis,AB de Villiers,TM Dilshan,1,0,null,1,0,null,null
+66,10.3,AB de Villiers,F du Plessis,TM Dilshan,1,0,null,1,0,null,null
+67,10.4,F du Plessis,AB de Villiers,TM Dilshan,1,0,null,1,0,null,null
+68,10.5,AB de Villiers,F du Plessis,TM Dilshan,1,0,null,1,0,null,null
+69,10.6,F du Plessis,AB de Villiers,TM Dilshan,0,0,null,0,0,null,null
+70,11.1,AB de Villiers,F du Plessis,HMRKB Herath,1,0,null,1,0,null,null
+71,11.2,F du Plessis,AB de Villiers,HMRKB Herath,1,0,null,1,0,null,null
+72,11.3,AB de Villiers,F du Plessis,HMRKB Herath,0,0,null,0,0,null,null
+73,11.4,AB de Villiers,F du Plessis,HMRKB Herath,0,0,null,0,0,null,null
+74,11.5,AB de Villiers,F du Plessis,HMRKB Herath,1,0,null,1,0,null,null
+75,11.6,F du Plessis,AB de Villiers,HMRKB Herath,4,0,null,4,0,null,null
+76,12.1,AB de Villiers,F du Plessis,TM Dilshan,0,0,null,0,1,AB de Villiers,lbw
+77,12.2,DA Miller,F du Plessis,TM Dilshan,0,0,null,0,0,null,null
+78,12.3,DA Miller,F du Plessis,TM Dilshan,0,0,null,0,0,null,null
+79,12.4,DA Miller,F du Plessis,TM Dilshan,0,0,null,0,0,null,null
+80,12.5,DA Miller,F du Plessis,TM Dilshan,1,0,null,1,0,null,null
+81,12.6,F du Plessis,DA Miller,TM Dilshan,0,0,null,0,0,null,null
+82,13.1,DA Miller,F du Plessis,HMRKB Herath,0,0,null,0,0,null,null
+83,13.2,DA Miller,F du Plessis,HMRKB Herath,0,0,null,0,0,null,null
+84,13.3,DA Miller,F du Plessis,HMRKB Herath,1,0,null,1,0,null,null
+85,13.4,F du Plessis,DA Miller,HMRKB Herath,0,0,null,0,1,F du Plessis,caught
+86,13.5,R McLaren,DA Miller,HMRKB Herath,1,0,null,1,0,null,null
+87,13.6,DA Miller,R McLaren,HMRKB Herath,1,0,null,1,0,null,null
+88,14.1,DA Miller,R McLaren,TM Dilshan,2,0,null,2,0,null,null
+89,14.2,DA Miller,R McLaren,TM Dilshan,0,0,null,0,0,null,null
+90,14.3,DA Miller,R McLaren,TM Dilshan,0,0,null,0,0,null,null
+91,14.4,DA Miller,R McLaren,TM Dilshan,1,0,null,1,0,null,null
+92,14.5,R McLaren,DA Miller,TM Dilshan,1,0,null,1,0,null,null
+93,14.6,DA Miller,R McLaren,TM Dilshan,1,0,null,1,0,null,null
+94,15.1,DA Miller,R McLaren,HMRKB Herath,0,0,null,0,0,null,null
+95,15.2,DA Miller,R McLaren,HMRKB Herath,1,0,null,1,0,null,null
+96,15.3,R McLaren,DA Miller,HMRKB Herath,1,0,null,1,0,null,null
+97,15.4,DA Miller,R McLaren,HMRKB Herath,0,0,null,0,0,null,null
+98,15.5,DA Miller,R McLaren,HMRKB Herath,1,0,null,1,0,null,null
+99,15.6,R McLaren,DA Miller,HMRKB Herath,0,0,null,0,0,null,null
+100,16.1,DA Miller,R McLaren,TM Dilshan,1,0,null,1,0,null,null
+101,16.2,R McLaren,DA Miller,TM Dilshan,4,0,null,4,0,null,null
+102,16.3,R McLaren,DA Miller,TM Dilshan,0,0,null,0,0,null,null
+103,16.4,R McLaren,DA Miller,TM Dilshan,0,0,null,0,0,null,null
+104,16.5,R McLaren,DA Miller,TM Dilshan,1,0,null,1,0,null,null
+105,16.6,DA Miller,R McLaren,TM Dilshan,0,0,null,0,0,null,null
+106,17.1,R McLaren,DA Miller,J Mubarak,0,0,null,0,0,null,null
+107,17.2,R McLaren,DA Miller,J Mubarak,1,0,null,1,0,null,null
+108,17.3,DA Miller,R McLaren,J Mubarak,0,0,null,0,0,null,null
+109,17.4,DA Miller,R McLaren,J Mubarak,2,0,null,2,0,null,null
+110,17.5,DA Miller,R McLaren,J Mubarak,2,0,null,2,0,null,null
+111,17.6,DA Miller,R McLaren,J Mubarak,0,0,null,0,0,null,null
+112,18.1,R McLaren,DA Miller,TM Dilshan,1,0,null,1,0,null,null
+113,18.2,DA Miller,R McLaren,TM Dilshan,1,0,null,1,0,null,null
+114,18.3,R McLaren,DA Miller,TM Dilshan,0,0,null,0,0,null,null
+115,18.4,R McLaren,DA Miller,TM Dilshan,1,0,null,1,0,null,null
+116,18.5,DA Miller,R McLaren,TM Dilshan,1,0,null,1,0,null,null
+117,18.6,R McLaren,DA Miller,TM Dilshan,0,0,null,0,0,null,null
+118,19.1,DA Miller,R McLaren,SL Malinga,0,0,null,0,0,null,null
+119,19.2,DA Miller,R McLaren,SL Malinga,0,0,null,0,0,null,null
+120,19.3,DA Miller,R McLaren,SL Malinga,0,0,null,0,0,null,null
+121,19.4,DA Miller,R McLaren,SL Malinga,0,0,null,0,0,null,null
+122,19.5,DA Miller,R McLaren,SL Malinga,0,0,null,0,0,null,null
+123,19.6,DA Miller,R McLaren,SL Malinga,1,0,null,1,0,null,null
+124,20.1,DA Miller,R McLaren,NLTC Perera,4,0,null,4,0,null,null
+125,20.2,DA Miller,R McLaren,NLTC Perera,1,0,null,1,0,null,null
+126,20.3,R McLaren,DA Miller,NLTC Perera,1,0,null,1,0,null,null
+127,20.4,DA Miller,R McLaren,NLTC Perera,0,1,legbyes ,1,0,null,null
+128,20.5,R McLaren,DA Miller,NLTC Perera,2,0,null,2,0,null,null
+129,20.6,R McLaren,DA Miller,NLTC Perera,0,0,null,0,0,null,null

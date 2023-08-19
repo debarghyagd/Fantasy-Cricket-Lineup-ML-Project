@@ -1,0 +1,133 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,SD Outerbridge,OL Pitcher,Mashrafe Mortaza,0,1,legbyes ,1,0,null,null
+1,0.2,OL Pitcher,SD Outerbridge,Mashrafe Mortaza,0,0,null,0,0,null,null
+2,0.3,OL Pitcher,SD Outerbridge,Mashrafe Mortaza,1,0,null,1,0,null,null
+3,0.4,SD Outerbridge,OL Pitcher,Mashrafe Mortaza,0,0,null,0,0,null,null
+4,0.5,SD Outerbridge,OL Pitcher,Mashrafe Mortaza,0,0,null,0,0,null,null
+5,0.6,SD Outerbridge,OL Pitcher,Mashrafe Mortaza,0,0,null,0,1,SD Outerbridge,caught
+6,1.1,OL Pitcher,DCC Borden,Syed Rasel,1,0,null,1,0,null,null
+7,1.2,DCC Borden,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+8,1.3,DCC Borden,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+9,1.4,DCC Borden,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+10,1.5,DCC Borden,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+11,1.6,DCC Borden,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+12,2.1,OL Pitcher,DCC Borden,Mashrafe Mortaza,0,0,null,0,0,null,null
+13,2.2,OL Pitcher,DCC Borden,Mashrafe Mortaza,1,0,null,1,0,null,null
+14,2.3,DCC Borden,OL Pitcher,Mashrafe Mortaza,0,0,null,0,0,null,null
+15,2.4,DCC Borden,OL Pitcher,Mashrafe Mortaza,0,1,wides ,1,0,null,null
+16,2.5,DCC Borden,OL Pitcher,Mashrafe Mortaza,0,0,null,0,0,null,null
+17,2.6,DCC Borden,OL Pitcher,Mashrafe Mortaza,0,0,null,0,0,null,null
+18,2.7,DCC Borden,OL Pitcher,Mashrafe Mortaza,1,0,null,1,0,null,null
+19,3.1,DCC Borden,OL Pitcher,Syed Rasel,1,0,null,1,0,null,null
+20,3.2,OL Pitcher,DCC Borden,Syed Rasel,0,0,null,0,0,null,null
+21,3.3,OL Pitcher,DCC Borden,Syed Rasel,0,0,null,0,0,null,null
+22,3.4,OL Pitcher,DCC Borden,Syed Rasel,0,0,null,0,0,null,null
+23,3.5,OL Pitcher,DCC Borden,Syed Rasel,0,1,noballs ,1,0,null,null
+24,3.6,OL Pitcher,DCC Borden,Syed Rasel,0,0,null,0,0,null,null
+25,3.7,OL Pitcher,DCC Borden,Syed Rasel,0,0,null,0,0,null,null
+26,4.1,DCC Borden,OL Pitcher,Mashrafe Mortaza,0,0,null,0,1,DCC Borden,caught
+27,4.2,OL Pitcher,DL Hemp,Mashrafe Mortaza,0,0,null,0,0,null,null
+28,4.3,OL Pitcher,DL Hemp,Mashrafe Mortaza,2,0,null,2,0,null,null
+29,4.4,OL Pitcher,DL Hemp,Mashrafe Mortaza,0,0,null,0,0,null,null
+30,4.5,OL Pitcher,DL Hemp,Mashrafe Mortaza,0,0,null,0,0,null,null
+31,4.6,OL Pitcher,DL Hemp,Mashrafe Mortaza,0,1,noballs ,1,0,null,null
+32,4.7,OL Pitcher,DL Hemp,Mashrafe Mortaza,0,0,null,0,0,null,null
+33,5.1,DL Hemp,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+34,5.2,DL Hemp,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+35,5.3,DL Hemp,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+36,5.4,DL Hemp,OL Pitcher,Syed Rasel,0,0,null,0,1,DL Hemp,caught
+37,5.5,IH Romaine,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+38,5.6,IH Romaine,OL Pitcher,Syed Rasel,1,0,null,1,0,null,null
+39,6.1,IH Romaine,OL Pitcher,Mashrafe Mortaza,0,0,null,0,0,null,null
+40,6.2,IH Romaine,OL Pitcher,Mashrafe Mortaza,0,0,null,0,0,null,null
+41,6.3,IH Romaine,OL Pitcher,Mashrafe Mortaza,0,0,null,0,0,null,null
+42,6.4,IH Romaine,OL Pitcher,Mashrafe Mortaza,0,1,wides ,1,0,null,null
+43,6.5,IH Romaine,OL Pitcher,Mashrafe Mortaza,0,0,null,0,0,null,null
+44,6.6,IH Romaine,OL Pitcher,Mashrafe Mortaza,0,0,null,0,0,null,null
+45,6.7,IH Romaine,OL Pitcher,Mashrafe Mortaza,0,0,null,0,0,null,null
+46,7.1,OL Pitcher,IH Romaine,Syed Rasel,0,1,wides ,1,0,null,null
+47,7.2,OL Pitcher,IH Romaine,Syed Rasel,0,0,null,0,0,null,null
+48,7.3,OL Pitcher,IH Romaine,Syed Rasel,2,0,null,2,0,null,null
+49,7.4,OL Pitcher,IH Romaine,Syed Rasel,0,0,null,0,0,null,null
+50,7.5,OL Pitcher,IH Romaine,Syed Rasel,1,0,null,1,0,null,null
+51,7.6,IH Romaine,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+52,7.7,IH Romaine,OL Pitcher,Syed Rasel,2,0,null,2,0,null,null
+53,8.1,OL Pitcher,IH Romaine,Abdur Razzak,1,0,null,1,0,null,null
+54,8.2,IH Romaine,OL Pitcher,Abdur Razzak,0,0,null,0,0,null,null
+55,8.3,IH Romaine,OL Pitcher,Abdur Razzak,0,0,null,0,0,null,null
+56,8.4,IH Romaine,OL Pitcher,Abdur Razzak,0,0,null,0,0,null,null
+57,8.5,IH Romaine,OL Pitcher,Abdur Razzak,0,0,null,0,0,null,null
+58,8.6,IH Romaine,OL Pitcher,Abdur Razzak,0,0,null,0,0,null,null
+59,9.1,OL Pitcher,IH Romaine,Syed Rasel,0,0,null,0,0,null,null
+60,9.2,OL Pitcher,IH Romaine,Syed Rasel,4,0,null,4,0,null,null
+61,9.3,OL Pitcher,IH Romaine,Syed Rasel,0,0,null,0,0,null,null
+62,9.4,OL Pitcher,IH Romaine,Syed Rasel,0,1,legbyes ,1,0,null,null
+63,9.5,IH Romaine,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+64,9.6,IH Romaine,OL Pitcher,Syed Rasel,0,0,null,0,0,null,null
+65,10.1,OL Pitcher,IH Romaine,Abdur Razzak,0,0,null,0,0,null,null
+66,10.2,OL Pitcher,IH Romaine,Abdur Razzak,1,0,null,1,0,null,null
+67,10.3,IH Romaine,OL Pitcher,Abdur Razzak,4,0,null,4,0,null,null
+68,10.4,IH Romaine,OL Pitcher,Abdur Razzak,0,1,wides ,1,0,null,null
+69,10.5,IH Romaine,OL Pitcher,Abdur Razzak,0,0,null,0,0,null,null
+70,10.6,IH Romaine,OL Pitcher,Abdur Razzak,4,0,null,4,0,null,null
+71,10.7,IH Romaine,OL Pitcher,Abdur Razzak,0,0,null,0,1,IH Romaine,lbw
+72,11.1,OL Pitcher,DA Minors,Mohammad Rafique,0,0,null,0,0,null,null
+73,11.2,OL Pitcher,DA Minors,Mohammad Rafique,1,0,null,1,0,null,null
+74,11.3,DA Minors,OL Pitcher,Mohammad Rafique,0,0,null,0,0,null,null
+75,11.4,DA Minors,OL Pitcher,Mohammad Rafique,0,0,null,0,0,null,null
+76,11.5,DA Minors,OL Pitcher,Mohammad Rafique,1,0,null,1,0,null,null
+77,11.6,OL Pitcher,DA Minors,Mohammad Rafique,1,0,null,1,0,null,null
+78,12.1,OL Pitcher,DA Minors,Abdur Razzak,1,0,null,1,0,null,null
+79,12.2,DA Minors,OL Pitcher,Abdur Razzak,1,0,null,1,0,null,null
+80,12.3,OL Pitcher,DA Minors,Abdur Razzak,0,0,null,0,0,null,null
+81,12.4,OL Pitcher,DA Minors,Abdur Razzak,0,0,null,0,0,null,null
+82,12.5,OL Pitcher,DA Minors,Abdur Razzak,0,0,null,0,0,null,null
+83,12.6,OL Pitcher,DA Minors,Abdur Razzak,0,0,null,0,0,null,null
+84,13.1,DA Minors,OL Pitcher,Mohammad Rafique,2,0,null,2,0,null,null
+85,13.2,DA Minors,OL Pitcher,Mohammad Rafique,0,0,null,0,0,null,null
+86,13.3,DA Minors,OL Pitcher,Mohammad Rafique,0,0,null,0,0,null,null
+87,13.4,DA Minors,OL Pitcher,Mohammad Rafique,1,0,null,1,0,null,null
+88,13.5,OL Pitcher,DA Minors,Mohammad Rafique,0,0,null,0,0,null,null
+89,13.6,OL Pitcher,DA Minors,Mohammad Rafique,0,0,null,0,0,null,null
+90,14.1,DA Minors,OL Pitcher,Shakib Al Hasan,0,0,null,0,0,null,null
+91,14.2,DA Minors,OL Pitcher,Shakib Al Hasan,1,0,null,1,0,null,null
+92,14.3,OL Pitcher,DA Minors,Shakib Al Hasan,0,0,null,0,0,null,null
+93,14.4,OL Pitcher,DA Minors,Shakib Al Hasan,0,0,null,0,0,null,null
+94,14.5,OL Pitcher,DA Minors,Shakib Al Hasan,0,0,null,0,0,null,null
+95,14.6,OL Pitcher,DA Minors,Shakib Al Hasan,1,0,null,1,0,null,null
+96,15.1,OL Pitcher,DA Minors,Mohammad Rafique,0,0,null,0,0,null,null
+97,15.2,OL Pitcher,DA Minors,Mohammad Rafique,1,0,null,1,0,null,null
+98,15.3,DA Minors,OL Pitcher,Mohammad Rafique,0,0,null,0,0,null,null
+99,15.4,DA Minors,OL Pitcher,Mohammad Rafique,1,0,null,1,0,null,null
+100,15.5,OL Pitcher,DA Minors,Mohammad Rafique,1,0,null,1,0,null,null
+101,15.6,DA Minors,OL Pitcher,Mohammad Rafique,1,0,null,1,0,null,null
+102,16.1,DA Minors,OL Pitcher,Shakib Al Hasan,0,0,null,0,0,null,null
+103,16.2,DA Minors,OL Pitcher,Shakib Al Hasan,1,0,null,1,0,null,null
+104,16.3,OL Pitcher,DA Minors,Shakib Al Hasan,2,0,null,2,0,null,null
+105,16.4,OL Pitcher,DA Minors,Shakib Al Hasan,0,0,null,0,1,OL Pitcher,caught
+106,16.5,DA Minors,LOB Cann,Shakib Al Hasan,0,2,legbyes ,2,0,null,null
+107,16.6,DA Minors,LOB Cann,Shakib Al Hasan,1,0,null,1,0,null,null
+108,17.1,DA Minors,LOB Cann,Aftab Ahmed,1,0,null,1,0,null,null
+109,17.2,LOB Cann,DA Minors,Aftab Ahmed,0,0,null,0,0,null,null
+110,17.3,LOB Cann,DA Minors,Aftab Ahmed,2,0,null,2,0,null,null
+111,17.4,LOB Cann,DA Minors,Aftab Ahmed,6,0,null,6,0,null,null
+112,17.5,LOB Cann,DA Minors,Aftab Ahmed,4,0,null,4,0,null,null
+113,17.6,LOB Cann,DA Minors,Aftab Ahmed,4,0,null,4,0,null,null
+114,18.1,DA Minors,LOB Cann,Shakib Al Hasan,1,0,null,1,0,null,null
+115,18.2,LOB Cann,DA Minors,Shakib Al Hasan,0,0,null,0,1,LOB Cann,bowled
+116,18.3,JJ Tucker,DA Minors,Shakib Al Hasan,1,0,null,1,0,null,null
+117,18.4,DA Minors,JJ Tucker,Shakib Al Hasan,2,0,null,2,0,null,null
+118,18.5,DA Minors,JJ Tucker,Shakib Al Hasan,1,0,null,1,0,null,null
+119,18.6,JJ Tucker,DA Minors,Shakib Al Hasan,1,0,null,1,0,null,null
+120,19.1,JJ Tucker,DA Minors,Mohammad Rafique,1,0,null,1,0,null,null
+121,19.2,DA Minors,JJ Tucker,Mohammad Rafique,1,0,null,1,0,null,null
+122,19.3,JJ Tucker,DA Minors,Mohammad Rafique,2,0,null,2,0,null,null
+123,19.4,JJ Tucker,DA Minors,Mohammad Rafique,4,0,null,4,0,null,null
+124,19.5,JJ Tucker,DA Minors,Mohammad Rafique,0,0,null,0,1,JJ Tucker,caught
+125,19.6,KAD Hurdle,DA Minors,Mohammad Rafique,0,0,null,0,0,null,null
+126,20.1,DA Minors,KAD Hurdle,Abdur Razzak,1,0,null,1,0,null,null
+127,20.2,KAD Hurdle,DA Minors,Abdur Razzak,0,1,legbyes ,1,0,null,null
+128,20.3,DA Minors,KAD Hurdle,Abdur Razzak,6,0,null,6,0,null,null
+129,20.4,DA Minors,KAD Hurdle,Abdur Razzak,0,0,null,0,1,DA Minors,caught
+130,20.5,KAD Hurdle,S Mukuddem,Abdur Razzak,0,0,null,0,0,null,null
+131,20.6,KAD Hurdle,S Mukuddem,Abdur Razzak,0,0,null,0,1,KAD Hurdle,bowled

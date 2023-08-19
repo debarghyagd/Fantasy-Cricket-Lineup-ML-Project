@@ -1,0 +1,4 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1233462,Rawalpindi Cricket Stadium,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",1,12,13,0,1
+1,1233463,Rawalpindi Cricket Stadium,Zimbabwe,R Ngarava,Left-arm fast-medium,"[0, 0, 1]",1,12,5,3,0
+2,1233463,Rawalpindi Cricket Stadium,Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0

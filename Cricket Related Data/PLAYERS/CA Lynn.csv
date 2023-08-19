@@ -1,0 +1,11 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1000887,"Brisbane Cricket Ground, Woolloongabba",Pakistan,Wahab Riaz,Left-arm fast,"[0, 0, 0]",0,1,2,0,0
+1,1000887,"Brisbane Cricket Ground, Woolloongabba",Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",1,12,9,1,1
+2,1000887,"Brisbane Cricket Ground, Woolloongabba",Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,3,3,0,0
+3,1144986,Perth Stadium,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,3,12,0,0
+4,1144986,Perth Stadium,South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",0,11,15,2,0
+5,1144986,Perth Stadium,South Africa,L Ngidi,Right-arm fast,"[0, 1, 0]",0,0,2,0,0
+6,1144987,Adelaide Oval,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,0,2,0,0
+7,1144987,Adelaide Oval,South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",1,25,12,3,1
+8,1144987,Adelaide Oval,South Africa,Imran Tahir,Right-arm legbreak,"[1, 1, 1]",0,5,11,0,0
+9,1144988,Bellerive Oval,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",1,0,2,0,0

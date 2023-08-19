@@ -1,0 +1,20 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,P Jayawickrama,Left-arm orthodox,"[1, 0, 1]",0,15,8,3,0
+1,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",0,6,11,0,0
+2,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,MD Shanaka,Right-arm medium,"[0, 1, 2]",1,0,4,0,0
+3,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,C Karunaratne,Right-arm fast-medium,"[0, 1, 1]",0,7,13,1,0
+4,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,21,14,4,0
+5,1187682,Seddon Park,New Zealand,HK Bennett,Right-arm fast-medium,"[0, 1, 1]",0,18,12,3,0
+6,1187682,Seddon Park,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,1,7,0,0
+7,1187682,Seddon Park,New Zealand,C de Grandhomme,Right-arm fast-medium,"[0, 1, 1]",1,1,2,0,0
+8,1187683,Eden Park,New Zealand,HK Bennett,Right-arm fast-medium,"[0, 1, 1]",0,16,8,4,0
+9,1187683,Eden Park,New Zealand,KA Jamieson,Right-arm fast-medium,"[0, 1, 1]",1,0,3,0,0
+10,1187683,Eden Park,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,8,8,2,0
+11,1187684,Bay Oval,New Zealand,HK Bennett,Right-arm fast-medium,"[0, 1, 1]",1,18,12,1,2
+12,1187684,Bay Oval,New Zealand,KA Jamieson,Right-arm fast-medium,"[0, 1, 1]",0,13,19,2,0
+13,1187684,Bay Oval,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,8,10,0,0
+14,1187684,Bay Oval,New Zealand,C de Grandhomme,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+15,1262755,"R Premadasa Stadium, Colombo",Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",1,0,1,0,0
+16,1262755,"R Premadasa Stadium, Colombo",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,20,12,4,0
+17,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,CAK Rajitha,Right-arm fast-medium,"[0, 1, 1]",0,12,8,3,0
+18,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",1,1,5,0,0

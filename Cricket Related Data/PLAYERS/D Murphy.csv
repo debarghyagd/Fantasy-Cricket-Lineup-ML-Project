@@ -1,0 +1,5 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,660837,"Civil Service Cricket Club, Stormont",Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",1,0,4,0,0
+1,601077,"Grange Cricket Club Ground, Raeburn Place",Pakistan,Umar Amin,Right-arm medium,"[0, 1, 2]",0,3,9,0,0
+2,601077,"Grange Cricket Club Ground, Raeburn Place",Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",1,0,1,0,0
+3,601077,"Grange Cricket Club Ground, Raeburn Place",Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",0,4,10,0,0

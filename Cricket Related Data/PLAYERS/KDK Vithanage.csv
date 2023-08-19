@@ -1,0 +1,13 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,690355,Shere Bangla National Stadium,Bangladesh,Arafat Sunny,Left-arm orthodox,"[1, 0, 1]",0,1,8,0,0
+1,690355,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,5,7,1,0
+2,690357,Shere Bangla National Stadium,Bangladesh,Arafat Sunny,Left-arm orthodox,"[1, 0, 1]",0,3,3,0,0
+3,690357,Shere Bangla National Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,10,6,2,0
+4,690359,Shere Bangla National Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",1,3,10,0,0
+5,657643,Sheikh Zayed Stadium,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",1,3,6,0,0
+6,657643,Sheikh Zayed Stadium,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,12,11,2,0
+7,657643,Sheikh Zayed Stadium,Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",0,12,11,2,0
+8,657645,Sheikh Zayed Stadium,Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",1,9,6,1,0
+9,657645,Sheikh Zayed Stadium,Pakistan,Anwar Ali,Right-arm fast-medium,"[0, 1, 1]",0,5,7,1,0
+10,706767,"Clontarf Cricket Club Ground, Dublin",Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,5,3,1,0
+11,706767,"Clontarf Cricket Club Ground, Dublin",Ireland,PR Stirling,Right-arm offbreak,"[1, 1, 0]",1,0,2,0,0

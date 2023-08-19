@@ -1,0 +1,7 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1161014,"The Village, Malahide",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,3,14,0,0
+1,1161014,"The Village, Malahide",Ireland,J Little,Left-arm fast,"[0, 0, 0]",0,19,11,2,0
+2,1161014,"The Village, Malahide",Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,11,20,0,0
+3,1161014,"The Village, Malahide",Ireland,MR Adair,Right-arm fast,"[0, 1, 0]",0,11,15,0,0
+4,1161014,"The Village, Malahide",Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+5,1161014,"The Village, Malahide",Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",0,16,15,1,1

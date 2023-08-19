@@ -1,0 +1,321 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,WTS Porterfield,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+1,0.2,WTS Porterfield,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+2,0.3,WTS Porterfield,PR Stirling,FJ Klaassen,4,0,null,4,0,null,null
+3,0.4,WTS Porterfield,PR Stirling,FJ Klaassen,1,0,null,1,0,null,null
+4,0.5,PR Stirling,WTS Porterfield,FJ Klaassen,0,0,null,0,0,null,null
+5,0.6,PR Stirling,WTS Porterfield,FJ Klaassen,0,0,null,0,0,null,null
+6,1.1,WTS Porterfield,PR Stirling,LV van Beek,0,0,null,0,1,WTS Porterfield,lbw
+7,1.2,A Balbirnie,PR Stirling,LV van Beek,4,0,null,4,0,null,null
+8,1.3,A Balbirnie,PR Stirling,LV van Beek,0,0,null,0,0,null,null
+9,1.4,A Balbirnie,PR Stirling,LV van Beek,0,0,null,0,1,A Balbirnie,caught
+10,1.5,HT Tector,PR Stirling,LV van Beek,0,0,null,0,0,null,null
+11,1.6,HT Tector,PR Stirling,LV van Beek,0,0,null,0,0,null,null
+12,2.1,PR Stirling,HT Tector,FJ Klaassen,0,0,null,0,0,null,null
+13,2.2,PR Stirling,HT Tector,FJ Klaassen,0,0,null,0,0,null,null
+14,2.3,PR Stirling,HT Tector,FJ Klaassen,0,1,noballs ,1,0,null,null
+15,2.4,PR Stirling,HT Tector,FJ Klaassen,1,0,null,1,0,null,null
+16,2.5,HT Tector,PR Stirling,FJ Klaassen,0,0,null,0,1,HT Tector,lbw
+17,2.6,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+18,2.7,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+19,3.1,PR Stirling,GH Dockrell,LV van Beek,0,0,null,0,0,null,null
+20,3.2,PR Stirling,GH Dockrell,LV van Beek,0,1,wides ,1,0,null,null
+21,3.3,PR Stirling,GH Dockrell,LV van Beek,0,0,null,0,0,null,null
+22,3.4,PR Stirling,GH Dockrell,LV van Beek,4,0,null,4,0,null,null
+23,3.5,PR Stirling,GH Dockrell,LV van Beek,0,0,null,0,0,null,null
+24,3.6,PR Stirling,GH Dockrell,LV van Beek,0,0,null,0,0,null,null
+25,3.7,PR Stirling,GH Dockrell,LV van Beek,0,0,null,0,0,null,null
+26,4.1,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+27,4.2,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+28,4.3,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+29,4.4,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+30,4.5,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+31,4.6,GH Dockrell,PR Stirling,FJ Klaassen,1,0,null,1,0,null,null
+32,5.1,GH Dockrell,PR Stirling,LV van Beek,0,0,null,0,0,null,null
+33,5.2,GH Dockrell,PR Stirling,LV van Beek,0,0,null,0,0,null,null
+34,5.3,GH Dockrell,PR Stirling,LV van Beek,0,0,null,0,0,null,null
+35,5.4,GH Dockrell,PR Stirling,LV van Beek,0,0,null,0,0,null,null
+36,5.5,GH Dockrell,PR Stirling,LV van Beek,4,0,null,4,0,null,null
+37,5.6,GH Dockrell,PR Stirling,LV van Beek,0,0,null,0,0,null,null
+38,6.1,PR Stirling,GH Dockrell,FJ Klaassen,0,0,null,0,0,null,null
+39,6.2,PR Stirling,GH Dockrell,FJ Klaassen,0,0,null,0,0,null,null
+40,6.3,PR Stirling,GH Dockrell,FJ Klaassen,1,0,null,1,0,null,null
+41,6.4,GH Dockrell,PR Stirling,FJ Klaassen,0,1,wides ,1,0,null,null
+42,6.5,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+43,6.6,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+44,6.7,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+45,7.1,PR Stirling,GH Dockrell,LV van Beek,0,0,null,0,0,null,null
+46,7.2,PR Stirling,GH Dockrell,LV van Beek,0,0,null,0,0,null,null
+47,7.3,PR Stirling,GH Dockrell,LV van Beek,0,0,null,0,0,null,null
+48,7.4,PR Stirling,GH Dockrell,LV van Beek,0,0,null,0,0,null,null
+49,7.5,PR Stirling,GH Dockrell,LV van Beek,0,0,null,0,0,null,null
+50,7.6,PR Stirling,GH Dockrell,LV van Beek,0,0,null,0,0,null,null
+51,8.1,GH Dockrell,PR Stirling,FJ Klaassen,2,0,null,2,0,null,null
+52,8.2,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+53,8.3,GH Dockrell,PR Stirling,FJ Klaassen,0,1,wides ,1,0,null,null
+54,8.4,GH Dockrell,PR Stirling,FJ Klaassen,0,1,wides ,1,0,null,null
+55,8.5,GH Dockrell,PR Stirling,FJ Klaassen,1,0,null,1,0,null,null
+56,8.6,PR Stirling,GH Dockrell,FJ Klaassen,0,0,null,0,0,null,null
+57,8.7,PR Stirling,GH Dockrell,FJ Klaassen,0,0,null,0,0,null,null
+58,8.8,PR Stirling,GH Dockrell,FJ Klaassen,0,1,wides ,1,0,null,null
+59,8.9,PR Stirling,GH Dockrell,FJ Klaassen,0,0,null,0,0,null,null
+60,9.1,GH Dockrell,PR Stirling,BD Glover,0,1,wides ,1,0,null,null
+61,9.2,GH Dockrell,PR Stirling,BD Glover,0,0,null,0,0,null,null
+62,9.3,GH Dockrell,PR Stirling,BD Glover,1,0,null,1,0,null,null
+63,9.4,PR Stirling,GH Dockrell,BD Glover,0,0,null,0,0,null,null
+64,9.5,PR Stirling,GH Dockrell,BD Glover,0,0,null,0,0,null,null
+65,9.6,PR Stirling,GH Dockrell,BD Glover,0,0,null,0,0,null,null
+66,9.7,PR Stirling,GH Dockrell,BD Glover,4,0,null,4,0,null,null
+67,10.1,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+68,10.2,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+69,10.3,GH Dockrell,PR Stirling,FJ Klaassen,1,0,null,1,0,null,null
+70,10.4,PR Stirling,GH Dockrell,FJ Klaassen,1,0,null,1,0,null,null
+71,10.5,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+72,10.6,GH Dockrell,PR Stirling,FJ Klaassen,0,1,wides ,1,0,null,null
+73,10.7,GH Dockrell,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+74,11.1,PR Stirling,GH Dockrell,BD Glover,1,0,null,1,0,null,null
+75,11.2,GH Dockrell,PR Stirling,BD Glover,0,0,null,0,0,null,null
+76,11.3,GH Dockrell,PR Stirling,BD Glover,0,0,null,0,0,null,null
+77,11.4,GH Dockrell,PR Stirling,BD Glover,0,0,null,0,0,null,null
+78,11.5,GH Dockrell,PR Stirling,BD Glover,0,0,null,0,0,null,null
+79,11.6,GH Dockrell,PR Stirling,BD Glover,0,2,legbyes ,2,0,null,null
+80,12.1,PR Stirling,GH Dockrell,T van der Gugten,0,0,null,0,0,null,null
+81,12.2,PR Stirling,GH Dockrell,T van der Gugten,0,0,null,0,0,null,null
+82,12.3,PR Stirling,GH Dockrell,T van der Gugten,0,0,null,0,0,null,null
+83,12.4,PR Stirling,GH Dockrell,T van der Gugten,0,0,null,0,0,null,null
+84,12.5,PR Stirling,GH Dockrell,T van der Gugten,1,0,null,1,0,null,null
+85,12.6,GH Dockrell,PR Stirling,T van der Gugten,1,0,null,1,0,null,null
+86,13.1,GH Dockrell,PR Stirling,BD Glover,0,0,null,0,0,null,null
+87,13.2,GH Dockrell,PR Stirling,BD Glover,0,0,null,0,0,null,null
+88,13.3,GH Dockrell,PR Stirling,BD Glover,0,0,null,0,0,null,null
+89,13.4,GH Dockrell,PR Stirling,BD Glover,0,0,null,0,0,null,null
+90,13.5,GH Dockrell,PR Stirling,BD Glover,0,0,null,0,1,GH Dockrell,bowled
+91,13.6,L Tucker,PR Stirling,BD Glover,0,0,null,0,0,null,null
+92,14.1,PR Stirling,L Tucker,T van der Gugten,0,0,null,0,0,null,null
+93,14.2,PR Stirling,L Tucker,T van der Gugten,0,0,null,0,0,null,null
+94,14.3,PR Stirling,L Tucker,T van der Gugten,0,0,null,0,0,null,null
+95,14.4,PR Stirling,L Tucker,T van der Gugten,0,0,null,0,0,null,null
+96,14.5,PR Stirling,L Tucker,T van der Gugten,0,0,null,0,0,null,null
+97,14.6,PR Stirling,L Tucker,T van der Gugten,0,0,null,0,0,null,null
+98,15.1,L Tucker,PR Stirling,BD Glover,3,0,null,3,0,null,null
+99,15.2,PR Stirling,L Tucker,BD Glover,0,0,null,0,0,null,null
+100,15.3,PR Stirling,L Tucker,BD Glover,0,0,null,0,0,null,null
+101,15.4,PR Stirling,L Tucker,BD Glover,0,0,null,0,0,null,null
+102,15.5,PR Stirling,L Tucker,BD Glover,0,0,null,0,0,null,null
+103,15.6,PR Stirling,L Tucker,BD Glover,0,0,null,0,0,null,null
+104,16.1,L Tucker,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+105,16.2,L Tucker,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+106,16.3,L Tucker,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+107,16.4,L Tucker,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+108,16.5,L Tucker,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+109,16.6,L Tucker,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+110,17.1,PR Stirling,L Tucker,BD Glover,4,0,null,4,0,null,null
+111,17.2,PR Stirling,L Tucker,BD Glover,1,0,null,1,0,null,null
+112,17.3,L Tucker,PR Stirling,BD Glover,0,0,null,0,0,null,null
+113,17.4,L Tucker,PR Stirling,BD Glover,1,0,null,1,0,null,null
+114,17.5,PR Stirling,L Tucker,BD Glover,0,0,null,0,0,null,null
+115,17.6,PR Stirling,L Tucker,BD Glover,2,0,null,2,0,null,null
+116,18.1,L Tucker,PR Stirling,T van der Gugten,1,0,null,1,0,null,null
+117,18.2,PR Stirling,L Tucker,T van der Gugten,1,0,null,1,0,null,null
+118,18.3,L Tucker,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+119,18.4,L Tucker,PR Stirling,T van der Gugten,1,0,null,1,0,null,null
+120,18.5,PR Stirling,L Tucker,T van der Gugten,0,0,null,0,0,null,null
+121,18.6,PR Stirling,L Tucker,T van der Gugten,1,0,null,1,0,null,null
+122,19.1,PR Stirling,L Tucker,PM Seelaar,0,0,null,0,0,null,null
+123,19.2,PR Stirling,L Tucker,PM Seelaar,4,0,null,4,0,null,null
+124,19.3,PR Stirling,L Tucker,PM Seelaar,0,0,null,0,0,null,null
+125,19.4,PR Stirling,L Tucker,PM Seelaar,1,0,null,1,0,null,null
+126,19.5,L Tucker,PR Stirling,PM Seelaar,1,0,null,1,0,null,null
+127,19.6,PR Stirling,L Tucker,PM Seelaar,1,0,null,1,0,null,null
+128,20.1,PR Stirling,L Tucker,T van der Gugten,0,0,null,0,0,null,null
+129,20.2,PR Stirling,L Tucker,T van der Gugten,1,0,null,1,0,null,null
+130,20.3,L Tucker,PR Stirling,T van der Gugten,1,0,null,1,0,null,null
+131,20.4,PR Stirling,L Tucker,T van der Gugten,2,0,null,2,0,null,null
+132,20.5,PR Stirling,L Tucker,T van der Gugten,0,0,null,0,0,null,null
+133,20.6,PR Stirling,L Tucker,T van der Gugten,0,0,null,0,0,null,null
+134,21.1,L Tucker,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+135,21.2,L Tucker,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+136,21.3,L Tucker,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+137,21.4,L Tucker,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+138,21.5,L Tucker,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+139,21.6,L Tucker,PR Stirling,PM Seelaar,0,0,null,0,1,L Tucker,lbw
+140,22.1,PR Stirling,Simi Singh,LV van Beek,1,0,null,1,0,null,null
+141,22.2,Simi Singh,PR Stirling,LV van Beek,1,0,null,1,0,null,null
+142,22.3,PR Stirling,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+143,22.4,PR Stirling,Simi Singh,LV van Beek,1,0,null,1,0,null,null
+144,22.5,Simi Singh,PR Stirling,LV van Beek,1,0,null,1,0,null,null
+145,22.6,PR Stirling,Simi Singh,LV van Beek,1,0,null,1,0,null,null
+146,23.1,PR Stirling,Simi Singh,PM Seelaar,0,0,null,0,0,null,null
+147,23.2,PR Stirling,Simi Singh,PM Seelaar,0,0,null,0,0,null,null
+148,23.3,PR Stirling,Simi Singh,PM Seelaar,1,0,null,1,0,null,null
+149,23.4,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+150,23.5,Simi Singh,PR Stirling,PM Seelaar,1,0,null,1,0,null,null
+151,23.6,PR Stirling,Simi Singh,PM Seelaar,0,0,null,0,0,null,null
+152,24.1,Simi Singh,PR Stirling,LV van Beek,1,0,null,1,0,null,null
+153,24.2,PR Stirling,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+154,24.3,PR Stirling,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+155,24.4,PR Stirling,Simi Singh,LV van Beek,4,0,null,4,0,null,null
+156,24.5,PR Stirling,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+157,24.6,PR Stirling,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+158,25.1,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+159,25.2,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+160,25.3,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+161,25.4,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+162,25.5,Simi Singh,PR Stirling,PM Seelaar,1,0,null,1,0,null,null
+163,25.6,PR Stirling,Simi Singh,PM Seelaar,1,0,null,1,0,null,null
+164,26.1,PR Stirling,Simi Singh,BD Glover,0,1,wides ,1,0,null,null
+165,26.2,PR Stirling,Simi Singh,BD Glover,0,0,null,0,0,null,null
+166,26.3,PR Stirling,Simi Singh,BD Glover,0,0,null,0,0,null,null
+167,26.4,PR Stirling,Simi Singh,BD Glover,1,0,null,1,0,null,null
+168,26.5,Simi Singh,PR Stirling,BD Glover,0,0,null,0,0,null,null
+169,26.6,Simi Singh,PR Stirling,BD Glover,0,1,wides ,1,0,null,null
+170,26.7,Simi Singh,PR Stirling,BD Glover,0,0,null,0,0,null,null
+171,26.8,Simi Singh,PR Stirling,BD Glover,4,0,null,4,0,null,null
+172,27.1,PR Stirling,Simi Singh,PM Seelaar,1,0,null,1,0,null,null
+173,27.2,Simi Singh,PR Stirling,PM Seelaar,1,0,null,1,0,null,null
+174,27.3,PR Stirling,Simi Singh,PM Seelaar,0,0,null,0,0,null,null
+175,27.4,PR Stirling,Simi Singh,PM Seelaar,1,0,null,1,0,null,null
+176,27.5,Simi Singh,PR Stirling,PM Seelaar,1,0,null,1,0,null,null
+177,27.6,PR Stirling,Simi Singh,PM Seelaar,0,0,null,0,0,null,null
+178,28.1,Simi Singh,PR Stirling,Saqib Zulfiqar,1,0,null,1,0,null,null
+179,28.2,PR Stirling,Simi Singh,Saqib Zulfiqar,0,1,wides ,1,0,null,null
+180,28.3,PR Stirling,Simi Singh,Saqib Zulfiqar,0,0,null,0,0,null,null
+181,28.4,PR Stirling,Simi Singh,Saqib Zulfiqar,2,0,null,2,0,null,null
+182,28.5,PR Stirling,Simi Singh,Saqib Zulfiqar,4,0,null,4,0,null,null
+183,28.6,PR Stirling,Simi Singh,Saqib Zulfiqar,1,0,null,1,0,null,null
+184,28.7,Simi Singh,PR Stirling,Saqib Zulfiqar,0,0,null,0,0,null,null
+185,29.1,PR Stirling,Simi Singh,PM Seelaar,1,0,null,1,0,null,null
+186,29.2,Simi Singh,PR Stirling,PM Seelaar,1,0,null,1,0,null,null
+187,29.3,PR Stirling,Simi Singh,PM Seelaar,1,0,null,1,0,null,null
+188,29.4,Simi Singh,PR Stirling,PM Seelaar,1,0,null,1,0,null,null
+189,29.5,PR Stirling,Simi Singh,PM Seelaar,0,0,null,0,0,null,null
+190,29.6,PR Stirling,Simi Singh,PM Seelaar,0,0,null,0,0,null,null
+191,30.1,Simi Singh,PR Stirling,Saqib Zulfiqar,0,0,null,0,0,null,null
+192,30.2,Simi Singh,PR Stirling,Saqib Zulfiqar,1,0,null,1,0,null,null
+193,30.3,PR Stirling,Simi Singh,Saqib Zulfiqar,4,0,null,4,0,null,null
+194,30.4,PR Stirling,Simi Singh,Saqib Zulfiqar,2,0,null,2,0,null,null
+195,30.5,PR Stirling,Simi Singh,Saqib Zulfiqar,0,0,null,0,0,null,null
+196,30.6,PR Stirling,Simi Singh,Saqib Zulfiqar,0,0,null,0,0,null,null
+197,31.1,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+198,31.2,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+199,31.3,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+200,31.4,Simi Singh,PR Stirling,PM Seelaar,0,1,wides ,1,0,null,null
+201,31.5,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+202,31.6,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+203,31.7,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+204,32.1,PR Stirling,Simi Singh,BFW de Leede,0,0,null,0,0,null,null
+205,32.2,PR Stirling,Simi Singh,BFW de Leede,0,0,null,0,0,null,null
+206,32.3,PR Stirling,Simi Singh,BFW de Leede,0,0,null,0,0,null,null
+207,32.4,PR Stirling,Simi Singh,BFW de Leede,0,0,null,0,0,null,null
+208,32.5,PR Stirling,Simi Singh,BFW de Leede,0,0,null,0,0,null,null
+209,32.6,PR Stirling,Simi Singh,BFW de Leede,4,0,null,4,0,null,null
+210,33.1,Simi Singh,PR Stirling,PM Seelaar,1,0,null,1,0,null,null
+211,33.2,PR Stirling,Simi Singh,PM Seelaar,1,0,null,1,0,null,null
+212,33.3,Simi Singh,PR Stirling,PM Seelaar,1,0,null,1,0,null,null
+213,33.4,PR Stirling,Simi Singh,PM Seelaar,1,0,null,1,0,null,null
+214,33.5,Simi Singh,PR Stirling,PM Seelaar,0,0,null,0,0,null,null
+215,33.6,Simi Singh,PR Stirling,PM Seelaar,1,0,null,1,0,null,null
+216,34.1,Simi Singh,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+217,34.2,Simi Singh,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+218,34.3,Simi Singh,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+219,34.4,Simi Singh,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+220,34.5,Simi Singh,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+221,34.6,Simi Singh,PR Stirling,T van der Gugten,0,0,null,0,0,null,null
+222,35.1,PR Stirling,Simi Singh,FJ Klaassen,1,0,null,1,0,null,null
+223,35.2,Simi Singh,PR Stirling,FJ Klaassen,0,0,null,0,0,null,null
+224,35.3,Simi Singh,PR Stirling,FJ Klaassen,1,0,null,1,0,null,null
+225,35.4,PR Stirling,Simi Singh,FJ Klaassen,0,0,null,0,0,null,null
+226,35.5,PR Stirling,Simi Singh,FJ Klaassen,0,0,null,0,0,null,null
+227,35.6,PR Stirling,Simi Singh,FJ Klaassen,1,0,null,1,0,null,null
+228,36.1,PR Stirling,Simi Singh,T van der Gugten,2,0,null,2,0,null,null
+229,36.2,PR Stirling,Simi Singh,T van der Gugten,0,0,null,0,0,null,null
+230,36.3,PR Stirling,Simi Singh,T van der Gugten,1,0,null,1,0,null,null
+231,36.4,Simi Singh,PR Stirling,T van der Gugten,4,0,null,4,0,null,null
+232,36.5,Simi Singh,PR Stirling,T van der Gugten,1,0,null,1,0,null,null
+233,36.6,PR Stirling,Simi Singh,T van der Gugten,0,0,null,0,1,PR Stirling,caught
+234,37.1,Simi Singh,AR McBrine,FJ Klaassen,0,0,null,0,0,null,null
+235,37.2,Simi Singh,AR McBrine,FJ Klaassen,0,0,null,0,0,null,null
+236,37.3,Simi Singh,AR McBrine,FJ Klaassen,0,0,null,0,0,null,null
+237,37.4,Simi Singh,AR McBrine,FJ Klaassen,0,1,wides ,1,0,null,null
+238,37.5,Simi Singh,AR McBrine,FJ Klaassen,0,0,null,0,0,null,null
+239,37.6,Simi Singh,AR McBrine,FJ Klaassen,0,0,null,0,0,null,null
+240,37.7,Simi Singh,AR McBrine,FJ Klaassen,0,0,null,0,0,null,null
+241,38.1,AR McBrine,Simi Singh,BD Glover,0,1,wides ,1,0,null,null
+242,38.2,AR McBrine,Simi Singh,BD Glover,0,1,wides ,1,0,null,null
+243,38.3,AR McBrine,Simi Singh,BD Glover,0,1,wides ,1,0,null,null
+244,38.4,AR McBrine,Simi Singh,BD Glover,0,0,null,0,0,null,null
+245,38.5,AR McBrine,Simi Singh,BD Glover,0,0,null,0,0,null,null
+246,38.6,AR McBrine,Simi Singh,BD Glover,0,0,null,0,0,null,null
+247,38.7,AR McBrine,Simi Singh,BD Glover,0,0,null,0,0,null,null
+248,38.8,AR McBrine,Simi Singh,BD Glover,0,0,null,0,0,null,null
+249,38.9,AR McBrine,Simi Singh,BD Glover,4,0,null,4,0,null,null
+250,39.1,Simi Singh,AR McBrine,LV van Beek,4,0,null,4,0,null,null
+251,39.2,Simi Singh,AR McBrine,LV van Beek,1,0,null,1,0,null,null
+252,39.3,AR McBrine,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+253,39.4,AR McBrine,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+254,39.5,AR McBrine,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+255,39.6,AR McBrine,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+256,40.1,Simi Singh,AR McBrine,BD Glover,0,0,null,0,0,null,null
+257,40.2,Simi Singh,AR McBrine,BD Glover,0,1,wides ,1,0,null,null
+258,40.3,Simi Singh,AR McBrine,BD Glover,0,1,wides ,1,0,null,null
+259,40.4,Simi Singh,AR McBrine,BD Glover,0,0,null,0,0,null,null
+260,40.5,Simi Singh,AR McBrine,BD Glover,1,0,null,1,0,null,null
+261,40.6,AR McBrine,Simi Singh,BD Glover,0,0,null,0,0,null,null
+262,40.7,AR McBrine,Simi Singh,BD Glover,0,0,null,0,0,null,null
+263,40.8,AR McBrine,Simi Singh,BD Glover,0,0,null,0,0,null,null
+264,41.1,Simi Singh,AR McBrine,LV van Beek,1,0,null,1,0,null,null
+265,41.2,AR McBrine,Simi Singh,LV van Beek,4,0,null,4,0,null,null
+266,41.3,AR McBrine,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+267,41.4,AR McBrine,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+268,41.5,AR McBrine,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+269,41.6,AR McBrine,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+270,42.1,Simi Singh,AR McBrine,BD Glover,4,0,null,4,0,null,null
+271,42.2,Simi Singh,AR McBrine,BD Glover,1,0,null,1,0,null,null
+272,42.3,AR McBrine,Simi Singh,BD Glover,1,0,null,1,0,null,null
+273,42.4,Simi Singh,AR McBrine,BD Glover,0,1,legbyes ,1,0,null,null
+274,42.5,AR McBrine,Simi Singh,BD Glover,0,0,null,0,0,null,null
+275,42.6,AR McBrine,Simi Singh,BD Glover,0,1,wides ,1,0,null,null
+276,42.7,AR McBrine,Simi Singh,BD Glover,4,0,null,4,0,null,null
+277,43.1,Simi Singh,AR McBrine,T van der Gugten,2,0,null,2,0,null,null
+278,43.2,Simi Singh,AR McBrine,T van der Gugten,1,0,null,1,0,null,null
+279,43.3,AR McBrine,Simi Singh,T van der Gugten,0,0,null,0,0,null,null
+280,43.4,AR McBrine,Simi Singh,T van der Gugten,0,0,null,0,0,null,null
+281,43.5,AR McBrine,Simi Singh,T van der Gugten,0,0,null,0,0,null,null
+282,43.6,AR McBrine,Simi Singh,T van der Gugten,0,0,null,0,0,null,null
+283,44.1,Simi Singh,AR McBrine,FJ Klaassen,0,0,null,0,0,null,null
+284,44.2,Simi Singh,AR McBrine,FJ Klaassen,0,0,null,0,0,null,null
+285,44.3,Simi Singh,AR McBrine,FJ Klaassen,0,0,null,0,0,null,null
+286,44.4,Simi Singh,AR McBrine,FJ Klaassen,1,0,null,1,0,null,null
+287,44.5,AR McBrine,Simi Singh,FJ Klaassen,1,0,null,1,0,null,null
+288,44.6,Simi Singh,AR McBrine,FJ Klaassen,0,0,null,0,0,null,null
+289,45.1,AR McBrine,Simi Singh,T van der Gugten,0,0,null,0,0,null,null
+290,45.2,AR McBrine,Simi Singh,T van der Gugten,0,0,null,0,0,null,null
+291,45.3,AR McBrine,Simi Singh,T van der Gugten,1,0,null,1,0,null,null
+292,45.4,Simi Singh,AR McBrine,T van der Gugten,1,0,null,1,0,null,null
+293,45.5,AR McBrine,Simi Singh,T van der Gugten,0,0,null,0,0,null,null
+294,45.6,AR McBrine,Simi Singh,T van der Gugten,2,0,null,2,0,null,null
+295,46.1,Simi Singh,AR McBrine,PM Seelaar,1,0,null,1,0,null,null
+296,46.2,AR McBrine,Simi Singh,PM Seelaar,0,0,null,0,1,AR McBrine,lbw
+297,46.3,BJ McCarthy,Simi Singh,PM Seelaar,0,0,null,0,0,null,null
+298,46.4,BJ McCarthy,Simi Singh,PM Seelaar,0,0,null,0,0,null,null
+299,46.5,BJ McCarthy,Simi Singh,PM Seelaar,0,0,null,0,1,BJ McCarthy,caught
+300,46.6,J Little,Simi Singh,PM Seelaar,1,0,null,1,0,null,null
+301,47.1,J Little,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+302,47.2,J Little,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+303,47.3,J Little,Simi Singh,LV van Beek,1,0,null,1,0,null,null
+304,47.4,Simi Singh,J Little,LV van Beek,1,0,null,1,0,null,null
+305,47.5,J Little,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+306,47.6,J Little,Simi Singh,LV van Beek,0,0,null,0,0,null,null
+307,48.1,Simi Singh,J Little,FJ Klaassen,0,0,null,0,0,null,null
+308,48.2,Simi Singh,J Little,FJ Klaassen,1,0,null,1,0,null,null
+309,48.3,J Little,Simi Singh,FJ Klaassen,0,0,null,0,0,null,null
+310,48.4,J Little,Simi Singh,FJ Klaassen,0,0,null,0,0,null,null
+311,48.5,J Little,Simi Singh,FJ Klaassen,0,0,null,0,0,null,null
+312,48.6,J Little,Simi Singh,FJ Klaassen,2,0,null,2,0,null,null
+313,49.1,Simi Singh,J Little,LV van Beek,0,1,wides ,1,0,null,null
+314,49.2,Simi Singh,J Little,LV van Beek,1,0,null,1,1,Simi Singh,run out
+315,49.3,CA Young,J Little,LV van Beek,1,0,null,1,0,null,null
+316,49.4,J Little,CA Young,LV van Beek,4,0,null,4,0,null,null
+317,49.5,J Little,CA Young,LV van Beek,1,0,null,1,0,null,null
+318,49.6,CA Young,J Little,LV van Beek,1,0,null,1,0,null,null
+319,49.7,J Little,CA Young,LV van Beek,0,1,byes ,1,0,null,null

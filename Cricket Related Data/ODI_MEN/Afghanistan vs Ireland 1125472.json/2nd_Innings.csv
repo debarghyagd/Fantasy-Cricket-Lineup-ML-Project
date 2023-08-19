@@ -1,0 +1,195 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,WTS Porterfield,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+1,0.2,WTS Porterfield,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+2,0.3,WTS Porterfield,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+3,0.4,WTS Porterfield,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+4,0.5,WTS Porterfield,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+5,0.6,WTS Porterfield,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+6,1.1,PR Stirling,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+7,1.2,PR Stirling,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+8,1.3,PR Stirling,WTS Porterfield,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+9,1.4,PR Stirling,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+10,1.5,PR Stirling,WTS Porterfield,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+11,1.6,WTS Porterfield,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+12,2.1,PR Stirling,WTS Porterfield,Dawlat Zadran,0,0,null,0,0,null,null
+13,2.2,PR Stirling,WTS Porterfield,Dawlat Zadran,0,0,null,0,0,null,null
+14,2.3,PR Stirling,WTS Porterfield,Dawlat Zadran,0,0,null,0,0,null,null
+15,2.4,PR Stirling,WTS Porterfield,Dawlat Zadran,0,0,null,0,0,null,null
+16,2.5,PR Stirling,WTS Porterfield,Dawlat Zadran,0,0,null,0,0,null,null
+17,2.6,PR Stirling,WTS Porterfield,Dawlat Zadran,0,0,null,0,0,null,null
+18,3.1,WTS Porterfield,PR Stirling,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+19,3.2,PR Stirling,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+20,3.3,PR Stirling,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,1,PR Stirling,lbw
+21,3.4,A Balbirnie,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+22,3.5,A Balbirnie,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+23,3.6,A Balbirnie,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+24,4.1,WTS Porterfield,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+25,4.2,WTS Porterfield,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+26,4.3,WTS Porterfield,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+27,4.4,WTS Porterfield,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+28,4.5,WTS Porterfield,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+29,4.6,WTS Porterfield,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+30,5.1,A Balbirnie,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+31,5.2,A Balbirnie,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,1,A Balbirnie,bowled
+32,5.3,NJ O'Brien,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+33,5.4,NJ O'Brien,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+34,5.5,NJ O'Brien,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+35,5.6,NJ O'Brien,WTS Porterfield,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+36,6.1,WTS Porterfield,NJ O'Brien,Dawlat Zadran,0,0,null,0,0,null,null
+37,6.2,WTS Porterfield,NJ O'Brien,Dawlat Zadran,4,0,null,4,0,null,null
+38,6.3,WTS Porterfield,NJ O'Brien,Dawlat Zadran,1,0,null,1,0,null,null
+39,6.4,NJ O'Brien,WTS Porterfield,Dawlat Zadran,0,0,null,0,0,null,null
+40,6.5,NJ O'Brien,WTS Porterfield,Dawlat Zadran,2,0,null,2,0,null,null
+41,6.6,NJ O'Brien,WTS Porterfield,Dawlat Zadran,0,0,null,0,1,NJ O'Brien,caught
+42,7.1,WTS Porterfield,GC Wilson,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+43,7.2,WTS Porterfield,GC Wilson,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+44,7.3,WTS Porterfield,GC Wilson,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+45,7.4,WTS Porterfield,GC Wilson,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+46,7.5,GC Wilson,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+47,7.6,GC Wilson,WTS Porterfield,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+48,8.1,GC Wilson,WTS Porterfield,Gulbadin Naib,1,0,null,1,0,null,null
+49,8.2,WTS Porterfield,GC Wilson,Gulbadin Naib,0,0,null,0,0,null,null
+50,8.3,WTS Porterfield,GC Wilson,Gulbadin Naib,0,0,null,0,0,null,null
+51,8.4,WTS Porterfield,GC Wilson,Gulbadin Naib,1,0,null,1,0,null,null
+52,8.5,GC Wilson,WTS Porterfield,Gulbadin Naib,0,0,null,0,0,null,null
+53,8.6,GC Wilson,WTS Porterfield,Gulbadin Naib,0,0,null,0,0,null,null
+54,9.1,WTS Porterfield,GC Wilson,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+55,9.2,WTS Porterfield,GC Wilson,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+56,9.3,WTS Porterfield,GC Wilson,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+57,9.4,WTS Porterfield,GC Wilson,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+58,9.5,WTS Porterfield,GC Wilson,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+59,9.6,WTS Porterfield,GC Wilson,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+60,10.1,GC Wilson,WTS Porterfield,Gulbadin Naib,0,0,null,0,0,null,null
+61,10.2,GC Wilson,WTS Porterfield,Gulbadin Naib,0,0,null,0,0,null,null
+62,10.3,GC Wilson,WTS Porterfield,Gulbadin Naib,1,0,null,1,0,null,null
+63,10.4,WTS Porterfield,GC Wilson,Gulbadin Naib,0,0,null,0,0,null,null
+64,10.5,WTS Porterfield,GC Wilson,Gulbadin Naib,0,0,null,0,0,null,null
+65,10.6,WTS Porterfield,GC Wilson,Gulbadin Naib,0,0,null,0,0,null,null
+66,11.1,GC Wilson,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+67,11.2,GC Wilson,WTS Porterfield,Mujeeb Ur Rahman,0,1,wides ,1,0,null,null
+68,11.3,GC Wilson,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+69,11.4,GC Wilson,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,1,GC Wilson,bowled
+70,11.5,KJ O'Brien,WTS Porterfield,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+71,11.6,WTS Porterfield,KJ O'Brien,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+72,11.7,WTS Porterfield,KJ O'Brien,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+73,12.1,KJ O'Brien,WTS Porterfield,Gulbadin Naib,0,0,null,0,0,null,null
+74,12.2,KJ O'Brien,WTS Porterfield,Gulbadin Naib,0,0,null,0,0,null,null
+75,12.3,KJ O'Brien,WTS Porterfield,Gulbadin Naib,1,0,null,1,0,null,null
+76,12.4,WTS Porterfield,KJ O'Brien,Gulbadin Naib,1,0,null,1,0,null,null
+77,12.5,KJ O'Brien,WTS Porterfield,Gulbadin Naib,0,1,wides ,1,0,null,null
+78,12.6,KJ O'Brien,WTS Porterfield,Gulbadin Naib,1,0,null,1,0,null,null
+79,12.7,WTS Porterfield,KJ O'Brien,Gulbadin Naib,4,0,null,4,0,null,null
+80,13.1,KJ O'Brien,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+81,13.2,KJ O'Brien,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+82,13.3,KJ O'Brien,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,1,KJ O'Brien,bowled
+83,13.4,Simi Singh,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+84,13.5,Simi Singh,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+85,13.6,Simi Singh,WTS Porterfield,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+86,14.1,WTS Porterfield,Simi Singh,Mohammad Nabi,0,0,null,0,0,null,null
+87,14.2,WTS Porterfield,Simi Singh,Mohammad Nabi,1,0,null,1,0,null,null
+88,14.3,Simi Singh,WTS Porterfield,Mohammad Nabi,0,0,null,0,0,null,null
+89,14.4,Simi Singh,WTS Porterfield,Mohammad Nabi,1,0,null,1,0,null,null
+90,14.5,WTS Porterfield,Simi Singh,Mohammad Nabi,1,0,null,1,0,null,null
+91,14.6,Simi Singh,WTS Porterfield,Mohammad Nabi,0,0,null,0,0,null,null
+92,15.1,WTS Porterfield,Simi Singh,Rashid Khan,4,0,null,4,0,null,null
+93,15.2,WTS Porterfield,Simi Singh,Rashid Khan,1,0,null,1,0,null,null
+94,15.3,Simi Singh,WTS Porterfield,Rashid Khan,0,0,null,0,0,null,null
+95,15.4,Simi Singh,WTS Porterfield,Rashid Khan,0,0,null,0,0,null,null
+96,15.5,Simi Singh,WTS Porterfield,Rashid Khan,1,0,null,1,0,null,null
+97,15.6,WTS Porterfield,Simi Singh,Rashid Khan,1,0,null,1,0,null,null
+98,16.1,WTS Porterfield,Simi Singh,Mohammad Nabi,1,0,null,1,0,null,null
+99,16.2,Simi Singh,WTS Porterfield,Mohammad Nabi,0,0,null,0,0,null,null
+100,16.3,Simi Singh,WTS Porterfield,Mohammad Nabi,0,0,null,0,0,null,null
+101,16.4,Simi Singh,WTS Porterfield,Mohammad Nabi,0,0,null,0,0,null,null
+102,16.5,Simi Singh,WTS Porterfield,Mohammad Nabi,1,0,null,1,0,null,null
+103,16.6,WTS Porterfield,Simi Singh,Mohammad Nabi,0,0,null,0,0,null,null
+104,17.1,Simi Singh,WTS Porterfield,Rashid Khan,1,0,null,1,0,null,null
+105,17.2,WTS Porterfield,Simi Singh,Rashid Khan,1,0,null,1,0,null,null
+106,17.3,Simi Singh,WTS Porterfield,Rashid Khan,1,0,null,1,0,null,null
+107,17.4,WTS Porterfield,Simi Singh,Rashid Khan,1,0,null,1,0,null,null
+108,17.5,Simi Singh,WTS Porterfield,Rashid Khan,0,0,null,0,1,Simi Singh,lbw
+109,17.6,SW Poynter,WTS Porterfield,Rashid Khan,0,0,null,0,0,null,null
+110,18.1,WTS Porterfield,SW Poynter,Mohammad Nabi,1,0,null,1,0,null,null
+111,18.2,SW Poynter,WTS Porterfield,Mohammad Nabi,1,0,null,1,0,null,null
+112,18.3,WTS Porterfield,SW Poynter,Mohammad Nabi,1,0,null,1,0,null,null
+113,18.4,SW Poynter,WTS Porterfield,Mohammad Nabi,0,0,null,0,0,null,null
+114,18.5,SW Poynter,WTS Porterfield,Mohammad Nabi,2,0,null,2,0,null,null
+115,18.6,SW Poynter,WTS Porterfield,Mohammad Nabi,0,0,null,0,0,null,null
+116,19.1,WTS Porterfield,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+117,19.2,WTS Porterfield,SW Poynter,Rashid Khan,4,0,null,4,0,null,null
+118,19.3,WTS Porterfield,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+119,19.4,WTS Porterfield,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+120,19.5,WTS Porterfield,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+121,19.6,WTS Porterfield,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+122,20.1,SW Poynter,WTS Porterfield,Mohammad Nabi,0,0,null,0,0,null,null
+123,20.2,SW Poynter,WTS Porterfield,Mohammad Nabi,1,0,null,1,0,null,null
+124,20.3,WTS Porterfield,SW Poynter,Mohammad Nabi,0,0,null,0,0,null,null
+125,20.4,WTS Porterfield,SW Poynter,Mohammad Nabi,1,0,null,1,0,null,null
+126,20.5,SW Poynter,WTS Porterfield,Mohammad Nabi,0,0,null,0,0,null,null
+127,20.6,SW Poynter,WTS Porterfield,Mohammad Nabi,0,0,null,0,0,null,null
+128,21.1,WTS Porterfield,SW Poynter,Javed Ahmadi,1,0,null,1,0,null,null
+129,21.2,SW Poynter,WTS Porterfield,Javed Ahmadi,1,0,null,1,0,null,null
+130,21.3,WTS Porterfield,SW Poynter,Javed Ahmadi,1,0,null,1,0,null,null
+131,21.4,SW Poynter,WTS Porterfield,Javed Ahmadi,1,0,null,1,0,null,null
+132,21.5,WTS Porterfield,SW Poynter,Javed Ahmadi,1,0,null,1,0,null,null
+133,21.6,SW Poynter,WTS Porterfield,Javed Ahmadi,2,0,null,2,0,null,null
+134,22.1,WTS Porterfield,SW Poynter,Mohammad Nabi,0,0,null,0,0,null,null
+135,22.2,WTS Porterfield,SW Poynter,Mohammad Nabi,1,0,null,1,0,null,null
+136,22.3,SW Poynter,WTS Porterfield,Mohammad Nabi,0,0,null,0,0,null,null
+137,22.4,SW Poynter,WTS Porterfield,Mohammad Nabi,1,0,null,1,0,null,null
+138,22.5,WTS Porterfield,SW Poynter,Mohammad Nabi,0,0,null,0,1,WTS Porterfield,caught
+139,22.6,GH Dockrell,SW Poynter,Mohammad Nabi,0,0,null,0,0,null,null
+140,23.1,SW Poynter,GH Dockrell,Rashid Khan,0,0,null,0,0,null,null
+141,23.2,SW Poynter,GH Dockrell,Rashid Khan,0,0,null,0,0,null,null
+142,23.3,SW Poynter,GH Dockrell,Rashid Khan,0,0,null,0,0,null,null
+143,23.4,SW Poynter,GH Dockrell,Rashid Khan,0,0,null,0,0,null,null
+144,23.5,SW Poynter,GH Dockrell,Rashid Khan,2,0,null,2,0,null,null
+145,23.6,SW Poynter,GH Dockrell,Rashid Khan,0,2,byes ,2,0,null,null
+146,24.1,GH Dockrell,SW Poynter,Dawlat Zadran,0,0,null,0,0,null,null
+147,24.2,GH Dockrell,SW Poynter,Dawlat Zadran,3,0,null,3,0,null,null
+148,24.3,SW Poynter,GH Dockrell,Dawlat Zadran,1,0,null,1,0,null,null
+149,24.4,GH Dockrell,SW Poynter,Dawlat Zadran,0,0,null,0,0,null,null
+150,24.5,GH Dockrell,SW Poynter,Dawlat Zadran,0,0,null,0,0,null,null
+151,24.6,GH Dockrell,SW Poynter,Dawlat Zadran,0,0,null,0,0,null,null
+152,25.1,SW Poynter,GH Dockrell,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+153,25.2,GH Dockrell,SW Poynter,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+154,25.3,GH Dockrell,SW Poynter,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+155,25.4,GH Dockrell,SW Poynter,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+156,25.5,GH Dockrell,SW Poynter,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+157,25.6,GH Dockrell,SW Poynter,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+158,26.1,GH Dockrell,SW Poynter,Dawlat Zadran,0,0,null,0,1,GH Dockrell,caught
+159,26.2,SW Poynter,WB Rankin,Dawlat Zadran,0,1,wides ,1,0,null,null
+160,26.3,SW Poynter,WB Rankin,Dawlat Zadran,0,0,null,0,0,null,null
+161,26.4,SW Poynter,WB Rankin,Dawlat Zadran,0,0,null,0,0,null,null
+162,26.5,SW Poynter,WB Rankin,Dawlat Zadran,0,1,wides ,1,0,null,null
+163,26.6,SW Poynter,WB Rankin,Dawlat Zadran,0,0,null,0,0,null,null
+164,26.7,SW Poynter,WB Rankin,Dawlat Zadran,0,0,null,0,0,null,null
+165,26.8,SW Poynter,WB Rankin,Dawlat Zadran,0,0,null,0,0,null,null
+166,27.1,WB Rankin,SW Poynter,Rashid Khan,1,0,null,1,0,null,null
+167,27.2,SW Poynter,WB Rankin,Rashid Khan,0,0,null,0,0,null,null
+168,27.3,SW Poynter,WB Rankin,Rashid Khan,4,0,null,4,0,null,null
+169,27.4,SW Poynter,WB Rankin,Rashid Khan,0,0,null,0,0,null,null
+170,27.5,SW Poynter,WB Rankin,Rashid Khan,1,0,null,1,0,null,null
+171,27.6,WB Rankin,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+172,28.1,SW Poynter,WB Rankin,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+173,28.2,WB Rankin,SW Poynter,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+174,28.3,WB Rankin,SW Poynter,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+175,28.4,WB Rankin,SW Poynter,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+176,28.5,WB Rankin,SW Poynter,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+177,28.6,WB Rankin,SW Poynter,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+178,29.1,SW Poynter,WB Rankin,Rashid Khan,0,0,null,0,0,null,null
+179,29.2,SW Poynter,WB Rankin,Rashid Khan,1,0,null,1,0,null,null
+180,29.3,WB Rankin,SW Poynter,Rashid Khan,0,0,null,0,1,WB Rankin,caught
+181,29.4,TJ Murtagh,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+182,29.5,TJ Murtagh,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+183,29.6,TJ Murtagh,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+184,30.1,SW Poynter,TJ Murtagh,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+185,30.2,SW Poynter,TJ Murtagh,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+186,30.3,SW Poynter,TJ Murtagh,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+187,30.4,SW Poynter,TJ Murtagh,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+188,30.5,SW Poynter,TJ Murtagh,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+189,30.6,TJ Murtagh,SW Poynter,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+190,31.1,SW Poynter,TJ Murtagh,Rashid Khan,4,0,null,4,0,null,null
+191,31.2,SW Poynter,TJ Murtagh,Rashid Khan,0,0,null,0,0,null,null
+192,31.3,SW Poynter,TJ Murtagh,Rashid Khan,0,1,legbyes ,1,0,null,null
+193,31.4,TJ Murtagh,SW Poynter,Rashid Khan,0,0,null,0,1,TJ Murtagh,caught

@@ -1,0 +1,268 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Q de Kock,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+1,0.2,Q de Kock,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+2,0.3,Q de Kock,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+3,0.4,Q de Kock,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+4,0.5,Q de Kock,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+5,0.6,Q de Kock,HM Amla,SS Cottrell,4,0,null,4,0,null,null
+6,1.1,HM Amla,Q de Kock,JO Holder,0,0,null,0,0,null,null
+7,1.2,HM Amla,Q de Kock,JO Holder,1,0,null,1,0,null,null
+8,1.3,Q de Kock,HM Amla,JO Holder,0,1,wides ,1,0,null,null
+9,1.4,Q de Kock,HM Amla,JO Holder,0,0,null,0,1,Q de Kock,caught
+10,1.5,F du Plessis,HM Amla,JO Holder,0,1,wides ,1,0,null,null
+11,1.6,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+12,1.7,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+13,1.8,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+14,2.1,HM Amla,F du Plessis,SS Cottrell,0,0,null,0,0,null,null
+15,2.2,HM Amla,F du Plessis,SS Cottrell,0,0,null,0,0,null,null
+16,2.3,HM Amla,F du Plessis,SS Cottrell,0,0,null,0,0,null,null
+17,2.4,HM Amla,F du Plessis,SS Cottrell,4,0,null,4,0,null,null
+18,2.5,HM Amla,F du Plessis,SS Cottrell,0,0,null,0,0,null,null
+19,2.6,HM Amla,F du Plessis,SS Cottrell,4,0,null,4,0,null,null
+20,3.1,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+21,3.2,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+22,3.3,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+23,3.4,F du Plessis,HM Amla,JO Holder,1,0,null,1,0,null,null
+24,3.5,HM Amla,F du Plessis,JO Holder,4,0,null,4,0,null,null
+25,3.6,HM Amla,F du Plessis,JO Holder,0,0,null,0,0,null,null
+26,4.1,F du Plessis,HM Amla,SS Cottrell,0,1,wides ,1,0,null,null
+27,4.2,F du Plessis,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+28,4.3,F du Plessis,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+29,4.4,F du Plessis,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+30,4.5,F du Plessis,HM Amla,SS Cottrell,1,0,null,1,0,null,null
+31,4.6,HM Amla,F du Plessis,SS Cottrell,0,0,null,0,0,null,null
+32,4.7,HM Amla,F du Plessis,SS Cottrell,1,0,null,1,0,null,null
+33,5.1,HM Amla,F du Plessis,JO Holder,1,0,null,1,0,null,null
+34,5.2,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+35,5.3,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+36,5.4,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+37,5.5,F du Plessis,HM Amla,JO Holder,4,0,null,4,0,null,null
+38,5.6,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+39,6.1,HM Amla,F du Plessis,SS Cottrell,6,0,null,6,0,null,null
+40,6.2,HM Amla,F du Plessis,SS Cottrell,0,0,null,0,0,null,null
+41,6.3,HM Amla,F du Plessis,SS Cottrell,4,0,null,4,0,null,null
+42,6.4,HM Amla,F du Plessis,SS Cottrell,0,0,null,0,0,null,null
+43,6.5,HM Amla,F du Plessis,SS Cottrell,1,0,null,1,0,null,null
+44,6.6,F du Plessis,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+45,7.1,HM Amla,F du Plessis,JO Holder,3,0,null,3,0,null,null
+46,7.2,F du Plessis,HM Amla,JO Holder,4,0,null,4,0,null,null
+47,7.3,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+48,7.4,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+49,7.5,F du Plessis,HM Amla,JO Holder,0,0,null,0,0,null,null
+50,7.6,F du Plessis,HM Amla,JO Holder,1,0,null,1,0,null,null
+51,8.1,F du Plessis,HM Amla,CR Brathwaite,1,0,null,1,0,null,null
+52,8.2,HM Amla,F du Plessis,CR Brathwaite,0,0,null,0,0,null,null
+53,8.3,HM Amla,F du Plessis,CR Brathwaite,0,0,null,0,0,null,null
+54,8.4,HM Amla,F du Plessis,CR Brathwaite,0,0,null,0,0,null,null
+55,8.5,HM Amla,F du Plessis,CR Brathwaite,0,0,null,0,0,null,null
+56,8.6,HM Amla,F du Plessis,CR Brathwaite,0,0,null,0,0,null,null
+57,9.1,F du Plessis,HM Amla,AD Russell,1,0,null,1,0,null,null
+58,9.2,HM Amla,F du Plessis,AD Russell,1,0,null,1,0,null,null
+59,9.3,F du Plessis,HM Amla,AD Russell,0,0,null,0,0,null,null
+60,9.4,F du Plessis,HM Amla,AD Russell,3,0,null,3,0,null,null
+61,9.5,HM Amla,F du Plessis,AD Russell,0,5,wides ,5,0,null,null
+62,9.6,HM Amla,F du Plessis,AD Russell,1,0,null,1,0,null,null
+63,9.7,F du Plessis,HM Amla,AD Russell,0,0,null,0,1,F du Plessis,caught
+64,10.1,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+65,10.2,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+66,10.3,RR Rossouw,HM Amla,CR Brathwaite,1,0,null,1,0,null,null
+67,10.4,HM Amla,RR Rossouw,CR Brathwaite,0,0,null,0,0,null,null
+68,10.5,HM Amla,RR Rossouw,CR Brathwaite,0,0,null,0,0,null,null
+69,10.6,HM Amla,RR Rossouw,CR Brathwaite,1,0,null,1,0,null,null
+70,11.1,HM Amla,RR Rossouw,AD Russell,1,0,null,1,0,null,null
+71,11.2,RR Rossouw,HM Amla,AD Russell,1,0,null,1,0,null,null
+72,11.3,HM Amla,RR Rossouw,AD Russell,0,0,null,0,0,null,null
+73,11.4,HM Amla,RR Rossouw,AD Russell,0,5,wides ,5,0,null,null
+74,11.5,HM Amla,RR Rossouw,AD Russell,1,0,null,1,0,null,null
+75,11.6,RR Rossouw,HM Amla,AD Russell,0,0,null,0,0,null,null
+76,11.7,RR Rossouw,HM Amla,AD Russell,0,0,null,0,0,null,null
+77,12.1,HM Amla,RR Rossouw,CR Brathwaite,0,0,null,0,0,null,null
+78,12.2,HM Amla,RR Rossouw,CR Brathwaite,1,0,null,1,0,null,null
+79,12.3,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+80,12.4,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+81,12.5,RR Rossouw,HM Amla,CR Brathwaite,1,0,null,1,0,null,null
+82,12.6,HM Amla,RR Rossouw,CR Brathwaite,1,0,null,1,0,null,null
+83,13.1,HM Amla,RR Rossouw,AD Russell,1,0,null,1,0,null,null
+84,13.2,RR Rossouw,HM Amla,AD Russell,0,0,null,0,0,null,null
+85,13.3,RR Rossouw,HM Amla,AD Russell,1,0,null,1,0,null,null
+86,13.4,HM Amla,RR Rossouw,AD Russell,1,0,null,1,0,null,null
+87,13.5,RR Rossouw,HM Amla,AD Russell,0,1,wides ,1,0,null,null
+88,13.6,RR Rossouw,HM Amla,AD Russell,0,0,null,0,0,null,null
+89,13.7,RR Rossouw,HM Amla,AD Russell,1,0,null,1,0,null,null
+90,14.1,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+91,14.2,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+92,14.3,RR Rossouw,HM Amla,CR Brathwaite,1,0,null,1,0,null,null
+93,14.4,HM Amla,RR Rossouw,CR Brathwaite,1,0,null,1,0,null,null
+94,14.5,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+95,14.6,RR Rossouw,HM Amla,CR Brathwaite,1,0,null,1,0,null,null
+96,15.1,RR Rossouw,HM Amla,AD Russell,0,0,null,0,0,null,null
+97,15.2,RR Rossouw,HM Amla,AD Russell,0,1,wides ,1,0,null,null
+98,15.3,RR Rossouw,HM Amla,AD Russell,3,0,null,3,0,null,null
+99,15.4,HM Amla,RR Rossouw,AD Russell,0,1,legbyes ,1,0,null,null
+100,15.5,RR Rossouw,HM Amla,AD Russell,0,0,null,0,0,null,null
+101,15.6,RR Rossouw,HM Amla,AD Russell,0,0,null,0,0,null,null
+102,15.7,RR Rossouw,HM Amla,AD Russell,0,0,null,0,0,null,null
+103,16.1,HM Amla,RR Rossouw,CR Brathwaite,0,0,null,0,0,null,null
+104,16.2,HM Amla,RR Rossouw,CR Brathwaite,0,0,null,0,0,null,null
+105,16.3,HM Amla,RR Rossouw,CR Brathwaite,1,0,null,1,0,null,null
+106,16.4,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+107,16.5,RR Rossouw,HM Amla,CR Brathwaite,1,0,null,1,0,null,null
+108,16.6,HM Amla,RR Rossouw,CR Brathwaite,0,0,null,0,0,null,null
+109,17.1,RR Rossouw,HM Amla,DJG Sammy,0,0,null,0,0,null,null
+110,17.2,RR Rossouw,HM Amla,DJG Sammy,1,0,null,1,0,null,null
+111,17.3,HM Amla,RR Rossouw,DJG Sammy,1,0,null,1,0,null,null
+112,17.4,RR Rossouw,HM Amla,DJG Sammy,2,0,null,2,0,null,null
+113,17.5,RR Rossouw,HM Amla,DJG Sammy,1,0,null,1,0,null,null
+114,17.6,HM Amla,RR Rossouw,DJG Sammy,0,0,null,0,0,null,null
+115,18.1,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+116,18.2,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+117,18.3,RR Rossouw,HM Amla,CR Brathwaite,4,0,null,4,0,null,null
+118,18.4,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+119,18.5,RR Rossouw,HM Amla,CR Brathwaite,1,0,null,1,0,null,null
+120,18.6,HM Amla,RR Rossouw,CR Brathwaite,2,0,null,2,0,null,null
+121,19.1,RR Rossouw,HM Amla,DJG Sammy,1,0,null,1,0,null,null
+122,19.2,HM Amla,RR Rossouw,DJG Sammy,1,0,null,1,0,null,null
+123,19.3,RR Rossouw,HM Amla,DJG Sammy,0,0,null,0,0,null,null
+124,19.4,RR Rossouw,HM Amla,DJG Sammy,0,0,null,0,0,null,null
+125,19.5,RR Rossouw,HM Amla,DJG Sammy,1,0,null,1,0,null,null
+126,19.6,HM Amla,RR Rossouw,DJG Sammy,3,0,null,3,0,null,null
+127,20.1,HM Amla,RR Rossouw,N Deonarine,4,0,null,4,0,null,null
+128,20.2,HM Amla,RR Rossouw,N Deonarine,1,0,null,1,0,null,null
+129,20.3,RR Rossouw,HM Amla,N Deonarine,1,0,null,1,0,null,null
+130,20.4,HM Amla,RR Rossouw,N Deonarine,1,0,null,1,0,null,null
+131,20.5,RR Rossouw,HM Amla,N Deonarine,1,0,null,1,0,null,null
+132,20.6,HM Amla,RR Rossouw,N Deonarine,1,0,null,1,0,null,null
+133,21.1,HM Amla,RR Rossouw,DJG Sammy,0,0,null,0,0,null,null
+134,21.2,HM Amla,RR Rossouw,DJG Sammy,0,0,null,0,0,null,null
+135,21.3,HM Amla,RR Rossouw,DJG Sammy,0,0,null,0,0,null,null
+136,21.4,HM Amla,RR Rossouw,DJG Sammy,0,0,null,0,0,null,null
+137,21.5,HM Amla,RR Rossouw,DJG Sammy,1,0,null,1,0,null,null
+138,21.6,RR Rossouw,HM Amla,DJG Sammy,1,0,null,1,0,null,null
+139,22.1,RR Rossouw,HM Amla,N Deonarine,0,0,null,0,0,null,null
+140,22.2,RR Rossouw,HM Amla,N Deonarine,6,0,null,6,0,null,null
+141,22.3,RR Rossouw,HM Amla,N Deonarine,0,0,null,0,0,null,null
+142,22.4,RR Rossouw,HM Amla,N Deonarine,2,0,null,2,0,null,null
+143,22.5,RR Rossouw,HM Amla,N Deonarine,1,0,null,1,0,null,null
+144,22.6,HM Amla,RR Rossouw,N Deonarine,1,0,null,1,0,null,null
+145,23.1,HM Amla,RR Rossouw,DJG Sammy,0,0,null,0,0,null,null
+146,23.2,HM Amla,RR Rossouw,DJG Sammy,0,0,null,0,0,null,null
+147,23.3,HM Amla,RR Rossouw,DJG Sammy,0,0,null,0,0,null,null
+148,23.4,HM Amla,RR Rossouw,DJG Sammy,4,0,null,4,0,null,null
+149,23.5,HM Amla,RR Rossouw,DJG Sammy,1,0,null,1,0,null,null
+150,23.6,RR Rossouw,HM Amla,DJG Sammy,4,0,null,4,0,null,null
+151,24.1,HM Amla,RR Rossouw,JO Holder,0,0,null,0,0,null,null
+152,24.2,HM Amla,RR Rossouw,JO Holder,1,0,null,1,0,null,null
+153,24.3,RR Rossouw,HM Amla,JO Holder,0,0,null,0,0,null,null
+154,24.4,RR Rossouw,HM Amla,JO Holder,0,0,null,0,0,null,null
+155,24.5,RR Rossouw,HM Amla,JO Holder,1,0,null,1,0,null,null
+156,24.6,HM Amla,RR Rossouw,JO Holder,1,0,null,1,0,null,null
+157,25.1,HM Amla,RR Rossouw,DJG Sammy,0,0,null,0,0,null,null
+158,25.2,HM Amla,RR Rossouw,DJG Sammy,0,0,null,0,0,null,null
+159,25.3,HM Amla,RR Rossouw,DJG Sammy,1,0,null,1,0,null,null
+160,25.4,RR Rossouw,HM Amla,DJG Sammy,4,0,null,4,0,null,null
+161,25.5,RR Rossouw,HM Amla,DJG Sammy,0,0,null,0,0,null,null
+162,25.6,RR Rossouw,HM Amla,DJG Sammy,1,0,null,1,0,null,null
+163,26.1,RR Rossouw,HM Amla,JO Holder,4,0,null,4,0,null,null
+164,26.2,RR Rossouw,HM Amla,JO Holder,1,0,null,1,0,null,null
+165,26.3,HM Amla,RR Rossouw,JO Holder,0,0,null,0,0,null,null
+166,26.4,HM Amla,RR Rossouw,JO Holder,1,0,null,1,0,null,null
+167,26.5,RR Rossouw,HM Amla,JO Holder,0,0,null,0,0,null,null
+168,26.6,RR Rossouw,HM Amla,JO Holder,0,0,null,0,0,null,null
+169,27.1,HM Amla,RR Rossouw,AD Russell,0,0,null,0,0,null,null
+170,27.2,HM Amla,RR Rossouw,AD Russell,1,0,null,1,0,null,null
+171,27.3,RR Rossouw,HM Amla,AD Russell,0,0,null,0,0,null,null
+172,27.4,RR Rossouw,HM Amla,AD Russell,0,0,null,0,0,null,null
+173,27.5,RR Rossouw,HM Amla,AD Russell,2,0,null,2,0,null,null
+174,27.6,RR Rossouw,HM Amla,AD Russell,1,0,null,1,0,null,null
+175,28.1,RR Rossouw,HM Amla,CR Brathwaite,6,0,null,6,0,null,null
+176,28.2,RR Rossouw,HM Amla,CR Brathwaite,0,0,null,0,0,null,null
+177,28.3,RR Rossouw,HM Amla,CR Brathwaite,1,0,null,1,0,null,null
+178,28.4,HM Amla,RR Rossouw,CR Brathwaite,2,0,null,2,0,null,null
+179,28.5,HM Amla,RR Rossouw,CR Brathwaite,0,0,null,0,0,null,null
+180,28.6,HM Amla,RR Rossouw,CR Brathwaite,0,0,null,0,0,null,null
+181,29.1,RR Rossouw,HM Amla,AD Russell,6,0,null,6,0,null,null
+182,29.2,RR Rossouw,HM Amla,AD Russell,0,0,null,0,0,null,null
+183,29.3,RR Rossouw,HM Amla,AD Russell,4,0,null,4,0,null,null
+184,29.4,RR Rossouw,HM Amla,AD Russell,6,1,noballs ,7,0,null,null
+185,29.5,RR Rossouw,HM Amla,AD Russell,0,1,wides ,1,0,null,null
+186,29.6,RR Rossouw,HM Amla,AD Russell,6,0,null,6,0,null,null
+187,29.7,RR Rossouw,HM Amla,AD Russell,1,0,null,1,0,null,null
+188,29.8,HM Amla,RR Rossouw,AD Russell,0,1,noballs ,1,0,null,null
+189,29.9,HM Amla,RR Rossouw,AD Russell,2,0,null,2,0,null,null
+190,30.1,RR Rossouw,HM Amla,CR Brathwaite,4,0,null,4,0,null,null
+191,30.2,RR Rossouw,HM Amla,CR Brathwaite,0,1,wides ,1,0,null,null
+192,30.3,RR Rossouw,HM Amla,CR Brathwaite,4,0,null,4,0,null,null
+193,30.4,RR Rossouw,HM Amla,CR Brathwaite,2,0,null,2,0,null,null
+194,30.5,RR Rossouw,HM Amla,CR Brathwaite,1,0,null,1,0,null,null
+195,30.6,HM Amla,RR Rossouw,CR Brathwaite,0,0,null,0,0,null,null
+196,30.7,HM Amla,RR Rossouw,CR Brathwaite,0,0,null,0,0,null,null
+197,31.1,RR Rossouw,HM Amla,SS Cottrell,1,0,null,1,0,null,null
+198,31.2,HM Amla,RR Rossouw,SS Cottrell,1,0,null,1,0,null,null
+199,31.3,RR Rossouw,HM Amla,SS Cottrell,1,0,null,1,0,null,null
+200,31.4,HM Amla,RR Rossouw,SS Cottrell,1,0,null,1,0,null,null
+201,31.5,RR Rossouw,HM Amla,SS Cottrell,0,1,wides ,1,0,null,null
+202,31.6,RR Rossouw,HM Amla,SS Cottrell,1,0,null,1,0,null,null
+203,31.7,HM Amla,RR Rossouw,SS Cottrell,6,0,null,6,0,null,null
+204,32.1,RR Rossouw,HM Amla,DJG Sammy,1,0,null,1,0,null,null
+205,32.2,HM Amla,RR Rossouw,DJG Sammy,1,0,null,1,0,null,null
+206,32.3,RR Rossouw,HM Amla,DJG Sammy,1,0,null,1,0,null,null
+207,32.4,HM Amla,RR Rossouw,DJG Sammy,6,0,null,6,0,null,null
+208,32.5,HM Amla,RR Rossouw,DJG Sammy,0,0,null,0,0,null,null
+209,32.6,HM Amla,RR Rossouw,DJG Sammy,6,0,null,6,0,null,null
+210,33.1,RR Rossouw,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+211,33.2,RR Rossouw,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+212,33.3,RR Rossouw,HM Amla,SS Cottrell,0,0,null,0,0,null,null
+213,33.4,RR Rossouw,HM Amla,SS Cottrell,2,0,null,2,0,null,null
+214,33.5,RR Rossouw,HM Amla,SS Cottrell,1,0,null,1,0,null,null
+215,33.6,HM Amla,RR Rossouw,SS Cottrell,4,0,null,4,0,null,null
+216,34.1,RR Rossouw,HM Amla,JO Holder,0,0,null,0,0,null,null
+217,34.2,RR Rossouw,HM Amla,JO Holder,1,0,null,1,0,null,null
+218,34.3,HM Amla,RR Rossouw,JO Holder,1,0,null,1,0,null,null
+219,34.4,RR Rossouw,HM Amla,JO Holder,0,0,null,0,0,null,null
+220,34.5,RR Rossouw,HM Amla,JO Holder,0,0,null,0,0,null,null
+221,34.6,RR Rossouw,HM Amla,JO Holder,1,0,null,1,0,null,null
+222,35.1,RR Rossouw,HM Amla,CR Brathwaite,1,0,null,1,0,null,null
+223,35.2,HM Amla,RR Rossouw,CR Brathwaite,0,1,legbyes ,1,0,null,null
+224,35.3,RR Rossouw,HM Amla,CR Brathwaite,0,1,wides ,1,0,null,null
+225,35.4,RR Rossouw,HM Amla,CR Brathwaite,1,0,null,1,0,null,null
+226,35.5,HM Amla,RR Rossouw,CR Brathwaite,2,0,null,2,0,null,null
+227,35.6,HM Amla,RR Rossouw,CR Brathwaite,2,0,null,2,0,null,null
+228,35.7,HM Amla,RR Rossouw,CR Brathwaite,0,4,legbyes ,4,0,null,null
+229,36.1,RR Rossouw,HM Amla,JO Holder,4,0,null,4,0,null,null
+230,36.2,RR Rossouw,HM Amla,JO Holder,6,0,null,6,0,null,null
+231,36.3,RR Rossouw,HM Amla,JO Holder,6,0,null,6,0,null,null
+232,36.4,RR Rossouw,HM Amla,JO Holder,4,0,null,4,0,null,null
+233,36.5,RR Rossouw,HM Amla,JO Holder,1,0,null,1,0,null,null
+234,36.6,HM Amla,RR Rossouw,JO Holder,1,0,null,1,0,null,null
+235,37.1,HM Amla,RR Rossouw,SS Cottrell,6,0,null,6,0,null,null
+236,37.2,HM Amla,RR Rossouw,SS Cottrell,4,0,null,4,0,null,null
+237,37.3,HM Amla,RR Rossouw,SS Cottrell,4,0,null,4,0,null,null
+238,37.4,HM Amla,RR Rossouw,SS Cottrell,2,0,null,2,0,null,null
+239,37.5,HM Amla,RR Rossouw,SS Cottrell,1,0,null,1,0,null,null
+240,37.6,RR Rossouw,HM Amla,SS Cottrell,6,0,null,6,0,null,null
+241,38.1,HM Amla,RR Rossouw,AD Russell,4,0,null,4,0,null,null
+242,38.2,HM Amla,RR Rossouw,AD Russell,4,0,null,4,0,null,null
+243,38.3,HM Amla,RR Rossouw,AD Russell,1,0,null,1,0,null,null
+244,38.4,RR Rossouw,HM Amla,AD Russell,0,0,null,0,1,RR Rossouw,caught
+245,38.5,HM Amla,DA Miller,AD Russell,0,1,legbyes ,1,0,null,null
+246,38.6,DA Miller,HM Amla,AD Russell,1,0,null,1,0,null,null
+247,39.1,DA Miller,HM Amla,DJG Sammy,2,0,null,2,0,null,null
+248,39.2,DA Miller,HM Amla,DJG Sammy,6,0,null,6,0,null,null
+249,39.3,DA Miller,HM Amla,DJG Sammy,4,0,null,4,0,null,null
+250,39.4,DA Miller,HM Amla,DJG Sammy,0,0,null,0,0,null,null
+251,39.5,DA Miller,HM Amla,DJG Sammy,0,0,null,0,0,null,null
+252,39.6,DA Miller,HM Amla,DJG Sammy,4,0,null,4,0,null,null
+253,40.1,HM Amla,DA Miller,AD Russell,6,0,null,6,0,null,null
+254,40.2,HM Amla,DA Miller,AD Russell,0,0,null,0,1,HM Amla,bowled
+255,40.3,JP Duminy,DA Miller,AD Russell,0,1,noballs ,1,0,null,null
+256,40.4,JP Duminy,DA Miller,AD Russell,0,0,null,0,0,null,null
+257,40.5,JP Duminy,DA Miller,AD Russell,4,0,null,4,0,null,null
+258,40.6,JP Duminy,DA Miller,AD Russell,4,0,null,4,0,null,null
+259,40.7,JP Duminy,DA Miller,AD Russell,0,0,null,0,0,null,null
+260,41.1,DA Miller,JP Duminy,JO Holder,6,0,null,6,0,null,null
+261,41.2,DA Miller,JP Duminy,JO Holder,0,0,null,0,1,DA Miller,caught
+262,41.3,F Behardien,JP Duminy,JO Holder,4,0,null,4,0,null,null
+263,41.4,F Behardien,JP Duminy,JO Holder,1,0,null,1,0,null,null
+264,41.5,JP Duminy,F Behardien,JO Holder,0,1,wides ,1,0,null,null
+265,41.6,JP Duminy,F Behardien,JO Holder,4,0,null,4,0,null,null
+266,41.7,JP Duminy,F Behardien,JO Holder,6,0,null,6,0,null,null

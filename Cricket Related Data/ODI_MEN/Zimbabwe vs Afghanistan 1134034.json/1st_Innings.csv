@@ -1,0 +1,316 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,SF Mire,H Masakadza,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+1,0.2,H Masakadza,SF Mire,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+2,0.3,H Masakadza,SF Mire,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+3,0.4,H Masakadza,SF Mire,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+4,0.5,H Masakadza,SF Mire,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+5,0.6,H Masakadza,SF Mire,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+6,1.1,SF Mire,H Masakadza,Dawlat Zadran,0,0,null,0,0,null,null
+7,1.2,SF Mire,H Masakadza,Dawlat Zadran,4,0,null,4,0,null,null
+8,1.3,SF Mire,H Masakadza,Dawlat Zadran,0,0,null,0,0,null,null
+9,1.4,SF Mire,H Masakadza,Dawlat Zadran,0,0,null,0,0,null,null
+10,1.5,SF Mire,H Masakadza,Dawlat Zadran,0,0,null,0,0,null,null
+11,1.6,SF Mire,H Masakadza,Dawlat Zadran,0,0,null,0,0,null,null
+12,2.1,H Masakadza,SF Mire,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+13,2.2,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+14,2.3,SF Mire,H Masakadza,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+15,2.4,SF Mire,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,1,SF Mire,lbw
+16,2.5,BRM Taylor,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+17,2.6,BRM Taylor,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+18,3.1,H Masakadza,BRM Taylor,Dawlat Zadran,4,0,null,4,0,null,null
+19,3.2,H Masakadza,BRM Taylor,Dawlat Zadran,0,0,null,0,0,null,null
+20,3.3,H Masakadza,BRM Taylor,Dawlat Zadran,0,0,null,0,0,null,null
+21,3.4,H Masakadza,BRM Taylor,Dawlat Zadran,1,0,null,1,0,null,null
+22,3.5,BRM Taylor,H Masakadza,Dawlat Zadran,4,0,null,4,0,null,null
+23,3.6,BRM Taylor,H Masakadza,Dawlat Zadran,0,0,null,0,0,null,null
+24,4.1,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+25,4.2,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+26,4.3,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+27,4.4,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+28,4.5,BRM Taylor,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+29,4.6,BRM Taylor,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+30,5.1,H Masakadza,BRM Taylor,Dawlat Zadran,0,0,null,0,0,null,null
+31,5.2,H Masakadza,BRM Taylor,Dawlat Zadran,0,0,null,0,0,null,null
+32,5.3,H Masakadza,BRM Taylor,Dawlat Zadran,6,0,null,6,0,null,null
+33,5.4,H Masakadza,BRM Taylor,Dawlat Zadran,0,1,noballs ,1,0,null,null
+34,5.5,H Masakadza,BRM Taylor,Dawlat Zadran,0,0,null,0,0,null,null
+35,5.6,H Masakadza,BRM Taylor,Dawlat Zadran,0,0,null,0,0,null,null
+36,5.7,H Masakadza,BRM Taylor,Dawlat Zadran,0,0,null,0,0,null,null
+37,6.1,BRM Taylor,H Masakadza,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+38,6.2,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+39,6.3,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+40,6.4,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+41,6.5,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+42,6.6,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+43,7.1,BRM Taylor,H Masakadza,Dawlat Zadran,4,0,null,4,0,null,null
+44,7.2,BRM Taylor,H Masakadza,Dawlat Zadran,0,0,null,0,0,null,null
+45,7.3,BRM Taylor,H Masakadza,Dawlat Zadran,0,0,null,0,0,null,null
+46,7.4,BRM Taylor,H Masakadza,Dawlat Zadran,1,0,null,1,0,null,null
+47,7.5,H Masakadza,BRM Taylor,Dawlat Zadran,2,0,null,2,0,null,null
+48,7.6,H Masakadza,BRM Taylor,Dawlat Zadran,1,0,null,1,0,null,null
+49,8.1,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,6,0,null,6,0,null,null
+50,8.2,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+51,8.3,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+52,8.4,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+53,8.5,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+54,8.6,BRM Taylor,H Masakadza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+55,9.1,H Masakadza,BRM Taylor,Gulbadin Naib,1,0,null,1,0,null,null
+56,9.2,BRM Taylor,H Masakadza,Gulbadin Naib,1,0,null,1,0,null,null
+57,9.3,H Masakadza,BRM Taylor,Gulbadin Naib,0,0,null,0,0,null,null
+58,9.4,H Masakadza,BRM Taylor,Gulbadin Naib,1,0,null,1,0,null,null
+59,9.5,BRM Taylor,H Masakadza,Gulbadin Naib,0,0,null,0,0,null,null
+60,9.6,BRM Taylor,H Masakadza,Gulbadin Naib,0,0,null,0,0,null,null
+61,10.1,H Masakadza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+62,10.2,H Masakadza,BRM Taylor,Rashid Khan,4,0,null,4,0,null,null
+63,10.3,H Masakadza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+64,10.4,H Masakadza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+65,10.5,H Masakadza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+66,10.6,H Masakadza,BRM Taylor,Rashid Khan,1,0,null,1,0,null,null
+67,11.1,H Masakadza,BRM Taylor,Gulbadin Naib,1,0,null,1,0,null,null
+68,11.2,BRM Taylor,H Masakadza,Gulbadin Naib,1,0,null,1,0,null,null
+69,11.3,H Masakadza,BRM Taylor,Gulbadin Naib,1,0,null,1,0,null,null
+70,11.4,BRM Taylor,H Masakadza,Gulbadin Naib,0,0,null,0,0,null,null
+71,11.5,BRM Taylor,H Masakadza,Gulbadin Naib,1,0,null,1,0,null,null
+72,11.6,H Masakadza,BRM Taylor,Gulbadin Naib,0,1,wides ,1,0,null,null
+73,11.7,H Masakadza,BRM Taylor,Gulbadin Naib,0,0,null,0,0,null,null
+74,12.1,BRM Taylor,H Masakadza,Rashid Khan,0,0,null,0,0,null,null
+75,12.2,BRM Taylor,H Masakadza,Rashid Khan,0,0,null,0,0,null,null
+76,12.3,BRM Taylor,H Masakadza,Rashid Khan,1,0,null,1,0,null,null
+77,12.4,H Masakadza,BRM Taylor,Rashid Khan,1,0,null,1,0,null,null
+78,12.5,BRM Taylor,H Masakadza,Rashid Khan,0,0,null,0,0,null,null
+79,12.6,BRM Taylor,H Masakadza,Rashid Khan,1,0,null,1,0,null,null
+80,13.1,BRM Taylor,H Masakadza,Mohammad Nabi,0,0,null,0,0,null,null
+81,13.2,BRM Taylor,H Masakadza,Mohammad Nabi,0,0,null,0,0,null,null
+82,13.3,BRM Taylor,H Masakadza,Mohammad Nabi,2,0,null,2,0,null,null
+83,13.4,BRM Taylor,H Masakadza,Mohammad Nabi,1,0,null,1,0,null,null
+84,13.5,H Masakadza,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+85,13.6,H Masakadza,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+86,14.1,BRM Taylor,H Masakadza,Gulbadin Naib,6,0,null,6,0,null,null
+87,14.2,BRM Taylor,H Masakadza,Gulbadin Naib,0,0,null,0,0,null,null
+88,14.3,BRM Taylor,H Masakadza,Gulbadin Naib,1,0,null,1,0,null,null
+89,14.4,H Masakadza,BRM Taylor,Gulbadin Naib,1,0,null,1,0,null,null
+90,14.5,BRM Taylor,H Masakadza,Gulbadin Naib,6,0,null,6,0,null,null
+91,14.6,BRM Taylor,H Masakadza,Gulbadin Naib,1,0,null,1,0,null,null
+92,15.1,BRM Taylor,H Masakadza,Mohammad Nabi,0,0,null,0,0,null,null
+93,15.2,BRM Taylor,H Masakadza,Mohammad Nabi,0,0,null,0,0,null,null
+94,15.3,BRM Taylor,H Masakadza,Mohammad Nabi,0,0,null,0,0,null,null
+95,15.4,BRM Taylor,H Masakadza,Mohammad Nabi,1,0,null,1,0,null,null
+96,15.5,H Masakadza,BRM Taylor,Mohammad Nabi,1,0,null,1,0,null,null
+97,15.6,BRM Taylor,H Masakadza,Mohammad Nabi,1,0,null,1,0,null,null
+98,16.1,BRM Taylor,H Masakadza,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+99,16.2,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+100,16.3,BRM Taylor,H Masakadza,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+101,16.4,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+102,16.5,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+103,16.6,H Masakadza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,1,H Masakadza,run out
+104,17.1,BRM Taylor,CR Ervine,Mohammad Nabi,0,0,null,0,0,null,null
+105,17.2,BRM Taylor,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+106,17.3,CR Ervine,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+107,17.4,CR Ervine,BRM Taylor,Mohammad Nabi,1,0,null,1,0,null,null
+108,17.5,BRM Taylor,CR Ervine,Mohammad Nabi,2,0,null,2,0,null,null
+109,17.6,BRM Taylor,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+110,18.1,BRM Taylor,CR Ervine,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+111,18.2,BRM Taylor,CR Ervine,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+112,18.3,CR Ervine,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+113,18.4,CR Ervine,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+114,18.5,CR Ervine,BRM Taylor,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+115,18.6,BRM Taylor,CR Ervine,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+116,19.1,BRM Taylor,CR Ervine,Mohammad Nabi,0,0,null,0,0,null,null
+117,19.2,BRM Taylor,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+118,19.3,CR Ervine,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+119,19.4,CR Ervine,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+120,19.5,CR Ervine,BRM Taylor,Mohammad Nabi,1,0,null,1,0,null,null
+121,19.6,BRM Taylor,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+122,20.1,BRM Taylor,CR Ervine,Gulbadin Naib,0,0,null,0,0,null,null
+123,20.2,BRM Taylor,CR Ervine,Gulbadin Naib,4,0,null,4,0,null,null
+124,20.3,BRM Taylor,CR Ervine,Gulbadin Naib,1,0,null,1,0,null,null
+125,20.4,CR Ervine,BRM Taylor,Gulbadin Naib,0,0,null,0,0,null,null
+126,20.5,CR Ervine,BRM Taylor,Gulbadin Naib,1,0,null,1,0,null,null
+127,20.6,BRM Taylor,CR Ervine,Gulbadin Naib,1,0,null,1,0,null,null
+128,21.1,BRM Taylor,CR Ervine,Mohammad Nabi,0,1,wides ,1,0,null,null
+129,21.2,BRM Taylor,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+130,21.3,CR Ervine,BRM Taylor,Mohammad Nabi,1,0,null,1,0,null,null
+131,21.4,BRM Taylor,CR Ervine,Mohammad Nabi,0,0,null,0,0,null,null
+132,21.5,BRM Taylor,CR Ervine,Mohammad Nabi,0,0,null,0,0,null,null
+133,21.6,BRM Taylor,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+134,21.7,CR Ervine,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+135,22.1,BRM Taylor,CR Ervine,Gulbadin Naib,1,0,null,1,0,null,null
+136,22.2,CR Ervine,BRM Taylor,Gulbadin Naib,0,0,null,0,0,null,null
+137,22.3,CR Ervine,BRM Taylor,Gulbadin Naib,1,0,null,1,0,null,null
+138,22.4,BRM Taylor,CR Ervine,Gulbadin Naib,1,0,null,1,0,null,null
+139,22.5,CR Ervine,BRM Taylor,Gulbadin Naib,0,0,null,0,0,null,null
+140,22.6,CR Ervine,BRM Taylor,Gulbadin Naib,4,0,null,4,0,null,null
+141,23.1,BRM Taylor,CR Ervine,Mohammad Nabi,0,0,null,0,0,null,null
+142,23.2,BRM Taylor,CR Ervine,Mohammad Nabi,1,0,null,1,0,null,null
+143,23.3,CR Ervine,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+144,23.4,CR Ervine,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+145,23.5,CR Ervine,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+146,23.6,CR Ervine,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+147,24.1,BRM Taylor,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+148,24.2,BRM Taylor,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+149,24.3,BRM Taylor,CR Ervine,Rashid Khan,1,0,null,1,0,null,null
+150,24.4,CR Ervine,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+151,24.5,CR Ervine,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+152,24.6,CR Ervine,BRM Taylor,Rashid Khan,1,0,null,1,0,null,null
+153,25.1,CR Ervine,BRM Taylor,Rahmat Shah,0,0,null,0,0,null,null
+154,25.2,CR Ervine,BRM Taylor,Rahmat Shah,1,0,null,1,0,null,null
+155,25.3,BRM Taylor,CR Ervine,Rahmat Shah,6,0,null,6,0,null,null
+156,25.4,BRM Taylor,CR Ervine,Rahmat Shah,6,0,null,6,0,null,null
+157,25.5,BRM Taylor,CR Ervine,Rahmat Shah,1,0,null,1,0,null,null
+158,25.6,CR Ervine,BRM Taylor,Rahmat Shah,1,0,null,1,0,null,null
+159,26.1,CR Ervine,BRM Taylor,Rashid Khan,1,0,null,1,0,null,null
+160,26.2,BRM Taylor,CR Ervine,Rashid Khan,0,0,null,0,0,null,null
+161,26.3,BRM Taylor,CR Ervine,Rashid Khan,0,1,legbyes ,1,0,null,null
+162,26.4,CR Ervine,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+163,26.5,CR Ervine,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+164,26.6,CR Ervine,BRM Taylor,Rashid Khan,0,0,null,0,1,CR Ervine,caught
+165,27.1,BRM Taylor,Sikandar Raza,Rahmat Shah,0,0,null,0,0,null,null
+166,27.2,BRM Taylor,Sikandar Raza,Rahmat Shah,0,0,null,0,0,null,null
+167,27.3,BRM Taylor,Sikandar Raza,Rahmat Shah,0,0,null,0,0,null,null
+168,27.4,BRM Taylor,Sikandar Raza,Rahmat Shah,0,0,null,0,0,null,null
+169,27.5,BRM Taylor,Sikandar Raza,Rahmat Shah,6,0,null,6,0,null,null
+170,27.6,BRM Taylor,Sikandar Raza,Rahmat Shah,0,0,null,0,0,null,null
+171,28.1,Sikandar Raza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+172,28.2,Sikandar Raza,BRM Taylor,Rashid Khan,4,0,null,4,0,null,null
+173,28.3,Sikandar Raza,BRM Taylor,Rashid Khan,1,0,null,1,0,null,null
+174,28.4,BRM Taylor,Sikandar Raza,Rashid Khan,0,0,null,0,0,null,null
+175,28.5,BRM Taylor,Sikandar Raza,Rashid Khan,0,0,null,0,0,null,null
+176,28.6,BRM Taylor,Sikandar Raza,Rashid Khan,0,0,null,0,0,null,null
+177,29.1,Sikandar Raza,BRM Taylor,Rahmat Shah,0,0,null,0,0,null,null
+178,29.2,Sikandar Raza,BRM Taylor,Rahmat Shah,4,0,null,4,0,null,null
+179,29.3,Sikandar Raza,BRM Taylor,Rahmat Shah,2,0,null,2,0,null,null
+180,29.4,Sikandar Raza,BRM Taylor,Rahmat Shah,1,0,null,1,0,null,null
+181,29.5,BRM Taylor,Sikandar Raza,Rahmat Shah,0,0,null,0,0,null,null
+182,29.6,BRM Taylor,Sikandar Raza,Rahmat Shah,6,0,null,6,0,null,null
+183,30.1,Sikandar Raza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+184,30.2,Sikandar Raza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+185,30.3,Sikandar Raza,BRM Taylor,Rashid Khan,0,1,wides ,1,0,null,null
+186,30.4,Sikandar Raza,BRM Taylor,Rashid Khan,1,0,null,1,0,null,null
+187,30.5,BRM Taylor,Sikandar Raza,Rashid Khan,1,0,null,1,0,null,null
+188,30.6,Sikandar Raza,BRM Taylor,Rashid Khan,1,0,null,1,0,null,null
+189,30.7,BRM Taylor,Sikandar Raza,Rashid Khan,0,0,null,0,0,null,null
+190,31.1,Sikandar Raza,BRM Taylor,Mohammad Nabi,1,0,null,1,0,null,null
+191,31.2,BRM Taylor,Sikandar Raza,Mohammad Nabi,1,0,null,1,0,null,null
+192,31.3,Sikandar Raza,BRM Taylor,Mohammad Nabi,1,0,null,1,0,null,null
+193,31.4,BRM Taylor,Sikandar Raza,Mohammad Nabi,0,0,null,0,0,null,null
+194,31.5,BRM Taylor,Sikandar Raza,Mohammad Nabi,0,0,null,0,0,null,null
+195,31.6,BRM Taylor,Sikandar Raza,Mohammad Nabi,1,0,null,1,0,null,null
+196,32.1,BRM Taylor,Sikandar Raza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+197,32.2,BRM Taylor,Sikandar Raza,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+198,32.3,Sikandar Raza,BRM Taylor,Mujeeb Ur Rahman,0,1,wides ,1,0,null,null
+199,32.4,Sikandar Raza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+200,32.5,Sikandar Raza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+201,32.6,Sikandar Raza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+202,32.7,Sikandar Raza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+203,33.1,BRM Taylor,Sikandar Raza,Mohammad Nabi,1,0,null,1,0,null,null
+204,33.2,Sikandar Raza,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+205,33.3,Sikandar Raza,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+206,33.4,Sikandar Raza,BRM Taylor,Mohammad Nabi,1,0,null,1,0,null,null
+207,33.5,BRM Taylor,Sikandar Raza,Mohammad Nabi,1,0,null,1,0,null,null
+208,33.6,Sikandar Raza,BRM Taylor,Mohammad Nabi,1,0,null,1,0,null,null
+209,34.1,Sikandar Raza,BRM Taylor,Dawlat Zadran,6,0,null,6,0,null,null
+210,34.2,Sikandar Raza,BRM Taylor,Dawlat Zadran,4,0,null,4,0,null,null
+211,34.3,Sikandar Raza,BRM Taylor,Dawlat Zadran,4,0,null,4,0,null,null
+212,34.4,Sikandar Raza,BRM Taylor,Dawlat Zadran,1,0,null,1,0,null,null
+213,34.5,BRM Taylor,Sikandar Raza,Dawlat Zadran,0,1,legbyes ,1,0,null,null
+214,34.6,Sikandar Raza,BRM Taylor,Dawlat Zadran,1,0,null,1,0,null,null
+215,35.1,Sikandar Raza,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+216,35.2,Sikandar Raza,BRM Taylor,Mohammad Nabi,1,0,null,1,0,null,null
+217,35.3,BRM Taylor,Sikandar Raza,Mohammad Nabi,1,0,null,1,0,null,null
+218,35.4,Sikandar Raza,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+219,35.5,Sikandar Raza,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+220,35.6,Sikandar Raza,BRM Taylor,Mohammad Nabi,0,0,null,0,0,null,null
+221,36.1,BRM Taylor,Sikandar Raza,Dawlat Zadran,1,0,null,1,0,null,null
+222,36.2,Sikandar Raza,BRM Taylor,Dawlat Zadran,0,0,null,0,0,null,null
+223,36.3,Sikandar Raza,BRM Taylor,Dawlat Zadran,0,1,noballs ,1,0,null,null
+224,36.4,Sikandar Raza,BRM Taylor,Dawlat Zadran,6,0,null,6,0,null,null
+225,36.5,Sikandar Raza,BRM Taylor,Dawlat Zadran,1,0,null,1,0,null,null
+226,36.6,BRM Taylor,Sikandar Raza,Dawlat Zadran,1,0,null,1,0,null,null
+227,36.7,Sikandar Raza,BRM Taylor,Dawlat Zadran,0,1,wides ,1,0,null,null
+228,36.8,Sikandar Raza,BRM Taylor,Dawlat Zadran,1,1,noballs ,2,0,null,null
+229,36.9,BRM Taylor,Sikandar Raza,Dawlat Zadran,1,0,null,1,0,null,null
+230,37.1,BRM Taylor,Sikandar Raza,Mohammad Nabi,1,0,null,1,0,null,null
+231,37.2,Sikandar Raza,BRM Taylor,Mohammad Nabi,1,0,null,1,0,null,null
+232,37.3,BRM Taylor,Sikandar Raza,Mohammad Nabi,0,0,null,0,0,null,null
+233,37.4,BRM Taylor,Sikandar Raza,Mohammad Nabi,0,0,null,0,0,null,null
+234,37.5,BRM Taylor,Sikandar Raza,Mohammad Nabi,1,0,null,1,0,null,null
+235,37.6,Sikandar Raza,BRM Taylor,Mohammad Nabi,1,0,null,1,0,null,null
+236,38.1,Sikandar Raza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+237,38.2,Sikandar Raza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+238,38.3,Sikandar Raza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+239,38.4,Sikandar Raza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+240,38.5,Sikandar Raza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+241,38.6,Sikandar Raza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+242,39.1,BRM Taylor,Sikandar Raza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+243,39.2,BRM Taylor,Sikandar Raza,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+244,39.3,BRM Taylor,Sikandar Raza,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+245,39.4,BRM Taylor,Sikandar Raza,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+246,39.5,Sikandar Raza,BRM Taylor,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+247,39.6,Sikandar Raza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+248,40.1,BRM Taylor,Sikandar Raza,Rashid Khan,0,0,null,0,0,null,null
+249,40.2,BRM Taylor,Sikandar Raza,Rashid Khan,0,0,null,0,0,null,null
+250,40.3,BRM Taylor,Sikandar Raza,Rashid Khan,0,0,null,0,0,null,null
+251,40.4,BRM Taylor,Sikandar Raza,Rashid Khan,1,0,null,1,0,null,null
+252,40.5,Sikandar Raza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+253,40.6,Sikandar Raza,BRM Taylor,Rashid Khan,0,0,null,0,0,null,null
+254,41.1,BRM Taylor,Sikandar Raza,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+255,41.2,Sikandar Raza,BRM Taylor,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+256,41.3,Sikandar Raza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+257,41.4,Sikandar Raza,BRM Taylor,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+258,41.5,BRM Taylor,Sikandar Raza,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+259,41.6,Sikandar Raza,BRM Taylor,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+260,42.1,BRM Taylor,Sikandar Raza,Rashid Khan,1,0,null,1,0,null,null
+261,42.2,Sikandar Raza,BRM Taylor,Rashid Khan,1,0,null,1,0,null,null
+262,42.3,BRM Taylor,Sikandar Raza,Rashid Khan,6,0,null,6,0,null,null
+263,42.4,BRM Taylor,Sikandar Raza,Rashid Khan,1,0,null,1,0,null,null
+264,42.5,Sikandar Raza,BRM Taylor,Rashid Khan,1,0,null,1,0,null,null
+265,42.6,BRM Taylor,Sikandar Raza,Rashid Khan,1,0,null,1,0,null,null
+266,43.1,BRM Taylor,Sikandar Raza,Dawlat Zadran,1,0,null,1,0,null,null
+267,43.2,Sikandar Raza,BRM Taylor,Dawlat Zadran,1,0,null,1,0,null,null
+268,43.3,BRM Taylor,Sikandar Raza,Dawlat Zadran,4,0,null,4,0,null,null
+269,43.4,BRM Taylor,Sikandar Raza,Dawlat Zadran,6,0,null,6,0,null,null
+270,43.5,BRM Taylor,Sikandar Raza,Dawlat Zadran,1,0,null,1,0,null,null
+271,43.6,Sikandar Raza,BRM Taylor,Dawlat Zadran,6,0,null,6,0,null,null
+272,44.1,BRM Taylor,Sikandar Raza,Gulbadin Naib,0,0,null,0,0,null,null
+273,44.2,BRM Taylor,Sikandar Raza,Gulbadin Naib,1,0,null,1,0,null,null
+274,44.3,Sikandar Raza,BRM Taylor,Gulbadin Naib,0,1,wides ,1,0,null,null
+275,44.4,Sikandar Raza,BRM Taylor,Gulbadin Naib,4,0,null,4,0,null,null
+276,44.5,Sikandar Raza,BRM Taylor,Gulbadin Naib,0,1,wides ,1,0,null,null
+277,44.6,Sikandar Raza,BRM Taylor,Gulbadin Naib,4,0,null,4,0,null,null
+278,44.7,Sikandar Raza,BRM Taylor,Gulbadin Naib,1,0,null,1,0,null,null
+279,44.8,BRM Taylor,Sikandar Raza,Gulbadin Naib,4,0,null,4,0,null,null
+280,45.1,Sikandar Raza,BRM Taylor,Rashid Khan,1,0,null,1,0,null,null
+281,45.2,BRM Taylor,Sikandar Raza,Rashid Khan,0,0,null,0,1,BRM Taylor,bowled
+282,45.3,MN Waller,Sikandar Raza,Rashid Khan,0,0,null,0,0,null,null
+283,45.4,MN Waller,Sikandar Raza,Rashid Khan,1,0,null,1,0,null,null
+284,45.5,Sikandar Raza,MN Waller,Rashid Khan,1,0,null,1,0,null,null
+285,45.6,MN Waller,Sikandar Raza,Rashid Khan,1,0,null,1,0,null,null
+286,46.1,MN Waller,Sikandar Raza,Gulbadin Naib,1,0,null,1,0,null,null
+287,46.2,Sikandar Raza,MN Waller,Gulbadin Naib,1,0,null,1,0,null,null
+288,46.3,MN Waller,Sikandar Raza,Gulbadin Naib,1,0,null,1,0,null,null
+289,46.4,Sikandar Raza,MN Waller,Gulbadin Naib,0,0,null,0,0,null,null
+290,46.5,Sikandar Raza,MN Waller,Gulbadin Naib,2,1,noballs ,3,0,null,null
+291,46.6,Sikandar Raza,MN Waller,Gulbadin Naib,1,1,noballs ,2,0,null,null
+292,46.7,MN Waller,Sikandar Raza,Gulbadin Naib,1,1,noballs ,2,0,null,null
+293,46.8,Sikandar Raza,MN Waller,Gulbadin Naib,6,0,null,6,0,null,null
+294,46.9,Sikandar Raza,MN Waller,Gulbadin Naib,0,1,wides ,1,0,null,null
+295,46.10,Sikandar Raza,MN Waller,Gulbadin Naib,1,0,null,1,0,null,null
+296,47.1,Sikandar Raza,MN Waller,Dawlat Zadran,4,0,null,4,0,null,null
+297,47.2,Sikandar Raza,MN Waller,Dawlat Zadran,0,0,null,0,0,null,null
+298,47.3,Sikandar Raza,MN Waller,Dawlat Zadran,0,0,null,0,0,null,null
+299,47.4,Sikandar Raza,MN Waller,Dawlat Zadran,1,0,null,1,0,null,null
+300,47.5,MN Waller,Sikandar Raza,Dawlat Zadran,4,0,null,4,0,null,null
+301,47.6,MN Waller,Sikandar Raza,Dawlat Zadran,1,0,null,1,0,null,null
+302,48.1,MN Waller,Sikandar Raza,Gulbadin Naib,4,0,null,4,0,null,null
+303,48.2,MN Waller,Sikandar Raza,Gulbadin Naib,0,1,wides ,1,0,null,null
+304,48.3,MN Waller,Sikandar Raza,Gulbadin Naib,1,0,null,1,0,null,null
+305,48.4,Sikandar Raza,MN Waller,Gulbadin Naib,0,0,null,0,0,null,null
+306,48.5,Sikandar Raza,MN Waller,Gulbadin Naib,4,0,null,4,0,null,null
+307,48.6,Sikandar Raza,MN Waller,Gulbadin Naib,0,0,null,0,1,Sikandar Raza,caught
+308,48.7,RP Burl,MN Waller,Gulbadin Naib,4,0,null,4,0,null,null
+309,49.1,MN Waller,RP Burl,Dawlat Zadran,1,0,null,1,0,null,null
+310,49.2,RP Burl,MN Waller,Dawlat Zadran,1,0,null,1,0,null,null
+311,49.3,MN Waller,RP Burl,Dawlat Zadran,1,0,null,1,0,null,null
+312,49.4,RP Burl,MN Waller,Dawlat Zadran,1,0,null,1,0,null,null
+313,49.5,RP Burl,MN Waller,Dawlat Zadran,4,0,null,4,0,null,null
+314,49.6,RP Burl,MN Waller,Dawlat Zadran,1,0,null,1,0,null,null

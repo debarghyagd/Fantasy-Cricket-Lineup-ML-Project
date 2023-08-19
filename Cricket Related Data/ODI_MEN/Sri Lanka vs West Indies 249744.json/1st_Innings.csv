@@ -1,0 +1,197 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,CH Gayle,S Chanderpaul,WPUJC Vaas,0,0,null,0,0,null,null
+1,0.2,CH Gayle,S Chanderpaul,WPUJC Vaas,0,0,null,0,0,null,null
+2,0.3,CH Gayle,S Chanderpaul,WPUJC Vaas,0,1,noballs ,1,0,null,null
+3,0.4,CH Gayle,S Chanderpaul,WPUJC Vaas,0,0,null,0,0,null,null
+4,0.5,CH Gayle,S Chanderpaul,WPUJC Vaas,0,0,null,0,1,CH Gayle,caught
+5,0.6,RR Sarwan,S Chanderpaul,WPUJC Vaas,0,0,null,0,0,null,null
+6,0.7,RR Sarwan,S Chanderpaul,WPUJC Vaas,0,0,null,0,0,null,null
+7,1.1,S Chanderpaul,RR Sarwan,SL Malinga,0,1,noballs ,1,0,null,null
+8,1.2,S Chanderpaul,RR Sarwan,SL Malinga,0,1,wides ,1,0,null,null
+9,1.3,S Chanderpaul,RR Sarwan,SL Malinga,0,0,null,0,0,null,null
+10,1.4,S Chanderpaul,RR Sarwan,SL Malinga,0,0,null,0,0,null,null
+11,1.5,S Chanderpaul,RR Sarwan,SL Malinga,0,0,null,0,0,null,null
+12,1.6,S Chanderpaul,RR Sarwan,SL Malinga,4,0,null,4,0,null,null
+13,1.7,S Chanderpaul,RR Sarwan,SL Malinga,4,1,noballs ,5,0,null,null
+14,1.8,S Chanderpaul,RR Sarwan,SL Malinga,0,0,null,0,0,null,null
+15,1.9,S Chanderpaul,RR Sarwan,SL Malinga,0,0,null,0,0,null,null
+16,2.1,RR Sarwan,S Chanderpaul,WPUJC Vaas,0,0,null,0,1,RR Sarwan,lbw
+17,2.2,BC Lara,S Chanderpaul,WPUJC Vaas,0,0,null,0,0,null,null
+18,2.3,BC Lara,S Chanderpaul,WPUJC Vaas,0,0,null,0,0,null,null
+19,2.4,BC Lara,S Chanderpaul,WPUJC Vaas,0,0,null,0,0,null,null
+20,2.5,BC Lara,S Chanderpaul,WPUJC Vaas,0,1,noballs ,1,0,null,null
+21,2.6,BC Lara,S Chanderpaul,WPUJC Vaas,0,0,null,0,0,null,null
+22,2.7,BC Lara,S Chanderpaul,WPUJC Vaas,0,0,null,0,0,null,null
+23,3.1,S Chanderpaul,BC Lara,SL Malinga,0,0,null,0,1,S Chanderpaul,caught
+24,3.2,WW Hinds,BC Lara,SL Malinga,0,0,null,0,0,null,null
+25,3.3,WW Hinds,BC Lara,SL Malinga,0,0,null,0,0,null,null
+26,3.4,WW Hinds,BC Lara,SL Malinga,0,0,null,0,0,null,null
+27,3.5,WW Hinds,BC Lara,SL Malinga,0,0,null,0,0,null,null
+28,3.6,WW Hinds,BC Lara,SL Malinga,1,0,null,1,0,null,null
+29,4.1,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+30,4.2,WW Hinds,BC Lara,WPUJC Vaas,0,1,wides ,1,0,null,null
+31,4.3,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+32,4.4,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+33,4.5,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+34,4.6,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+35,4.7,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+36,5.1,BC Lara,WW Hinds,SL Malinga,0,0,null,0,0,null,null
+37,5.2,BC Lara,WW Hinds,SL Malinga,0,0,null,0,0,null,null
+38,5.3,BC Lara,WW Hinds,SL Malinga,0,0,null,0,0,null,null
+39,5.4,BC Lara,WW Hinds,SL Malinga,0,0,null,0,0,null,null
+40,5.5,BC Lara,WW Hinds,SL Malinga,0,0,null,0,0,null,null
+41,5.6,BC Lara,WW Hinds,SL Malinga,2,0,null,2,0,null,null
+42,6.1,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+43,6.2,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+44,6.3,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+45,6.4,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+46,6.5,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+47,6.6,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+48,7.1,BC Lara,WW Hinds,SL Malinga,1,0,null,1,0,null,null
+49,7.2,WW Hinds,BC Lara,SL Malinga,0,0,null,0,0,null,null
+50,7.3,WW Hinds,BC Lara,SL Malinga,0,0,null,0,0,null,null
+51,7.4,WW Hinds,BC Lara,SL Malinga,0,0,null,0,0,null,null
+52,7.5,WW Hinds,BC Lara,SL Malinga,1,0,null,1,0,null,null
+53,7.6,BC Lara,WW Hinds,SL Malinga,4,0,null,4,0,null,null
+54,8.1,WW Hinds,BC Lara,WPUJC Vaas,0,1,noballs ,1,0,null,null
+55,8.2,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+56,8.3,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+57,8.4,WW Hinds,BC Lara,WPUJC Vaas,0,0,null,0,0,null,null
+58,8.5,WW Hinds,BC Lara,WPUJC Vaas,1,0,null,1,0,null,null
+59,8.6,BC Lara,WW Hinds,WPUJC Vaas,0,1,noballs ,1,0,null,null
+60,8.7,BC Lara,WW Hinds,WPUJC Vaas,0,0,null,0,0,null,null
+61,8.8,BC Lara,WW Hinds,WPUJC Vaas,0,0,null,0,0,null,null
+62,9.1,WW Hinds,BC Lara,SL Malinga,0,0,null,0,0,null,null
+63,9.2,WW Hinds,BC Lara,SL Malinga,4,0,null,4,0,null,null
+64,9.3,WW Hinds,BC Lara,SL Malinga,0,0,null,0,0,null,null
+65,9.4,WW Hinds,BC Lara,SL Malinga,1,0,null,1,0,null,null
+66,9.5,BC Lara,WW Hinds,SL Malinga,0,0,null,0,0,null,null
+67,9.6,BC Lara,WW Hinds,SL Malinga,1,0,null,1,0,null,null
+68,10.1,BC Lara,WW Hinds,WPUJC Vaas,0,4,legbyes ,4,0,null,null
+69,10.2,BC Lara,WW Hinds,WPUJC Vaas,0,0,null,0,0,null,null
+70,10.3,BC Lara,WW Hinds,WPUJC Vaas,0,0,null,0,0,null,null
+71,10.4,BC Lara,WW Hinds,WPUJC Vaas,0,0,null,0,0,null,null
+72,10.5,BC Lara,WW Hinds,WPUJC Vaas,0,0,null,0,0,null,null
+73,10.6,BC Lara,WW Hinds,WPUJC Vaas,0,0,null,0,0,null,null
+74,11.1,WW Hinds,BC Lara,CRD Fernando,0,0,null,0,0,null,null
+75,11.2,WW Hinds,BC Lara,CRD Fernando,0,1,noballs ,1,0,null,null
+76,11.3,WW Hinds,BC Lara,CRD Fernando,2,0,null,2,0,null,null
+77,11.4,WW Hinds,BC Lara,CRD Fernando,0,0,null,0,0,null,null
+78,11.5,WW Hinds,BC Lara,CRD Fernando,0,0,null,0,0,null,null
+79,11.6,WW Hinds,BC Lara,CRD Fernando,0,0,null,0,0,null,null
+80,11.7,WW Hinds,BC Lara,CRD Fernando,0,0,null,0,0,null,null
+81,12.1,BC Lara,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+82,12.2,BC Lara,WW Hinds,MF Maharoof,1,0,null,1,0,null,null
+83,12.3,WW Hinds,BC Lara,MF Maharoof,1,0,null,1,0,null,null
+84,12.4,BC Lara,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+85,12.5,BC Lara,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+86,12.6,BC Lara,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+87,13.1,WW Hinds,BC Lara,CRD Fernando,0,0,null,0,0,null,null
+88,13.2,WW Hinds,BC Lara,CRD Fernando,2,0,null,2,0,null,null
+89,13.3,WW Hinds,BC Lara,CRD Fernando,0,0,null,0,0,null,null
+90,13.4,WW Hinds,BC Lara,CRD Fernando,0,0,null,0,0,null,null
+91,13.5,WW Hinds,BC Lara,CRD Fernando,4,0,null,4,0,null,null
+92,13.6,WW Hinds,BC Lara,CRD Fernando,0,0,null,0,0,null,null
+93,14.1,BC Lara,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+94,14.2,BC Lara,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+95,14.3,BC Lara,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+96,14.4,BC Lara,WW Hinds,MF Maharoof,4,0,null,4,0,null,null
+97,14.5,BC Lara,WW Hinds,MF Maharoof,0,0,null,0,1,BC Lara,lbw
+98,14.6,DJ Bravo,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+99,15.1,WW Hinds,DJ Bravo,CRD Fernando,0,0,null,0,0,null,null
+100,15.2,WW Hinds,DJ Bravo,CRD Fernando,4,0,null,4,0,null,null
+101,15.3,WW Hinds,DJ Bravo,CRD Fernando,0,0,null,0,0,null,null
+102,15.4,WW Hinds,DJ Bravo,CRD Fernando,0,0,null,0,0,null,null
+103,15.5,WW Hinds,DJ Bravo,CRD Fernando,0,0,null,0,0,null,null
+104,15.6,WW Hinds,DJ Bravo,CRD Fernando,0,0,null,0,0,null,null
+105,16.1,DJ Bravo,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+106,16.2,DJ Bravo,WW Hinds,MF Maharoof,0,0,null,0,1,DJ Bravo,lbw
+107,16.3,MN Samuels,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+108,16.4,MN Samuels,WW Hinds,MF Maharoof,0,1,noballs ,1,0,null,null
+109,16.5,MN Samuels,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+110,16.6,MN Samuels,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+111,16.7,MN Samuels,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+112,17.1,WW Hinds,MN Samuels,CRD Fernando,0,0,null,0,0,null,null
+113,17.2,WW Hinds,MN Samuels,CRD Fernando,0,0,null,0,0,null,null
+114,17.3,WW Hinds,MN Samuels,CRD Fernando,0,0,null,0,0,null,null
+115,17.4,WW Hinds,MN Samuels,CRD Fernando,0,0,null,0,0,null,null
+116,17.5,WW Hinds,MN Samuels,CRD Fernando,0,0,null,0,0,null,null
+117,17.6,WW Hinds,MN Samuels,CRD Fernando,1,0,null,1,0,null,null
+118,18.1,WW Hinds,MN Samuels,MF Maharoof,0,0,null,0,0,null,null
+119,18.2,WW Hinds,MN Samuels,MF Maharoof,0,0,null,0,0,null,null
+120,18.3,WW Hinds,MN Samuels,MF Maharoof,0,0,null,0,0,null,null
+121,18.4,WW Hinds,MN Samuels,MF Maharoof,0,0,null,0,0,null,null
+122,18.5,WW Hinds,MN Samuels,MF Maharoof,0,0,null,0,0,null,null
+123,18.6,WW Hinds,MN Samuels,MF Maharoof,0,0,null,0,0,null,null
+124,19.1,MN Samuels,WW Hinds,CRD Fernando,0,0,null,0,0,null,null
+125,19.2,MN Samuels,WW Hinds,CRD Fernando,0,0,null,0,0,null,null
+126,19.3,MN Samuels,WW Hinds,CRD Fernando,0,0,null,0,0,null,null
+127,19.4,MN Samuels,WW Hinds,CRD Fernando,0,0,null,0,0,null,null
+128,19.5,MN Samuels,WW Hinds,CRD Fernando,1,0,null,1,0,null,null
+129,19.6,WW Hinds,MN Samuels,CRD Fernando,0,0,null,0,0,null,null
+130,20.1,MN Samuels,WW Hinds,MF Maharoof,0,0,null,0,1,MN Samuels,bowled
+131,20.2,DR Smith,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+132,20.3,DR Smith,WW Hinds,MF Maharoof,0,0,null,0,1,DR Smith,caught
+133,20.4,CS Baugh,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+134,20.5,CS Baugh,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+135,20.6,CS Baugh,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+136,21.1,WW Hinds,CS Baugh,M Muralitharan,0,0,null,0,0,null,null
+137,21.2,WW Hinds,CS Baugh,M Muralitharan,0,0,null,0,0,null,null
+138,21.3,WW Hinds,CS Baugh,M Muralitharan,0,0,null,0,0,null,null
+139,21.4,WW Hinds,CS Baugh,M Muralitharan,1,0,null,1,0,null,null
+140,21.5,CS Baugh,WW Hinds,M Muralitharan,0,0,null,0,0,null,null
+141,21.6,CS Baugh,WW Hinds,M Muralitharan,0,0,null,0,0,null,null
+142,22.1,WW Hinds,CS Baugh,MF Maharoof,1,0,null,1,0,null,null
+143,22.2,CS Baugh,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+144,22.3,CS Baugh,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+145,22.4,CS Baugh,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+146,22.5,CS Baugh,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+147,22.6,CS Baugh,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+148,23.1,WW Hinds,CS Baugh,M Muralitharan,0,0,null,0,0,null,null
+149,23.2,WW Hinds,CS Baugh,M Muralitharan,0,0,null,0,0,null,null
+150,23.3,WW Hinds,CS Baugh,M Muralitharan,0,0,null,0,0,null,null
+151,23.4,WW Hinds,CS Baugh,M Muralitharan,1,0,null,1,0,null,null
+152,23.5,CS Baugh,WW Hinds,M Muralitharan,1,0,null,1,0,null,null
+153,23.6,WW Hinds,CS Baugh,M Muralitharan,1,0,null,1,0,null,null
+154,24.1,WW Hinds,CS Baugh,MF Maharoof,0,0,null,0,0,null,null
+155,24.2,WW Hinds,CS Baugh,MF Maharoof,1,0,null,1,0,null,null
+156,24.3,CS Baugh,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+157,24.4,CS Baugh,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+158,24.5,CS Baugh,WW Hinds,MF Maharoof,0,0,null,0,1,CS Baugh,lbw
+159,24.6,FH Edwards,WW Hinds,MF Maharoof,0,1,noballs ,1,0,null,null
+160,24.7,FH Edwards,WW Hinds,MF Maharoof,0,0,null,0,0,null,null
+161,25.1,WW Hinds,FH Edwards,M Muralitharan,0,0,null,0,0,null,null
+162,25.2,WW Hinds,FH Edwards,M Muralitharan,0,0,null,0,0,null,null
+163,25.3,WW Hinds,FH Edwards,M Muralitharan,0,0,null,0,0,null,null
+164,25.4,WW Hinds,FH Edwards,M Muralitharan,0,0,null,0,0,null,null
+165,25.5,WW Hinds,FH Edwards,M Muralitharan,1,0,null,1,0,null,null
+166,25.6,FH Edwards,WW Hinds,M Muralitharan,0,0,null,0,0,null,null
+167,26.1,WW Hinds,FH Edwards,MF Maharoof,0,1,noballs ,1,0,null,null
+168,26.2,WW Hinds,FH Edwards,MF Maharoof,0,0,null,0,0,null,null
+169,26.3,WW Hinds,FH Edwards,MF Maharoof,0,0,null,0,0,null,null
+170,26.4,WW Hinds,FH Edwards,MF Maharoof,0,0,null,0,0,null,null
+171,26.5,WW Hinds,FH Edwards,MF Maharoof,0,0,null,0,0,null,null
+172,26.6,WW Hinds,FH Edwards,MF Maharoof,0,0,null,0,1,WW Hinds,caught
+173,26.7,CD Collymore,FH Edwards,MF Maharoof,0,0,null,0,0,null,null
+174,27.1,FH Edwards,CD Collymore,M Muralitharan,0,1,legbyes ,1,0,null,null
+175,27.2,CD Collymore,FH Edwards,M Muralitharan,0,0,null,0,0,null,null
+176,27.3,CD Collymore,FH Edwards,M Muralitharan,1,0,null,1,0,null,null
+177,27.4,FH Edwards,CD Collymore,M Muralitharan,0,0,null,0,0,null,null
+178,27.5,FH Edwards,CD Collymore,M Muralitharan,2,0,null,2,0,null,null
+179,27.6,FH Edwards,CD Collymore,M Muralitharan,0,0,null,0,0,null,null
+180,28.1,CD Collymore,FH Edwards,MF Maharoof,1,0,null,1,0,null,null
+181,28.2,FH Edwards,CD Collymore,MF Maharoof,1,0,null,1,0,null,null
+182,28.3,CD Collymore,FH Edwards,MF Maharoof,0,0,null,0,0,null,null
+183,28.4,CD Collymore,FH Edwards,MF Maharoof,0,0,null,0,0,null,null
+184,28.5,CD Collymore,FH Edwards,MF Maharoof,1,0,null,1,0,null,null
+185,28.6,FH Edwards,CD Collymore,MF Maharoof,0,0,null,0,0,null,null
+186,29.1,CD Collymore,FH Edwards,M Muralitharan,0,0,null,0,0,null,null
+187,29.2,CD Collymore,FH Edwards,M Muralitharan,0,0,null,0,0,null,null
+188,29.3,CD Collymore,FH Edwards,M Muralitharan,1,0,null,1,0,null,null
+189,29.4,FH Edwards,CD Collymore,M Muralitharan,1,0,null,1,0,null,null
+190,29.5,CD Collymore,FH Edwards,M Muralitharan,4,0,null,4,0,null,null
+191,29.6,CD Collymore,FH Edwards,M Muralitharan,0,0,null,0,0,null,null
+192,30.1,FH Edwards,CD Collymore,SL Malinga,0,0,null,0,0,null,null
+193,30.2,FH Edwards,CD Collymore,SL Malinga,0,0,null,0,0,null,null
+194,30.3,FH Edwards,CD Collymore,SL Malinga,0,0,null,0,0,null,null
+195,30.4,FH Edwards,CD Collymore,SL Malinga,0,0,null,0,1,FH Edwards,bowled

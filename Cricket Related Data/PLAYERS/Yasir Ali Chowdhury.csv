@@ -1,0 +1,8 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1299829,"Zahur Ahmed Chowdhury Stadium, Chattogram",Afghanistan,Fazalhaq Farooqi,Left-arm fast-medium,"[0, 0, 1]",1,0,5,0,0
+1,1299831,"Zahur Ahmed Chowdhury Stadium, Chattogram",Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",1,0,2,0,0
+2,1277097,"SuperSport Park, Centurion",South Africa,KA Maharaj,Left-arm orthodox,"[1, 0, 1]",0,4,8,0,0
+3,1277097,"SuperSport Park, Centurion",South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",1,10,6,0,1
+4,1277097,"SuperSport Park, Centurion",South Africa,L Ngidi,Right-arm fast,"[0, 1, 0]",0,19,10,2,1
+5,1277098,"The Wanderers Stadium, Johannesburg",South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",1,1,8,0,0
+6,1277098,"The Wanderers Stadium, Johannesburg",South Africa,L Ngidi,Right-arm fast,"[0, 1, 0]",0,0,3,0,0

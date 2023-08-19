@@ -1,0 +1,201 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,AJ Finch,DA Warner,TG Southee,0,1,wides ,1,0,null,null
+1,0.2,AJ Finch,DA Warner,TG Southee,3,0,null,3,0,null,null
+2,0.3,DA Warner,AJ Finch,TG Southee,0,1,wides ,1,0,null,null
+3,0.4,DA Warner,AJ Finch,TG Southee,1,0,null,1,0,null,null
+4,0.5,AJ Finch,DA Warner,TG Southee,4,0,null,4,0,null,null
+5,0.6,AJ Finch,DA Warner,TG Southee,0,0,null,0,0,null,null
+6,0.7,AJ Finch,DA Warner,TG Southee,1,0,null,1,0,null,null
+7,0.8,DA Warner,AJ Finch,TG Southee,0,4,byes ,4,0,null,null
+8,1.1,AJ Finch,DA Warner,TA Boult,0,1,legbyes ,1,0,null,null
+9,1.2,DA Warner,AJ Finch,TA Boult,6,0,null,6,0,null,null
+10,1.3,DA Warner,AJ Finch,TA Boult,2,0,null,2,0,null,null
+11,1.4,DA Warner,AJ Finch,TA Boult,0,0,null,0,0,null,null
+12,1.5,DA Warner,AJ Finch,TA Boult,0,0,null,0,0,null,null
+13,1.6,DA Warner,AJ Finch,TA Boult,0,0,null,0,0,null,null
+14,2.1,AJ Finch,DA Warner,TG Southee,6,0,null,6,0,null,null
+15,2.2,AJ Finch,DA Warner,TG Southee,0,0,null,0,1,AJ Finch,bowled
+16,2.3,SR Watson,DA Warner,TG Southee,4,0,null,4,0,null,null
+17,2.4,SR Watson,DA Warner,TG Southee,0,0,null,0,0,null,null
+18,2.5,SR Watson,DA Warner,TG Southee,2,0,null,2,0,null,null
+19,2.6,SR Watson,DA Warner,TG Southee,0,0,null,0,0,null,null
+20,3.1,DA Warner,SR Watson,TA Boult,0,0,null,0,0,null,null
+21,3.2,DA Warner,SR Watson,TA Boult,2,0,null,2,0,null,null
+22,3.3,DA Warner,SR Watson,TA Boult,0,0,null,0,0,null,null
+23,3.4,DA Warner,SR Watson,TA Boult,1,0,null,1,0,null,null
+24,3.5,SR Watson,DA Warner,TA Boult,0,0,null,0,0,null,null
+25,3.6,SR Watson,DA Warner,TA Boult,0,0,null,0,0,null,null
+26,4.1,DA Warner,SR Watson,TG Southee,0,0,null,0,0,null,null
+27,4.2,DA Warner,SR Watson,TG Southee,4,0,null,4,0,null,null
+28,4.3,DA Warner,SR Watson,TG Southee,4,0,null,4,0,null,null
+29,4.4,DA Warner,SR Watson,TG Southee,0,0,null,0,0,null,null
+30,4.5,DA Warner,SR Watson,TG Southee,0,0,null,0,0,null,null
+31,4.6,DA Warner,SR Watson,TG Southee,1,0,null,1,0,null,null
+32,5.1,DA Warner,SR Watson,TA Boult,1,0,null,1,0,null,null
+33,5.2,SR Watson,DA Warner,TA Boult,0,0,null,0,0,null,null
+34,5.3,SR Watson,DA Warner,TA Boult,1,0,null,1,0,null,null
+35,5.4,DA Warner,SR Watson,TA Boult,0,0,null,0,0,null,null
+36,5.5,DA Warner,SR Watson,TA Boult,1,0,null,1,0,null,null
+37,5.6,SR Watson,DA Warner,TA Boult,0,0,null,0,0,null,null
+38,6.1,DA Warner,SR Watson,DL Vettori,0,0,null,0,0,null,null
+39,6.2,DA Warner,SR Watson,DL Vettori,0,0,null,0,0,null,null
+40,6.3,DA Warner,SR Watson,DL Vettori,0,0,null,0,0,null,null
+41,6.4,DA Warner,SR Watson,DL Vettori,0,0,null,0,0,null,null
+42,6.5,DA Warner,SR Watson,DL Vettori,0,0,null,0,0,null,null
+43,6.6,DA Warner,SR Watson,DL Vettori,2,0,null,2,0,null,null
+44,7.1,SR Watson,DA Warner,TA Boult,0,0,null,0,0,null,null
+45,7.2,SR Watson,DA Warner,TA Boult,0,0,null,0,0,null,null
+46,7.3,SR Watson,DA Warner,TA Boult,0,0,null,0,0,null,null
+47,7.4,SR Watson,DA Warner,TA Boult,1,0,null,1,0,null,null
+48,7.5,DA Warner,SR Watson,TA Boult,2,0,null,2,0,null,null
+49,7.6,DA Warner,SR Watson,TA Boult,0,1,wides ,1,0,null,null
+50,7.7,DA Warner,SR Watson,TA Boult,0,0,null,0,0,null,null
+51,8.1,SR Watson,DA Warner,DL Vettori,1,0,null,1,0,null,null
+52,8.2,DA Warner,SR Watson,DL Vettori,1,0,null,1,0,null,null
+53,8.3,SR Watson,DA Warner,DL Vettori,1,0,null,1,0,null,null
+54,8.4,DA Warner,SR Watson,DL Vettori,0,0,null,0,0,null,null
+55,8.5,DA Warner,SR Watson,DL Vettori,2,0,null,2,0,null,null
+56,8.6,DA Warner,SR Watson,DL Vettori,0,0,null,0,0,null,null
+57,9.1,SR Watson,DA Warner,TA Boult,0,0,null,0,0,null,null
+58,9.2,SR Watson,DA Warner,TA Boult,1,0,null,1,0,null,null
+59,9.3,DA Warner,SR Watson,TA Boult,0,0,null,0,0,null,null
+60,9.4,DA Warner,SR Watson,TA Boult,1,0,null,1,0,null,null
+61,9.5,SR Watson,DA Warner,TA Boult,0,0,null,0,0,null,null
+62,9.6,SR Watson,DA Warner,TA Boult,4,0,null,4,0,null,null
+63,10.1,DA Warner,SR Watson,DL Vettori,0,0,null,0,0,null,null
+64,10.2,DA Warner,SR Watson,DL Vettori,1,0,null,1,0,null,null
+65,10.3,SR Watson,DA Warner,DL Vettori,0,0,null,0,0,null,null
+66,10.4,SR Watson,DA Warner,DL Vettori,0,0,null,0,0,null,null
+67,10.5,SR Watson,DA Warner,DL Vettori,1,0,null,1,0,null,null
+68,10.6,DA Warner,SR Watson,DL Vettori,0,0,null,0,0,null,null
+69,11.1,SR Watson,DA Warner,TG Southee,0,1,wides ,1,0,null,null
+70,11.2,SR Watson,DA Warner,TG Southee,0,0,null,0,0,null,null
+71,11.3,SR Watson,DA Warner,TG Southee,2,0,null,2,0,null,null
+72,11.4,SR Watson,DA Warner,TG Southee,2,0,null,2,0,null,null
+73,11.5,SR Watson,DA Warner,TG Southee,0,0,null,0,0,null,null
+74,11.6,SR Watson,DA Warner,TG Southee,1,0,null,1,0,null,null
+75,11.7,DA Warner,SR Watson,TG Southee,0,0,null,0,0,null,null
+76,12.1,SR Watson,DA Warner,DL Vettori,1,0,null,1,0,null,null
+77,12.2,DA Warner,SR Watson,DL Vettori,1,0,null,1,0,null,null
+78,12.3,SR Watson,DA Warner,DL Vettori,1,0,null,1,0,null,null
+79,12.4,DA Warner,SR Watson,DL Vettori,0,0,null,0,0,null,null
+80,12.5,DA Warner,SR Watson,DL Vettori,1,0,null,1,0,null,null
+81,12.6,SR Watson,DA Warner,DL Vettori,0,0,null,0,1,SR Watson,caught
+82,13.1,DA Warner,MJ Clarke,TG Southee,0,0,null,0,1,DA Warner,lbw
+83,13.2,SPD Smith,MJ Clarke,TG Southee,0,0,null,0,0,null,null
+84,13.3,SPD Smith,MJ Clarke,TG Southee,0,0,null,0,0,null,null
+85,13.4,SPD Smith,MJ Clarke,TG Southee,2,0,null,2,0,null,null
+86,13.5,SPD Smith,MJ Clarke,TG Southee,1,0,null,1,0,null,null
+87,13.6,MJ Clarke,SPD Smith,TG Southee,2,0,null,2,0,null,null
+88,14.1,SPD Smith,MJ Clarke,DL Vettori,1,0,null,1,0,null,null
+89,14.2,MJ Clarke,SPD Smith,DL Vettori,0,0,null,0,0,null,null
+90,14.3,MJ Clarke,SPD Smith,DL Vettori,1,0,null,1,0,null,null
+91,14.4,SPD Smith,MJ Clarke,DL Vettori,0,0,null,0,0,null,null
+92,14.5,SPD Smith,MJ Clarke,DL Vettori,0,0,null,0,0,null,null
+93,14.6,SPD Smith,MJ Clarke,DL Vettori,0,0,null,0,0,null,null
+94,15.1,MJ Clarke,SPD Smith,TG Southee,2,0,null,2,0,null,null
+95,15.2,MJ Clarke,SPD Smith,TG Southee,0,0,null,0,0,null,null
+96,15.3,MJ Clarke,SPD Smith,TG Southee,4,0,null,4,0,null,null
+97,15.4,MJ Clarke,SPD Smith,TG Southee,1,0,null,1,0,null,null
+98,15.5,SPD Smith,MJ Clarke,TG Southee,0,0,null,0,0,null,null
+99,15.6,SPD Smith,MJ Clarke,TG Southee,0,0,null,0,0,null,null
+100,16.1,MJ Clarke,SPD Smith,DL Vettori,0,0,null,0,0,null,null
+101,16.2,MJ Clarke,SPD Smith,DL Vettori,1,0,null,1,0,null,null
+102,16.3,SPD Smith,MJ Clarke,DL Vettori,0,0,null,0,1,SPD Smith,caught
+103,16.4,GJ Maxwell,MJ Clarke,DL Vettori,1,0,null,1,0,null,null
+104,16.5,MJ Clarke,GJ Maxwell,DL Vettori,0,0,null,0,0,null,null
+105,16.6,MJ Clarke,GJ Maxwell,DL Vettori,0,0,null,0,0,null,null
+106,17.1,GJ Maxwell,MJ Clarke,TA Boult,0,0,null,0,0,null,null
+107,17.2,GJ Maxwell,MJ Clarke,TA Boult,0,0,null,0,1,GJ Maxwell,bowled
+108,17.3,MR Marsh,MJ Clarke,TA Boult,0,0,null,0,0,null,null
+109,17.4,MR Marsh,MJ Clarke,TA Boult,0,1,wides ,1,0,null,null
+110,17.5,MR Marsh,MJ Clarke,TA Boult,0,0,null,0,1,MR Marsh,bowled
+111,17.6,BJ Haddin,MJ Clarke,TA Boult,0,0,null,0,0,null,null
+112,17.7,BJ Haddin,MJ Clarke,TA Boult,0,0,null,0,0,null,null
+113,18.1,MJ Clarke,BJ Haddin,DL Vettori,0,0,null,0,0,null,null
+114,18.2,MJ Clarke,BJ Haddin,DL Vettori,1,0,null,1,0,null,null
+115,18.3,BJ Haddin,MJ Clarke,DL Vettori,0,0,null,0,0,null,null
+116,18.4,BJ Haddin,MJ Clarke,DL Vettori,0,0,null,0,0,null,null
+117,18.5,BJ Haddin,MJ Clarke,DL Vettori,4,0,null,4,0,null,null
+118,18.6,BJ Haddin,MJ Clarke,DL Vettori,1,0,null,1,0,null,null
+119,19.1,BJ Haddin,MJ Clarke,TA Boult,0,1,legbyes ,1,0,null,null
+120,19.2,MJ Clarke,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+121,19.3,MJ Clarke,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+122,19.4,MJ Clarke,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+123,19.5,MJ Clarke,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+124,19.6,MJ Clarke,BJ Haddin,TA Boult,0,0,null,0,1,MJ Clarke,caught
+125,20.1,BJ Haddin,MG Johnson,DL Vettori,1,0,null,1,0,null,null
+126,20.2,MG Johnson,BJ Haddin,DL Vettori,0,0,null,0,0,null,null
+127,20.3,MG Johnson,BJ Haddin,DL Vettori,0,0,null,0,0,null,null
+128,20.4,MG Johnson,BJ Haddin,DL Vettori,0,0,null,0,0,null,null
+129,20.5,MG Johnson,BJ Haddin,DL Vettori,1,0,null,1,0,null,null
+130,20.6,BJ Haddin,MG Johnson,DL Vettori,0,0,null,0,0,null,null
+131,21.1,MG Johnson,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+132,21.2,MG Johnson,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+133,21.3,MG Johnson,BJ Haddin,TA Boult,0,0,null,0,1,MG Johnson,caught
+134,21.4,MA Starc,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+135,21.5,MA Starc,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+136,21.6,MA Starc,BJ Haddin,TA Boult,0,0,null,0,1,MA Starc,bowled
+137,22.1,BJ Haddin,PJ Cummins,DL Vettori,1,0,null,1,0,null,null
+138,22.2,PJ Cummins,BJ Haddin,DL Vettori,0,0,null,0,0,null,null
+139,22.3,PJ Cummins,BJ Haddin,DL Vettori,0,0,null,0,0,null,null
+140,22.4,PJ Cummins,BJ Haddin,DL Vettori,0,0,null,0,0,null,null
+141,22.5,PJ Cummins,BJ Haddin,DL Vettori,1,0,null,1,0,null,null
+142,22.6,BJ Haddin,PJ Cummins,DL Vettori,1,0,null,1,0,null,null
+143,23.1,BJ Haddin,PJ Cummins,TA Boult,1,0,null,1,0,null,null
+144,23.2,PJ Cummins,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+145,23.3,PJ Cummins,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+146,23.4,PJ Cummins,BJ Haddin,TA Boult,1,0,null,1,0,null,null
+147,23.5,BJ Haddin,PJ Cummins,TA Boult,0,0,null,0,0,null,null
+148,23.6,BJ Haddin,PJ Cummins,TA Boult,0,0,null,0,0,null,null
+149,24.1,PJ Cummins,BJ Haddin,DL Vettori,1,0,null,1,0,null,null
+150,24.2,BJ Haddin,PJ Cummins,DL Vettori,4,0,null,4,0,null,null
+151,24.3,BJ Haddin,PJ Cummins,DL Vettori,2,0,null,2,0,null,null
+152,24.4,BJ Haddin,PJ Cummins,DL Vettori,6,0,null,6,0,null,null
+153,24.5,BJ Haddin,PJ Cummins,DL Vettori,0,0,null,0,0,null,null
+154,24.6,BJ Haddin,PJ Cummins,DL Vettori,0,0,null,0,0,null,null
+155,25.1,PJ Cummins,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+156,25.2,PJ Cummins,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+157,25.3,PJ Cummins,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+158,25.4,PJ Cummins,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+159,25.5,PJ Cummins,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+160,25.6,PJ Cummins,BJ Haddin,TA Boult,0,0,null,0,0,null,null
+161,26.1,BJ Haddin,PJ Cummins,TG Southee,0,0,null,0,0,null,null
+162,26.2,BJ Haddin,PJ Cummins,TG Southee,0,0,null,0,0,null,null
+163,26.3,BJ Haddin,PJ Cummins,TG Southee,0,1,wides ,1,0,null,null
+164,26.4,BJ Haddin,PJ Cummins,TG Southee,0,0,null,0,0,null,null
+165,26.5,BJ Haddin,PJ Cummins,TG Southee,2,0,null,2,0,null,null
+166,26.6,BJ Haddin,PJ Cummins,TG Southee,1,0,null,1,0,null,null
+167,26.7,PJ Cummins,BJ Haddin,TG Southee,0,0,null,0,0,null,null
+168,27.1,BJ Haddin,PJ Cummins,AF Milne,0,0,null,0,0,null,null
+169,27.2,BJ Haddin,PJ Cummins,AF Milne,0,0,null,0,0,null,null
+170,27.3,BJ Haddin,PJ Cummins,AF Milne,0,0,null,0,0,null,null
+171,27.4,BJ Haddin,PJ Cummins,AF Milne,1,0,null,1,0,null,null
+172,27.5,PJ Cummins,BJ Haddin,AF Milne,0,0,null,0,0,null,null
+173,27.6,PJ Cummins,BJ Haddin,AF Milne,0,0,null,0,0,null,null
+174,28.1,BJ Haddin,PJ Cummins,TG Southee,4,0,null,4,0,null,null
+175,28.2,BJ Haddin,PJ Cummins,TG Southee,0,0,null,0,0,null,null
+176,28.3,BJ Haddin,PJ Cummins,TG Southee,2,0,null,2,0,null,null
+177,28.4,BJ Haddin,PJ Cummins,TG Southee,1,0,null,1,0,null,null
+178,28.5,PJ Cummins,BJ Haddin,TG Southee,0,0,null,0,0,null,null
+179,28.6,PJ Cummins,BJ Haddin,TG Southee,0,0,null,0,0,null,null
+180,29.1,BJ Haddin,PJ Cummins,AF Milne,0,0,null,0,0,null,null
+181,29.2,BJ Haddin,PJ Cummins,AF Milne,0,0,null,0,0,null,null
+182,29.3,BJ Haddin,PJ Cummins,AF Milne,0,0,null,0,0,null,null
+183,29.4,BJ Haddin,PJ Cummins,AF Milne,0,0,null,0,0,null,null
+184,29.5,BJ Haddin,PJ Cummins,AF Milne,0,0,null,0,0,null,null
+185,29.6,BJ Haddin,PJ Cummins,AF Milne,4,0,null,4,0,null,null
+186,30.1,PJ Cummins,BJ Haddin,TG Southee,4,0,null,4,0,null,null
+187,30.2,PJ Cummins,BJ Haddin,TG Southee,0,0,null,0,0,null,null
+188,30.3,PJ Cummins,BJ Haddin,TG Southee,0,0,null,0,0,null,null
+189,30.4,PJ Cummins,BJ Haddin,TG Southee,0,0,null,0,0,null,null
+190,30.5,PJ Cummins,BJ Haddin,TG Southee,0,0,null,0,0,null,null
+191,30.6,PJ Cummins,BJ Haddin,TG Southee,0,0,null,0,0,null,null
+192,31.1,BJ Haddin,PJ Cummins,AF Milne,1,0,null,1,0,null,null
+193,31.2,PJ Cummins,BJ Haddin,AF Milne,0,0,null,0,0,null,null
+194,31.3,PJ Cummins,BJ Haddin,AF Milne,0,0,null,0,0,null,null
+195,31.4,PJ Cummins,BJ Haddin,AF Milne,0,0,null,0,0,null,null
+196,31.5,PJ Cummins,BJ Haddin,AF Milne,0,0,null,0,0,null,null
+197,31.6,PJ Cummins,BJ Haddin,AF Milne,0,0,null,0,0,null,null
+198,32.1,BJ Haddin,PJ Cummins,CJ Anderson,6,0,null,6,0,null,null
+199,32.2,BJ Haddin,PJ Cummins,CJ Anderson,0,0,null,0,1,BJ Haddin,caught

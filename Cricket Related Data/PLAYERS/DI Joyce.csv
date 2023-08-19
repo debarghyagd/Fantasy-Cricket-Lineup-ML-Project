@@ -1,0 +1,7 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,225171,"Civil Service Cricket Club, Stormont",England,SJ Harmison,Right-arm fast-medium,"[0, 1, 1]",1,0,5,0,0
+1,293071,"Civil Service Cricket Club, Stormont",India,RP Singh,Left-arm fast-medium,"[0, 0, 1]",0,9,18,1,0
+2,293071,"Civil Service Cricket Club, Stormont",India,S Sreesanth,Right-arm fast-medium,"[0, 1, 1]",1,7,10,1,0
+3,293071,"Civil Service Cricket Club, Stormont",India,AB Agarkar,Right-arm fast-medium,"[0, 1, 1]",0,2,9,0,0
+4,293072,"Civil Service Cricket Club, Stormont",South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",1,10,13,2,0
+5,293072,"Civil Service Cricket Club, Stormont",South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,0,1,0,0

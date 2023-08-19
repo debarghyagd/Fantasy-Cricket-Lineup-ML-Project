@@ -1,0 +1,12 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,249743,Sawai Mansingh Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,0,1,0,0
+1,249743,Sawai Mansingh Stadium,Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",1,1,10,0,0
+2,259793,Buffalo Park,South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",0,1,7,0,0
+3,259793,Buffalo Park,South Africa,AJ Hall,Right-arm fast-medium,"[0, 1, 1]",1,0,4,0,0
+4,249741,"Sardar Patel Stadium, Motera",Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",1,0,4,0,0
+5,249741,"Sardar Patel Stadium, Motera",Sri Lanka,ST Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,0,4,0,0
+6,239911,"Beausejour Stadium, Gros Islet",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+7,249740,"Sardar Patel Stadium, Motera",West Indies,DR Smith,Right-arm medium,"[0, 1, 2]",0,0,10,0,0
+8,249740,"Sardar Patel Stadium, Motera",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,6,10,1,0
+9,249207,Harare Sports Club,Bangladesh,Rajin Saleh,Right-arm offbreak,"[1, 1, 0]",1,2,6,0,0
+10,217979,Harare Sports Club,India,AB Agarkar,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0

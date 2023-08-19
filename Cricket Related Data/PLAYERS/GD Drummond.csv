@@ -1,0 +1,5 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,390253,Willowmoore Park,Afghanistan,Hamid Hassan,Right-arm fast,"[0, 1, 0]",0,5,4,1,0
+1,390253,Willowmoore Park,Afghanistan,Samiullah Shenwari,Right-arm legbreak,"[1, 1, 1]",0,1,4,0,0
+2,450498,Cambusdoon New Ground,Afghanistan,Hamid Hassan,Right-arm fast,"[0, 1, 0]",1,6,6,0,0
+3,450498,Cambusdoon New Ground,Afghanistan,Shapoor Zadran,Left-arm fast-medium,"[0, 0, 1]",0,29,13,2,2

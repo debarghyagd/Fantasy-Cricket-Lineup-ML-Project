@@ -1,0 +1,39 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1134037,Sharjah Cricket Stadium,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,10,18,1,0
+1,1134037,Sharjah Cricket Stadium,Afghanistan,Shapoor Zadran,Left-arm fast-medium,"[0, 0, 1]",1,1,9,0,0
+2,1323292,Harare Sports Club,Bangladesh,Shoriful Islam,Left-arm fast-medium,"[0, 0, 1]",1,4,5,1,0
+3,1142920,Queens Sports Club,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",0,14,11,3,0
+4,1142920,Queens Sports Club,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,6,7,1,0
+5,1142923,Queens Sports Club,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",1,10,4,0,1
+6,1104480,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",0,0,4,0,0
+7,1104480,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",0,7,6,1,0
+8,1104480,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",0,17,23,2,0
+9,1104480,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,14,10,1,0
+10,1104480,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,DAS Gunaratne,Right-arm medium,"[0, 1, 2]",1,6,7,0,1
+11,1104480,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,4,8,0,0
+12,1104481,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,DAS Gunaratne,Right-arm medium,"[0, 1, 2]",0,2,3,0,0
+13,1104481,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",0,13,6,2,0
+14,1104481,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",1,8,11,2,0
+15,1104481,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",0,7,4,1,0
+16,1104482,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",0,6,9,1,0
+17,1104482,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",1,7,8,1,0
+18,1104482,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,MD Gunathilaka,Right-arm offbreak,"[1, 1, 0]",0,2,6,0,0
+19,1104482,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,14,11,2,0
+20,1104482,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,DAS Gunaratne,Right-arm medium,"[0, 1, 2]",0,3,6,0,0
+21,1104482,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,4,5,0,0
+22,1079246,Harare Sports Club,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,0,1,0,0
+23,1079247,Harare Sports Club,Afghanistan,Amir Hamza,Left-arm orthodox,"[1, 0, 1]",0,0,1,0,0
+24,1079248,Harare Sports Club,Afghanistan,Amir Hamza,Left-arm orthodox,"[1, 0, 1]",0,7,10,0,0
+25,1079248,Harare Sports Club,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,14,12,1,1
+26,1079248,Harare Sports Club,Afghanistan,Fareed Ahmad,Left-arm fast-medium,"[0, 0, 1]",1,7,16,1,0
+27,1079249,Harare Sports Club,Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",1,4,4,0,0
+28,1079250,Harare Sports Club,Afghanistan,Amir Hamza,Left-arm orthodox,"[1, 0, 1]",0,3,6,0,0
+29,1079250,Harare Sports Club,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+30,1134036,Sharjah Cricket Stadium,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,4,11,0,0
+31,1134036,Sharjah Cricket Stadium,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,2,8,0,0
+32,1142921,Queens Sports Club,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",1,9,9,1,0
+33,1142921,Queens Sports Club,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",0,4,9,0,0
+34,1142922,Queens Sports Club,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",1,0,4,0,0
+35,1059716,Queens Sports Club,Sri Lanka,SS Pathirana,Left-arm orthodox,"[1, 0, 1]",0,7,8,1,0
+36,1059716,Queens Sports Club,Sri Lanka,JDF Vandersay,Right-arm legbreak,"[1, 1, 1]",1,6,2,0,1
+37,1059716,Queens Sports Club,Sri Lanka,MD Shanaka,Right-arm medium,"[0, 1, 2]",0,7,7,1,0

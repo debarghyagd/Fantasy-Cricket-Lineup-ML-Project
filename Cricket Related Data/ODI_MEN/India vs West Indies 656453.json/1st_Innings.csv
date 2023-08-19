@@ -1,0 +1,283 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+1,0.2,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+2,0.3,DR Smith,CH Gayle,Mohammed Shami,4,0,null,4,0,null,null
+3,0.4,DR Smith,CH Gayle,Mohammed Shami,1,0,null,1,0,null,null
+4,0.5,CH Gayle,DR Smith,Mohammed Shami,0,0,null,0,0,null,null
+5,0.6,CH Gayle,DR Smith,Mohammed Shami,0,0,null,0,0,null,null
+6,1.1,DR Smith,CH Gayle,UT Yadav,0,0,null,0,0,null,null
+7,1.2,DR Smith,CH Gayle,UT Yadav,0,0,null,0,0,null,null
+8,1.3,DR Smith,CH Gayle,UT Yadav,0,0,null,0,0,null,null
+9,1.4,DR Smith,CH Gayle,UT Yadav,0,0,null,0,0,null,null
+10,1.5,DR Smith,CH Gayle,UT Yadav,1,0,null,1,0,null,null
+11,1.6,CH Gayle,DR Smith,UT Yadav,0,0,null,0,0,null,null
+12,2.1,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+13,2.2,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+14,2.3,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+15,2.4,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+16,2.5,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+17,2.6,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+18,3.1,CH Gayle,DR Smith,UT Yadav,0,0,null,0,0,null,null
+19,3.2,CH Gayle,DR Smith,UT Yadav,0,0,null,0,0,null,null
+20,3.3,CH Gayle,DR Smith,UT Yadav,0,0,null,0,0,null,null
+21,3.4,CH Gayle,DR Smith,UT Yadav,0,0,null,0,0,null,null
+22,3.5,CH Gayle,DR Smith,UT Yadav,0,0,null,0,0,null,null
+23,3.6,CH Gayle,DR Smith,UT Yadav,0,0,null,0,0,null,null
+24,4.1,DR Smith,CH Gayle,Mohammed Shami,0,2,legbyes ,2,0,null,null
+25,4.2,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+26,4.3,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+27,4.4,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+28,4.5,DR Smith,CH Gayle,Mohammed Shami,0,0,null,0,1,DR Smith,caught
+29,4.6,MN Samuels,CH Gayle,Mohammed Shami,0,0,null,0,0,null,null
+30,5.1,CH Gayle,MN Samuels,UT Yadav,0,0,null,0,0,null,null
+31,5.2,CH Gayle,MN Samuels,UT Yadav,1,0,null,1,0,null,null
+32,5.3,MN Samuels,CH Gayle,UT Yadav,0,0,null,0,0,null,null
+33,5.4,MN Samuels,CH Gayle,UT Yadav,0,0,null,0,0,null,null
+34,5.5,MN Samuels,CH Gayle,UT Yadav,0,1,wides ,1,0,null,null
+35,5.6,MN Samuels,CH Gayle,UT Yadav,0,0,null,0,0,null,null
+36,5.7,MN Samuels,CH Gayle,UT Yadav,0,0,null,0,0,null,null
+37,6.1,CH Gayle,MN Samuels,Mohammed Shami,0,1,wides ,1,0,null,null
+38,6.2,CH Gayle,MN Samuels,Mohammed Shami,0,0,null,0,0,null,null
+39,6.3,CH Gayle,MN Samuels,Mohammed Shami,0,0,null,0,0,null,null
+40,6.4,CH Gayle,MN Samuels,Mohammed Shami,0,0,null,0,0,null,null
+41,6.5,CH Gayle,MN Samuels,Mohammed Shami,0,1,wides ,1,0,null,null
+42,6.6,CH Gayle,MN Samuels,Mohammed Shami,0,0,null,0,0,null,null
+43,6.7,CH Gayle,MN Samuels,Mohammed Shami,1,0,null,1,0,null,null
+44,6.8,MN Samuels,CH Gayle,Mohammed Shami,1,0,null,1,0,null,null
+45,7.1,MN Samuels,CH Gayle,UT Yadav,1,0,null,1,0,null,null
+46,7.2,CH Gayle,MN Samuels,UT Yadav,0,0,null,0,1,MN Samuels,run out
+47,7.3,CH Gayle,JL Carter,UT Yadav,4,0,null,4,0,null,null
+48,7.4,CH Gayle,JL Carter,UT Yadav,2,0,null,2,0,null,null
+49,7.5,CH Gayle,JL Carter,UT Yadav,6,0,null,6,0,null,null
+50,7.6,CH Gayle,JL Carter,UT Yadav,1,0,null,1,0,null,null
+51,8.1,CH Gayle,JL Carter,Mohammed Shami,0,0,null,0,0,null,null
+52,8.2,CH Gayle,JL Carter,Mohammed Shami,4,0,null,4,0,null,null
+53,8.3,CH Gayle,JL Carter,Mohammed Shami,2,0,null,2,0,null,null
+54,8.4,CH Gayle,JL Carter,Mohammed Shami,0,0,null,0,0,null,null
+55,8.5,CH Gayle,JL Carter,Mohammed Shami,0,1,wides ,1,0,null,null
+56,8.6,CH Gayle,JL Carter,Mohammed Shami,0,0,null,0,0,null,null
+57,8.7,CH Gayle,JL Carter,Mohammed Shami,0,0,null,0,1,CH Gayle,caught
+58,9.1,D Ramdin,JL Carter,UT Yadav,0,0,null,0,1,D Ramdin,bowled
+59,9.2,LMP Simmons,JL Carter,UT Yadav,3,0,null,3,0,null,null
+60,9.3,JL Carter,LMP Simmons,UT Yadav,0,0,null,0,0,null,null
+61,9.4,JL Carter,LMP Simmons,UT Yadav,0,0,null,0,0,null,null
+62,9.5,JL Carter,LMP Simmons,UT Yadav,0,0,null,0,0,null,null
+63,9.6,JL Carter,LMP Simmons,UT Yadav,0,0,null,0,0,null,null
+64,10.1,LMP Simmons,JL Carter,Mohammed Shami,0,1,wides ,1,0,null,null
+65,10.2,LMP Simmons,JL Carter,Mohammed Shami,0,0,null,0,0,null,null
+66,10.3,LMP Simmons,JL Carter,Mohammed Shami,0,1,legbyes ,1,0,null,null
+67,10.4,JL Carter,LMP Simmons,Mohammed Shami,2,0,null,2,0,null,null
+68,10.5,JL Carter,LMP Simmons,Mohammed Shami,0,0,null,0,0,null,null
+69,10.6,JL Carter,LMP Simmons,Mohammed Shami,0,0,null,0,0,null,null
+70,10.7,JL Carter,LMP Simmons,Mohammed Shami,0,0,null,0,0,null,null
+71,11.1,LMP Simmons,JL Carter,R Ashwin,0,0,null,0,0,null,null
+72,11.2,LMP Simmons,JL Carter,R Ashwin,1,0,null,1,0,null,null
+73,11.3,JL Carter,LMP Simmons,R Ashwin,0,0,null,0,0,null,null
+74,11.4,JL Carter,LMP Simmons,R Ashwin,0,0,null,0,0,null,null
+75,11.5,JL Carter,LMP Simmons,R Ashwin,1,0,null,1,0,null,null
+76,11.6,LMP Simmons,JL Carter,R Ashwin,0,0,null,0,0,null,null
+77,12.1,JL Carter,LMP Simmons,MM Sharma,0,0,null,0,0,null,null
+78,12.2,JL Carter,LMP Simmons,MM Sharma,0,0,null,0,0,null,null
+79,12.3,JL Carter,LMP Simmons,MM Sharma,4,0,null,4,0,null,null
+80,12.4,JL Carter,LMP Simmons,MM Sharma,0,0,null,0,0,null,null
+81,12.5,JL Carter,LMP Simmons,MM Sharma,1,0,null,1,0,null,null
+82,12.6,LMP Simmons,JL Carter,MM Sharma,0,0,null,0,0,null,null
+83,13.1,JL Carter,LMP Simmons,R Ashwin,0,0,null,0,0,null,null
+84,13.2,JL Carter,LMP Simmons,R Ashwin,2,0,null,2,0,null,null
+85,13.3,JL Carter,LMP Simmons,R Ashwin,0,0,null,0,0,null,null
+86,13.4,JL Carter,LMP Simmons,R Ashwin,0,0,null,0,0,null,null
+87,13.5,JL Carter,LMP Simmons,R Ashwin,0,0,null,0,0,null,null
+88,13.6,JL Carter,LMP Simmons,R Ashwin,0,0,null,0,0,null,null
+89,14.1,LMP Simmons,JL Carter,MM Sharma,1,0,null,1,0,null,null
+90,14.2,JL Carter,LMP Simmons,MM Sharma,0,0,null,0,0,null,null
+91,14.3,JL Carter,LMP Simmons,MM Sharma,0,0,null,0,0,null,null
+92,14.4,JL Carter,LMP Simmons,MM Sharma,0,0,null,0,0,null,null
+93,14.5,JL Carter,LMP Simmons,MM Sharma,1,0,null,1,0,null,null
+94,14.6,LMP Simmons,JL Carter,MM Sharma,1,0,null,1,0,null,null
+95,15.1,LMP Simmons,JL Carter,R Ashwin,1,0,null,1,0,null,null
+96,15.2,JL Carter,LMP Simmons,R Ashwin,1,0,null,1,0,null,null
+97,15.3,LMP Simmons,JL Carter,R Ashwin,0,0,null,0,0,null,null
+98,15.4,LMP Simmons,JL Carter,R Ashwin,1,0,null,1,0,null,null
+99,15.5,JL Carter,LMP Simmons,R Ashwin,4,0,null,4,0,null,null
+100,15.6,JL Carter,LMP Simmons,R Ashwin,0,0,null,0,0,null,null
+101,16.1,LMP Simmons,JL Carter,MM Sharma,0,0,null,0,0,null,null
+102,16.2,LMP Simmons,JL Carter,MM Sharma,0,0,null,0,0,null,null
+103,16.3,LMP Simmons,JL Carter,MM Sharma,0,0,null,0,0,null,null
+104,16.4,LMP Simmons,JL Carter,MM Sharma,0,0,null,0,0,null,null
+105,16.5,LMP Simmons,JL Carter,MM Sharma,0,0,null,0,0,null,null
+106,16.6,LMP Simmons,JL Carter,MM Sharma,0,0,null,0,0,null,null
+107,17.1,JL Carter,LMP Simmons,R Ashwin,1,0,null,1,0,null,null
+108,17.2,LMP Simmons,JL Carter,R Ashwin,0,0,null,0,0,null,null
+109,17.3,LMP Simmons,JL Carter,R Ashwin,0,0,null,0,0,null,null
+110,17.4,LMP Simmons,JL Carter,R Ashwin,1,0,null,1,0,null,null
+111,17.5,JL Carter,LMP Simmons,R Ashwin,4,0,null,4,0,null,null
+112,17.6,JL Carter,LMP Simmons,R Ashwin,0,0,null,0,0,null,null
+113,18.1,LMP Simmons,JL Carter,MM Sharma,0,0,null,0,1,LMP Simmons,caught
+114,18.2,JL Carter,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+115,18.3,JL Carter,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+116,18.4,JL Carter,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+117,18.5,JL Carter,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+118,18.6,JL Carter,DJG Sammy,MM Sharma,0,1,wides ,1,0,null,null
+119,18.7,JL Carter,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+120,19.1,DJG Sammy,JL Carter,R Ashwin,0,0,null,0,0,null,null
+121,19.2,DJG Sammy,JL Carter,R Ashwin,2,0,null,2,0,null,null
+122,19.3,DJG Sammy,JL Carter,R Ashwin,0,0,null,0,0,null,null
+123,19.4,DJG Sammy,JL Carter,R Ashwin,0,0,null,0,0,null,null
+124,19.5,DJG Sammy,JL Carter,R Ashwin,1,0,null,1,0,null,null
+125,19.6,JL Carter,DJG Sammy,R Ashwin,0,0,null,0,0,null,null
+126,20.1,DJG Sammy,JL Carter,MM Sharma,0,0,null,0,0,null,null
+127,20.2,DJG Sammy,JL Carter,MM Sharma,0,0,null,0,0,null,null
+128,20.3,DJG Sammy,JL Carter,MM Sharma,0,0,null,0,0,null,null
+129,20.4,DJG Sammy,JL Carter,MM Sharma,0,0,null,0,0,null,null
+130,20.5,DJG Sammy,JL Carter,MM Sharma,0,0,null,0,0,null,null
+131,20.6,DJG Sammy,JL Carter,MM Sharma,0,0,null,0,0,null,null
+132,21.1,JL Carter,DJG Sammy,R Ashwin,0,0,null,0,0,null,null
+133,21.2,JL Carter,DJG Sammy,R Ashwin,0,0,null,0,0,null,null
+134,21.3,JL Carter,DJG Sammy,R Ashwin,0,0,null,0,0,null,null
+135,21.4,JL Carter,DJG Sammy,R Ashwin,0,0,null,0,0,null,null
+136,21.5,JL Carter,DJG Sammy,R Ashwin,0,0,null,0,1,JL Carter,caught
+137,21.6,DJG Sammy,AD Russell,R Ashwin,0,1,wides ,1,0,null,null
+138,21.7,DJG Sammy,AD Russell,R Ashwin,0,0,null,0,0,null,null
+139,22.1,AD Russell,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+140,22.2,AD Russell,DJG Sammy,MM Sharma,6,0,null,6,0,null,null
+141,22.3,AD Russell,DJG Sammy,MM Sharma,0,1,wides ,1,0,null,null
+142,22.4,AD Russell,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+143,22.5,AD Russell,DJG Sammy,MM Sharma,1,0,null,1,0,null,null
+144,22.6,DJG Sammy,AD Russell,MM Sharma,0,1,wides ,1,0,null,null
+145,22.7,DJG Sammy,AD Russell,MM Sharma,0,1,wides ,1,0,null,null
+146,22.8,DJG Sammy,AD Russell,MM Sharma,2,0,null,2,0,null,null
+147,22.9,DJG Sammy,AD Russell,MM Sharma,0,0,null,0,0,null,null
+148,23.1,AD Russell,DJG Sammy,R Ashwin,0,0,null,0,0,null,null
+149,23.2,AD Russell,DJG Sammy,R Ashwin,0,0,null,0,0,null,null
+150,23.3,AD Russell,DJG Sammy,R Ashwin,1,0,null,1,0,null,null
+151,23.4,DJG Sammy,AD Russell,R Ashwin,0,0,null,0,0,null,null
+152,23.5,DJG Sammy,AD Russell,R Ashwin,0,0,null,0,0,null,null
+153,23.6,DJG Sammy,AD Russell,R Ashwin,0,0,null,0,0,null,null
+154,24.1,AD Russell,DJG Sammy,RA Jadeja,0,0,null,0,1,AD Russell,caught
+155,24.2,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+156,24.3,DJG Sammy,JO Holder,RA Jadeja,2,0,null,2,0,null,null
+157,24.4,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+158,24.5,DJG Sammy,JO Holder,RA Jadeja,1,0,null,1,0,null,null
+159,24.6,JO Holder,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+160,25.1,DJG Sammy,JO Holder,R Ashwin,0,0,null,0,0,null,null
+161,25.2,DJG Sammy,JO Holder,R Ashwin,0,0,null,0,0,null,null
+162,25.3,DJG Sammy,JO Holder,R Ashwin,0,0,null,0,0,null,null
+163,25.4,DJG Sammy,JO Holder,R Ashwin,0,0,null,0,0,null,null
+164,25.5,DJG Sammy,JO Holder,R Ashwin,4,0,null,4,0,null,null
+165,25.6,DJG Sammy,JO Holder,R Ashwin,1,0,null,1,0,null,null
+166,26.1,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+167,26.2,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+168,26.3,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+169,26.4,DJG Sammy,JO Holder,RA Jadeja,1,0,null,1,0,null,null
+170,26.5,JO Holder,DJG Sammy,RA Jadeja,1,0,null,1,0,null,null
+171,26.6,DJG Sammy,JO Holder,RA Jadeja,1,0,null,1,0,null,null
+172,27.1,DJG Sammy,JO Holder,UT Yadav,0,0,null,0,0,null,null
+173,27.2,DJG Sammy,JO Holder,UT Yadav,0,1,legbyes ,1,0,null,null
+174,27.3,JO Holder,DJG Sammy,UT Yadav,0,1,wides ,1,0,null,null
+175,27.4,JO Holder,DJG Sammy,UT Yadav,0,1,wides ,1,0,null,null
+176,27.5,JO Holder,DJG Sammy,UT Yadav,0,0,null,0,0,null,null
+177,27.6,JO Holder,DJG Sammy,UT Yadav,0,0,null,0,0,null,null
+178,27.7,JO Holder,DJG Sammy,UT Yadav,0,0,null,0,0,null,null
+179,27.8,JO Holder,DJG Sammy,UT Yadav,1,0,null,1,0,null,null
+180,28.1,JO Holder,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+181,28.2,JO Holder,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+182,28.3,JO Holder,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+183,28.4,JO Holder,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+184,28.5,JO Holder,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+185,28.6,JO Holder,DJG Sammy,RA Jadeja,1,0,null,1,0,null,null
+186,29.1,JO Holder,DJG Sammy,UT Yadav,0,0,null,0,0,null,null
+187,29.2,JO Holder,DJG Sammy,UT Yadav,0,0,null,0,0,null,null
+188,29.3,JO Holder,DJG Sammy,UT Yadav,1,0,null,1,0,null,null
+189,29.4,DJG Sammy,JO Holder,UT Yadav,0,0,null,0,0,null,null
+190,29.5,DJG Sammy,JO Holder,UT Yadav,0,1,wides ,1,0,null,null
+191,29.6,DJG Sammy,JO Holder,UT Yadav,1,0,null,1,0,null,null
+192,29.7,JO Holder,DJG Sammy,UT Yadav,1,0,null,1,0,null,null
+193,30.1,JO Holder,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+194,30.2,JO Holder,DJG Sammy,RA Jadeja,0,1,wides ,1,0,null,null
+195,30.3,JO Holder,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+196,30.4,JO Holder,DJG Sammy,RA Jadeja,1,0,null,1,0,null,null
+197,30.5,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+198,30.6,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+199,30.7,DJG Sammy,JO Holder,RA Jadeja,2,0,null,2,0,null,null
+200,31.1,JO Holder,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+201,31.2,JO Holder,DJG Sammy,MM Sharma,4,0,null,4,0,null,null
+202,31.3,JO Holder,DJG Sammy,MM Sharma,1,0,null,1,0,null,null
+203,31.4,DJG Sammy,JO Holder,MM Sharma,1,0,null,1,0,null,null
+204,31.5,JO Holder,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+205,31.6,JO Holder,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+206,32.1,DJG Sammy,JO Holder,RA Jadeja,1,0,null,1,0,null,null
+207,32.2,JO Holder,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+208,32.3,JO Holder,DJG Sammy,RA Jadeja,1,0,null,1,0,null,null
+209,32.4,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+210,32.5,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+211,32.6,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+212,33.1,JO Holder,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+213,33.2,JO Holder,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+214,33.3,JO Holder,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+215,33.4,JO Holder,DJG Sammy,MM Sharma,1,0,null,1,0,null,null
+216,33.5,DJG Sammy,JO Holder,MM Sharma,1,0,null,1,0,null,null
+217,33.6,JO Holder,DJG Sammy,MM Sharma,0,0,null,0,0,null,null
+218,34.1,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+219,34.2,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+220,34.3,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+221,34.4,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+222,34.5,DJG Sammy,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+223,34.6,DJG Sammy,JO Holder,RA Jadeja,1,0,null,1,0,null,null
+224,35.1,DJG Sammy,JO Holder,Mohammed Shami,0,0,null,0,0,null,null
+225,35.2,DJG Sammy,JO Holder,Mohammed Shami,0,0,null,0,0,null,null
+226,35.3,DJG Sammy,JO Holder,Mohammed Shami,4,0,null,4,0,null,null
+227,35.4,DJG Sammy,JO Holder,Mohammed Shami,0,0,null,0,1,DJG Sammy,caught
+228,35.5,JE Taylor,JO Holder,Mohammed Shami,0,1,wides ,1,0,null,null
+229,35.6,JE Taylor,JO Holder,Mohammed Shami,0,0,null,0,0,null,null
+230,35.7,JE Taylor,JO Holder,Mohammed Shami,0,0,null,0,0,null,null
+231,36.1,JO Holder,JE Taylor,RA Jadeja,0,0,null,0,0,null,null
+232,36.2,JO Holder,JE Taylor,RA Jadeja,0,0,null,0,0,null,null
+233,36.3,JO Holder,JE Taylor,RA Jadeja,6,0,null,6,0,null,null
+234,36.4,JO Holder,JE Taylor,RA Jadeja,0,0,null,0,0,null,null
+235,36.5,JO Holder,JE Taylor,RA Jadeja,2,0,null,2,0,null,null
+236,36.6,JO Holder,JE Taylor,RA Jadeja,1,0,null,1,0,null,null
+237,37.1,JO Holder,JE Taylor,Mohammed Shami,0,0,null,0,0,null,null
+238,37.2,JO Holder,JE Taylor,Mohammed Shami,0,0,null,0,0,null,null
+239,37.3,JO Holder,JE Taylor,Mohammed Shami,4,0,null,4,0,null,null
+240,37.4,JO Holder,JE Taylor,Mohammed Shami,6,0,null,6,0,null,null
+241,37.5,JO Holder,JE Taylor,Mohammed Shami,1,0,null,1,0,null,null
+242,37.6,JE Taylor,JO Holder,Mohammed Shami,0,0,null,0,0,null,null
+243,38.1,JO Holder,JE Taylor,UT Yadav,1,0,null,1,0,null,null
+244,38.2,JE Taylor,JO Holder,UT Yadav,0,0,null,0,0,null,null
+245,38.3,JE Taylor,JO Holder,UT Yadav,0,0,null,0,0,null,null
+246,38.4,JE Taylor,JO Holder,UT Yadav,4,0,null,4,0,null,null
+247,38.5,JE Taylor,JO Holder,UT Yadav,0,1,wides ,1,0,null,null
+248,38.6,JE Taylor,JO Holder,UT Yadav,0,0,null,0,0,null,null
+249,38.7,JE Taylor,JO Holder,UT Yadav,0,0,null,0,0,null,null
+250,39.1,JO Holder,JE Taylor,R Ashwin,6,0,null,6,0,null,null
+251,39.2,JO Holder,JE Taylor,R Ashwin,1,0,null,1,0,null,null
+252,39.3,JE Taylor,JO Holder,R Ashwin,1,0,null,1,0,null,null
+253,39.4,JO Holder,JE Taylor,R Ashwin,1,0,null,1,0,null,null
+254,39.5,JE Taylor,JO Holder,R Ashwin,1,0,null,1,0,null,null
+255,39.6,JO Holder,JE Taylor,R Ashwin,1,0,null,1,0,null,null
+256,40.1,JO Holder,JE Taylor,UT Yadav,0,0,null,0,0,null,null
+257,40.2,JO Holder,JE Taylor,UT Yadav,4,0,null,4,0,null,null
+258,40.3,JO Holder,JE Taylor,UT Yadav,0,0,null,0,0,null,null
+259,40.4,JO Holder,JE Taylor,UT Yadav,1,0,null,1,0,null,null
+260,40.5,JE Taylor,JO Holder,UT Yadav,1,0,null,1,0,null,null
+261,40.6,JO Holder,JE Taylor,UT Yadav,0,0,null,0,0,null,null
+262,41.1,JE Taylor,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+263,41.2,JE Taylor,JO Holder,RA Jadeja,0,0,null,0,0,null,null
+264,41.3,JE Taylor,JO Holder,RA Jadeja,2,0,null,2,0,null,null
+265,41.4,JE Taylor,JO Holder,RA Jadeja,1,0,null,1,0,null,null
+266,41.5,JO Holder,JE Taylor,RA Jadeja,0,0,null,0,0,null,null
+267,41.6,JO Holder,JE Taylor,RA Jadeja,1,0,null,1,0,null,null
+268,42.1,JO Holder,JE Taylor,UT Yadav,0,0,null,0,0,null,null
+269,42.2,JO Holder,JE Taylor,UT Yadav,1,0,null,1,0,null,null
+270,42.3,JE Taylor,JO Holder,UT Yadav,0,0,null,0,0,null,null
+271,42.4,JE Taylor,JO Holder,UT Yadav,1,0,null,1,0,null,null
+272,42.5,JO Holder,JE Taylor,UT Yadav,1,0,null,1,0,null,null
+273,42.6,JE Taylor,JO Holder,UT Yadav,0,0,null,0,1,JE Taylor,caught and bowled
+274,43.1,JO Holder,KAJ Roach,MM Sharma,0,0,null,0,0,null,null
+275,43.2,JO Holder,KAJ Roach,MM Sharma,1,0,null,1,0,null,null
+276,43.3,KAJ Roach,JO Holder,MM Sharma,0,1,legbyes ,1,0,null,null
+277,43.4,JO Holder,KAJ Roach,MM Sharma,0,0,null,0,0,null,null
+278,43.5,JO Holder,KAJ Roach,MM Sharma,4,0,null,4,0,null,null
+279,43.6,JO Holder,KAJ Roach,MM Sharma,1,0,null,1,0,null,null
+280,44.1,JO Holder,KAJ Roach,RA Jadeja,0,0,null,0,0,null,null
+281,44.2,JO Holder,KAJ Roach,RA Jadeja,0,0,null,0,1,JO Holder,caught

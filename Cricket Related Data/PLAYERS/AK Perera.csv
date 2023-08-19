@@ -1,0 +1,8 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1198488,National Stadium,Pakistan,Wahab Riaz,Left-arm fast,"[0, 0, 0]",0,2,4,0,0
+1,1198488,National Stadium,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",1,4,7,0,0
+2,1144171,Newlands,South Africa,Imran Tahir,Right-arm legbreak,"[1, 1, 1]",1,15,18,2,0
+3,995463,Rangiri Dambulla International Stadium,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",1,0,2,0,0
+4,995463,Rangiri Dambulla International Stadium,Australia,TM Head,Right-arm offbreak,"[1, 1, 0]",0,1,3,0,0
+5,995463,Rangiri Dambulla International Stadium,Australia,SM Boland,Right-arm fast-medium,"[0, 1, 1]",0,3,5,0,0
+6,635655,Pallekele International Cricket Stadium,South Africa,F Behardien,Right-arm fast-medium,"[0, 1, 1]",1,0,3,0,0

@@ -1,0 +1,97 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,AA Mulla,AM Samad,TM Odoyo,0,0,null,0,0,null,null
+1,0.2,AA Mulla,AM Samad,TM Odoyo,4,0,null,4,0,null,null
+2,0.3,AA Mulla,AM Samad,TM Odoyo,0,0,null,0,0,null,null
+3,0.4,AA Mulla,AM Samad,TM Odoyo,0,0,null,0,1,AA Mulla,caught
+4,0.5,AM Samad,DR Chumney,TM Odoyo,0,0,null,0,0,null,null
+5,0.6,AM Samad,DR Chumney,TM Odoyo,1,0,null,1,0,null,null
+6,1.1,AM Samad,DR Chumney,PJ Ongondo,2,0,null,2,0,null,null
+7,1.2,AM Samad,DR Chumney,PJ Ongondo,4,0,null,4,0,null,null
+8,1.3,AM Samad,DR Chumney,PJ Ongondo,4,1,noballs ,5,0,null,null
+9,1.4,AM Samad,DR Chumney,PJ Ongondo,1,0,null,1,0,null,null
+10,1.5,DR Chumney,AM Samad,PJ Ongondo,6,0,null,6,0,null,null
+11,1.6,DR Chumney,AM Samad,PJ Ongondo,1,0,null,1,0,null,null
+12,1.7,AM Samad,DR Chumney,PJ Ongondo,1,0,null,1,0,null,null
+13,2.1,AM Samad,DR Chumney,TM Odoyo,1,0,null,1,0,null,null
+14,2.2,DR Chumney,AM Samad,TM Odoyo,0,0,null,0,1,DR Chumney,caught
+15,2.3,A Bagai,AM Samad,TM Odoyo,1,0,null,1,0,null,null
+16,2.4,AM Samad,A Bagai,TM Odoyo,0,0,null,0,0,null,null
+17,2.5,AM Samad,A Bagai,TM Odoyo,0,0,null,0,0,null,null
+18,2.6,AM Samad,A Bagai,TM Odoyo,0,0,null,0,1,AM Samad,caught
+19,3.1,A Bagai,JM Davison,PJ Ongondo,0,0,null,0,0,null,null
+20,3.2,A Bagai,JM Davison,PJ Ongondo,4,1,noballs ,5,0,null,null
+21,3.3,A Bagai,JM Davison,PJ Ongondo,0,1,wides ,1,0,null,null
+22,3.4,A Bagai,JM Davison,PJ Ongondo,0,0,null,0,1,A Bagai,caught
+23,3.5,Qaiser Ali,JM Davison,PJ Ongondo,0,1,wides ,1,0,null,null
+24,3.6,Qaiser Ali,JM Davison,PJ Ongondo,0,0,null,0,0,null,null
+25,3.7,Qaiser Ali,JM Davison,PJ Ongondo,0,0,null,0,0,null,null
+26,3.8,Qaiser Ali,JM Davison,PJ Ongondo,0,0,null,0,0,null,null
+27,3.9,Qaiser Ali,JM Davison,PJ Ongondo,0,0,null,0,0,null,null
+28,4.1,JM Davison,Qaiser Ali,TM Odoyo,0,0,null,0,0,null,null
+29,4.2,JM Davison,Qaiser Ali,TM Odoyo,0,0,null,0,0,null,null
+30,4.3,JM Davison,Qaiser Ali,TM Odoyo,1,0,null,1,0,null,null
+31,4.4,Qaiser Ali,JM Davison,TM Odoyo,0,0,null,0,1,Qaiser Ali,bowled
+32,4.5,S Dhaniram,JM Davison,TM Odoyo,1,0,null,1,0,null,null
+33,4.6,JM Davison,S Dhaniram,TM Odoyo,0,0,null,0,0,null,null
+34,5.1,S Dhaniram,JM Davison,PJ Ongondo,0,0,null,0,0,null,null
+35,5.2,S Dhaniram,JM Davison,PJ Ongondo,0,0,null,0,0,null,null
+36,5.3,S Dhaniram,JM Davison,PJ Ongondo,0,0,null,0,0,null,null
+37,5.4,S Dhaniram,JM Davison,PJ Ongondo,0,0,null,0,0,null,null
+38,5.5,S Dhaniram,JM Davison,PJ Ongondo,0,0,null,0,0,null,null
+39,5.6,S Dhaniram,JM Davison,PJ Ongondo,0,0,null,0,0,null,null
+40,6.1,JM Davison,S Dhaniram,TM Odoyo,4,0,null,4,0,null,null
+41,6.2,JM Davison,S Dhaniram,TM Odoyo,0,0,null,0,0,null,null
+42,6.3,JM Davison,S Dhaniram,TM Odoyo,2,0,null,2,0,null,null
+43,6.4,JM Davison,S Dhaniram,TM Odoyo,0,0,null,0,0,null,null
+44,6.5,JM Davison,S Dhaniram,TM Odoyo,0,1,noballs ,1,0,null,null
+45,6.6,JM Davison,S Dhaniram,TM Odoyo,1,0,null,1,0,null,null
+46,6.7,S Dhaniram,JM Davison,TM Odoyo,4,0,null,4,0,null,null
+47,7.1,JM Davison,S Dhaniram,PJ Ongondo,2,0,null,2,0,null,null
+48,7.2,JM Davison,S Dhaniram,PJ Ongondo,0,0,null,0,0,null,null
+49,7.3,JM Davison,S Dhaniram,PJ Ongondo,0,0,null,0,1,JM Davison,bowled
+50,7.4,GR Codrington,S Dhaniram,PJ Ongondo,0,1,wides ,1,0,null,null
+51,7.5,GR Codrington,S Dhaniram,PJ Ongondo,0,0,null,0,0,null,null
+52,7.6,GR Codrington,S Dhaniram,PJ Ongondo,1,0,null,1,0,null,null
+53,7.7,S Dhaniram,GR Codrington,PJ Ongondo,1,0,null,1,0,null,null
+54,8.1,S Dhaniram,GR Codrington,TM Odoyo,0,0,null,0,0,null,null
+55,8.2,S Dhaniram,GR Codrington,TM Odoyo,0,0,null,0,0,null,null
+56,8.3,S Dhaniram,GR Codrington,TM Odoyo,1,0,null,1,0,null,null
+57,8.4,GR Codrington,S Dhaniram,TM Odoyo,0,0,null,0,0,null,null
+58,8.5,GR Codrington,S Dhaniram,TM Odoyo,0,0,null,0,0,null,null
+59,8.6,GR Codrington,S Dhaniram,TM Odoyo,0,0,null,0,0,null,null
+60,9.1,S Dhaniram,GR Codrington,PJ Ongondo,0,0,null,0,1,S Dhaniram,caught
+61,9.2,AC Cummins,GR Codrington,PJ Ongondo,0,0,null,0,0,null,null
+62,9.3,AC Cummins,GR Codrington,PJ Ongondo,0,0,null,0,0,null,null
+63,9.4,AC Cummins,GR Codrington,PJ Ongondo,0,0,null,0,0,null,null
+64,9.5,AC Cummins,GR Codrington,PJ Ongondo,4,0,null,4,0,null,null
+65,9.6,AC Cummins,GR Codrington,PJ Ongondo,0,0,null,0,0,null,null
+66,10.1,GR Codrington,AC Cummins,TM Odoyo,0,0,null,0,0,null,null
+67,10.2,GR Codrington,AC Cummins,TM Odoyo,0,0,null,0,0,null,null
+68,10.3,GR Codrington,AC Cummins,TM Odoyo,0,0,null,0,0,null,null
+69,10.4,GR Codrington,AC Cummins,TM Odoyo,0,0,null,0,0,null,null
+70,10.5,GR Codrington,AC Cummins,TM Odoyo,4,0,null,4,0,null,null
+71,10.6,GR Codrington,AC Cummins,TM Odoyo,6,0,null,6,0,null,null
+72,11.1,AC Cummins,GR Codrington,PJ Ongondo,0,0,null,0,0,null,null
+73,11.2,AC Cummins,GR Codrington,PJ Ongondo,2,0,null,2,0,null,null
+74,11.3,AC Cummins,GR Codrington,PJ Ongondo,0,0,null,0,0,null,null
+75,11.4,AC Cummins,GR Codrington,PJ Ongondo,0,0,null,0,0,null,null
+76,11.5,AC Cummins,GR Codrington,PJ Ongondo,2,0,null,2,0,null,null
+77,11.6,AC Cummins,GR Codrington,PJ Ongondo,0,0,null,0,1,AC Cummins,caught
+78,12.1,A Codrington,GR Codrington,TM Odoyo,0,0,null,0,0,null,null
+79,12.2,A Codrington,GR Codrington,TM Odoyo,0,0,null,0,0,null,null
+80,12.3,A Codrington,GR Codrington,TM Odoyo,0,0,null,0,0,null,null
+81,12.4,A Codrington,GR Codrington,TM Odoyo,1,0,null,1,0,null,null
+82,12.5,GR Codrington,A Codrington,TM Odoyo,1,1,noballs ,2,0,null,null
+83,12.6,A Codrington,GR Codrington,TM Odoyo,4,0,null,4,0,null,null
+84,12.7,A Codrington,GR Codrington,TM Odoyo,0,0,null,0,0,null,null
+85,13.1,GR Codrington,A Codrington,PJ Ongondo,6,0,null,6,0,null,null
+86,13.2,GR Codrington,A Codrington,PJ Ongondo,4,0,null,4,0,null,null
+87,13.3,GR Codrington,A Codrington,PJ Ongondo,0,0,null,0,0,null,null
+88,13.4,GR Codrington,A Codrington,PJ Ongondo,1,0,null,1,0,null,null
+89,13.5,A Codrington,GR Codrington,PJ Ongondo,0,0,null,0,1,A Codrington,caught
+90,13.6,H Osinde,GR Codrington,PJ Ongondo,0,0,null,0,0,null,null
+91,14.1,GR Codrington,H Osinde,LN Onyango,0,0,null,0,0,null,null
+92,14.2,GR Codrington,H Osinde,LN Onyango,0,0,null,0,0,null,null
+93,14.3,GR Codrington,H Osinde,LN Onyango,1,0,null,1,0,null,null
+94,14.4,H Osinde,GR Codrington,LN Onyango,1,0,null,1,0,null,null
+95,14.5,GR Codrington,H Osinde,LN Onyango,0,0,null,0,1,GR Codrington,lbw

@@ -1,0 +1,14 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1223955,Sydney Cricket Ground,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,1,4,0,0
+1,1223955,Sydney Cricket Ground,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",1,18,11,2,1
+2,1223955,Sydney Cricket Ground,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,3,7,0,0
+3,1223956,Sydney Cricket Ground,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",1,10,10,2,0
+4,1223956,Sydney Cricket Ground,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,4,5,0,0
+5,1223956,Sydney Cricket Ground,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,14,12,2,0
+6,1187682,Seddon Park,New Zealand,HK Bennett,Right-arm fast-medium,"[0, 1, 1]",0,8,6,1,0
+7,1187682,Seddon Park,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",1,23,21,5,0
+8,1187682,Seddon Park,New Zealand,C de Grandhomme,Right-arm fast-medium,"[0, 1, 1]",0,1,5,0,0
+9,1187683,Eden Park,New Zealand,HK Bennett,Right-arm fast-medium,"[0, 1, 1]",1,2,5,0,0
+10,1187683,Eden Park,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+11,1187684,Bay Oval,New Zealand,KA Jamieson,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+12,1187684,Bay Oval,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0

@@ -1,0 +1,22 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,812645,Sheikh Zayed Stadium,Afghanistan,Izatullah Dawlatzai,Right-arm fast-medium,"[0, 1, 1]",0,2,5,0,0
+1,812645,Sheikh Zayed Stadium,Afghanistan,Aftab Alam,Right-arm fast-medium,"[0, 1, 1]",1,0,8,0,0
+2,656477,Bellerive Oval,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",1,0,8,0,0
+3,656425,Hagley Oval,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,4,7,0,0
+4,656425,Hagley Oval,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",0,3,8,0,0
+5,660837,"Civil Service Cricket Club, Stormont",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,2,8,0,0
+6,660837,"Civil Service Cricket Club, Stormont",Ireland,DT Johnston,Right-arm fast-medium,"[0, 1, 1]",0,8,15,2,0
+7,727935,"The Village, Malahide",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,11,6,1,0
+8,727935,"The Village, Malahide",Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,6,16,1,0
+9,727935,"The Village, Malahide",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,5,15,1,0
+10,727937,"The Village, Malahide",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,7,4,0,1
+11,696759,Hagley Oval,Kenya,SO Ngoche,Left-arm orthodox,"[1, 0, 1]",0,2,4,0,0
+12,696759,Hagley Oval,Kenya,HA Varaiya,Left-arm orthodox,"[1, 0, 1]",0,1,4,0,0
+13,696731,Hagley Oval,Canada,JOA Gordon,Right-arm fast-medium,"[0, 1, 1]",1,15,11,2,0
+14,696731,Hagley Oval,Canada,Khurram Chohan,Right-arm fast,"[0, 1, 0]",0,8,6,1,0
+15,696731,Hagley Oval,Canada,Junaid Siddiqui,Right-arm legbreak,"[1, 1, 1]",0,2,6,0,0
+16,696731,Hagley Oval,Canada,HS Baidwan,Right-arm medium,"[0, 1, 2]",0,5,4,1,0
+17,656467,Bellerive Oval,Sri Lanka,TM Dilshan,Right-arm offbreak,"[1, 1, 0]",0,9,15,1,0
+18,656467,Bellerive Oval,Sri Lanka,S Prasanna,Right-arm legbreak,"[1, 1, 1]",0,17,20,0,0
+19,656467,Bellerive Oval,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,2,3,0,0
+20,656467,Bellerive Oval,Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,26,15,4,0

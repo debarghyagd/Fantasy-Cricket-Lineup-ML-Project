@@ -1,0 +1,310 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Nasir Jamshed,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+1,0.2,Nasir Jamshed,Ahmed Shehzad,Mohammad Naveed,1,0,null,1,0,null,null
+2,0.3,Ahmed Shehzad,Nasir Jamshed,Mohammad Naveed,1,0,null,1,0,null,null
+3,0.4,Nasir Jamshed,Ahmed Shehzad,Mohammad Naveed,0,1,wides ,1,0,null,null
+4,0.5,Nasir Jamshed,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+5,0.6,Nasir Jamshed,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+6,0.7,Nasir Jamshed,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+7,1.1,Ahmed Shehzad,Nasir Jamshed,AM Guruge,0,0,null,0,0,null,null
+8,1.2,Ahmed Shehzad,Nasir Jamshed,AM Guruge,0,0,null,0,0,null,null
+9,1.3,Ahmed Shehzad,Nasir Jamshed,AM Guruge,0,0,null,0,0,null,null
+10,1.4,Ahmed Shehzad,Nasir Jamshed,AM Guruge,0,0,null,0,0,null,null
+11,1.5,Ahmed Shehzad,Nasir Jamshed,AM Guruge,0,0,null,0,0,null,null
+12,1.6,Ahmed Shehzad,Nasir Jamshed,AM Guruge,4,0,null,4,0,null,null
+13,2.1,Nasir Jamshed,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+14,2.2,Nasir Jamshed,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+15,2.3,Nasir Jamshed,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+16,2.4,Nasir Jamshed,Ahmed Shehzad,Mohammad Naveed,1,0,null,1,0,null,null
+17,2.5,Ahmed Shehzad,Nasir Jamshed,Mohammad Naveed,0,0,null,0,0,null,null
+18,2.6,Ahmed Shehzad,Nasir Jamshed,Mohammad Naveed,0,0,null,0,0,null,null
+19,3.1,Nasir Jamshed,Ahmed Shehzad,AM Guruge,0,0,null,0,0,null,null
+20,3.2,Nasir Jamshed,Ahmed Shehzad,AM Guruge,2,0,null,2,0,null,null
+21,3.3,Nasir Jamshed,Ahmed Shehzad,AM Guruge,0,0,null,0,1,Nasir Jamshed,caught
+22,3.4,Haris Sohail,Ahmed Shehzad,AM Guruge,0,0,null,0,0,null,null
+23,3.5,Haris Sohail,Ahmed Shehzad,AM Guruge,0,0,null,0,0,null,null
+24,3.6,Haris Sohail,Ahmed Shehzad,AM Guruge,0,0,null,0,0,null,null
+25,4.1,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,0,0,null,0,0,null,null
+26,4.2,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,0,0,null,0,0,null,null
+27,4.3,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,0,0,null,0,0,null,null
+28,4.4,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,0,0,null,0,0,null,null
+29,4.5,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,0,0,null,0,0,null,null
+30,4.6,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,1,0,null,1,0,null,null
+31,5.1,Ahmed Shehzad,Haris Sohail,AM Guruge,0,0,null,0,0,null,null
+32,5.2,Ahmed Shehzad,Haris Sohail,AM Guruge,0,0,null,0,0,null,null
+33,5.3,Ahmed Shehzad,Haris Sohail,AM Guruge,1,0,null,1,0,null,null
+34,5.4,Haris Sohail,Ahmed Shehzad,AM Guruge,0,0,null,0,0,null,null
+35,5.5,Haris Sohail,Ahmed Shehzad,AM Guruge,2,0,null,2,0,null,null
+36,5.6,Haris Sohail,Ahmed Shehzad,AM Guruge,0,0,null,0,0,null,null
+37,6.1,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,0,0,null,0,0,null,null
+38,6.2,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,0,0,null,0,0,null,null
+39,6.3,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,0,0,null,0,0,null,null
+40,6.4,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,1,0,null,1,0,null,null
+41,6.5,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+42,6.6,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+43,7.1,Ahmed Shehzad,Haris Sohail,AM Guruge,0,0,null,0,0,null,null
+44,7.2,Ahmed Shehzad,Haris Sohail,AM Guruge,2,0,null,2,0,null,null
+45,7.3,Ahmed Shehzad,Haris Sohail,AM Guruge,1,0,null,1,0,null,null
+46,7.4,Haris Sohail,Ahmed Shehzad,AM Guruge,4,0,null,4,0,null,null
+47,7.5,Haris Sohail,Ahmed Shehzad,AM Guruge,0,0,null,0,0,null,null
+48,7.6,Haris Sohail,Ahmed Shehzad,AM Guruge,1,0,null,1,0,null,null
+49,8.1,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+50,8.2,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+51,8.3,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,3,0,null,3,0,null,null
+52,8.4,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,1,0,null,1,0,null,null
+53,8.5,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+54,8.6,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,4,0,null,4,0,null,null
+55,9.1,Ahmed Shehzad,Haris Sohail,AM Guruge,4,0,null,4,0,null,null
+56,9.2,Ahmed Shehzad,Haris Sohail,AM Guruge,0,0,null,0,0,null,null
+57,9.3,Ahmed Shehzad,Haris Sohail,AM Guruge,0,1,wides ,1,0,null,null
+58,9.4,Ahmed Shehzad,Haris Sohail,AM Guruge,0,1,wides ,1,0,null,null
+59,9.5,Ahmed Shehzad,Haris Sohail,AM Guruge,0,0,null,0,0,null,null
+60,9.6,Ahmed Shehzad,Haris Sohail,AM Guruge,0,0,null,0,0,null,null
+61,9.7,Ahmed Shehzad,Haris Sohail,AM Guruge,4,0,null,4,0,null,null
+62,9.8,Ahmed Shehzad,Haris Sohail,AM Guruge,0,0,null,0,0,null,null
+63,10.1,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,2,0,null,2,0,null,null
+64,10.2,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,1,0,null,1,0,null,null
+65,10.3,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,0,0,null,0,0,null,null
+66,10.4,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,0,0,null,0,0,null,null
+67,10.5,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,1,0,null,1,0,null,null
+68,10.6,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,1,0,null,1,0,null,null
+69,11.1,Haris Sohail,Ahmed Shehzad,Amjad Javed,2,0,null,2,0,null,null
+70,11.2,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+71,11.3,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,1,wides ,1,0,null,null
+72,11.4,Haris Sohail,Ahmed Shehzad,Amjad Javed,4,0,null,4,0,null,null
+73,11.5,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,1,wides ,1,0,null,null
+74,11.6,Haris Sohail,Ahmed Shehzad,Amjad Javed,4,0,null,4,0,null,null
+75,11.7,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+76,11.8,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+77,12.1,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+78,12.2,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,0,0,null,0,0,null,null
+79,12.3,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,0,0,null,0,0,null,null
+80,12.4,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+81,12.5,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+82,12.6,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,2,0,null,2,0,null,null
+83,13.1,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+84,13.2,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+85,13.3,Haris Sohail,Ahmed Shehzad,Amjad Javed,1,0,null,1,0,null,null
+86,13.4,Ahmed Shehzad,Haris Sohail,Amjad Javed,0,0,null,0,0,null,null
+87,13.5,Ahmed Shehzad,Haris Sohail,Amjad Javed,0,0,null,0,0,null,null
+88,13.6,Ahmed Shehzad,Haris Sohail,Amjad Javed,1,0,null,1,0,null,null
+89,14.1,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+90,14.2,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+91,14.3,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+92,14.4,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+93,14.5,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+94,14.6,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,2,0,null,2,0,null,null
+95,15.1,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+96,15.2,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+97,15.3,Haris Sohail,Ahmed Shehzad,Amjad Javed,1,0,null,1,0,null,null
+98,15.4,Ahmed Shehzad,Haris Sohail,Amjad Javed,0,0,null,0,0,null,null
+99,15.5,Ahmed Shehzad,Haris Sohail,Amjad Javed,0,0,null,0,0,null,null
+100,15.6,Ahmed Shehzad,Haris Sohail,Amjad Javed,6,0,null,6,0,null,null
+101,16.1,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,0,0,null,0,0,null,null
+102,16.2,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,0,0,null,0,0,null,null
+103,16.3,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+104,16.4,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+105,16.5,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,2,0,null,2,0,null,null
+106,16.6,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+107,17.1,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+108,17.2,Haris Sohail,Ahmed Shehzad,Amjad Javed,1,0,null,1,0,null,null
+109,17.3,Ahmed Shehzad,Haris Sohail,Amjad Javed,0,0,null,0,0,null,null
+110,17.4,Ahmed Shehzad,Haris Sohail,Amjad Javed,2,0,null,2,0,null,null
+111,17.5,Ahmed Shehzad,Haris Sohail,Amjad Javed,0,0,null,0,0,null,null
+112,17.6,Ahmed Shehzad,Haris Sohail,Amjad Javed,2,0,null,2,0,null,null
+113,18.1,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,0,0,null,0,0,null,null
+114,18.2,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,0,0,null,0,0,null,null
+115,18.3,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,0,0,null,0,0,null,null
+116,18.4,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+117,18.5,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,2,0,null,2,0,null,null
+118,18.6,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+119,19.1,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+120,19.2,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+121,19.3,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+122,19.4,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+123,19.5,Haris Sohail,Ahmed Shehzad,Amjad Javed,0,0,null,0,0,null,null
+124,19.6,Haris Sohail,Ahmed Shehzad,Amjad Javed,1,0,null,1,0,null,null
+125,20.1,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+126,20.2,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+127,20.3,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+128,20.4,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+129,20.5,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,4,0,null,4,0,null,null
+130,20.6,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+131,21.1,Ahmed Shehzad,Haris Sohail,Khurram Khan,1,0,null,1,0,null,null
+132,21.2,Haris Sohail,Ahmed Shehzad,Khurram Khan,1,0,null,1,0,null,null
+133,21.3,Ahmed Shehzad,Haris Sohail,Khurram Khan,0,0,null,0,0,null,null
+134,21.4,Ahmed Shehzad,Haris Sohail,Khurram Khan,0,0,null,0,0,null,null
+135,21.5,Ahmed Shehzad,Haris Sohail,Khurram Khan,0,0,null,0,0,null,null
+136,21.6,Ahmed Shehzad,Haris Sohail,Khurram Khan,0,0,null,0,0,null,null
+137,22.1,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,0,0,null,0,0,null,null
+138,22.2,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,0,0,null,0,0,null,null
+139,22.3,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+140,22.4,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+141,22.5,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+142,22.6,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+143,23.1,Haris Sohail,Ahmed Shehzad,Khurram Khan,1,0,null,1,0,null,null
+144,23.2,Ahmed Shehzad,Haris Sohail,Khurram Khan,1,0,null,1,0,null,null
+145,23.3,Haris Sohail,Ahmed Shehzad,Khurram Khan,0,0,null,0,0,null,null
+146,23.4,Haris Sohail,Ahmed Shehzad,Khurram Khan,1,0,null,1,0,null,null
+147,23.5,Ahmed Shehzad,Haris Sohail,Khurram Khan,1,0,null,1,0,null,null
+148,23.6,Haris Sohail,Ahmed Shehzad,Khurram Khan,2,0,null,2,0,null,null
+149,24.1,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+150,24.2,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,0,0,null,0,0,null,null
+151,24.3,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,0,0,null,0,0,null,null
+152,24.4,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,2,0,null,2,0,null,null
+153,24.5,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+154,24.6,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+155,25.1,Ahmed Shehzad,Haris Sohail,Khurram Khan,4,0,null,4,0,null,null
+156,25.2,Ahmed Shehzad,Haris Sohail,Khurram Khan,1,0,null,1,0,null,null
+157,25.3,Haris Sohail,Ahmed Shehzad,Khurram Khan,1,0,null,1,0,null,null
+158,25.4,Ahmed Shehzad,Haris Sohail,Khurram Khan,1,0,null,1,0,null,null
+159,25.5,Haris Sohail,Ahmed Shehzad,Khurram Khan,0,0,null,0,0,null,null
+160,25.6,Haris Sohail,Ahmed Shehzad,Khurram Khan,6,0,null,6,0,null,null
+161,26.1,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+162,26.2,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+163,26.3,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+164,26.4,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+165,26.5,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,2,0,null,2,0,null,null
+166,26.6,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+167,27.1,Ahmed Shehzad,Haris Sohail,Krishna Chandran,1,0,null,1,0,null,null
+168,27.2,Haris Sohail,Ahmed Shehzad,Krishna Chandran,0,0,null,0,0,null,null
+169,27.3,Haris Sohail,Ahmed Shehzad,Krishna Chandran,1,0,null,1,0,null,null
+170,27.4,Ahmed Shehzad,Haris Sohail,Krishna Chandran,0,0,null,0,0,null,null
+171,27.5,Ahmed Shehzad,Haris Sohail,Krishna Chandran,0,0,null,0,0,null,null
+172,27.6,Ahmed Shehzad,Haris Sohail,Krishna Chandran,1,0,null,1,0,null,null
+173,28.1,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,4,0,null,4,0,null,null
+174,28.2,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+175,28.3,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+176,28.4,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+177,28.5,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,0,null,0,0,null,null
+178,28.6,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,0,1,wides ,1,0,null,null
+179,28.7,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+180,29.1,Ahmed Shehzad,Haris Sohail,Krishna Chandran,0,0,null,0,0,null,null
+181,29.2,Ahmed Shehzad,Haris Sohail,Krishna Chandran,0,0,null,0,0,null,null
+182,29.3,Ahmed Shehzad,Haris Sohail,Krishna Chandran,4,0,null,4,0,null,null
+183,29.4,Ahmed Shehzad,Haris Sohail,Krishna Chandran,3,0,null,3,0,null,null
+184,29.5,Haris Sohail,Ahmed Shehzad,Krishna Chandran,1,0,null,1,0,null,null
+185,29.6,Ahmed Shehzad,Haris Sohail,Krishna Chandran,0,0,null,0,0,null,null
+186,30.1,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+187,30.2,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,4,0,null,4,0,null,null
+188,30.3,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+189,30.4,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+190,30.5,Ahmed Shehzad,Haris Sohail,Mohammad Tauqir,1,0,null,1,0,null,null
+191,30.6,Haris Sohail,Ahmed Shehzad,Mohammad Tauqir,1,0,null,1,0,null,null
+192,31.1,Haris Sohail,Ahmed Shehzad,Krishna Chandran,4,0,null,4,0,null,null
+193,31.2,Haris Sohail,Ahmed Shehzad,Krishna Chandran,1,0,null,1,0,null,null
+194,31.3,Ahmed Shehzad,Haris Sohail,Krishna Chandran,2,0,null,2,0,null,null
+195,31.4,Ahmed Shehzad,Haris Sohail,Krishna Chandran,2,0,null,2,0,null,null
+196,31.5,Ahmed Shehzad,Haris Sohail,Krishna Chandran,1,0,null,1,0,null,null
+197,31.6,Haris Sohail,Ahmed Shehzad,Krishna Chandran,0,0,null,0,0,null,null
+198,32.1,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,1,0,null,1,0,null,null
+199,32.2,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+200,32.3,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,1,0,null,1,0,null,null
+201,32.4,Ahmed Shehzad,Haris Sohail,Mohammad Naveed,1,0,null,1,0,null,null
+202,32.5,Haris Sohail,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,1,Haris Sohail,caught
+203,32.6,Sohaib Maqsood,Ahmed Shehzad,Mohammad Naveed,0,0,null,0,0,null,null
+204,33.1,Ahmed Shehzad,Sohaib Maqsood,Krishna Chandran,1,0,null,1,0,null,null
+205,33.2,Sohaib Maqsood,Ahmed Shehzad,Krishna Chandran,0,0,null,0,0,null,null
+206,33.3,Sohaib Maqsood,Ahmed Shehzad,Krishna Chandran,1,0,null,1,0,null,null
+207,33.4,Ahmed Shehzad,Sohaib Maqsood,Krishna Chandran,1,0,null,1,0,null,null
+208,33.5,Sohaib Maqsood,Ahmed Shehzad,Krishna Chandran,0,0,null,0,0,null,null
+209,33.6,Sohaib Maqsood,Ahmed Shehzad,Krishna Chandran,2,0,null,2,0,null,null
+210,34.1,Ahmed Shehzad,Sohaib Maqsood,Mohammad Naveed,1,0,null,1,1,Ahmed Shehzad,run out
+211,34.2,Misbah-ul-Haq,Sohaib Maqsood,Mohammad Naveed,1,0,null,1,0,null,null
+212,34.3,Sohaib Maqsood,Misbah-ul-Haq,Mohammad Naveed,0,0,null,0,0,null,null
+213,34.4,Sohaib Maqsood,Misbah-ul-Haq,Mohammad Naveed,0,0,null,0,0,null,null
+214,34.5,Sohaib Maqsood,Misbah-ul-Haq,Mohammad Naveed,0,0,null,0,0,null,null
+215,34.6,Sohaib Maqsood,Misbah-ul-Haq,Mohammad Naveed,0,0,null,0,0,null,null
+216,35.1,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,2,0,null,2,0,null,null
+217,35.2,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,1,0,null,1,0,null,null
+218,35.3,Sohaib Maqsood,Misbah-ul-Haq,Krishna Chandran,0,0,null,0,0,null,null
+219,35.4,Sohaib Maqsood,Misbah-ul-Haq,Krishna Chandran,1,0,null,1,0,null,null
+220,35.5,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,1,0,null,1,0,null,null
+221,35.6,Sohaib Maqsood,Misbah-ul-Haq,Krishna Chandran,1,0,null,1,0,null,null
+222,36.1,Sohaib Maqsood,Misbah-ul-Haq,Amjad Javed,2,0,null,2,0,null,null
+223,36.2,Sohaib Maqsood,Misbah-ul-Haq,Amjad Javed,0,0,null,0,0,null,null
+224,36.3,Sohaib Maqsood,Misbah-ul-Haq,Amjad Javed,4,0,null,4,0,null,null
+225,36.4,Sohaib Maqsood,Misbah-ul-Haq,Amjad Javed,1,0,null,1,0,null,null
+226,36.5,Misbah-ul-Haq,Sohaib Maqsood,Amjad Javed,1,0,null,1,0,null,null
+227,36.6,Sohaib Maqsood,Misbah-ul-Haq,Amjad Javed,2,0,null,2,0,null,null
+228,37.1,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,0,0,null,0,0,null,null
+229,37.2,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,0,0,null,0,0,null,null
+230,37.3,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,2,0,null,2,0,null,null
+231,37.4,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,0,0,null,0,0,null,null
+232,37.5,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,1,0,null,1,0,null,null
+233,37.6,Sohaib Maqsood,Misbah-ul-Haq,Krishna Chandran,0,0,null,0,0,null,null
+234,38.1,Misbah-ul-Haq,Sohaib Maqsood,Amjad Javed,0,0,null,0,0,null,null
+235,38.2,Misbah-ul-Haq,Sohaib Maqsood,Amjad Javed,1,0,null,1,0,null,null
+236,38.3,Sohaib Maqsood,Misbah-ul-Haq,Amjad Javed,4,0,null,4,0,null,null
+237,38.4,Sohaib Maqsood,Misbah-ul-Haq,Amjad Javed,0,0,null,0,0,null,null
+238,38.5,Sohaib Maqsood,Misbah-ul-Haq,Amjad Javed,4,0,null,4,0,null,null
+239,38.6,Sohaib Maqsood,Misbah-ul-Haq,Amjad Javed,4,0,null,4,0,null,null
+240,39.1,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,0,0,null,0,0,null,null
+241,39.2,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,2,0,null,2,0,null,null
+242,39.3,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,1,0,null,1,0,null,null
+243,39.4,Sohaib Maqsood,Misbah-ul-Haq,Krishna Chandran,1,0,null,1,0,null,null
+244,39.5,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,1,0,null,1,0,null,null
+245,39.6,Sohaib Maqsood,Misbah-ul-Haq,Krishna Chandran,1,0,null,1,0,null,null
+246,40.1,Sohaib Maqsood,Misbah-ul-Haq,AM Guruge,1,0,null,1,0,null,null
+247,40.2,Misbah-ul-Haq,Sohaib Maqsood,AM Guruge,1,0,null,1,0,null,null
+248,40.3,Sohaib Maqsood,Misbah-ul-Haq,AM Guruge,1,0,null,1,0,null,null
+249,40.4,Misbah-ul-Haq,Sohaib Maqsood,AM Guruge,1,0,null,1,0,null,null
+250,40.5,Sohaib Maqsood,Misbah-ul-Haq,AM Guruge,1,0,null,1,0,null,null
+251,40.6,Misbah-ul-Haq,Sohaib Maqsood,AM Guruge,1,0,null,1,0,null,null
+252,41.1,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,0,0,null,0,0,null,null
+253,41.2,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,2,0,null,2,0,null,null
+254,41.3,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,6,0,null,6,0,null,null
+255,41.4,Misbah-ul-Haq,Sohaib Maqsood,Krishna Chandran,1,0,null,1,0,null,null
+256,41.5,Sohaib Maqsood,Misbah-ul-Haq,Krishna Chandran,2,0,null,2,0,null,null
+257,41.6,Sohaib Maqsood,Misbah-ul-Haq,Krishna Chandran,6,0,null,6,0,null,null
+258,42.1,Misbah-ul-Haq,Sohaib Maqsood,AM Guruge,0,0,null,0,0,null,null
+259,42.2,Misbah-ul-Haq,Sohaib Maqsood,AM Guruge,0,0,null,0,0,null,null
+260,42.3,Misbah-ul-Haq,Sohaib Maqsood,AM Guruge,6,0,null,6,0,null,null
+261,42.4,Misbah-ul-Haq,Sohaib Maqsood,AM Guruge,1,0,null,1,0,null,null
+262,42.5,Sohaib Maqsood,Misbah-ul-Haq,AM Guruge,6,0,null,6,0,null,null
+263,42.6,Sohaib Maqsood,Misbah-ul-Haq,AM Guruge,0,0,null,0,1,Sohaib Maqsood,caught
+264,43.1,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,1,0,null,1,0,null,null
+265,43.2,Umar Akmal,Misbah-ul-Haq,Rohan Mustafa,1,0,null,1,0,null,null
+266,43.3,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,1,0,null,1,0,null,null
+267,43.4,Umar Akmal,Misbah-ul-Haq,Rohan Mustafa,1,0,null,1,0,null,null
+268,43.5,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,0,1,wides ,1,0,null,null
+269,43.6,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,0,0,null,0,0,null,null
+270,43.7,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,4,0,null,4,0,null,null
+271,44.1,Umar Akmal,Misbah-ul-Haq,Mohammad Naveed,1,0,null,1,0,null,null
+272,44.2,Misbah-ul-Haq,Umar Akmal,Mohammad Naveed,1,0,null,1,0,null,null
+273,44.3,Umar Akmal,Misbah-ul-Haq,Mohammad Naveed,0,0,null,0,0,null,null
+274,44.4,Umar Akmal,Misbah-ul-Haq,Mohammad Naveed,4,0,null,4,0,null,null
+275,44.5,Umar Akmal,Misbah-ul-Haq,Mohammad Naveed,0,1,legbyes ,1,0,null,null
+276,44.6,Misbah-ul-Haq,Umar Akmal,Mohammad Naveed,1,0,null,1,0,null,null
+277,45.1,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,0,0,null,0,0,null,null
+278,45.2,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,4,0,null,4,0,null,null
+279,45.3,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,0,5,wides ,5,0,null,null
+280,45.4,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,0,2,legbyes ,2,0,null,null
+281,45.5,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,4,0,null,4,0,null,null
+282,45.6,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,0,0,null,0,0,null,null
+283,45.7,Misbah-ul-Haq,Umar Akmal,Rohan Mustafa,1,0,null,1,0,null,null
+284,46.1,Misbah-ul-Haq,Umar Akmal,Mohammad Naveed,1,0,null,1,0,null,null
+285,46.2,Umar Akmal,Misbah-ul-Haq,Mohammad Naveed,2,0,null,2,0,null,null
+286,46.3,Umar Akmal,Misbah-ul-Haq,Mohammad Naveed,6,0,null,6,0,null,null
+287,46.4,Umar Akmal,Misbah-ul-Haq,Mohammad Naveed,1,0,null,1,0,null,null
+288,46.5,Misbah-ul-Haq,Umar Akmal,Mohammad Naveed,4,1,noballs ,5,0,null,null
+289,46.6,Misbah-ul-Haq,Umar Akmal,Mohammad Naveed,2,0,null,2,0,null,null
+290,46.7,Misbah-ul-Haq,Umar Akmal,Mohammad Naveed,2,0,null,2,0,null,null
+291,47.1,Umar Akmal,Misbah-ul-Haq,Amjad Javed,1,0,null,1,0,null,null
+292,47.2,Misbah-ul-Haq,Umar Akmal,Amjad Javed,1,0,null,1,0,null,null
+293,47.3,Umar Akmal,Misbah-ul-Haq,Amjad Javed,1,0,null,1,0,null,null
+294,47.4,Misbah-ul-Haq,Umar Akmal,Amjad Javed,1,0,null,1,0,null,null
+295,47.5,Umar Akmal,Misbah-ul-Haq,Amjad Javed,1,0,null,1,0,null,null
+296,47.6,Misbah-ul-Haq,Umar Akmal,Amjad Javed,1,0,null,1,0,null,null
+297,48.1,Misbah-ul-Haq,Umar Akmal,AM Guruge,2,0,null,2,0,null,null
+298,48.2,Misbah-ul-Haq,Umar Akmal,AM Guruge,1,0,null,1,0,null,null
+299,48.3,Umar Akmal,Misbah-ul-Haq,AM Guruge,0,0,null,0,1,Umar Akmal,caught
+300,48.4,Misbah-ul-Haq,Shahid Afridi,AM Guruge,0,0,null,0,1,Misbah-ul-Haq,caught
+301,48.5,Shahid Afridi,Wahab Riaz,AM Guruge,1,0,null,1,0,null,null
+302,48.6,Wahab Riaz,Shahid Afridi,AM Guruge,6,0,null,6,0,null,null
+303,49.1,Shahid Afridi,Wahab Riaz,Amjad Javed,6,0,null,6,0,null,null
+304,49.2,Shahid Afridi,Wahab Riaz,Amjad Javed,0,0,null,0,0,null,null
+305,49.3,Shahid Afridi,Wahab Riaz,Amjad Javed,2,0,null,2,0,null,null
+306,49.4,Shahid Afridi,Wahab Riaz,Amjad Javed,6,0,null,6,0,null,null
+307,49.5,Shahid Afridi,Wahab Riaz,Amjad Javed,4,0,null,4,0,null,null
+308,49.6,Shahid Afridi,Wahab Riaz,Amjad Javed,2,0,null,2,0,null,null

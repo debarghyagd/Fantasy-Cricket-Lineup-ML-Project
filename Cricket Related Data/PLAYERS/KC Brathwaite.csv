@@ -1,0 +1,30 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1050223,Sharjah Cricket Stadium,Pakistan,Wahab Riaz,Left-arm fast,"[0, 0, 0]",0,6,5,1,0
+1,1050223,Sharjah Cricket Stadium,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",1,2,8,0,0
+2,1050223,Sharjah Cricket Stadium,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,3,14,0,0
+3,1050225,Sharjah Cricket Stadium,Pakistan,Wahab Riaz,Left-arm fast,"[0, 0, 0]",0,7,12,1,0
+4,1050225,Sharjah Cricket Stadium,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,9,9,1,0
+5,1050225,Sharjah Cricket Stadium,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,4,7,0,0
+6,1050225,Sharjah Cricket Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",1,7,13,1,0
+7,1050227,Sheikh Zayed Stadium,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,2,5,0,0
+8,1050227,Sheikh Zayed Stadium,Pakistan,Sohail Khan,Right-arm fast-medium,"[0, 1, 1]",0,14,22,2,0
+9,1050227,Sheikh Zayed Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",1,5,10,0,0
+10,1059714,Queens Sports Club,Sri Lanka,GSNFG Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,7,9,0,0
+11,1059714,Queens Sports Club,Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",0,5,11,0,0
+12,1059714,Queens Sports Club,Sri Lanka,SS Pathirana,Left-arm orthodox,"[1, 0, 1]",0,3,9,0,0
+13,1059714,Queens Sports Club,Sri Lanka,DAS Gunaratne,Right-arm medium,"[0, 1, 2]",1,1,2,0,0
+14,1027315,"Sir Vivian Richards Stadium, North Sound",England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,9,20,1,0
+15,1027317,"Sir Vivian Richards Stadium, North Sound",England,MM Ali,Right-arm offbreak,"[1, 1, 0]",1,6,13,0,0
+16,1027317,"Sir Vivian Richards Stadium, North Sound",England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,2,5,0,0
+17,1027317,"Sir Vivian Richards Stadium, North Sound",England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,8,8,0,0
+18,1027317,"Sir Vivian Richards Stadium, North Sound",England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,3,5,0,0
+19,1027317,"Sir Vivian Richards Stadium, North Sound",England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,15,17,1,0
+20,1027319,"Kensington Oval, Bridgetown",England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,3,8,0,0
+21,1059712,Queens Sports Club,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",0,14,19,0,0
+22,1059712,Queens Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,3,7,0,0
+23,1059712,Queens Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",1,24,30,1,0
+24,1059712,Queens Sports Club,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,9,16,1,0
+25,1059712,Queens Sports Club,Zimbabwe,AG Cremer,Right-arm legbreak,"[1, 1, 1]",0,12,23,0,0
+26,1059715,Queens Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,3,8,0,0
+27,1059715,Queens Sports Club,Zimbabwe,AG Cremer,Right-arm legbreak,"[1, 1, 1]",0,10,15,1,0
+28,1059715,Queens Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,3,10,0,0

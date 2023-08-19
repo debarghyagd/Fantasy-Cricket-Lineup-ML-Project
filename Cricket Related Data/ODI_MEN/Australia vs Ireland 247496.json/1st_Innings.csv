@@ -1,0 +1,194 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,JP Bray,WTS Porterfield,GD McGrath,1,0,null,1,0,null,null
+1,0.2,WTS Porterfield,JP Bray,GD McGrath,0,0,null,0,0,null,null
+2,0.3,WTS Porterfield,JP Bray,GD McGrath,0,0,null,0,0,null,null
+3,0.4,WTS Porterfield,JP Bray,GD McGrath,0,0,null,0,0,null,null
+4,0.5,WTS Porterfield,JP Bray,GD McGrath,1,0,null,1,0,null,null
+5,0.6,JP Bray,WTS Porterfield,GD McGrath,0,0,null,0,1,JP Bray,bowled
+6,1.1,WTS Porterfield,EJG Morgan,SW Tait,0,0,null,0,0,null,null
+7,1.2,WTS Porterfield,EJG Morgan,SW Tait,0,0,null,0,0,null,null
+8,1.3,WTS Porterfield,EJG Morgan,SW Tait,0,0,null,0,0,null,null
+9,1.4,WTS Porterfield,EJG Morgan,SW Tait,0,0,null,0,0,null,null
+10,1.5,WTS Porterfield,EJG Morgan,SW Tait,0,0,null,0,0,null,null
+11,1.6,WTS Porterfield,EJG Morgan,SW Tait,0,0,null,0,0,null,null
+12,2.1,EJG Morgan,WTS Porterfield,GD McGrath,0,0,null,0,0,null,null
+13,2.2,EJG Morgan,WTS Porterfield,GD McGrath,0,0,null,0,0,null,null
+14,2.3,EJG Morgan,WTS Porterfield,GD McGrath,0,0,null,0,0,null,null
+15,2.4,EJG Morgan,WTS Porterfield,GD McGrath,0,0,null,0,0,null,null
+16,2.5,EJG Morgan,WTS Porterfield,GD McGrath,0,0,null,0,0,null,null
+17,2.6,EJG Morgan,WTS Porterfield,GD McGrath,0,0,null,0,0,null,null
+18,3.1,WTS Porterfield,EJG Morgan,SW Tait,0,0,null,0,1,WTS Porterfield,lbw
+19,3.2,NJ O'Brien,EJG Morgan,SW Tait,0,0,null,0,1,NJ O'Brien,bowled
+20,3.3,KJ O'Brien,EJG Morgan,SW Tait,0,0,null,0,0,null,null
+21,3.4,KJ O'Brien,EJG Morgan,SW Tait,0,1,wides ,1,0,null,null
+22,3.5,KJ O'Brien,EJG Morgan,SW Tait,0,1,wides ,1,0,null,null
+23,3.6,KJ O'Brien,EJG Morgan,SW Tait,4,0,null,4,0,null,null
+24,3.7,KJ O'Brien,EJG Morgan,SW Tait,0,0,null,0,0,null,null
+25,3.8,KJ O'Brien,EJG Morgan,SW Tait,4,0,null,4,0,null,null
+26,4.1,EJG Morgan,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+27,4.2,EJG Morgan,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+28,4.3,EJG Morgan,KJ O'Brien,GD McGrath,0,0,null,0,1,EJG Morgan,caught
+29,4.4,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+30,4.5,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+31,4.6,AR White,KJ O'Brien,GD McGrath,1,0,null,1,0,null,null
+32,5.1,AR White,KJ O'Brien,SW Tait,0,0,null,0,0,null,null
+33,5.2,AR White,KJ O'Brien,SW Tait,0,1,wides ,1,0,null,null
+34,5.3,AR White,KJ O'Brien,SW Tait,0,1,wides ,1,0,null,null
+35,5.4,AR White,KJ O'Brien,SW Tait,0,0,null,0,0,null,null
+36,5.5,AR White,KJ O'Brien,SW Tait,0,0,null,0,0,null,null
+37,5.6,AR White,KJ O'Brien,SW Tait,0,1,wides ,1,0,null,null
+38,5.7,AR White,KJ O'Brien,SW Tait,1,0,null,1,0,null,null
+39,5.8,KJ O'Brien,AR White,SW Tait,0,0,null,0,0,null,null
+40,5.9,KJ O'Brien,AR White,SW Tait,0,1,noballs ,1,0,null,null
+41,5.10,KJ O'Brien,AR White,SW Tait,0,1,wides ,1,0,null,null
+42,5.11,KJ O'Brien,AR White,SW Tait,3,0,null,3,0,null,null
+43,6.1,KJ O'Brien,AR White,GD McGrath,0,0,null,0,0,null,null
+44,6.2,KJ O'Brien,AR White,GD McGrath,1,0,null,1,0,null,null
+45,6.3,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+46,6.4,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+47,6.5,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+48,6.6,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+49,7.1,KJ O'Brien,AR White,SR Clark,0,1,wides ,1,0,null,null
+50,7.2,KJ O'Brien,AR White,SR Clark,0,0,null,0,0,null,null
+51,7.3,KJ O'Brien,AR White,SR Clark,0,0,null,0,0,null,null
+52,7.4,KJ O'Brien,AR White,SR Clark,0,0,null,0,0,null,null
+53,7.5,KJ O'Brien,AR White,SR Clark,0,0,null,0,0,null,null
+54,7.6,KJ O'Brien,AR White,SR Clark,0,0,null,0,0,null,null
+55,7.7,KJ O'Brien,AR White,SR Clark,0,0,null,0,0,null,null
+56,8.1,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+57,8.2,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+58,8.3,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+59,8.4,AR White,KJ O'Brien,GD McGrath,2,0,null,2,0,null,null
+60,8.5,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+61,8.6,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+62,9.1,KJ O'Brien,AR White,SR Clark,0,0,null,0,0,null,null
+63,9.2,KJ O'Brien,AR White,SR Clark,0,0,null,0,0,null,null
+64,9.3,KJ O'Brien,AR White,SR Clark,0,0,null,0,0,null,null
+65,9.4,KJ O'Brien,AR White,SR Clark,0,0,null,0,0,null,null
+66,9.5,KJ O'Brien,AR White,SR Clark,4,0,null,4,0,null,null
+67,9.6,KJ O'Brien,AR White,SR Clark,0,0,null,0,0,null,null
+68,10.1,AR White,KJ O'Brien,GD McGrath,2,0,null,2,0,null,null
+69,10.2,AR White,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+70,10.3,AR White,KJ O'Brien,GD McGrath,0,0,null,0,1,AR White,caught
+71,10.4,DT Johnston,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+72,10.5,DT Johnston,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+73,10.6,DT Johnston,KJ O'Brien,GD McGrath,1,0,null,1,0,null,null
+74,11.1,DT Johnston,KJ O'Brien,SR Clark,0,0,null,0,0,null,null
+75,11.2,DT Johnston,KJ O'Brien,SR Clark,0,0,null,0,0,null,null
+76,11.3,DT Johnston,KJ O'Brien,SR Clark,0,0,null,0,0,null,null
+77,11.4,DT Johnston,KJ O'Brien,SR Clark,1,0,null,1,0,null,null
+78,11.5,KJ O'Brien,DT Johnston,SR Clark,0,0,null,0,0,null,null
+79,11.6,KJ O'Brien,DT Johnston,SR Clark,0,0,null,0,0,null,null
+80,12.1,DT Johnston,KJ O'Brien,GD McGrath,2,0,null,2,0,null,null
+81,12.2,DT Johnston,KJ O'Brien,GD McGrath,4,0,null,4,0,null,null
+82,12.3,DT Johnston,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+83,12.4,DT Johnston,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+84,12.5,DT Johnston,KJ O'Brien,GD McGrath,0,0,null,0,0,null,null
+85,12.6,DT Johnston,KJ O'Brien,GD McGrath,2,0,null,2,0,null,null
+86,13.1,KJ O'Brien,DT Johnston,SR Clark,0,0,null,0,0,null,null
+87,13.2,KJ O'Brien,DT Johnston,SR Clark,0,0,null,0,1,KJ O'Brien,caught
+88,13.3,WK McCallan,DT Johnston,SR Clark,1,0,null,1,0,null,null
+89,13.4,DT Johnston,WK McCallan,SR Clark,4,0,null,4,0,null,null
+90,13.5,DT Johnston,WK McCallan,SR Clark,0,0,null,0,0,null,null
+91,13.6,DT Johnston,WK McCallan,SR Clark,0,0,null,0,0,null,null
+92,14.1,WK McCallan,DT Johnston,SW Tait,0,0,null,0,0,null,null
+93,14.2,WK McCallan,DT Johnston,SW Tait,0,0,null,0,0,null,null
+94,14.3,WK McCallan,DT Johnston,SW Tait,2,0,null,2,0,null,null
+95,14.4,WK McCallan,DT Johnston,SW Tait,0,0,null,0,0,null,null
+96,14.5,WK McCallan,DT Johnston,SW Tait,0,1,wides ,1,0,null,null
+97,14.6,WK McCallan,DT Johnston,SW Tait,0,0,null,0,0,null,null
+98,14.7,WK McCallan,DT Johnston,SW Tait,0,0,null,0,0,null,null
+99,15.1,DT Johnston,WK McCallan,SR Clark,0,0,null,0,0,null,null
+100,15.2,DT Johnston,WK McCallan,SR Clark,0,0,null,0,0,null,null
+101,15.3,DT Johnston,WK McCallan,SR Clark,0,0,null,0,0,null,null
+102,15.4,DT Johnston,WK McCallan,SR Clark,0,0,null,0,0,null,null
+103,15.5,DT Johnston,WK McCallan,SR Clark,0,0,null,0,0,null,null
+104,15.6,DT Johnston,WK McCallan,SR Clark,3,0,null,3,0,null,null
+105,16.1,DT Johnston,WK McCallan,SW Tait,0,1,wides ,1,0,null,null
+106,16.2,DT Johnston,WK McCallan,SW Tait,0,0,null,0,0,null,null
+107,16.3,DT Johnston,WK McCallan,SW Tait,0,0,null,0,0,null,null
+108,16.4,DT Johnston,WK McCallan,SW Tait,0,0,null,0,1,DT Johnston,bowled
+109,16.5,JF Mooney,WK McCallan,SW Tait,2,0,null,2,0,null,null
+110,16.6,JF Mooney,WK McCallan,SW Tait,0,0,null,0,0,null,null
+111,16.7,JF Mooney,WK McCallan,SW Tait,3,0,null,3,0,null,null
+112,17.1,JF Mooney,WK McCallan,SR Clark,0,0,null,0,0,null,null
+113,17.2,JF Mooney,WK McCallan,SR Clark,0,0,null,0,0,null,null
+114,17.3,JF Mooney,WK McCallan,SR Clark,0,0,null,0,0,null,null
+115,17.4,JF Mooney,WK McCallan,SR Clark,0,0,null,0,0,null,null
+116,17.5,JF Mooney,WK McCallan,SR Clark,0,0,null,0,0,null,null
+117,17.6,JF Mooney,WK McCallan,SR Clark,0,0,null,0,0,null,null
+118,18.1,WK McCallan,JF Mooney,SW Tait,0,0,null,0,0,null,null
+119,18.2,WK McCallan,JF Mooney,SW Tait,1,0,null,1,0,null,null
+120,18.3,JF Mooney,WK McCallan,SW Tait,0,3,wides ,3,0,null,null
+121,18.4,JF Mooney,WK McCallan,SW Tait,0,0,null,0,0,null,null
+122,18.5,JF Mooney,WK McCallan,SW Tait,2,0,null,2,0,null,null
+123,18.6,JF Mooney,WK McCallan,SW Tait,4,0,null,4,0,null,null
+124,18.7,JF Mooney,WK McCallan,SW Tait,1,0,null,1,0,null,null
+125,19.1,JF Mooney,WK McCallan,GB Hogg,0,0,null,0,0,null,null
+126,19.2,JF Mooney,WK McCallan,GB Hogg,0,0,null,0,0,null,null
+127,19.3,JF Mooney,WK McCallan,GB Hogg,1,0,null,1,0,null,null
+128,19.4,WK McCallan,JF Mooney,GB Hogg,0,0,null,0,0,null,null
+129,19.5,WK McCallan,JF Mooney,GB Hogg,0,0,null,0,0,null,null
+130,19.6,WK McCallan,JF Mooney,GB Hogg,1,0,null,1,0,null,null
+131,20.1,WK McCallan,JF Mooney,A Symonds,0,0,null,0,0,null,null
+132,20.2,WK McCallan,JF Mooney,A Symonds,0,0,null,0,0,null,null
+133,20.3,WK McCallan,JF Mooney,A Symonds,0,0,null,0,0,null,null
+134,20.4,WK McCallan,JF Mooney,A Symonds,0,0,null,0,0,null,null
+135,20.5,WK McCallan,JF Mooney,A Symonds,0,0,null,0,0,null,null
+136,20.6,WK McCallan,JF Mooney,A Symonds,0,0,null,0,1,WK McCallan,caught
+137,21.1,D Langford-Smith,JF Mooney,GB Hogg,0,0,null,0,0,null,null
+138,21.2,D Langford-Smith,JF Mooney,GB Hogg,1,0,null,1,0,null,null
+139,21.3,JF Mooney,D Langford-Smith,GB Hogg,0,0,null,0,0,null,null
+140,21.4,JF Mooney,D Langford-Smith,GB Hogg,1,0,null,1,0,null,null
+141,21.5,D Langford-Smith,JF Mooney,GB Hogg,0,0,null,0,0,null,null
+142,21.6,D Langford-Smith,JF Mooney,GB Hogg,0,0,null,0,0,null,null
+143,22.1,JF Mooney,D Langford-Smith,A Symonds,1,0,null,1,0,null,null
+144,22.2,D Langford-Smith,JF Mooney,A Symonds,0,0,null,0,0,null,null
+145,22.3,D Langford-Smith,JF Mooney,A Symonds,1,0,null,1,0,null,null
+146,22.4,JF Mooney,D Langford-Smith,A Symonds,0,0,null,0,0,null,null
+147,22.5,JF Mooney,D Langford-Smith,A Symonds,0,0,null,0,0,null,null
+148,22.6,JF Mooney,D Langford-Smith,A Symonds,4,0,null,4,0,null,null
+149,23.1,D Langford-Smith,JF Mooney,GB Hogg,0,0,null,0,1,D Langford-Smith,caught
+150,23.2,WB Rankin,JF Mooney,GB Hogg,0,0,null,0,0,null,null
+151,23.3,WB Rankin,JF Mooney,GB Hogg,0,0,null,0,0,null,null
+152,23.4,WB Rankin,JF Mooney,GB Hogg,0,0,null,0,0,null,null
+153,23.5,WB Rankin,JF Mooney,GB Hogg,0,1,wides ,1,0,null,null
+154,23.6,WB Rankin,JF Mooney,GB Hogg,0,0,null,0,0,null,null
+155,23.7,WB Rankin,JF Mooney,GB Hogg,0,0,null,0,0,null,null
+156,24.1,JF Mooney,WB Rankin,A Symonds,1,0,null,1,0,null,null
+157,24.2,WB Rankin,JF Mooney,A Symonds,0,0,null,0,0,null,null
+158,24.3,WB Rankin,JF Mooney,A Symonds,0,0,null,0,0,null,null
+159,24.4,WB Rankin,JF Mooney,A Symonds,0,0,null,0,0,null,null
+160,24.5,WB Rankin,JF Mooney,A Symonds,0,0,null,0,0,null,null
+161,24.6,WB Rankin,JF Mooney,A Symonds,0,0,null,0,0,null,null
+162,25.1,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+163,25.2,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+164,25.3,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+165,25.4,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+166,25.5,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+167,25.6,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+168,26.1,WB Rankin,JF Mooney,SR Clark,0,0,null,0,0,null,null
+169,26.2,WB Rankin,JF Mooney,SR Clark,0,0,null,0,0,null,null
+170,26.3,WB Rankin,JF Mooney,SR Clark,2,0,null,2,0,null,null
+171,26.4,WB Rankin,JF Mooney,SR Clark,0,0,null,0,0,null,null
+172,26.5,WB Rankin,JF Mooney,SR Clark,0,0,null,0,0,null,null
+173,26.6,WB Rankin,JF Mooney,SR Clark,0,0,null,0,0,null,null
+174,27.1,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+175,27.2,JF Mooney,WB Rankin,GB Hogg,2,0,null,2,0,null,null
+176,27.3,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+177,27.4,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+178,27.5,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+179,27.6,JF Mooney,WB Rankin,GB Hogg,0,2,wides ,2,0,null,null
+180,27.7,WB Rankin,JF Mooney,GB Hogg,0,0,null,0,0,null,null
+181,28.1,JF Mooney,WB Rankin,SR Clark,0,0,null,0,0,null,null
+182,28.2,JF Mooney,WB Rankin,SR Clark,0,0,null,0,0,null,null
+183,28.3,JF Mooney,WB Rankin,SR Clark,0,0,null,0,0,null,null
+184,28.4,JF Mooney,WB Rankin,SR Clark,1,0,null,1,0,null,null
+185,28.5,WB Rankin,JF Mooney,SR Clark,0,0,null,0,0,null,null
+186,28.6,WB Rankin,JF Mooney,SR Clark,2,0,null,2,0,null,null
+187,29.1,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+188,29.2,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+189,29.3,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+190,29.4,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+191,29.5,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,0,null,null
+192,29.6,JF Mooney,WB Rankin,GB Hogg,0,0,null,0,1,JF Mooney,run out

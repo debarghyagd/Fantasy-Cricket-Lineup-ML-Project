@@ -1,0 +1,319 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,TD Paine,BJ Haddin,JM Anderson,0,0,null,0,0,null,null
+1,0.2,TD Paine,BJ Haddin,JM Anderson,0,1,wides ,1,0,null,null
+2,0.3,TD Paine,BJ Haddin,JM Anderson,1,0,null,1,0,null,null
+3,0.4,BJ Haddin,TD Paine,JM Anderson,0,0,null,0,0,null,null
+4,0.5,BJ Haddin,TD Paine,JM Anderson,0,0,null,0,0,null,null
+5,0.6,BJ Haddin,TD Paine,JM Anderson,0,0,null,0,0,null,null
+6,0.7,BJ Haddin,TD Paine,JM Anderson,1,0,null,1,0,null,null
+7,1.1,BJ Haddin,TD Paine,LE Plunkett,1,0,null,1,0,null,null
+8,1.2,TD Paine,BJ Haddin,LE Plunkett,3,0,null,3,0,null,null
+9,1.3,BJ Haddin,TD Paine,LE Plunkett,2,0,null,2,0,null,null
+10,1.4,BJ Haddin,TD Paine,LE Plunkett,0,1,wides ,1,0,null,null
+11,1.5,BJ Haddin,TD Paine,LE Plunkett,0,0,null,0,0,null,null
+12,1.6,BJ Haddin,TD Paine,LE Plunkett,0,1,wides ,1,0,null,null
+13,1.7,BJ Haddin,TD Paine,LE Plunkett,0,0,null,0,0,null,null
+14,1.8,BJ Haddin,TD Paine,LE Plunkett,0,0,null,0,0,null,null
+15,2.1,TD Paine,BJ Haddin,JM Anderson,1,0,null,1,0,null,null
+16,2.2,BJ Haddin,TD Paine,JM Anderson,4,0,null,4,0,null,null
+17,2.3,BJ Haddin,TD Paine,JM Anderson,0,0,null,0,0,null,null
+18,2.4,BJ Haddin,TD Paine,JM Anderson,0,0,null,0,0,null,null
+19,2.5,BJ Haddin,TD Paine,JM Anderson,0,0,null,0,0,null,null
+20,2.6,BJ Haddin,TD Paine,JM Anderson,0,0,null,0,0,null,null
+21,3.1,TD Paine,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+22,3.2,TD Paine,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+23,3.3,TD Paine,BJ Haddin,LE Plunkett,0,0,null,0,1,TD Paine,lbw
+24,3.4,CJ Ferguson,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+25,3.5,CJ Ferguson,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+26,3.6,CJ Ferguson,BJ Haddin,LE Plunkett,1,0,null,1,0,null,null
+27,4.1,CJ Ferguson,BJ Haddin,JM Anderson,0,0,null,0,0,null,null
+28,4.2,CJ Ferguson,BJ Haddin,JM Anderson,0,0,null,0,0,null,null
+29,4.3,CJ Ferguson,BJ Haddin,JM Anderson,0,1,legbyes ,1,0,null,null
+30,4.4,BJ Haddin,CJ Ferguson,JM Anderson,0,0,null,0,0,null,null
+31,4.5,BJ Haddin,CJ Ferguson,JM Anderson,0,0,null,0,0,null,null
+32,4.6,BJ Haddin,CJ Ferguson,JM Anderson,0,0,null,0,0,null,null
+33,5.1,CJ Ferguson,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+34,5.2,CJ Ferguson,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+35,5.3,CJ Ferguson,BJ Haddin,LE Plunkett,4,0,null,4,0,null,null
+36,5.4,CJ Ferguson,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+37,5.5,CJ Ferguson,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+38,5.6,CJ Ferguson,BJ Haddin,LE Plunkett,1,0,null,1,0,null,null
+39,6.1,CJ Ferguson,BJ Haddin,JM Anderson,0,0,null,0,0,null,null
+40,6.2,CJ Ferguson,BJ Haddin,JM Anderson,0,0,null,0,0,null,null
+41,6.3,CJ Ferguson,BJ Haddin,JM Anderson,0,0,null,0,0,null,null
+42,6.4,CJ Ferguson,BJ Haddin,JM Anderson,1,0,null,1,0,null,null
+43,6.5,BJ Haddin,CJ Ferguson,JM Anderson,0,1,legbyes ,1,0,null,null
+44,6.6,CJ Ferguson,BJ Haddin,JM Anderson,0,0,null,0,0,null,null
+45,7.1,BJ Haddin,CJ Ferguson,ST Finn,1,0,null,1,0,null,null
+46,7.2,CJ Ferguson,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+47,7.3,CJ Ferguson,BJ Haddin,ST Finn,4,0,null,4,0,null,null
+48,7.4,CJ Ferguson,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+49,7.5,CJ Ferguson,BJ Haddin,ST Finn,4,0,null,4,0,null,null
+50,7.6,CJ Ferguson,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+51,8.1,BJ Haddin,CJ Ferguson,JM Anderson,0,0,null,0,0,null,null
+52,8.2,BJ Haddin,CJ Ferguson,JM Anderson,0,0,null,0,0,null,null
+53,8.3,BJ Haddin,CJ Ferguson,JM Anderson,0,0,null,0,0,null,null
+54,8.4,BJ Haddin,CJ Ferguson,JM Anderson,1,0,null,1,0,null,null
+55,8.5,CJ Ferguson,BJ Haddin,JM Anderson,0,0,null,0,1,CJ Ferguson,caught
+56,8.6,CL White,BJ Haddin,JM Anderson,0,0,null,0,0,null,null
+57,9.1,BJ Haddin,CL White,ST Finn,0,0,null,0,0,null,null
+58,9.2,BJ Haddin,CL White,ST Finn,1,0,null,1,0,null,null
+59,9.3,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+60,9.4,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+61,9.5,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+62,9.6,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+63,10.1,BJ Haddin,CL White,JM Anderson,6,0,null,6,0,null,null
+64,10.2,BJ Haddin,CL White,JM Anderson,0,0,null,0,0,null,null
+65,10.3,BJ Haddin,CL White,JM Anderson,0,0,null,0,0,null,null
+66,10.4,BJ Haddin,CL White,JM Anderson,1,0,null,1,0,null,null
+67,10.5,CL White,BJ Haddin,JM Anderson,1,0,null,1,0,null,null
+68,10.6,BJ Haddin,CL White,JM Anderson,0,0,null,0,0,null,null
+69,11.1,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+70,11.2,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+71,11.3,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+72,11.4,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+73,11.5,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+74,11.6,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+75,12.1,BJ Haddin,CL White,LE Plunkett,0,0,null,0,0,null,null
+76,12.2,BJ Haddin,CL White,LE Plunkett,0,0,null,0,0,null,null
+77,12.3,BJ Haddin,CL White,LE Plunkett,1,0,null,1,0,null,null
+78,12.4,CL White,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+79,12.5,CL White,BJ Haddin,LE Plunkett,1,0,null,1,0,null,null
+80,12.6,BJ Haddin,CL White,LE Plunkett,0,1,legbyes ,1,0,null,null
+81,13.1,BJ Haddin,CL White,ST Finn,0,0,null,0,0,null,null
+82,13.2,BJ Haddin,CL White,ST Finn,0,0,null,0,0,null,null
+83,13.3,BJ Haddin,CL White,ST Finn,0,0,null,0,0,null,null
+84,13.4,BJ Haddin,CL White,ST Finn,1,0,null,1,0,null,null
+85,13.5,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+86,13.6,CL White,BJ Haddin,ST Finn,4,0,null,4,0,null,null
+87,14.1,BJ Haddin,CL White,LE Plunkett,1,0,null,1,0,null,null
+88,14.2,CL White,BJ Haddin,LE Plunkett,1,0,null,1,0,null,null
+89,14.3,BJ Haddin,CL White,LE Plunkett,0,0,null,0,0,null,null
+90,14.4,BJ Haddin,CL White,LE Plunkett,1,0,null,1,0,null,null
+91,14.5,CL White,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+92,14.6,CL White,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+93,15.1,BJ Haddin,CL White,ST Finn,0,0,null,0,0,null,null
+94,15.2,BJ Haddin,CL White,ST Finn,0,1,legbyes ,1,0,null,null
+95,15.3,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+96,15.4,CL White,BJ Haddin,ST Finn,0,0,null,0,0,null,null
+97,15.5,CL White,BJ Haddin,ST Finn,1,0,null,1,0,null,null
+98,15.6,BJ Haddin,CL White,ST Finn,0,0,null,0,0,null,null
+99,16.1,CL White,BJ Haddin,LE Plunkett,1,0,null,1,0,null,null
+100,16.2,BJ Haddin,CL White,LE Plunkett,0,1,wides ,1,0,null,null
+101,16.3,BJ Haddin,CL White,LE Plunkett,0,0,null,0,0,null,null
+102,16.4,BJ Haddin,CL White,LE Plunkett,1,0,null,1,0,null,null
+103,16.5,CL White,BJ Haddin,LE Plunkett,1,0,null,1,0,null,null
+104,16.6,BJ Haddin,CL White,LE Plunkett,0,1,wides ,1,0,null,null
+105,16.7,BJ Haddin,CL White,LE Plunkett,1,0,null,1,0,null,null
+106,16.8,CL White,BJ Haddin,LE Plunkett,0,0,null,0,0,null,null
+107,17.1,BJ Haddin,CL White,ST Finn,1,0,null,1,0,null,null
+108,17.2,CL White,BJ Haddin,ST Finn,1,0,null,1,0,null,null
+109,17.3,BJ Haddin,CL White,ST Finn,0,0,null,0,0,null,null
+110,17.4,BJ Haddin,CL White,ST Finn,0,0,null,0,0,null,null
+111,17.5,BJ Haddin,CL White,ST Finn,0,0,null,0,0,null,null
+112,17.6,BJ Haddin,CL White,ST Finn,0,0,null,0,0,null,null
+113,18.1,CL White,BJ Haddin,LJ Wright,0,0,null,0,0,null,null
+114,18.2,CL White,BJ Haddin,LJ Wright,1,0,null,1,0,null,null
+115,18.3,BJ Haddin,CL White,LJ Wright,0,0,null,0,0,null,null
+116,18.4,BJ Haddin,CL White,LJ Wright,0,1,wides ,1,0,null,null
+117,18.5,BJ Haddin,CL White,LJ Wright,0,1,legbyes ,1,0,null,null
+118,18.6,CL White,BJ Haddin,LJ Wright,1,0,null,1,0,null,null
+119,18.7,BJ Haddin,CL White,LJ Wright,1,0,null,1,0,null,null
+120,19.1,BJ Haddin,CL White,MH Yardy,0,0,null,0,0,null,null
+121,19.2,BJ Haddin,CL White,MH Yardy,1,0,null,1,0,null,null
+122,19.3,CL White,BJ Haddin,MH Yardy,0,1,legbyes ,1,0,null,null
+123,19.4,BJ Haddin,CL White,MH Yardy,0,0,null,0,1,BJ Haddin,caught
+124,19.5,CL White,DJ Hussey,MH Yardy,0,0,null,0,0,null,null
+125,19.6,CL White,DJ Hussey,MH Yardy,1,0,null,1,0,null,null
+126,20.1,CL White,DJ Hussey,LJ Wright,1,0,null,1,0,null,null
+127,20.2,DJ Hussey,CL White,LJ Wright,0,0,null,0,0,null,null
+128,20.3,DJ Hussey,CL White,LJ Wright,0,0,null,0,0,null,null
+129,20.4,DJ Hussey,CL White,LJ Wright,4,0,null,4,0,null,null
+130,20.5,DJ Hussey,CL White,LJ Wright,0,0,null,0,0,null,null
+131,20.6,DJ Hussey,CL White,LJ Wright,1,0,null,1,0,null,null
+132,21.1,DJ Hussey,CL White,MH Yardy,1,0,null,1,0,null,null
+133,21.2,CL White,DJ Hussey,MH Yardy,0,0,null,0,0,null,null
+134,21.3,CL White,DJ Hussey,MH Yardy,1,0,null,1,0,null,null
+135,21.4,DJ Hussey,CL White,MH Yardy,2,0,null,2,0,null,null
+136,21.5,DJ Hussey,CL White,MH Yardy,1,0,null,1,0,null,null
+137,21.6,CL White,DJ Hussey,MH Yardy,1,0,null,1,0,null,null
+138,22.1,CL White,DJ Hussey,LJ Wright,0,1,wides ,1,0,null,null
+139,22.2,CL White,DJ Hussey,LJ Wright,1,0,null,1,0,null,null
+140,22.3,DJ Hussey,CL White,LJ Wright,0,0,null,0,0,null,null
+141,22.4,DJ Hussey,CL White,LJ Wright,1,0,null,1,0,null,null
+142,22.5,CL White,DJ Hussey,LJ Wright,0,0,null,0,0,null,null
+143,22.6,CL White,DJ Hussey,LJ Wright,1,0,null,1,0,null,null
+144,22.7,DJ Hussey,CL White,LJ Wright,0,0,null,0,0,null,null
+145,23.1,CL White,DJ Hussey,MH Yardy,0,0,null,0,0,null,null
+146,23.2,CL White,DJ Hussey,MH Yardy,1,0,null,1,0,null,null
+147,23.3,DJ Hussey,CL White,MH Yardy,1,0,null,1,0,null,null
+148,23.4,CL White,DJ Hussey,MH Yardy,1,0,null,1,0,null,null
+149,23.5,DJ Hussey,CL White,MH Yardy,6,0,null,6,0,null,null
+150,23.6,DJ Hussey,CL White,MH Yardy,0,0,null,0,0,null,null
+151,24.1,CL White,DJ Hussey,LJ Wright,0,0,null,0,0,null,null
+152,24.2,CL White,DJ Hussey,LJ Wright,2,0,null,2,0,null,null
+153,24.3,CL White,DJ Hussey,LJ Wright,0,0,null,0,0,null,null
+154,24.4,CL White,DJ Hussey,LJ Wright,1,0,null,1,0,null,null
+155,24.5,DJ Hussey,CL White,LJ Wright,0,0,null,0,0,null,null
+156,24.6,DJ Hussey,CL White,LJ Wright,1,0,null,1,0,null,null
+157,25.1,DJ Hussey,CL White,MH Yardy,1,0,null,1,0,null,null
+158,25.2,CL White,DJ Hussey,MH Yardy,0,0,null,0,1,CL White,caught and bowled
+159,25.3,AC Voges,DJ Hussey,MH Yardy,0,0,null,0,0,null,null
+160,25.4,AC Voges,DJ Hussey,MH Yardy,0,0,null,0,0,null,null
+161,25.5,AC Voges,DJ Hussey,MH Yardy,0,0,null,0,0,null,null
+162,25.6,AC Voges,DJ Hussey,MH Yardy,0,0,null,0,0,null,null
+163,26.1,DJ Hussey,AC Voges,LE Plunkett,4,0,null,4,0,null,null
+164,26.2,DJ Hussey,AC Voges,LE Plunkett,0,0,null,0,0,null,null
+165,26.3,DJ Hussey,AC Voges,LE Plunkett,4,0,null,4,0,null,null
+166,26.4,DJ Hussey,AC Voges,LE Plunkett,1,0,null,1,0,null,null
+167,26.5,AC Voges,DJ Hussey,LE Plunkett,0,0,null,0,0,null,null
+168,26.6,AC Voges,DJ Hussey,LE Plunkett,1,0,null,1,0,null,null
+169,27.1,AC Voges,DJ Hussey,MH Yardy,0,0,null,0,0,null,null
+170,27.2,AC Voges,DJ Hussey,MH Yardy,3,0,null,3,0,null,null
+171,27.3,DJ Hussey,AC Voges,MH Yardy,0,0,null,0,0,null,null
+172,27.4,DJ Hussey,AC Voges,MH Yardy,1,0,null,1,0,null,null
+173,27.5,AC Voges,DJ Hussey,MH Yardy,0,0,null,0,0,null,null
+174,27.6,AC Voges,DJ Hussey,MH Yardy,4,0,null,4,0,null,null
+175,28.1,DJ Hussey,AC Voges,LE Plunkett,0,1,wides ,1,0,null,null
+176,28.2,DJ Hussey,AC Voges,LE Plunkett,1,0,null,1,0,null,null
+177,28.3,AC Voges,DJ Hussey,LE Plunkett,1,0,null,1,0,null,null
+178,28.4,DJ Hussey,AC Voges,LE Plunkett,1,0,null,1,0,null,null
+179,28.5,AC Voges,DJ Hussey,LE Plunkett,0,0,null,0,0,null,null
+180,28.6,AC Voges,DJ Hussey,LE Plunkett,0,1,wides ,1,0,null,null
+181,28.7,AC Voges,DJ Hussey,LE Plunkett,1,0,null,1,0,null,null
+182,28.8,DJ Hussey,AC Voges,LE Plunkett,0,0,null,0,0,null,null
+183,29.1,AC Voges,DJ Hussey,MH Yardy,1,0,null,1,0,null,null
+184,29.2,DJ Hussey,AC Voges,MH Yardy,0,0,null,0,0,null,null
+185,29.3,DJ Hussey,AC Voges,MH Yardy,1,0,null,1,0,null,null
+186,29.4,AC Voges,DJ Hussey,MH Yardy,1,0,null,1,0,null,null
+187,29.5,DJ Hussey,AC Voges,MH Yardy,2,0,null,2,0,null,null
+188,29.6,DJ Hussey,AC Voges,MH Yardy,1,0,null,1,0,null,null
+189,30.1,DJ Hussey,AC Voges,IJL Trott,1,0,null,1,0,null,null
+190,30.2,AC Voges,DJ Hussey,IJL Trott,4,0,null,4,0,null,null
+191,30.3,AC Voges,DJ Hussey,IJL Trott,1,0,null,1,0,null,null
+192,30.4,DJ Hussey,AC Voges,IJL Trott,0,4,legbyes ,4,0,null,null
+193,30.5,DJ Hussey,AC Voges,IJL Trott,1,0,null,1,0,null,null
+194,30.6,AC Voges,DJ Hussey,IJL Trott,1,0,null,1,0,null,null
+195,31.1,AC Voges,DJ Hussey,MH Yardy,2,0,null,2,0,null,null
+196,31.2,AC Voges,DJ Hussey,MH Yardy,0,0,null,0,0,null,null
+197,31.3,AC Voges,DJ Hussey,MH Yardy,2,0,null,2,0,null,null
+198,31.4,AC Voges,DJ Hussey,MH Yardy,1,0,null,1,0,null,null
+199,31.5,DJ Hussey,AC Voges,MH Yardy,0,0,null,0,0,null,null
+200,31.6,DJ Hussey,AC Voges,MH Yardy,1,0,null,1,0,null,null
+201,32.1,DJ Hussey,AC Voges,LJ Wright,1,0,null,1,0,null,null
+202,32.2,AC Voges,DJ Hussey,LJ Wright,0,1,wides ,1,0,null,null
+203,32.3,AC Voges,DJ Hussey,LJ Wright,1,0,null,1,0,null,null
+204,32.4,DJ Hussey,AC Voges,LJ Wright,0,0,null,0,0,null,null
+205,32.5,DJ Hussey,AC Voges,LJ Wright,0,0,null,0,0,null,null
+206,32.6,DJ Hussey,AC Voges,LJ Wright,4,0,null,4,0,null,null
+207,32.7,DJ Hussey,AC Voges,LJ Wright,1,0,null,1,0,null,null
+208,33.1,DJ Hussey,AC Voges,MH Yardy,4,0,null,4,0,null,null
+209,33.2,DJ Hussey,AC Voges,MH Yardy,0,0,null,0,0,null,null
+210,33.3,DJ Hussey,AC Voges,MH Yardy,1,0,null,1,0,null,null
+211,33.4,AC Voges,DJ Hussey,MH Yardy,0,0,null,0,0,null,null
+212,33.5,AC Voges,DJ Hussey,MH Yardy,1,0,null,1,0,null,null
+213,33.6,DJ Hussey,AC Voges,MH Yardy,1,0,null,1,0,null,null
+214,34.1,DJ Hussey,AC Voges,LJ Wright,1,0,null,1,0,null,null
+215,34.2,AC Voges,DJ Hussey,LJ Wright,0,0,null,0,0,null,null
+216,34.3,AC Voges,DJ Hussey,LJ Wright,2,0,null,2,0,null,null
+217,34.4,AC Voges,DJ Hussey,LJ Wright,3,0,null,3,0,null,null
+218,34.5,DJ Hussey,AC Voges,LJ Wright,1,0,null,1,0,null,null
+219,34.6,AC Voges,DJ Hussey,LJ Wright,2,0,null,2,0,null,null
+220,35.1,DJ Hussey,AC Voges,ST Finn,0,0,null,0,0,null,null
+221,35.2,DJ Hussey,AC Voges,ST Finn,1,0,null,1,0,null,null
+222,35.3,AC Voges,DJ Hussey,ST Finn,4,0,null,4,0,null,null
+223,35.4,AC Voges,DJ Hussey,ST Finn,1,0,null,1,0,null,null
+224,35.5,DJ Hussey,AC Voges,ST Finn,1,0,null,1,0,null,null
+225,35.6,AC Voges,DJ Hussey,ST Finn,1,0,null,1,0,null,null
+226,36.1,AC Voges,DJ Hussey,LJ Wright,1,0,null,1,0,null,null
+227,36.2,DJ Hussey,AC Voges,LJ Wright,0,0,null,0,0,null,null
+228,36.3,DJ Hussey,AC Voges,LJ Wright,1,0,null,1,0,null,null
+229,36.4,AC Voges,DJ Hussey,LJ Wright,1,0,null,1,0,null,null
+230,36.5,DJ Hussey,AC Voges,LJ Wright,0,0,null,0,0,null,null
+231,36.6,DJ Hussey,AC Voges,LJ Wright,2,0,null,2,0,null,null
+232,37.1,AC Voges,DJ Hussey,ST Finn,0,0,null,0,0,null,null
+233,37.2,AC Voges,DJ Hussey,ST Finn,4,0,null,4,0,null,null
+234,37.3,AC Voges,DJ Hussey,ST Finn,0,0,null,0,0,null,null
+235,37.4,AC Voges,DJ Hussey,ST Finn,1,0,null,1,0,null,null
+236,37.5,DJ Hussey,AC Voges,ST Finn,0,0,null,0,0,null,null
+237,37.6,DJ Hussey,AC Voges,ST Finn,0,1,wides ,1,0,null,null
+238,37.7,DJ Hussey,AC Voges,ST Finn,1,0,null,1,0,null,null
+239,38.1,DJ Hussey,AC Voges,LJ Wright,0,0,null,0,0,null,null
+240,38.2,DJ Hussey,AC Voges,LJ Wright,0,0,null,0,0,null,null
+241,38.3,DJ Hussey,AC Voges,LJ Wright,1,0,null,1,0,null,null
+242,38.4,AC Voges,DJ Hussey,LJ Wright,0,0,null,0,0,null,null
+243,38.5,AC Voges,DJ Hussey,LJ Wright,1,0,null,1,0,null,null
+244,38.6,DJ Hussey,AC Voges,LJ Wright,1,0,null,1,0,null,null
+245,39.1,DJ Hussey,AC Voges,LE Plunkett,0,0,null,0,1,DJ Hussey,caught
+246,39.2,MG Johnson,AC Voges,LE Plunkett,0,0,null,0,0,null,null
+247,39.3,MG Johnson,AC Voges,LE Plunkett,0,0,null,0,0,null,null
+248,39.4,MG Johnson,AC Voges,LE Plunkett,1,0,null,1,0,null,null
+249,39.5,AC Voges,MG Johnson,LE Plunkett,1,0,null,1,0,null,null
+250,39.6,MG Johnson,AC Voges,LE Plunkett,2,0,null,2,0,null,null
+251,40.1,AC Voges,MG Johnson,LJ Wright,0,0,null,0,0,null,null
+252,40.2,AC Voges,MG Johnson,LJ Wright,0,0,null,0,0,null,null
+253,40.3,AC Voges,MG Johnson,LJ Wright,2,0,null,2,0,null,null
+254,40.4,AC Voges,MG Johnson,LJ Wright,1,0,null,1,0,null,null
+255,40.5,MG Johnson,AC Voges,LJ Wright,0,0,null,0,0,null,null
+256,40.6,MG Johnson,AC Voges,LJ Wright,1,0,null,1,0,null,null
+257,41.1,MG Johnson,AC Voges,LE Plunkett,1,0,null,1,0,null,null
+258,41.2,AC Voges,MG Johnson,LE Plunkett,0,0,null,0,0,null,null
+259,41.3,AC Voges,MG Johnson,LE Plunkett,2,0,null,2,0,null,null
+260,41.4,AC Voges,MG Johnson,LE Plunkett,0,0,null,0,0,null,null
+261,41.5,AC Voges,MG Johnson,LE Plunkett,0,0,null,0,0,null,null
+262,41.6,AC Voges,MG Johnson,LE Plunkett,1,0,null,1,0,null,null
+263,42.1,AC Voges,MG Johnson,JM Anderson,1,0,null,1,0,null,null
+264,42.2,MG Johnson,AC Voges,JM Anderson,0,0,null,0,0,null,null
+265,42.3,MG Johnson,AC Voges,JM Anderson,0,0,null,0,0,null,null
+266,42.4,MG Johnson,AC Voges,JM Anderson,2,0,null,2,0,null,null
+267,42.5,MG Johnson,AC Voges,JM Anderson,1,0,null,1,0,null,null
+268,42.6,AC Voges,MG Johnson,JM Anderson,1,0,null,1,0,null,null
+269,43.1,AC Voges,MG Johnson,MH Yardy,0,0,null,0,0,null,null
+270,43.2,AC Voges,MG Johnson,MH Yardy,1,0,null,1,0,null,null
+271,43.3,MG Johnson,AC Voges,MH Yardy,0,0,null,0,0,null,null
+272,43.4,MG Johnson,AC Voges,MH Yardy,2,0,null,2,0,null,null
+273,43.5,MG Johnson,AC Voges,MH Yardy,1,0,null,1,0,null,null
+274,43.6,AC Voges,MG Johnson,MH Yardy,0,0,null,0,0,null,null
+275,44.1,MG Johnson,AC Voges,JM Anderson,0,0,null,0,0,null,null
+276,44.2,MG Johnson,AC Voges,JM Anderson,4,0,null,4,0,null,null
+277,44.3,MG Johnson,AC Voges,JM Anderson,1,0,null,1,0,null,null
+278,44.4,AC Voges,MG Johnson,JM Anderson,1,0,null,1,0,null,null
+279,44.5,MG Johnson,AC Voges,JM Anderson,2,0,null,2,0,null,null
+280,44.6,MG Johnson,AC Voges,JM Anderson,0,1,legbyes ,1,0,null,null
+281,45.1,MG Johnson,AC Voges,MH Yardy,1,0,null,1,0,null,null
+282,45.2,AC Voges,MG Johnson,MH Yardy,0,1,wides ,1,0,null,null
+283,45.3,AC Voges,MG Johnson,MH Yardy,1,0,null,1,0,null,null
+284,45.4,MG Johnson,AC Voges,MH Yardy,0,1,wides ,1,0,null,null
+285,45.5,MG Johnson,AC Voges,MH Yardy,4,0,null,4,0,null,null
+286,45.6,MG Johnson,AC Voges,MH Yardy,1,0,null,1,0,null,null
+287,45.7,AC Voges,MG Johnson,MH Yardy,0,0,null,0,0,null,null
+288,45.8,AC Voges,MG Johnson,MH Yardy,1,0,null,1,0,null,null
+289,46.1,AC Voges,MG Johnson,JM Anderson,2,0,null,2,0,null,null
+290,46.2,AC Voges,MG Johnson,JM Anderson,1,0,null,1,0,null,null
+291,46.3,MG Johnson,AC Voges,JM Anderson,2,0,null,2,0,null,null
+292,46.4,MG Johnson,AC Voges,JM Anderson,0,0,null,0,0,null,null
+293,46.5,MG Johnson,AC Voges,JM Anderson,0,0,null,0,1,MG Johnson,caught
+294,46.6,AC Voges,JW Hastings,JM Anderson,2,0,null,2,0,null,null
+295,47.1,JW Hastings,AC Voges,ST Finn,0,1,wides ,1,0,null,null
+296,47.2,JW Hastings,AC Voges,ST Finn,1,0,null,1,0,null,null
+297,47.3,AC Voges,JW Hastings,ST Finn,0,1,wides ,1,0,null,null
+298,47.4,AC Voges,JW Hastings,ST Finn,2,0,null,2,0,null,null
+299,47.5,AC Voges,JW Hastings,ST Finn,1,0,null,1,0,null,null
+300,47.6,JW Hastings,AC Voges,ST Finn,4,0,null,4,0,null,null
+301,47.7,JW Hastings,AC Voges,ST Finn,1,0,null,1,0,null,null
+302,47.8,AC Voges,JW Hastings,ST Finn,1,0,null,1,0,null,null
+303,48.1,AC Voges,JW Hastings,JM Anderson,2,0,null,2,0,null,null
+304,48.2,AC Voges,JW Hastings,JM Anderson,2,0,null,2,0,null,null
+305,48.3,AC Voges,JW Hastings,JM Anderson,0,1,wides ,1,0,null,null
+306,48.4,AC Voges,JW Hastings,JM Anderson,1,0,null,1,0,null,null
+307,48.5,JW Hastings,AC Voges,JM Anderson,0,0,null,0,1,JW Hastings,caught
+308,48.6,AC Voges,JJ Krejza,JM Anderson,2,0,null,2,0,null,null
+309,48.7,AC Voges,JJ Krejza,JM Anderson,2,0,null,2,0,null,null
+310,49.1,JJ Krejza,AC Voges,ST Finn,0,1,wides ,1,0,null,null
+311,49.2,JJ Krejza,AC Voges,ST Finn,0,2,wides ,2,0,null,null
+312,49.3,AC Voges,JJ Krejza,ST Finn,2,0,null,2,0,null,null
+313,49.4,AC Voges,JJ Krejza,ST Finn,1,0,null,1,0,null,null
+314,49.5,JJ Krejza,AC Voges,ST Finn,0,0,null,0,0,null,null
+315,49.6,JJ Krejza,AC Voges,ST Finn,2,0,null,2,0,null,null
+316,49.7,JJ Krejza,AC Voges,ST Finn,2,0,null,2,0,null,null
+317,49.8,JJ Krejza,AC Voges,ST Finn,2,0,null,2,0,null,null

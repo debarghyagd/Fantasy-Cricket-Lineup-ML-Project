@@ -1,0 +1,12 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,64922,The Wanderers Stadium,England,MJ Hoggard,Right-arm fast-medium,"[0, 1, 1]",1,2,12,0,0
+1,64922,The Wanderers Stadium,England,D Gough,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+2,64928,Kingsmead,England,Kabir Ali,Right-arm fast-medium,"[0, 1, 1]",1,0,5,0,0
+3,64928,Kingsmead,England,D Gough,Right-arm fast-medium,"[0, 1, 1]",0,2,24,0,0
+4,64932,The Wanderers Stadium,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",0,22,17,4,0
+5,64932,The Wanderers Stadium,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,6,4,0,0
+6,64932,The Wanderers Stadium,Zimbabwe,S Matsikenyeri,Right-arm offbreak,"[1, 1, 0]",0,7,9,0,0
+7,64932,The Wanderers Stadium,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",0,10,22,1,0
+8,64934,Kingsmead,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",1,16,19,3,0
+9,64934,Kingsmead,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",0,2,9,0,0
+10,64936,St George's Park,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",1,4,14,0,0

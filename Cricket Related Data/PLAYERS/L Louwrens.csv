@@ -1,0 +1,12 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1322031,"Cambusdoon New Ground, Ayr",Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",1,12,16,2,0
+1,1322031,"Cambusdoon New Ground, Ayr",Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",0,5,6,1,0
+2,1322031,"Cambusdoon New Ground, Ayr",Nepal,Basir Ahamad,Left-arm orthodox,"[1, 0, 1]",0,1,1,0,0
+3,1322034,"Cambusdoon New Ground, Ayr",Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+4,1322034,"Cambusdoon New Ground, Ayr",Nepal,Basir Ahamad,Left-arm orthodox,"[1, 0, 1]",0,2,3,0,0
+5,1322033,"Titwood, Glasgow",Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,4,17,1,0
+6,1322033,"Titwood, Glasgow",Scotland,GT Main,Right-arm fast,"[0, 1, 0]",0,2,5,0,0
+7,1322033,"Titwood, Glasgow",Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",1,0,1,0,0
+8,1322033,"Titwood, Glasgow",Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",0,7,13,0,0
+9,1302622,Dubai International Cricket Stadium,Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",1,5,12,0,0
+10,1302622,Dubai International Cricket Stadium,Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,2,5,0,0

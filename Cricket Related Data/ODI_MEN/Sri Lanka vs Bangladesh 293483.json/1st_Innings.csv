@@ -1,0 +1,246 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,WU Tharanga,ST Jayasuriya,Syed Rasel,0,0,null,0,0,null,null
+1,0.2,WU Tharanga,ST Jayasuriya,Syed Rasel,0,0,null,0,0,null,null
+2,0.3,WU Tharanga,ST Jayasuriya,Syed Rasel,0,0,null,0,0,null,null
+3,0.4,WU Tharanga,ST Jayasuriya,Syed Rasel,1,0,null,1,0,null,null
+4,0.5,ST Jayasuriya,WU Tharanga,Syed Rasel,0,0,null,0,0,null,null
+5,0.6,ST Jayasuriya,WU Tharanga,Syed Rasel,0,0,null,0,0,null,null
+6,1.1,WU Tharanga,ST Jayasuriya,Shahadat Hossain,0,1,wides ,1,0,null,null
+7,1.2,WU Tharanga,ST Jayasuriya,Shahadat Hossain,0,0,null,0,0,null,null
+8,1.3,WU Tharanga,ST Jayasuriya,Shahadat Hossain,1,0,null,1,0,null,null
+9,1.4,ST Jayasuriya,WU Tharanga,Shahadat Hossain,1,0,null,1,0,null,null
+10,1.5,WU Tharanga,ST Jayasuriya,Shahadat Hossain,0,0,null,0,0,null,null
+11,1.6,WU Tharanga,ST Jayasuriya,Shahadat Hossain,4,0,null,4,0,null,null
+12,1.7,WU Tharanga,ST Jayasuriya,Shahadat Hossain,0,4,legbyes ,4,0,null,null
+13,2.1,ST Jayasuriya,WU Tharanga,Syed Rasel,0,0,null,0,0,null,null
+14,2.2,ST Jayasuriya,WU Tharanga,Syed Rasel,0,0,null,0,0,null,null
+15,2.3,ST Jayasuriya,WU Tharanga,Syed Rasel,3,0,null,3,0,null,null
+16,2.4,WU Tharanga,ST Jayasuriya,Syed Rasel,0,0,null,0,0,null,null
+17,2.5,WU Tharanga,ST Jayasuriya,Syed Rasel,4,0,null,4,0,null,null
+18,2.6,WU Tharanga,ST Jayasuriya,Syed Rasel,4,0,null,4,0,null,null
+19,3.1,ST Jayasuriya,WU Tharanga,Shahadat Hossain,4,0,null,4,0,null,null
+20,3.2,ST Jayasuriya,WU Tharanga,Shahadat Hossain,0,0,null,0,1,ST Jayasuriya,caught
+21,3.3,KC Sangakkara,WU Tharanga,Shahadat Hossain,1,0,null,1,0,null,null
+22,3.4,WU Tharanga,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+23,3.5,WU Tharanga,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+24,3.6,WU Tharanga,KC Sangakkara,Shahadat Hossain,0,1,legbyes ,1,0,null,null
+25,4.1,WU Tharanga,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+26,4.2,WU Tharanga,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+27,4.3,WU Tharanga,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+28,4.4,WU Tharanga,KC Sangakkara,Syed Rasel,0,0,null,0,1,WU Tharanga,lbw
+29,4.5,CK Kapugedera,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+30,4.6,CK Kapugedera,KC Sangakkara,Syed Rasel,1,0,null,1,0,null,null
+31,5.1,CK Kapugedera,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+32,5.2,CK Kapugedera,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+33,5.3,CK Kapugedera,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+34,5.4,CK Kapugedera,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+35,5.5,CK Kapugedera,KC Sangakkara,Shahadat Hossain,1,0,null,1,0,null,null
+36,5.6,KC Sangakkara,CK Kapugedera,Shahadat Hossain,0,0,null,0,0,null,null
+37,6.1,CK Kapugedera,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+38,6.2,CK Kapugedera,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+39,6.3,CK Kapugedera,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+40,6.4,CK Kapugedera,KC Sangakkara,Syed Rasel,2,0,null,2,0,null,null
+41,6.5,CK Kapugedera,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+42,6.6,CK Kapugedera,KC Sangakkara,Syed Rasel,1,0,null,1,0,null,null
+43,7.1,CK Kapugedera,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+44,7.2,CK Kapugedera,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+45,7.3,CK Kapugedera,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+46,7.4,CK Kapugedera,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+47,7.5,CK Kapugedera,KC Sangakkara,Shahadat Hossain,1,0,null,1,0,null,null
+48,7.6,KC Sangakkara,CK Kapugedera,Shahadat Hossain,0,1,noballs ,1,0,null,null
+49,7.7,KC Sangakkara,CK Kapugedera,Shahadat Hossain,0,0,null,0,0,null,null
+50,8.1,CK Kapugedera,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+51,8.2,CK Kapugedera,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+52,8.3,CK Kapugedera,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+53,8.4,CK Kapugedera,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+54,8.5,CK Kapugedera,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+55,8.6,CK Kapugedera,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+56,9.1,KC Sangakkara,CK Kapugedera,Shahadat Hossain,4,0,null,4,0,null,null
+57,9.2,KC Sangakkara,CK Kapugedera,Shahadat Hossain,1,0,null,1,0,null,null
+58,9.3,CK Kapugedera,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+59,9.4,CK Kapugedera,KC Sangakkara,Shahadat Hossain,0,0,null,0,0,null,null
+60,9.5,CK Kapugedera,KC Sangakkara,Shahadat Hossain,0,1,wides ,1,0,null,null
+61,9.6,CK Kapugedera,KC Sangakkara,Shahadat Hossain,1,0,null,1,0,null,null
+62,9.7,KC Sangakkara,CK Kapugedera,Shahadat Hossain,1,0,null,1,0,null,null
+63,10.1,KC Sangakkara,CK Kapugedera,Syed Rasel,0,0,null,0,0,null,null
+64,10.2,KC Sangakkara,CK Kapugedera,Syed Rasel,0,0,null,0,0,null,null
+65,10.3,KC Sangakkara,CK Kapugedera,Syed Rasel,0,0,null,0,0,null,null
+66,10.4,KC Sangakkara,CK Kapugedera,Syed Rasel,0,0,null,0,0,null,null
+67,10.5,KC Sangakkara,CK Kapugedera,Syed Rasel,0,0,null,0,0,null,null
+68,10.6,KC Sangakkara,CK Kapugedera,Syed Rasel,0,0,null,0,0,null,null
+69,11.1,CK Kapugedera,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+70,11.2,CK Kapugedera,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+71,11.3,CK Kapugedera,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+72,11.4,CK Kapugedera,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+73,11.5,CK Kapugedera,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+74,11.6,CK Kapugedera,KC Sangakkara,Farhad Reza,0,0,null,0,1,CK Kapugedera,caught
+75,12.1,KC Sangakkara,J Mubarak,Syed Rasel,0,0,null,0,0,null,null
+76,12.2,KC Sangakkara,J Mubarak,Syed Rasel,0,0,null,0,0,null,null
+77,12.3,KC Sangakkara,J Mubarak,Syed Rasel,0,0,null,0,0,null,null
+78,12.4,KC Sangakkara,J Mubarak,Syed Rasel,0,0,null,0,0,null,null
+79,12.5,KC Sangakkara,J Mubarak,Syed Rasel,0,0,null,0,0,null,null
+80,12.6,KC Sangakkara,J Mubarak,Syed Rasel,2,0,null,2,0,null,null
+81,13.1,J Mubarak,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+82,13.2,J Mubarak,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+83,13.3,J Mubarak,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+84,13.4,J Mubarak,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+85,13.5,J Mubarak,KC Sangakkara,Farhad Reza,1,0,null,1,0,null,null
+86,13.6,KC Sangakkara,J Mubarak,Farhad Reza,0,1,wides ,1,0,null,null
+87,13.7,KC Sangakkara,J Mubarak,Farhad Reza,0,0,null,0,0,null,null
+88,14.1,J Mubarak,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+89,14.2,J Mubarak,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+90,14.3,J Mubarak,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+91,14.4,J Mubarak,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+92,14.5,J Mubarak,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+93,14.6,J Mubarak,KC Sangakkara,Syed Rasel,0,0,null,0,0,null,null
+94,15.1,KC Sangakkara,J Mubarak,Farhad Reza,0,0,null,0,0,null,null
+95,15.2,KC Sangakkara,J Mubarak,Farhad Reza,4,0,null,4,0,null,null
+96,15.3,KC Sangakkara,J Mubarak,Farhad Reza,1,0,null,1,0,null,null
+97,15.4,J Mubarak,KC Sangakkara,Farhad Reza,1,0,null,1,0,null,null
+98,15.5,KC Sangakkara,J Mubarak,Farhad Reza,0,0,null,0,0,null,null
+99,15.6,KC Sangakkara,J Mubarak,Farhad Reza,1,0,null,1,0,null,null
+100,16.1,KC Sangakkara,J Mubarak,Abdur Razzak,0,0,null,0,0,null,null
+101,16.2,KC Sangakkara,J Mubarak,Abdur Razzak,1,0,null,1,0,null,null
+102,16.3,J Mubarak,KC Sangakkara,Abdur Razzak,0,0,null,0,0,null,null
+103,16.4,J Mubarak,KC Sangakkara,Abdur Razzak,0,0,null,0,0,null,null
+104,16.5,J Mubarak,KC Sangakkara,Abdur Razzak,1,0,null,1,0,null,null
+105,16.6,KC Sangakkara,J Mubarak,Abdur Razzak,1,0,null,1,0,null,null
+106,17.1,KC Sangakkara,J Mubarak,Farhad Reza,0,1,byes ,1,0,null,null
+107,17.2,J Mubarak,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+108,17.3,J Mubarak,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+109,17.4,J Mubarak,KC Sangakkara,Farhad Reza,0,0,null,0,0,null,null
+110,17.5,J Mubarak,KC Sangakkara,Farhad Reza,1,0,null,1,0,null,null
+111,17.6,KC Sangakkara,J Mubarak,Farhad Reza,1,0,null,1,0,null,null
+112,18.1,KC Sangakkara,J Mubarak,Abdur Razzak,0,0,null,0,0,null,null
+113,18.2,KC Sangakkara,J Mubarak,Abdur Razzak,0,0,null,0,1,KC Sangakkara,caught
+114,18.3,TM Dilshan,J Mubarak,Abdur Razzak,1,0,null,1,0,null,null
+115,18.4,J Mubarak,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+116,18.5,J Mubarak,TM Dilshan,Abdur Razzak,4,0,null,4,0,null,null
+117,18.6,J Mubarak,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+118,19.1,TM Dilshan,J Mubarak,Farhad Reza,0,0,null,0,0,null,null
+119,19.2,TM Dilshan,J Mubarak,Farhad Reza,0,0,null,0,0,null,null
+120,19.3,TM Dilshan,J Mubarak,Farhad Reza,1,0,null,1,0,null,null
+121,19.4,J Mubarak,TM Dilshan,Farhad Reza,1,0,null,1,0,null,null
+122,19.5,TM Dilshan,J Mubarak,Farhad Reza,1,0,null,1,0,null,null
+123,19.6,J Mubarak,TM Dilshan,Farhad Reza,2,0,null,2,0,null,null
+124,20.1,TM Dilshan,J Mubarak,Abdur Razzak,2,0,null,2,0,null,null
+125,20.2,TM Dilshan,J Mubarak,Abdur Razzak,0,0,null,0,0,null,null
+126,20.3,TM Dilshan,J Mubarak,Abdur Razzak,1,0,null,1,0,null,null
+127,20.4,J Mubarak,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+128,20.5,J Mubarak,TM Dilshan,Abdur Razzak,1,0,null,1,0,null,null
+129,20.6,TM Dilshan,J Mubarak,Abdur Razzak,1,0,null,1,0,null,null
+130,21.1,TM Dilshan,J Mubarak,Farhad Reza,4,0,null,4,0,null,null
+131,21.2,TM Dilshan,J Mubarak,Farhad Reza,1,0,null,1,0,null,null
+132,21.3,J Mubarak,TM Dilshan,Farhad Reza,0,0,null,0,0,null,null
+133,21.4,J Mubarak,TM Dilshan,Farhad Reza,4,0,null,4,0,null,null
+134,21.5,J Mubarak,TM Dilshan,Farhad Reza,2,0,null,2,0,null,null
+135,21.6,J Mubarak,TM Dilshan,Farhad Reza,1,0,null,1,0,null,null
+136,22.1,J Mubarak,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+137,22.2,J Mubarak,TM Dilshan,Abdur Razzak,0,0,null,0,0,null,null
+138,22.3,J Mubarak,TM Dilshan,Abdur Razzak,4,0,null,4,0,null,null
+139,22.4,J Mubarak,TM Dilshan,Abdur Razzak,2,0,null,2,0,null,null
+140,22.5,J Mubarak,TM Dilshan,Abdur Razzak,2,0,null,2,0,null,null
+141,22.6,J Mubarak,TM Dilshan,Abdur Razzak,1,0,null,1,0,null,null
+142,23.1,J Mubarak,TM Dilshan,Shakib Al Hasan,2,0,null,2,0,null,null
+143,23.2,J Mubarak,TM Dilshan,Shakib Al Hasan,0,0,null,0,0,null,null
+144,23.3,J Mubarak,TM Dilshan,Shakib Al Hasan,1,0,null,1,0,null,null
+145,23.4,TM Dilshan,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+146,23.5,J Mubarak,TM Dilshan,Shakib Al Hasan,1,0,null,1,0,null,null
+147,23.6,TM Dilshan,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+148,24.1,TM Dilshan,J Mubarak,Mahmudullah,2,0,null,2,0,null,null
+149,24.2,TM Dilshan,J Mubarak,Mahmudullah,2,0,null,2,0,null,null
+150,24.3,TM Dilshan,J Mubarak,Mahmudullah,1,0,null,1,0,null,null
+151,24.4,J Mubarak,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+152,24.5,TM Dilshan,J Mubarak,Mahmudullah,1,0,null,1,0,null,null
+153,24.6,J Mubarak,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+154,25.1,TM Dilshan,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+155,25.2,J Mubarak,TM Dilshan,Shakib Al Hasan,0,0,null,0,0,null,null
+156,25.3,J Mubarak,TM Dilshan,Shakib Al Hasan,1,0,null,1,0,null,null
+157,25.4,TM Dilshan,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+158,25.5,J Mubarak,TM Dilshan,Shakib Al Hasan,0,0,null,0,0,null,null
+159,25.6,J Mubarak,TM Dilshan,Shakib Al Hasan,0,0,null,0,0,null,null
+160,26.1,TM Dilshan,J Mubarak,Mahmudullah,1,0,null,1,0,null,null
+161,26.2,J Mubarak,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+162,26.3,J Mubarak,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+163,26.4,TM Dilshan,J Mubarak,Mahmudullah,0,0,null,0,0,null,null
+164,26.5,TM Dilshan,J Mubarak,Mahmudullah,3,0,null,3,0,null,null
+165,26.6,J Mubarak,TM Dilshan,Mahmudullah,0,0,null,0,0,null,null
+166,27.1,TM Dilshan,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+167,27.2,J Mubarak,TM Dilshan,Shakib Al Hasan,0,0,null,0,0,null,null
+168,27.3,J Mubarak,TM Dilshan,Shakib Al Hasan,0,0,null,0,0,null,null
+169,27.4,J Mubarak,TM Dilshan,Shakib Al Hasan,1,0,null,1,0,null,null
+170,27.5,TM Dilshan,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+171,27.6,J Mubarak,TM Dilshan,Shakib Al Hasan,0,0,null,0,0,null,null
+172,28.1,TM Dilshan,J Mubarak,Mahmudullah,1,0,null,1,0,null,null
+173,28.2,J Mubarak,TM Dilshan,Mahmudullah,1,0,null,1,0,null,null
+174,28.3,TM Dilshan,J Mubarak,Mahmudullah,2,0,null,2,0,null,null
+175,28.4,TM Dilshan,J Mubarak,Mahmudullah,0,0,null,0,0,null,null
+176,28.5,TM Dilshan,J Mubarak,Mahmudullah,2,0,null,2,0,null,null
+177,28.6,TM Dilshan,J Mubarak,Mahmudullah,0,0,null,0,0,null,null
+178,29.1,J Mubarak,TM Dilshan,Shakib Al Hasan,0,0,null,0,0,null,null
+179,29.2,J Mubarak,TM Dilshan,Shakib Al Hasan,4,0,null,4,0,null,null
+180,29.3,J Mubarak,TM Dilshan,Shakib Al Hasan,1,0,null,1,0,null,null
+181,29.4,TM Dilshan,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+182,29.5,J Mubarak,TM Dilshan,Shakib Al Hasan,1,0,null,1,0,null,null
+183,29.6,TM Dilshan,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+184,30.1,TM Dilshan,J Mubarak,Mahmudullah,0,0,null,0,0,null,null
+185,30.2,TM Dilshan,J Mubarak,Mahmudullah,4,0,null,4,0,null,null
+186,30.3,TM Dilshan,J Mubarak,Mahmudullah,0,0,null,0,1,TM Dilshan,bowled
+187,30.4,DPMD Jayawardene,J Mubarak,Mahmudullah,1,0,null,1,0,null,null
+188,30.5,J Mubarak,DPMD Jayawardene,Mahmudullah,0,0,null,0,0,null,null
+189,30.6,J Mubarak,DPMD Jayawardene,Mahmudullah,0,0,null,0,0,null,null
+190,31.1,DPMD Jayawardene,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+191,31.2,J Mubarak,DPMD Jayawardene,Shakib Al Hasan,1,0,null,1,0,null,null
+192,31.3,DPMD Jayawardene,J Mubarak,Shakib Al Hasan,0,0,null,0,0,null,null
+193,31.4,DPMD Jayawardene,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+194,31.5,J Mubarak,DPMD Jayawardene,Shakib Al Hasan,1,0,null,1,0,null,null
+195,31.6,DPMD Jayawardene,J Mubarak,Shakib Al Hasan,0,0,null,0,0,null,null
+196,32.1,J Mubarak,DPMD Jayawardene,Abdur Razzak,1,0,null,1,0,null,null
+197,32.2,DPMD Jayawardene,J Mubarak,Abdur Razzak,0,0,null,0,0,null,null
+198,32.3,DPMD Jayawardene,J Mubarak,Abdur Razzak,2,0,null,2,0,null,null
+199,32.4,DPMD Jayawardene,J Mubarak,Abdur Razzak,4,0,null,4,0,null,null
+200,32.5,DPMD Jayawardene,J Mubarak,Abdur Razzak,4,0,null,4,0,null,null
+201,32.6,DPMD Jayawardene,J Mubarak,Abdur Razzak,1,0,null,1,0,null,null
+202,33.1,DPMD Jayawardene,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+203,33.2,J Mubarak,DPMD Jayawardene,Shakib Al Hasan,1,0,null,1,0,null,null
+204,33.3,DPMD Jayawardene,J Mubarak,Shakib Al Hasan,1,0,null,1,0,null,null
+205,33.4,J Mubarak,DPMD Jayawardene,Shakib Al Hasan,1,0,null,1,0,null,null
+206,33.5,DPMD Jayawardene,J Mubarak,Shakib Al Hasan,3,0,null,3,0,null,null
+207,33.6,J Mubarak,DPMD Jayawardene,Shakib Al Hasan,2,0,null,2,0,null,null
+208,34.1,DPMD Jayawardene,J Mubarak,Abdur Razzak,0,0,null,0,0,null,null
+209,34.2,DPMD Jayawardene,J Mubarak,Abdur Razzak,1,0,null,1,0,null,null
+210,34.3,J Mubarak,DPMD Jayawardene,Abdur Razzak,0,0,null,0,0,null,null
+211,34.4,J Mubarak,DPMD Jayawardene,Abdur Razzak,0,0,null,0,0,null,null
+212,34.5,J Mubarak,DPMD Jayawardene,Abdur Razzak,2,0,null,2,0,null,null
+213,34.6,J Mubarak,DPMD Jayawardene,Abdur Razzak,1,0,null,1,0,null,null
+214,35.1,J Mubarak,DPMD Jayawardene,Shakib Al Hasan,0,1,wides ,1,0,null,null
+215,35.2,J Mubarak,DPMD Jayawardene,Shakib Al Hasan,1,0,null,1,0,null,null
+216,35.3,DPMD Jayawardene,J Mubarak,Shakib Al Hasan,0,0,null,0,1,DPMD Jayawardene,caught
+217,35.4,J Mubarak,MF Maharoof,Shakib Al Hasan,1,0,null,1,0,null,null
+218,35.5,MF Maharoof,J Mubarak,Shakib Al Hasan,0,0,null,0,0,null,null
+219,35.6,MF Maharoof,J Mubarak,Shakib Al Hasan,0,0,null,0,0,null,null
+220,35.7,MF Maharoof,J Mubarak,Shakib Al Hasan,0,0,null,0,0,null,null
+221,36.1,J Mubarak,MF Maharoof,Abdur Razzak,4,0,null,4,0,null,null
+222,36.2,J Mubarak,MF Maharoof,Abdur Razzak,0,0,null,0,0,null,null
+223,36.3,J Mubarak,MF Maharoof,Abdur Razzak,1,0,null,1,0,null,null
+224,36.4,MF Maharoof,J Mubarak,Abdur Razzak,1,0,null,1,0,null,null
+225,36.5,J Mubarak,MF Maharoof,Abdur Razzak,1,0,null,1,0,null,null
+226,36.6,MF Maharoof,J Mubarak,Abdur Razzak,0,0,null,0,1,MF Maharoof,lbw
+227,37.1,J Mubarak,UDU Chandana,Shakib Al Hasan,4,0,null,4,0,null,null
+228,37.2,J Mubarak,UDU Chandana,Shakib Al Hasan,2,0,null,2,0,null,null
+229,37.3,J Mubarak,UDU Chandana,Shakib Al Hasan,1,0,null,1,0,null,null
+230,37.4,UDU Chandana,J Mubarak,Shakib Al Hasan,0,0,null,0,0,null,null
+231,37.5,UDU Chandana,J Mubarak,Shakib Al Hasan,0,0,null,0,0,null,null
+232,37.6,UDU Chandana,J Mubarak,Shakib Al Hasan,0,0,null,0,0,null,null
+233,38.1,J Mubarak,UDU Chandana,Mahmudullah,1,0,null,1,0,null,null
+234,38.2,UDU Chandana,J Mubarak,Mahmudullah,1,0,null,1,0,null,null
+235,38.3,J Mubarak,UDU Chandana,Mahmudullah,3,0,null,3,0,null,null
+236,38.4,UDU Chandana,J Mubarak,Mahmudullah,0,0,null,0,0,null,null
+237,38.5,UDU Chandana,J Mubarak,Mahmudullah,0,0,null,0,1,UDU Chandana,caught
+238,38.6,J Mubarak,KMDN Kulasekara,Mahmudullah,0,0,null,0,0,null,null
+239,39.1,KMDN Kulasekara,J Mubarak,Abdur Razzak,0,0,null,0,1,J Mubarak,run out
+240,39.2,CRD Fernando,KMDN Kulasekara,Abdur Razzak,0,1,wides ,1,0,null,null
+241,39.3,CRD Fernando,KMDN Kulasekara,Abdur Razzak,0,0,null,0,0,null,null
+242,39.4,CRD Fernando,KMDN Kulasekara,Abdur Razzak,0,3,legbyes ,3,0,null,null
+243,39.5,KMDN Kulasekara,CRD Fernando,Abdur Razzak,1,0,null,1,0,null,null
+244,39.6,CRD Fernando,KMDN Kulasekara,Abdur Razzak,0,0,null,0,1,CRD Fernando,bowled

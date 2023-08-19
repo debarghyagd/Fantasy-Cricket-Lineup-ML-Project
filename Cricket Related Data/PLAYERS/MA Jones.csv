@@ -1,0 +1,34 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1131277,ICC Academy,Ireland,PKD Chase,Right-arm fast-medium,"[0, 1, 1]",0,20,23,1,1
+1,1131277,ICC Academy,Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,7,15,0,0
+2,1131277,ICC Academy,Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,17,21,1,0
+3,1131277,ICC Academy,Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",0,9,12,1,0
+4,1131277,ICC Academy,Ireland,Simi Singh,Right-arm offbreak,"[1, 1, 0]",0,7,10,0,0
+5,1131276,ICC Academy,Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,16,32,0,0
+6,1131276,ICC Academy,Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,20,31,3,0
+7,1131276,ICC Academy,Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",1,18,21,3,0
+8,1131276,ICC Academy,Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,13,22,0,0
+9,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,10,16,2,0
+10,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,JA Duffy,Right-arm fast-medium,"[0, 1, 1]",0,8,12,1,0
+11,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,BM Tickner,Right-arm fast-medium,"[0, 1, 1]",0,7,8,1,0
+12,1131278,ICC Academy,United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",0,9,9,1,0
+13,1131279,ICC Academy,United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",1,3,3,0,0
+14,1322039,"Mannofield Park, Aberdeen",United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",0,1,7,0,0
+15,1322039,"Mannofield Park, Aberdeen",United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",0,1,9,0,0
+16,1206060,Sharjah Cricket Stadium,United States of America,J Theron,Right-arm fast-medium,"[0, 1, 1]",0,10,8,2,0
+17,1206060,Sharjah Cricket Stadium,United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,13,24,2,0
+18,1206060,Sharjah Cricket Stadium,United States of America,K Gore,Left-arm orthodox,"[1, 0, 1]",0,8,17,1,0
+19,1206060,Sharjah Cricket Stadium,United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",0,13,12,2,0
+20,1206063,ICC Academy,United States of America,J Theron,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+21,1206063,ICC Academy,United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,6,13,1,0
+22,1206063,ICC Academy,United States of America,IG Holland,Right-arm fast-medium,"[0, 1, 1]",0,5,10,0,0
+23,1206063,ICC Academy,United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",1,11,11,0,1
+24,1322041,"Mannofield Park, Aberdeen",United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,2,5,0,0
+25,1322041,"Mannofield Park, Aberdeen",United States of America,IG Holland,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+26,1206064,ICC Academy,United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",1,2,5,0,0
+27,1206064,ICC Academy,United Arab Emirates,DDP D'Silva,Left-arm orthodox,"[1, 0, 1]",0,1,4,0,0
+28,1322038,"Mannofield Park, Aberdeen",United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,2,8,0,0
+29,1322038,"Mannofield Park, Aberdeen",United States of America,NK Patel,Left-arm orthodox,"[1, 0, 1]",0,7,6,1,0
+30,1322038,"Mannofield Park, Aberdeen",United States of America,IG Holland,Right-arm fast-medium,"[0, 1, 1]",0,2,5,0,0
+31,1322038,"Mannofield Park, Aberdeen",United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+32,1133028,Harare Sports Club,West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",1,8,10,1,0

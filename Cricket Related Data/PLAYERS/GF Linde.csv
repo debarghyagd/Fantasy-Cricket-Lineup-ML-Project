@@ -1,0 +1,5 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1271628,"R Premadasa Stadium, Colombo",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,9,6,1,0
+1,1271629,"R Premadasa Stadium, Colombo",Sri Lanka,M Theekshana,Right-arm offbreak,"[1, 1, 0]",0,7,11,1,0
+2,1271629,"R Premadasa Stadium, Colombo",Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,4,7,0,0
+3,1271629,"R Premadasa Stadium, Colombo",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",1,6,6,1,0

@@ -1,0 +1,38 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,727923,Sheikh Zayed Stadium,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,3,5,0,0
+1,727923,Sheikh Zayed Stadium,Australia,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+2,727923,Sheikh Zayed Stadium,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",1,4,14,0,0
+3,455235,Rangiri Dambulla International Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",1,5,9,0,0
+4,455235,Rangiri Dambulla International Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,16,10,3,0
+5,455234,Rangiri Dambulla International Stadium,India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",1,1,3,0,0
+6,455234,Rangiri Dambulla International Stadium,India,Z Khan,Left-arm fast-medium,"[0, 0, 1]",0,1,2,0,0
+7,578623,Edgbaston,India,I Sharma,Right-arm fast-medium,"[0, 1, 1]",0,13,13,1,0
+8,578623,Edgbaston,India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,6,5,1,0
+9,1115806,Basin Reserve,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+10,1115806,Basin Reserve,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+11,578618,Edgbaston,South Africa,AM Phangiso,Left-arm orthodox,"[1, 0, 1]",0,5,4,0,0
+12,578618,Edgbaston,South Africa,JP Duminy,Right-arm offbreak,"[1, 1, 0]",0,3,10,0,0
+13,578618,Edgbaston,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,0,4,0,0
+14,649091,Sharjah Cricket Stadium,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",0,1,3,0,0
+15,649091,Sharjah Cricket Stadium,South Africa,Imran Tahir,Right-arm legbreak,"[1, 1, 1]",0,0,6,0,0
+16,649091,Sharjah Cricket Stadium,South Africa,JP Duminy,Right-arm offbreak,"[1, 1, 0]",0,5,2,1,0
+17,649091,Sharjah Cricket Stadium,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",1,5,7,1,0
+18,649093,Dubai International Cricket Stadium,South Africa,JP Duminy,Right-arm offbreak,"[1, 1, 0]",0,0,5,0,0
+19,649093,Dubai International Cricket Stadium,South Africa,Imran Tahir,Right-arm legbreak,"[1, 1, 1]",0,4,5,0,0
+20,649095,Sheikh Zayed Stadium,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",1,0,7,0,0
+21,649095,Sheikh Zayed Stadium,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,3,13,0,0
+22,649095,Sheikh Zayed Stadium,South Africa,Imran Tahir,Right-arm legbreak,"[1, 1, 1]",0,9,7,2,0
+23,649099,Sharjah Cricket Stadium,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,1,5,0,0
+24,601077,"Grange Cricket Club Ground, Raeburn Place",Scotland,RML Taylor,Right-arm fast,"[0, 1, 0]",0,1,3,0,0
+25,601077,"Grange Cricket Club Ground, Raeburn Place",Scotland,MW Machan,Right-arm offbreak,"[1, 1, 0]",0,1,1,0,0
+26,685735,SuperSport Park,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,9,19,2,0
+27,455231,Rangiri Dambulla International Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,5,13,0,0
+28,659549,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+29,659551,Harare Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,6,12,0,0
+30,659551,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",1,13,14,1,1
+31,659551,Harare Sports Club,Zimbabwe,H Masakadza,Right-arm medium,"[0, 1, 2]",0,4,10,0,0
+32,659551,Harare Sports Club,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",0,9,6,1,0
+33,659553,Harare Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,2,2,0,0
+34,659553,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,9,4,2,0
+35,659553,Harare Sports Club,Zimbabwe,H Masakadza,Right-arm medium,"[0, 1, 2]",0,2,3,0,0
+36,659553,Harare Sports Club,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",0,3,4,0,0

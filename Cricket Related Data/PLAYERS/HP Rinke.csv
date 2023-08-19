@@ -1,0 +1,14 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,259793,Buffalo Park,South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",0,2,2,0,0
+1,239907,"Antigua Recreation Ground, St John's",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,0,4,0,0
+2,239907,"Antigua Recreation Ground, St John's",West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,1,1,0,0
+3,239908,"Antigua Recreation Ground, St John's",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,4,11,1,0
+4,239908,"Antigua Recreation Ground, St John's",West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,2,4,0,0
+5,239911,"Beausejour Stadium, Gros Islet",West Indies,CD Collymore,Right-arm fast-medium,"[0, 1, 1]",0,0,3,0,0
+6,239911,"Beausejour Stadium, Gros Islet",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,0,2,0,0
+7,239912,"Queen's Park Oval, Port of Spain",West Indies,CD Collymore,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+8,239912,"Queen's Park Oval, Port of Spain",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,3,2,0,0
+9,239913,"Queen's Park Oval, Port of Spain",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,6,9,1,0
+10,239913,"Queen's Park Oval, Port of Spain",West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,6,7,1,0
+11,249740,"Sardar Patel Stadium, Motera",West Indies,DR Smith,Right-arm medium,"[0, 1, 2]",0,1,3,0,0
+12,249740,"Sardar Patel Stadium, Motera",West Indies,IDR Bradshaw,Left-arm fast-medium,"[0, 0, 1]",1,0,2,0,0

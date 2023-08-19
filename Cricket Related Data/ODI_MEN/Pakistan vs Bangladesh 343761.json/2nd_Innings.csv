@@ -1,0 +1,311 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,0,1,wides ,1,0,null,null
+1,0.2,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,0,1,wides ,1,0,null,null
+2,0.3,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,0,0,null,0,0,null,null
+3,0.4,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,0,0,null,0,0,null,null
+4,0.5,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,0,0,null,0,0,null,null
+5,0.6,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,4,0,null,4,0,null,null
+6,0.7,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,1,0,null,1,0,null,null
+7,0.8,Shahriar Nafees,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+8,1.1,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+9,1.2,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+10,1.3,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+11,1.4,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+12,1.5,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+13,1.6,Tamim Iqbal,Shahriar Nafees,Sohail Khan,1,0,null,1,0,null,null
+14,2.1,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,0,0,null,0,0,null,null
+15,2.2,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,0,0,null,0,0,null,null
+16,2.3,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,0,0,null,0,0,null,null
+17,2.4,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,1,0,null,1,0,null,null
+18,2.5,Shahriar Nafees,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+19,2.6,Shahriar Nafees,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+20,3.1,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+21,3.2,Tamim Iqbal,Shahriar Nafees,Sohail Khan,4,0,null,4,0,null,null
+22,3.3,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+23,3.4,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+24,3.5,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+25,3.6,Tamim Iqbal,Shahriar Nafees,Sohail Khan,1,0,null,1,0,null,null
+26,4.1,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,0,0,null,0,0,null,null
+27,4.2,Tamim Iqbal,Shahriar Nafees,Sohail Tanvir,1,0,null,1,0,null,null
+28,4.3,Shahriar Nafees,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+29,4.4,Shahriar Nafees,Tamim Iqbal,Sohail Tanvir,0,1,wides ,1,0,null,null
+30,4.5,Shahriar Nafees,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+31,4.6,Shahriar Nafees,Tamim Iqbal,Sohail Tanvir,0,1,wides ,1,0,null,null
+32,4.7,Shahriar Nafees,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+33,4.8,Shahriar Nafees,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+34,5.1,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+35,5.2,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+36,5.3,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+37,5.4,Tamim Iqbal,Shahriar Nafees,Sohail Khan,0,0,null,0,0,null,null
+38,5.5,Tamim Iqbal,Shahriar Nafees,Sohail Khan,2,0,null,2,0,null,null
+39,5.6,Tamim Iqbal,Shahriar Nafees,Sohail Khan,4,0,null,4,0,null,null
+40,6.1,Shahriar Nafees,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+41,6.2,Shahriar Nafees,Tamim Iqbal,Sohail Tanvir,0,0,null,0,1,Shahriar Nafees,caught
+42,6.3,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,0,1,legbyes ,1,0,null,null
+43,6.4,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,0,0,null,0,0,null,null
+44,6.5,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,0,0,null,0,0,null,null
+45,6.6,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,0,0,null,0,0,null,null
+46,7.1,Aftab Ahmed,Tamim Iqbal,Sohail Khan,0,0,null,0,0,null,null
+47,7.2,Aftab Ahmed,Tamim Iqbal,Sohail Khan,0,0,null,0,0,null,null
+48,7.3,Aftab Ahmed,Tamim Iqbal,Sohail Khan,0,0,null,0,0,null,null
+49,7.4,Aftab Ahmed,Tamim Iqbal,Sohail Khan,1,0,null,1,0,null,null
+50,7.5,Tamim Iqbal,Aftab Ahmed,Sohail Khan,0,0,null,0,0,null,null
+51,7.6,Tamim Iqbal,Aftab Ahmed,Sohail Khan,0,0,null,0,0,null,null
+52,8.1,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,2,0,null,2,0,null,null
+53,8.2,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+54,8.3,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,1,0,null,1,0,null,null
+55,8.4,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,4,0,null,4,0,null,null
+56,8.5,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,0,0,null,0,0,null,null
+57,8.6,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,0,0,null,0,0,null,null
+58,9.1,Aftab Ahmed,Tamim Iqbal,Sohail Khan,0,1,noballs ,1,0,null,null
+59,9.2,Aftab Ahmed,Tamim Iqbal,Sohail Khan,0,1,byes ,1,0,null,null
+60,9.3,Tamim Iqbal,Aftab Ahmed,Sohail Khan,0,4,byes ,4,0,null,null
+61,9.4,Tamim Iqbal,Aftab Ahmed,Sohail Khan,2,0,null,2,0,null,null
+62,9.5,Tamim Iqbal,Aftab Ahmed,Sohail Khan,1,0,null,1,0,null,null
+63,9.6,Aftab Ahmed,Tamim Iqbal,Sohail Khan,1,0,null,1,0,null,null
+64,9.7,Tamim Iqbal,Aftab Ahmed,Sohail Khan,2,0,null,2,0,null,null
+65,10.1,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,4,0,null,4,0,null,null
+66,10.2,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,0,1,legbyes ,1,0,null,null
+67,10.3,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,4,0,null,4,0,null,null
+68,10.4,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,3,0,null,3,0,null,null
+69,10.5,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+70,10.6,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,0,1,noballs ,1,0,null,null
+71,10.7,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+72,11.1,Tamim Iqbal,Aftab Ahmed,Iftikhar Anjum,0,0,null,0,0,null,null
+73,11.2,Tamim Iqbal,Aftab Ahmed,Iftikhar Anjum,0,0,null,0,0,null,null
+74,11.3,Tamim Iqbal,Aftab Ahmed,Iftikhar Anjum,3,0,null,3,0,null,null
+75,11.4,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,0,0,null,0,0,null,null
+76,11.5,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,0,0,null,0,0,null,null
+77,11.6,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,0,0,null,0,0,null,null
+78,12.1,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,4,0,null,4,0,null,null
+79,12.2,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,4,0,null,4,0,null,null
+80,12.3,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,1,0,null,1,0,null,null
+81,12.4,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+82,12.5,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,1,0,null,1,0,null,null
+83,12.6,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,1,0,null,1,0,null,null
+84,13.1,Tamim Iqbal,Aftab Ahmed,Iftikhar Anjum,1,0,null,1,0,null,null
+85,13.2,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,4,0,null,4,0,null,null
+86,13.3,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,0,0,null,0,0,null,null
+87,13.4,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,4,0,null,4,0,null,null
+88,13.5,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,0,0,null,0,0,null,null
+89,13.6,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,0,0,null,0,0,null,null
+90,14.1,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,2,0,null,2,0,null,null
+91,14.2,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,1,0,null,1,0,null,null
+92,14.3,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,4,0,null,4,0,null,null
+93,14.4,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,0,0,null,0,0,null,null
+94,14.5,Aftab Ahmed,Tamim Iqbal,Sohail Tanvir,1,0,null,1,0,null,null
+95,14.6,Tamim Iqbal,Aftab Ahmed,Sohail Tanvir,1,0,null,1,0,null,null
+96,15.1,Tamim Iqbal,Aftab Ahmed,Shahid Afridi,4,0,null,4,0,null,null
+97,15.2,Tamim Iqbal,Aftab Ahmed,Shahid Afridi,0,0,null,0,0,null,null
+98,15.3,Tamim Iqbal,Aftab Ahmed,Shahid Afridi,1,0,null,1,0,null,null
+99,15.4,Aftab Ahmed,Tamim Iqbal,Shahid Afridi,4,0,null,4,0,null,null
+100,15.5,Aftab Ahmed,Tamim Iqbal,Shahid Afridi,0,0,null,0,0,null,null
+101,15.6,Aftab Ahmed,Tamim Iqbal,Shahid Afridi,0,0,null,0,0,null,null
+102,16.1,Tamim Iqbal,Aftab Ahmed,Iftikhar Anjum,0,0,null,0,0,null,null
+103,16.2,Tamim Iqbal,Aftab Ahmed,Iftikhar Anjum,1,0,null,1,0,null,null
+104,16.3,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,0,0,null,0,0,null,null
+105,16.4,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,0,2,wides ,2,0,null,null
+106,16.5,Tamim Iqbal,Aftab Ahmed,Iftikhar Anjum,0,0,null,0,0,null,null
+107,16.6,Tamim Iqbal,Aftab Ahmed,Iftikhar Anjum,0,0,null,0,0,null,null
+108,16.7,Tamim Iqbal,Aftab Ahmed,Iftikhar Anjum,1,0,null,1,0,null,null
+109,17.1,Tamim Iqbal,Aftab Ahmed,Shahid Afridi,0,0,null,0,0,null,null
+110,17.2,Tamim Iqbal,Aftab Ahmed,Shahid Afridi,0,0,null,0,0,null,null
+111,17.3,Tamim Iqbal,Aftab Ahmed,Shahid Afridi,0,0,null,0,0,null,null
+112,17.4,Tamim Iqbal,Aftab Ahmed,Shahid Afridi,1,0,null,1,0,null,null
+113,17.5,Aftab Ahmed,Tamim Iqbal,Shahid Afridi,0,0,null,0,0,null,null
+114,17.6,Aftab Ahmed,Tamim Iqbal,Shahid Afridi,1,0,null,1,0,null,null
+115,18.1,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,2,0,null,2,0,null,null
+116,18.2,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,1,0,null,1,0,null,null
+117,18.3,Tamim Iqbal,Aftab Ahmed,Iftikhar Anjum,0,0,null,0,0,null,null
+118,18.4,Tamim Iqbal,Aftab Ahmed,Iftikhar Anjum,1,0,null,1,0,null,null
+119,18.5,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,0,0,null,0,0,null,null
+120,18.6,Aftab Ahmed,Tamim Iqbal,Iftikhar Anjum,2,0,null,2,0,null,null
+121,19.1,Tamim Iqbal,Aftab Ahmed,Shahid Afridi,1,0,null,1,0,null,null
+122,19.2,Aftab Ahmed,Tamim Iqbal,Shahid Afridi,2,0,null,2,1,Tamim Iqbal,run out
+123,19.3,Mohammad Ashraful,Aftab Ahmed,Shahid Afridi,0,0,null,0,0,null,null
+124,19.4,Mohammad Ashraful,Aftab Ahmed,Shahid Afridi,1,0,null,1,0,null,null
+125,19.5,Aftab Ahmed,Mohammad Ashraful,Shahid Afridi,1,0,null,1,0,null,null
+126,19.6,Mohammad Ashraful,Aftab Ahmed,Shahid Afridi,1,0,null,1,0,null,null
+127,20.1,Mohammad Ashraful,Aftab Ahmed,Shoaib Malik,0,0,null,0,0,null,null
+128,20.2,Mohammad Ashraful,Aftab Ahmed,Shoaib Malik,0,0,null,0,0,null,null
+129,20.3,Mohammad Ashraful,Aftab Ahmed,Shoaib Malik,0,0,null,0,0,null,null
+130,20.4,Mohammad Ashraful,Aftab Ahmed,Shoaib Malik,1,0,null,1,0,null,null
+131,20.5,Aftab Ahmed,Mohammad Ashraful,Shoaib Malik,2,0,null,2,0,null,null
+132,20.6,Aftab Ahmed,Mohammad Ashraful,Shoaib Malik,0,0,null,0,0,null,null
+133,21.1,Mohammad Ashraful,Aftab Ahmed,Shahid Afridi,1,0,null,1,0,null,null
+134,21.2,Aftab Ahmed,Mohammad Ashraful,Shahid Afridi,1,0,null,1,0,null,null
+135,21.3,Mohammad Ashraful,Aftab Ahmed,Shahid Afridi,1,0,null,1,0,null,null
+136,21.4,Aftab Ahmed,Mohammad Ashraful,Shahid Afridi,2,0,null,2,0,null,null
+137,21.5,Aftab Ahmed,Mohammad Ashraful,Shahid Afridi,0,0,null,0,0,null,null
+138,21.6,Aftab Ahmed,Mohammad Ashraful,Shahid Afridi,1,0,null,1,0,null,null
+139,22.1,Aftab Ahmed,Mohammad Ashraful,Shoaib Malik,0,0,null,0,0,null,null
+140,22.2,Aftab Ahmed,Mohammad Ashraful,Shoaib Malik,0,0,null,0,1,Aftab Ahmed,caught
+141,22.3,Shakib Al Hasan,Mohammad Ashraful,Shoaib Malik,1,0,null,1,0,null,null
+142,22.4,Mohammad Ashraful,Shakib Al Hasan,Shoaib Malik,2,0,null,2,0,null,null
+143,22.5,Mohammad Ashraful,Shakib Al Hasan,Shoaib Malik,1,0,null,1,0,null,null
+144,22.6,Shakib Al Hasan,Mohammad Ashraful,Shoaib Malik,1,0,null,1,0,null,null
+145,23.1,Shakib Al Hasan,Mohammad Ashraful,Shahid Afridi,1,0,null,1,0,null,null
+146,23.2,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+147,23.3,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+148,23.4,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+149,23.5,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+150,23.6,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+151,24.1,Shakib Al Hasan,Mohammad Ashraful,Shoaib Malik,0,0,null,0,0,null,null
+152,24.2,Shakib Al Hasan,Mohammad Ashraful,Shoaib Malik,4,0,null,4,0,null,null
+153,24.3,Shakib Al Hasan,Mohammad Ashraful,Shoaib Malik,1,0,null,1,0,null,null
+154,24.4,Mohammad Ashraful,Shakib Al Hasan,Shoaib Malik,2,0,null,2,0,null,null
+155,24.5,Mohammad Ashraful,Shakib Al Hasan,Shoaib Malik,1,0,null,1,0,null,null
+156,24.6,Shakib Al Hasan,Mohammad Ashraful,Shoaib Malik,0,0,null,0,0,null,null
+157,25.1,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+158,25.2,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+159,25.3,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+160,25.4,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,1,0,null,1,0,null,null
+161,25.5,Shakib Al Hasan,Mohammad Ashraful,Shahid Afridi,1,0,null,1,0,null,null
+162,25.6,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,1,0,null,1,0,null,null
+163,26.1,Mohammad Ashraful,Shakib Al Hasan,Shoaib Malik,1,0,null,1,0,null,null
+164,26.2,Shakib Al Hasan,Mohammad Ashraful,Shoaib Malik,2,0,null,2,0,null,null
+165,26.3,Shakib Al Hasan,Mohammad Ashraful,Shoaib Malik,0,0,null,0,0,null,null
+166,26.4,Shakib Al Hasan,Mohammad Ashraful,Shoaib Malik,0,0,null,0,0,null,null
+167,26.5,Shakib Al Hasan,Mohammad Ashraful,Shoaib Malik,0,0,null,0,0,null,null
+168,26.6,Shakib Al Hasan,Mohammad Ashraful,Shoaib Malik,4,0,null,4,0,null,null
+169,27.1,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,1,0,null,1,0,null,null
+170,27.2,Shakib Al Hasan,Mohammad Ashraful,Shahid Afridi,1,0,null,1,0,null,null
+171,27.3,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,1,0,null,1,0,null,null
+172,27.4,Shakib Al Hasan,Mohammad Ashraful,Shahid Afridi,1,0,null,1,0,null,null
+173,27.5,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+174,27.6,Mohammad Ashraful,Shakib Al Hasan,Shahid Afridi,0,0,null,0,1,Mohammad Ashraful,run out
+175,28.1,Shakib Al Hasan,Mahmudullah,Shoaib Malik,1,0,null,1,0,null,null
+176,28.2,Mahmudullah,Shakib Al Hasan,Shoaib Malik,1,0,null,1,0,null,null
+177,28.3,Shakib Al Hasan,Mahmudullah,Shoaib Malik,1,0,null,1,0,null,null
+178,28.4,Mahmudullah,Shakib Al Hasan,Shoaib Malik,0,0,null,0,0,null,null
+179,28.5,Mahmudullah,Shakib Al Hasan,Shoaib Malik,1,0,null,1,0,null,null
+180,28.6,Shakib Al Hasan,Mahmudullah,Shoaib Malik,1,0,null,1,0,null,null
+181,29.1,Shakib Al Hasan,Mahmudullah,Shahid Afridi,0,0,null,0,0,null,null
+182,29.2,Shakib Al Hasan,Mahmudullah,Shahid Afridi,0,0,null,0,0,null,null
+183,29.3,Shakib Al Hasan,Mahmudullah,Shahid Afridi,0,0,null,0,0,null,null
+184,29.4,Shakib Al Hasan,Mahmudullah,Shahid Afridi,0,0,null,0,0,null,null
+185,29.5,Shakib Al Hasan,Mahmudullah,Shahid Afridi,2,0,null,2,0,null,null
+186,29.6,Shakib Al Hasan,Mahmudullah,Shahid Afridi,1,0,null,1,0,null,null
+187,30.1,Shakib Al Hasan,Mahmudullah,Shoaib Malik,1,0,null,1,0,null,null
+188,30.2,Mahmudullah,Shakib Al Hasan,Shoaib Malik,1,0,null,1,0,null,null
+189,30.3,Shakib Al Hasan,Mahmudullah,Shoaib Malik,2,0,null,2,0,null,null
+190,30.4,Shakib Al Hasan,Mahmudullah,Shoaib Malik,1,0,null,1,0,null,null
+191,30.5,Mahmudullah,Shakib Al Hasan,Shoaib Malik,0,0,null,0,0,null,null
+192,30.6,Mahmudullah,Shakib Al Hasan,Shoaib Malik,2,0,null,2,0,null,null
+193,31.1,Shakib Al Hasan,Mahmudullah,Fawad Alam,1,0,null,1,0,null,null
+194,31.2,Mahmudullah,Shakib Al Hasan,Fawad Alam,0,0,null,0,0,null,null
+195,31.3,Mahmudullah,Shakib Al Hasan,Fawad Alam,1,0,null,1,0,null,null
+196,31.4,Shakib Al Hasan,Mahmudullah,Fawad Alam,1,0,null,1,0,null,null
+197,31.5,Mahmudullah,Shakib Al Hasan,Fawad Alam,0,0,null,0,0,null,null
+198,31.6,Mahmudullah,Shakib Al Hasan,Fawad Alam,0,0,null,0,0,null,null
+199,32.1,Shakib Al Hasan,Mahmudullah,Shoaib Malik,0,0,null,0,0,null,null
+200,32.2,Shakib Al Hasan,Mahmudullah,Shoaib Malik,0,0,null,0,0,null,null
+201,32.3,Shakib Al Hasan,Mahmudullah,Shoaib Malik,1,0,null,1,0,null,null
+202,32.4,Mahmudullah,Shakib Al Hasan,Shoaib Malik,0,0,null,0,0,null,null
+203,32.5,Mahmudullah,Shakib Al Hasan,Shoaib Malik,1,0,null,1,0,null,null
+204,32.6,Shakib Al Hasan,Mahmudullah,Shoaib Malik,1,0,null,1,0,null,null
+205,33.1,Shakib Al Hasan,Mahmudullah,Fawad Alam,0,0,null,0,0,null,null
+206,33.2,Shakib Al Hasan,Mahmudullah,Fawad Alam,0,0,null,0,0,null,null
+207,33.3,Shakib Al Hasan,Mahmudullah,Fawad Alam,0,0,null,0,0,null,null
+208,33.4,Shakib Al Hasan,Mahmudullah,Fawad Alam,1,0,null,1,0,null,null
+209,33.5,Mahmudullah,Shakib Al Hasan,Fawad Alam,0,0,null,0,0,null,null
+210,33.6,Mahmudullah,Shakib Al Hasan,Fawad Alam,0,0,null,0,0,null,null
+211,34.1,Shakib Al Hasan,Mahmudullah,Sohail Khan,1,0,null,1,0,null,null
+212,34.2,Mahmudullah,Shakib Al Hasan,Sohail Khan,0,0,null,0,0,null,null
+213,34.3,Mahmudullah,Shakib Al Hasan,Sohail Khan,0,0,null,0,0,null,null
+214,34.4,Mahmudullah,Shakib Al Hasan,Sohail Khan,0,0,null,0,0,null,null
+215,34.5,Mahmudullah,Shakib Al Hasan,Sohail Khan,1,0,null,1,0,null,null
+216,34.6,Shakib Al Hasan,Mahmudullah,Sohail Khan,0,0,null,0,0,null,null
+217,35.1,Mahmudullah,Shakib Al Hasan,Fawad Alam,1,0,null,1,0,null,null
+218,35.2,Shakib Al Hasan,Mahmudullah,Fawad Alam,1,0,null,1,0,null,null
+219,35.3,Mahmudullah,Shakib Al Hasan,Fawad Alam,1,0,null,1,0,null,null
+220,35.4,Shakib Al Hasan,Mahmudullah,Fawad Alam,1,0,null,1,0,null,null
+221,35.5,Mahmudullah,Shakib Al Hasan,Fawad Alam,0,0,null,0,0,null,null
+222,35.6,Mahmudullah,Shakib Al Hasan,Fawad Alam,0,0,null,0,0,null,null
+223,36.1,Shakib Al Hasan,Mahmudullah,Sohail Khan,0,0,null,0,0,null,null
+224,36.2,Shakib Al Hasan,Mahmudullah,Sohail Khan,1,0,null,1,0,null,null
+225,36.3,Mahmudullah,Shakib Al Hasan,Sohail Khan,4,0,null,4,0,null,null
+226,36.4,Mahmudullah,Shakib Al Hasan,Sohail Khan,2,0,null,2,0,null,null
+227,36.5,Mahmudullah,Shakib Al Hasan,Sohail Khan,1,0,null,1,0,null,null
+228,36.6,Shakib Al Hasan,Mahmudullah,Sohail Khan,1,0,null,1,0,null,null
+229,37.1,Shakib Al Hasan,Mahmudullah,Fawad Alam,1,0,null,1,0,null,null
+230,37.2,Mahmudullah,Shakib Al Hasan,Fawad Alam,1,0,null,1,0,null,null
+231,37.3,Shakib Al Hasan,Mahmudullah,Fawad Alam,1,0,null,1,0,null,null
+232,37.4,Mahmudullah,Shakib Al Hasan,Fawad Alam,1,0,null,1,0,null,null
+233,37.5,Shakib Al Hasan,Mahmudullah,Fawad Alam,1,0,null,1,0,null,null
+234,37.6,Mahmudullah,Shakib Al Hasan,Fawad Alam,0,0,null,0,0,null,null
+235,38.1,Shakib Al Hasan,Mahmudullah,Sohail Khan,0,0,null,0,0,null,null
+236,38.2,Shakib Al Hasan,Mahmudullah,Sohail Khan,0,0,null,0,0,null,null
+237,38.3,Shakib Al Hasan,Mahmudullah,Sohail Khan,1,0,null,1,0,null,null
+238,38.4,Mahmudullah,Shakib Al Hasan,Sohail Khan,0,0,null,0,0,null,null
+239,38.5,Mahmudullah,Shakib Al Hasan,Sohail Khan,0,0,null,0,0,null,null
+240,38.6,Mahmudullah,Shakib Al Hasan,Sohail Khan,0,0,null,0,0,null,null
+241,39.1,Shakib Al Hasan,Mahmudullah,Fawad Alam,1,0,null,1,0,null,null
+242,39.2,Mahmudullah,Shakib Al Hasan,Fawad Alam,2,0,null,2,0,null,null
+243,39.3,Mahmudullah,Shakib Al Hasan,Fawad Alam,1,0,null,1,0,null,null
+244,39.4,Shakib Al Hasan,Mahmudullah,Fawad Alam,4,0,null,4,0,null,null
+245,39.5,Shakib Al Hasan,Mahmudullah,Fawad Alam,1,0,null,1,0,null,null
+246,39.6,Mahmudullah,Shakib Al Hasan,Fawad Alam,1,0,null,1,0,null,null
+247,40.1,Mahmudullah,Shakib Al Hasan,Iftikhar Anjum,1,0,null,1,0,null,null
+248,40.2,Shakib Al Hasan,Mahmudullah,Iftikhar Anjum,2,0,null,2,0,null,null
+249,40.3,Shakib Al Hasan,Mahmudullah,Iftikhar Anjum,2,0,null,2,0,null,null
+250,40.4,Shakib Al Hasan,Mahmudullah,Iftikhar Anjum,1,0,null,1,0,null,null
+251,40.5,Mahmudullah,Shakib Al Hasan,Iftikhar Anjum,0,0,null,0,0,null,null
+252,40.6,Mahmudullah,Shakib Al Hasan,Iftikhar Anjum,0,0,null,0,1,Mahmudullah,bowled
+253,41.1,Shakib Al Hasan,Farhad Reza,Fawad Alam,2,0,null,2,0,null,null
+254,41.2,Shakib Al Hasan,Farhad Reza,Fawad Alam,4,0,null,4,0,null,null
+255,41.3,Shakib Al Hasan,Farhad Reza,Fawad Alam,1,0,null,1,0,null,null
+256,41.4,Farhad Reza,Shakib Al Hasan,Fawad Alam,0,0,null,0,0,null,null
+257,41.5,Farhad Reza,Shakib Al Hasan,Fawad Alam,1,0,null,1,0,null,null
+258,41.6,Shakib Al Hasan,Farhad Reza,Fawad Alam,1,0,null,1,0,null,null
+259,42.1,Shakib Al Hasan,Farhad Reza,Iftikhar Anjum,0,0,null,0,0,null,null
+260,42.2,Shakib Al Hasan,Farhad Reza,Iftikhar Anjum,0,0,null,0,0,null,null
+261,42.3,Shakib Al Hasan,Farhad Reza,Iftikhar Anjum,1,0,null,1,0,null,null
+262,42.4,Farhad Reza,Shakib Al Hasan,Iftikhar Anjum,0,0,null,0,0,null,null
+263,42.5,Farhad Reza,Shakib Al Hasan,Iftikhar Anjum,1,0,null,1,0,null,null
+264,42.6,Shakib Al Hasan,Farhad Reza,Iftikhar Anjum,1,0,null,1,0,null,null
+265,43.1,Shakib Al Hasan,Farhad Reza,Shahid Afridi,1,0,null,1,0,null,null
+266,43.2,Farhad Reza,Shakib Al Hasan,Shahid Afridi,1,0,null,1,0,null,null
+267,43.3,Shakib Al Hasan,Farhad Reza,Shahid Afridi,0,1,legbyes ,1,0,null,null
+268,43.4,Farhad Reza,Shakib Al Hasan,Shahid Afridi,2,0,null,2,0,null,null
+269,43.5,Farhad Reza,Shakib Al Hasan,Shahid Afridi,4,0,null,4,0,null,null
+270,43.6,Farhad Reza,Shakib Al Hasan,Shahid Afridi,1,0,null,1,0,null,null
+271,44.1,Farhad Reza,Shakib Al Hasan,Iftikhar Anjum,2,0,null,2,0,null,null
+272,44.2,Farhad Reza,Shakib Al Hasan,Iftikhar Anjum,1,0,null,1,0,null,null
+273,44.3,Shakib Al Hasan,Farhad Reza,Iftikhar Anjum,4,0,null,4,0,null,null
+274,44.4,Shakib Al Hasan,Farhad Reza,Iftikhar Anjum,0,0,null,0,0,null,null
+275,44.5,Shakib Al Hasan,Farhad Reza,Iftikhar Anjum,4,0,null,4,0,null,null
+276,44.6,Shakib Al Hasan,Farhad Reza,Iftikhar Anjum,0,0,null,0,0,null,null
+277,45.1,Farhad Reza,Shakib Al Hasan,Shahid Afridi,0,0,null,0,1,Farhad Reza,stumped
+278,45.2,Mashrafe Mortaza,Shakib Al Hasan,Shahid Afridi,0,0,null,0,0,null,null
+279,45.3,Mashrafe Mortaza,Shakib Al Hasan,Shahid Afridi,1,0,null,1,0,null,null
+280,45.4,Shakib Al Hasan,Mashrafe Mortaza,Shahid Afridi,2,0,null,2,0,null,null
+281,45.5,Shakib Al Hasan,Mashrafe Mortaza,Shahid Afridi,2,0,null,2,0,null,null
+282,45.6,Shakib Al Hasan,Mashrafe Mortaza,Shahid Afridi,0,0,null,0,1,Shakib Al Hasan,bowled
+283,46.1,Mashrafe Mortaza,Dhiman Ghosh,Iftikhar Anjum,1,0,null,1,0,null,null
+284,46.2,Dhiman Ghosh,Mashrafe Mortaza,Iftikhar Anjum,4,0,null,4,0,null,null
+285,46.3,Dhiman Ghosh,Mashrafe Mortaza,Iftikhar Anjum,0,1,wides ,1,0,null,null
+286,46.4,Dhiman Ghosh,Mashrafe Mortaza,Iftikhar Anjum,2,0,null,2,0,null,null
+287,46.5,Dhiman Ghosh,Mashrafe Mortaza,Iftikhar Anjum,4,0,null,4,0,null,null
+288,46.6,Dhiman Ghosh,Mashrafe Mortaza,Iftikhar Anjum,3,0,null,3,0,null,null
+289,46.7,Mashrafe Mortaza,Dhiman Ghosh,Iftikhar Anjum,4,0,null,4,0,null,null
+290,47.1,Dhiman Ghosh,Mashrafe Mortaza,Sohail Khan,1,0,null,1,0,null,null
+291,47.2,Mashrafe Mortaza,Dhiman Ghosh,Sohail Khan,0,0,null,0,0,null,null
+292,47.3,Mashrafe Mortaza,Dhiman Ghosh,Sohail Khan,1,0,null,1,0,null,null
+293,47.4,Dhiman Ghosh,Mashrafe Mortaza,Sohail Khan,1,0,null,1,0,null,null
+294,47.5,Mashrafe Mortaza,Dhiman Ghosh,Sohail Khan,2,0,null,2,0,null,null
+295,47.6,Mashrafe Mortaza,Dhiman Ghosh,Sohail Khan,0,0,null,0,0,null,null
+296,48.1,Dhiman Ghosh,Mashrafe Mortaza,Sohail Tanvir,0,0,null,0,0,null,null
+297,48.2,Dhiman Ghosh,Mashrafe Mortaza,Sohail Tanvir,1,1,noballs ,2,0,null,null
+298,48.3,Mashrafe Mortaza,Dhiman Ghosh,Sohail Tanvir,0,0,null,0,0,null,null
+299,48.4,Mashrafe Mortaza,Dhiman Ghosh,Sohail Tanvir,0,0,null,0,0,null,null
+300,48.5,Mashrafe Mortaza,Dhiman Ghosh,Sohail Tanvir,1,0,null,1,0,null,null
+301,48.6,Dhiman Ghosh,Mashrafe Mortaza,Sohail Tanvir,2,0,null,2,0,null,null
+302,48.7,Dhiman Ghosh,Mashrafe Mortaza,Sohail Tanvir,0,0,null,0,0,null,null
+303,49.1,Mashrafe Mortaza,Dhiman Ghosh,Sohail Khan,4,0,null,4,0,null,null
+304,49.2,Mashrafe Mortaza,Dhiman Ghosh,Sohail Khan,0,0,null,0,0,null,null
+305,49.3,Mashrafe Mortaza,Dhiman Ghosh,Sohail Khan,0,0,null,0,0,null,null
+306,49.4,Mashrafe Mortaza,Dhiman Ghosh,Sohail Khan,0,0,null,0,0,null,null
+307,49.5,Mashrafe Mortaza,Dhiman Ghosh,Sohail Khan,0,1,wides ,1,0,null,null
+308,49.6,Mashrafe Mortaza,Dhiman Ghosh,Sohail Khan,1,0,null,1,0,null,null
+309,49.7,Dhiman Ghosh,Mashrafe Mortaza,Sohail Khan,0,0,null,0,0,null,null

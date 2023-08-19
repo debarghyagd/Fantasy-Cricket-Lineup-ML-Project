@@ -1,0 +1,320 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,RG Sharma,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+1,0.2,RG Sharma,S Dhawan,KM Jarvis,0,1,wides ,1,0,null,null
+2,0.3,RG Sharma,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+3,0.4,RG Sharma,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+4,0.5,RG Sharma,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+5,0.6,RG Sharma,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+6,0.7,RG Sharma,S Dhawan,KM Jarvis,1,0,null,1,0,null,null
+7,1.1,RG Sharma,S Dhawan,BV Vitori,0,0,null,0,1,RG Sharma,caught
+8,1.2,V Kohli,S Dhawan,BV Vitori,1,0,null,1,0,null,null
+9,1.3,S Dhawan,V Kohli,BV Vitori,0,0,null,0,0,null,null
+10,1.4,S Dhawan,V Kohli,BV Vitori,0,0,null,0,0,null,null
+11,1.5,S Dhawan,V Kohli,BV Vitori,0,0,null,0,0,null,null
+12,1.6,S Dhawan,V Kohli,BV Vitori,0,0,null,0,0,null,null
+13,2.1,V Kohli,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+14,2.2,V Kohli,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+15,2.3,V Kohli,S Dhawan,KM Jarvis,4,0,null,4,0,null,null
+16,2.4,V Kohli,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+17,2.5,V Kohli,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+18,2.6,V Kohli,S Dhawan,KM Jarvis,4,0,null,4,0,null,null
+19,3.1,S Dhawan,V Kohli,BV Vitori,0,0,null,0,0,null,null
+20,3.2,S Dhawan,V Kohli,BV Vitori,3,0,null,3,0,null,null
+21,3.3,V Kohli,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+22,3.4,V Kohli,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+23,3.5,V Kohli,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+24,3.6,V Kohli,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+25,4.1,S Dhawan,V Kohli,KM Jarvis,0,0,null,0,0,null,null
+26,4.2,S Dhawan,V Kohli,KM Jarvis,0,1,noballs ,1,0,null,null
+27,4.3,S Dhawan,V Kohli,KM Jarvis,0,5,noballs ,5,0,null,null
+28,4.4,S Dhawan,V Kohli,KM Jarvis,4,0,null,4,0,null,null
+29,4.5,S Dhawan,V Kohli,KM Jarvis,0,0,null,0,0,null,null
+30,4.6,S Dhawan,V Kohli,KM Jarvis,4,0,null,4,0,null,null
+31,4.7,S Dhawan,V Kohli,KM Jarvis,1,0,null,1,0,null,null
+32,4.8,V Kohli,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+33,5.1,S Dhawan,V Kohli,BV Vitori,0,0,null,0,0,null,null
+34,5.2,S Dhawan,V Kohli,BV Vitori,1,0,null,1,0,null,null
+35,5.3,V Kohli,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+36,5.4,V Kohli,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+37,5.5,V Kohli,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+38,5.6,V Kohli,S Dhawan,BV Vitori,1,0,null,1,0,null,null
+39,6.1,V Kohli,S Dhawan,KM Jarvis,4,0,null,4,0,null,null
+40,6.2,V Kohli,S Dhawan,KM Jarvis,0,0,null,0,1,V Kohli,caught
+41,6.3,AT Rayudu,S Dhawan,KM Jarvis,0,1,noballs ,1,0,null,null
+42,6.4,AT Rayudu,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+43,6.5,AT Rayudu,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+44,6.6,AT Rayudu,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+45,6.7,AT Rayudu,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+46,7.1,S Dhawan,AT Rayudu,BV Vitori,1,0,null,1,0,null,null
+47,7.2,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+48,7.3,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+49,7.4,AT Rayudu,S Dhawan,BV Vitori,0,1,wides ,1,0,null,null
+50,7.5,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+51,7.6,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+52,7.7,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+53,8.1,S Dhawan,AT Rayudu,KM Jarvis,0,0,null,0,0,null,null
+54,8.2,S Dhawan,AT Rayudu,KM Jarvis,0,0,null,0,0,null,null
+55,8.3,S Dhawan,AT Rayudu,KM Jarvis,0,1,noballs ,1,0,null,null
+56,8.4,S Dhawan,AT Rayudu,KM Jarvis,1,0,null,1,0,null,null
+57,8.5,AT Rayudu,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+58,8.6,AT Rayudu,S Dhawan,KM Jarvis,3,0,null,3,0,null,null
+59,8.7,S Dhawan,AT Rayudu,KM Jarvis,0,0,null,0,0,null,null
+60,9.1,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+61,9.2,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+62,9.3,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+63,9.4,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+64,9.5,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+65,9.6,AT Rayudu,S Dhawan,BV Vitori,0,1,wides ,1,0,null,null
+66,9.7,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+67,10.1,S Dhawan,AT Rayudu,KM Jarvis,0,0,null,0,0,null,null
+68,10.2,S Dhawan,AT Rayudu,KM Jarvis,0,0,null,0,0,null,null
+69,10.3,S Dhawan,AT Rayudu,KM Jarvis,0,0,null,0,0,null,null
+70,10.4,S Dhawan,AT Rayudu,KM Jarvis,0,0,null,0,0,null,null
+71,10.5,S Dhawan,AT Rayudu,KM Jarvis,4,0,null,4,0,null,null
+72,10.6,S Dhawan,AT Rayudu,KM Jarvis,0,0,null,0,0,null,null
+73,11.1,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+74,11.2,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+75,11.3,AT Rayudu,S Dhawan,BV Vitori,0,1,wides ,1,0,null,null
+76,11.4,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+77,11.5,AT Rayudu,S Dhawan,BV Vitori,1,0,null,1,0,null,null
+78,11.6,S Dhawan,AT Rayudu,BV Vitori,0,0,null,0,0,null,null
+79,11.7,S Dhawan,AT Rayudu,BV Vitori,1,0,null,1,0,null,null
+80,12.1,S Dhawan,AT Rayudu,TL Chatara,0,1,wides ,1,0,null,null
+81,12.2,S Dhawan,AT Rayudu,TL Chatara,0,0,null,0,0,null,null
+82,12.3,S Dhawan,AT Rayudu,TL Chatara,1,0,null,1,0,null,null
+83,12.4,AT Rayudu,S Dhawan,TL Chatara,1,0,null,1,0,null,null
+84,12.5,S Dhawan,AT Rayudu,TL Chatara,0,0,null,0,0,null,null
+85,12.6,S Dhawan,AT Rayudu,TL Chatara,0,0,null,0,0,null,null
+86,12.7,S Dhawan,AT Rayudu,TL Chatara,0,0,null,0,0,null,null
+87,13.1,AT Rayudu,S Dhawan,BV Vitori,0,1,wides ,1,0,null,null
+88,13.2,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,0,null,null
+89,13.3,AT Rayudu,S Dhawan,BV Vitori,0,0,null,0,1,AT Rayudu,caught
+90,13.4,SK Raina,S Dhawan,BV Vitori,1,0,null,1,0,null,null
+91,13.5,S Dhawan,SK Raina,BV Vitori,0,0,null,0,0,null,null
+92,13.6,S Dhawan,SK Raina,BV Vitori,0,0,null,0,0,null,null
+93,13.7,S Dhawan,SK Raina,BV Vitori,0,0,null,0,0,null,null
+94,14.1,SK Raina,S Dhawan,TL Chatara,1,0,null,1,0,null,null
+95,14.2,S Dhawan,SK Raina,TL Chatara,0,1,wides ,1,0,null,null
+96,14.3,S Dhawan,SK Raina,TL Chatara,1,0,null,1,0,null,null
+97,14.4,SK Raina,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+98,14.5,SK Raina,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+99,14.6,SK Raina,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+100,14.7,SK Raina,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+101,15.1,S Dhawan,SK Raina,E Chigumbura,0,1,wides ,1,0,null,null
+102,15.2,S Dhawan,SK Raina,E Chigumbura,1,0,null,1,0,null,null
+103,15.3,SK Raina,S Dhawan,E Chigumbura,0,0,null,0,0,null,null
+104,15.4,SK Raina,S Dhawan,E Chigumbura,0,0,null,0,0,null,null
+105,15.5,SK Raina,S Dhawan,E Chigumbura,1,0,null,1,0,null,null
+106,15.6,S Dhawan,SK Raina,E Chigumbura,0,0,null,0,0,null,null
+107,15.7,S Dhawan,SK Raina,E Chigumbura,0,0,null,0,0,null,null
+108,16.1,SK Raina,S Dhawan,TL Chatara,1,0,null,1,0,null,null
+109,16.2,S Dhawan,SK Raina,TL Chatara,0,0,null,0,0,null,null
+110,16.3,S Dhawan,SK Raina,TL Chatara,0,1,wides ,1,0,null,null
+111,16.4,S Dhawan,SK Raina,TL Chatara,1,0,null,1,0,null,null
+112,16.5,SK Raina,S Dhawan,TL Chatara,0,0,null,0,1,SK Raina,caught
+113,16.6,KD Karthik,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+114,16.7,KD Karthik,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+115,17.1,S Dhawan,KD Karthik,E Chigumbura,0,0,null,0,0,null,null
+116,17.2,S Dhawan,KD Karthik,E Chigumbura,0,0,null,0,0,null,null
+117,17.3,S Dhawan,KD Karthik,E Chigumbura,1,0,null,1,0,null,null
+118,17.4,KD Karthik,S Dhawan,E Chigumbura,1,0,null,1,0,null,null
+119,17.5,S Dhawan,KD Karthik,E Chigumbura,0,2,legbyes ,2,0,null,null
+120,17.6,S Dhawan,KD Karthik,E Chigumbura,1,0,null,1,0,null,null
+121,18.1,S Dhawan,KD Karthik,TL Chatara,0,0,null,0,0,null,null
+122,18.2,S Dhawan,KD Karthik,TL Chatara,1,0,null,1,0,null,null
+123,18.3,KD Karthik,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+124,18.4,KD Karthik,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+125,18.5,KD Karthik,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+126,18.6,KD Karthik,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+127,19.1,S Dhawan,KD Karthik,E Chigumbura,0,0,null,0,0,null,null
+128,19.2,S Dhawan,KD Karthik,E Chigumbura,1,0,null,1,0,null,null
+129,19.3,KD Karthik,S Dhawan,E Chigumbura,2,0,null,2,0,null,null
+130,19.4,KD Karthik,S Dhawan,E Chigumbura,0,0,null,0,0,null,null
+131,19.5,KD Karthik,S Dhawan,E Chigumbura,0,0,null,0,0,null,null
+132,19.6,KD Karthik,S Dhawan,E Chigumbura,0,0,null,0,0,null,null
+133,20.1,S Dhawan,KD Karthik,TL Chatara,0,0,null,0,0,null,null
+134,20.2,S Dhawan,KD Karthik,TL Chatara,1,0,null,1,0,null,null
+135,20.3,KD Karthik,S Dhawan,TL Chatara,1,0,null,1,0,null,null
+136,20.4,S Dhawan,KD Karthik,TL Chatara,1,0,null,1,0,null,null
+137,20.5,KD Karthik,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+138,20.6,KD Karthik,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+139,21.1,S Dhawan,KD Karthik,E Chigumbura,0,0,null,0,0,null,null
+140,21.2,S Dhawan,KD Karthik,E Chigumbura,0,0,null,0,0,null,null
+141,21.3,S Dhawan,KD Karthik,E Chigumbura,0,1,wides ,1,0,null,null
+142,21.4,S Dhawan,KD Karthik,E Chigumbura,0,0,null,0,0,null,null
+143,21.5,S Dhawan,KD Karthik,E Chigumbura,1,0,null,1,0,null,null
+144,21.6,KD Karthik,S Dhawan,E Chigumbura,0,1,legbyes ,1,0,null,null
+145,21.7,S Dhawan,KD Karthik,E Chigumbura,1,0,null,1,0,null,null
+146,22.1,S Dhawan,KD Karthik,TL Chatara,4,0,null,4,0,null,null
+147,22.2,S Dhawan,KD Karthik,TL Chatara,1,0,null,1,0,null,null
+148,22.3,KD Karthik,S Dhawan,TL Chatara,1,0,null,1,0,null,null
+149,22.4,S Dhawan,KD Karthik,TL Chatara,0,0,null,0,0,null,null
+150,22.5,S Dhawan,KD Karthik,TL Chatara,4,0,null,4,0,null,null
+151,22.6,S Dhawan,KD Karthik,TL Chatara,4,0,null,4,0,null,null
+152,23.1,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+153,23.2,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+154,23.3,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+155,23.4,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+156,23.5,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+157,23.6,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+158,24.1,KD Karthik,S Dhawan,E Chigumbura,0,0,null,0,0,null,null
+159,24.2,KD Karthik,S Dhawan,E Chigumbura,3,0,null,3,0,null,null
+160,24.3,S Dhawan,KD Karthik,E Chigumbura,0,0,null,0,0,null,null
+161,24.4,S Dhawan,KD Karthik,E Chigumbura,1,0,null,1,0,null,null
+162,24.5,KD Karthik,S Dhawan,E Chigumbura,0,1,wides ,1,0,null,null
+163,24.6,KD Karthik,S Dhawan,E Chigumbura,4,0,null,4,0,null,null
+164,24.7,KD Karthik,S Dhawan,E Chigumbura,1,0,null,1,0,null,null
+165,25.1,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+166,25.2,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+167,25.3,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+168,25.4,KD Karthik,S Dhawan,P Utseya,3,0,null,3,0,null,null
+169,25.5,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+170,25.6,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+171,26.1,S Dhawan,KD Karthik,E Chigumbura,4,0,null,4,0,null,null
+172,26.2,S Dhawan,KD Karthik,E Chigumbura,1,0,null,1,0,null,null
+173,26.3,KD Karthik,S Dhawan,E Chigumbura,1,0,null,1,0,null,null
+174,26.4,S Dhawan,KD Karthik,E Chigumbura,1,0,null,1,0,null,null
+175,26.5,KD Karthik,S Dhawan,E Chigumbura,1,0,null,1,0,null,null
+176,26.6,S Dhawan,KD Karthik,E Chigumbura,0,0,null,0,0,null,null
+177,27.1,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+178,27.2,KD Karthik,S Dhawan,P Utseya,4,0,null,4,0,null,null
+179,27.3,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+180,27.4,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+181,27.5,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+182,27.6,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+183,28.1,KD Karthik,S Dhawan,H Masakadza,2,0,null,2,0,null,null
+184,28.2,KD Karthik,S Dhawan,H Masakadza,1,0,null,1,0,null,null
+185,28.3,S Dhawan,KD Karthik,H Masakadza,0,0,null,0,0,null,null
+186,28.4,S Dhawan,KD Karthik,H Masakadza,0,0,null,0,0,null,null
+187,28.5,S Dhawan,KD Karthik,H Masakadza,0,0,null,0,0,null,null
+188,28.6,S Dhawan,KD Karthik,H Masakadza,0,0,null,0,0,null,null
+189,29.1,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+190,29.2,S Dhawan,KD Karthik,P Utseya,0,0,null,0,0,null,null
+191,29.3,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+192,29.4,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+193,29.5,S Dhawan,KD Karthik,P Utseya,2,0,null,2,0,null,null
+194,29.6,S Dhawan,KD Karthik,P Utseya,0,0,null,0,0,null,null
+195,30.1,KD Karthik,S Dhawan,H Masakadza,1,0,null,1,0,null,null
+196,30.2,S Dhawan,KD Karthik,H Masakadza,1,0,null,1,0,null,null
+197,30.3,KD Karthik,S Dhawan,H Masakadza,0,0,null,0,0,null,null
+198,30.4,KD Karthik,S Dhawan,H Masakadza,0,0,null,0,0,null,null
+199,30.5,KD Karthik,S Dhawan,H Masakadza,0,1,legbyes ,1,0,null,null
+200,30.6,S Dhawan,KD Karthik,H Masakadza,1,0,null,1,0,null,null
+201,31.1,S Dhawan,KD Karthik,P Utseya,0,1,wides ,1,0,null,null
+202,31.2,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+203,31.3,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+204,31.4,S Dhawan,KD Karthik,P Utseya,0,0,null,0,0,null,null
+205,31.5,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+206,31.6,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+207,31.7,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+208,32.1,KD Karthik,S Dhawan,KM Jarvis,1,0,null,1,0,null,null
+209,32.2,S Dhawan,KD Karthik,KM Jarvis,1,0,null,1,0,null,null
+210,32.3,KD Karthik,S Dhawan,KM Jarvis,1,0,null,1,0,null,null
+211,32.4,S Dhawan,KD Karthik,KM Jarvis,1,0,null,1,0,null,null
+212,32.5,KD Karthik,S Dhawan,KM Jarvis,1,0,null,1,0,null,null
+213,32.6,S Dhawan,KD Karthik,KM Jarvis,1,0,null,1,0,null,null
+214,33.1,S Dhawan,KD Karthik,P Utseya,0,0,null,0,0,null,null
+215,33.2,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+216,33.3,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+217,33.4,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+218,33.5,KD Karthik,S Dhawan,P Utseya,0,1,wides ,1,0,null,null
+219,33.6,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+220,33.7,KD Karthik,S Dhawan,P Utseya,0,0,null,0,0,null,null
+221,34.1,S Dhawan,KD Karthik,TL Chatara,1,0,null,1,0,null,null
+222,34.2,KD Karthik,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+223,34.3,KD Karthik,S Dhawan,TL Chatara,0,1,legbyes ,1,0,null,null
+224,34.4,S Dhawan,KD Karthik,TL Chatara,1,0,null,1,0,null,null
+225,34.5,KD Karthik,S Dhawan,TL Chatara,1,0,null,1,0,null,null
+226,34.6,S Dhawan,KD Karthik,TL Chatara,1,0,null,1,0,null,null
+227,35.1,S Dhawan,KD Karthik,P Utseya,0,0,null,0,0,null,null
+228,35.2,S Dhawan,KD Karthik,P Utseya,4,0,null,4,0,null,null
+229,35.3,S Dhawan,KD Karthik,P Utseya,4,0,null,4,0,null,null
+230,35.4,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+231,35.5,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+232,35.6,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+233,36.1,S Dhawan,KD Karthik,KM Jarvis,1,0,null,1,0,null,null
+234,36.2,KD Karthik,S Dhawan,KM Jarvis,0,0,null,0,0,null,null
+235,36.3,KD Karthik,S Dhawan,KM Jarvis,4,0,null,4,0,null,null
+236,36.4,KD Karthik,S Dhawan,KM Jarvis,1,0,null,1,0,null,null
+237,36.5,S Dhawan,KD Karthik,KM Jarvis,6,0,null,6,0,null,null
+238,36.6,S Dhawan,KD Karthik,KM Jarvis,1,0,null,1,0,null,null
+239,37.1,S Dhawan,KD Karthik,P Utseya,2,0,null,2,0,null,null
+240,37.2,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+241,37.3,KD Karthik,S Dhawan,P Utseya,2,0,null,2,0,null,null
+242,37.4,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+243,37.5,S Dhawan,KD Karthik,P Utseya,1,0,null,1,0,null,null
+244,37.6,KD Karthik,S Dhawan,P Utseya,4,0,null,4,0,null,null
+245,38.1,S Dhawan,KD Karthik,H Masakadza,0,0,null,0,0,null,null
+246,38.2,S Dhawan,KD Karthik,H Masakadza,1,0,null,1,0,null,null
+247,38.3,KD Karthik,S Dhawan,H Masakadza,0,0,null,0,0,null,null
+248,38.4,KD Karthik,S Dhawan,H Masakadza,1,0,null,1,0,null,null
+249,38.5,S Dhawan,KD Karthik,H Masakadza,1,0,null,1,0,null,null
+250,38.6,KD Karthik,S Dhawan,H Masakadza,1,0,null,1,0,null,null
+251,39.1,KD Karthik,S Dhawan,P Utseya,4,0,null,4,0,null,null
+252,39.2,KD Karthik,S Dhawan,P Utseya,4,0,null,4,0,null,null
+253,39.3,KD Karthik,S Dhawan,P Utseya,1,0,null,1,0,null,null
+254,39.4,S Dhawan,KD Karthik,P Utseya,0,0,null,0,0,null,null
+255,39.5,S Dhawan,KD Karthik,P Utseya,4,0,null,4,0,null,null
+256,39.6,S Dhawan,KD Karthik,P Utseya,0,0,null,0,0,null,null
+257,40.1,KD Karthik,S Dhawan,H Masakadza,1,0,null,1,0,null,null
+258,40.2,S Dhawan,KD Karthik,H Masakadza,0,0,null,0,0,null,null
+259,40.3,S Dhawan,KD Karthik,H Masakadza,2,0,null,2,0,null,null
+260,40.4,S Dhawan,KD Karthik,H Masakadza,0,0,null,0,0,null,null
+261,40.5,S Dhawan,KD Karthik,H Masakadza,2,0,null,2,0,null,null
+262,40.6,S Dhawan,KD Karthik,H Masakadza,0,0,null,0,0,null,null
+263,41.1,KD Karthik,S Dhawan,BV Vitori,1,0,null,1,0,null,null
+264,41.2,S Dhawan,KD Karthik,BV Vitori,0,0,null,0,0,null,null
+265,41.3,S Dhawan,KD Karthik,BV Vitori,6,0,null,6,0,null,null
+266,41.4,S Dhawan,KD Karthik,BV Vitori,1,0,null,1,0,null,null
+267,41.5,KD Karthik,S Dhawan,BV Vitori,1,0,null,1,0,null,null
+268,41.6,S Dhawan,KD Karthik,BV Vitori,4,0,null,4,0,null,null
+269,42.1,KD Karthik,S Dhawan,TL Chatara,3,0,null,3,0,null,null
+270,42.2,S Dhawan,KD Karthik,TL Chatara,0,0,null,0,1,KD Karthik,run out
+271,42.3,RA Jadeja,S Dhawan,TL Chatara,0,1,wides ,1,0,null,null
+272,42.4,RA Jadeja,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+273,42.5,RA Jadeja,S Dhawan,TL Chatara,0,0,null,0,0,null,null
+274,42.6,RA Jadeja,S Dhawan,TL Chatara,1,0,null,1,0,null,null
+275,42.7,S Dhawan,RA Jadeja,TL Chatara,1,0,null,1,0,null,null
+276,43.1,S Dhawan,RA Jadeja,P Utseya,0,0,null,0,0,null,null
+277,43.2,S Dhawan,RA Jadeja,P Utseya,2,0,null,2,0,null,null
+278,43.3,S Dhawan,RA Jadeja,P Utseya,0,0,null,0,1,S Dhawan,bowled
+279,43.4,A Mishra,RA Jadeja,P Utseya,1,0,null,1,0,null,null
+280,43.5,RA Jadeja,A Mishra,P Utseya,0,0,null,0,0,null,null
+281,43.6,RA Jadeja,A Mishra,P Utseya,1,0,null,1,0,null,null
+282,44.1,RA Jadeja,A Mishra,TL Chatara,0,0,null,0,0,null,null
+283,44.2,RA Jadeja,A Mishra,TL Chatara,1,0,null,1,0,null,null
+284,44.3,A Mishra,RA Jadeja,TL Chatara,0,0,null,0,0,null,null
+285,44.4,A Mishra,RA Jadeja,TL Chatara,2,0,null,2,0,null,null
+286,44.5,RA Jadeja,A Mishra,TL Chatara,1,0,null,1,0,null,null
+287,44.6,A Mishra,RA Jadeja,TL Chatara,0,1,wides ,1,0,null,null
+288,44.7,A Mishra,RA Jadeja,TL Chatara,4,0,null,4,0,null,null
+289,45.1,RA Jadeja,A Mishra,SC Williams,0,0,null,0,0,null,null
+290,45.2,RA Jadeja,A Mishra,SC Williams,1,0,null,1,0,null,null
+291,45.3,A Mishra,RA Jadeja,SC Williams,0,0,null,0,0,null,null
+292,45.4,A Mishra,RA Jadeja,SC Williams,0,0,null,0,0,null,null
+293,45.5,A Mishra,RA Jadeja,SC Williams,2,0,null,2,1,A Mishra,run out
+294,45.6,RA Jadeja,R Vinay Kumar,SC Williams,0,0,null,0,0,null,null
+295,46.1,R Vinay Kumar,RA Jadeja,KM Jarvis,0,0,null,0,0,null,null
+296,46.2,R Vinay Kumar,RA Jadeja,KM Jarvis,1,0,null,1,0,null,null
+297,46.3,RA Jadeja,R Vinay Kumar,KM Jarvis,0,0,null,0,0,null,null
+298,46.4,RA Jadeja,R Vinay Kumar,KM Jarvis,1,0,null,1,0,null,null
+299,46.5,R Vinay Kumar,RA Jadeja,KM Jarvis,1,0,null,1,0,null,null
+300,46.6,RA Jadeja,R Vinay Kumar,KM Jarvis,1,0,null,1,0,null,null
+301,47.1,RA Jadeja,R Vinay Kumar,SC Williams,4,0,null,4,0,null,null
+302,47.2,RA Jadeja,R Vinay Kumar,SC Williams,1,0,null,1,0,null,null
+303,47.3,R Vinay Kumar,RA Jadeja,SC Williams,1,0,null,1,0,null,null
+304,47.4,RA Jadeja,R Vinay Kumar,SC Williams,2,0,null,2,0,null,null
+305,47.5,RA Jadeja,R Vinay Kumar,SC Williams,0,0,null,0,0,null,null
+306,47.6,RA Jadeja,R Vinay Kumar,SC Williams,0,0,null,0,0,null,null
+307,48.1,R Vinay Kumar,RA Jadeja,KM Jarvis,2,0,null,2,0,null,null
+308,48.2,R Vinay Kumar,RA Jadeja,KM Jarvis,0,0,null,0,0,null,null
+309,48.3,R Vinay Kumar,RA Jadeja,KM Jarvis,1,0,null,1,0,null,null
+310,48.4,RA Jadeja,R Vinay Kumar,KM Jarvis,0,0,null,0,0,null,null
+311,48.5,RA Jadeja,R Vinay Kumar,KM Jarvis,1,0,null,1,0,null,null
+312,48.6,R Vinay Kumar,RA Jadeja,KM Jarvis,4,0,null,4,0,null,null
+313,49.1,RA Jadeja,R Vinay Kumar,SC Williams,0,0,null,0,1,RA Jadeja,caught
+314,49.2,R Vinay Kumar,Mohammed Shami,SC Williams,6,0,null,6,0,null,null
+315,49.3,R Vinay Kumar,Mohammed Shami,SC Williams,4,0,null,4,0,null,null
+316,49.4,R Vinay Kumar,Mohammed Shami,SC Williams,6,0,null,6,0,null,null
+317,49.5,R Vinay Kumar,Mohammed Shami,SC Williams,1,0,null,1,0,null,null
+318,49.6,Mohammed Shami,R Vinay Kumar,SC Williams,6,0,null,6,0,null,null

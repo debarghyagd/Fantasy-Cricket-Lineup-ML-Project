@@ -1,0 +1,175 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,DR Smith,CH Gayle,VD Philander,1,0,null,1,0,null,null
+1,0.2,CH Gayle,DR Smith,VD Philander,0,0,null,0,0,null,null
+2,0.3,CH Gayle,DR Smith,VD Philander,0,0,null,0,0,null,null
+3,0.4,CH Gayle,DR Smith,VD Philander,0,0,null,0,0,null,null
+4,0.5,CH Gayle,DR Smith,VD Philander,0,0,null,0,0,null,null
+5,0.6,CH Gayle,DR Smith,VD Philander,2,0,null,2,0,null,null
+6,1.1,DR Smith,CH Gayle,M Morkel,0,0,null,0,0,null,null
+7,1.2,DR Smith,CH Gayle,M Morkel,0,0,null,0,0,null,null
+8,1.3,DR Smith,CH Gayle,M Morkel,0,0,null,0,0,null,null
+9,1.4,DR Smith,CH Gayle,M Morkel,0,1,wides ,1,0,null,null
+10,1.5,DR Smith,CH Gayle,M Morkel,2,0,null,2,0,null,null
+11,1.6,DR Smith,CH Gayle,M Morkel,4,0,null,4,0,null,null
+12,1.7,DR Smith,CH Gayle,M Morkel,0,0,null,0,0,null,null
+13,2.1,CH Gayle,DR Smith,VD Philander,4,0,null,4,0,null,null
+14,2.2,CH Gayle,DR Smith,VD Philander,4,0,null,4,0,null,null
+15,2.3,CH Gayle,DR Smith,VD Philander,2,0,null,2,0,null,null
+16,2.4,CH Gayle,DR Smith,VD Philander,0,0,null,0,0,null,null
+17,2.5,CH Gayle,DR Smith,VD Philander,0,0,null,0,0,null,null
+18,2.6,CH Gayle,DR Smith,VD Philander,1,0,null,1,0,null,null
+19,3.1,CH Gayle,DR Smith,M Morkel,1,0,null,1,0,null,null
+20,3.2,DR Smith,CH Gayle,M Morkel,0,0,null,0,0,null,null
+21,3.3,DR Smith,CH Gayle,M Morkel,1,0,null,1,0,null,null
+22,3.4,CH Gayle,DR Smith,M Morkel,0,0,null,0,0,null,null
+23,3.5,CH Gayle,DR Smith,M Morkel,4,0,null,4,0,null,null
+24,3.6,CH Gayle,DR Smith,M Morkel,6,0,null,6,0,null,null
+25,4.1,DR Smith,CH Gayle,VD Philander,1,0,null,1,0,null,null
+26,4.2,CH Gayle,DR Smith,VD Philander,0,0,null,0,0,null,null
+27,4.3,CH Gayle,DR Smith,VD Philander,0,0,null,0,0,null,null
+28,4.4,CH Gayle,DR Smith,VD Philander,6,0,null,6,0,null,null
+29,4.5,CH Gayle,DR Smith,VD Philander,2,0,null,2,0,null,null
+30,4.6,CH Gayle,DR Smith,VD Philander,1,0,null,1,0,null,null
+31,5.1,CH Gayle,DR Smith,DW Steyn,4,0,null,4,0,null,null
+32,5.2,CH Gayle,DR Smith,DW Steyn,0,0,null,0,0,null,null
+33,5.3,CH Gayle,DR Smith,DW Steyn,4,0,null,4,0,null,null
+34,5.4,CH Gayle,DR Smith,DW Steyn,0,0,null,0,1,CH Gayle,caught
+35,5.5,LR Johnson,DR Smith,DW Steyn,0,0,null,0,0,null,null
+36,5.6,LR Johnson,DR Smith,DW Steyn,0,1,wides ,1,0,null,null
+37,5.7,LR Johnson,DR Smith,DW Steyn,0,0,null,0,0,null,null
+38,6.1,DR Smith,LR Johnson,VD Philander,1,0,null,1,0,null,null
+39,6.2,LR Johnson,DR Smith,VD Philander,0,0,null,0,0,null,null
+40,6.3,LR Johnson,DR Smith,VD Philander,0,0,null,0,0,null,null
+41,6.4,LR Johnson,DR Smith,VD Philander,0,0,null,0,0,null,null
+42,6.5,LR Johnson,DR Smith,VD Philander,0,0,null,0,1,LR Johnson,lbw
+43,6.6,MN Samuels,DR Smith,VD Philander,1,0,null,1,0,null,null
+44,7.1,MN Samuels,DR Smith,JP Duminy,0,0,null,0,0,null,null
+45,7.2,MN Samuels,DR Smith,JP Duminy,0,0,null,0,0,null,null
+46,7.3,MN Samuels,DR Smith,JP Duminy,1,0,null,1,0,null,null
+47,7.4,DR Smith,MN Samuels,JP Duminy,0,0,null,0,0,null,null
+48,7.5,DR Smith,MN Samuels,JP Duminy,1,0,null,1,0,null,null
+49,7.6,MN Samuels,DR Smith,JP Duminy,0,0,null,0,0,null,null
+50,8.1,DR Smith,MN Samuels,DW Steyn,0,0,null,0,0,null,null
+51,8.2,DR Smith,MN Samuels,DW Steyn,0,0,null,0,0,null,null
+52,8.3,DR Smith,MN Samuels,DW Steyn,0,0,null,0,0,null,null
+53,8.4,DR Smith,MN Samuels,DW Steyn,4,0,null,4,0,null,null
+54,8.5,DR Smith,MN Samuels,DW Steyn,0,0,null,0,0,null,null
+55,8.6,DR Smith,MN Samuels,DW Steyn,1,0,null,1,0,null,null
+56,9.1,DR Smith,MN Samuels,JP Duminy,0,1,byes ,1,0,null,null
+57,9.2,MN Samuels,DR Smith,JP Duminy,1,0,null,1,0,null,null
+58,9.3,DR Smith,MN Samuels,JP Duminy,2,0,null,2,0,null,null
+59,9.4,DR Smith,MN Samuels,JP Duminy,1,0,null,1,0,null,null
+60,9.5,MN Samuels,DR Smith,JP Duminy,1,0,null,1,0,null,null
+61,9.6,DR Smith,MN Samuels,JP Duminy,0,0,null,0,0,null,null
+62,10.1,MN Samuels,DR Smith,DW Steyn,0,0,null,0,0,null,null
+63,10.2,MN Samuels,DR Smith,DW Steyn,0,0,null,0,0,null,null
+64,10.3,MN Samuels,DR Smith,DW Steyn,0,0,null,0,0,null,null
+65,10.4,MN Samuels,DR Smith,DW Steyn,0,0,null,0,0,null,null
+66,10.5,MN Samuels,DR Smith,DW Steyn,0,0,null,0,0,null,null
+67,10.6,MN Samuels,DR Smith,DW Steyn,0,0,null,0,0,null,null
+68,11.1,DR Smith,MN Samuels,M Morkel,4,0,null,4,0,null,null
+69,11.2,DR Smith,MN Samuels,M Morkel,0,0,null,0,0,null,null
+70,11.3,DR Smith,MN Samuels,M Morkel,1,0,null,1,0,null,null
+71,11.4,MN Samuels,DR Smith,M Morkel,1,0,null,1,0,null,null
+72,11.5,DR Smith,MN Samuels,M Morkel,1,0,null,1,0,null,null
+73,11.6,MN Samuels,DR Smith,M Morkel,6,0,null,6,0,null,null
+74,12.1,DR Smith,MN Samuels,Imran Tahir,0,0,null,0,0,null,null
+75,12.2,DR Smith,MN Samuels,Imran Tahir,1,0,null,1,0,null,null
+76,12.3,MN Samuels,DR Smith,Imran Tahir,0,2,wides ,2,0,null,null
+77,12.4,DR Smith,MN Samuels,Imran Tahir,0,0,null,0,0,null,null
+78,12.5,DR Smith,MN Samuels,Imran Tahir,1,0,null,1,0,null,null
+79,12.6,MN Samuels,DR Smith,Imran Tahir,1,0,null,1,0,null,null
+80,12.7,DR Smith,MN Samuels,Imran Tahir,0,0,null,0,1,MN Samuels,run out
+81,13.1,D Ramdin,DR Smith,M Morkel,0,0,null,0,0,null,null
+82,13.2,D Ramdin,DR Smith,M Morkel,0,0,null,0,0,null,null
+83,13.3,D Ramdin,DR Smith,M Morkel,0,0,null,0,0,null,null
+84,13.4,D Ramdin,DR Smith,M Morkel,0,0,null,0,0,null,null
+85,13.5,D Ramdin,DR Smith,M Morkel,1,0,null,1,0,null,null
+86,13.6,DR Smith,D Ramdin,M Morkel,1,0,null,1,0,null,null
+87,14.1,DR Smith,D Ramdin,Imran Tahir,1,0,null,1,0,null,null
+88,14.2,D Ramdin,DR Smith,Imran Tahir,1,0,null,1,0,null,null
+89,14.3,DR Smith,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+90,14.4,DR Smith,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+91,14.5,DR Smith,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+92,14.6,DR Smith,D Ramdin,Imran Tahir,0,0,null,0,1,DR Smith,lbw
+93,15.1,D Ramdin,JL Carter,JP Duminy,0,0,null,0,0,null,null
+94,15.2,D Ramdin,JL Carter,JP Duminy,1,0,null,1,0,null,null
+95,15.3,JL Carter,D Ramdin,JP Duminy,1,0,null,1,0,null,null
+96,15.4,D Ramdin,JL Carter,JP Duminy,1,0,null,1,0,null,null
+97,15.5,JL Carter,D Ramdin,JP Duminy,0,1,wides ,1,0,null,null
+98,15.6,JL Carter,D Ramdin,JP Duminy,0,0,null,0,0,null,null
+99,15.7,JL Carter,D Ramdin,JP Duminy,1,0,null,1,0,null,null
+100,16.1,JL Carter,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+101,16.2,JL Carter,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+102,16.3,JL Carter,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+103,16.4,JL Carter,D Ramdin,Imran Tahir,4,0,null,4,0,null,null
+104,16.5,JL Carter,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+105,16.6,JL Carter,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+106,17.1,D Ramdin,JL Carter,JP Duminy,4,0,null,4,0,null,null
+107,17.2,D Ramdin,JL Carter,JP Duminy,1,0,null,1,0,null,null
+108,17.3,JL Carter,D Ramdin,JP Duminy,0,0,null,0,0,null,null
+109,17.4,JL Carter,D Ramdin,JP Duminy,0,0,null,0,0,null,null
+110,17.5,JL Carter,D Ramdin,JP Duminy,1,0,null,1,0,null,null
+111,17.6,D Ramdin,JL Carter,JP Duminy,1,0,null,1,0,null,null
+112,18.1,D Ramdin,JL Carter,Imran Tahir,1,0,null,1,0,null,null
+113,18.2,JL Carter,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+114,18.3,JL Carter,D Ramdin,Imran Tahir,4,0,null,4,0,null,null
+115,18.4,JL Carter,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+116,18.5,JL Carter,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+117,18.6,JL Carter,D Ramdin,Imran Tahir,1,0,null,1,0,null,null
+118,19.1,JL Carter,D Ramdin,JP Duminy,0,0,null,0,0,null,null
+119,19.2,JL Carter,D Ramdin,JP Duminy,0,0,null,0,0,null,null
+120,19.3,JL Carter,D Ramdin,JP Duminy,1,0,null,1,0,null,null
+121,19.4,D Ramdin,JL Carter,JP Duminy,1,0,null,1,0,null,null
+122,19.5,JL Carter,D Ramdin,JP Duminy,0,0,null,0,0,null,null
+123,19.6,JL Carter,D Ramdin,JP Duminy,0,0,null,0,0,null,null
+124,20.1,D Ramdin,JL Carter,Imran Tahir,1,0,null,1,0,null,null
+125,20.2,JL Carter,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+126,20.3,JL Carter,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+127,20.4,JL Carter,D Ramdin,Imran Tahir,4,0,null,4,0,null,null
+128,20.5,JL Carter,D Ramdin,Imran Tahir,0,0,null,0,1,JL Carter,stumped
+129,20.6,DJG Sammy,D Ramdin,Imran Tahir,0,0,null,0,0,null,null
+130,21.1,D Ramdin,DJG Sammy,JP Duminy,1,0,null,1,0,null,null
+131,21.2,DJG Sammy,D Ramdin,JP Duminy,1,0,null,1,0,null,null
+132,21.3,D Ramdin,DJG Sammy,JP Duminy,1,0,null,1,0,null,null
+133,21.4,DJG Sammy,D Ramdin,JP Duminy,0,0,null,0,0,null,null
+134,21.5,DJG Sammy,D Ramdin,JP Duminy,0,0,null,0,0,null,null
+135,21.6,DJG Sammy,D Ramdin,JP Duminy,1,0,null,1,0,null,null
+136,22.1,DJG Sammy,D Ramdin,VD Philander,1,0,null,1,0,null,null
+137,22.2,D Ramdin,DJG Sammy,VD Philander,0,0,null,0,0,null,null
+138,22.3,D Ramdin,DJG Sammy,VD Philander,1,0,null,1,0,null,null
+139,22.4,DJG Sammy,D Ramdin,VD Philander,1,0,null,1,0,null,null
+140,22.5,D Ramdin,DJG Sammy,VD Philander,1,0,null,1,0,null,null
+141,22.6,DJG Sammy,D Ramdin,VD Philander,0,0,null,0,1,DJG Sammy,caught
+142,23.1,D Ramdin,AD Russell,DW Steyn,1,0,null,1,0,null,null
+143,23.2,AD Russell,D Ramdin,DW Steyn,1,0,null,1,0,null,null
+144,23.3,D Ramdin,AD Russell,DW Steyn,1,0,null,1,0,null,null
+145,23.4,AD Russell,D Ramdin,DW Steyn,0,0,null,0,0,null,null
+146,23.5,AD Russell,D Ramdin,DW Steyn,4,0,null,4,0,null,null
+147,23.6,AD Russell,D Ramdin,DW Steyn,1,0,null,1,0,null,null
+148,24.1,AD Russell,D Ramdin,VD Philander,1,0,null,1,0,null,null
+149,24.2,D Ramdin,AD Russell,VD Philander,1,0,null,1,0,null,null
+150,24.3,AD Russell,D Ramdin,VD Philander,6,0,null,6,0,null,null
+151,24.4,AD Russell,D Ramdin,VD Philander,6,0,null,6,0,null,null
+152,24.5,AD Russell,D Ramdin,VD Philander,0,0,null,0,1,AD Russell,caught
+153,24.6,JO Holder,D Ramdin,VD Philander,0,0,null,0,0,null,null
+154,25.1,D Ramdin,JO Holder,DW Steyn,2,0,null,2,0,null,null
+155,25.2,D Ramdin,JO Holder,DW Steyn,0,0,null,0,0,null,null
+156,25.3,D Ramdin,JO Holder,DW Steyn,1,0,null,1,0,null,null
+157,25.4,JO Holder,D Ramdin,DW Steyn,0,0,null,0,0,null,null
+158,25.5,JO Holder,D Ramdin,DW Steyn,1,0,null,1,0,null,null
+159,25.6,D Ramdin,JO Holder,DW Steyn,1,0,null,1,0,null,null
+160,26.1,D Ramdin,JO Holder,Imran Tahir,2,0,null,2,0,null,null
+161,26.2,D Ramdin,JO Holder,Imran Tahir,0,0,null,0,0,null,null
+162,26.3,D Ramdin,JO Holder,Imran Tahir,1,0,null,1,0,null,null
+163,26.4,JO Holder,D Ramdin,Imran Tahir,1,0,null,1,0,null,null
+164,26.5,D Ramdin,JO Holder,Imran Tahir,4,0,null,4,0,null,null
+165,26.6,D Ramdin,JO Holder,Imran Tahir,0,0,null,0,1,D Ramdin,bowled
+166,27.1,JO Holder,JE Taylor,M Morkel,0,1,legbyes ,1,0,null,null
+167,27.2,JE Taylor,JO Holder,M Morkel,0,0,null,0,0,null,null
+168,27.3,JE Taylor,JO Holder,M Morkel,0,0,null,0,0,null,null
+169,27.4,JE Taylor,JO Holder,M Morkel,0,0,null,0,0,null,null
+170,27.5,JE Taylor,JO Holder,M Morkel,2,0,null,2,0,null,null
+171,27.6,JE Taylor,JO Holder,M Morkel,0,0,null,0,0,null,null
+172,28.1,JO Holder,JE Taylor,DW Steyn,0,0,null,0,1,JO Holder,caught
+173,28.2,JE Taylor,SJ Benn,DW Steyn,0,0,null,0,1,JE Taylor,caught

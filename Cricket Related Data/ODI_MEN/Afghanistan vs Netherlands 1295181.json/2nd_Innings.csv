@@ -1,0 +1,298 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,SA Edwards,Musa Ahmed,Yamin Ahmadzai,0,0,null,0,0,null,null
+1,0.2,SA Edwards,Musa Ahmed,Yamin Ahmadzai,0,0,null,0,0,null,null
+2,0.3,SA Edwards,Musa Ahmed,Yamin Ahmadzai,4,0,null,4,0,null,null
+3,0.4,SA Edwards,Musa Ahmed,Yamin Ahmadzai,1,0,null,1,0,null,null
+4,0.5,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+5,0.6,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+6,1.1,SA Edwards,Musa Ahmed,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+7,1.2,SA Edwards,Musa Ahmed,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+8,1.3,Musa Ahmed,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+9,1.4,Musa Ahmed,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+10,1.5,Musa Ahmed,SA Edwards,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+11,1.6,SA Edwards,Musa Ahmed,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+12,2.1,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+13,2.2,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+14,2.3,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+15,2.4,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+16,2.5,Musa Ahmed,SA Edwards,Yamin Ahmadzai,2,0,null,2,0,null,null
+17,2.6,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+18,3.1,SA Edwards,Musa Ahmed,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+19,3.2,SA Edwards,Musa Ahmed,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+20,3.3,SA Edwards,Musa Ahmed,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+21,3.4,Musa Ahmed,SA Edwards,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+22,3.5,Musa Ahmed,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+23,3.6,Musa Ahmed,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+24,4.1,SA Edwards,Musa Ahmed,Yamin Ahmadzai,0,0,null,0,0,null,null
+25,4.2,SA Edwards,Musa Ahmed,Yamin Ahmadzai,1,0,null,1,0,null,null
+26,4.3,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+27,4.4,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+28,4.5,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+29,4.6,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+30,5.1,SA Edwards,Musa Ahmed,Gulbadin Naib,4,0,null,4,0,null,null
+31,5.2,SA Edwards,Musa Ahmed,Gulbadin Naib,1,0,null,1,0,null,null
+32,5.3,Musa Ahmed,SA Edwards,Gulbadin Naib,0,0,null,0,0,null,null
+33,5.4,Musa Ahmed,SA Edwards,Gulbadin Naib,4,0,null,4,0,null,null
+34,5.5,Musa Ahmed,SA Edwards,Gulbadin Naib,0,0,null,0,0,null,null
+35,5.6,Musa Ahmed,SA Edwards,Gulbadin Naib,0,0,null,0,0,null,null
+36,6.1,SA Edwards,Musa Ahmed,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+37,6.2,SA Edwards,Musa Ahmed,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+38,6.3,Musa Ahmed,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+39,6.4,Musa Ahmed,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+40,6.5,Musa Ahmed,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+41,6.6,Musa Ahmed,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+42,7.1,SA Edwards,Musa Ahmed,Yamin Ahmadzai,0,0,null,0,0,null,null
+43,7.2,SA Edwards,Musa Ahmed,Yamin Ahmadzai,4,0,null,4,0,null,null
+44,7.3,SA Edwards,Musa Ahmed,Yamin Ahmadzai,1,0,null,1,0,null,null
+45,7.4,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+46,7.5,Musa Ahmed,SA Edwards,Yamin Ahmadzai,0,0,null,0,1,Musa Ahmed,caught
+47,7.6,CN Ackermann,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+48,8.1,SA Edwards,CN Ackermann,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+49,8.2,SA Edwards,CN Ackermann,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+50,8.3,SA Edwards,CN Ackermann,Mujeeb Ur Rahman,0,1,wides ,1,0,null,null
+51,8.4,SA Edwards,CN Ackermann,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+52,8.5,SA Edwards,CN Ackermann,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+53,8.6,SA Edwards,CN Ackermann,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+54,8.7,SA Edwards,CN Ackermann,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+55,9.1,CN Ackermann,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+56,9.2,CN Ackermann,SA Edwards,Yamin Ahmadzai,4,0,null,4,0,null,null
+57,9.3,CN Ackermann,SA Edwards,Yamin Ahmadzai,2,0,null,2,0,null,null
+58,9.4,CN Ackermann,SA Edwards,Yamin Ahmadzai,4,0,null,4,0,null,null
+59,9.5,CN Ackermann,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+60,9.6,CN Ackermann,SA Edwards,Yamin Ahmadzai,0,0,null,0,0,null,null
+61,10.1,SA Edwards,CN Ackermann,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+62,10.2,SA Edwards,CN Ackermann,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+63,10.3,SA Edwards,CN Ackermann,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+64,10.4,CN Ackermann,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+65,10.5,CN Ackermann,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,1,CN Ackermann,caught
+66,10.6,BFW de Leede,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+67,11.1,SA Edwards,BFW de Leede,Gulbadin Naib,0,0,null,0,0,null,null
+68,11.2,SA Edwards,BFW de Leede,Gulbadin Naib,1,0,null,1,0,null,null
+69,11.3,BFW de Leede,SA Edwards,Gulbadin Naib,0,0,null,0,0,null,null
+70,11.4,BFW de Leede,SA Edwards,Gulbadin Naib,0,0,null,0,0,null,null
+71,11.5,BFW de Leede,SA Edwards,Gulbadin Naib,1,0,null,1,0,null,null
+72,11.6,SA Edwards,BFW de Leede,Gulbadin Naib,0,0,null,0,0,null,null
+73,12.1,BFW de Leede,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+74,12.2,BFW de Leede,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+75,12.3,BFW de Leede,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+76,12.4,BFW de Leede,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+77,12.5,BFW de Leede,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+78,12.6,BFW de Leede,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+79,13.1,SA Edwards,BFW de Leede,Gulbadin Naib,0,0,null,0,0,null,null
+80,13.2,SA Edwards,BFW de Leede,Gulbadin Naib,0,0,null,0,0,null,null
+81,13.3,SA Edwards,BFW de Leede,Gulbadin Naib,0,1,wides ,1,0,null,null
+82,13.4,SA Edwards,BFW de Leede,Gulbadin Naib,0,0,null,0,0,null,null
+83,13.5,SA Edwards,BFW de Leede,Gulbadin Naib,1,0,null,1,0,null,null
+84,13.6,BFW de Leede,SA Edwards,Gulbadin Naib,1,0,null,1,0,null,null
+85,13.7,SA Edwards,BFW de Leede,Gulbadin Naib,4,0,null,4,0,null,null
+86,14.1,BFW de Leede,SA Edwards,Sharafuddin Ashraf,1,0,null,1,0,null,null
+87,14.2,SA Edwards,BFW de Leede,Sharafuddin Ashraf,0,0,null,0,0,null,null
+88,14.3,SA Edwards,BFW de Leede,Sharafuddin Ashraf,1,0,null,1,0,null,null
+89,14.4,BFW de Leede,SA Edwards,Sharafuddin Ashraf,1,0,null,1,0,null,null
+90,14.5,SA Edwards,BFW de Leede,Sharafuddin Ashraf,1,0,null,1,0,null,null
+91,14.6,BFW de Leede,SA Edwards,Sharafuddin Ashraf,1,0,null,1,0,null,null
+92,15.1,BFW de Leede,SA Edwards,Gulbadin Naib,0,0,null,0,0,null,null
+93,15.2,BFW de Leede,SA Edwards,Gulbadin Naib,0,0,null,0,0,null,null
+94,15.3,BFW de Leede,SA Edwards,Gulbadin Naib,0,0,null,0,0,null,null
+95,15.4,BFW de Leede,SA Edwards,Gulbadin Naib,2,0,null,2,0,null,null
+96,15.5,BFW de Leede,SA Edwards,Gulbadin Naib,0,0,null,0,0,null,null
+97,15.6,BFW de Leede,SA Edwards,Gulbadin Naib,1,0,null,1,0,null,null
+98,16.1,BFW de Leede,SA Edwards,Rashid Khan,0,0,null,0,0,null,null
+99,16.2,BFW de Leede,SA Edwards,Rashid Khan,1,0,null,1,0,null,null
+100,16.3,SA Edwards,BFW de Leede,Rashid Khan,1,0,null,1,0,null,null
+101,16.4,BFW de Leede,SA Edwards,Rashid Khan,0,1,wides ,1,0,null,null
+102,16.5,BFW de Leede,SA Edwards,Rashid Khan,0,0,null,0,1,BFW de Leede,lbw
+103,16.6,PM Seelaar,SA Edwards,Rashid Khan,0,0,null,0,0,null,null
+104,16.7,PM Seelaar,SA Edwards,Rashid Khan,0,0,null,0,0,null,null
+105,17.1,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+106,17.2,SA Edwards,PM Seelaar,Sharafuddin Ashraf,1,0,null,1,0,null,null
+107,17.3,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+108,17.4,PM Seelaar,SA Edwards,Sharafuddin Ashraf,1,0,null,1,0,null,null
+109,17.5,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+110,17.6,SA Edwards,PM Seelaar,Sharafuddin Ashraf,1,0,null,1,0,null,null
+111,18.1,SA Edwards,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+112,18.2,SA Edwards,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+113,18.3,SA Edwards,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+114,18.4,SA Edwards,PM Seelaar,Rashid Khan,1,0,null,1,0,null,null
+115,18.5,PM Seelaar,SA Edwards,Rashid Khan,1,0,null,1,0,null,null
+116,18.6,SA Edwards,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+117,19.1,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+118,19.2,PM Seelaar,SA Edwards,Sharafuddin Ashraf,1,0,null,1,0,null,null
+119,19.3,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+120,19.4,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+121,19.5,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+122,19.6,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+123,20.1,PM Seelaar,SA Edwards,Rashid Khan,0,0,null,0,0,null,null
+124,20.2,PM Seelaar,SA Edwards,Rashid Khan,0,0,null,0,0,null,null
+125,20.3,PM Seelaar,SA Edwards,Rashid Khan,1,0,null,1,0,null,null
+126,20.4,SA Edwards,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+127,20.5,SA Edwards,PM Seelaar,Rashid Khan,3,0,null,3,0,null,null
+128,20.6,PM Seelaar,SA Edwards,Rashid Khan,0,0,null,0,0,null,null
+129,21.1,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+130,21.2,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+131,21.3,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+132,21.4,SA Edwards,PM Seelaar,Sharafuddin Ashraf,3,0,null,3,0,null,null
+133,21.5,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+134,21.6,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+135,22.1,SA Edwards,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+136,22.2,SA Edwards,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+137,22.3,SA Edwards,PM Seelaar,Rashid Khan,1,0,null,1,0,null,null
+138,22.4,PM Seelaar,SA Edwards,Rashid Khan,0,0,null,0,0,null,null
+139,22.5,PM Seelaar,SA Edwards,Rashid Khan,0,0,null,0,0,null,null
+140,22.6,PM Seelaar,SA Edwards,Rashid Khan,1,0,null,1,0,null,null
+141,23.1,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+142,23.2,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+143,23.3,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+144,23.4,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+145,23.5,PM Seelaar,SA Edwards,Sharafuddin Ashraf,1,0,null,1,0,null,null
+146,23.6,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+147,24.1,PM Seelaar,SA Edwards,Shahidullah,0,0,null,0,0,null,null
+148,24.2,PM Seelaar,SA Edwards,Shahidullah,1,0,null,1,0,null,null
+149,24.3,SA Edwards,PM Seelaar,Shahidullah,4,0,null,4,0,null,null
+150,24.4,SA Edwards,PM Seelaar,Shahidullah,0,0,null,0,0,null,null
+151,24.5,SA Edwards,PM Seelaar,Shahidullah,1,0,null,1,0,null,null
+152,24.6,PM Seelaar,SA Edwards,Shahidullah,0,0,null,0,0,null,null
+153,25.1,SA Edwards,PM Seelaar,Sharafuddin Ashraf,1,0,null,1,0,null,null
+154,25.2,PM Seelaar,SA Edwards,Sharafuddin Ashraf,1,0,null,1,0,null,null
+155,25.3,SA Edwards,PM Seelaar,Sharafuddin Ashraf,1,0,null,1,0,null,null
+156,25.4,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+157,25.5,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+158,25.6,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+159,26.1,SA Edwards,PM Seelaar,Shahidullah,0,0,null,0,0,null,null
+160,26.2,SA Edwards,PM Seelaar,Shahidullah,1,0,null,1,0,null,null
+161,26.3,PM Seelaar,SA Edwards,Shahidullah,0,0,null,0,0,null,null
+162,26.4,PM Seelaar,SA Edwards,Shahidullah,0,0,null,0,0,null,null
+163,26.5,PM Seelaar,SA Edwards,Shahidullah,0,0,null,0,0,null,null
+164,26.6,PM Seelaar,SA Edwards,Shahidullah,1,0,null,1,0,null,null
+165,27.1,PM Seelaar,SA Edwards,Sharafuddin Ashraf,1,0,null,1,0,null,null
+166,27.2,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+167,27.3,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+168,27.4,SA Edwards,PM Seelaar,Sharafuddin Ashraf,0,0,null,0,0,null,null
+169,27.5,SA Edwards,PM Seelaar,Sharafuddin Ashraf,1,0,null,1,0,null,null
+170,27.6,PM Seelaar,SA Edwards,Sharafuddin Ashraf,1,0,null,1,0,null,null
+171,28.1,PM Seelaar,SA Edwards,Shahidullah,1,0,null,1,0,null,null
+172,28.2,SA Edwards,PM Seelaar,Shahidullah,4,0,null,4,0,null,null
+173,28.3,SA Edwards,PM Seelaar,Shahidullah,1,0,null,1,0,null,null
+174,28.4,PM Seelaar,SA Edwards,Shahidullah,0,0,null,0,0,null,null
+175,28.5,PM Seelaar,SA Edwards,Shahidullah,1,0,null,1,0,null,null
+176,28.6,SA Edwards,PM Seelaar,Shahidullah,1,0,null,1,0,null,null
+177,29.1,SA Edwards,PM Seelaar,Sharafuddin Ashraf,1,0,null,1,0,null,null
+178,29.2,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+179,29.3,PM Seelaar,SA Edwards,Sharafuddin Ashraf,1,0,null,1,0,null,null
+180,29.4,SA Edwards,PM Seelaar,Sharafuddin Ashraf,1,0,null,1,0,null,null
+181,29.5,PM Seelaar,SA Edwards,Sharafuddin Ashraf,0,0,null,0,0,null,null
+182,29.6,PM Seelaar,SA Edwards,Sharafuddin Ashraf,1,0,null,1,0,null,null
+183,30.1,PM Seelaar,SA Edwards,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+184,30.2,PM Seelaar,SA Edwards,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+185,30.3,PM Seelaar,SA Edwards,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+186,30.4,SA Edwards,PM Seelaar,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+187,30.5,SA Edwards,PM Seelaar,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+188,30.6,SA Edwards,PM Seelaar,Mujeeb Ur Rahman,0,0,null,0,1,SA Edwards,bowled
+189,31.1,PM Seelaar,BHG Gorlee,Gulbadin Naib,1,0,null,1,0,null,null
+190,31.2,BHG Gorlee,PM Seelaar,Gulbadin Naib,0,0,null,0,0,null,null
+191,31.3,BHG Gorlee,PM Seelaar,Gulbadin Naib,0,0,null,0,0,null,null
+192,31.4,BHG Gorlee,PM Seelaar,Gulbadin Naib,0,0,null,0,0,null,null
+193,31.5,BHG Gorlee,PM Seelaar,Gulbadin Naib,0,0,null,0,0,null,null
+194,31.6,BHG Gorlee,PM Seelaar,Gulbadin Naib,0,0,null,0,0,null,null
+195,32.1,PM Seelaar,BHG Gorlee,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+196,32.2,PM Seelaar,BHG Gorlee,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+197,32.3,PM Seelaar,BHG Gorlee,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+198,32.4,PM Seelaar,BHG Gorlee,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+199,32.5,PM Seelaar,BHG Gorlee,Mujeeb Ur Rahman,0,1,legbyes ,1,0,null,null
+200,32.6,BHG Gorlee,PM Seelaar,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+201,33.1,PM Seelaar,BHG Gorlee,Gulbadin Naib,0,0,null,0,0,null,null
+202,33.2,PM Seelaar,BHG Gorlee,Gulbadin Naib,1,0,null,1,0,null,null
+203,33.3,BHG Gorlee,PM Seelaar,Gulbadin Naib,1,0,null,1,0,null,null
+204,33.4,PM Seelaar,BHG Gorlee,Gulbadin Naib,0,0,null,0,0,null,null
+205,33.5,PM Seelaar,BHG Gorlee,Gulbadin Naib,0,0,null,0,0,null,null
+206,33.6,PM Seelaar,BHG Gorlee,Gulbadin Naib,0,0,null,0,0,null,null
+207,34.1,BHG Gorlee,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+208,34.2,BHG Gorlee,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+209,34.3,BHG Gorlee,PM Seelaar,Rashid Khan,4,0,null,4,0,null,null
+210,34.4,BHG Gorlee,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+211,34.5,BHG Gorlee,PM Seelaar,Rashid Khan,1,0,null,1,0,null,null
+212,34.6,PM Seelaar,BHG Gorlee,Rashid Khan,0,0,null,0,0,null,null
+213,35.1,BHG Gorlee,PM Seelaar,Gulbadin Naib,0,1,wides ,1,0,null,null
+214,35.2,BHG Gorlee,PM Seelaar,Gulbadin Naib,0,0,null,0,0,null,null
+215,35.3,BHG Gorlee,PM Seelaar,Gulbadin Naib,0,0,null,0,0,null,null
+216,35.4,BHG Gorlee,PM Seelaar,Gulbadin Naib,0,0,null,0,0,null,null
+217,35.5,BHG Gorlee,PM Seelaar,Gulbadin Naib,1,0,null,1,0,null,null
+218,35.6,PM Seelaar,BHG Gorlee,Gulbadin Naib,0,0,null,0,0,null,null
+219,35.7,PM Seelaar,BHG Gorlee,Gulbadin Naib,1,0,null,1,0,null,null
+220,36.1,PM Seelaar,BHG Gorlee,Rashid Khan,0,0,null,0,0,null,null
+221,36.2,PM Seelaar,BHG Gorlee,Rashid Khan,1,0,null,1,0,null,null
+222,36.3,BHG Gorlee,PM Seelaar,Rashid Khan,1,0,null,1,0,null,null
+223,36.4,PM Seelaar,BHG Gorlee,Rashid Khan,0,0,null,0,0,null,null
+224,36.5,PM Seelaar,BHG Gorlee,Rashid Khan,1,0,null,1,0,null,null
+225,36.6,BHG Gorlee,PM Seelaar,Rashid Khan,1,0,null,1,0,null,null
+226,37.1,BHG Gorlee,PM Seelaar,Gulbadin Naib,0,1,wides ,1,0,null,null
+227,37.2,BHG Gorlee,PM Seelaar,Gulbadin Naib,1,0,null,1,0,null,null
+228,37.3,PM Seelaar,BHG Gorlee,Gulbadin Naib,0,0,null,0,0,null,null
+229,37.4,PM Seelaar,BHG Gorlee,Gulbadin Naib,4,0,null,4,0,null,null
+230,37.5,PM Seelaar,BHG Gorlee,Gulbadin Naib,1,0,null,1,0,null,null
+231,37.6,BHG Gorlee,PM Seelaar,Gulbadin Naib,4,0,null,4,0,null,null
+232,37.7,BHG Gorlee,PM Seelaar,Gulbadin Naib,0,0,null,0,0,null,null
+233,38.1,PM Seelaar,BHG Gorlee,Rashid Khan,1,0,null,1,0,null,null
+234,38.2,BHG Gorlee,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+235,38.3,BHG Gorlee,PM Seelaar,Rashid Khan,0,1,wides ,1,0,null,null
+236,38.4,BHG Gorlee,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+237,38.5,BHG Gorlee,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+238,38.6,BHG Gorlee,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+239,38.7,BHG Gorlee,PM Seelaar,Rashid Khan,0,0,null,0,0,null,null
+240,39.1,PM Seelaar,BHG Gorlee,Yamin Ahmadzai,0,0,null,0,0,null,null
+241,39.2,PM Seelaar,BHG Gorlee,Yamin Ahmadzai,1,0,null,1,0,null,null
+242,39.3,BHG Gorlee,PM Seelaar,Yamin Ahmadzai,0,0,null,0,0,null,null
+243,39.4,BHG Gorlee,PM Seelaar,Yamin Ahmadzai,1,0,null,1,0,null,null
+244,39.5,PM Seelaar,BHG Gorlee,Yamin Ahmadzai,0,0,null,0,1,PM Seelaar,bowled
+245,39.6,Saqib Zulfiqar,BHG Gorlee,Yamin Ahmadzai,0,0,null,0,0,null,null
+246,40.1,BHG Gorlee,Saqib Zulfiqar,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+247,40.2,BHG Gorlee,Saqib Zulfiqar,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+248,40.3,Saqib Zulfiqar,BHG Gorlee,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+249,40.4,Saqib Zulfiqar,BHG Gorlee,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+250,40.5,BHG Gorlee,Saqib Zulfiqar,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+251,40.6,BHG Gorlee,Saqib Zulfiqar,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+252,41.1,Saqib Zulfiqar,BHG Gorlee,Yamin Ahmadzai,0,0,null,0,0,null,null
+253,41.2,Saqib Zulfiqar,BHG Gorlee,Yamin Ahmadzai,0,0,null,0,0,null,null
+254,41.3,Saqib Zulfiqar,BHG Gorlee,Yamin Ahmadzai,0,0,null,0,0,null,null
+255,41.4,Saqib Zulfiqar,BHG Gorlee,Yamin Ahmadzai,0,0,null,0,0,null,null
+256,41.5,Saqib Zulfiqar,BHG Gorlee,Yamin Ahmadzai,0,0,null,0,1,BHG Gorlee,run out
+257,41.6,PRP Boissevain,Saqib Zulfiqar,Yamin Ahmadzai,0,0,null,0,0,null,null
+258,42.1,Saqib Zulfiqar,PRP Boissevain,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+259,42.2,PRP Boissevain,Saqib Zulfiqar,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+260,42.3,PRP Boissevain,Saqib Zulfiqar,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+261,42.4,Saqib Zulfiqar,PRP Boissevain,Mujeeb Ur Rahman,0,1,wides ,1,0,null,null
+262,42.5,Saqib Zulfiqar,PRP Boissevain,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+263,42.6,Saqib Zulfiqar,PRP Boissevain,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+264,42.7,PRP Boissevain,Saqib Zulfiqar,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+265,43.1,PRP Boissevain,Saqib Zulfiqar,Yamin Ahmadzai,0,0,null,0,0,null,null
+266,43.2,PRP Boissevain,Saqib Zulfiqar,Yamin Ahmadzai,0,4,legbyes ,4,0,null,null
+267,43.3,PRP Boissevain,Saqib Zulfiqar,Yamin Ahmadzai,1,0,null,1,0,null,null
+268,43.4,Saqib Zulfiqar,PRP Boissevain,Yamin Ahmadzai,0,0,null,0,0,null,null
+269,43.5,Saqib Zulfiqar,PRP Boissevain,Yamin Ahmadzai,4,0,null,4,0,null,null
+270,43.6,Saqib Zulfiqar,PRP Boissevain,Yamin Ahmadzai,0,1,wides ,1,0,null,null
+271,43.7,Saqib Zulfiqar,PRP Boissevain,Yamin Ahmadzai,1,0,null,1,0,null,null
+272,44.1,Saqib Zulfiqar,PRP Boissevain,Rashid Khan,0,0,null,0,1,Saqib Zulfiqar,bowled
+273,44.2,FJ Klaassen,PRP Boissevain,Rashid Khan,0,2,wides ,2,0,null,null
+274,44.3,PRP Boissevain,FJ Klaassen,Rashid Khan,0,0,null,0,0,null,null
+275,44.4,PRP Boissevain,FJ Klaassen,Rashid Khan,1,0,null,1,0,null,null
+276,44.5,FJ Klaassen,PRP Boissevain,Rashid Khan,0,0,null,0,0,null,null
+277,44.6,FJ Klaassen,PRP Boissevain,Rashid Khan,1,0,null,1,0,null,null
+278,44.7,PRP Boissevain,FJ Klaassen,Rashid Khan,1,0,null,1,0,null,null
+279,45.1,PRP Boissevain,FJ Klaassen,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+280,45.2,FJ Klaassen,PRP Boissevain,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+281,45.3,PRP Boissevain,FJ Klaassen,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+282,45.4,FJ Klaassen,PRP Boissevain,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+283,45.5,PRP Boissevain,FJ Klaassen,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+284,45.6,PRP Boissevain,FJ Klaassen,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+285,46.1,PRP Boissevain,FJ Klaassen,Rashid Khan,1,0,null,1,0,null,null
+286,46.2,FJ Klaassen,PRP Boissevain,Rashid Khan,3,0,null,3,0,null,null
+287,46.3,PRP Boissevain,FJ Klaassen,Rashid Khan,0,0,null,0,1,PRP Boissevain,bowled
+288,46.4,VJ Kingma,FJ Klaassen,Rashid Khan,0,0,null,0,0,null,null
+289,46.5,VJ Kingma,FJ Klaassen,Rashid Khan,0,0,null,0,0,null,null
+290,46.6,VJ Kingma,FJ Klaassen,Rashid Khan,0,0,null,0,0,null,null
+291,47.1,FJ Klaassen,VJ Kingma,Yamin Ahmadzai,0,0,null,0,0,null,null
+292,47.2,FJ Klaassen,VJ Kingma,Yamin Ahmadzai,1,0,null,1,0,null,null
+293,47.3,VJ Kingma,FJ Klaassen,Yamin Ahmadzai,0,0,null,0,0,null,null
+294,47.4,VJ Kingma,FJ Klaassen,Yamin Ahmadzai,0,0,null,0,0,null,null
+295,47.5,VJ Kingma,FJ Klaassen,Yamin Ahmadzai,1,0,null,1,1,VJ Kingma,run out
+296,47.6,FJ Klaassen,BD Glover,Yamin Ahmadzai,0,0,null,0,1,FJ Klaassen,run out

@@ -1,0 +1,241 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Nasir Jamshed,Kamran Akmal,B Kumar,0,1,legbyes ,1,0,null,null
+1,0.2,Kamran Akmal,Nasir Jamshed,B Kumar,0,0,null,0,0,null,null
+2,0.3,Kamran Akmal,Nasir Jamshed,B Kumar,0,0,null,0,0,null,null
+3,0.4,Kamran Akmal,Nasir Jamshed,B Kumar,1,0,null,1,0,null,null
+4,0.5,Nasir Jamshed,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+5,0.6,Nasir Jamshed,Kamran Akmal,B Kumar,1,0,null,1,0,null,null
+6,1.1,Nasir Jamshed,Kamran Akmal,UT Yadav,0,0,null,0,0,null,null
+7,1.2,Nasir Jamshed,Kamran Akmal,UT Yadav,0,0,null,0,0,null,null
+8,1.3,Nasir Jamshed,Kamran Akmal,UT Yadav,1,0,null,1,0,null,null
+9,1.4,Kamran Akmal,Nasir Jamshed,UT Yadav,0,0,null,0,0,null,null
+10,1.5,Kamran Akmal,Nasir Jamshed,UT Yadav,0,0,null,0,0,null,null
+11,1.6,Kamran Akmal,Nasir Jamshed,UT Yadav,0,0,null,0,0,null,null
+12,2.1,Nasir Jamshed,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+13,2.2,Nasir Jamshed,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+14,2.3,Nasir Jamshed,Kamran Akmal,B Kumar,0,0,null,0,1,Nasir Jamshed,caught
+15,2.4,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+16,2.5,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+17,2.6,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+18,3.1,Kamran Akmal,Mohammad Hafeez,UT Yadav,1,0,null,1,0,null,null
+19,3.2,Mohammad Hafeez,Kamran Akmal,UT Yadav,1,0,null,1,0,null,null
+20,3.3,Kamran Akmal,Mohammad Hafeez,UT Yadav,1,0,null,1,0,null,null
+21,3.4,Mohammad Hafeez,Kamran Akmal,UT Yadav,0,0,null,0,0,null,null
+22,3.5,Mohammad Hafeez,Kamran Akmal,UT Yadav,0,0,null,0,0,null,null
+23,3.6,Mohammad Hafeez,Kamran Akmal,UT Yadav,0,0,null,0,0,null,null
+24,4.1,Kamran Akmal,Mohammad Hafeez,B Kumar,0,0,null,0,0,null,null
+25,4.2,Kamran Akmal,Mohammad Hafeez,B Kumar,0,0,null,0,0,null,null
+26,4.3,Kamran Akmal,Mohammad Hafeez,B Kumar,0,0,null,0,0,null,null
+27,4.4,Kamran Akmal,Mohammad Hafeez,B Kumar,0,0,null,0,0,null,null
+28,4.5,Kamran Akmal,Mohammad Hafeez,B Kumar,0,0,null,0,0,null,null
+29,4.6,Kamran Akmal,Mohammad Hafeez,B Kumar,0,0,null,0,0,null,null
+30,5.1,Mohammad Hafeez,Kamran Akmal,UT Yadav,0,0,null,0,0,null,null
+31,5.2,Mohammad Hafeez,Kamran Akmal,UT Yadav,1,0,null,1,0,null,null
+32,5.3,Kamran Akmal,Mohammad Hafeez,UT Yadav,0,0,null,0,0,null,null
+33,5.4,Kamran Akmal,Mohammad Hafeez,UT Yadav,1,0,null,1,0,null,null
+34,5.5,Mohammad Hafeez,Kamran Akmal,UT Yadav,4,0,null,4,0,null,null
+35,5.6,Mohammad Hafeez,Kamran Akmal,UT Yadav,4,0,null,4,0,null,null
+36,6.1,Kamran Akmal,Mohammad Hafeez,B Kumar,4,0,null,4,0,null,null
+37,6.2,Kamran Akmal,Mohammad Hafeez,B Kumar,1,0,null,1,0,null,null
+38,6.3,Mohammad Hafeez,Kamran Akmal,B Kumar,4,0,null,4,0,null,null
+39,6.4,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+40,6.5,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+41,6.6,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+42,7.1,Kamran Akmal,Mohammad Hafeez,I Sharma,0,0,null,0,0,null,null
+43,7.2,Kamran Akmal,Mohammad Hafeez,I Sharma,0,0,null,0,0,null,null
+44,7.3,Kamran Akmal,Mohammad Hafeez,I Sharma,4,0,null,4,0,null,null
+45,7.4,Kamran Akmal,Mohammad Hafeez,I Sharma,0,0,null,0,0,null,null
+46,7.5,Kamran Akmal,Mohammad Hafeez,I Sharma,1,0,null,1,0,null,null
+47,7.6,Mohammad Hafeez,Kamran Akmal,I Sharma,4,0,null,4,0,null,null
+48,8.1,Kamran Akmal,Mohammad Hafeez,B Kumar,0,0,null,0,0,null,null
+49,8.2,Kamran Akmal,Mohammad Hafeez,B Kumar,0,0,null,0,0,null,null
+50,8.3,Kamran Akmal,Mohammad Hafeez,B Kumar,1,0,null,1,0,null,null
+51,8.4,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+52,8.5,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+53,8.6,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+54,9.1,Kamran Akmal,Mohammad Hafeez,I Sharma,0,0,null,0,0,null,null
+55,9.2,Kamran Akmal,Mohammad Hafeez,I Sharma,0,0,null,0,0,null,null
+56,9.3,Kamran Akmal,Mohammad Hafeez,I Sharma,1,0,null,1,0,null,null
+57,9.4,Mohammad Hafeez,Kamran Akmal,I Sharma,4,0,null,4,0,null,null
+58,9.5,Mohammad Hafeez,Kamran Akmal,I Sharma,2,0,null,2,0,null,null
+59,9.6,Mohammad Hafeez,Kamran Akmal,I Sharma,0,0,null,0,0,null,null
+60,10.1,Kamran Akmal,Mohammad Hafeez,B Kumar,1,0,null,1,0,null,null
+61,10.2,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+62,10.3,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+63,10.4,Mohammad Hafeez,Kamran Akmal,B Kumar,1,0,null,1,0,null,null
+64,10.5,Kamran Akmal,Mohammad Hafeez,B Kumar,2,0,null,2,0,null,null
+65,10.6,Kamran Akmal,Mohammad Hafeez,B Kumar,0,0,null,0,0,null,null
+66,11.1,Mohammad Hafeez,Kamran Akmal,I Sharma,0,0,null,0,0,null,null
+67,11.2,Mohammad Hafeez,Kamran Akmal,I Sharma,0,0,null,0,0,null,null
+68,11.3,Mohammad Hafeez,Kamran Akmal,I Sharma,1,0,null,1,0,null,null
+69,11.4,Kamran Akmal,Mohammad Hafeez,I Sharma,1,0,null,1,0,null,null
+70,11.5,Mohammad Hafeez,Kamran Akmal,I Sharma,0,0,null,0,0,null,null
+71,11.6,Mohammad Hafeez,Kamran Akmal,I Sharma,1,0,null,1,0,null,null
+72,12.1,Mohammad Hafeez,Kamran Akmal,B Kumar,0,0,null,0,1,Mohammad Hafeez,caught
+73,12.2,Asad Shafiq,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+74,12.3,Asad Shafiq,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+75,12.4,Asad Shafiq,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+76,12.5,Asad Shafiq,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+77,12.6,Asad Shafiq,Kamran Akmal,B Kumar,1,0,null,1,0,null,null
+78,13.1,Asad Shafiq,Kamran Akmal,R Ashwin,1,0,null,1,0,null,null
+79,13.2,Kamran Akmal,Asad Shafiq,R Ashwin,0,0,null,0,0,null,null
+80,13.3,Kamran Akmal,Asad Shafiq,R Ashwin,0,0,null,0,0,null,null
+81,13.4,Kamran Akmal,Asad Shafiq,R Ashwin,0,0,null,0,0,null,null
+82,13.5,Kamran Akmal,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+83,13.6,Asad Shafiq,Kamran Akmal,R Ashwin,1,0,null,1,0,null,null
+84,14.1,Asad Shafiq,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+85,14.2,Asad Shafiq,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+86,14.3,Asad Shafiq,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+87,14.4,Asad Shafiq,Kamran Akmal,B Kumar,2,0,null,2,0,null,null
+88,14.5,Asad Shafiq,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+89,14.6,Asad Shafiq,Kamran Akmal,B Kumar,0,0,null,0,0,null,null
+90,15.1,Kamran Akmal,Asad Shafiq,R Ashwin,0,0,null,0,1,Kamran Akmal,caught
+91,15.2,Misbah-ul-Haq,Asad Shafiq,R Ashwin,0,0,null,0,0,null,null
+92,15.3,Misbah-ul-Haq,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+93,15.4,Asad Shafiq,Misbah-ul-Haq,R Ashwin,1,0,null,1,0,null,null
+94,15.5,Misbah-ul-Haq,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+95,15.6,Asad Shafiq,Misbah-ul-Haq,R Ashwin,2,0,null,2,0,null,null
+96,16.1,Misbah-ul-Haq,Asad Shafiq,UT Yadav,1,0,null,1,0,null,null
+97,16.2,Asad Shafiq,Misbah-ul-Haq,UT Yadav,1,0,null,1,0,null,null
+98,16.3,Misbah-ul-Haq,Asad Shafiq,UT Yadav,0,0,null,0,0,null,null
+99,16.4,Misbah-ul-Haq,Asad Shafiq,UT Yadav,0,0,null,0,0,null,null
+100,16.5,Misbah-ul-Haq,Asad Shafiq,UT Yadav,1,0,null,1,0,null,null
+101,16.6,Asad Shafiq,Misbah-ul-Haq,UT Yadav,0,0,null,0,0,null,null
+102,17.1,Misbah-ul-Haq,Asad Shafiq,R Ashwin,0,0,null,0,0,null,null
+103,17.2,Misbah-ul-Haq,Asad Shafiq,R Ashwin,0,0,null,0,0,null,null
+104,17.3,Misbah-ul-Haq,Asad Shafiq,R Ashwin,0,0,null,0,0,null,null
+105,17.4,Misbah-ul-Haq,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+106,17.5,Asad Shafiq,Misbah-ul-Haq,R Ashwin,0,0,null,0,0,null,null
+107,17.6,Asad Shafiq,Misbah-ul-Haq,R Ashwin,1,0,null,1,0,null,null
+108,18.1,Asad Shafiq,Misbah-ul-Haq,UT Yadav,0,0,null,0,0,null,null
+109,18.2,Asad Shafiq,Misbah-ul-Haq,UT Yadav,0,0,null,0,0,null,null
+110,18.3,Asad Shafiq,Misbah-ul-Haq,UT Yadav,4,0,null,4,0,null,null
+111,18.4,Asad Shafiq,Misbah-ul-Haq,UT Yadav,0,0,null,0,0,null,null
+112,18.5,Asad Shafiq,Misbah-ul-Haq,UT Yadav,0,0,null,0,0,null,null
+113,18.6,Asad Shafiq,Misbah-ul-Haq,UT Yadav,0,0,null,0,0,null,null
+114,19.1,Misbah-ul-Haq,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+115,19.2,Asad Shafiq,Misbah-ul-Haq,R Ashwin,1,0,null,1,0,null,null
+116,19.3,Misbah-ul-Haq,Asad Shafiq,R Ashwin,4,0,null,4,0,null,null
+117,19.4,Misbah-ul-Haq,Asad Shafiq,R Ashwin,0,0,null,0,0,null,null
+118,19.5,Misbah-ul-Haq,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+119,19.6,Asad Shafiq,Misbah-ul-Haq,R Ashwin,0,0,null,0,0,null,null
+120,20.1,Misbah-ul-Haq,Asad Shafiq,V Kohli,1,0,null,1,0,null,null
+121,20.2,Asad Shafiq,Misbah-ul-Haq,V Kohli,0,0,null,0,0,null,null
+122,20.3,Asad Shafiq,Misbah-ul-Haq,V Kohli,0,0,null,0,0,null,null
+123,20.4,Asad Shafiq,Misbah-ul-Haq,V Kohli,2,0,null,2,0,null,null
+124,20.5,Asad Shafiq,Misbah-ul-Haq,V Kohli,1,0,null,1,0,null,null
+125,20.6,Misbah-ul-Haq,Asad Shafiq,V Kohli,0,0,null,0,0,null,null
+126,21.1,Asad Shafiq,Misbah-ul-Haq,R Ashwin,1,0,null,1,0,null,null
+127,21.2,Misbah-ul-Haq,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+128,21.3,Asad Shafiq,Misbah-ul-Haq,R Ashwin,1,0,null,1,0,null,null
+129,21.4,Misbah-ul-Haq,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+130,21.5,Asad Shafiq,Misbah-ul-Haq,R Ashwin,1,0,null,1,0,null,null
+131,21.6,Misbah-ul-Haq,Asad Shafiq,R Ashwin,2,0,null,2,0,null,null
+132,22.1,Asad Shafiq,Misbah-ul-Haq,RA Jadeja,1,0,null,1,0,null,null
+133,22.2,Misbah-ul-Haq,Asad Shafiq,RA Jadeja,0,0,null,0,0,null,null
+134,22.3,Misbah-ul-Haq,Asad Shafiq,RA Jadeja,0,0,null,0,0,null,null
+135,22.4,Misbah-ul-Haq,Asad Shafiq,RA Jadeja,1,0,null,1,0,null,null
+136,22.5,Asad Shafiq,Misbah-ul-Haq,RA Jadeja,1,0,null,1,0,null,null
+137,22.6,Misbah-ul-Haq,Asad Shafiq,RA Jadeja,0,0,null,0,0,null,null
+138,23.1,Asad Shafiq,Misbah-ul-Haq,R Ashwin,1,0,null,1,0,null,null
+139,23.2,Misbah-ul-Haq,Asad Shafiq,R Ashwin,0,1,wides ,1,0,null,null
+140,23.3,Misbah-ul-Haq,Asad Shafiq,R Ashwin,0,0,null,0,0,null,null
+141,23.4,Misbah-ul-Haq,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+142,23.5,Asad Shafiq,Misbah-ul-Haq,R Ashwin,1,0,null,1,0,null,null
+143,23.6,Misbah-ul-Haq,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+144,23.7,Asad Shafiq,Misbah-ul-Haq,R Ashwin,0,0,null,0,0,null,null
+145,24.1,Misbah-ul-Haq,Asad Shafiq,RA Jadeja,0,0,null,0,0,null,null
+146,24.2,Misbah-ul-Haq,Asad Shafiq,RA Jadeja,0,0,null,0,0,null,null
+147,24.3,Misbah-ul-Haq,Asad Shafiq,RA Jadeja,1,0,null,1,0,null,null
+148,24.4,Asad Shafiq,Misbah-ul-Haq,RA Jadeja,0,0,null,0,0,null,null
+149,24.5,Asad Shafiq,Misbah-ul-Haq,RA Jadeja,0,0,null,0,0,null,null
+150,24.6,Asad Shafiq,Misbah-ul-Haq,RA Jadeja,0,0,null,0,0,null,null
+151,25.1,Misbah-ul-Haq,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+152,25.2,Asad Shafiq,Misbah-ul-Haq,R Ashwin,1,0,null,1,0,null,null
+153,25.3,Misbah-ul-Haq,Asad Shafiq,R Ashwin,1,0,null,1,0,null,null
+154,25.4,Asad Shafiq,Misbah-ul-Haq,R Ashwin,0,0,null,0,0,null,null
+155,25.5,Asad Shafiq,Misbah-ul-Haq,R Ashwin,0,0,null,0,0,null,null
+156,25.6,Asad Shafiq,Misbah-ul-Haq,R Ashwin,1,0,null,1,0,null,null
+157,26.1,Asad Shafiq,Misbah-ul-Haq,RA Jadeja,4,0,null,4,0,null,null
+158,26.2,Asad Shafiq,Misbah-ul-Haq,RA Jadeja,4,0,null,4,0,null,null
+159,26.3,Asad Shafiq,Misbah-ul-Haq,RA Jadeja,1,0,null,1,0,null,null
+160,26.4,Misbah-ul-Haq,Asad Shafiq,RA Jadeja,0,0,null,0,1,Misbah-ul-Haq,bowled
+161,26.5,Shoaib Malik,Asad Shafiq,RA Jadeja,1,0,null,1,0,null,null
+162,26.6,Asad Shafiq,Shoaib Malik,RA Jadeja,0,0,null,0,0,null,null
+163,27.1,Shoaib Malik,Asad Shafiq,V Kohli,1,0,null,1,0,null,null
+164,27.2,Asad Shafiq,Shoaib Malik,V Kohli,1,0,null,1,0,null,null
+165,27.3,Shoaib Malik,Asad Shafiq,V Kohli,0,0,null,0,0,null,null
+166,27.4,Shoaib Malik,Asad Shafiq,V Kohli,0,0,null,0,0,null,null
+167,27.5,Shoaib Malik,Asad Shafiq,V Kohli,4,0,null,4,0,null,null
+168,27.6,Shoaib Malik,Asad Shafiq,V Kohli,1,0,null,1,0,null,null
+169,28.1,Shoaib Malik,Asad Shafiq,RA Jadeja,0,0,null,0,0,null,null
+170,28.2,Shoaib Malik,Asad Shafiq,RA Jadeja,0,0,null,0,0,null,null
+171,28.3,Shoaib Malik,Asad Shafiq,RA Jadeja,0,0,null,0,0,null,null
+172,28.4,Shoaib Malik,Asad Shafiq,RA Jadeja,0,0,null,0,0,null,null
+173,28.5,Shoaib Malik,Asad Shafiq,RA Jadeja,1,0,null,1,0,null,null
+174,28.6,Asad Shafiq,Shoaib Malik,RA Jadeja,0,0,null,0,0,null,null
+175,29.1,Shoaib Malik,Asad Shafiq,I Sharma,1,0,null,1,0,null,null
+176,29.2,Asad Shafiq,Shoaib Malik,I Sharma,1,0,null,1,0,null,null
+177,29.3,Shoaib Malik,Asad Shafiq,I Sharma,4,0,null,4,0,null,null
+178,29.4,Shoaib Malik,Asad Shafiq,I Sharma,0,0,null,0,0,null,null
+179,29.5,Shoaib Malik,Asad Shafiq,I Sharma,0,1,wides ,1,0,null,null
+180,29.6,Shoaib Malik,Asad Shafiq,I Sharma,0,0,null,0,0,null,null
+181,29.7,Shoaib Malik,Asad Shafiq,I Sharma,0,0,null,0,0,null,null
+182,30.1,Asad Shafiq,Shoaib Malik,RA Jadeja,1,0,null,1,0,null,null
+183,30.2,Shoaib Malik,Asad Shafiq,RA Jadeja,0,0,null,0,0,null,null
+184,30.3,Shoaib Malik,Asad Shafiq,RA Jadeja,1,0,null,1,0,null,null
+185,30.4,Asad Shafiq,Shoaib Malik,RA Jadeja,1,0,null,1,0,null,null
+186,30.5,Shoaib Malik,Asad Shafiq,RA Jadeja,1,0,null,1,0,null,null
+187,30.6,Asad Shafiq,Shoaib Malik,RA Jadeja,1,0,null,1,0,null,null
+188,31.1,Asad Shafiq,Shoaib Malik,I Sharma,0,0,null,0,1,Asad Shafiq,caught
+189,31.2,Umar Amin,Shoaib Malik,I Sharma,1,0,null,1,0,null,null
+190,31.3,Shoaib Malik,Umar Amin,I Sharma,1,0,null,1,0,null,null
+191,31.4,Umar Amin,Shoaib Malik,I Sharma,2,0,null,2,0,null,null
+192,31.5,Umar Amin,Shoaib Malik,I Sharma,0,0,null,0,0,null,null
+193,31.6,Umar Amin,Shoaib Malik,I Sharma,1,0,null,1,0,null,null
+194,32.1,Umar Amin,Shoaib Malik,RA Jadeja,0,0,null,0,0,null,null
+195,32.2,Umar Amin,Shoaib Malik,RA Jadeja,1,0,null,1,0,null,null
+196,32.3,Shoaib Malik,Umar Amin,RA Jadeja,1,0,null,1,0,null,null
+197,32.4,Umar Amin,Shoaib Malik,RA Jadeja,1,0,null,1,0,null,null
+198,32.5,Shoaib Malik,Umar Amin,RA Jadeja,0,0,null,0,0,null,null
+199,32.6,Shoaib Malik,Umar Amin,RA Jadeja,0,0,null,0,1,Shoaib Malik,lbw
+200,33.1,Umar Amin,Wahab Riaz,R Ashwin,1,0,null,1,0,null,null
+201,33.2,Wahab Riaz,Umar Amin,R Ashwin,0,0,null,0,0,null,null
+202,33.3,Wahab Riaz,Umar Amin,R Ashwin,0,0,null,0,1,Wahab Riaz,bowled
+203,33.4,Saeed Ajmal,Umar Amin,R Ashwin,0,0,null,0,0,null,null
+204,33.5,Saeed Ajmal,Umar Amin,R Ashwin,1,0,null,1,0,null,null
+205,33.6,Umar Amin,Saeed Ajmal,R Ashwin,0,0,null,0,0,null,null
+206,34.1,Saeed Ajmal,Umar Amin,RA Jadeja,0,0,null,0,0,null,null
+207,34.2,Saeed Ajmal,Umar Amin,RA Jadeja,0,0,null,0,0,null,null
+208,34.3,Saeed Ajmal,Umar Amin,RA Jadeja,0,0,null,0,0,null,null
+209,34.4,Saeed Ajmal,Umar Amin,RA Jadeja,0,0,null,0,0,null,null
+210,34.5,Saeed Ajmal,Umar Amin,RA Jadeja,0,0,null,0,0,null,null
+211,34.6,Saeed Ajmal,Umar Amin,RA Jadeja,0,0,null,0,0,null,null
+212,35.1,Umar Amin,Saeed Ajmal,I Sharma,4,0,null,4,0,null,null
+213,35.2,Umar Amin,Saeed Ajmal,I Sharma,0,0,null,0,0,null,null
+214,35.3,Umar Amin,Saeed Ajmal,I Sharma,0,0,null,0,0,null,null
+215,35.4,Umar Amin,Saeed Ajmal,I Sharma,2,0,null,2,0,null,null
+216,35.5,Umar Amin,Saeed Ajmal,I Sharma,0,0,null,0,0,null,null
+217,35.6,Umar Amin,Saeed Ajmal,I Sharma,2,0,null,2,0,null,null
+218,36.1,Saeed Ajmal,Umar Amin,RA Jadeja,1,0,null,1,0,null,null
+219,36.2,Umar Amin,Saeed Ajmal,RA Jadeja,4,0,null,4,0,null,null
+220,36.3,Umar Amin,Saeed Ajmal,RA Jadeja,0,0,null,0,0,null,null
+221,36.4,Umar Amin,Saeed Ajmal,RA Jadeja,1,0,null,1,0,null,null
+222,36.5,Saeed Ajmal,Umar Amin,RA Jadeja,0,0,null,0,0,null,null
+223,36.6,Saeed Ajmal,Umar Amin,RA Jadeja,1,0,null,1,0,null,null
+224,37.1,Saeed Ajmal,Umar Amin,UT Yadav,0,0,null,0,0,null,null
+225,37.2,Saeed Ajmal,Umar Amin,UT Yadav,1,0,null,1,0,null,null
+226,37.3,Umar Amin,Saeed Ajmal,UT Yadav,1,0,null,1,0,null,null
+227,37.4,Saeed Ajmal,Umar Amin,UT Yadav,0,0,null,0,0,null,null
+228,37.5,Saeed Ajmal,Umar Amin,UT Yadav,1,0,null,1,0,null,null
+229,37.6,Umar Amin,Saeed Ajmal,UT Yadav,0,0,null,0,0,null,null
+230,38.1,Saeed Ajmal,Umar Amin,I Sharma,0,0,null,0,1,Saeed Ajmal,caught
+231,38.2,Junaid Khan,Umar Amin,I Sharma,0,0,null,0,1,Junaid Khan,run out
+232,38.3,Umar Amin,Mohammad Irfan,I Sharma,0,0,null,0,0,null,null
+233,38.4,Umar Amin,Mohammad Irfan,I Sharma,0,0,null,0,0,null,null
+234,38.5,Umar Amin,Mohammad Irfan,I Sharma,1,0,null,1,0,null,null
+235,38.6,Mohammad Irfan,Umar Amin,I Sharma,0,0,null,0,0,null,null
+236,39.1,Umar Amin,Mohammad Irfan,UT Yadav,4,0,null,4,0,null,null
+237,39.2,Umar Amin,Mohammad Irfan,UT Yadav,0,0,null,0,0,null,null
+238,39.3,Umar Amin,Mohammad Irfan,UT Yadav,1,0,null,1,0,null,null
+239,39.4,Mohammad Irfan,Umar Amin,UT Yadav,0,0,null,0,1,Mohammad Irfan,run out

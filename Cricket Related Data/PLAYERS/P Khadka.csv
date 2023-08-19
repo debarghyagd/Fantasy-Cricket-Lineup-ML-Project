@@ -1,0 +1,14 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1215122,Tribhuvan University International Cricket Ground,Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",1,3,14,0,0
+1,1215125,Tribhuvan University International Cricket Ground,Oman,Mohammad Nadeem,Right-arm fast-medium,"[0, 1, 1]",1,9,11,2,0
+2,1215125,Tribhuvan University International Cricket Ground,Oman,Khawar Ali,Right-arm legbreak,"[1, 1, 1]",0,18,8,2,1
+3,1215124,Tribhuvan University International Cricket Ground,United States of America,J Theron,Right-arm fast-medium,"[0, 1, 1]",0,6,14,0,0
+4,1215124,Tribhuvan University International Cricket Ground,United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,2,9,0,0
+5,1215124,Tribhuvan University International Cricket Ground,United States of America,EH Hutchinson,Right-arm fast-medium,"[0, 1, 1]",0,5,8,1,0
+6,1215124,Tribhuvan University International Cricket Ground,United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",1,6,21,1,0
+7,1215127,Tribhuvan University International Cricket Ground,United States of America,TK Patel,Left-arm orthodox,"[1, 0, 1]",0,19,10,3,1
+8,1170454,ICC Academy,United Arab Emirates,Qadeer Ahmed,Right-arm medium,"[0, 1, 2]",1,13,22,2,0
+9,1170455,ICC Academy,United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+10,1170455,ICC Academy,United Arab Emirates,Imran Haider,Right-arm legbreak,"[1, 1, 1]",1,7,15,0,0
+11,1170456,ICC Academy,United Arab Emirates,Qadeer Ahmed,Right-arm medium,"[0, 1, 2]",1,23,24,3,0
+12,1170456,ICC Academy,United Arab Emirates,Imran Haider,Right-arm legbreak,"[1, 1, 1]",0,19,16,2,0

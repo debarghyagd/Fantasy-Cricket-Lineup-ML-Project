@@ -1,0 +1,265 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,JJ Roy,JM Bairstow,PVD Chameera,0,0,null,0,0,null,null
+1,0.2,JJ Roy,JM Bairstow,PVD Chameera,0,0,null,0,0,null,null
+2,0.3,JJ Roy,JM Bairstow,PVD Chameera,0,0,null,0,0,null,null
+3,0.4,JJ Roy,JM Bairstow,PVD Chameera,0,0,null,0,0,null,null
+4,0.5,JJ Roy,JM Bairstow,PVD Chameera,3,0,null,3,0,null,null
+5,0.6,JM Bairstow,JJ Roy,PVD Chameera,0,0,null,0,0,null,null
+6,1.1,JJ Roy,JM Bairstow,B Fernando,0,0,null,0,0,null,null
+7,1.2,JJ Roy,JM Bairstow,B Fernando,0,0,null,0,0,null,null
+8,1.3,JJ Roy,JM Bairstow,B Fernando,1,0,null,1,0,null,null
+9,1.4,JM Bairstow,JJ Roy,B Fernando,0,0,null,0,0,null,null
+10,1.5,JM Bairstow,JJ Roy,B Fernando,0,0,null,0,0,null,null
+11,1.6,JM Bairstow,JJ Roy,B Fernando,0,0,null,0,0,null,null
+12,2.1,JJ Roy,JM Bairstow,PVD Chameera,4,0,null,4,0,null,null
+13,2.2,JJ Roy,JM Bairstow,PVD Chameera,3,0,null,3,0,null,null
+14,2.3,JM Bairstow,JJ Roy,PVD Chameera,1,0,null,1,0,null,null
+15,2.4,JJ Roy,JM Bairstow,PVD Chameera,0,0,null,0,0,null,null
+16,2.5,JJ Roy,JM Bairstow,PVD Chameera,0,0,null,0,0,null,null
+17,2.6,JJ Roy,JM Bairstow,PVD Chameera,4,0,null,4,0,null,null
+18,3.1,JM Bairstow,JJ Roy,B Fernando,0,0,null,0,0,null,null
+19,3.2,JM Bairstow,JJ Roy,B Fernando,1,0,null,1,0,null,null
+20,3.3,JJ Roy,JM Bairstow,B Fernando,0,0,null,0,0,null,null
+21,3.4,JJ Roy,JM Bairstow,B Fernando,4,0,null,4,0,null,null
+22,3.5,JJ Roy,JM Bairstow,B Fernando,0,0,null,0,0,null,null
+23,3.6,JJ Roy,JM Bairstow,B Fernando,0,0,null,0,0,null,null
+24,4.1,JM Bairstow,JJ Roy,AM Fernando,1,0,null,1,0,null,null
+25,4.2,JJ Roy,JM Bairstow,AM Fernando,4,0,null,4,0,null,null
+26,4.3,JJ Roy,JM Bairstow,AM Fernando,0,0,null,0,0,null,null
+27,4.4,JJ Roy,JM Bairstow,AM Fernando,1,0,null,1,0,null,null
+28,4.5,JM Bairstow,JJ Roy,AM Fernando,1,0,null,1,0,null,null
+29,4.6,JJ Roy,JM Bairstow,AM Fernando,4,0,null,4,0,null,null
+30,5.1,JM Bairstow,JJ Roy,B Fernando,0,0,null,0,0,null,null
+31,5.2,JM Bairstow,JJ Roy,B Fernando,0,1,wides ,1,0,null,null
+32,5.3,JM Bairstow,JJ Roy,B Fernando,2,0,null,2,0,null,null
+33,5.4,JM Bairstow,JJ Roy,B Fernando,0,0,null,0,0,null,null
+34,5.5,JM Bairstow,JJ Roy,B Fernando,0,0,null,0,0,null,null
+35,5.6,JM Bairstow,JJ Roy,B Fernando,0,0,null,0,0,null,null
+36,5.7,JM Bairstow,JJ Roy,B Fernando,1,0,null,1,0,null,null
+37,6.1,JM Bairstow,JJ Roy,AM Fernando,0,0,null,0,0,null,null
+38,6.2,JM Bairstow,JJ Roy,AM Fernando,0,0,null,0,0,null,null
+39,6.3,JM Bairstow,JJ Roy,AM Fernando,0,0,null,0,0,null,null
+40,6.4,JM Bairstow,JJ Roy,AM Fernando,1,0,null,1,0,null,null
+41,6.5,JJ Roy,JM Bairstow,AM Fernando,4,0,null,4,0,null,null
+42,6.6,JJ Roy,JM Bairstow,AM Fernando,0,0,null,0,0,null,null
+43,7.1,JM Bairstow,JJ Roy,B Fernando,1,0,null,1,0,null,null
+44,7.2,JJ Roy,JM Bairstow,B Fernando,0,0,null,0,0,null,null
+45,7.3,JJ Roy,JM Bairstow,B Fernando,4,0,null,4,0,null,null
+46,7.4,JJ Roy,JM Bairstow,B Fernando,4,0,null,4,0,null,null
+47,7.5,JJ Roy,JM Bairstow,B Fernando,0,0,null,0,0,null,null
+48,7.6,JJ Roy,JM Bairstow,B Fernando,0,0,null,0,0,null,null
+49,8.1,JM Bairstow,JJ Roy,AM Fernando,4,0,null,4,0,null,null
+50,8.2,JM Bairstow,JJ Roy,AM Fernando,0,0,null,0,0,null,null
+51,8.3,JM Bairstow,JJ Roy,AM Fernando,0,0,null,0,0,null,null
+52,8.4,JM Bairstow,JJ Roy,AM Fernando,4,0,null,4,0,null,null
+53,8.5,JM Bairstow,JJ Roy,AM Fernando,6,0,null,6,0,null,null
+54,8.6,JM Bairstow,JJ Roy,AM Fernando,0,0,null,0,0,null,null
+55,9.1,JJ Roy,JM Bairstow,PVD Chameera,0,0,null,0,0,null,null
+56,9.2,JJ Roy,JM Bairstow,PVD Chameera,0,0,null,0,0,null,null
+57,9.3,JJ Roy,JM Bairstow,PVD Chameera,0,0,null,0,0,null,null
+58,9.4,JJ Roy,JM Bairstow,PVD Chameera,0,0,null,0,0,null,null
+59,9.5,JJ Roy,JM Bairstow,PVD Chameera,0,0,null,0,0,null,null
+60,9.6,JJ Roy,JM Bairstow,PVD Chameera,1,0,null,1,0,null,null
+61,10.1,JJ Roy,JM Bairstow,PWH de Silva,2,0,null,2,0,null,null
+62,10.2,JJ Roy,JM Bairstow,PWH de Silva,0,0,null,0,0,null,null
+63,10.3,JJ Roy,JM Bairstow,PWH de Silva,0,0,null,0,0,null,null
+64,10.4,JJ Roy,JM Bairstow,PWH de Silva,1,0,null,1,0,null,null
+65,10.5,JM Bairstow,JJ Roy,PWH de Silva,0,0,null,0,0,null,null
+66,10.6,JM Bairstow,JJ Roy,PWH de Silva,1,0,null,1,0,null,null
+67,11.1,JM Bairstow,JJ Roy,PVD Chameera,0,0,null,0,0,null,null
+68,11.2,JM Bairstow,JJ Roy,PVD Chameera,0,0,null,0,0,null,null
+69,11.3,JM Bairstow,JJ Roy,PVD Chameera,0,0,null,0,0,null,null
+70,11.4,JM Bairstow,JJ Roy,PVD Chameera,1,0,null,1,0,null,null
+71,11.5,JJ Roy,JM Bairstow,PVD Chameera,1,0,null,1,0,null,null
+72,11.6,JM Bairstow,JJ Roy,PVD Chameera,0,0,null,0,0,null,null
+73,12.1,JJ Roy,JM Bairstow,PWH de Silva,1,0,null,1,0,null,null
+74,12.2,JM Bairstow,JJ Roy,PWH de Silva,0,0,null,0,0,null,null
+75,12.3,JM Bairstow,JJ Roy,PWH de Silva,4,0,null,4,0,null,null
+76,12.4,JM Bairstow,JJ Roy,PWH de Silva,0,0,null,0,1,JM Bairstow,bowled
+77,12.5,JE Root,JJ Roy,PWH de Silva,1,0,null,1,0,null,null
+78,12.6,JJ Roy,JE Root,PWH de Silva,1,0,null,1,0,null,null
+79,13.1,JJ Roy,JE Root,PVD Chameera,0,0,null,0,0,null,null
+80,13.2,JJ Roy,JE Root,PVD Chameera,0,0,null,0,0,null,null
+81,13.3,JJ Roy,JE Root,PVD Chameera,1,0,null,1,0,null,null
+82,13.4,JE Root,JJ Roy,PVD Chameera,2,0,null,2,0,null,null
+83,13.5,JE Root,JJ Roy,PVD Chameera,0,0,null,0,0,null,null
+84,13.6,JE Root,JJ Roy,PVD Chameera,1,0,null,1,0,null,null
+85,14.1,JE Root,JJ Roy,PWH de Silva,0,0,null,0,0,null,null
+86,14.2,JE Root,JJ Roy,PWH de Silva,2,0,null,2,0,null,null
+87,14.3,JE Root,JJ Roy,PWH de Silva,0,0,null,0,0,null,null
+88,14.4,JE Root,JJ Roy,PWH de Silva,2,0,null,2,0,null,null
+89,14.5,JE Root,JJ Roy,PWH de Silva,0,0,null,0,0,null,null
+90,14.6,JE Root,JJ Roy,PWH de Silva,1,0,null,1,0,null,null
+91,15.1,JE Root,JJ Roy,C Karunaratne,1,0,null,1,0,null,null
+92,15.2,JJ Roy,JE Root,C Karunaratne,0,0,null,0,0,null,null
+93,15.3,JJ Roy,JE Root,C Karunaratne,1,0,null,1,0,null,null
+94,15.4,JE Root,JJ Roy,C Karunaratne,0,0,null,0,0,null,null
+95,15.5,JE Root,JJ Roy,C Karunaratne,1,0,null,1,0,null,null
+96,15.6,JJ Roy,JE Root,C Karunaratne,1,0,null,1,0,null,null
+97,16.1,JJ Roy,JE Root,PWH de Silva,1,0,null,1,0,null,null
+98,16.2,JE Root,JJ Roy,PWH de Silva,2,0,null,2,0,null,null
+99,16.3,JE Root,JJ Roy,PWH de Silva,1,0,null,1,0,null,null
+100,16.4,JJ Roy,JE Root,PWH de Silva,4,0,null,4,0,null,null
+101,16.5,JJ Roy,JE Root,PWH de Silva,4,0,null,4,0,null,null
+102,16.6,JJ Roy,JE Root,PWH de Silva,1,0,null,1,0,null,null
+103,17.1,JJ Roy,JE Root,C Karunaratne,0,0,null,0,1,JJ Roy,caught
+104,17.2,EJG Morgan,JE Root,C Karunaratne,0,0,null,0,0,null,null
+105,17.3,EJG Morgan,JE Root,C Karunaratne,0,0,null,0,0,null,null
+106,17.4,EJG Morgan,JE Root,C Karunaratne,1,0,null,1,0,null,null
+107,17.5,JE Root,EJG Morgan,C Karunaratne,1,0,null,1,0,null,null
+108,17.6,EJG Morgan,JE Root,C Karunaratne,1,0,null,1,0,null,null
+109,18.1,EJG Morgan,JE Root,PVD Chameera,0,0,null,0,0,null,null
+110,18.2,EJG Morgan,JE Root,PVD Chameera,1,0,null,1,0,null,null
+111,18.3,JE Root,EJG Morgan,PVD Chameera,1,0,null,1,0,null,null
+112,18.4,EJG Morgan,JE Root,PVD Chameera,0,0,null,0,0,null,null
+113,18.5,EJG Morgan,JE Root,PVD Chameera,1,0,null,1,0,null,null
+114,18.6,JE Root,EJG Morgan,PVD Chameera,0,0,null,0,0,null,null
+115,19.1,EJG Morgan,JE Root,C Karunaratne,0,0,null,0,0,null,null
+116,19.2,EJG Morgan,JE Root,C Karunaratne,1,0,null,1,0,null,null
+117,19.3,JE Root,EJG Morgan,C Karunaratne,0,0,null,0,0,null,null
+118,19.4,JE Root,EJG Morgan,C Karunaratne,0,1,byes ,1,0,null,null
+119,19.5,EJG Morgan,JE Root,C Karunaratne,4,0,null,4,0,null,null
+120,19.6,EJG Morgan,JE Root,C Karunaratne,0,0,null,0,0,null,null
+121,20.1,JE Root,EJG Morgan,PVD Chameera,4,0,null,4,0,null,null
+122,20.2,JE Root,EJG Morgan,PVD Chameera,0,0,null,0,0,null,null
+123,20.3,JE Root,EJG Morgan,PVD Chameera,0,0,null,0,0,null,null
+124,20.4,JE Root,EJG Morgan,PVD Chameera,4,0,null,4,0,null,null
+125,20.5,JE Root,EJG Morgan,PVD Chameera,0,0,null,0,0,null,null
+126,20.6,JE Root,EJG Morgan,PVD Chameera,2,0,null,2,0,null,null
+127,21.1,EJG Morgan,JE Root,C Karunaratne,4,0,null,4,0,null,null
+128,21.2,EJG Morgan,JE Root,C Karunaratne,4,0,null,4,0,null,null
+129,21.3,EJG Morgan,JE Root,C Karunaratne,1,0,null,1,0,null,null
+130,21.4,JE Root,EJG Morgan,C Karunaratne,0,0,null,0,0,null,null
+131,21.5,JE Root,EJG Morgan,C Karunaratne,1,0,null,1,0,null,null
+132,21.6,EJG Morgan,JE Root,C Karunaratne,0,1,wides ,1,0,null,null
+133,21.7,EJG Morgan,JE Root,C Karunaratne,4,0,null,4,0,null,null
+134,22.1,JE Root,EJG Morgan,AM Fernando,1,0,null,1,0,null,null
+135,22.2,EJG Morgan,JE Root,AM Fernando,1,0,null,1,0,null,null
+136,22.3,JE Root,EJG Morgan,AM Fernando,1,0,null,1,0,null,null
+137,22.4,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+138,22.5,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+139,22.6,EJG Morgan,JE Root,AM Fernando,1,0,null,1,0,null,null
+140,23.1,EJG Morgan,JE Root,B Fernando,0,0,null,0,0,null,null
+141,23.2,EJG Morgan,JE Root,B Fernando,1,0,null,1,0,null,null
+142,23.3,JE Root,EJG Morgan,B Fernando,0,0,null,0,0,null,null
+143,23.4,JE Root,EJG Morgan,B Fernando,0,0,null,0,0,null,null
+144,23.5,JE Root,EJG Morgan,B Fernando,1,0,null,1,0,null,null
+145,23.6,EJG Morgan,JE Root,B Fernando,2,0,null,2,0,null,null
+146,24.1,JE Root,EJG Morgan,AM Fernando,0,0,null,0,0,null,null
+147,24.2,JE Root,EJG Morgan,AM Fernando,1,0,null,1,0,null,null
+148,24.3,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+149,24.4,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+150,24.5,EJG Morgan,JE Root,AM Fernando,1,0,null,1,0,null,null
+151,24.6,JE Root,EJG Morgan,AM Fernando,1,0,null,1,0,null,null
+152,25.1,JE Root,EJG Morgan,B Fernando,0,5,wides ,5,0,null,null
+153,25.2,JE Root,EJG Morgan,B Fernando,0,0,null,0,0,null,null
+154,25.3,JE Root,EJG Morgan,B Fernando,0,0,null,0,0,null,null
+155,25.4,JE Root,EJG Morgan,B Fernando,0,0,null,0,0,null,null
+156,25.5,JE Root,EJG Morgan,B Fernando,1,0,null,1,0,null,null
+157,25.6,EJG Morgan,JE Root,B Fernando,0,0,null,0,0,null,null
+158,25.7,EJG Morgan,JE Root,B Fernando,0,0,null,0,0,null,null
+159,26.1,JE Root,EJG Morgan,AM Fernando,0,0,null,0,0,null,null
+160,26.2,JE Root,EJG Morgan,AM Fernando,0,0,null,0,0,null,null
+161,26.3,JE Root,EJG Morgan,AM Fernando,1,0,null,1,0,null,null
+162,26.4,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+163,26.5,EJG Morgan,JE Root,AM Fernando,1,0,null,1,0,null,null
+164,26.6,JE Root,EJG Morgan,AM Fernando,0,0,null,0,0,null,null
+165,27.1,EJG Morgan,JE Root,B Fernando,1,0,null,1,0,null,null
+166,27.2,JE Root,EJG Morgan,B Fernando,1,0,null,1,0,null,null
+167,27.3,EJG Morgan,JE Root,B Fernando,2,0,null,2,0,null,null
+168,27.4,EJG Morgan,JE Root,B Fernando,2,0,null,2,0,null,null
+169,27.5,EJG Morgan,JE Root,B Fernando,0,0,null,0,0,null,null
+170,27.6,EJG Morgan,JE Root,B Fernando,0,1,wides ,1,0,null,null
+171,27.7,EJG Morgan,JE Root,B Fernando,1,0,null,1,0,null,null
+172,28.1,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+173,28.2,EJG Morgan,JE Root,AM Fernando,1,0,null,1,0,null,null
+174,28.3,JE Root,EJG Morgan,AM Fernando,1,0,null,1,0,null,null
+175,28.4,EJG Morgan,JE Root,AM Fernando,1,0,null,1,0,null,null
+176,28.5,JE Root,EJG Morgan,AM Fernando,4,0,null,4,0,null,null
+177,28.6,JE Root,EJG Morgan,AM Fernando,1,0,null,1,0,null,null
+178,29.1,JE Root,EJG Morgan,C Karunaratne,0,0,null,0,0,null,null
+179,29.2,JE Root,EJG Morgan,C Karunaratne,0,0,null,0,0,null,null
+180,29.3,JE Root,EJG Morgan,C Karunaratne,2,0,null,2,0,null,null
+181,29.4,JE Root,EJG Morgan,C Karunaratne,0,0,null,0,0,null,null
+182,29.5,JE Root,EJG Morgan,C Karunaratne,1,0,null,1,0,null,null
+183,29.6,EJG Morgan,JE Root,C Karunaratne,0,0,null,0,0,null,null
+184,30.1,JE Root,EJG Morgan,PWH de Silva,0,0,null,0,0,null,null
+185,30.2,JE Root,EJG Morgan,PWH de Silva,0,0,null,0,0,null,null
+186,30.3,JE Root,EJG Morgan,PWH de Silva,0,0,null,0,0,null,null
+187,30.4,JE Root,EJG Morgan,PWH de Silva,1,0,null,1,0,null,null
+188,30.5,EJG Morgan,JE Root,PWH de Silva,4,0,null,4,0,null,null
+189,30.6,EJG Morgan,JE Root,PWH de Silva,1,0,null,1,0,null,null
+190,31.1,EJG Morgan,JE Root,DM de Silva,0,0,null,0,0,null,null
+191,31.2,EJG Morgan,JE Root,DM de Silva,0,0,null,0,0,null,null
+192,31.3,EJG Morgan,JE Root,DM de Silva,0,2,wides ,2,0,null,null
+193,31.4,JE Root,EJG Morgan,DM de Silva,0,0,null,0,0,null,null
+194,31.5,JE Root,EJG Morgan,DM de Silva,1,0,null,1,0,null,null
+195,31.6,EJG Morgan,JE Root,DM de Silva,0,0,null,0,0,null,null
+196,31.7,EJG Morgan,JE Root,DM de Silva,1,0,null,1,0,null,null
+197,32.1,EJG Morgan,JE Root,PWH de Silva,0,0,null,0,0,null,null
+198,32.2,EJG Morgan,JE Root,PWH de Silva,6,0,null,6,0,null,null
+199,32.3,EJG Morgan,JE Root,PWH de Silva,0,0,null,0,0,null,null
+200,32.4,EJG Morgan,JE Root,PWH de Silva,0,0,null,0,0,null,null
+201,32.5,EJG Morgan,JE Root,PWH de Silva,1,0,null,1,0,null,null
+202,32.6,JE Root,EJG Morgan,PWH de Silva,0,0,null,0,0,null,null
+203,33.1,EJG Morgan,JE Root,DM de Silva,1,0,null,1,0,null,null
+204,33.2,JE Root,EJG Morgan,DM de Silva,2,0,null,2,0,null,null
+205,33.3,JE Root,EJG Morgan,DM de Silva,1,0,null,1,0,null,null
+206,33.4,EJG Morgan,JE Root,DM de Silva,1,0,null,1,0,null,null
+207,33.5,JE Root,EJG Morgan,DM de Silva,1,0,null,1,0,null,null
+208,33.6,EJG Morgan,JE Root,DM de Silva,0,0,null,0,0,null,null
+209,34.1,JE Root,EJG Morgan,PWH de Silva,0,0,null,0,0,null,null
+210,34.2,JE Root,EJG Morgan,PWH de Silva,1,0,null,1,0,null,null
+211,34.3,EJG Morgan,JE Root,PWH de Silva,1,0,null,1,0,null,null
+212,34.4,JE Root,EJG Morgan,PWH de Silva,1,0,null,1,0,null,null
+213,34.5,EJG Morgan,JE Root,PWH de Silva,1,0,null,1,0,null,null
+214,34.6,JE Root,EJG Morgan,PWH de Silva,0,0,null,0,0,null,null
+215,35.1,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+216,35.2,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+217,35.3,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+218,35.4,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+219,35.5,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+220,35.6,EJG Morgan,JE Root,AM Fernando,1,0,null,1,0,null,null
+221,36.1,EJG Morgan,JE Root,PVD Chameera,0,0,null,0,0,null,null
+222,36.2,EJG Morgan,JE Root,PVD Chameera,0,0,null,0,0,null,null
+223,36.3,EJG Morgan,JE Root,PVD Chameera,0,0,null,0,0,null,null
+224,36.4,EJG Morgan,JE Root,PVD Chameera,2,0,null,2,0,null,null
+225,36.5,EJG Morgan,JE Root,PVD Chameera,4,0,null,4,0,null,null
+226,36.6,EJG Morgan,JE Root,PVD Chameera,0,0,null,0,0,null,null
+227,37.1,JE Root,EJG Morgan,AM Fernando,0,0,null,0,0,null,null
+228,37.2,JE Root,EJG Morgan,AM Fernando,1,0,null,1,0,null,null
+229,37.3,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+230,37.4,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+231,37.5,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+232,37.6,EJG Morgan,JE Root,AM Fernando,1,0,null,1,0,null,null
+233,38.1,EJG Morgan,JE Root,PVD Chameera,4,0,null,4,0,null,null
+234,38.2,EJG Morgan,JE Root,PVD Chameera,0,0,null,0,0,null,null
+235,38.3,EJG Morgan,JE Root,PVD Chameera,1,0,null,1,0,null,null
+236,38.4,JE Root,EJG Morgan,PVD Chameera,0,0,null,0,0,null,null
+237,38.5,JE Root,EJG Morgan,PVD Chameera,0,0,null,0,0,null,null
+238,38.6,JE Root,EJG Morgan,PVD Chameera,0,0,null,0,0,null,null
+239,39.1,EJG Morgan,JE Root,AM Fernando,1,0,null,1,0,null,null
+240,39.2,JE Root,EJG Morgan,AM Fernando,1,0,null,1,0,null,null
+241,39.3,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+242,39.4,EJG Morgan,JE Root,AM Fernando,1,0,null,1,0,null,null
+243,39.5,JE Root,EJG Morgan,AM Fernando,1,0,null,1,0,null,null
+244,39.6,EJG Morgan,JE Root,AM Fernando,0,0,null,0,0,null,null
+245,40.1,JE Root,EJG Morgan,B Fernando,1,0,null,1,0,null,null
+246,40.2,EJG Morgan,JE Root,B Fernando,1,0,null,1,0,null,null
+247,40.3,JE Root,EJG Morgan,B Fernando,0,0,null,0,0,null,null
+248,40.4,JE Root,EJG Morgan,B Fernando,4,0,null,4,0,null,null
+249,40.5,JE Root,EJG Morgan,B Fernando,0,0,null,0,0,null,null
+250,40.6,JE Root,EJG Morgan,B Fernando,1,0,null,1,0,null,null
+251,41.1,JE Root,EJG Morgan,C Karunaratne,0,0,null,0,0,null,null
+252,41.2,JE Root,EJG Morgan,C Karunaratne,1,0,null,1,0,null,null
+253,41.3,EJG Morgan,JE Root,C Karunaratne,0,0,null,0,0,null,null
+254,41.4,EJG Morgan,JE Root,C Karunaratne,0,1,wides ,1,0,null,null
+255,41.5,EJG Morgan,JE Root,C Karunaratne,1,0,null,1,0,null,null
+256,41.6,JE Root,EJG Morgan,C Karunaratne,0,0,null,0,0,null,null
+257,41.7,JE Root,EJG Morgan,C Karunaratne,1,0,null,1,0,null,null
+258,42.1,JE Root,EJG Morgan,B Fernando,0,0,null,0,0,null,null
+259,42.2,JE Root,EJG Morgan,B Fernando,0,0,null,0,0,null,null
+260,42.3,JE Root,EJG Morgan,B Fernando,4,0,null,4,0,null,null
+261,42.4,JE Root,EJG Morgan,B Fernando,1,0,null,1,0,null,null
+262,42.5,EJG Morgan,JE Root,B Fernando,0,0,null,0,0,null,null
+263,42.6,EJG Morgan,JE Root,B Fernando,4,0,null,4,0,null,null

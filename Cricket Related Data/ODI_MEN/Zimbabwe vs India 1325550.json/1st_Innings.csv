@@ -1,0 +1,239 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+1,0.2,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+2,0.3,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+3,0.4,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+4,0.5,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+5,0.6,T Kaitano,I Kaia,Mohammed Siraj,1,0,null,1,0,null,null
+6,1.1,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+7,1.2,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+8,1.3,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+9,1.4,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+10,1.5,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+11,1.6,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+12,2.1,I Kaia,T Kaitano,Mohammed Siraj,0,0,null,0,0,null,null
+13,2.2,I Kaia,T Kaitano,Mohammed Siraj,0,0,null,0,0,null,null
+14,2.3,I Kaia,T Kaitano,Mohammed Siraj,0,0,null,0,0,null,null
+15,2.4,I Kaia,T Kaitano,Mohammed Siraj,0,0,null,0,0,null,null
+16,2.5,I Kaia,T Kaitano,Mohammed Siraj,0,0,null,0,0,null,null
+17,2.6,I Kaia,T Kaitano,Mohammed Siraj,0,0,null,0,0,null,null
+18,3.1,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+19,3.2,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+20,3.3,T Kaitano,I Kaia,M Prasidh Krishna,0,1,wides ,1,0,null,null
+21,3.4,T Kaitano,I Kaia,M Prasidh Krishna,1,0,null,1,0,null,null
+22,3.5,I Kaia,T Kaitano,M Prasidh Krishna,0,0,null,0,0,null,null
+23,3.6,I Kaia,T Kaitano,M Prasidh Krishna,0,0,null,0,0,null,null
+24,3.7,I Kaia,T Kaitano,M Prasidh Krishna,0,0,null,0,0,null,null
+25,4.1,T Kaitano,I Kaia,Mohammed Siraj,0,1,legbyes ,1,0,null,null
+26,4.2,I Kaia,T Kaitano,Mohammed Siraj,0,0,null,0,0,null,null
+27,4.3,I Kaia,T Kaitano,Mohammed Siraj,0,0,null,0,0,null,null
+28,4.4,I Kaia,T Kaitano,Mohammed Siraj,2,0,null,2,0,null,null
+29,4.5,I Kaia,T Kaitano,Mohammed Siraj,2,0,null,2,0,null,null
+30,4.6,I Kaia,T Kaitano,Mohammed Siraj,0,0,null,0,0,null,null
+31,5.1,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+32,5.2,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+33,5.3,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+34,5.4,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+35,5.5,T Kaitano,I Kaia,M Prasidh Krishna,2,0,null,2,0,null,null
+36,5.6,T Kaitano,I Kaia,M Prasidh Krishna,0,0,null,0,0,null,null
+37,6.1,I Kaia,T Kaitano,Mohammed Siraj,0,1,wides ,1,0,null,null
+38,6.2,I Kaia,T Kaitano,Mohammed Siraj,0,0,null,0,0,null,null
+39,6.3,I Kaia,T Kaitano,Mohammed Siraj,1,0,null,1,0,null,null
+40,6.4,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+41,6.5,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+42,6.6,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+43,6.7,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+44,7.1,I Kaia,T Kaitano,SN Thakur,0,0,null,0,0,null,null
+45,7.2,I Kaia,T Kaitano,SN Thakur,1,0,null,1,0,null,null
+46,7.3,T Kaitano,I Kaia,SN Thakur,0,0,null,0,0,null,null
+47,7.4,T Kaitano,I Kaia,SN Thakur,3,0,null,3,0,null,null
+48,7.5,I Kaia,T Kaitano,SN Thakur,4,0,null,4,0,null,null
+49,7.6,I Kaia,T Kaitano,SN Thakur,0,0,null,0,0,null,null
+50,8.1,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+51,8.2,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+52,8.3,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+53,8.4,T Kaitano,I Kaia,Mohammed Siraj,0,0,null,0,1,T Kaitano,caught
+54,8.5,W Madhevere,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+55,8.6,W Madhevere,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+56,9.1,I Kaia,W Madhevere,SN Thakur,0,0,null,0,0,null,null
+57,9.2,I Kaia,W Madhevere,SN Thakur,0,0,null,0,0,null,null
+58,9.3,I Kaia,W Madhevere,SN Thakur,4,0,null,4,0,null,null
+59,9.4,I Kaia,W Madhevere,SN Thakur,0,0,null,0,0,null,null
+60,9.5,I Kaia,W Madhevere,SN Thakur,0,1,wides ,1,0,null,null
+61,9.6,I Kaia,W Madhevere,SN Thakur,1,0,null,1,0,null,null
+62,9.7,W Madhevere,I Kaia,SN Thakur,0,0,null,0,0,null,null
+63,10.1,I Kaia,W Madhevere,Mohammed Siraj,1,0,null,1,0,null,null
+64,10.2,W Madhevere,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+65,10.3,W Madhevere,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+66,10.4,W Madhevere,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+67,10.5,W Madhevere,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+68,10.6,W Madhevere,I Kaia,Mohammed Siraj,0,0,null,0,0,null,null
+69,11.1,I Kaia,W Madhevere,SN Thakur,0,0,null,0,1,I Kaia,caught
+70,11.2,RW Chakabva,W Madhevere,SN Thakur,0,0,null,0,0,null,null
+71,11.3,RW Chakabva,W Madhevere,SN Thakur,0,0,null,0,0,null,null
+72,11.4,RW Chakabva,W Madhevere,SN Thakur,0,0,null,0,0,null,null
+73,11.5,RW Chakabva,W Madhevere,SN Thakur,2,0,null,2,0,null,null
+74,11.6,RW Chakabva,W Madhevere,SN Thakur,0,0,null,0,1,RW Chakabva,caught
+75,12.1,W Madhevere,Sikandar Raza,M Prasidh Krishna,0,0,null,0,0,null,null
+76,12.2,W Madhevere,Sikandar Raza,M Prasidh Krishna,0,0,null,0,0,null,null
+77,12.3,W Madhevere,Sikandar Raza,M Prasidh Krishna,2,0,null,2,0,null,null
+78,12.4,W Madhevere,Sikandar Raza,M Prasidh Krishna,0,0,null,0,1,W Madhevere,caught
+79,12.5,SC Williams,Sikandar Raza,M Prasidh Krishna,3,0,null,3,0,null,null
+80,12.6,Sikandar Raza,SC Williams,M Prasidh Krishna,5,0,null,5,0,null,null
+81,13.1,Sikandar Raza,SC Williams,SN Thakur,0,0,null,0,0,null,null
+82,13.2,Sikandar Raza,SC Williams,SN Thakur,0,0,null,0,0,null,null
+83,13.3,Sikandar Raza,SC Williams,SN Thakur,1,0,null,1,0,null,null
+84,13.4,SC Williams,Sikandar Raza,SN Thakur,0,0,null,0,0,null,null
+85,13.5,SC Williams,Sikandar Raza,SN Thakur,4,0,null,4,0,null,null
+86,13.6,SC Williams,Sikandar Raza,SN Thakur,0,0,null,0,0,null,null
+87,14.1,Sikandar Raza,SC Williams,M Prasidh Krishna,0,0,null,0,0,null,null
+88,14.2,Sikandar Raza,SC Williams,M Prasidh Krishna,0,0,null,0,0,null,null
+89,14.3,Sikandar Raza,SC Williams,M Prasidh Krishna,2,0,null,2,0,null,null
+90,14.4,Sikandar Raza,SC Williams,M Prasidh Krishna,0,0,null,0,0,null,null
+91,14.5,Sikandar Raza,SC Williams,M Prasidh Krishna,0,0,null,0,0,null,null
+92,14.6,Sikandar Raza,SC Williams,M Prasidh Krishna,0,0,null,0,0,null,null
+93,15.1,SC Williams,Sikandar Raza,AR Patel,0,0,null,0,0,null,null
+94,15.2,SC Williams,Sikandar Raza,AR Patel,1,0,null,1,0,null,null
+95,15.3,Sikandar Raza,SC Williams,AR Patel,1,0,null,1,0,null,null
+96,15.4,SC Williams,Sikandar Raza,AR Patel,1,0,null,1,0,null,null
+97,15.5,Sikandar Raza,SC Williams,AR Patel,0,0,null,0,0,null,null
+98,15.6,Sikandar Raza,SC Williams,AR Patel,1,0,null,1,0,null,null
+99,16.1,Sikandar Raza,SC Williams,M Prasidh Krishna,0,0,null,0,0,null,null
+100,16.2,Sikandar Raza,SC Williams,M Prasidh Krishna,1,0,null,1,0,null,null
+101,16.3,SC Williams,Sikandar Raza,M Prasidh Krishna,0,0,null,0,0,null,null
+102,16.4,SC Williams,Sikandar Raza,M Prasidh Krishna,4,0,null,4,0,null,null
+103,16.5,SC Williams,Sikandar Raza,M Prasidh Krishna,0,0,null,0,0,null,null
+104,16.6,SC Williams,Sikandar Raza,M Prasidh Krishna,6,0,null,6,0,null,null
+105,17.1,Sikandar Raza,SC Williams,AR Patel,0,0,null,0,0,null,null
+106,17.2,Sikandar Raza,SC Williams,AR Patel,0,0,null,0,0,null,null
+107,17.3,Sikandar Raza,SC Williams,AR Patel,0,0,null,0,0,null,null
+108,17.4,Sikandar Raza,SC Williams,AR Patel,0,0,null,0,0,null,null
+109,17.5,Sikandar Raza,SC Williams,AR Patel,0,0,null,0,0,null,null
+110,17.6,Sikandar Raza,SC Williams,AR Patel,0,0,null,0,0,null,null
+111,18.1,SC Williams,Sikandar Raza,Kuldeep Yadav,0,0,null,0,0,null,null
+112,18.2,SC Williams,Sikandar Raza,Kuldeep Yadav,1,0,null,1,0,null,null
+113,18.3,Sikandar Raza,SC Williams,Kuldeep Yadav,1,0,null,1,0,null,null
+114,18.4,SC Williams,Sikandar Raza,Kuldeep Yadav,1,0,null,1,0,null,null
+115,18.5,Sikandar Raza,SC Williams,Kuldeep Yadav,1,0,null,1,0,null,null
+116,18.6,SC Williams,Sikandar Raza,Kuldeep Yadav,0,0,null,0,0,null,null
+117,19.1,Sikandar Raza,SC Williams,AR Patel,1,0,null,1,0,null,null
+118,19.2,SC Williams,Sikandar Raza,AR Patel,1,0,null,1,0,null,null
+119,19.3,Sikandar Raza,SC Williams,AR Patel,0,0,null,0,0,null,null
+120,19.4,Sikandar Raza,SC Williams,AR Patel,0,0,null,0,0,null,null
+121,19.5,Sikandar Raza,SC Williams,AR Patel,1,0,null,1,0,null,null
+122,19.6,SC Williams,Sikandar Raza,AR Patel,1,0,null,1,0,null,null
+123,20.1,SC Williams,Sikandar Raza,Kuldeep Yadav,1,0,null,1,0,null,null
+124,20.2,Sikandar Raza,SC Williams,Kuldeep Yadav,0,0,null,0,0,null,null
+125,20.3,Sikandar Raza,SC Williams,Kuldeep Yadav,1,0,null,1,0,null,null
+126,20.4,SC Williams,Sikandar Raza,Kuldeep Yadav,1,0,null,1,0,null,null
+127,20.5,Sikandar Raza,SC Williams,Kuldeep Yadav,0,0,null,0,0,null,null
+128,20.6,Sikandar Raza,SC Williams,Kuldeep Yadav,0,0,null,0,1,Sikandar Raza,caught
+129,21.1,SC Williams,RP Burl,AR Patel,0,0,null,0,0,null,null
+130,21.2,SC Williams,RP Burl,AR Patel,2,0,null,2,0,null,null
+131,21.3,SC Williams,RP Burl,AR Patel,0,0,null,0,0,null,null
+132,21.4,SC Williams,RP Burl,AR Patel,0,1,legbyes ,1,0,null,null
+133,21.5,RP Burl,SC Williams,AR Patel,1,0,null,1,0,null,null
+134,21.6,SC Williams,RP Burl,AR Patel,0,0,null,0,0,null,null
+135,22.1,RP Burl,SC Williams,Kuldeep Yadav,1,0,null,1,0,null,null
+136,22.2,SC Williams,RP Burl,Kuldeep Yadav,1,0,null,1,0,null,null
+137,22.3,RP Burl,SC Williams,Kuldeep Yadav,1,0,null,1,0,null,null
+138,22.4,SC Williams,RP Burl,Kuldeep Yadav,2,0,null,2,0,null,null
+139,22.5,SC Williams,RP Burl,Kuldeep Yadav,2,0,null,2,0,null,null
+140,22.6,SC Williams,RP Burl,Kuldeep Yadav,0,0,null,0,0,null,null
+141,23.1,RP Burl,SC Williams,AR Patel,1,0,null,1,0,null,null
+142,23.2,SC Williams,RP Burl,AR Patel,1,0,null,1,0,null,null
+143,23.3,RP Burl,SC Williams,AR Patel,1,0,null,1,0,null,null
+144,23.4,SC Williams,RP Burl,AR Patel,0,0,null,0,0,null,null
+145,23.5,SC Williams,RP Burl,AR Patel,0,0,null,0,0,null,null
+146,23.6,SC Williams,RP Burl,AR Patel,1,0,null,1,0,null,null
+147,24.1,SC Williams,RP Burl,Kuldeep Yadav,0,0,null,0,0,null,null
+148,24.2,SC Williams,RP Burl,Kuldeep Yadav,0,0,null,0,0,null,null
+149,24.3,SC Williams,RP Burl,Kuldeep Yadav,4,0,null,4,0,null,null
+150,24.4,SC Williams,RP Burl,Kuldeep Yadav,1,0,null,1,0,null,null
+151,24.5,RP Burl,SC Williams,Kuldeep Yadav,0,0,null,0,0,null,null
+152,24.6,RP Burl,SC Williams,Kuldeep Yadav,0,0,null,0,0,null,null
+153,25.1,SC Williams,RP Burl,DJ Hooda,0,0,null,0,0,null,null
+154,25.2,SC Williams,RP Burl,DJ Hooda,1,0,null,1,0,null,null
+155,25.3,RP Burl,SC Williams,DJ Hooda,0,0,null,0,0,null,null
+156,25.4,RP Burl,SC Williams,DJ Hooda,0,0,null,0,0,null,null
+157,25.5,RP Burl,SC Williams,DJ Hooda,1,0,null,1,0,null,null
+158,25.6,SC Williams,RP Burl,DJ Hooda,0,0,null,0,0,null,null
+159,26.1,RP Burl,SC Williams,Kuldeep Yadav,0,1,wides ,1,0,null,null
+160,26.2,RP Burl,SC Williams,Kuldeep Yadav,4,0,null,4,0,null,null
+161,26.3,RP Burl,SC Williams,Kuldeep Yadav,1,0,null,1,0,null,null
+162,26.4,SC Williams,RP Burl,Kuldeep Yadav,1,0,null,1,0,null,null
+163,26.5,RP Burl,SC Williams,Kuldeep Yadav,0,0,null,0,0,null,null
+164,26.6,RP Burl,SC Williams,Kuldeep Yadav,0,0,null,0,0,null,null
+165,26.7,RP Burl,SC Williams,Kuldeep Yadav,0,0,null,0,0,null,null
+166,27.1,SC Williams,RP Burl,DJ Hooda,1,0,null,1,0,null,null
+167,27.2,RP Burl,SC Williams,DJ Hooda,2,0,null,2,0,null,null
+168,27.3,RP Burl,SC Williams,DJ Hooda,0,0,null,0,0,null,null
+169,27.4,RP Burl,SC Williams,DJ Hooda,0,0,null,0,0,null,null
+170,27.5,RP Burl,SC Williams,DJ Hooda,1,0,null,1,0,null,null
+171,27.6,SC Williams,RP Burl,DJ Hooda,0,0,null,0,1,SC Williams,caught
+172,28.1,RP Burl,LM Jongwe,SN Thakur,0,1,wides ,1,0,null,null
+173,28.2,RP Burl,LM Jongwe,SN Thakur,1,0,null,1,0,null,null
+174,28.3,LM Jongwe,RP Burl,SN Thakur,0,0,null,0,0,null,null
+175,28.4,LM Jongwe,RP Burl,SN Thakur,0,0,null,0,0,null,null
+176,28.5,LM Jongwe,RP Burl,SN Thakur,0,0,null,0,0,null,null
+177,28.6,LM Jongwe,RP Burl,SN Thakur,0,0,null,0,0,null,null
+178,28.7,LM Jongwe,RP Burl,SN Thakur,0,0,null,0,0,null,null
+179,29.1,RP Burl,LM Jongwe,Mohammed Siraj,0,0,null,0,0,null,null
+180,29.2,RP Burl,LM Jongwe,Mohammed Siraj,0,0,null,0,0,null,null
+181,29.3,RP Burl,LM Jongwe,Mohammed Siraj,0,0,null,0,0,null,null
+182,29.4,RP Burl,LM Jongwe,Mohammed Siraj,0,1,wides ,1,0,null,null
+183,29.5,RP Burl,LM Jongwe,Mohammed Siraj,0,0,null,0,0,null,null
+184,29.6,RP Burl,LM Jongwe,Mohammed Siraj,0,5,wides ,5,0,null,null
+185,29.7,RP Burl,LM Jongwe,Mohammed Siraj,0,0,null,0,0,null,null
+186,29.8,RP Burl,LM Jongwe,Mohammed Siraj,0,0,null,0,0,null,null
+187,30.1,LM Jongwe,RP Burl,SN Thakur,1,0,null,1,0,null,null
+188,30.2,RP Burl,LM Jongwe,SN Thakur,0,0,null,0,0,null,null
+189,30.3,RP Burl,LM Jongwe,SN Thakur,1,0,null,1,0,null,null
+190,30.4,LM Jongwe,RP Burl,SN Thakur,0,0,null,0,0,null,null
+191,30.5,LM Jongwe,RP Burl,SN Thakur,0,2,wides ,2,0,null,null
+192,30.6,RP Burl,LM Jongwe,SN Thakur,2,0,null,2,0,null,null
+193,30.7,RP Burl,LM Jongwe,SN Thakur,4,0,null,4,0,null,null
+194,31.1,LM Jongwe,RP Burl,Mohammed Siraj,0,1,wides ,1,0,null,null
+195,31.2,LM Jongwe,RP Burl,Mohammed Siraj,0,0,null,0,0,null,null
+196,31.3,LM Jongwe,RP Burl,Mohammed Siraj,0,0,null,0,0,null,null
+197,31.4,LM Jongwe,RP Burl,Mohammed Siraj,0,0,null,0,0,null,null
+198,31.5,LM Jongwe,RP Burl,Mohammed Siraj,0,0,null,0,0,null,null
+199,31.6,LM Jongwe,RP Burl,Mohammed Siraj,0,0,null,0,0,null,null
+200,31.7,LM Jongwe,RP Burl,Mohammed Siraj,1,0,null,1,0,null,null
+201,32.1,LM Jongwe,RP Burl,SN Thakur,0,0,null,0,0,null,null
+202,32.2,LM Jongwe,RP Burl,SN Thakur,4,0,null,4,0,null,null
+203,32.3,LM Jongwe,RP Burl,SN Thakur,0,0,null,0,1,LM Jongwe,bowled
+204,32.4,B Evans,RP Burl,SN Thakur,1,0,null,1,0,null,null
+205,32.5,RP Burl,B Evans,SN Thakur,0,0,null,0,0,null,null
+206,32.6,RP Burl,B Evans,SN Thakur,0,0,null,0,0,null,null
+207,33.1,B Evans,RP Burl,Kuldeep Yadav,0,0,null,0,0,null,null
+208,33.2,B Evans,RP Burl,Kuldeep Yadav,0,0,null,0,0,null,null
+209,33.3,B Evans,RP Burl,Kuldeep Yadav,4,0,null,4,0,null,null
+210,33.4,B Evans,RP Burl,Kuldeep Yadav,0,0,null,0,0,null,null
+211,33.5,B Evans,RP Burl,Kuldeep Yadav,1,0,null,1,0,null,null
+212,33.6,RP Burl,B Evans,Kuldeep Yadav,1,0,null,1,0,null,null
+213,34.1,RP Burl,B Evans,AR Patel,0,0,null,0,0,null,null
+214,34.2,RP Burl,B Evans,AR Patel,0,2,legbyes ,2,0,null,null
+215,34.3,RP Burl,B Evans,AR Patel,1,0,null,1,0,null,null
+216,34.4,B Evans,RP Burl,AR Patel,0,0,null,0,0,null,null
+217,34.5,B Evans,RP Burl,AR Patel,1,0,null,1,0,null,null
+218,34.6,RP Burl,B Evans,AR Patel,1,0,null,1,0,null,null
+219,35.1,RP Burl,B Evans,Kuldeep Yadav,0,0,null,0,0,null,null
+220,35.2,RP Burl,B Evans,Kuldeep Yadav,1,0,null,1,0,null,null
+221,35.3,B Evans,RP Burl,Kuldeep Yadav,1,0,null,1,0,null,null
+222,35.4,RP Burl,B Evans,Kuldeep Yadav,0,0,null,0,0,null,null
+223,35.5,RP Burl,B Evans,Kuldeep Yadav,0,0,null,0,0,null,null
+224,35.6,RP Burl,B Evans,Kuldeep Yadav,4,0,null,4,0,null,null
+225,36.1,B Evans,RP Burl,AR Patel,0,0,null,0,0,null,null
+226,36.2,B Evans,RP Burl,AR Patel,0,0,null,0,0,null,null
+227,36.3,B Evans,RP Burl,AR Patel,1,0,null,1,0,null,null
+228,36.4,RP Burl,B Evans,AR Patel,0,0,null,0,0,null,null
+229,36.5,RP Burl,B Evans,AR Patel,1,0,null,1,0,null,null
+230,36.6,B Evans,RP Burl,AR Patel,0,0,null,0,1,B Evans,bowled
+231,37.1,RP Burl,VM Nyauchi,Kuldeep Yadav,6,0,null,6,0,null,null
+232,37.2,RP Burl,VM Nyauchi,Kuldeep Yadav,1,0,null,1,1,VM Nyauchi,run out
+233,37.3,TL Chivanga,RP Burl,Kuldeep Yadav,4,0,null,4,0,null,null
+234,37.4,TL Chivanga,RP Burl,Kuldeep Yadav,0,0,null,0,0,null,null
+235,37.5,TL Chivanga,RP Burl,Kuldeep Yadav,0,0,null,0,0,null,null
+236,37.6,TL Chivanga,RP Burl,Kuldeep Yadav,0,0,null,0,0,null,null
+237,38.1,RP Burl,TL Chivanga,M Prasidh Krishna,1,0,null,1,1,TL Chivanga,run out

@@ -1,0 +1,301 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Imran Nazir,Mohammad Hafeez,D Langford-Smith,1,0,null,1,0,null,null
+1,0.2,Mohammad Hafeez,Imran Nazir,D Langford-Smith,0,1,wides ,1,0,null,null
+2,0.3,Mohammad Hafeez,Imran Nazir,D Langford-Smith,4,1,noballs ,5,0,null,null
+3,0.4,Mohammad Hafeez,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+4,0.5,Mohammad Hafeez,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+5,0.6,Mohammad Hafeez,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+6,0.7,Mohammad Hafeez,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+7,0.8,Mohammad Hafeez,Imran Nazir,D Langford-Smith,0,0,null,0,1,Mohammad Hafeez,caught
+8,1.1,Imran Nazir,Younis Khan,WB Rankin,0,0,null,0,0,null,null
+9,1.2,Imran Nazir,Younis Khan,WB Rankin,0,0,null,0,0,null,null
+10,1.3,Imran Nazir,Younis Khan,WB Rankin,4,0,null,4,0,null,null
+11,1.4,Imran Nazir,Younis Khan,WB Rankin,0,0,null,0,0,null,null
+12,1.5,Imran Nazir,Younis Khan,WB Rankin,0,0,null,0,0,null,null
+13,1.6,Imran Nazir,Younis Khan,WB Rankin,1,0,null,1,0,null,null
+14,2.1,Imran Nazir,Younis Khan,D Langford-Smith,0,0,null,0,0,null,null
+15,2.2,Imran Nazir,Younis Khan,D Langford-Smith,0,0,null,0,0,null,null
+16,2.3,Imran Nazir,Younis Khan,D Langford-Smith,0,0,null,0,0,null,null
+17,2.4,Imran Nazir,Younis Khan,D Langford-Smith,0,0,null,0,0,null,null
+18,2.5,Imran Nazir,Younis Khan,D Langford-Smith,0,0,null,0,0,null,null
+19,2.6,Imran Nazir,Younis Khan,D Langford-Smith,2,0,null,2,0,null,null
+20,3.1,Younis Khan,Imran Nazir,WB Rankin,0,1,wides ,1,0,null,null
+21,3.2,Younis Khan,Imran Nazir,WB Rankin,0,0,null,0,0,null,null
+22,3.3,Younis Khan,Imran Nazir,WB Rankin,0,0,null,0,0,null,null
+23,3.4,Younis Khan,Imran Nazir,WB Rankin,0,0,null,0,1,Younis Khan,caught
+24,3.5,Mohammad Yousuf,Imran Nazir,WB Rankin,0,1,wides ,1,0,null,null
+25,3.6,Mohammad Yousuf,Imran Nazir,WB Rankin,0,0,null,0,0,null,null
+26,3.7,Mohammad Yousuf,Imran Nazir,WB Rankin,0,0,null,0,0,null,null
+27,3.8,Mohammad Yousuf,Imran Nazir,WB Rankin,4,0,null,4,0,null,null
+28,4.1,Imran Nazir,Mohammad Yousuf,D Langford-Smith,2,0,null,2,0,null,null
+29,4.2,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,0,null,0,0,null,null
+30,4.3,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,1,wides ,1,0,null,null
+31,4.4,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,0,null,0,0,null,null
+32,4.5,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,0,null,0,0,null,null
+33,4.6,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,0,null,0,0,null,null
+34,4.7,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,1,wides ,1,0,null,null
+35,4.8,Imran Nazir,Mohammad Yousuf,D Langford-Smith,1,0,null,1,0,null,null
+36,5.1,Imran Nazir,Mohammad Yousuf,WB Rankin,0,1,wides ,1,0,null,null
+37,5.2,Imran Nazir,Mohammad Yousuf,WB Rankin,0,0,null,0,0,null,null
+38,5.3,Imran Nazir,Mohammad Yousuf,WB Rankin,0,0,null,0,0,null,null
+39,5.4,Imran Nazir,Mohammad Yousuf,WB Rankin,0,1,wides ,1,0,null,null
+40,5.5,Imran Nazir,Mohammad Yousuf,WB Rankin,1,0,null,1,0,null,null
+41,5.6,Mohammad Yousuf,Imran Nazir,WB Rankin,0,0,null,0,0,null,null
+42,5.7,Mohammad Yousuf,Imran Nazir,WB Rankin,0,1,wides ,1,0,null,null
+43,5.8,Mohammad Yousuf,Imran Nazir,WB Rankin,0,0,null,0,0,null,null
+44,5.9,Mohammad Yousuf,Imran Nazir,WB Rankin,0,0,null,0,0,null,null
+45,6.1,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,0,null,0,0,null,null
+46,6.2,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,1,wides ,1,0,null,null
+47,6.3,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,0,null,0,0,null,null
+48,6.4,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,0,null,0,0,null,null
+49,6.5,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,0,null,0,0,null,null
+50,6.6,Imran Nazir,Mohammad Yousuf,D Langford-Smith,0,0,null,0,0,null,null
+51,6.7,Imran Nazir,Mohammad Yousuf,D Langford-Smith,1,0,null,1,0,null,null
+52,7.1,Imran Nazir,Mohammad Yousuf,WB Rankin,0,0,null,0,0,null,null
+53,7.2,Imran Nazir,Mohammad Yousuf,WB Rankin,0,0,null,0,0,null,null
+54,7.3,Imran Nazir,Mohammad Yousuf,WB Rankin,0,0,null,0,0,null,null
+55,7.4,Imran Nazir,Mohammad Yousuf,WB Rankin,4,0,null,4,0,null,null
+56,7.5,Imran Nazir,Mohammad Yousuf,WB Rankin,0,1,wides ,1,0,null,null
+57,7.6,Imran Nazir,Mohammad Yousuf,WB Rankin,0,0,null,0,0,null,null
+58,7.7,Imran Nazir,Mohammad Yousuf,WB Rankin,0,0,null,0,0,null,null
+59,8.1,Mohammad Yousuf,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+60,8.2,Mohammad Yousuf,Imran Nazir,D Langford-Smith,2,0,null,2,0,null,null
+61,8.3,Mohammad Yousuf,Imran Nazir,D Langford-Smith,0,1,wides ,1,0,null,null
+62,8.4,Mohammad Yousuf,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+63,8.5,Mohammad Yousuf,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+64,8.6,Mohammad Yousuf,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+65,8.7,Mohammad Yousuf,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+66,9.1,Imran Nazir,Mohammad Yousuf,WB Rankin,0,1,wides ,1,0,null,null
+67,9.2,Imran Nazir,Mohammad Yousuf,WB Rankin,0,0,null,0,0,null,null
+68,9.3,Imran Nazir,Mohammad Yousuf,WB Rankin,0,0,null,0,0,null,null
+69,9.4,Imran Nazir,Mohammad Yousuf,WB Rankin,1,0,null,1,0,null,null
+70,9.5,Mohammad Yousuf,Imran Nazir,WB Rankin,0,0,null,0,0,null,null
+71,9.6,Mohammad Yousuf,Imran Nazir,WB Rankin,0,1,wides ,1,0,null,null
+72,9.7,Mohammad Yousuf,Imran Nazir,WB Rankin,0,0,null,0,0,null,null
+73,9.8,Mohammad Yousuf,Imran Nazir,WB Rankin,1,0,null,1,0,null,null
+74,10.1,Mohammad Yousuf,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+75,10.2,Mohammad Yousuf,Imran Nazir,D Langford-Smith,2,0,null,2,0,null,null
+76,10.3,Mohammad Yousuf,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+77,10.4,Mohammad Yousuf,Imran Nazir,D Langford-Smith,0,0,null,0,0,null,null
+78,10.5,Mohammad Yousuf,Imran Nazir,D Langford-Smith,1,0,null,1,0,null,null
+79,10.6,Imran Nazir,Mohammad Yousuf,D Langford-Smith,4,0,null,4,0,null,null
+80,11.1,Mohammad Yousuf,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+81,11.2,Mohammad Yousuf,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+82,11.3,Mohammad Yousuf,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+83,11.4,Mohammad Yousuf,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+84,11.5,Mohammad Yousuf,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+85,11.6,Mohammad Yousuf,Imran Nazir,AC Botha,1,0,null,1,0,null,null
+86,12.1,Mohammad Yousuf,Imran Nazir,DT Johnston,0,1,wides ,1,0,null,null
+87,12.2,Mohammad Yousuf,Imran Nazir,DT Johnston,0,0,null,0,0,null,null
+88,12.3,Mohammad Yousuf,Imran Nazir,DT Johnston,0,0,null,0,0,null,null
+89,12.4,Mohammad Yousuf,Imran Nazir,DT Johnston,0,0,null,0,0,null,null
+90,12.5,Mohammad Yousuf,Imran Nazir,DT Johnston,4,0,null,4,0,null,null
+91,12.6,Mohammad Yousuf,Imran Nazir,DT Johnston,0,0,null,0,1,Mohammad Yousuf,caught
+92,12.7,Inzamam-ul-Haq,Imran Nazir,DT Johnston,0,1,noballs ,1,0,null,null
+93,12.8,Inzamam-ul-Haq,Imran Nazir,DT Johnston,1,0,null,1,0,null,null
+94,13.1,Inzamam-ul-Haq,Imran Nazir,AC Botha,0,0,null,0,1,Inzamam-ul-Haq,caught
+95,13.2,Shoaib Malik,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+96,13.3,Shoaib Malik,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+97,13.4,Shoaib Malik,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+98,13.5,Shoaib Malik,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+99,13.6,Shoaib Malik,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+100,14.1,Imran Nazir,Shoaib Malik,DT Johnston,0,0,null,0,0,null,null
+101,14.2,Imran Nazir,Shoaib Malik,DT Johnston,1,0,null,1,0,null,null
+102,14.3,Shoaib Malik,Imran Nazir,DT Johnston,0,0,null,0,0,null,null
+103,14.4,Shoaib Malik,Imran Nazir,DT Johnston,0,0,null,0,0,null,null
+104,14.5,Shoaib Malik,Imran Nazir,DT Johnston,1,0,null,1,0,null,null
+105,14.6,Imran Nazir,Shoaib Malik,DT Johnston,0,0,null,0,0,null,null
+106,15.1,Shoaib Malik,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+107,15.2,Shoaib Malik,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+108,15.3,Shoaib Malik,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+109,15.4,Shoaib Malik,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+110,15.5,Shoaib Malik,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+111,15.6,Shoaib Malik,Imran Nazir,AC Botha,0,0,null,0,0,null,null
+112,16.1,Imran Nazir,Shoaib Malik,DT Johnston,0,0,null,0,0,null,null
+113,16.2,Imran Nazir,Shoaib Malik,DT Johnston,0,0,null,0,0,null,null
+114,16.3,Imran Nazir,Shoaib Malik,DT Johnston,0,0,null,0,0,null,null
+115,16.4,Imran Nazir,Shoaib Malik,DT Johnston,1,0,null,1,0,null,null
+116,16.5,Shoaib Malik,Imran Nazir,DT Johnston,0,0,null,0,0,null,null
+117,16.6,Shoaib Malik,Imran Nazir,DT Johnston,0,1,wides ,1,0,null,null
+118,16.7,Shoaib Malik,Imran Nazir,DT Johnston,4,0,null,4,0,null,null
+119,17.1,Imran Nazir,Shoaib Malik,AC Botha,0,0,null,0,0,null,null
+120,17.2,Imran Nazir,Shoaib Malik,AC Botha,0,0,null,0,0,null,null
+121,17.3,Imran Nazir,Shoaib Malik,AC Botha,0,0,null,0,0,null,null
+122,17.4,Imran Nazir,Shoaib Malik,AC Botha,0,0,null,0,0,null,null
+123,17.5,Imran Nazir,Shoaib Malik,AC Botha,0,0,null,0,0,null,null
+124,17.6,Imran Nazir,Shoaib Malik,AC Botha,0,0,null,0,1,Imran Nazir,caught
+125,18.1,Shoaib Malik,Kamran Akmal,DT Johnston,0,0,null,0,0,null,null
+126,18.2,Shoaib Malik,Kamran Akmal,DT Johnston,0,0,null,0,0,null,null
+127,18.3,Shoaib Malik,Kamran Akmal,DT Johnston,0,1,wides ,1,0,null,null
+128,18.4,Shoaib Malik,Kamran Akmal,DT Johnston,0,0,null,0,0,null,null
+129,18.5,Shoaib Malik,Kamran Akmal,DT Johnston,0,1,wides ,1,0,null,null
+130,18.6,Shoaib Malik,Kamran Akmal,DT Johnston,0,0,null,0,0,null,null
+131,18.7,Shoaib Malik,Kamran Akmal,DT Johnston,0,0,null,0,0,null,null
+132,18.8,Shoaib Malik,Kamran Akmal,DT Johnston,0,0,null,0,0,null,null
+133,19.1,Kamran Akmal,Shoaib Malik,AC Botha,0,0,null,0,0,null,null
+134,19.2,Kamran Akmal,Shoaib Malik,AC Botha,0,0,null,0,0,null,null
+135,19.3,Kamran Akmal,Shoaib Malik,AC Botha,0,0,null,0,0,null,null
+136,19.4,Kamran Akmal,Shoaib Malik,AC Botha,0,0,null,0,0,null,null
+137,19.5,Kamran Akmal,Shoaib Malik,AC Botha,0,0,null,0,0,null,null
+138,19.6,Kamran Akmal,Shoaib Malik,AC Botha,0,0,null,0,0,null,null
+139,20.1,Shoaib Malik,Kamran Akmal,KJ O'Brien,0,0,null,0,0,null,null
+140,20.2,Shoaib Malik,Kamran Akmal,KJ O'Brien,4,0,null,4,0,null,null
+141,20.3,Shoaib Malik,Kamran Akmal,KJ O'Brien,0,0,null,0,1,Shoaib Malik,caught
+142,20.4,Azhar Mahmood,Kamran Akmal,KJ O'Brien,0,0,null,0,0,null,null
+143,20.5,Azhar Mahmood,Kamran Akmal,KJ O'Brien,0,0,null,0,0,null,null
+144,20.6,Azhar Mahmood,Kamran Akmal,KJ O'Brien,0,0,null,0,0,null,null
+145,21.1,Kamran Akmal,Azhar Mahmood,AC Botha,0,0,null,0,0,null,null
+146,21.2,Kamran Akmal,Azhar Mahmood,AC Botha,0,0,null,0,0,null,null
+147,21.3,Kamran Akmal,Azhar Mahmood,AC Botha,0,0,null,0,0,null,null
+148,21.4,Kamran Akmal,Azhar Mahmood,AC Botha,0,0,null,0,0,null,null
+149,21.5,Kamran Akmal,Azhar Mahmood,AC Botha,1,0,null,1,0,null,null
+150,21.6,Azhar Mahmood,Kamran Akmal,AC Botha,0,0,null,0,0,null,null
+151,22.1,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+152,22.2,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+153,22.3,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+154,22.4,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+155,22.5,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+156,22.6,Kamran Akmal,Azhar Mahmood,KJ O'Brien,1,0,null,1,0,null,null
+157,23.1,Kamran Akmal,Azhar Mahmood,AC Botha,0,0,null,0,0,null,null
+158,23.2,Kamran Akmal,Azhar Mahmood,AC Botha,0,0,null,0,0,null,null
+159,23.3,Kamran Akmal,Azhar Mahmood,AC Botha,0,0,null,0,0,null,null
+160,23.4,Kamran Akmal,Azhar Mahmood,AC Botha,1,0,null,1,0,null,null
+161,23.5,Azhar Mahmood,Kamran Akmal,AC Botha,0,0,null,0,0,null,null
+162,23.6,Azhar Mahmood,Kamran Akmal,AC Botha,0,0,null,0,0,null,null
+163,24.1,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+164,24.2,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+165,24.3,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+166,24.4,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+167,24.5,Kamran Akmal,Azhar Mahmood,KJ O'Brien,4,0,null,4,0,null,null
+168,24.6,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+169,25.1,Azhar Mahmood,Kamran Akmal,AC Botha,0,0,null,0,0,null,null
+170,25.2,Azhar Mahmood,Kamran Akmal,AC Botha,0,0,null,0,0,null,null
+171,25.3,Azhar Mahmood,Kamran Akmal,AC Botha,0,0,null,0,0,null,null
+172,25.4,Azhar Mahmood,Kamran Akmal,AC Botha,0,0,null,0,0,null,null
+173,25.5,Azhar Mahmood,Kamran Akmal,AC Botha,2,0,null,2,0,null,null
+174,25.6,Azhar Mahmood,Kamran Akmal,AC Botha,0,0,null,0,0,null,null
+175,26.1,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+176,26.2,Kamran Akmal,Azhar Mahmood,KJ O'Brien,4,0,null,4,0,null,null
+177,26.3,Kamran Akmal,Azhar Mahmood,KJ O'Brien,2,0,null,2,0,null,null
+178,26.4,Kamran Akmal,Azhar Mahmood,KJ O'Brien,0,0,null,0,0,null,null
+179,26.5,Kamran Akmal,Azhar Mahmood,KJ O'Brien,4,0,null,4,0,null,null
+180,26.6,Kamran Akmal,Azhar Mahmood,KJ O'Brien,1,0,null,1,0,null,null
+181,27.1,Kamran Akmal,Azhar Mahmood,WK McCallan,0,0,null,0,0,null,null
+182,27.2,Kamran Akmal,Azhar Mahmood,WK McCallan,0,0,null,0,0,null,null
+183,27.3,Kamran Akmal,Azhar Mahmood,WK McCallan,0,0,null,0,0,null,null
+184,27.4,Kamran Akmal,Azhar Mahmood,WK McCallan,1,0,null,1,0,null,null
+185,27.5,Azhar Mahmood,Kamran Akmal,WK McCallan,0,0,null,0,0,null,null
+186,27.6,Azhar Mahmood,Kamran Akmal,WK McCallan,0,0,null,0,0,null,null
+187,28.1,Kamran Akmal,Azhar Mahmood,WB Rankin,0,1,legbyes ,1,0,null,null
+188,28.2,Azhar Mahmood,Kamran Akmal,WB Rankin,0,0,null,0,0,null,null
+189,28.3,Azhar Mahmood,Kamran Akmal,WB Rankin,0,0,null,0,0,null,null
+190,28.4,Azhar Mahmood,Kamran Akmal,WB Rankin,0,0,null,0,0,null,null
+191,28.5,Azhar Mahmood,Kamran Akmal,WB Rankin,0,0,null,0,0,null,null
+192,28.6,Azhar Mahmood,Kamran Akmal,WB Rankin,0,0,null,0,0,null,null
+193,29.1,Kamran Akmal,Azhar Mahmood,WK McCallan,2,0,null,2,0,null,null
+194,29.2,Kamran Akmal,Azhar Mahmood,WK McCallan,0,0,null,0,0,null,null
+195,29.3,Kamran Akmal,Azhar Mahmood,WK McCallan,4,0,null,4,0,null,null
+196,29.4,Kamran Akmal,Azhar Mahmood,WK McCallan,2,0,null,2,0,null,null
+197,29.5,Kamran Akmal,Azhar Mahmood,WK McCallan,0,0,null,0,0,null,null
+198,29.6,Kamran Akmal,Azhar Mahmood,WK McCallan,0,0,null,0,0,null,null
+199,30.1,Azhar Mahmood,Kamran Akmal,WB Rankin,0,1,wides ,1,0,null,null
+200,30.2,Azhar Mahmood,Kamran Akmal,WB Rankin,0,0,null,0,0,null,null
+201,30.3,Azhar Mahmood,Kamran Akmal,WB Rankin,0,0,null,0,1,Azhar Mahmood,caught
+202,30.4,Kamran Akmal,Mohammad Sami,WB Rankin,0,1,wides ,1,0,null,null
+203,30.5,Kamran Akmal,Mohammad Sami,WB Rankin,0,1,wides ,1,0,null,null
+204,30.6,Kamran Akmal,Mohammad Sami,WB Rankin,0,0,null,0,0,null,null
+205,30.7,Kamran Akmal,Mohammad Sami,WB Rankin,0,0,null,0,0,null,null
+206,30.8,Kamran Akmal,Mohammad Sami,WB Rankin,0,0,null,0,1,Kamran Akmal,caught
+207,30.9,Mohammad Sami,Iftikhar Anjum,WB Rankin,1,0,null,1,0,null,null
+208,31.1,Mohammad Sami,Iftikhar Anjum,D Langford-Smith,0,0,null,0,0,null,null
+209,31.2,Mohammad Sami,Iftikhar Anjum,D Langford-Smith,0,0,null,0,0,null,null
+210,31.3,Mohammad Sami,Iftikhar Anjum,D Langford-Smith,1,0,null,1,0,null,null
+211,31.4,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,0,0,null,0,0,null,null
+212,31.5,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,0,1,legbyes ,1,0,null,null
+213,31.6,Mohammad Sami,Iftikhar Anjum,D Langford-Smith,0,0,null,0,0,null,null
+214,32.1,Iftikhar Anjum,Mohammad Sami,WB Rankin,1,0,null,1,0,null,null
+215,32.2,Mohammad Sami,Iftikhar Anjum,WB Rankin,0,0,null,0,0,null,null
+216,32.3,Mohammad Sami,Iftikhar Anjum,WB Rankin,0,0,null,0,0,null,null
+217,32.4,Mohammad Sami,Iftikhar Anjum,WB Rankin,0,0,null,0,0,null,null
+218,32.5,Mohammad Sami,Iftikhar Anjum,WB Rankin,0,0,null,0,0,null,null
+219,32.6,Mohammad Sami,Iftikhar Anjum,WB Rankin,0,0,null,0,0,null,null
+220,33.1,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,1,0,null,1,0,null,null
+221,33.2,Mohammad Sami,Iftikhar Anjum,D Langford-Smith,1,0,null,1,0,null,null
+222,33.3,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,1,0,null,1,0,null,null
+223,33.4,Mohammad Sami,Iftikhar Anjum,D Langford-Smith,0,0,null,0,0,null,null
+224,33.5,Mohammad Sami,Iftikhar Anjum,D Langford-Smith,0,0,null,0,0,null,null
+225,33.6,Mohammad Sami,Iftikhar Anjum,D Langford-Smith,0,0,null,0,0,null,null
+226,34.1,Iftikhar Anjum,Mohammad Sami,WB Rankin,0,0,null,0,0,null,null
+227,34.2,Iftikhar Anjum,Mohammad Sami,WB Rankin,0,1,noballs ,1,0,null,null
+228,34.3,Iftikhar Anjum,Mohammad Sami,WB Rankin,0,0,null,0,0,null,null
+229,34.4,Iftikhar Anjum,Mohammad Sami,WB Rankin,0,0,null,0,0,null,null
+230,34.5,Iftikhar Anjum,Mohammad Sami,WB Rankin,0,1,wides ,1,0,null,null
+231,34.6,Iftikhar Anjum,Mohammad Sami,WB Rankin,0,0,null,0,0,null,null
+232,34.7,Iftikhar Anjum,Mohammad Sami,WB Rankin,0,1,wides ,1,0,null,null
+233,34.8,Iftikhar Anjum,Mohammad Sami,WB Rankin,0,0,null,0,0,null,null
+234,34.9,Iftikhar Anjum,Mohammad Sami,WB Rankin,0,0,null,0,0,null,null
+235,35.1,Mohammad Sami,Iftikhar Anjum,KJ O'Brien,0,0,null,0,0,null,null
+236,35.2,Mohammad Sami,Iftikhar Anjum,KJ O'Brien,0,1,wides ,1,0,null,null
+237,35.3,Mohammad Sami,Iftikhar Anjum,KJ O'Brien,0,0,null,0,0,null,null
+238,35.4,Mohammad Sami,Iftikhar Anjum,KJ O'Brien,0,0,null,0,0,null,null
+239,35.5,Mohammad Sami,Iftikhar Anjum,KJ O'Brien,0,0,null,0,0,null,null
+240,35.6,Mohammad Sami,Iftikhar Anjum,KJ O'Brien,4,0,null,4,0,null,null
+241,35.7,Mohammad Sami,Iftikhar Anjum,KJ O'Brien,0,0,null,0,0,null,null
+242,36.1,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,0,0,null,0,0,null,null
+243,36.2,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,0,0,null,0,0,null,null
+244,36.3,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,0,0,null,0,0,null,null
+245,36.4,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,0,0,null,0,0,null,null
+246,36.5,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,0,0,null,0,0,null,null
+247,36.6,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,0,0,null,0,0,null,null
+248,37.1,Mohammad Sami,Iftikhar Anjum,KJ O'Brien,0,0,null,0,0,null,null
+249,37.2,Mohammad Sami,Iftikhar Anjum,KJ O'Brien,1,0,null,1,0,null,null
+250,37.3,Iftikhar Anjum,Mohammad Sami,KJ O'Brien,0,0,null,0,0,null,null
+251,37.4,Iftikhar Anjum,Mohammad Sami,KJ O'Brien,2,0,null,2,0,null,null
+252,37.5,Iftikhar Anjum,Mohammad Sami,KJ O'Brien,0,0,null,0,0,null,null
+253,37.6,Iftikhar Anjum,Mohammad Sami,KJ O'Brien,1,0,null,1,0,null,null
+254,38.1,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,0,0,null,0,0,null,null
+255,38.2,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,0,0,null,0,0,null,null
+256,38.3,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,0,0,null,0,0,null,null
+257,38.4,Iftikhar Anjum,Mohammad Sami,D Langford-Smith,1,0,null,1,0,null,null
+258,38.5,Mohammad Sami,Iftikhar Anjum,D Langford-Smith,0,0,null,0,0,null,null
+259,38.6,Mohammad Sami,Iftikhar Anjum,D Langford-Smith,0,0,null,0,0,null,null
+260,39.1,Iftikhar Anjum,Mohammad Sami,WK McCallan,0,0,null,0,0,null,null
+261,39.2,Iftikhar Anjum,Mohammad Sami,WK McCallan,0,0,null,0,0,null,null
+262,39.3,Iftikhar Anjum,Mohammad Sami,WK McCallan,0,0,null,0,0,null,null
+263,39.4,Iftikhar Anjum,Mohammad Sami,WK McCallan,0,0,null,0,0,null,null
+264,39.5,Iftikhar Anjum,Mohammad Sami,WK McCallan,0,0,null,0,0,null,null
+265,39.6,Iftikhar Anjum,Mohammad Sami,WK McCallan,0,0,null,0,0,null,null
+266,40.1,Mohammad Sami,Iftikhar Anjum,DT Johnston,1,0,null,1,0,null,null
+267,40.2,Iftikhar Anjum,Mohammad Sami,DT Johnston,0,0,null,0,0,null,null
+268,40.3,Iftikhar Anjum,Mohammad Sami,DT Johnston,0,0,null,0,0,null,null
+269,40.4,Iftikhar Anjum,Mohammad Sami,DT Johnston,0,0,null,0,0,null,null
+270,40.5,Iftikhar Anjum,Mohammad Sami,DT Johnston,0,0,null,0,0,null,null
+271,40.6,Iftikhar Anjum,Mohammad Sami,DT Johnston,0,0,null,0,0,null,null
+272,41.1,Mohammad Sami,Iftikhar Anjum,WK McCallan,0,0,null,0,0,null,null
+273,41.2,Mohammad Sami,Iftikhar Anjum,WK McCallan,0,0,null,0,0,null,null
+274,41.3,Mohammad Sami,Iftikhar Anjum,WK McCallan,1,0,null,1,0,null,null
+275,41.4,Iftikhar Anjum,Mohammad Sami,WK McCallan,0,0,null,0,0,null,null
+276,41.5,Iftikhar Anjum,Mohammad Sami,WK McCallan,0,0,null,0,0,null,null
+277,41.6,Iftikhar Anjum,Mohammad Sami,WK McCallan,0,0,null,0,0,null,null
+278,42.1,Mohammad Sami,Iftikhar Anjum,DT Johnston,0,0,null,0,0,null,null
+279,42.2,Mohammad Sami,Iftikhar Anjum,DT Johnston,0,0,null,0,0,null,null
+280,42.3,Mohammad Sami,Iftikhar Anjum,DT Johnston,1,0,null,1,0,null,null
+281,42.4,Iftikhar Anjum,Mohammad Sami,DT Johnston,0,1,legbyes ,1,0,null,null
+282,42.5,Mohammad Sami,Iftikhar Anjum,DT Johnston,0,0,null,0,0,null,null
+283,42.6,Mohammad Sami,Iftikhar Anjum,DT Johnston,1,0,null,1,0,null,null
+284,43.1,Mohammad Sami,Iftikhar Anjum,WK McCallan,0,0,null,0,1,Mohammad Sami,caught
+285,43.2,Umar Gul,Iftikhar Anjum,WK McCallan,0,0,null,0,0,null,null
+286,43.3,Umar Gul,Iftikhar Anjum,WK McCallan,0,0,null,0,0,null,null
+287,43.4,Umar Gul,Iftikhar Anjum,WK McCallan,0,0,null,0,0,null,null
+288,43.5,Umar Gul,Iftikhar Anjum,WK McCallan,0,0,null,0,0,null,null
+289,43.6,Umar Gul,Iftikhar Anjum,WK McCallan,1,0,null,1,0,null,null
+290,44.1,Umar Gul,Iftikhar Anjum,DT Johnston,0,0,null,0,0,null,null
+291,44.2,Umar Gul,Iftikhar Anjum,DT Johnston,0,0,null,0,0,null,null
+292,44.3,Umar Gul,Iftikhar Anjum,DT Johnston,0,0,null,0,0,null,null
+293,44.4,Umar Gul,Iftikhar Anjum,DT Johnston,0,0,null,0,0,null,null
+294,44.5,Umar Gul,Iftikhar Anjum,DT Johnston,0,0,null,0,0,null,null
+295,44.6,Umar Gul,Iftikhar Anjum,DT Johnston,0,0,null,0,0,null,null
+296,45.1,Iftikhar Anjum,Umar Gul,WK McCallan,0,0,null,0,0,null,null
+297,45.2,Iftikhar Anjum,Umar Gul,WK McCallan,1,0,null,1,0,null,null
+298,45.3,Umar Gul,Iftikhar Anjum,WK McCallan,0,0,null,0,0,null,null
+299,45.4,Umar Gul,Iftikhar Anjum,WK McCallan,0,0,null,0,1,Umar Gul,caught

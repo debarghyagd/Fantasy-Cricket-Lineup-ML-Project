@@ -1,0 +1,47 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1299829,"Zahur Ahmed Chowdhury Stadium, Chattogram",Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,15,22,2,0
+1,1299829,"Zahur Ahmed Chowdhury Stadium, Chattogram",Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,19,29,2,0
+2,1299829,"Zahur Ahmed Chowdhury Stadium, Chattogram",Afghanistan,Yamin Ahmadzai,Right-arm fast-medium,"[0, 1, 1]",0,10,9,0,1
+3,1299829,"Zahur Ahmed Chowdhury Stadium, Chattogram",Afghanistan,Fazalhaq Farooqi,Left-arm fast-medium,"[0, 0, 1]",0,24,21,4,0
+4,1299830,"Zahur Ahmed Chowdhury Stadium, Chattogram",Afghanistan,Fareed Ahmad,Left-arm fast-medium,"[0, 0, 1]",0,4,6,0,0
+5,1299830,"Zahur Ahmed Chowdhury Stadium, Chattogram",Afghanistan,Fazalhaq Farooqi,Left-arm fast-medium,"[0, 0, 1]",0,9,7,1,0
+6,1299831,"Zahur Ahmed Chowdhury Stadium, Chattogram",Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,5,5,1,0
+7,1277097,"SuperSport Park, Centurion",South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",0,2,3,0,0
+8,1277097,"SuperSport Park, Centurion",South Africa,L Ngidi,Right-arm fast,"[0, 1, 0]",0,11,5,1,1
+9,1277098,"The Wanderers Stadium, Johannesburg",South Africa,KA Maharaj,Left-arm orthodox,"[1, 0, 1]",0,22,28,3,0
+10,1277098,"The Wanderers Stadium, Johannesburg",South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",0,14,33,1,0
+11,1277098,"The Wanderers Stadium, Johannesburg",South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",1,17,16,3,0
+12,1277098,"The Wanderers Stadium, Johannesburg",South Africa,L Ngidi,Right-arm fast,"[0, 1, 0]",0,8,12,1,0
+13,1262344,"Shere Bangla National Stadium, Mirpur",Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",0,1,4,0,0
+14,1262344,"Shere Bangla National Stadium, Mirpur",Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,4,7,0,0
+15,1262344,"Shere Bangla National Stadium, Mirpur",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,1,1,0,0
+16,1262346,Sher-e-Bangla National Cricket Stadium,Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",0,1,1,0,0
+17,1262346,Sher-e-Bangla National Cricket Stadium,Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",0,4,3,1,0
+18,1262346,Sher-e-Bangla National Cricket Stadium,Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,5,4,1,0
+19,1214669,Sylhet International Cricket Stadium,Zimbabwe,CT Mumba,Right-arm fast-medium,"[0, 1, 1]",1,7,6,1,0
+20,1267677,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,8,10,0,0
+21,1267677,Harare Sports Club,Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,5,6,0,0
+22,1267677,Harare Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",1,12,8,0,1
+23,1267677,Harare Sports Club,Zimbabwe,W Madhevere,Right-arm offbreak,"[1, 1, 0]",0,6,7,0,0
+24,1267677,Harare Sports Club,Zimbabwe,R Ngarava,Left-arm fast-medium,"[0, 0, 1]",0,14,9,1,1
+25,1323293,Harare Sports Club,Zimbabwe,TL Chivanga,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+26,1323293,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",1,5,8,0,0
+27,1323293,Harare Sports Club,Zimbabwe,VM Nyauchi,Right-arm fast-medium,"[0, 1, 1]",0,4,5,0,0
+28,1323293,Harare Sports Club,Zimbabwe,W Madhevere,Right-arm offbreak,"[1, 1, 0]",0,16,16,2,0
+29,1323293,Harare Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,14,9,2,0
+30,1323294,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",1,13,17,0,0
+31,1323294,Harare Sports Club,Zimbabwe,W Madhevere,Right-arm offbreak,"[1, 1, 0]",0,16,17,2,0
+32,1323294,Harare Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,23,20,2,1
+33,1323294,Harare Sports Club,Zimbabwe,R Ngarava,Left-arm fast-medium,"[0, 0, 1]",0,18,13,1,1
+34,1323294,Harare Sports Club,Zimbabwe,I Kaia,Right-arm legbreak,"[1, 1, 1]",0,8,13,0,0
+35,1262347,"Shere Bangla National Stadium, Mirpur",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",1,1,2,0,0
+36,1262347,"Shere Bangla National Stadium, Mirpur",Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,2,3,0,0
+37,1262347,"Shere Bangla National Stadium, Mirpur",Sri Lanka,C Karunaratne,Right-arm fast-medium,"[0, 1, 1]",0,6,3,0,0
+38,1262347,"Shere Bangla National Stadium, Mirpur",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,2,4,0,0
+39,1267678,Harare Sports Club,Zimbabwe,R Ngarava,Left-arm fast-medium,"[0, 0, 1]",0,4,6,0,0
+40,1267678,Harare Sports Club,Zimbabwe,W Madhevere,Right-arm offbreak,"[1, 1, 0]",0,7,14,0,0
+41,1267678,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",1,4,6,0,0
+42,1267679,Harare Sports Club,Zimbabwe,W Madhevere,Right-arm offbreak,"[1, 1, 0]",0,1,4,0,0
+43,1267679,Harare Sports Club,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,9,4,2,0
+44,1267679,Harare Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,11,5,1,1
+45,1267679,Harare Sports Club,Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,5,5,0,0

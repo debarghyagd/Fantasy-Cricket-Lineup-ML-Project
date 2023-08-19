@@ -1,0 +1,6 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1233976,University Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,5,10,1,0
+1,1233977,Hagley Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,6,4,0,1
+2,1233977,Hagley Oval,New Zealand,KA Jamieson,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+3,1233978,Basin Reserve,New Zealand,DJ Mitchell,Right-arm medium,"[0, 1, 2]",0,3,2,0,0
+4,1233978,Basin Reserve,New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",1,0,7,0,0

@@ -1,0 +1,10 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1278677,"Narendra Modi Stadium, Ahmedabad",West Indies,OF Smith,Right-arm medium,"[0, 1, 2]",0,1,10,0,0
+1,1278677,"Narendra Modi Stadium, Ahmedabad",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+2,1278677,"Narendra Modi Stadium, Ahmedabad",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",1,2,4,0,0
+3,1278677,"Narendra Modi Stadium, Ahmedabad",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,5,2,1,0
+4,1278677,"Narendra Modi Stadium, Ahmedabad",West Indies,FA Allen,Left-arm orthodox,"[1, 0, 1]",0,10,18,0,0
+5,1278678,"Narendra Modi Stadium, Ahmedabad",West Indies,OF Smith,Right-arm medium,"[0, 1, 2]",0,1,4,0,0
+6,1278678,"Narendra Modi Stadium, Ahmedabad",West Indies,HR Walsh,Right-arm legbreak,"[1, 1, 1]",0,5,5,0,0
+7,1278678,"Narendra Modi Stadium, Ahmedabad",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,14,9,1,1
+8,1278678,"Narendra Modi Stadium, Ahmedabad",West Indies,FA Allen,Left-arm orthodox,"[1, 0, 1]",0,6,9,0,0

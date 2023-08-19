@@ -1,0 +1,4 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1277073,"SuperSport Park, Centurion",Netherlands,FJ Klaassen,Left-arm medium,"[0, 0, 2]",0,11,15,2,0
+1,1277073,"SuperSport Park, Centurion",Netherlands,BD Glover,Right-arm fast,"[0, 1, 0]",1,11,16,0,1
+2,1277073,"SuperSport Park, Centurion",Netherlands,VJ Kingma,Right-arm medium,"[0, 1, 2]",0,4,15,0,0

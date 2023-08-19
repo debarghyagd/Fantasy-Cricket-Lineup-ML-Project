@@ -1,0 +1,17 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1019975,Saxton Oval,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+1,1019975,Saxton Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,7,20,0,0
+2,1019975,Saxton Oval,New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,11,5,1,1
+3,1019977,Saxton Oval,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,13,9,1,0
+4,1019977,Saxton Oval,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",1,13,6,1,1
+5,1317152,"Providence Stadium, Guyana",West Indies,JNT Seales,Right-arm medium,"[0, 1, 2]",0,1,1,0,0
+6,1317152,"Providence Stadium, Guyana",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,1,1,0,0
+7,1317154,"Providence Stadium, Guyana",West Indies,R Shepherd,Right-arm fast-medium,"[0, 1, 1]",0,6,5,1,0
+8,1317154,"Providence Stadium, Guyana",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,3,13,0,0
+9,1317154,"Providence Stadium, Guyana",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,11,9,2,0
+10,1267679,Harare Sports Club,Zimbabwe,RP Burl,Right-arm legbreak,"[1, 1, 1]",0,4,3,0,0
+11,1267679,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,4,5,0,0
+12,1267679,Harare Sports Club,Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+13,1267679,Harare Sports Club,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,21,14,4,0
+14,1267679,Harare Sports Club,Zimbabwe,W Madhevere,Right-arm offbreak,"[1, 1, 0]",0,4,10,0,0
+15,1267679,Harare Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,11,9,2,0

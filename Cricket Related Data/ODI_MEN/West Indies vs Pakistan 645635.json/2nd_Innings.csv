@@ -1,0 +1,255 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,CH Gayle,J Charles,Mohammad Irfan,0,1,legbyes ,1,0,null,null
+1,0.2,J Charles,CH Gayle,Mohammad Irfan,0,0,null,0,1,J Charles,bowled
+2,0.3,DM Bravo,CH Gayle,Mohammad Irfan,0,0,null,0,0,null,null
+3,0.4,DM Bravo,CH Gayle,Mohammad Irfan,0,0,null,0,0,null,null
+4,0.5,DM Bravo,CH Gayle,Mohammad Irfan,0,0,null,0,0,null,null
+5,0.6,DM Bravo,CH Gayle,Mohammad Irfan,0,0,null,0,0,null,null
+6,1.1,CH Gayle,DM Bravo,Asad Ali,1,0,null,1,0,null,null
+7,1.2,DM Bravo,CH Gayle,Asad Ali,0,0,null,0,0,null,null
+8,1.3,DM Bravo,CH Gayle,Asad Ali,0,0,null,0,0,null,null
+9,1.4,DM Bravo,CH Gayle,Asad Ali,0,0,null,0,0,null,null
+10,1.5,DM Bravo,CH Gayle,Asad Ali,0,0,null,0,0,null,null
+11,1.6,DM Bravo,CH Gayle,Asad Ali,0,0,null,0,0,null,null
+12,2.1,CH Gayle,DM Bravo,Mohammad Irfan,0,0,null,0,0,null,null
+13,2.2,CH Gayle,DM Bravo,Mohammad Irfan,0,0,null,0,0,null,null
+14,2.3,CH Gayle,DM Bravo,Mohammad Irfan,0,0,null,0,0,null,null
+15,2.4,CH Gayle,DM Bravo,Mohammad Irfan,0,0,null,0,0,null,null
+16,2.5,CH Gayle,DM Bravo,Mohammad Irfan,0,0,null,0,0,null,null
+17,2.6,CH Gayle,DM Bravo,Mohammad Irfan,0,0,null,0,0,null,null
+18,3.1,DM Bravo,CH Gayle,Asad Ali,0,0,null,0,0,null,null
+19,3.2,DM Bravo,CH Gayle,Asad Ali,0,0,null,0,0,null,null
+20,3.3,DM Bravo,CH Gayle,Asad Ali,0,0,null,0,0,null,null
+21,3.4,DM Bravo,CH Gayle,Asad Ali,0,0,null,0,0,null,null
+22,3.5,DM Bravo,CH Gayle,Asad Ali,0,0,null,0,0,null,null
+23,3.6,DM Bravo,CH Gayle,Asad Ali,1,0,null,1,0,null,null
+24,4.1,DM Bravo,CH Gayle,Mohammad Irfan,0,0,null,0,0,null,null
+25,4.2,DM Bravo,CH Gayle,Mohammad Irfan,4,0,null,4,0,null,null
+26,4.3,DM Bravo,CH Gayle,Mohammad Irfan,0,0,null,0,1,DM Bravo,caught
+27,4.4,MN Samuels,CH Gayle,Mohammad Irfan,0,0,null,0,0,null,null
+28,4.5,MN Samuels,CH Gayle,Mohammad Irfan,0,0,null,0,0,null,null
+29,4.6,MN Samuels,CH Gayle,Mohammad Irfan,0,0,null,0,1,CH Gayle,run out
+30,5.1,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+31,5.2,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+32,5.3,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+33,5.4,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+34,5.5,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+35,5.6,MN Samuels,LMP Simmons,Asad Ali,1,0,null,1,0,null,null
+36,6.1,MN Samuels,LMP Simmons,Mohammad Irfan,0,0,null,0,0,null,null
+37,6.2,MN Samuels,LMP Simmons,Mohammad Irfan,0,0,null,0,0,null,null
+38,6.3,MN Samuels,LMP Simmons,Mohammad Irfan,0,0,null,0,0,null,null
+39,6.4,MN Samuels,LMP Simmons,Mohammad Irfan,0,0,null,0,0,null,null
+40,6.5,MN Samuels,LMP Simmons,Mohammad Irfan,1,0,null,1,0,null,null
+41,6.6,LMP Simmons,MN Samuels,Mohammad Irfan,0,0,null,0,0,null,null
+42,7.1,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+43,7.2,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+44,7.3,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+45,7.4,MN Samuels,LMP Simmons,Asad Ali,1,0,null,1,0,null,null
+46,7.5,LMP Simmons,MN Samuels,Asad Ali,0,0,null,0,0,null,null
+47,7.6,LMP Simmons,MN Samuels,Asad Ali,1,0,null,1,0,null,null
+48,8.1,LMP Simmons,MN Samuels,Mohammad Irfan,0,0,null,0,0,null,null
+49,8.2,LMP Simmons,MN Samuels,Mohammad Irfan,0,0,null,0,0,null,null
+50,8.3,LMP Simmons,MN Samuels,Mohammad Irfan,0,0,null,0,0,null,null
+51,8.4,LMP Simmons,MN Samuels,Mohammad Irfan,0,0,null,0,0,null,null
+52,8.5,LMP Simmons,MN Samuels,Mohammad Irfan,0,0,null,0,0,null,null
+53,8.6,LMP Simmons,MN Samuels,Mohammad Irfan,0,1,wides ,1,0,null,null
+54,8.7,LMP Simmons,MN Samuels,Mohammad Irfan,0,0,null,0,0,null,null
+55,9.1,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+56,9.2,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+57,9.3,MN Samuels,LMP Simmons,Asad Ali,4,0,null,4,0,null,null
+58,9.4,MN Samuels,LMP Simmons,Asad Ali,4,0,null,4,0,null,null
+59,9.5,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+60,9.6,MN Samuels,LMP Simmons,Asad Ali,0,0,null,0,0,null,null
+61,10.1,LMP Simmons,MN Samuels,Wahab Riaz,0,0,null,0,0,null,null
+62,10.2,LMP Simmons,MN Samuels,Wahab Riaz,0,0,null,0,0,null,null
+63,10.3,LMP Simmons,MN Samuels,Wahab Riaz,0,0,null,0,0,null,null
+64,10.4,LMP Simmons,MN Samuels,Wahab Riaz,0,0,null,0,0,null,null
+65,10.5,LMP Simmons,MN Samuels,Wahab Riaz,0,0,null,0,0,null,null
+66,10.6,LMP Simmons,MN Samuels,Wahab Riaz,0,0,null,0,0,null,null
+67,11.1,MN Samuels,LMP Simmons,Saeed Ajmal,0,0,null,0,0,null,null
+68,11.2,MN Samuels,LMP Simmons,Saeed Ajmal,0,0,null,0,0,null,null
+69,11.3,MN Samuels,LMP Simmons,Saeed Ajmal,0,0,null,0,0,null,null
+70,11.4,MN Samuels,LMP Simmons,Saeed Ajmal,1,0,null,1,0,null,null
+71,11.5,LMP Simmons,MN Samuels,Saeed Ajmal,0,0,null,0,0,null,null
+72,11.6,LMP Simmons,MN Samuels,Saeed Ajmal,1,0,null,1,0,null,null
+73,12.1,LMP Simmons,MN Samuels,Wahab Riaz,0,0,null,0,0,null,null
+74,12.2,LMP Simmons,MN Samuels,Wahab Riaz,0,0,null,0,0,null,null
+75,12.3,LMP Simmons,MN Samuels,Wahab Riaz,1,0,null,1,0,null,null
+76,12.4,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+77,12.5,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+78,12.6,MN Samuels,LMP Simmons,Wahab Riaz,1,0,null,1,0,null,null
+79,13.1,MN Samuels,LMP Simmons,Saeed Ajmal,0,0,null,0,0,null,null
+80,13.2,MN Samuels,LMP Simmons,Saeed Ajmal,1,0,null,1,0,null,null
+81,13.3,LMP Simmons,MN Samuels,Saeed Ajmal,0,0,null,0,0,null,null
+82,13.4,LMP Simmons,MN Samuels,Saeed Ajmal,0,0,null,0,0,null,null
+83,13.5,LMP Simmons,MN Samuels,Saeed Ajmal,0,0,null,0,0,null,null
+84,13.6,LMP Simmons,MN Samuels,Saeed Ajmal,0,0,null,0,0,null,null
+85,14.1,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+86,14.2,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+87,14.3,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+88,14.4,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+89,14.5,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+90,14.6,MN Samuels,LMP Simmons,Wahab Riaz,1,0,null,1,0,null,null
+91,15.1,MN Samuels,LMP Simmons,Saeed Ajmal,0,0,null,0,0,null,null
+92,15.2,MN Samuels,LMP Simmons,Saeed Ajmal,0,0,null,0,0,null,null
+93,15.3,MN Samuels,LMP Simmons,Saeed Ajmal,0,0,null,0,0,null,null
+94,15.4,MN Samuels,LMP Simmons,Saeed Ajmal,0,0,null,0,0,null,null
+95,15.5,MN Samuels,LMP Simmons,Saeed Ajmal,0,2,wides ,2,0,null,null
+96,15.6,LMP Simmons,MN Samuels,Saeed Ajmal,0,0,null,0,0,null,null
+97,15.7,LMP Simmons,MN Samuels,Saeed Ajmal,1,0,null,1,0,null,null
+98,16.1,LMP Simmons,MN Samuels,Wahab Riaz,1,0,null,1,0,null,null
+99,16.2,MN Samuels,LMP Simmons,Wahab Riaz,1,0,null,1,0,null,null
+100,16.3,LMP Simmons,MN Samuels,Wahab Riaz,1,0,null,1,0,null,null
+101,16.4,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+102,16.5,MN Samuels,LMP Simmons,Wahab Riaz,1,0,null,1,0,null,null
+103,16.6,LMP Simmons,MN Samuels,Wahab Riaz,0,0,null,0,0,null,null
+104,17.1,MN Samuels,LMP Simmons,Mohammad Hafeez,0,0,null,0,0,null,null
+105,17.2,MN Samuels,LMP Simmons,Mohammad Hafeez,0,0,null,0,0,null,null
+106,17.3,MN Samuels,LMP Simmons,Mohammad Hafeez,0,0,null,0,0,null,null
+107,17.4,MN Samuels,LMP Simmons,Mohammad Hafeez,0,0,null,0,0,null,null
+108,17.5,MN Samuels,LMP Simmons,Mohammad Hafeez,1,0,null,1,0,null,null
+109,17.6,LMP Simmons,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+110,18.1,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+111,18.2,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+112,18.3,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+113,18.4,MN Samuels,LMP Simmons,Wahab Riaz,0,0,null,0,0,null,null
+114,18.5,MN Samuels,LMP Simmons,Wahab Riaz,1,0,null,1,0,null,null
+115,18.6,LMP Simmons,MN Samuels,Wahab Riaz,0,0,null,0,0,null,null
+116,19.1,MN Samuels,LMP Simmons,Mohammad Hafeez,0,0,null,0,0,null,null
+117,19.2,MN Samuels,LMP Simmons,Mohammad Hafeez,1,0,null,1,0,null,null
+118,19.3,LMP Simmons,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+119,19.4,LMP Simmons,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+120,19.5,LMP Simmons,MN Samuels,Mohammad Hafeez,1,0,null,1,0,null,null
+121,19.6,MN Samuels,LMP Simmons,Mohammad Hafeez,0,0,null,0,0,null,null
+122,20.1,LMP Simmons,MN Samuels,Shahid Afridi,0,0,null,0,0,null,null
+123,20.2,LMP Simmons,MN Samuels,Shahid Afridi,1,0,null,1,0,null,null
+124,20.3,MN Samuels,LMP Simmons,Shahid Afridi,1,0,null,1,0,null,null
+125,20.4,LMP Simmons,MN Samuels,Shahid Afridi,0,0,null,0,0,null,null
+126,20.5,LMP Simmons,MN Samuels,Shahid Afridi,0,0,null,0,0,null,null
+127,20.6,LMP Simmons,MN Samuels,Shahid Afridi,1,0,null,1,0,null,null
+128,21.1,LMP Simmons,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+129,21.2,LMP Simmons,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+130,21.3,LMP Simmons,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+131,21.4,LMP Simmons,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+132,21.5,LMP Simmons,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+133,21.6,LMP Simmons,MN Samuels,Mohammad Hafeez,1,0,null,1,0,null,null
+134,22.1,LMP Simmons,MN Samuels,Shahid Afridi,0,0,null,0,1,LMP Simmons,stumped
+135,22.2,DJ Bravo,MN Samuels,Shahid Afridi,0,0,null,0,1,DJ Bravo,lbw
+136,22.3,KA Pollard,MN Samuels,Shahid Afridi,1,0,null,1,0,null,null
+137,22.4,MN Samuels,KA Pollard,Shahid Afridi,0,0,null,0,0,null,null
+138,22.5,MN Samuels,KA Pollard,Shahid Afridi,0,0,null,0,0,null,null
+139,22.6,MN Samuels,KA Pollard,Shahid Afridi,0,0,null,0,0,null,null
+140,23.1,KA Pollard,MN Samuels,Mohammad Hafeez,0,1,wides ,1,0,null,null
+141,23.2,KA Pollard,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+142,23.3,KA Pollard,MN Samuels,Mohammad Hafeez,0,1,legbyes ,1,0,null,null
+143,23.4,MN Samuels,KA Pollard,Mohammad Hafeez,1,0,null,1,0,null,null
+144,23.5,KA Pollard,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+145,23.6,KA Pollard,MN Samuels,Mohammad Hafeez,1,0,null,1,0,null,null
+146,23.7,MN Samuels,KA Pollard,Mohammad Hafeez,1,0,null,1,0,null,null
+147,24.1,MN Samuels,KA Pollard,Shahid Afridi,0,0,null,0,0,null,null
+148,24.2,MN Samuels,KA Pollard,Shahid Afridi,0,0,null,0,0,null,null
+149,24.3,MN Samuels,KA Pollard,Shahid Afridi,1,0,null,1,0,null,null
+150,24.4,KA Pollard,MN Samuels,Shahid Afridi,0,0,null,0,0,null,null
+151,24.5,KA Pollard,MN Samuels,Shahid Afridi,0,0,null,0,0,null,null
+152,24.6,KA Pollard,MN Samuels,Shahid Afridi,0,0,null,0,0,null,null
+153,25.1,MN Samuels,KA Pollard,Mohammad Hafeez,0,0,null,0,0,null,null
+154,25.2,MN Samuels,KA Pollard,Mohammad Hafeez,0,0,null,0,0,null,null
+155,25.3,MN Samuels,KA Pollard,Mohammad Hafeez,1,0,null,1,0,null,null
+156,25.4,KA Pollard,MN Samuels,Mohammad Hafeez,1,0,null,1,0,null,null
+157,25.5,MN Samuels,KA Pollard,Mohammad Hafeez,0,0,null,0,0,null,null
+158,25.6,MN Samuels,KA Pollard,Mohammad Hafeez,0,0,null,0,0,null,null
+159,26.1,KA Pollard,MN Samuels,Shahid Afridi,0,0,null,0,1,KA Pollard,caught
+160,26.2,DJG Sammy,MN Samuels,Shahid Afridi,0,0,null,0,0,null,null
+161,26.3,DJG Sammy,MN Samuels,Shahid Afridi,0,0,null,0,0,null,null
+162,26.4,DJG Sammy,MN Samuels,Shahid Afridi,0,0,null,0,0,null,null
+163,26.5,DJG Sammy,MN Samuels,Shahid Afridi,0,0,null,0,0,null,null
+164,26.6,DJG Sammy,MN Samuels,Shahid Afridi,1,0,null,1,0,null,null
+165,27.1,DJG Sammy,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+166,27.2,DJG Sammy,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+167,27.3,DJG Sammy,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+168,27.4,DJG Sammy,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+169,27.5,DJG Sammy,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+170,27.6,DJG Sammy,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+171,28.1,MN Samuels,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+172,28.2,MN Samuels,DJG Sammy,Shahid Afridi,0,0,null,0,1,MN Samuels,lbw
+173,28.3,KAJ Roach,DJG Sammy,Shahid Afridi,0,2,legbyes ,2,0,null,null
+174,28.4,KAJ Roach,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+175,28.5,KAJ Roach,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+176,28.6,KAJ Roach,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+177,29.1,DJG Sammy,KAJ Roach,Mohammad Hafeez,0,0,null,0,0,null,null
+178,29.2,DJG Sammy,KAJ Roach,Mohammad Hafeez,0,0,null,0,0,null,null
+179,29.3,DJG Sammy,KAJ Roach,Mohammad Hafeez,1,0,null,1,0,null,null
+180,29.4,KAJ Roach,DJG Sammy,Mohammad Hafeez,1,0,null,1,0,null,null
+181,29.5,DJG Sammy,KAJ Roach,Mohammad Hafeez,0,0,null,0,0,null,null
+182,29.6,DJG Sammy,KAJ Roach,Mohammad Hafeez,0,0,null,0,0,null,null
+183,30.1,KAJ Roach,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+184,30.2,KAJ Roach,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+185,30.3,KAJ Roach,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+186,30.4,KAJ Roach,DJG Sammy,Shahid Afridi,0,0,null,0,1,KAJ Roach,caught and bowled
+187,30.5,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+188,30.6,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+189,31.1,DJG Sammy,SP Narine,Mohammad Hafeez,4,0,null,4,0,null,null
+190,31.2,DJG Sammy,SP Narine,Mohammad Hafeez,0,0,null,0,0,null,null
+191,31.3,DJG Sammy,SP Narine,Mohammad Hafeez,0,0,null,0,0,null,null
+192,31.4,DJG Sammy,SP Narine,Mohammad Hafeez,0,0,null,0,0,null,null
+193,31.5,DJG Sammy,SP Narine,Mohammad Hafeez,0,0,null,0,0,null,null
+194,31.6,DJG Sammy,SP Narine,Mohammad Hafeez,0,0,null,0,0,null,null
+195,32.1,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+196,32.2,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+197,32.3,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+198,32.4,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+199,32.5,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+200,32.6,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+201,33.1,DJG Sammy,SP Narine,Saeed Ajmal,0,1,legbyes ,1,0,null,null
+202,33.2,SP Narine,DJG Sammy,Saeed Ajmal,0,0,null,0,0,null,null
+203,33.3,SP Narine,DJG Sammy,Saeed Ajmal,0,0,null,0,0,null,null
+204,33.4,SP Narine,DJG Sammy,Saeed Ajmal,1,0,null,1,0,null,null
+205,33.5,DJG Sammy,SP Narine,Saeed Ajmal,0,0,null,0,0,null,null
+206,33.6,DJG Sammy,SP Narine,Saeed Ajmal,0,0,null,0,0,null,null
+207,34.1,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+208,34.2,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+209,34.3,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+210,34.4,SP Narine,DJG Sammy,Shahid Afridi,0,1,wides ,1,0,null,null
+211,34.5,SP Narine,DJG Sammy,Shahid Afridi,1,0,null,1,0,null,null
+212,34.6,DJG Sammy,SP Narine,Shahid Afridi,0,0,null,0,0,null,null
+213,34.7,DJG Sammy,SP Narine,Shahid Afridi,2,0,null,2,0,null,null
+214,35.1,SP Narine,DJG Sammy,Saeed Ajmal,0,2,wides ,2,0,null,null
+215,35.2,DJG Sammy,SP Narine,Saeed Ajmal,0,0,null,0,0,null,null
+216,35.3,DJG Sammy,SP Narine,Saeed Ajmal,1,0,null,1,0,null,null
+217,35.4,SP Narine,DJG Sammy,Saeed Ajmal,2,0,null,2,0,null,null
+218,35.5,SP Narine,DJG Sammy,Saeed Ajmal,4,0,null,4,0,null,null
+219,35.6,SP Narine,DJG Sammy,Saeed Ajmal,2,0,null,2,0,null,null
+220,35.7,SP Narine,DJG Sammy,Saeed Ajmal,0,0,null,0,0,null,null
+221,36.1,DJG Sammy,SP Narine,Mohammad Irfan,0,0,null,0,0,null,null
+222,36.2,DJG Sammy,SP Narine,Mohammad Irfan,0,1,wides ,1,0,null,null
+223,36.3,DJG Sammy,SP Narine,Mohammad Irfan,1,0,null,1,0,null,null
+224,36.4,SP Narine,DJG Sammy,Mohammad Irfan,0,2,wides ,2,0,null,null
+225,36.5,DJG Sammy,SP Narine,Mohammad Irfan,2,0,null,2,0,null,null
+226,36.6,DJG Sammy,SP Narine,Mohammad Irfan,2,0,null,2,0,null,null
+227,36.7,DJG Sammy,SP Narine,Mohammad Irfan,1,0,null,1,0,null,null
+228,36.8,SP Narine,DJG Sammy,Mohammad Irfan,0,0,null,0,0,null,null
+229,37.1,DJG Sammy,SP Narine,Saeed Ajmal,0,0,null,0,0,null,null
+230,37.2,DJG Sammy,SP Narine,Saeed Ajmal,2,0,null,2,0,null,null
+231,37.3,DJG Sammy,SP Narine,Saeed Ajmal,0,0,null,0,0,null,null
+232,37.4,DJG Sammy,SP Narine,Saeed Ajmal,0,0,null,0,0,null,null
+233,37.5,DJG Sammy,SP Narine,Saeed Ajmal,1,0,null,1,0,null,null
+234,37.6,SP Narine,DJG Sammy,Saeed Ajmal,0,0,null,0,0,null,null
+235,38.1,DJG Sammy,SP Narine,Mohammad Irfan,1,0,null,1,0,null,null
+236,38.2,SP Narine,DJG Sammy,Mohammad Irfan,0,1,legbyes ,1,0,null,null
+237,38.3,DJG Sammy,SP Narine,Mohammad Irfan,1,0,null,1,0,null,null
+238,38.4,SP Narine,DJG Sammy,Mohammad Irfan,0,0,null,0,0,null,null
+239,38.5,SP Narine,DJG Sammy,Mohammad Irfan,0,0,null,0,0,null,null
+240,38.6,SP Narine,DJG Sammy,Mohammad Irfan,0,0,null,0,0,null,null
+241,39.1,DJG Sammy,SP Narine,Saeed Ajmal,0,1,byes ,1,0,null,null
+242,39.2,SP Narine,DJG Sammy,Saeed Ajmal,0,0,null,0,0,null,null
+243,39.3,SP Narine,DJG Sammy,Saeed Ajmal,0,0,null,0,0,null,null
+244,39.4,SP Narine,DJG Sammy,Saeed Ajmal,4,0,null,4,0,null,null
+245,39.5,SP Narine,DJG Sammy,Saeed Ajmal,0,0,null,0,0,null,null
+246,39.6,SP Narine,DJG Sammy,Saeed Ajmal,0,0,null,0,0,null,null
+247,40.1,DJG Sammy,SP Narine,Shahid Afridi,1,0,null,1,0,null,null
+248,40.2,SP Narine,DJG Sammy,Shahid Afridi,0,1,wides ,1,0,null,null
+249,40.3,SP Narine,DJG Sammy,Shahid Afridi,0,0,null,0,1,SP Narine,caught
+250,40.4,JO Holder,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+251,40.5,JO Holder,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+252,40.6,JO Holder,DJG Sammy,Shahid Afridi,0,0,null,0,0,null,null
+253,40.7,JO Holder,DJG Sammy,Shahid Afridi,0,0,null,0,1,JO Holder,lbw

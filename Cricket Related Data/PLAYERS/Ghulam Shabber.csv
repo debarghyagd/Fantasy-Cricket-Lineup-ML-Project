@@ -1,0 +1,59 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1131275,ICC Academy,Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,5,7,1,0
+1,1131275,ICC Academy,Ireland,PKD Chase,Right-arm fast-medium,"[0, 1, 1]",0,7,14,0,1
+2,1131275,ICC Academy,Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",1,6,18,0,0
+3,1133015,Old Hararians,Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",1,4,10,0,0
+4,1133015,Old Hararians,Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,5,7,1,0
+5,1133015,Old Hararians,Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,1,10,0,0
+6,1131278,ICC Academy,Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,25,23,3,0
+7,1131278,ICC Academy,Scotland,SG Whittingham,Right-arm fast-medium,"[0, 1, 1]",0,14,12,1,1
+8,1131278,ICC Academy,Scotland,CS MacLeod,Right-arm fast-medium,"[0, 1, 1]",0,6,12,0,0
+9,1131278,ICC Academy,Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",0,10,11,1,0
+10,1131278,ICC Academy,Scotland,RD Berrington,Right-arm fast-medium,"[0, 1, 1]",0,12,8,2,0
+11,1131279,ICC Academy,Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,8,10,1,0
+12,1131279,ICC Academy,Scotland,SJ Cameron,Left-arm medium,"[0, 0, 2]",0,8,11,2,0
+13,1131279,ICC Academy,Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",1,1,5,0,0
+14,1133027,Old Hararians,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,1,1,0,0
+15,1133027,Old Hararians,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",1,5,6,1,0
+16,1078661,Dubai International Cricket Stadium,Hong Kong,Nadeem Ahmed,Left-arm orthodox,"[1, 0, 1]",0,5,4,1,0
+17,1080630,ICC Global Cricket Academy,Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",1,2,4,0,0
+18,1080630,ICC Global Cricket Academy,Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,3,5,0,0
+19,1080631,ICC Global Cricket Academy,Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,1,2,0,0
+20,1080631,ICC Global Cricket Academy,Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",1,0,2,0,0
+21,1131274,ICC Academy,Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",1,2,11,0,0
+22,1131274,ICC Academy,Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",0,0,4,0,0
+23,1131274,ICC Academy,Ireland,PKD Chase,Right-arm fast-medium,"[0, 1, 1]",0,18,15,4,0
+24,1170454,ICC Academy,Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",0,7,12,1,0
+25,1170454,ICC Academy,Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",1,9,11,1,0
+26,1170454,ICC Academy,Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",0,6,13,0,0
+27,1170454,ICC Academy,Nepal,P Khadka,Right-arm fast-medium,"[0, 1, 1]",0,8,13,1,0
+28,1170455,ICC Academy,Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",1,2,5,0,0
+29,1170456,ICC Academy,Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",0,6,10,0,0
+30,1170456,ICC Academy,Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",1,4,6,0,0
+31,1170456,ICC Academy,Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",0,1,13,0,0
+32,1170456,ICC Academy,Nepal,P Khadka,Right-arm fast-medium,"[0, 1, 1]",0,6,17,0,0
+33,1068737,Sheikh Zayed Stadium,Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",1,8,20,0,0
+34,1068737,Sheikh Zayed Stadium,Papua New Guinea,L Siaka,Right-arm fast-medium,"[0, 1, 1]",0,8,9,0,0
+35,1089183,Sheikh Zayed Stadium,Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",1,4,5,0,0
+36,1078660,Dubai International Cricket Stadium,Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",1,2,8,0,0
+37,1078660,Dubai International Cricket Stadium,Scotland,BTJ Wheal,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0
+38,1133029,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",1,10,19,0,1
+39,1133029,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,6,5,1,0
+40,1133029,Harare Sports Club,Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,7,14,1,0
+41,1133029,Harare Sports Club,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,9,15,1,0
+42,1133029,Harare Sports Club,Zimbabwe,AG Cremer,Right-arm legbreak,"[1, 1, 1]",0,8,11,1,0
+43,1133003,Old Hararians,West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,2,6,0,0
+44,1133003,Old Hararians,West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",0,0,3,0,0
+45,1133003,Old Hararians,West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,1,4,0,0
+46,1179272,Harare Sports Club,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,0,5,0,0
+47,1179272,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",1,2,7,0,0
+48,1179273,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,13,15,0,0
+49,1179273,Harare Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,10,26,0,0
+50,1179273,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,11,12,1,0
+51,1179273,Harare Sports Club,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,9,19,1,0
+52,1179273,Harare Sports Club,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",1,8,16,1,0
+53,1179273,Harare Sports Club,Zimbabwe,B Mavuta,Right-arm legbreak,"[1, 1, 1]",0,5,4,0,0
+54,1179275,Harare Sports Club,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",0,9,8,1,0
+55,1179275,Harare Sports Club,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+56,1179275,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,8,16,0,0
+57,1179275,Harare Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",1,0,3,0,0

@@ -1,0 +1,306 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Anamul Haque,Shamsur Rahman,RAS Lakmal,0,0,null,0,0,null,null
+1,0.2,Anamul Haque,Shamsur Rahman,RAS Lakmal,1,0,null,1,0,null,null
+2,0.3,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+3,0.4,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+4,0.5,Shamsur Rahman,Anamul Haque,RAS Lakmal,4,0,null,4,0,null,null
+5,0.6,Shamsur Rahman,Anamul Haque,RAS Lakmal,1,0,null,1,0,null,null
+6,1.1,Shamsur Rahman,Anamul Haque,NLTC Perera,0,0,null,0,0,null,null
+7,1.2,Shamsur Rahman,Anamul Haque,NLTC Perera,1,0,null,1,0,null,null
+8,1.3,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+9,1.4,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+10,1.5,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+11,1.6,Anamul Haque,Shamsur Rahman,NLTC Perera,4,0,null,4,0,null,null
+12,2.1,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+13,2.2,Shamsur Rahman,Anamul Haque,RAS Lakmal,1,0,null,1,0,null,null
+14,2.3,Anamul Haque,Shamsur Rahman,RAS Lakmal,0,0,null,0,0,null,null
+15,2.4,Anamul Haque,Shamsur Rahman,RAS Lakmal,0,0,null,0,0,null,null
+16,2.5,Anamul Haque,Shamsur Rahman,RAS Lakmal,0,0,null,0,0,null,null
+17,2.6,Anamul Haque,Shamsur Rahman,RAS Lakmal,1,0,null,1,0,null,null
+18,3.1,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+19,3.2,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+20,3.3,Anamul Haque,Shamsur Rahman,NLTC Perera,1,0,null,1,0,null,null
+21,3.4,Shamsur Rahman,Anamul Haque,NLTC Perera,0,0,null,0,0,null,null
+22,3.5,Shamsur Rahman,Anamul Haque,NLTC Perera,0,0,null,0,0,null,null
+23,3.6,Shamsur Rahman,Anamul Haque,NLTC Perera,1,0,null,1,0,null,null
+24,4.1,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+25,4.2,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+26,4.3,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+27,4.4,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+28,4.5,Shamsur Rahman,Anamul Haque,RAS Lakmal,1,0,null,1,0,null,null
+29,4.6,Anamul Haque,Shamsur Rahman,RAS Lakmal,0,0,null,0,0,null,null
+30,5.1,Shamsur Rahman,Anamul Haque,NLTC Perera,0,1,wides ,1,0,null,null
+31,5.2,Shamsur Rahman,Anamul Haque,NLTC Perera,1,0,null,1,0,null,null
+32,5.3,Anamul Haque,Shamsur Rahman,NLTC Perera,4,0,null,4,0,null,null
+33,5.4,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+34,5.5,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+35,5.6,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+36,5.7,Anamul Haque,Shamsur Rahman,NLTC Perera,1,0,null,1,0,null,null
+37,6.1,Anamul Haque,Shamsur Rahman,RAS Lakmal,1,0,null,1,0,null,null
+38,6.2,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+39,6.3,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+40,6.4,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+41,6.5,Shamsur Rahman,Anamul Haque,RAS Lakmal,4,0,null,4,0,null,null
+42,6.6,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+43,7.1,Anamul Haque,Shamsur Rahman,SMSM Senanayake,0,0,null,0,0,null,null
+44,7.2,Anamul Haque,Shamsur Rahman,SMSM Senanayake,1,0,null,1,0,null,null
+45,7.3,Shamsur Rahman,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+46,7.4,Shamsur Rahman,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+47,7.5,Shamsur Rahman,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+48,7.6,Shamsur Rahman,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+49,8.1,Anamul Haque,Shamsur Rahman,RAS Lakmal,0,0,null,0,0,null,null
+50,8.2,Anamul Haque,Shamsur Rahman,RAS Lakmal,0,0,null,0,0,null,null
+51,8.3,Anamul Haque,Shamsur Rahman,RAS Lakmal,1,0,null,1,0,null,null
+52,8.4,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+53,8.5,Shamsur Rahman,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+54,8.6,Shamsur Rahman,Anamul Haque,RAS Lakmal,1,0,null,1,0,null,null
+55,9.1,Shamsur Rahman,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+56,9.2,Shamsur Rahman,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+57,9.3,Shamsur Rahman,Anamul Haque,SMSM Senanayake,4,0,null,4,0,null,null
+58,9.4,Shamsur Rahman,Anamul Haque,SMSM Senanayake,4,0,null,4,0,null,null
+59,9.5,Shamsur Rahman,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+60,9.6,Shamsur Rahman,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+61,10.1,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+62,10.2,Anamul Haque,Shamsur Rahman,NLTC Perera,1,0,null,1,0,null,null
+63,10.3,Shamsur Rahman,Anamul Haque,NLTC Perera,1,0,null,1,0,null,null
+64,10.4,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+65,10.5,Anamul Haque,Shamsur Rahman,NLTC Perera,2,0,null,2,0,null,null
+66,10.6,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+67,11.1,Shamsur Rahman,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+68,11.2,Shamsur Rahman,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+69,11.3,Shamsur Rahman,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+70,11.4,Shamsur Rahman,Anamul Haque,PC de Silva,1,0,null,1,0,null,null
+71,11.5,Anamul Haque,Shamsur Rahman,PC de Silva,1,0,null,1,0,null,null
+72,11.6,Shamsur Rahman,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+73,12.1,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+74,12.2,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+75,12.3,Anamul Haque,Shamsur Rahman,NLTC Perera,2,0,null,2,0,null,null
+76,12.4,Anamul Haque,Shamsur Rahman,NLTC Perera,0,0,null,0,0,null,null
+77,12.5,Anamul Haque,Shamsur Rahman,NLTC Perera,1,0,null,1,0,null,null
+78,12.6,Shamsur Rahman,Anamul Haque,NLTC Perera,0,0,null,0,0,null,null
+79,13.1,Anamul Haque,Shamsur Rahman,PC de Silva,1,0,null,1,0,null,null
+80,13.2,Shamsur Rahman,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+81,13.3,Shamsur Rahman,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+82,13.4,Shamsur Rahman,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+83,13.5,Shamsur Rahman,Anamul Haque,PC de Silva,4,0,null,4,0,null,null
+84,13.6,Shamsur Rahman,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+85,14.1,Anamul Haque,Shamsur Rahman,BAW Mendis,1,0,null,1,0,null,null
+86,14.2,Shamsur Rahman,Anamul Haque,BAW Mendis,1,0,null,1,0,null,null
+87,14.3,Anamul Haque,Shamsur Rahman,BAW Mendis,1,0,null,1,0,null,null
+88,14.4,Shamsur Rahman,Anamul Haque,BAW Mendis,1,0,null,1,0,null,null
+89,14.5,Anamul Haque,Shamsur Rahman,BAW Mendis,1,0,null,1,0,null,null
+90,14.6,Shamsur Rahman,Anamul Haque,BAW Mendis,4,0,null,4,0,null,null
+91,15.1,Anamul Haque,Shamsur Rahman,PC de Silva,6,0,null,6,0,null,null
+92,15.2,Anamul Haque,Shamsur Rahman,PC de Silva,0,0,null,0,0,null,null
+93,15.3,Anamul Haque,Shamsur Rahman,PC de Silva,0,0,null,0,0,null,null
+94,15.4,Anamul Haque,Shamsur Rahman,PC de Silva,0,0,null,0,0,null,null
+95,15.5,Anamul Haque,Shamsur Rahman,PC de Silva,0,0,null,0,0,null,null
+96,15.6,Anamul Haque,Shamsur Rahman,PC de Silva,0,0,null,0,0,null,null
+97,16.1,Shamsur Rahman,Anamul Haque,BAW Mendis,1,0,null,1,0,null,null
+98,16.2,Anamul Haque,Shamsur Rahman,BAW Mendis,0,0,null,0,0,null,null
+99,16.3,Anamul Haque,Shamsur Rahman,BAW Mendis,1,0,null,1,0,null,null
+100,16.4,Shamsur Rahman,Anamul Haque,BAW Mendis,1,0,null,1,0,null,null
+101,16.5,Anamul Haque,Shamsur Rahman,BAW Mendis,0,0,null,0,0,null,null
+102,16.6,Anamul Haque,Shamsur Rahman,BAW Mendis,0,0,null,0,0,null,null
+103,17.1,Shamsur Rahman,Anamul Haque,PC de Silva,1,0,null,1,0,null,null
+104,17.2,Anamul Haque,Shamsur Rahman,PC de Silva,1,0,null,1,0,null,null
+105,17.3,Shamsur Rahman,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+106,17.4,Shamsur Rahman,Anamul Haque,PC de Silva,1,0,null,1,0,null,null
+107,17.5,Anamul Haque,Shamsur Rahman,PC de Silva,0,0,null,0,0,null,null
+108,17.6,Anamul Haque,Shamsur Rahman,PC de Silva,0,0,null,0,0,null,null
+109,18.1,Shamsur Rahman,Anamul Haque,BAW Mendis,0,0,null,0,0,null,null
+110,18.2,Shamsur Rahman,Anamul Haque,BAW Mendis,0,0,null,0,1,Shamsur Rahman,lbw
+111,18.3,Mominul Haque,Anamul Haque,BAW Mendis,1,0,null,1,0,null,null
+112,18.4,Anamul Haque,Mominul Haque,BAW Mendis,0,0,null,0,0,null,null
+113,18.5,Anamul Haque,Mominul Haque,BAW Mendis,1,0,null,1,0,null,null
+114,18.6,Mominul Haque,Anamul Haque,BAW Mendis,0,0,null,0,1,Mominul Haque,bowled
+115,19.1,Anamul Haque,Mushfiqur Rahim,PC de Silva,0,0,null,0,0,null,null
+116,19.2,Anamul Haque,Mushfiqur Rahim,PC de Silva,0,0,null,0,0,null,null
+117,19.3,Anamul Haque,Mushfiqur Rahim,PC de Silva,1,0,null,1,0,null,null
+118,19.4,Mushfiqur Rahim,Anamul Haque,PC de Silva,1,0,null,1,0,null,null
+119,19.5,Anamul Haque,Mushfiqur Rahim,PC de Silva,1,0,null,1,0,null,null
+120,19.6,Mushfiqur Rahim,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+121,20.1,Anamul Haque,Mushfiqur Rahim,BAW Mendis,1,0,null,1,0,null,null
+122,20.2,Mushfiqur Rahim,Anamul Haque,BAW Mendis,1,0,null,1,0,null,null
+123,20.3,Anamul Haque,Mushfiqur Rahim,BAW Mendis,1,0,null,1,0,null,null
+124,20.4,Mushfiqur Rahim,Anamul Haque,BAW Mendis,1,0,null,1,0,null,null
+125,20.5,Anamul Haque,Mushfiqur Rahim,BAW Mendis,0,0,null,0,0,null,null
+126,20.6,Anamul Haque,Mushfiqur Rahim,BAW Mendis,1,0,null,1,0,null,null
+127,21.1,Anamul Haque,Mushfiqur Rahim,PC de Silva,0,0,null,0,0,null,null
+128,21.2,Anamul Haque,Mushfiqur Rahim,PC de Silva,1,0,null,1,0,null,null
+129,21.3,Mushfiqur Rahim,Anamul Haque,PC de Silva,1,0,null,1,0,null,null
+130,21.4,Anamul Haque,Mushfiqur Rahim,PC de Silva,1,0,null,1,0,null,null
+131,21.5,Mushfiqur Rahim,Anamul Haque,PC de Silva,0,0,null,0,1,Mushfiqur Rahim,lbw
+132,21.6,Shakib Al Hasan,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+133,22.1,Anamul Haque,Shakib Al Hasan,BAW Mendis,0,0,null,0,0,null,null
+134,22.2,Anamul Haque,Shakib Al Hasan,BAW Mendis,1,0,null,1,0,null,null
+135,22.3,Shakib Al Hasan,Anamul Haque,BAW Mendis,4,0,null,4,0,null,null
+136,22.4,Shakib Al Hasan,Anamul Haque,BAW Mendis,1,0,null,1,0,null,null
+137,22.5,Anamul Haque,Shakib Al Hasan,BAW Mendis,0,0,null,0,0,null,null
+138,22.6,Anamul Haque,Shakib Al Hasan,BAW Mendis,0,0,null,0,0,null,null
+139,23.1,Shakib Al Hasan,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+140,23.2,Shakib Al Hasan,Anamul Haque,PC de Silva,1,0,null,1,0,null,null
+141,23.3,Anamul Haque,Shakib Al Hasan,PC de Silva,0,0,null,0,0,null,null
+142,23.4,Anamul Haque,Shakib Al Hasan,PC de Silva,0,0,null,0,0,null,null
+143,23.5,Anamul Haque,Shakib Al Hasan,PC de Silva,1,0,null,1,0,null,null
+144,23.6,Shakib Al Hasan,Anamul Haque,PC de Silva,0,0,null,0,0,null,null
+145,24.1,Anamul Haque,Shakib Al Hasan,NLTC Perera,0,0,null,0,0,null,null
+146,24.2,Anamul Haque,Shakib Al Hasan,NLTC Perera,1,0,null,1,0,null,null
+147,24.3,Shakib Al Hasan,Anamul Haque,NLTC Perera,0,0,null,0,0,null,null
+148,24.4,Shakib Al Hasan,Anamul Haque,NLTC Perera,0,0,null,0,0,null,null
+149,24.5,Shakib Al Hasan,Anamul Haque,NLTC Perera,0,0,null,0,0,null,null
+150,24.6,Shakib Al Hasan,Anamul Haque,NLTC Perera,1,0,null,1,0,null,null
+151,25.1,Shakib Al Hasan,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+152,25.2,Shakib Al Hasan,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+153,25.3,Shakib Al Hasan,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+154,25.4,Shakib Al Hasan,Anamul Haque,SMSM Senanayake,0,1,legbyes ,1,0,null,null
+155,25.5,Anamul Haque,Shakib Al Hasan,SMSM Senanayake,0,0,null,0,0,null,null
+156,25.6,Anamul Haque,Shakib Al Hasan,SMSM Senanayake,0,0,null,0,0,null,null
+157,26.1,Shakib Al Hasan,Anamul Haque,NLTC Perera,0,0,null,0,0,null,null
+158,26.2,Shakib Al Hasan,Anamul Haque,NLTC Perera,0,0,null,0,0,null,null
+159,26.3,Shakib Al Hasan,Anamul Haque,NLTC Perera,0,0,null,0,0,null,null
+160,26.4,Shakib Al Hasan,Anamul Haque,NLTC Perera,1,0,null,1,0,null,null
+161,26.5,Anamul Haque,Shakib Al Hasan,NLTC Perera,1,0,null,1,0,null,null
+162,26.6,Shakib Al Hasan,Anamul Haque,NLTC Perera,0,0,null,0,0,null,null
+163,27.1,Anamul Haque,Shakib Al Hasan,SMSM Senanayake,0,0,null,0,0,null,null
+164,27.2,Anamul Haque,Shakib Al Hasan,SMSM Senanayake,1,0,null,1,0,null,null
+165,27.3,Shakib Al Hasan,Anamul Haque,SMSM Senanayake,0,0,null,0,0,null,null
+166,27.4,Shakib Al Hasan,Anamul Haque,SMSM Senanayake,1,0,null,1,0,null,null
+167,27.5,Anamul Haque,Shakib Al Hasan,SMSM Senanayake,0,0,null,0,0,null,null
+168,27.6,Anamul Haque,Shakib Al Hasan,SMSM Senanayake,0,0,null,0,0,null,null
+169,28.1,Shakib Al Hasan,Anamul Haque,RAS Lakmal,1,0,null,1,0,null,null
+170,28.2,Anamul Haque,Shakib Al Hasan,RAS Lakmal,1,0,null,1,0,null,null
+171,28.3,Shakib Al Hasan,Anamul Haque,RAS Lakmal,0,0,null,0,0,null,null
+172,28.4,Shakib Al Hasan,Anamul Haque,RAS Lakmal,1,0,null,1,0,null,null
+173,28.5,Anamul Haque,Shakib Al Hasan,RAS Lakmal,0,0,null,0,0,null,null
+174,28.6,Anamul Haque,Shakib Al Hasan,RAS Lakmal,1,0,null,1,0,null,null
+175,29.1,Anamul Haque,Shakib Al Hasan,SMA Priyanjan,0,0,null,0,1,Anamul Haque,caught
+176,29.2,Nasir Hossain,Shakib Al Hasan,SMA Priyanjan,1,0,null,1,0,null,null
+177,29.3,Shakib Al Hasan,Nasir Hossain,SMA Priyanjan,1,0,null,1,0,null,null
+178,29.4,Nasir Hossain,Shakib Al Hasan,SMA Priyanjan,0,0,null,0,0,null,null
+179,29.5,Nasir Hossain,Shakib Al Hasan,SMA Priyanjan,0,0,null,0,0,null,null
+180,29.6,Nasir Hossain,Shakib Al Hasan,SMA Priyanjan,0,0,null,0,0,null,null
+181,30.1,Shakib Al Hasan,Nasir Hossain,PC de Silva,1,0,null,1,0,null,null
+182,30.2,Nasir Hossain,Shakib Al Hasan,PC de Silva,1,0,null,1,0,null,null
+183,30.3,Shakib Al Hasan,Nasir Hossain,PC de Silva,1,0,null,1,0,null,null
+184,30.4,Nasir Hossain,Shakib Al Hasan,PC de Silva,0,0,null,0,0,null,null
+185,30.5,Nasir Hossain,Shakib Al Hasan,PC de Silva,0,0,null,0,0,null,null
+186,30.6,Nasir Hossain,Shakib Al Hasan,PC de Silva,0,0,null,0,0,null,null
+187,31.1,Shakib Al Hasan,Nasir Hossain,SMA Priyanjan,1,0,null,1,0,null,null
+188,31.2,Nasir Hossain,Shakib Al Hasan,SMA Priyanjan,0,0,null,0,0,null,null
+189,31.3,Nasir Hossain,Shakib Al Hasan,SMA Priyanjan,0,0,null,0,0,null,null
+190,31.4,Nasir Hossain,Shakib Al Hasan,SMA Priyanjan,2,0,null,2,0,null,null
+191,31.5,Nasir Hossain,Shakib Al Hasan,SMA Priyanjan,0,0,null,0,0,null,null
+192,31.6,Nasir Hossain,Shakib Al Hasan,SMA Priyanjan,0,0,null,0,0,null,null
+193,32.1,Shakib Al Hasan,Nasir Hossain,PC de Silva,0,0,null,0,0,null,null
+194,32.2,Shakib Al Hasan,Nasir Hossain,PC de Silva,1,0,null,1,0,null,null
+195,32.3,Nasir Hossain,Shakib Al Hasan,PC de Silva,0,0,null,0,0,null,null
+196,32.4,Nasir Hossain,Shakib Al Hasan,PC de Silva,0,0,null,0,0,null,null
+197,32.5,Nasir Hossain,Shakib Al Hasan,PC de Silva,0,0,null,0,0,null,null
+198,32.6,Nasir Hossain,Shakib Al Hasan,PC de Silva,0,0,null,0,0,null,null
+199,33.1,Shakib Al Hasan,Nasir Hossain,SMA Priyanjan,4,0,null,4,0,null,null
+200,33.2,Shakib Al Hasan,Nasir Hossain,SMA Priyanjan,0,0,null,0,1,Shakib Al Hasan,caught
+201,33.3,Mahmudullah,Nasir Hossain,SMA Priyanjan,1,0,null,1,0,null,null
+202,33.4,Nasir Hossain,Mahmudullah,SMA Priyanjan,1,0,null,1,0,null,null
+203,33.5,Mahmudullah,Nasir Hossain,SMA Priyanjan,0,0,null,0,0,null,null
+204,33.6,Mahmudullah,Nasir Hossain,SMA Priyanjan,0,0,null,0,0,null,null
+205,34.1,Nasir Hossain,Mahmudullah,PC de Silva,1,0,null,1,0,null,null
+206,34.2,Mahmudullah,Nasir Hossain,PC de Silva,0,0,null,0,0,null,null
+207,34.3,Mahmudullah,Nasir Hossain,PC de Silva,2,0,null,2,0,null,null
+208,34.4,Mahmudullah,Nasir Hossain,PC de Silva,0,0,null,0,0,null,null
+209,34.5,Mahmudullah,Nasir Hossain,PC de Silva,1,0,null,1,0,null,null
+210,34.6,Nasir Hossain,Mahmudullah,PC de Silva,1,0,null,1,0,null,null
+211,35.1,Nasir Hossain,Mahmudullah,SMSM Senanayake,1,0,null,1,0,null,null
+212,35.2,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+213,35.3,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+214,35.4,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+215,35.5,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+216,35.6,Mahmudullah,Nasir Hossain,SMSM Senanayake,1,0,null,1,0,null,null
+217,36.1,Mahmudullah,Nasir Hossain,RAS Lakmal,0,1,wides ,1,0,null,null
+218,36.2,Mahmudullah,Nasir Hossain,RAS Lakmal,0,0,null,0,0,null,null
+219,36.3,Mahmudullah,Nasir Hossain,RAS Lakmal,2,0,null,2,0,null,null
+220,36.4,Mahmudullah,Nasir Hossain,RAS Lakmal,0,0,null,0,0,null,null
+221,36.5,Mahmudullah,Nasir Hossain,RAS Lakmal,1,0,null,1,0,null,null
+222,36.6,Nasir Hossain,Mahmudullah,RAS Lakmal,0,0,null,0,0,null,null
+223,36.7,Nasir Hossain,Mahmudullah,RAS Lakmal,0,0,null,0,0,null,null
+224,37.1,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+225,37.2,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+226,37.3,Mahmudullah,Nasir Hossain,SMSM Senanayake,1,0,null,1,0,null,null
+227,37.4,Nasir Hossain,Mahmudullah,SMSM Senanayake,0,0,null,0,0,null,null
+228,37.5,Nasir Hossain,Mahmudullah,SMSM Senanayake,1,0,null,1,0,null,null
+229,37.6,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+230,38.1,Nasir Hossain,Mahmudullah,BAW Mendis,0,0,null,0,0,null,null
+231,38.2,Nasir Hossain,Mahmudullah,BAW Mendis,1,0,null,1,0,null,null
+232,38.3,Mahmudullah,Nasir Hossain,BAW Mendis,0,0,null,0,0,null,null
+233,38.4,Mahmudullah,Nasir Hossain,BAW Mendis,1,0,null,1,0,null,null
+234,38.5,Nasir Hossain,Mahmudullah,BAW Mendis,0,0,null,0,0,null,null
+235,38.6,Nasir Hossain,Mahmudullah,BAW Mendis,1,0,null,1,0,null,null
+236,39.1,Nasir Hossain,Mahmudullah,SMSM Senanayake,1,0,null,1,0,null,null
+237,39.2,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+238,39.3,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+239,39.4,Mahmudullah,Nasir Hossain,SMSM Senanayake,4,0,null,4,0,null,null
+240,39.5,Mahmudullah,Nasir Hossain,SMSM Senanayake,1,0,null,1,0,null,null
+241,39.6,Nasir Hossain,Mahmudullah,SMSM Senanayake,1,0,null,1,0,null,null
+242,40.1,Nasir Hossain,Mahmudullah,BAW Mendis,0,0,null,0,0,null,null
+243,40.2,Nasir Hossain,Mahmudullah,BAW Mendis,4,0,null,4,0,null,null
+244,40.3,Nasir Hossain,Mahmudullah,BAW Mendis,1,0,null,1,0,null,null
+245,40.4,Mahmudullah,Nasir Hossain,BAW Mendis,2,0,null,2,0,null,null
+246,40.5,Mahmudullah,Nasir Hossain,BAW Mendis,0,0,null,0,0,null,null
+247,40.6,Mahmudullah,Nasir Hossain,BAW Mendis,2,0,null,2,0,null,null
+248,41.1,Nasir Hossain,Mahmudullah,SMSM Senanayake,1,0,null,1,0,null,null
+249,41.2,Mahmudullah,Nasir Hossain,SMSM Senanayake,1,0,null,1,0,null,null
+250,41.3,Nasir Hossain,Mahmudullah,SMSM Senanayake,2,0,null,2,0,null,null
+251,41.4,Nasir Hossain,Mahmudullah,SMSM Senanayake,0,0,null,0,0,null,null
+252,41.5,Nasir Hossain,Mahmudullah,SMSM Senanayake,1,0,null,1,0,null,null
+253,41.6,Mahmudullah,Nasir Hossain,SMSM Senanayake,1,0,null,1,0,null,null
+254,42.1,Mahmudullah,Nasir Hossain,BAW Mendis,4,0,null,4,0,null,null
+255,42.2,Mahmudullah,Nasir Hossain,BAW Mendis,0,0,null,0,0,null,null
+256,42.3,Mahmudullah,Nasir Hossain,BAW Mendis,1,0,null,1,0,null,null
+257,42.4,Nasir Hossain,Mahmudullah,BAW Mendis,1,0,null,1,0,null,null
+258,42.5,Mahmudullah,Nasir Hossain,BAW Mendis,2,0,null,2,0,null,null
+259,42.6,Mahmudullah,Nasir Hossain,BAW Mendis,1,0,null,1,0,null,null
+260,43.1,Mahmudullah,Nasir Hossain,SMSM Senanayake,1,0,null,1,0,null,null
+261,43.2,Nasir Hossain,Mahmudullah,SMSM Senanayake,1,0,null,1,0,null,null
+262,43.3,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+263,43.4,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+264,43.5,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+265,43.6,Mahmudullah,Nasir Hossain,SMSM Senanayake,0,2,wides ,2,0,null,null
+266,43.7,Nasir Hossain,Mahmudullah,SMSM Senanayake,1,0,null,1,0,null,null
+267,44.1,Nasir Hossain,Mahmudullah,RAS Lakmal,0,0,null,0,0,null,null
+268,44.2,Nasir Hossain,Mahmudullah,RAS Lakmal,1,0,null,1,0,null,null
+269,44.3,Mahmudullah,Nasir Hossain,RAS Lakmal,0,0,null,0,1,Mahmudullah,bowled
+270,44.4,Ziaur Rahman,Nasir Hossain,RAS Lakmal,1,0,null,1,0,null,null
+271,44.5,Nasir Hossain,Ziaur Rahman,RAS Lakmal,0,1,legbyes ,1,0,null,null
+272,44.6,Ziaur Rahman,Nasir Hossain,RAS Lakmal,1,0,null,1,0,null,null
+273,45.1,Ziaur Rahman,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+274,45.2,Ziaur Rahman,Nasir Hossain,SMSM Senanayake,1,0,null,1,0,null,null
+275,45.3,Nasir Hossain,Ziaur Rahman,SMSM Senanayake,2,0,null,2,0,null,null
+276,45.4,Nasir Hossain,Ziaur Rahman,SMSM Senanayake,0,0,null,0,0,null,null
+277,45.5,Nasir Hossain,Ziaur Rahman,SMSM Senanayake,1,0,null,1,0,null,null
+278,45.6,Ziaur Rahman,Nasir Hossain,SMSM Senanayake,0,0,null,0,0,null,null
+279,46.1,Nasir Hossain,Ziaur Rahman,RAS Lakmal,1,0,null,1,0,null,null
+280,46.2,Ziaur Rahman,Nasir Hossain,RAS Lakmal,1,0,null,1,0,null,null
+281,46.3,Nasir Hossain,Ziaur Rahman,RAS Lakmal,0,0,null,0,1,Nasir Hossain,caught
+282,46.4,Arafat Sunny,Ziaur Rahman,RAS Lakmal,0,0,null,0,0,null,null
+283,46.5,Arafat Sunny,Ziaur Rahman,RAS Lakmal,0,0,null,0,0,null,null
+284,46.6,Arafat Sunny,Ziaur Rahman,RAS Lakmal,0,0,null,0,0,null,null
+285,47.1,Ziaur Rahman,Arafat Sunny,BAW Mendis,1,0,null,1,0,null,null
+286,47.2,Arafat Sunny,Ziaur Rahman,BAW Mendis,1,0,null,1,0,null,null
+287,47.3,Ziaur Rahman,Arafat Sunny,BAW Mendis,1,0,null,1,0,null,null
+288,47.4,Arafat Sunny,Ziaur Rahman,BAW Mendis,0,1,wides ,1,0,null,null
+289,47.5,Arafat Sunny,Ziaur Rahman,BAW Mendis,0,5,wides ,5,0,null,null
+290,47.6,Arafat Sunny,Ziaur Rahman,BAW Mendis,0,0,null,0,0,null,null
+291,47.7,Arafat Sunny,Ziaur Rahman,BAW Mendis,0,0,null,0,0,null,null
+292,47.8,Arafat Sunny,Ziaur Rahman,BAW Mendis,0,0,null,0,0,null,null
+293,48.1,Ziaur Rahman,Arafat Sunny,RAS Lakmal,0,0,null,0,0,null,null
+294,48.2,Ziaur Rahman,Arafat Sunny,RAS Lakmal,1,0,null,1,0,null,null
+295,48.3,Arafat Sunny,Ziaur Rahman,RAS Lakmal,0,4,byes ,4,0,null,null
+296,48.4,Arafat Sunny,Ziaur Rahman,RAS Lakmal,1,0,null,1,0,null,null
+297,48.5,Ziaur Rahman,Arafat Sunny,RAS Lakmal,0,0,null,0,0,null,null
+298,48.6,Ziaur Rahman,Arafat Sunny,RAS Lakmal,1,0,null,1,0,null,null
+299,49.1,Ziaur Rahman,Arafat Sunny,NLTC Perera,4,0,null,4,0,null,null
+300,49.2,Ziaur Rahman,Arafat Sunny,NLTC Perera,0,0,null,0,1,Ziaur Rahman,bowled
+301,49.3,Rubel Hossain,Arafat Sunny,NLTC Perera,0,0,null,0,1,Rubel Hossain,bowled
+302,49.4,Al-Amin Hossain,Arafat Sunny,NLTC Perera,0,0,null,0,0,null,null
+303,49.5,Al-Amin Hossain,Arafat Sunny,NLTC Perera,0,1,legbyes ,1,0,null,null
+304,49.6,Arafat Sunny,Al-Amin Hossain,NLTC Perera,0,0,null,0,0,null,null

@@ -1,0 +1,34 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,464529,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Australia,CJ McKay,Right-arm fast-medium,"[0, 1, 1]",1,14,18,3,0
+1,467883,Nehru Stadium,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,18,20,3,0
+2,467884,Sawai Mansingh Stadium,New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",0,11,11,1,0
+3,467884,Sawai Mansingh Stadium,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,5,9,0,0
+4,467885,Reliance Stadium,New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",0,2,3,0,0
+5,467885,Reliance Stadium,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,3,6,0,0
+6,441829,"Sardar Patel Stadium, Motera",South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",1,19,12,4,0
+7,441829,"Sardar Patel Stadium, Motera",South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,6,4,1,0
+8,452147,Queens Sports Club,Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",0,6,10,0,0
+9,597925,"Sabina Park, Kingston",Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",0,8,16,0,0
+10,597925,"Sabina Park, Kingston",Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,6,16,0,0
+11,597925,"Sabina Park, Kingston",Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,2,2,0,0
+12,463150,Kingsmead,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",1,1,4,0,0
+13,463151,New Wanderers Stadium,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",1,9,20,2,0
+14,463151,New Wanderers Stadium,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,7,12,1,0
+15,463152,Newlands,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,1,7,0,0
+16,463152,Newlands,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",1,0,2,0,0
+17,597926,"Queen's Park Oval, Port of Spain",West Indies,KA Pollard,Right-arm medium,"[0, 1, 2]",1,9,4,2,0
+18,597926,"Queen's Park Oval, Port of Spain",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,2,3,0,0
+19,597926,"Queen's Park Oval, Port of Spain",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",0,9,5,2,0
+20,597926,"Queen's Park Oval, Port of Spain",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,6,4,1,0
+21,452146,Queens Sports Club,Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",0,2,14,0,0
+22,452146,Queens Sports Club,Zimbabwe,RW Price,Left-arm orthodox,"[1, 0, 1]",0,1,4,0,0
+23,452149,Harare Sports Club,Zimbabwe,AM Blignaut,Right-arm fast-medium,"[0, 1, 1]",0,4,21,0,0
+24,452149,Harare Sports Club,Zimbabwe,RW Price,Left-arm orthodox,"[1, 0, 1]",0,4,12,0,0
+25,885959,Harare Sports Club,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+26,885965,Harare Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,8,11,0,0
+27,885965,Harare Sports Club,Zimbabwe,CJ Chibhabha,Right-arm medium,"[0, 1, 2]",0,17,19,0,1
+28,885965,Harare Sports Club,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,14,23,1,0
+29,885965,Harare Sports Club,Zimbabwe,AG Cremer,Right-arm legbreak,"[1, 1, 1]",0,15,16,0,0
+30,885965,Harare Sports Club,Zimbabwe,N Madziva,Right-arm medium,"[0, 1, 2]",1,6,13,0,0
+31,885967,Harare Sports Club,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,11,14,2,0
+32,885967,Harare Sports Club,Zimbabwe,N Madziva,Right-arm medium,"[0, 1, 2]",1,2,7,0,0

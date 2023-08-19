@@ -1,0 +1,298 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Fakhar Zaman,Imam-ul-Haq,JNT Seales,0,0,null,0,0,null,null
+1,0.2,Fakhar Zaman,Imam-ul-Haq,JNT Seales,0,0,null,0,0,null,null
+2,0.3,Fakhar Zaman,Imam-ul-Haq,JNT Seales,0,0,null,0,0,null,null
+3,0.4,Fakhar Zaman,Imam-ul-Haq,JNT Seales,0,0,null,0,0,null,null
+4,0.5,Fakhar Zaman,Imam-ul-Haq,JNT Seales,0,0,null,0,0,null,null
+5,0.6,Fakhar Zaman,Imam-ul-Haq,JNT Seales,0,0,null,0,0,null,null
+6,1.1,Imam-ul-Haq,Fakhar Zaman,KMA Paul,0,0,null,0,0,null,null
+7,1.2,Imam-ul-Haq,Fakhar Zaman,KMA Paul,4,0,null,4,0,null,null
+8,1.3,Imam-ul-Haq,Fakhar Zaman,KMA Paul,0,0,null,0,0,null,null
+9,1.4,Imam-ul-Haq,Fakhar Zaman,KMA Paul,0,0,null,0,0,null,null
+10,1.5,Imam-ul-Haq,Fakhar Zaman,KMA Paul,0,1,wides ,1,0,null,null
+11,1.6,Imam-ul-Haq,Fakhar Zaman,KMA Paul,0,0,null,0,0,null,null
+12,1.7,Imam-ul-Haq,Fakhar Zaman,KMA Paul,1,0,null,1,0,null,null
+13,2.1,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,0,null,0,0,null,null
+14,2.2,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,0,null,0,0,null,null
+15,2.3,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,0,null,0,0,null,null
+16,2.4,Imam-ul-Haq,Fakhar Zaman,JNT Seales,4,0,null,4,0,null,null
+17,2.5,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,0,null,0,0,null,null
+18,2.6,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,1,wides ,1,0,null,null
+19,2.7,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,0,null,0,0,null,null
+20,3.1,Fakhar Zaman,Imam-ul-Haq,KMA Paul,0,0,null,0,0,null,null
+21,3.2,Fakhar Zaman,Imam-ul-Haq,KMA Paul,2,0,null,2,0,null,null
+22,3.3,Fakhar Zaman,Imam-ul-Haq,KMA Paul,0,0,null,0,0,null,null
+23,3.4,Fakhar Zaman,Imam-ul-Haq,KMA Paul,0,0,null,0,0,null,null
+24,3.5,Fakhar Zaman,Imam-ul-Haq,KMA Paul,0,0,null,0,0,null,null
+25,3.6,Fakhar Zaman,Imam-ul-Haq,KMA Paul,0,0,null,0,0,null,null
+26,4.1,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,0,null,0,0,null,null
+27,4.2,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,1,noballs ,1,0,null,null
+28,4.3,Imam-ul-Haq,Fakhar Zaman,JNT Seales,4,0,null,4,0,null,null
+29,4.4,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,0,null,0,0,null,null
+30,4.5,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,0,null,0,0,null,null
+31,4.6,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,0,null,0,0,null,null
+32,4.7,Imam-ul-Haq,Fakhar Zaman,JNT Seales,0,0,null,0,0,null,null
+33,5.1,Fakhar Zaman,Imam-ul-Haq,KMA Paul,0,0,null,0,0,null,null
+34,5.2,Fakhar Zaman,Imam-ul-Haq,KMA Paul,2,0,null,2,0,null,null
+35,5.3,Fakhar Zaman,Imam-ul-Haq,KMA Paul,0,0,null,0,0,null,null
+36,5.4,Fakhar Zaman,Imam-ul-Haq,KMA Paul,0,0,null,0,0,null,null
+37,5.5,Fakhar Zaman,Imam-ul-Haq,KMA Paul,4,0,null,4,0,null,null
+38,5.6,Fakhar Zaman,Imam-ul-Haq,KMA Paul,0,0,null,0,0,null,null
+39,6.1,Imam-ul-Haq,Fakhar Zaman,R Shepherd,4,0,null,4,0,null,null
+40,6.2,Imam-ul-Haq,Fakhar Zaman,R Shepherd,0,0,null,0,0,null,null
+41,6.3,Imam-ul-Haq,Fakhar Zaman,R Shepherd,0,0,null,0,0,null,null
+42,6.4,Imam-ul-Haq,Fakhar Zaman,R Shepherd,1,0,null,1,0,null,null
+43,6.5,Fakhar Zaman,Imam-ul-Haq,R Shepherd,0,0,null,0,0,null,null
+44,6.6,Fakhar Zaman,Imam-ul-Haq,R Shepherd,1,0,null,1,0,null,null
+45,7.1,Fakhar Zaman,Imam-ul-Haq,KMA Paul,1,0,null,1,0,null,null
+46,7.2,Imam-ul-Haq,Fakhar Zaman,KMA Paul,0,0,null,0,0,null,null
+47,7.3,Imam-ul-Haq,Fakhar Zaman,KMA Paul,0,0,null,0,0,null,null
+48,7.4,Imam-ul-Haq,Fakhar Zaman,KMA Paul,0,0,null,0,0,null,null
+49,7.5,Imam-ul-Haq,Fakhar Zaman,KMA Paul,6,0,null,6,0,null,null
+50,7.6,Imam-ul-Haq,Fakhar Zaman,KMA Paul,0,0,null,0,0,null,null
+51,8.1,Fakhar Zaman,Imam-ul-Haq,R Shepherd,0,0,null,0,0,null,null
+52,8.2,Fakhar Zaman,Imam-ul-Haq,R Shepherd,4,0,null,4,0,null,null
+53,8.3,Fakhar Zaman,Imam-ul-Haq,R Shepherd,0,0,null,0,0,null,null
+54,8.4,Fakhar Zaman,Imam-ul-Haq,R Shepherd,1,0,null,1,0,null,null
+55,8.5,Imam-ul-Haq,Fakhar Zaman,R Shepherd,0,0,null,0,0,null,null
+56,8.6,Imam-ul-Haq,Fakhar Zaman,R Shepherd,1,0,null,1,0,null,null
+57,9.1,Imam-ul-Haq,Fakhar Zaman,HR Walsh,1,0,null,1,0,null,null
+58,9.2,Fakhar Zaman,Imam-ul-Haq,HR Walsh,1,0,null,1,0,null,null
+59,9.3,Imam-ul-Haq,Fakhar Zaman,HR Walsh,4,0,null,4,0,null,null
+60,9.4,Imam-ul-Haq,Fakhar Zaman,HR Walsh,1,0,null,1,0,null,null
+61,9.5,Fakhar Zaman,Imam-ul-Haq,HR Walsh,4,0,null,4,0,null,null
+62,9.6,Fakhar Zaman,Imam-ul-Haq,HR Walsh,2,0,null,2,0,null,null
+63,10.1,Imam-ul-Haq,Fakhar Zaman,R Shepherd,0,0,null,0,0,null,null
+64,10.2,Imam-ul-Haq,Fakhar Zaman,R Shepherd,0,0,null,0,0,null,null
+65,10.3,Imam-ul-Haq,Fakhar Zaman,R Shepherd,0,0,null,0,0,null,null
+66,10.4,Imam-ul-Haq,Fakhar Zaman,R Shepherd,1,0,null,1,0,null,null
+67,10.5,Fakhar Zaman,Imam-ul-Haq,R Shepherd,0,0,null,0,0,null,null
+68,10.6,Fakhar Zaman,Imam-ul-Haq,R Shepherd,0,0,null,0,0,null,null
+69,11.1,Imam-ul-Haq,Fakhar Zaman,HR Walsh,1,0,null,1,0,null,null
+70,11.2,Fakhar Zaman,Imam-ul-Haq,HR Walsh,0,0,null,0,0,null,null
+71,11.3,Fakhar Zaman,Imam-ul-Haq,HR Walsh,1,0,null,1,0,null,null
+72,11.4,Imam-ul-Haq,Fakhar Zaman,HR Walsh,1,0,null,1,0,null,null
+73,11.5,Fakhar Zaman,Imam-ul-Haq,HR Walsh,0,0,null,0,0,null,null
+74,11.6,Fakhar Zaman,Imam-ul-Haq,HR Walsh,0,0,null,0,0,null,null
+75,12.1,Imam-ul-Haq,Fakhar Zaman,N Pooran,1,0,null,1,0,null,null
+76,12.2,Fakhar Zaman,Imam-ul-Haq,N Pooran,1,0,null,1,0,null,null
+77,12.3,Imam-ul-Haq,Fakhar Zaman,N Pooran,1,0,null,1,0,null,null
+78,12.4,Fakhar Zaman,Imam-ul-Haq,N Pooran,1,0,null,1,0,null,null
+79,12.5,Imam-ul-Haq,Fakhar Zaman,N Pooran,0,0,null,0,0,null,null
+80,12.6,Imam-ul-Haq,Fakhar Zaman,N Pooran,1,0,null,1,0,null,null
+81,13.1,Imam-ul-Haq,Fakhar Zaman,HR Walsh,1,0,null,1,0,null,null
+82,13.2,Fakhar Zaman,Imam-ul-Haq,HR Walsh,1,0,null,1,0,null,null
+83,13.3,Imam-ul-Haq,Fakhar Zaman,HR Walsh,4,0,null,4,0,null,null
+84,13.4,Imam-ul-Haq,Fakhar Zaman,HR Walsh,0,0,null,0,0,null,null
+85,13.5,Imam-ul-Haq,Fakhar Zaman,HR Walsh,1,0,null,1,0,null,null
+86,13.6,Fakhar Zaman,Imam-ul-Haq,HR Walsh,0,0,null,0,0,null,null
+87,14.1,Imam-ul-Haq,Fakhar Zaman,N Pooran,1,0,null,1,0,null,null
+88,14.2,Fakhar Zaman,Imam-ul-Haq,N Pooran,0,0,null,0,0,null,null
+89,14.3,Fakhar Zaman,Imam-ul-Haq,N Pooran,1,0,null,1,0,null,null
+90,14.4,Imam-ul-Haq,Fakhar Zaman,N Pooran,1,0,null,1,0,null,null
+91,14.5,Fakhar Zaman,Imam-ul-Haq,N Pooran,4,0,null,4,0,null,null
+92,14.6,Fakhar Zaman,Imam-ul-Haq,N Pooran,1,0,null,1,0,null,null
+93,15.1,Fakhar Zaman,Imam-ul-Haq,HR Walsh,0,0,null,0,0,null,null
+94,15.2,Fakhar Zaman,Imam-ul-Haq,HR Walsh,1,0,null,1,0,null,null
+95,15.3,Imam-ul-Haq,Fakhar Zaman,HR Walsh,1,0,null,1,0,null,null
+96,15.4,Fakhar Zaman,Imam-ul-Haq,HR Walsh,1,0,null,1,0,null,null
+97,15.5,Imam-ul-Haq,Fakhar Zaman,HR Walsh,0,0,null,0,0,null,null
+98,15.6,Imam-ul-Haq,Fakhar Zaman,HR Walsh,0,0,null,0,0,null,null
+99,16.1,Fakhar Zaman,Imam-ul-Haq,N Pooran,1,0,null,1,0,null,null
+100,16.2,Imam-ul-Haq,Fakhar Zaman,N Pooran,1,0,null,1,0,null,null
+101,16.3,Fakhar Zaman,Imam-ul-Haq,N Pooran,0,0,null,0,0,null,null
+102,16.4,Fakhar Zaman,Imam-ul-Haq,N Pooran,0,0,null,0,1,Fakhar Zaman,bowled
+103,16.5,Babar Azam,Imam-ul-Haq,N Pooran,1,0,null,1,0,null,null
+104,16.6,Imam-ul-Haq,Babar Azam,N Pooran,2,0,null,2,0,null,null
+105,17.1,Babar Azam,Imam-ul-Haq,HR Walsh,0,0,null,0,0,null,null
+106,17.2,Babar Azam,Imam-ul-Haq,HR Walsh,0,0,null,0,1,Babar Azam,lbw
+107,17.3,Mohammad Rizwan,Imam-ul-Haq,HR Walsh,0,1,wides ,1,0,null,null
+108,17.4,Mohammad Rizwan,Imam-ul-Haq,HR Walsh,0,0,null,0,0,null,null
+109,17.5,Mohammad Rizwan,Imam-ul-Haq,HR Walsh,2,0,null,2,0,null,null
+110,17.6,Mohammad Rizwan,Imam-ul-Haq,HR Walsh,1,0,null,1,0,null,null
+111,17.7,Imam-ul-Haq,Mohammad Rizwan,HR Walsh,1,0,null,1,0,null,null
+112,18.1,Imam-ul-Haq,Mohammad Rizwan,N Pooran,1,0,null,1,0,null,null
+113,18.2,Mohammad Rizwan,Imam-ul-Haq,N Pooran,0,0,null,0,0,null,null
+114,18.3,Mohammad Rizwan,Imam-ul-Haq,N Pooran,0,0,null,0,0,null,null
+115,18.4,Mohammad Rizwan,Imam-ul-Haq,N Pooran,1,0,null,1,0,null,null
+116,18.5,Imam-ul-Haq,Mohammad Rizwan,N Pooran,1,0,null,1,0,null,null
+117,18.6,Mohammad Rizwan,Imam-ul-Haq,N Pooran,0,0,null,0,0,null,null
+118,19.1,Imam-ul-Haq,Mohammad Rizwan,HR Walsh,1,0,null,1,0,null,null
+119,19.2,Mohammad Rizwan,Imam-ul-Haq,HR Walsh,0,0,null,0,0,null,null
+120,19.3,Mohammad Rizwan,Imam-ul-Haq,HR Walsh,1,0,null,1,0,null,null
+121,19.4,Imam-ul-Haq,Mohammad Rizwan,HR Walsh,2,0,null,2,0,null,null
+122,19.5,Imam-ul-Haq,Mohammad Rizwan,HR Walsh,0,0,null,0,0,null,null
+123,19.6,Imam-ul-Haq,Mohammad Rizwan,HR Walsh,4,0,null,4,0,null,null
+124,20.1,Mohammad Rizwan,Imam-ul-Haq,N Pooran,1,0,null,1,0,null,null
+125,20.2,Imam-ul-Haq,Mohammad Rizwan,N Pooran,1,0,null,1,0,null,null
+126,20.3,Mohammad Rizwan,Imam-ul-Haq,N Pooran,1,0,null,1,0,null,null
+127,20.4,Imam-ul-Haq,Mohammad Rizwan,N Pooran,1,0,null,1,0,null,null
+128,20.5,Mohammad Rizwan,Imam-ul-Haq,N Pooran,1,0,null,1,0,null,null
+129,20.6,Imam-ul-Haq,Mohammad Rizwan,N Pooran,0,0,null,0,0,null,null
+130,21.1,Mohammad Rizwan,Imam-ul-Haq,AJ Hosein,0,0,null,0,0,null,null
+131,21.2,Mohammad Rizwan,Imam-ul-Haq,AJ Hosein,0,0,null,0,0,null,null
+132,21.3,Mohammad Rizwan,Imam-ul-Haq,AJ Hosein,1,0,null,1,0,null,null
+133,21.4,Imam-ul-Haq,Mohammad Rizwan,AJ Hosein,1,0,null,1,0,null,null
+134,21.5,Mohammad Rizwan,Imam-ul-Haq,AJ Hosein,1,0,null,1,0,null,null
+135,21.6,Imam-ul-Haq,Mohammad Rizwan,AJ Hosein,0,0,null,0,0,null,null
+136,22.1,Mohammad Rizwan,Imam-ul-Haq,N Pooran,1,0,null,1,0,null,null
+137,22.2,Imam-ul-Haq,Mohammad Rizwan,N Pooran,0,0,null,0,0,null,null
+138,22.3,Imam-ul-Haq,Mohammad Rizwan,N Pooran,0,0,null,0,1,Imam-ul-Haq,caught
+139,22.4,Mohammad Haris,Mohammad Rizwan,N Pooran,0,0,null,0,0,null,null
+140,22.5,Mohammad Haris,Mohammad Rizwan,N Pooran,0,0,null,0,1,Mohammad Haris,caught
+141,22.6,Khushdil Shah,Mohammad Rizwan,N Pooran,1,0,null,1,0,null,null
+142,23.1,Khushdil Shah,Mohammad Rizwan,AJ Hosein,0,1,wides ,1,0,null,null
+143,23.2,Khushdil Shah,Mohammad Rizwan,AJ Hosein,0,0,null,0,0,null,null
+144,23.3,Khushdil Shah,Mohammad Rizwan,AJ Hosein,0,0,null,0,0,null,null
+145,23.4,Khushdil Shah,Mohammad Rizwan,AJ Hosein,1,0,null,1,0,null,null
+146,23.5,Mohammad Rizwan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+147,23.6,Mohammad Rizwan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+148,23.7,Mohammad Rizwan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+149,24.1,Khushdil Shah,Mohammad Rizwan,N Pooran,0,0,null,0,0,null,null
+150,24.2,Khushdil Shah,Mohammad Rizwan,N Pooran,0,0,null,0,0,null,null
+151,24.3,Khushdil Shah,Mohammad Rizwan,N Pooran,1,0,null,1,0,null,null
+152,24.4,Mohammad Rizwan,Khushdil Shah,N Pooran,0,0,null,0,1,Mohammad Rizwan,caught
+153,24.5,Shadab Khan,Khushdil Shah,N Pooran,1,0,null,1,0,null,null
+154,24.6,Khushdil Shah,Shadab Khan,N Pooran,1,0,null,1,0,null,null
+155,25.1,Khushdil Shah,Shadab Khan,AJ Hosein,0,0,null,0,0,null,null
+156,25.2,Khushdil Shah,Shadab Khan,AJ Hosein,0,0,null,0,0,null,null
+157,25.3,Khushdil Shah,Shadab Khan,AJ Hosein,1,0,null,1,0,null,null
+158,25.4,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+159,25.5,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+160,25.6,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+161,26.1,Khushdil Shah,Shadab Khan,N Pooran,1,0,null,1,0,null,null
+162,26.2,Shadab Khan,Khushdil Shah,N Pooran,0,0,null,0,0,null,null
+163,26.3,Shadab Khan,Khushdil Shah,N Pooran,0,0,null,0,0,null,null
+164,26.4,Shadab Khan,Khushdil Shah,N Pooran,0,3,wides ,3,0,null,null
+165,26.5,Shadab Khan,Khushdil Shah,N Pooran,0,0,null,0,0,null,null
+166,26.6,Shadab Khan,Khushdil Shah,N Pooran,2,0,null,2,0,null,null
+167,26.7,Shadab Khan,Khushdil Shah,N Pooran,1,0,null,1,0,null,null
+168,27.1,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+169,27.2,Shadab Khan,Khushdil Shah,AJ Hosein,1,0,null,1,0,null,null
+170,27.3,Khushdil Shah,Shadab Khan,AJ Hosein,1,0,null,1,0,null,null
+171,27.4,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+172,27.5,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+173,27.6,Shadab Khan,Khushdil Shah,AJ Hosein,1,0,null,1,0,null,null
+174,28.1,Shadab Khan,Khushdil Shah,N Pooran,0,0,null,0,0,null,null
+175,28.2,Shadab Khan,Khushdil Shah,N Pooran,0,0,null,0,0,null,null
+176,28.3,Shadab Khan,Khushdil Shah,N Pooran,0,0,null,0,0,null,null
+177,28.4,Shadab Khan,Khushdil Shah,N Pooran,0,0,null,0,0,null,null
+178,28.5,Shadab Khan,Khushdil Shah,N Pooran,0,0,null,0,0,null,null
+179,28.6,Shadab Khan,Khushdil Shah,N Pooran,4,0,null,4,0,null,null
+180,29.1,Khushdil Shah,Shadab Khan,AJ Hosein,0,0,null,0,0,null,null
+181,29.2,Khushdil Shah,Shadab Khan,AJ Hosein,0,0,null,0,0,null,null
+182,29.3,Khushdil Shah,Shadab Khan,AJ Hosein,2,0,null,2,0,null,null
+183,29.4,Khushdil Shah,Shadab Khan,AJ Hosein,1,0,null,1,0,null,null
+184,29.5,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+185,29.6,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+186,30.1,Khushdil Shah,Shadab Khan,N Pooran,1,0,null,1,0,null,null
+187,30.2,Shadab Khan,Khushdil Shah,N Pooran,2,0,null,2,0,null,null
+188,30.3,Shadab Khan,Khushdil Shah,N Pooran,1,0,null,1,0,null,null
+189,30.4,Khushdil Shah,Shadab Khan,N Pooran,0,0,null,0,0,null,null
+190,30.5,Khushdil Shah,Shadab Khan,N Pooran,1,0,null,1,0,null,null
+191,30.6,Shadab Khan,Khushdil Shah,N Pooran,1,0,null,1,0,null,null
+192,31.1,Shadab Khan,Khushdil Shah,HR Walsh,1,0,null,1,0,null,null
+193,31.2,Khushdil Shah,Shadab Khan,HR Walsh,1,0,null,1,0,null,null
+194,31.3,Shadab Khan,Khushdil Shah,HR Walsh,4,0,null,4,0,null,null
+195,31.4,Shadab Khan,Khushdil Shah,HR Walsh,1,0,null,1,0,null,null
+196,31.5,Khushdil Shah,Shadab Khan,HR Walsh,1,0,null,1,0,null,null
+197,31.6,Shadab Khan,Khushdil Shah,HR Walsh,1,0,null,1,0,null,null
+198,32.1,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+199,32.2,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+200,32.3,Shadab Khan,Khushdil Shah,AJ Hosein,1,0,null,1,0,null,null
+201,32.4,Khushdil Shah,Shadab Khan,AJ Hosein,0,0,null,0,0,null,null
+202,32.5,Khushdil Shah,Shadab Khan,AJ Hosein,1,0,null,1,0,null,null
+203,32.6,Shadab Khan,Khushdil Shah,AJ Hosein,0,1,legbyes ,1,0,null,null
+204,33.1,Shadab Khan,Khushdil Shah,KMA Paul,0,0,null,0,0,null,null
+205,33.2,Shadab Khan,Khushdil Shah,KMA Paul,2,0,null,2,0,null,null
+206,33.3,Shadab Khan,Khushdil Shah,KMA Paul,4,0,null,4,0,null,null
+207,33.4,Shadab Khan,Khushdil Shah,KMA Paul,0,0,null,0,0,null,null
+208,33.5,Shadab Khan,Khushdil Shah,KMA Paul,0,0,null,0,0,null,null
+209,33.6,Shadab Khan,Khushdil Shah,KMA Paul,0,0,null,0,0,null,null
+210,34.1,Khushdil Shah,Shadab Khan,AJ Hosein,1,1,noballs ,2,0,null,null
+211,34.2,Shadab Khan,Khushdil Shah,AJ Hosein,2,0,null,2,0,null,null
+212,34.3,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+213,34.4,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+214,34.5,Shadab Khan,Khushdil Shah,AJ Hosein,0,0,null,0,0,null,null
+215,34.6,Shadab Khan,Khushdil Shah,AJ Hosein,1,0,null,1,0,null,null
+216,34.7,Khushdil Shah,Shadab Khan,AJ Hosein,1,0,null,1,0,null,null
+217,35.1,Khushdil Shah,Shadab Khan,KMA Paul,1,0,null,1,0,null,null
+218,35.2,Shadab Khan,Khushdil Shah,KMA Paul,1,0,null,1,0,null,null
+219,35.3,Khushdil Shah,Shadab Khan,KMA Paul,0,0,null,0,0,null,null
+220,35.4,Khushdil Shah,Shadab Khan,KMA Paul,0,0,null,0,0,null,null
+221,35.5,Khushdil Shah,Shadab Khan,KMA Paul,0,0,null,0,0,null,null
+222,35.6,Khushdil Shah,Shadab Khan,KMA Paul,0,0,null,0,0,null,null
+223,36.1,Shadab Khan,Khushdil Shah,HR Walsh,1,0,null,1,0,null,null
+224,36.2,Khushdil Shah,Shadab Khan,HR Walsh,1,0,null,1,0,null,null
+225,36.3,Shadab Khan,Khushdil Shah,HR Walsh,6,0,null,6,0,null,null
+226,36.4,Shadab Khan,Khushdil Shah,HR Walsh,1,0,null,1,0,null,null
+227,36.5,Khushdil Shah,Shadab Khan,HR Walsh,0,0,null,0,0,null,null
+228,36.6,Khushdil Shah,Shadab Khan,HR Walsh,2,0,null,2,0,null,null
+229,37.1,Shadab Khan,Khushdil Shah,JNT Seales,0,0,null,0,0,null,null
+230,37.2,Shadab Khan,Khushdil Shah,JNT Seales,1,0,null,1,0,null,null
+231,37.3,Khushdil Shah,Shadab Khan,JNT Seales,4,0,null,4,0,null,null
+232,37.4,Khushdil Shah,Shadab Khan,JNT Seales,1,0,null,1,0,null,null
+233,37.5,Shadab Khan,Khushdil Shah,JNT Seales,1,0,null,1,0,null,null
+234,37.6,Khushdil Shah,Shadab Khan,JNT Seales,4,0,null,4,0,null,null
+235,38.1,Shadab Khan,Khushdil Shah,HR Walsh,2,0,null,2,0,null,null
+236,38.2,Shadab Khan,Khushdil Shah,HR Walsh,1,0,null,1,0,null,null
+237,38.3,Khushdil Shah,Shadab Khan,HR Walsh,0,0,null,0,0,null,null
+238,38.4,Khushdil Shah,Shadab Khan,HR Walsh,0,0,null,0,0,null,null
+239,38.5,Khushdil Shah,Shadab Khan,HR Walsh,0,0,null,0,0,null,null
+240,38.6,Khushdil Shah,Shadab Khan,HR Walsh,0,0,null,0,0,null,null
+241,39.1,Shadab Khan,Khushdil Shah,AJ Hosein,2,0,null,2,0,null,null
+242,39.2,Shadab Khan,Khushdil Shah,AJ Hosein,1,0,null,1,0,null,null
+243,39.3,Khushdil Shah,Shadab Khan,AJ Hosein,4,0,null,4,0,null,null
+244,39.4,Khushdil Shah,Shadab Khan,AJ Hosein,0,0,null,0,1,Khushdil Shah,bowled
+245,39.5,Mohammad Nawaz,Shadab Khan,AJ Hosein,1,0,null,1,0,null,null
+246,39.6,Shadab Khan,Mohammad Nawaz,AJ Hosein,1,0,null,1,0,null,null
+247,40.1,Shadab Khan,Mohammad Nawaz,HR Walsh,2,0,null,2,0,null,null
+248,40.2,Shadab Khan,Mohammad Nawaz,HR Walsh,1,0,null,1,0,null,null
+249,40.3,Mohammad Nawaz,Shadab Khan,HR Walsh,0,0,null,0,0,null,null
+250,40.4,Mohammad Nawaz,Shadab Khan,HR Walsh,0,0,null,0,0,null,null
+251,40.5,Mohammad Nawaz,Shadab Khan,HR Walsh,1,0,null,1,0,null,null
+252,40.6,Shadab Khan,Mohammad Nawaz,HR Walsh,0,0,null,0,0,null,null
+253,41.1,Mohammad Nawaz,Shadab Khan,AJ Hosein,0,0,null,0,0,null,null
+254,41.2,Mohammad Nawaz,Shadab Khan,AJ Hosein,0,0,null,0,0,null,null
+255,41.3,Mohammad Nawaz,Shadab Khan,AJ Hosein,0,0,null,0,0,null,null
+256,41.4,Mohammad Nawaz,Shadab Khan,AJ Hosein,1,0,null,1,0,null,null
+257,41.5,Shadab Khan,Mohammad Nawaz,AJ Hosein,1,0,null,1,0,null,null
+258,41.6,Mohammad Nawaz,Shadab Khan,AJ Hosein,1,0,null,1,0,null,null
+259,42.1,Mohammad Nawaz,Shadab Khan,KMA Paul,1,0,null,1,0,null,null
+260,42.2,Shadab Khan,Mohammad Nawaz,KMA Paul,1,0,null,1,0,null,null
+261,42.3,Mohammad Nawaz,Shadab Khan,KMA Paul,2,0,null,2,0,null,null
+262,42.4,Mohammad Nawaz,Shadab Khan,KMA Paul,1,0,null,1,0,null,null
+263,42.5,Shadab Khan,Mohammad Nawaz,KMA Paul,1,0,null,1,0,null,null
+264,42.6,Mohammad Nawaz,Shadab Khan,KMA Paul,0,1,wides ,1,0,null,null
+265,42.7,Mohammad Nawaz,Shadab Khan,KMA Paul,0,0,null,0,1,Mohammad Nawaz,caught
+266,43.1,Mohammad Wasim,Shadab Khan,AJ Hosein,1,0,null,1,0,null,null
+267,43.2,Shadab Khan,Mohammad Wasim,AJ Hosein,2,0,null,2,0,null,null
+268,43.3,Shadab Khan,Mohammad Wasim,AJ Hosein,6,0,null,6,0,null,null
+269,43.4,Shadab Khan,Mohammad Wasim,AJ Hosein,0,0,null,0,0,null,null
+270,43.5,Shadab Khan,Mohammad Wasim,AJ Hosein,2,0,null,2,0,null,null
+271,43.6,Shadab Khan,Mohammad Wasim,AJ Hosein,0,0,null,0,0,null,null
+272,44.1,Mohammad Wasim,Shadab Khan,KMA Paul,0,0,null,0,0,null,null
+273,44.2,Mohammad Wasim,Shadab Khan,KMA Paul,1,0,null,1,0,null,null
+274,44.3,Shadab Khan,Mohammad Wasim,KMA Paul,2,0,null,2,0,null,null
+275,44.4,Shadab Khan,Mohammad Wasim,KMA Paul,4,0,null,4,0,null,null
+276,44.5,Shadab Khan,Mohammad Wasim,KMA Paul,1,0,null,1,0,null,null
+277,44.6,Mohammad Wasim,Shadab Khan,KMA Paul,0,0,null,0,0,null,null
+278,45.1,Shadab Khan,Mohammad Wasim,JNT Seales,6,0,null,6,0,null,null
+279,45.2,Shadab Khan,Mohammad Wasim,JNT Seales,2,0,null,2,0,null,null
+280,45.3,Shadab Khan,Mohammad Wasim,JNT Seales,1,0,null,1,0,null,null
+281,45.4,Mohammad Wasim,Shadab Khan,JNT Seales,0,1,legbyes ,1,0,null,null
+282,45.5,Shadab Khan,Mohammad Wasim,JNT Seales,2,0,null,2,0,null,null
+283,45.6,Shadab Khan,Mohammad Wasim,JNT Seales,1,0,null,1,0,null,null
+284,46.1,Shadab Khan,Mohammad Wasim,KMA Paul,2,0,null,2,0,null,null
+285,46.2,Shadab Khan,Mohammad Wasim,KMA Paul,0,1,byes ,1,0,null,null
+286,46.3,Mohammad Wasim,Shadab Khan,KMA Paul,0,1,wides ,1,0,null,null
+287,46.4,Mohammad Wasim,Shadab Khan,KMA Paul,4,0,null,4,0,null,null
+288,46.5,Mohammad Wasim,Shadab Khan,KMA Paul,0,0,null,0,1,Mohammad Wasim,bowled
+289,46.6,Hasan Ali,Shadab Khan,KMA Paul,4,0,null,4,0,null,null
+290,46.7,Hasan Ali,Shadab Khan,KMA Paul,2,0,null,2,0,null,null
+291,47.1,Shadab Khan,Hasan Ali,JNT Seales,0,0,null,0,1,Shadab Khan,bowled
+292,47.2,Shahnawaz Dhani,Hasan Ali,JNT Seales,1,0,null,1,0,null,null
+293,47.3,Hasan Ali,Shahnawaz Dhani,JNT Seales,1,0,null,1,0,null,null
+294,47.4,Shahnawaz Dhani,Hasan Ali,JNT Seales,1,0,null,1,0,null,null
+295,47.5,Hasan Ali,Shahnawaz Dhani,JNT Seales,1,0,null,1,0,null,null
+296,47.6,Shahnawaz Dhani,Hasan Ali,JNT Seales,2,0,null,2,0,null,null

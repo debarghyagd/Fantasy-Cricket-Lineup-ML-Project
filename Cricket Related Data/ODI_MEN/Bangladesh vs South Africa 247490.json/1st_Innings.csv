@@ -1,0 +1,318 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+1,0.2,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+2,0.3,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+3,0.4,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+4,0.5,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+5,0.6,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+6,1.1,Tamim Iqbal,Javed Omar,M Ntini,0,1,wides ,1,0,null,null
+7,1.2,Tamim Iqbal,Javed Omar,M Ntini,4,0,null,4,0,null,null
+8,1.3,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+9,1.4,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+10,1.5,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+11,1.6,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+12,1.7,Tamim Iqbal,Javed Omar,M Ntini,4,0,null,4,0,null,null
+13,2.1,Javed Omar,Tamim Iqbal,SM Pollock,1,0,null,1,0,null,null
+14,2.2,Tamim Iqbal,Javed Omar,SM Pollock,1,0,null,1,0,null,null
+15,2.3,Javed Omar,Tamim Iqbal,SM Pollock,0,1,wides ,1,0,null,null
+16,2.4,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+17,2.5,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+18,2.6,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+19,2.7,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+20,3.1,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+21,3.2,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+22,3.3,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+23,3.4,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+24,3.5,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+25,3.6,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+26,4.1,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+27,4.2,Javed Omar,Tamim Iqbal,SM Pollock,1,0,null,1,0,null,null
+28,4.3,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+29,4.4,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+30,4.5,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+31,4.6,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+32,5.1,Javed Omar,Tamim Iqbal,M Ntini,1,0,null,1,0,null,null
+33,5.2,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+34,5.3,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+35,5.4,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+36,5.5,Tamim Iqbal,Javed Omar,M Ntini,2,0,null,2,0,null,null
+37,5.6,Tamim Iqbal,Javed Omar,M Ntini,2,0,null,2,0,null,null
+38,6.1,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+39,6.2,Javed Omar,Tamim Iqbal,SM Pollock,4,0,null,4,0,null,null
+40,6.3,Javed Omar,Tamim Iqbal,SM Pollock,0,1,wides ,1,0,null,null
+41,6.4,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+42,6.5,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+43,6.6,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+44,6.7,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+45,7.1,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+46,7.2,Tamim Iqbal,Javed Omar,M Ntini,1,0,null,1,0,null,null
+47,7.3,Javed Omar,Tamim Iqbal,M Ntini,1,0,null,1,0,null,null
+48,7.4,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+49,7.5,Tamim Iqbal,Javed Omar,M Ntini,0,0,null,0,0,null,null
+50,7.6,Tamim Iqbal,Javed Omar,M Ntini,4,0,null,4,0,null,null
+51,8.1,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+52,8.2,Javed Omar,Tamim Iqbal,SM Pollock,4,0,null,4,0,null,null
+53,8.3,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+54,8.4,Javed Omar,Tamim Iqbal,SM Pollock,1,0,null,1,0,null,null
+55,8.5,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+56,8.6,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+57,9.1,Javed Omar,Tamim Iqbal,M Ntini,0,0,null,0,0,null,null
+58,9.2,Javed Omar,Tamim Iqbal,M Ntini,0,0,null,0,0,null,null
+59,9.3,Javed Omar,Tamim Iqbal,M Ntini,1,0,null,1,0,null,null
+60,9.4,Tamim Iqbal,Javed Omar,M Ntini,1,0,null,1,0,null,null
+61,9.5,Javed Omar,Tamim Iqbal,M Ntini,0,0,null,0,0,null,null
+62,9.6,Javed Omar,Tamim Iqbal,M Ntini,0,0,null,0,0,null,null
+63,10.1,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+64,10.2,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+65,10.3,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+66,10.4,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+67,10.5,Tamim Iqbal,Javed Omar,SM Pollock,1,0,null,1,0,null,null
+68,10.6,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+69,11.1,Tamim Iqbal,Javed Omar,A Nel,0,0,null,0,0,null,null
+70,11.2,Tamim Iqbal,Javed Omar,A Nel,1,0,null,1,0,null,null
+71,11.3,Javed Omar,Tamim Iqbal,A Nel,2,0,null,2,0,null,null
+72,11.4,Javed Omar,Tamim Iqbal,A Nel,0,0,null,0,0,null,null
+73,11.5,Javed Omar,Tamim Iqbal,A Nel,0,0,null,0,0,null,null
+74,11.6,Javed Omar,Tamim Iqbal,A Nel,0,0,null,0,0,null,null
+75,12.1,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+76,12.2,Tamim Iqbal,Javed Omar,SM Pollock,1,0,null,1,0,null,null
+77,12.3,Javed Omar,Tamim Iqbal,SM Pollock,0,0,null,0,0,null,null
+78,12.4,Javed Omar,Tamim Iqbal,SM Pollock,1,0,null,1,0,null,null
+79,12.5,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+80,12.6,Tamim Iqbal,Javed Omar,SM Pollock,0,0,null,0,0,null,null
+81,13.1,Javed Omar,Tamim Iqbal,A Nel,0,0,null,0,0,null,null
+82,13.2,Javed Omar,Tamim Iqbal,A Nel,0,0,null,0,0,null,null
+83,13.3,Javed Omar,Tamim Iqbal,A Nel,0,0,null,0,0,null,null
+84,13.4,Javed Omar,Tamim Iqbal,A Nel,0,0,null,0,1,Javed Omar,caught
+85,13.5,Habibul Bashar,Tamim Iqbal,A Nel,0,0,null,0,0,null,null
+86,13.6,Habibul Bashar,Tamim Iqbal,A Nel,0,0,null,0,0,null,null
+87,14.1,Tamim Iqbal,Habibul Bashar,CK Langeveldt,0,0,null,0,0,null,null
+88,14.2,Tamim Iqbal,Habibul Bashar,CK Langeveldt,4,0,null,4,0,null,null
+89,14.3,Tamim Iqbal,Habibul Bashar,CK Langeveldt,1,0,null,1,0,null,null
+90,14.4,Habibul Bashar,Tamim Iqbal,CK Langeveldt,0,0,null,0,0,null,null
+91,14.5,Habibul Bashar,Tamim Iqbal,CK Langeveldt,0,0,null,0,0,null,null
+92,14.6,Habibul Bashar,Tamim Iqbal,CK Langeveldt,0,0,null,0,0,null,null
+93,15.1,Tamim Iqbal,Habibul Bashar,A Nel,0,0,null,0,0,null,null
+94,15.2,Tamim Iqbal,Habibul Bashar,A Nel,0,0,null,0,0,null,null
+95,15.3,Tamim Iqbal,Habibul Bashar,A Nel,1,0,null,1,0,null,null
+96,15.4,Habibul Bashar,Tamim Iqbal,A Nel,1,0,null,1,0,null,null
+97,15.5,Tamim Iqbal,Habibul Bashar,A Nel,1,0,null,1,0,null,null
+98,15.6,Habibul Bashar,Tamim Iqbal,A Nel,1,0,null,1,0,null,null
+99,16.1,Habibul Bashar,Tamim Iqbal,CK Langeveldt,0,0,null,0,0,null,null
+100,16.2,Habibul Bashar,Tamim Iqbal,CK Langeveldt,2,1,noballs ,3,0,null,null
+101,16.3,Habibul Bashar,Tamim Iqbal,CK Langeveldt,0,0,null,0,0,null,null
+102,16.4,Habibul Bashar,Tamim Iqbal,CK Langeveldt,0,0,null,0,0,null,null
+103,16.5,Habibul Bashar,Tamim Iqbal,CK Langeveldt,0,0,null,0,0,null,null
+104,16.6,Habibul Bashar,Tamim Iqbal,CK Langeveldt,1,0,null,1,0,null,null
+105,16.7,Tamim Iqbal,Habibul Bashar,CK Langeveldt,4,0,null,4,0,null,null
+106,17.1,Habibul Bashar,Tamim Iqbal,A Nel,0,0,null,0,1,Habibul Bashar,caught and bowled
+107,17.2,Shakib Al Hasan,Tamim Iqbal,A Nel,0,0,null,0,0,null,null
+108,17.3,Shakib Al Hasan,Tamim Iqbal,A Nel,0,0,null,0,0,null,null
+109,17.4,Shakib Al Hasan,Tamim Iqbal,A Nel,0,0,null,0,0,null,null
+110,17.5,Shakib Al Hasan,Tamim Iqbal,A Nel,0,1,legbyes ,1,0,null,null
+111,17.6,Tamim Iqbal,Shakib Al Hasan,A Nel,0,1,noballs ,1,0,null,null
+112,17.7,Tamim Iqbal,Shakib Al Hasan,A Nel,0,1,wides ,1,0,null,null
+113,17.8,Tamim Iqbal,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+114,18.1,Shakib Al Hasan,Tamim Iqbal,CK Langeveldt,0,1,legbyes ,1,0,null,null
+115,18.2,Tamim Iqbal,Shakib Al Hasan,CK Langeveldt,0,1,noballs ,1,0,null,null
+116,18.3,Tamim Iqbal,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+117,18.4,Tamim Iqbal,Shakib Al Hasan,CK Langeveldt,1,0,null,1,0,null,null
+118,18.5,Shakib Al Hasan,Tamim Iqbal,CK Langeveldt,0,0,null,0,0,null,null
+119,18.6,Shakib Al Hasan,Tamim Iqbal,CK Langeveldt,0,0,null,0,0,null,null
+120,18.7,Shakib Al Hasan,Tamim Iqbal,CK Langeveldt,0,0,null,0,0,null,null
+121,19.1,Tamim Iqbal,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+122,19.2,Tamim Iqbal,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+123,19.3,Tamim Iqbal,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+124,19.4,Tamim Iqbal,Shakib Al Hasan,A Nel,4,0,null,4,0,null,null
+125,19.5,Tamim Iqbal,Shakib Al Hasan,A Nel,0,0,null,0,1,Tamim Iqbal,caught
+126,19.6,Mohammad Ashraful,Shakib Al Hasan,A Nel,4,0,null,4,0,null,null
+127,20.1,Shakib Al Hasan,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+128,20.2,Shakib Al Hasan,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+129,20.3,Shakib Al Hasan,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+130,20.4,Shakib Al Hasan,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+131,20.5,Shakib Al Hasan,Mohammad Ashraful,CK Langeveldt,1,0,null,1,0,null,null
+132,20.6,Mohammad Ashraful,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+133,21.1,Shakib Al Hasan,Mohammad Ashraful,A Nel,0,0,null,0,0,null,null
+134,21.2,Shakib Al Hasan,Mohammad Ashraful,A Nel,0,0,null,0,0,null,null
+135,21.3,Shakib Al Hasan,Mohammad Ashraful,A Nel,0,1,noballs ,1,0,null,null
+136,21.4,Shakib Al Hasan,Mohammad Ashraful,A Nel,2,0,null,2,0,null,null
+137,21.5,Shakib Al Hasan,Mohammad Ashraful,A Nel,0,0,null,0,0,null,null
+138,21.6,Shakib Al Hasan,Mohammad Ashraful,A Nel,1,1,noballs ,2,0,null,null
+139,21.7,Mohammad Ashraful,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+140,21.8,Mohammad Ashraful,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+141,22.1,Shakib Al Hasan,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+142,22.2,Shakib Al Hasan,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+143,22.3,Shakib Al Hasan,Mohammad Ashraful,CK Langeveldt,4,0,null,4,0,null,null
+144,22.4,Shakib Al Hasan,Mohammad Ashraful,CK Langeveldt,1,0,null,1,0,null,null
+145,22.5,Mohammad Ashraful,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+146,22.6,Mohammad Ashraful,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+147,23.1,Shakib Al Hasan,Mohammad Ashraful,JH Kallis,0,0,null,0,0,null,null
+148,23.2,Shakib Al Hasan,Mohammad Ashraful,JH Kallis,0,0,null,0,0,null,null
+149,23.3,Shakib Al Hasan,Mohammad Ashraful,JH Kallis,0,0,null,0,0,null,null
+150,23.4,Shakib Al Hasan,Mohammad Ashraful,JH Kallis,0,0,null,0,1,Shakib Al Hasan,caught
+151,23.5,Aftab Ahmed,Mohammad Ashraful,JH Kallis,0,1,wides ,1,0,null,null
+152,23.6,Aftab Ahmed,Mohammad Ashraful,JH Kallis,0,0,null,0,0,null,null
+153,23.7,Aftab Ahmed,Mohammad Ashraful,JH Kallis,0,1,wides ,1,0,null,null
+154,23.8,Aftab Ahmed,Mohammad Ashraful,JH Kallis,1,0,null,1,0,null,null
+155,24.1,Aftab Ahmed,Mohammad Ashraful,GC Smith,0,0,null,0,0,null,null
+156,24.2,Aftab Ahmed,Mohammad Ashraful,GC Smith,0,0,null,0,0,null,null
+157,24.3,Aftab Ahmed,Mohammad Ashraful,GC Smith,0,1,wides ,1,0,null,null
+158,24.4,Aftab Ahmed,Mohammad Ashraful,GC Smith,0,1,wides ,1,0,null,null
+159,24.5,Aftab Ahmed,Mohammad Ashraful,GC Smith,1,0,null,1,0,null,null
+160,24.6,Mohammad Ashraful,Aftab Ahmed,GC Smith,1,0,null,1,0,null,null
+161,24.7,Aftab Ahmed,Mohammad Ashraful,GC Smith,1,0,null,1,0,null,null
+162,24.8,Mohammad Ashraful,Aftab Ahmed,GC Smith,0,0,null,0,0,null,null
+163,25.1,Aftab Ahmed,Mohammad Ashraful,JH Kallis,1,0,null,1,0,null,null
+164,25.2,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+165,25.3,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+166,25.4,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+167,25.5,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,1,wides ,1,0,null,null
+168,25.6,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+169,25.7,Mohammad Ashraful,Aftab Ahmed,JH Kallis,2,0,null,2,0,null,null
+170,26.1,Aftab Ahmed,Mohammad Ashraful,GC Smith,0,0,null,0,0,null,null
+171,26.2,Aftab Ahmed,Mohammad Ashraful,GC Smith,1,0,null,1,0,null,null
+172,26.3,Mohammad Ashraful,Aftab Ahmed,GC Smith,1,0,null,1,0,null,null
+173,26.4,Aftab Ahmed,Mohammad Ashraful,GC Smith,0,0,null,0,0,null,null
+174,26.5,Aftab Ahmed,Mohammad Ashraful,GC Smith,1,0,null,1,0,null,null
+175,26.6,Mohammad Ashraful,Aftab Ahmed,GC Smith,1,0,null,1,0,null,null
+176,27.1,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+177,27.2,Mohammad Ashraful,Aftab Ahmed,JH Kallis,2,0,null,2,0,null,null
+178,27.3,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+179,27.4,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+180,27.5,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+181,27.6,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+182,28.1,Aftab Ahmed,Mohammad Ashraful,GC Smith,1,0,null,1,0,null,null
+183,28.2,Mohammad Ashraful,Aftab Ahmed,GC Smith,0,0,null,0,0,null,null
+184,28.3,Mohammad Ashraful,Aftab Ahmed,GC Smith,0,0,null,0,0,null,null
+185,28.4,Mohammad Ashraful,Aftab Ahmed,GC Smith,0,1,wides ,1,0,null,null
+186,28.5,Mohammad Ashraful,Aftab Ahmed,GC Smith,1,0,null,1,0,null,null
+187,28.6,Aftab Ahmed,Mohammad Ashraful,GC Smith,0,0,null,0,0,null,null
+188,28.7,Aftab Ahmed,Mohammad Ashraful,GC Smith,4,0,null,4,0,null,null
+189,29.1,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+190,29.2,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+191,29.3,Mohammad Ashraful,Aftab Ahmed,JH Kallis,4,0,null,4,0,null,null
+192,29.4,Mohammad Ashraful,Aftab Ahmed,JH Kallis,4,0,null,4,0,null,null
+193,29.5,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+194,29.6,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+195,30.1,Aftab Ahmed,Mohammad Ashraful,SM Pollock,0,0,null,0,0,null,null
+196,30.2,Aftab Ahmed,Mohammad Ashraful,SM Pollock,0,0,null,0,0,null,null
+197,30.3,Aftab Ahmed,Mohammad Ashraful,SM Pollock,0,0,null,0,0,null,null
+198,30.4,Aftab Ahmed,Mohammad Ashraful,SM Pollock,0,0,null,0,0,null,null
+199,30.5,Aftab Ahmed,Mohammad Ashraful,SM Pollock,1,0,null,1,0,null,null
+200,30.6,Mohammad Ashraful,Aftab Ahmed,SM Pollock,1,0,null,1,0,null,null
+201,31.1,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+202,31.2,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+203,31.3,Mohammad Ashraful,Aftab Ahmed,JH Kallis,2,0,null,2,0,null,null
+204,31.4,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+205,31.5,Mohammad Ashraful,Aftab Ahmed,JH Kallis,4,0,null,4,0,null,null
+206,31.6,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+207,32.1,Aftab Ahmed,Mohammad Ashraful,SM Pollock,0,0,null,0,0,null,null
+208,32.2,Aftab Ahmed,Mohammad Ashraful,SM Pollock,0,0,null,0,0,null,null
+209,32.3,Aftab Ahmed,Mohammad Ashraful,SM Pollock,1,0,null,1,0,null,null
+210,32.4,Mohammad Ashraful,Aftab Ahmed,SM Pollock,1,0,null,1,0,null,null
+211,32.5,Aftab Ahmed,Mohammad Ashraful,SM Pollock,0,0,null,0,0,null,null
+212,32.6,Aftab Ahmed,Mohammad Ashraful,SM Pollock,1,0,null,1,0,null,null
+213,33.1,Aftab Ahmed,Mohammad Ashraful,JH Kallis,1,0,null,1,0,null,null
+214,33.2,Mohammad Ashraful,Aftab Ahmed,JH Kallis,0,0,null,0,0,null,null
+215,33.3,Mohammad Ashraful,Aftab Ahmed,JH Kallis,1,0,null,1,0,null,null
+216,33.4,Aftab Ahmed,Mohammad Ashraful,JH Kallis,0,4,legbyes ,4,0,null,null
+217,33.5,Aftab Ahmed,Mohammad Ashraful,JH Kallis,1,0,null,1,0,null,null
+218,33.6,Mohammad Ashraful,Aftab Ahmed,JH Kallis,1,0,null,1,0,null,null
+219,34.1,Mohammad Ashraful,Aftab Ahmed,SM Pollock,0,0,null,0,0,null,null
+220,34.2,Mohammad Ashraful,Aftab Ahmed,SM Pollock,1,0,null,1,0,null,null
+221,34.3,Aftab Ahmed,Mohammad Ashraful,SM Pollock,1,0,null,1,0,null,null
+222,34.4,Mohammad Ashraful,Aftab Ahmed,SM Pollock,0,0,null,0,0,null,null
+223,34.5,Mohammad Ashraful,Aftab Ahmed,SM Pollock,1,0,null,1,0,null,null
+224,34.6,Aftab Ahmed,Mohammad Ashraful,SM Pollock,0,0,null,0,0,null,null
+225,35.1,Mohammad Ashraful,Aftab Ahmed,JM Kemp,1,0,null,1,0,null,null
+226,35.2,Aftab Ahmed,Mohammad Ashraful,JM Kemp,0,0,null,0,0,null,null
+227,35.3,Aftab Ahmed,Mohammad Ashraful,JM Kemp,0,0,null,0,0,null,null
+228,35.4,Aftab Ahmed,Mohammad Ashraful,JM Kemp,6,0,null,6,0,null,null
+229,35.5,Aftab Ahmed,Mohammad Ashraful,JM Kemp,0,0,null,0,0,null,null
+230,35.6,Aftab Ahmed,Mohammad Ashraful,JM Kemp,6,0,null,6,0,null,null
+231,36.1,Mohammad Ashraful,Aftab Ahmed,CK Langeveldt,0,0,null,0,0,null,null
+232,36.2,Mohammad Ashraful,Aftab Ahmed,CK Langeveldt,1,0,null,1,0,null,null
+233,36.3,Aftab Ahmed,Mohammad Ashraful,CK Langeveldt,4,0,null,4,0,null,null
+234,36.4,Aftab Ahmed,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+235,36.5,Aftab Ahmed,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+236,36.6,Aftab Ahmed,Mohammad Ashraful,CK Langeveldt,1,0,null,1,0,null,null
+237,37.1,Aftab Ahmed,Mohammad Ashraful,M Ntini,0,0,null,0,0,null,null
+238,37.2,Aftab Ahmed,Mohammad Ashraful,M Ntini,0,0,null,0,0,null,null
+239,37.3,Aftab Ahmed,Mohammad Ashraful,M Ntini,0,0,null,0,0,null,null
+240,37.4,Aftab Ahmed,Mohammad Ashraful,M Ntini,1,0,null,1,0,null,null
+241,37.5,Mohammad Ashraful,Aftab Ahmed,M Ntini,1,0,null,1,0,null,null
+242,37.6,Aftab Ahmed,Mohammad Ashraful,M Ntini,0,0,null,0,1,Aftab Ahmed,caught
+243,38.1,Mohammad Ashraful,Mushfiqur Rahim,CK Langeveldt,0,0,null,0,0,null,null
+244,38.2,Mohammad Ashraful,Mushfiqur Rahim,CK Langeveldt,1,0,null,1,0,null,null
+245,38.3,Mushfiqur Rahim,Mohammad Ashraful,CK Langeveldt,1,0,null,1,0,null,null
+246,38.4,Mohammad Ashraful,Mushfiqur Rahim,CK Langeveldt,4,0,null,4,0,null,null
+247,38.5,Mohammad Ashraful,Mushfiqur Rahim,CK Langeveldt,1,0,null,1,0,null,null
+248,38.6,Mushfiqur Rahim,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+249,39.1,Mohammad Ashraful,Mushfiqur Rahim,M Ntini,1,0,null,1,0,null,null
+250,39.2,Mushfiqur Rahim,Mohammad Ashraful,M Ntini,0,0,null,0,0,null,null
+251,39.3,Mushfiqur Rahim,Mohammad Ashraful,M Ntini,0,1,wides ,1,0,null,null
+252,39.4,Mushfiqur Rahim,Mohammad Ashraful,M Ntini,0,0,null,0,0,null,null
+253,39.5,Mushfiqur Rahim,Mohammad Ashraful,M Ntini,1,0,null,1,0,null,null
+254,39.6,Mohammad Ashraful,Mushfiqur Rahim,M Ntini,0,0,null,0,0,null,null
+255,39.7,Mohammad Ashraful,Mushfiqur Rahim,M Ntini,1,0,null,1,0,null,null
+256,40.1,Mohammad Ashraful,Mushfiqur Rahim,CK Langeveldt,1,0,null,1,0,null,null
+257,40.2,Mushfiqur Rahim,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+258,40.3,Mushfiqur Rahim,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+259,40.4,Mushfiqur Rahim,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+260,40.5,Mushfiqur Rahim,Mohammad Ashraful,CK Langeveldt,1,0,null,1,0,null,null
+261,40.6,Mohammad Ashraful,Mushfiqur Rahim,CK Langeveldt,1,0,null,1,0,null,null
+262,41.1,Mohammad Ashraful,Mushfiqur Rahim,M Ntini,1,0,null,1,0,null,null
+263,41.2,Mushfiqur Rahim,Mohammad Ashraful,M Ntini,0,0,null,0,0,null,null
+264,41.3,Mushfiqur Rahim,Mohammad Ashraful,M Ntini,2,0,null,2,0,null,null
+265,41.4,Mushfiqur Rahim,Mohammad Ashraful,M Ntini,0,0,null,0,0,null,null
+266,41.5,Mushfiqur Rahim,Mohammad Ashraful,M Ntini,1,0,null,1,0,null,null
+267,41.6,Mohammad Ashraful,Mushfiqur Rahim,M Ntini,1,0,null,1,0,null,null
+268,42.1,Mohammad Ashraful,Mushfiqur Rahim,A Nel,0,0,null,0,1,Mushfiqur Rahim,run out
+269,42.2,Mashrafe Mortaza,Mohammad Ashraful,A Nel,0,0,null,0,0,null,null
+270,42.3,Mashrafe Mortaza,Mohammad Ashraful,A Nel,0,0,null,0,0,null,null
+271,42.4,Mashrafe Mortaza,Mohammad Ashraful,A Nel,1,0,null,1,0,null,null
+272,42.5,Mohammad Ashraful,Mashrafe Mortaza,A Nel,0,1,wides ,1,0,null,null
+273,42.6,Mohammad Ashraful,Mashrafe Mortaza,A Nel,0,0,null,0,0,null,null
+274,42.7,Mohammad Ashraful,Mashrafe Mortaza,A Nel,0,0,null,0,0,null,null
+275,43.1,Mashrafe Mortaza,Mohammad Ashraful,M Ntini,0,0,null,0,0,null,null
+276,43.2,Mashrafe Mortaza,Mohammad Ashraful,M Ntini,1,0,null,1,0,null,null
+277,43.3,Mohammad Ashraful,Mashrafe Mortaza,M Ntini,4,0,null,4,0,null,null
+278,43.4,Mohammad Ashraful,Mashrafe Mortaza,M Ntini,4,0,null,4,0,null,null
+279,43.5,Mohammad Ashraful,Mashrafe Mortaza,M Ntini,2,0,null,2,0,null,null
+280,43.6,Mohammad Ashraful,Mashrafe Mortaza,M Ntini,4,0,null,4,0,null,null
+281,44.1,Mashrafe Mortaza,Mohammad Ashraful,A Nel,0,0,null,0,0,null,null
+282,44.2,Mashrafe Mortaza,Mohammad Ashraful,A Nel,2,0,null,2,0,null,null
+283,44.3,Mashrafe Mortaza,Mohammad Ashraful,A Nel,4,0,null,4,0,null,null
+284,44.4,Mashrafe Mortaza,Mohammad Ashraful,A Nel,1,0,null,1,0,null,null
+285,44.5,Mohammad Ashraful,Mashrafe Mortaza,A Nel,1,0,null,1,0,null,null
+286,44.6,Mashrafe Mortaza,Mohammad Ashraful,A Nel,4,0,null,4,0,null,null
+287,45.1,Mohammad Ashraful,Mashrafe Mortaza,M Ntini,0,0,null,0,0,null,null
+288,45.2,Mohammad Ashraful,Mashrafe Mortaza,M Ntini,1,0,null,1,0,null,null
+289,45.3,Mashrafe Mortaza,Mohammad Ashraful,M Ntini,1,0,null,1,0,null,null
+290,45.4,Mohammad Ashraful,Mashrafe Mortaza,M Ntini,1,0,null,1,0,null,null
+291,45.5,Mashrafe Mortaza,Mohammad Ashraful,M Ntini,6,0,null,6,0,null,null
+292,45.6,Mashrafe Mortaza,Mohammad Ashraful,M Ntini,4,0,null,4,0,null,null
+293,46.1,Mohammad Ashraful,Mashrafe Mortaza,CK Langeveldt,0,0,null,0,0,null,null
+294,46.2,Mohammad Ashraful,Mashrafe Mortaza,CK Langeveldt,4,0,null,4,0,null,null
+295,46.3,Mohammad Ashraful,Mashrafe Mortaza,CK Langeveldt,1,0,null,1,0,null,null
+296,46.4,Mashrafe Mortaza,Mohammad Ashraful,CK Langeveldt,1,0,null,1,0,null,null
+297,46.5,Mohammad Ashraful,Mashrafe Mortaza,CK Langeveldt,4,0,null,4,0,null,null
+298,46.6,Mohammad Ashraful,Mashrafe Mortaza,CK Langeveldt,2,0,null,2,0,null,null
+299,47.1,Mashrafe Mortaza,Mohammad Ashraful,A Nel,0,0,null,0,0,null,null
+300,47.2,Mashrafe Mortaza,Mohammad Ashraful,A Nel,0,0,null,0,1,Mashrafe Mortaza,bowled
+301,47.3,Mohammad Rafique,Mohammad Ashraful,A Nel,0,0,null,0,0,null,null
+302,47.4,Mohammad Rafique,Mohammad Ashraful,A Nel,1,0,null,1,0,null,null
+303,47.5,Mohammad Ashraful,Mohammad Rafique,A Nel,4,0,null,4,0,null,null
+304,47.6,Mohammad Ashraful,Mohammad Rafique,A Nel,1,0,null,1,0,null,null
+305,48.1,Mohammad Ashraful,Mohammad Rafique,CK Langeveldt,1,0,null,1,0,null,null
+306,48.2,Mohammad Rafique,Mohammad Ashraful,CK Langeveldt,0,1,legbyes ,1,0,null,null
+307,48.3,Mohammad Ashraful,Mohammad Rafique,CK Langeveldt,4,0,null,4,0,null,null
+308,48.4,Mohammad Ashraful,Mohammad Rafique,CK Langeveldt,1,0,null,1,0,null,null
+309,48.5,Mohammad Rafique,Mohammad Ashraful,CK Langeveldt,1,0,null,1,0,null,null
+310,48.6,Mohammad Ashraful,Mohammad Rafique,CK Langeveldt,1,0,null,1,0,null,null
+311,49.1,Mohammad Ashraful,Mohammad Rafique,A Nel,0,0,null,0,1,Mohammad Ashraful,caught
+312,49.2,Abdur Razzak,Mohammad Rafique,A Nel,1,0,null,1,0,null,null
+313,49.3,Mohammad Rafique,Abdur Razzak,A Nel,1,0,null,1,0,null,null
+314,49.4,Abdur Razzak,Mohammad Rafique,A Nel,1,0,null,1,0,null,null
+315,49.5,Mohammad Rafique,Abdur Razzak,A Nel,0,0,null,0,0,null,null
+316,49.6,Mohammad Rafique,Abdur Razzak,A Nel,0,0,null,0,0,null,null

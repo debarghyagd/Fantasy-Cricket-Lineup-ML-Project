@@ -1,0 +1,12 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,225245,Sophia Gardens,Pakistan,Shoaib Akhtar,Right-arm fast,"[0, 1, 0]",1,4,7,1,0
+1,225245,Sophia Gardens,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,2,7,0,0
+2,225246,Lord's,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,15,13,1,0
+3,225246,Lord's,Pakistan,Shoaib Akhtar,Right-arm fast,"[0, 1, 0]",1,1,2,0,0
+4,225246,Lord's,Pakistan,Naved-ul-Hasan,Right-arm fast-medium,"[0, 1, 1]",0,6,5,1,0
+5,64846,Rangiri Dambulla International Stadium,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",0,1,10,0,0
+6,64846,Rangiri Dambulla International Stadium,Sri Lanka,WPUJC Vaas,Left-arm fast-medium,"[0, 0, 1]",0,0,6,0,0
+7,66304,Trent Bridge,West Indies,JJC Lawson,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+8,66304,Trent Bridge,West Indies,DR Smith,Right-arm medium,"[0, 1, 2]",1,7,11,0,0
+9,66304,Trent Bridge,West Indies,IDR Bradshaw,Left-arm fast-medium,"[0, 0, 1]",0,1,16,0,0
+10,66304,Trent Bridge,West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0

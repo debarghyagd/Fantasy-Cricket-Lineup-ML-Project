@@ -1,0 +1,144 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,SR Watson,BJ Haddin,SL Malinga,1,0,null,1,0,null,null
+1,0.2,BJ Haddin,SR Watson,SL Malinga,0,0,null,0,0,null,null
+2,0.3,BJ Haddin,SR Watson,SL Malinga,0,0,null,0,0,null,null
+3,0.4,BJ Haddin,SR Watson,SL Malinga,0,0,null,0,0,null,null
+4,0.5,BJ Haddin,SR Watson,SL Malinga,2,0,null,2,0,null,null
+5,0.6,BJ Haddin,SR Watson,SL Malinga,0,0,null,0,0,null,null
+6,1.1,SR Watson,BJ Haddin,CRD Fernando,3,0,null,3,0,null,null
+7,1.2,BJ Haddin,SR Watson,CRD Fernando,1,1,noballs ,2,0,null,null
+8,1.3,SR Watson,BJ Haddin,CRD Fernando,2,0,null,2,0,null,null
+9,1.4,SR Watson,BJ Haddin,CRD Fernando,0,2,noballs ,2,0,null,null
+10,1.5,BJ Haddin,SR Watson,CRD Fernando,0,1,wides ,1,0,null,null
+11,1.6,BJ Haddin,SR Watson,CRD Fernando,0,0,null,0,0,null,null
+12,1.7,BJ Haddin,SR Watson,CRD Fernando,0,0,null,0,0,null,null
+13,1.8,BJ Haddin,SR Watson,CRD Fernando,1,0,null,1,0,null,null
+14,1.9,SR Watson,BJ Haddin,CRD Fernando,0,0,null,0,0,null,null
+15,2.1,BJ Haddin,SR Watson,SL Malinga,0,1,wides ,1,0,null,null
+16,2.2,BJ Haddin,SR Watson,SL Malinga,2,0,null,2,0,null,null
+17,2.3,BJ Haddin,SR Watson,SL Malinga,0,0,null,0,0,null,null
+18,2.4,BJ Haddin,SR Watson,SL Malinga,1,0,null,1,0,null,null
+19,2.5,SR Watson,BJ Haddin,SL Malinga,0,1,wides ,1,0,null,null
+20,2.6,SR Watson,BJ Haddin,SL Malinga,1,0,null,1,0,null,null
+21,2.7,BJ Haddin,SR Watson,SL Malinga,0,0,null,0,0,null,null
+22,2.8,BJ Haddin,SR Watson,SL Malinga,0,0,null,0,0,null,null
+23,3.1,SR Watson,BJ Haddin,CRD Fernando,4,0,null,4,0,null,null
+24,3.2,SR Watson,BJ Haddin,CRD Fernando,0,0,null,0,0,null,null
+25,3.3,SR Watson,BJ Haddin,CRD Fernando,0,0,null,0,0,null,null
+26,3.4,SR Watson,BJ Haddin,CRD Fernando,0,0,null,0,0,null,null
+27,3.5,SR Watson,BJ Haddin,CRD Fernando,0,0,null,0,0,null,null
+28,3.6,SR Watson,BJ Haddin,CRD Fernando,1,0,null,1,0,null,null
+29,4.1,SR Watson,BJ Haddin,SL Malinga,3,0,null,3,0,null,null
+30,4.2,BJ Haddin,SR Watson,SL Malinga,0,0,null,0,0,null,null
+31,4.3,BJ Haddin,SR Watson,SL Malinga,0,0,null,0,0,null,null
+32,4.4,BJ Haddin,SR Watson,SL Malinga,2,0,null,2,0,null,null
+33,4.5,BJ Haddin,SR Watson,SL Malinga,0,0,null,0,0,null,null
+34,4.6,BJ Haddin,SR Watson,SL Malinga,4,0,null,4,0,null,null
+35,5.1,SR Watson,BJ Haddin,CRD Fernando,0,1,wides ,1,0,null,null
+36,5.2,SR Watson,BJ Haddin,CRD Fernando,0,0,null,0,1,SR Watson,caught
+37,5.3,MJ Clarke,BJ Haddin,CRD Fernando,0,0,null,0,0,null,null
+38,5.4,MJ Clarke,BJ Haddin,CRD Fernando,0,0,null,0,0,null,null
+39,5.5,MJ Clarke,BJ Haddin,CRD Fernando,0,0,null,0,0,null,null
+40,5.6,MJ Clarke,BJ Haddin,CRD Fernando,4,0,null,4,0,null,null
+41,5.7,MJ Clarke,BJ Haddin,CRD Fernando,0,0,null,0,0,null,null
+42,6.1,BJ Haddin,MJ Clarke,NLTC Perera,0,0,null,0,0,null,null
+43,6.2,BJ Haddin,MJ Clarke,NLTC Perera,1,0,null,1,0,null,null
+44,6.3,MJ Clarke,BJ Haddin,NLTC Perera,0,0,null,0,0,null,null
+45,6.4,MJ Clarke,BJ Haddin,NLTC Perera,0,0,null,0,0,null,null
+46,6.5,MJ Clarke,BJ Haddin,NLTC Perera,2,0,null,2,0,null,null
+47,6.6,MJ Clarke,BJ Haddin,NLTC Perera,0,0,null,0,0,null,null
+48,7.1,BJ Haddin,MJ Clarke,CRD Fernando,3,0,null,3,0,null,null
+49,7.2,MJ Clarke,BJ Haddin,CRD Fernando,1,0,null,1,0,null,null
+50,7.3,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+51,7.4,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+52,7.5,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+53,7.6,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+54,8.1,MJ Clarke,BJ Haddin,NLTC Perera,0,0,null,0,0,null,null
+55,8.2,MJ Clarke,BJ Haddin,NLTC Perera,0,0,null,0,0,null,null
+56,8.3,MJ Clarke,BJ Haddin,NLTC Perera,0,0,null,0,0,null,null
+57,8.4,MJ Clarke,BJ Haddin,NLTC Perera,4,0,null,4,0,null,null
+58,8.5,MJ Clarke,BJ Haddin,NLTC Perera,4,0,null,4,0,null,null
+59,8.6,MJ Clarke,BJ Haddin,NLTC Perera,0,0,null,0,0,null,null
+60,9.1,BJ Haddin,MJ Clarke,CRD Fernando,1,0,null,1,0,null,null
+61,9.2,MJ Clarke,BJ Haddin,CRD Fernando,0,3,wides ,3,0,null,null
+62,9.3,MJ Clarke,BJ Haddin,CRD Fernando,0,0,null,0,0,null,null
+63,9.4,MJ Clarke,BJ Haddin,CRD Fernando,4,0,null,4,0,null,null
+64,9.5,MJ Clarke,BJ Haddin,CRD Fernando,1,0,null,1,0,null,null
+65,9.6,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+66,9.7,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+67,10.1,MJ Clarke,BJ Haddin,BMAJ Mendis,1,0,null,1,0,null,null
+68,10.2,BJ Haddin,MJ Clarke,BMAJ Mendis,1,0,null,1,0,null,null
+69,10.3,MJ Clarke,BJ Haddin,BMAJ Mendis,0,0,null,0,0,null,null
+70,10.4,MJ Clarke,BJ Haddin,BMAJ Mendis,3,0,null,3,0,null,null
+71,10.5,BJ Haddin,MJ Clarke,BMAJ Mendis,4,0,null,4,0,null,null
+72,10.6,BJ Haddin,MJ Clarke,BMAJ Mendis,1,0,null,1,0,null,null
+73,11.1,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+74,11.2,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+75,11.3,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+76,11.4,BJ Haddin,MJ Clarke,CRD Fernando,1,0,null,1,0,null,null
+77,11.5,MJ Clarke,BJ Haddin,CRD Fernando,1,0,null,1,0,null,null
+78,11.6,BJ Haddin,MJ Clarke,CRD Fernando,0,1,noballs ,1,0,null,null
+79,11.7,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+80,12.1,MJ Clarke,BJ Haddin,SL Malinga,0,0,null,0,0,null,null
+81,12.2,MJ Clarke,BJ Haddin,SL Malinga,1,0,null,1,0,null,null
+82,12.3,BJ Haddin,MJ Clarke,SL Malinga,4,0,null,4,0,null,null
+83,12.4,BJ Haddin,MJ Clarke,SL Malinga,1,0,null,1,0,null,null
+84,12.5,MJ Clarke,BJ Haddin,SL Malinga,0,0,null,0,0,null,null
+85,12.6,MJ Clarke,BJ Haddin,SL Malinga,0,0,null,0,0,null,null
+86,13.1,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+87,13.2,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+88,13.3,BJ Haddin,MJ Clarke,CRD Fernando,1,0,null,1,0,null,null
+89,13.4,MJ Clarke,BJ Haddin,CRD Fernando,0,0,null,0,0,null,null
+90,13.5,MJ Clarke,BJ Haddin,CRD Fernando,1,0,null,1,0,null,null
+91,13.6,BJ Haddin,MJ Clarke,CRD Fernando,0,0,null,0,1,BJ Haddin,caught and bowled
+92,14.1,MEK Hussey,MJ Clarke,SL Malinga,0,1,wides ,1,0,null,null
+93,14.2,MEK Hussey,MJ Clarke,SL Malinga,0,0,null,0,0,null,null
+94,14.3,MEK Hussey,MJ Clarke,SL Malinga,0,0,null,0,0,null,null
+95,14.4,MEK Hussey,MJ Clarke,SL Malinga,0,0,null,0,0,null,null
+96,14.5,MEK Hussey,MJ Clarke,SL Malinga,0,0,null,0,0,null,null
+97,14.6,MEK Hussey,MJ Clarke,SL Malinga,0,1,wides ,1,0,null,null
+98,14.7,MEK Hussey,MJ Clarke,SL Malinga,0,0,null,0,0,null,null
+99,14.8,MEK Hussey,MJ Clarke,SL Malinga,2,0,null,2,0,null,null
+100,15.1,MJ Clarke,MEK Hussey,CRD Fernando,0,0,null,0,0,null,null
+101,15.2,MJ Clarke,MEK Hussey,CRD Fernando,1,1,noballs ,2,0,null,null
+102,15.3,MEK Hussey,MJ Clarke,CRD Fernando,0,1,legbyes ,1,0,null,null
+103,15.4,MJ Clarke,MEK Hussey,CRD Fernando,0,0,null,0,0,null,null
+104,15.5,MJ Clarke,MEK Hussey,CRD Fernando,4,0,null,4,0,null,null
+105,15.6,MJ Clarke,MEK Hussey,CRD Fernando,1,0,null,1,0,null,null
+106,15.7,MEK Hussey,MJ Clarke,CRD Fernando,0,1,noballs ,1,0,null,null
+107,15.8,MEK Hussey,MJ Clarke,CRD Fernando,0,0,null,0,0,null,null
+108,16.1,MJ Clarke,MEK Hussey,SL Malinga,0,0,null,0,0,null,null
+109,16.2,MJ Clarke,MEK Hussey,SL Malinga,2,0,null,2,0,null,null
+110,16.3,MJ Clarke,MEK Hussey,SL Malinga,0,0,null,0,0,null,null
+111,16.4,MJ Clarke,MEK Hussey,SL Malinga,0,0,null,0,0,null,null
+112,16.5,MJ Clarke,MEK Hussey,SL Malinga,0,1,wides ,1,0,null,null
+113,16.6,MJ Clarke,MEK Hussey,SL Malinga,0,0,null,0,0,null,null
+114,16.7,MJ Clarke,MEK Hussey,SL Malinga,0,0,null,0,0,null,null
+115,17.1,MEK Hussey,MJ Clarke,NLTC Perera,2,0,null,2,0,null,null
+116,17.2,MEK Hussey,MJ Clarke,NLTC Perera,0,0,null,0,0,null,null
+117,17.3,MEK Hussey,MJ Clarke,NLTC Perera,0,0,null,0,0,null,null
+118,17.4,MEK Hussey,MJ Clarke,NLTC Perera,0,0,null,0,0,null,null
+119,17.5,MEK Hussey,MJ Clarke,NLTC Perera,1,0,null,1,0,null,null
+120,17.6,MJ Clarke,MEK Hussey,NLTC Perera,1,0,null,1,0,null,null
+121,18.1,MJ Clarke,MEK Hussey,S Randiv,1,0,null,1,0,null,null
+122,18.2,MEK Hussey,MJ Clarke,S Randiv,0,0,null,0,0,null,null
+123,18.3,MEK Hussey,MJ Clarke,S Randiv,0,0,null,0,0,null,null
+124,18.4,MEK Hussey,MJ Clarke,S Randiv,0,0,null,0,0,null,null
+125,18.5,MEK Hussey,MJ Clarke,S Randiv,0,0,null,0,0,null,null
+126,18.6,MEK Hussey,MJ Clarke,S Randiv,1,0,null,1,0,null,null
+127,19.1,MEK Hussey,MJ Clarke,NLTC Perera,0,0,null,0,0,null,null
+128,19.2,MEK Hussey,MJ Clarke,NLTC Perera,0,0,null,0,0,null,null
+129,19.3,MEK Hussey,MJ Clarke,NLTC Perera,0,0,null,0,0,null,null
+130,19.4,MEK Hussey,MJ Clarke,NLTC Perera,0,0,null,0,0,null,null
+131,19.5,MEK Hussey,MJ Clarke,NLTC Perera,0,0,null,0,0,null,null
+132,19.6,MEK Hussey,MJ Clarke,NLTC Perera,0,0,null,0,0,null,null
+133,20.1,MJ Clarke,MEK Hussey,S Randiv,0,0,null,0,0,null,null
+134,20.2,MJ Clarke,MEK Hussey,S Randiv,6,0,null,6,0,null,null
+135,20.3,MJ Clarke,MEK Hussey,S Randiv,2,0,null,2,0,null,null
+136,20.4,MJ Clarke,MEK Hussey,S Randiv,0,0,null,0,0,null,null
+137,20.5,MJ Clarke,MEK Hussey,S Randiv,1,0,null,1,0,null,null
+138,20.6,MEK Hussey,MJ Clarke,S Randiv,0,0,null,0,0,null,null
+139,21.1,MJ Clarke,MEK Hussey,NLTC Perera,0,0,null,0,0,null,null
+140,21.2,MJ Clarke,MEK Hussey,NLTC Perera,0,0,null,0,0,null,null
+141,21.3,MJ Clarke,MEK Hussey,NLTC Perera,0,0,null,0,0,null,null
+142,21.4,MJ Clarke,MEK Hussey,NLTC Perera,4,0,null,4,0,null,null

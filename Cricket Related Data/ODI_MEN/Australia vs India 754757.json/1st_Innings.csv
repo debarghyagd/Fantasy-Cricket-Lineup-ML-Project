@@ -1,0 +1,104 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,AM Rahane,S Dhawan,MA Starc,0,0,null,0,0,null,null
+1,0.2,AM Rahane,S Dhawan,MA Starc,0,0,null,0,0,null,null
+2,0.3,AM Rahane,S Dhawan,MA Starc,0,0,null,0,0,null,null
+3,0.4,AM Rahane,S Dhawan,MA Starc,1,0,null,1,0,null,null
+4,0.5,S Dhawan,AM Rahane,MA Starc,0,0,null,0,0,null,null
+5,0.6,S Dhawan,AM Rahane,MA Starc,0,0,null,0,0,null,null
+6,1.1,AM Rahane,S Dhawan,JR Hazlewood,0,1,wides ,1,0,null,null
+7,1.2,AM Rahane,S Dhawan,JR Hazlewood,0,1,wides ,1,0,null,null
+8,1.3,AM Rahane,S Dhawan,JR Hazlewood,0,1,wides ,1,0,null,null
+9,1.4,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+10,1.5,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+11,1.6,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+12,1.7,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+13,1.8,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+14,1.9,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+15,2.1,S Dhawan,AM Rahane,MA Starc,1,0,null,1,0,null,null
+16,2.2,AM Rahane,S Dhawan,MA Starc,0,0,null,0,0,null,null
+17,2.3,AM Rahane,S Dhawan,MA Starc,0,0,null,0,0,null,null
+18,2.4,AM Rahane,S Dhawan,MA Starc,1,0,null,1,0,null,null
+19,2.5,S Dhawan,AM Rahane,MA Starc,0,0,null,0,0,null,null
+20,2.6,S Dhawan,AM Rahane,MA Starc,0,0,null,0,0,null,null
+21,3.1,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+22,3.2,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+23,3.3,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+24,3.4,AM Rahane,S Dhawan,JR Hazlewood,2,0,null,2,0,null,null
+25,3.5,AM Rahane,S Dhawan,JR Hazlewood,4,0,null,4,0,null,null
+26,3.6,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+27,4.1,S Dhawan,AM Rahane,MA Starc,2,0,null,2,0,null,null
+28,4.2,S Dhawan,AM Rahane,MA Starc,2,0,null,2,0,null,null
+29,4.3,S Dhawan,AM Rahane,MA Starc,0,0,null,0,0,null,null
+30,4.4,S Dhawan,AM Rahane,MA Starc,0,0,null,0,0,null,null
+31,4.5,S Dhawan,AM Rahane,MA Starc,2,0,null,2,0,null,null
+32,4.6,S Dhawan,AM Rahane,MA Starc,0,0,null,0,0,null,null
+33,5.1,AM Rahane,S Dhawan,JR Hazlewood,1,0,null,1,0,null,null
+34,5.2,S Dhawan,AM Rahane,JR Hazlewood,1,0,null,1,0,null,null
+35,5.3,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+36,5.4,AM Rahane,S Dhawan,JR Hazlewood,4,0,null,4,0,null,null
+37,5.5,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+38,5.6,AM Rahane,S Dhawan,JR Hazlewood,0,0,null,0,0,null,null
+39,6.1,S Dhawan,AM Rahane,MA Starc,0,0,null,0,1,S Dhawan,caught
+40,6.2,AT Rayudu,AM Rahane,MA Starc,0,0,null,0,0,null,null
+41,6.3,AT Rayudu,AM Rahane,MA Starc,0,0,null,0,0,null,null
+42,6.4,AT Rayudu,AM Rahane,MA Starc,0,1,wides ,1,0,null,null
+43,6.5,AT Rayudu,AM Rahane,MA Starc,0,0,null,0,0,null,null
+44,6.6,AT Rayudu,AM Rahane,MA Starc,1,0,null,1,0,null,null
+45,6.7,AM Rahane,AT Rayudu,MA Starc,0,0,null,0,0,null,null
+46,7.1,AT Rayudu,AM Rahane,JR Hazlewood,0,0,null,0,0,null,null
+47,7.2,AT Rayudu,AM Rahane,JR Hazlewood,0,0,null,0,0,null,null
+48,7.3,AT Rayudu,AM Rahane,JR Hazlewood,0,0,null,0,0,null,null
+49,7.4,AT Rayudu,AM Rahane,JR Hazlewood,4,0,null,4,0,null,null
+50,7.5,AT Rayudu,AM Rahane,JR Hazlewood,1,0,null,1,0,null,null
+51,7.6,AM Rahane,AT Rayudu,JR Hazlewood,1,0,null,1,0,null,null
+52,8.1,AM Rahane,AT Rayudu,MR Marsh,0,0,null,0,0,null,null
+53,8.2,AM Rahane,AT Rayudu,MR Marsh,1,0,null,1,0,null,null
+54,8.3,AT Rayudu,AM Rahane,MR Marsh,1,0,null,1,0,null,null
+55,8.4,AM Rahane,AT Rayudu,MR Marsh,1,0,null,1,0,null,null
+56,8.5,AT Rayudu,AM Rahane,MR Marsh,0,0,null,0,0,null,null
+57,8.6,AT Rayudu,AM Rahane,MR Marsh,6,0,null,6,0,null,null
+58,9.1,AM Rahane,AT Rayudu,JR Hazlewood,2,0,null,2,0,null,null
+59,9.2,AM Rahane,AT Rayudu,JR Hazlewood,0,0,null,0,0,null,null
+60,9.3,AM Rahane,AT Rayudu,JR Hazlewood,0,0,null,0,0,null,null
+61,9.4,AM Rahane,AT Rayudu,JR Hazlewood,0,0,null,0,0,null,null
+62,9.5,AM Rahane,AT Rayudu,JR Hazlewood,1,0,null,1,0,null,null
+63,9.6,AT Rayudu,AM Rahane,JR Hazlewood,1,0,null,1,0,null,null
+64,10.1,AT Rayudu,AM Rahane,MR Marsh,1,0,null,1,0,null,null
+65,10.2,AM Rahane,AT Rayudu,MR Marsh,1,0,null,1,0,null,null
+66,10.3,AT Rayudu,AM Rahane,MR Marsh,0,1,wides ,1,0,null,null
+67,10.4,AT Rayudu,AM Rahane,MR Marsh,1,0,null,1,0,null,null
+68,10.5,AM Rahane,AT Rayudu,MR Marsh,1,0,null,1,0,null,null
+69,10.6,AT Rayudu,AM Rahane,MR Marsh,0,0,null,0,0,null,null
+70,10.7,AT Rayudu,AM Rahane,MR Marsh,1,0,null,1,0,null,null
+71,11.1,AT Rayudu,AM Rahane,XJ Doherty,0,0,null,0,0,null,null
+72,11.2,AT Rayudu,AM Rahane,XJ Doherty,0,0,null,0,0,null,null
+73,11.3,AT Rayudu,AM Rahane,XJ Doherty,1,0,null,1,0,null,null
+74,11.4,AM Rahane,AT Rayudu,XJ Doherty,0,1,wides ,1,0,null,null
+75,11.5,AM Rahane,AT Rayudu,XJ Doherty,1,0,null,1,0,null,null
+76,11.6,AT Rayudu,AM Rahane,XJ Doherty,1,0,null,1,0,null,null
+77,11.7,AM Rahane,AT Rayudu,XJ Doherty,1,0,null,1,0,null,null
+78,12.1,AM Rahane,AT Rayudu,MR Marsh,0,0,null,0,0,null,null
+79,12.2,AM Rahane,AT Rayudu,MR Marsh,1,0,null,1,0,null,null
+80,12.3,AT Rayudu,AM Rahane,MR Marsh,0,0,null,0,0,null,null
+81,12.4,AT Rayudu,AM Rahane,MR Marsh,4,0,null,4,0,null,null
+82,12.5,AT Rayudu,AM Rahane,MR Marsh,0,1,wides ,1,0,null,null
+83,12.6,AT Rayudu,AM Rahane,MR Marsh,0,0,null,0,1,AT Rayudu,caught
+84,12.7,AM Rahane,V Kohli,MR Marsh,0,0,null,0,0,null,null
+85,13.1,V Kohli,AM Rahane,XJ Doherty,1,0,null,1,0,null,null
+86,13.2,AM Rahane,V Kohli,XJ Doherty,0,0,null,0,0,null,null
+87,13.3,AM Rahane,V Kohli,XJ Doherty,1,0,null,1,0,null,null
+88,13.4,V Kohli,AM Rahane,XJ Doherty,0,0,null,0,0,null,null
+89,13.5,V Kohli,AM Rahane,XJ Doherty,0,0,null,0,0,null,null
+90,13.6,V Kohli,AM Rahane,XJ Doherty,0,0,null,0,0,null,null
+91,14.1,AM Rahane,V Kohli,JP Faulkner,0,0,null,0,0,null,null
+92,14.2,AM Rahane,V Kohli,JP Faulkner,0,0,null,0,0,null,null
+93,14.3,AM Rahane,V Kohli,JP Faulkner,2,0,null,2,0,null,null
+94,14.4,AM Rahane,V Kohli,JP Faulkner,0,0,null,0,0,null,null
+95,14.5,AM Rahane,V Kohli,JP Faulkner,0,0,null,0,0,null,null
+96,14.6,AM Rahane,V Kohli,JP Faulkner,0,0,null,0,0,null,null
+97,15.1,V Kohli,AM Rahane,XJ Doherty,0,0,null,0,0,null,null
+98,15.2,V Kohli,AM Rahane,XJ Doherty,0,0,null,0,0,null,null
+99,15.3,V Kohli,AM Rahane,XJ Doherty,1,0,null,1,0,null,null
+100,15.4,AM Rahane,V Kohli,XJ Doherty,1,0,null,1,0,null,null
+101,15.5,V Kohli,AM Rahane,XJ Doherty,0,0,null,0,0,null,null
+102,15.6,V Kohli,AM Rahane,XJ Doherty,1,0,null,1,0,null,null

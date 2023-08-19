@@ -1,0 +1,267 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Rohan Mustafa,L Sreekumar,MA Leask,0,0,null,0,0,null,null
+1,0.2,Rohan Mustafa,L Sreekumar,MA Leask,0,1,wides ,1,0,null,null
+2,0.3,Rohan Mustafa,L Sreekumar,MA Leask,0,0,null,0,0,null,null
+3,0.4,Rohan Mustafa,L Sreekumar,MA Leask,0,0,null,0,0,null,null
+4,0.5,Rohan Mustafa,L Sreekumar,MA Leask,0,0,null,0,0,null,null
+5,0.6,Rohan Mustafa,L Sreekumar,MA Leask,0,0,null,0,0,null,null
+6,0.7,Rohan Mustafa,L Sreekumar,MA Leask,0,0,null,0,0,null,null
+7,1.1,L Sreekumar,Rohan Mustafa,JH Davey,0,1,wides ,1,0,null,null
+8,1.2,L Sreekumar,Rohan Mustafa,JH Davey,0,0,null,0,0,null,null
+9,1.3,L Sreekumar,Rohan Mustafa,JH Davey,0,0,null,0,0,null,null
+10,1.4,L Sreekumar,Rohan Mustafa,JH Davey,0,0,null,0,0,null,null
+11,1.5,L Sreekumar,Rohan Mustafa,JH Davey,4,0,null,4,0,null,null
+12,1.6,L Sreekumar,Rohan Mustafa,JH Davey,0,0,null,0,0,null,null
+13,1.7,L Sreekumar,Rohan Mustafa,JH Davey,0,0,null,0,0,null,null
+14,2.1,Rohan Mustafa,L Sreekumar,MA Leask,2,0,null,2,0,null,null
+15,2.2,Rohan Mustafa,L Sreekumar,MA Leask,0,0,null,0,0,null,null
+16,2.3,Rohan Mustafa,L Sreekumar,MA Leask,0,0,null,0,0,null,null
+17,2.4,Rohan Mustafa,L Sreekumar,MA Leask,0,0,null,0,0,null,null
+18,2.5,Rohan Mustafa,L Sreekumar,MA Leask,0,0,null,0,0,null,null
+19,2.6,Rohan Mustafa,L Sreekumar,MA Leask,6,0,null,6,0,null,null
+20,3.1,L Sreekumar,Rohan Mustafa,JH Davey,4,0,null,4,0,null,null
+21,3.2,L Sreekumar,Rohan Mustafa,JH Davey,1,0,null,1,0,null,null
+22,3.3,Rohan Mustafa,L Sreekumar,JH Davey,0,0,null,0,0,null,null
+23,3.4,Rohan Mustafa,L Sreekumar,JH Davey,1,0,null,1,0,null,null
+24,3.5,L Sreekumar,Rohan Mustafa,JH Davey,0,0,null,0,0,null,null
+25,3.6,L Sreekumar,Rohan Mustafa,JH Davey,0,0,null,0,0,null,null
+26,4.1,Rohan Mustafa,L Sreekumar,SM Sharif,0,0,null,0,0,null,null
+27,4.2,Rohan Mustafa,L Sreekumar,SM Sharif,1,0,null,1,0,null,null
+28,4.3,L Sreekumar,Rohan Mustafa,SM Sharif,0,0,null,0,0,null,null
+29,4.4,L Sreekumar,Rohan Mustafa,SM Sharif,1,0,null,1,0,null,null
+30,4.5,Rohan Mustafa,L Sreekumar,SM Sharif,0,0,null,0,0,null,null
+31,4.6,Rohan Mustafa,L Sreekumar,SM Sharif,0,0,null,0,0,null,null
+32,5.1,L Sreekumar,Rohan Mustafa,JH Davey,1,0,null,1,0,null,null
+33,5.2,Rohan Mustafa,L Sreekumar,JH Davey,0,0,null,0,0,null,null
+34,5.3,Rohan Mustafa,L Sreekumar,JH Davey,4,0,null,4,0,null,null
+35,5.4,Rohan Mustafa,L Sreekumar,JH Davey,2,0,null,2,0,null,null
+36,5.5,Rohan Mustafa,L Sreekumar,JH Davey,0,0,null,0,0,null,null
+37,5.6,Rohan Mustafa,L Sreekumar,JH Davey,0,0,null,0,0,null,null
+38,6.1,L Sreekumar,Rohan Mustafa,SM Sharif,4,0,null,4,0,null,null
+39,6.2,L Sreekumar,Rohan Mustafa,SM Sharif,1,0,null,1,0,null,null
+40,6.3,Rohan Mustafa,L Sreekumar,SM Sharif,0,0,null,0,0,null,null
+41,6.4,Rohan Mustafa,L Sreekumar,SM Sharif,4,0,null,4,0,null,null
+42,6.5,Rohan Mustafa,L Sreekumar,SM Sharif,4,0,null,4,0,null,null
+43,6.6,Rohan Mustafa,L Sreekumar,SM Sharif,1,0,null,1,0,null,null
+44,7.1,Rohan Mustafa,L Sreekumar,JH Davey,0,0,null,0,0,null,null
+45,7.2,Rohan Mustafa,L Sreekumar,JH Davey,3,0,null,3,0,null,null
+46,7.3,L Sreekumar,Rohan Mustafa,JH Davey,0,0,null,0,0,null,null
+47,7.4,L Sreekumar,Rohan Mustafa,JH Davey,0,0,null,0,0,null,null
+48,7.5,L Sreekumar,Rohan Mustafa,JH Davey,0,0,null,0,0,null,null
+49,7.6,L Sreekumar,Rohan Mustafa,JH Davey,0,0,null,0,0,null,null
+50,8.1,Rohan Mustafa,L Sreekumar,SM Sharif,0,0,null,0,0,null,null
+51,8.2,Rohan Mustafa,L Sreekumar,SM Sharif,4,0,null,4,0,null,null
+52,8.3,Rohan Mustafa,L Sreekumar,SM Sharif,2,0,null,2,0,null,null
+53,8.4,Rohan Mustafa,L Sreekumar,SM Sharif,0,0,null,0,0,null,null
+54,8.5,Rohan Mustafa,L Sreekumar,SM Sharif,0,0,null,0,0,null,null
+55,8.6,Rohan Mustafa,L Sreekumar,SM Sharif,0,0,null,0,0,null,null
+56,9.1,L Sreekumar,Rohan Mustafa,AC Evans,0,4,legbyes ,4,0,null,null
+57,9.2,L Sreekumar,Rohan Mustafa,AC Evans,0,0,null,0,0,null,null
+58,9.3,L Sreekumar,Rohan Mustafa,AC Evans,4,0,null,4,0,null,null
+59,9.4,L Sreekumar,Rohan Mustafa,AC Evans,4,0,null,4,0,null,null
+60,9.5,L Sreekumar,Rohan Mustafa,AC Evans,4,0,null,4,0,null,null
+61,9.6,L Sreekumar,Rohan Mustafa,AC Evans,0,0,null,0,0,null,null
+62,10.1,Rohan Mustafa,L Sreekumar,CD de Lange,0,0,null,0,0,null,null
+63,10.2,Rohan Mustafa,L Sreekumar,CD de Lange,3,0,null,3,0,null,null
+64,10.3,L Sreekumar,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+65,10.4,L Sreekumar,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+66,10.5,L Sreekumar,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+67,10.6,L Sreekumar,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+68,11.1,Rohan Mustafa,L Sreekumar,AC Evans,1,0,null,1,0,null,null
+69,11.2,L Sreekumar,Rohan Mustafa,AC Evans,0,0,null,0,0,null,null
+70,11.3,L Sreekumar,Rohan Mustafa,AC Evans,0,0,null,0,1,L Sreekumar,caught
+71,11.4,Mohammad Shahzad,Rohan Mustafa,AC Evans,1,0,null,1,0,null,null
+72,11.5,Rohan Mustafa,Mohammad Shahzad,AC Evans,0,0,null,0,0,null,null
+73,11.6,Rohan Mustafa,Mohammad Shahzad,AC Evans,0,0,null,0,0,null,null
+74,12.1,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+75,12.2,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+76,12.3,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+77,12.4,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+78,12.5,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+79,12.6,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+80,13.1,Rohan Mustafa,Mohammad Shahzad,AC Evans,0,0,null,0,0,null,null
+81,13.2,Rohan Mustafa,Mohammad Shahzad,AC Evans,1,0,null,1,0,null,null
+82,13.3,Mohammad Shahzad,Rohan Mustafa,AC Evans,0,0,null,0,0,null,null
+83,13.4,Mohammad Shahzad,Rohan Mustafa,AC Evans,0,1,legbyes ,1,0,null,null
+84,13.5,Rohan Mustafa,Mohammad Shahzad,AC Evans,4,0,null,4,0,null,null
+85,13.6,Rohan Mustafa,Mohammad Shahzad,AC Evans,0,0,null,0,0,null,null
+86,14.1,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+87,14.2,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+88,14.3,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+89,14.4,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+90,14.5,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+91,14.6,Mohammad Shahzad,Rohan Mustafa,CD de Lange,0,0,null,0,0,null,null
+92,15.1,Rohan Mustafa,Mohammad Shahzad,AC Evans,0,0,null,0,0,null,null
+93,15.2,Rohan Mustafa,Mohammad Shahzad,AC Evans,0,0,null,0,0,null,null
+94,15.3,Rohan Mustafa,Mohammad Shahzad,AC Evans,0,0,null,0,1,Rohan Mustafa,caught
+95,15.4,Shaiman Anwar,Mohammad Shahzad,AC Evans,0,0,null,0,0,null,null
+96,15.5,Shaiman Anwar,Mohammad Shahzad,AC Evans,2,0,null,2,0,null,null
+97,15.6,Shaiman Anwar,Mohammad Shahzad,AC Evans,0,0,null,0,0,null,null
+98,16.1,Mohammad Shahzad,Shaiman Anwar,CD de Lange,0,0,null,0,0,null,null
+99,16.2,Mohammad Shahzad,Shaiman Anwar,CD de Lange,4,0,null,4,0,null,null
+100,16.3,Mohammad Shahzad,Shaiman Anwar,CD de Lange,0,0,null,0,0,null,null
+101,16.4,Mohammad Shahzad,Shaiman Anwar,CD de Lange,1,0,null,1,0,null,null
+102,16.5,Shaiman Anwar,Mohammad Shahzad,CD de Lange,0,0,null,0,0,null,null
+103,16.6,Shaiman Anwar,Mohammad Shahzad,CD de Lange,0,0,null,0,0,null,null
+104,17.1,Mohammad Shahzad,Shaiman Anwar,SM Sharif,0,0,null,0,0,null,null
+105,17.2,Mohammad Shahzad,Shaiman Anwar,SM Sharif,1,0,null,1,0,null,null
+106,17.3,Shaiman Anwar,Mohammad Shahzad,SM Sharif,0,0,null,0,0,null,null
+107,17.4,Shaiman Anwar,Mohammad Shahzad,SM Sharif,0,0,null,0,0,null,null
+108,17.5,Shaiman Anwar,Mohammad Shahzad,SM Sharif,0,0,null,0,0,null,null
+109,17.6,Shaiman Anwar,Mohammad Shahzad,SM Sharif,1,0,null,1,0,null,null
+110,18.1,Shaiman Anwar,Mohammad Shahzad,CD de Lange,6,0,null,6,0,null,null
+111,18.2,Shaiman Anwar,Mohammad Shahzad,CD de Lange,0,0,null,0,0,null,null
+112,18.3,Shaiman Anwar,Mohammad Shahzad,CD de Lange,0,0,null,0,1,Shaiman Anwar,caught
+113,18.4,Muhammad Usman,Mohammad Shahzad,CD de Lange,0,0,null,0,0,null,null
+114,18.5,Muhammad Usman,Mohammad Shahzad,CD de Lange,1,0,null,1,0,null,null
+115,18.6,Mohammad Shahzad,Muhammad Usman,CD de Lange,0,0,null,0,0,null,null
+116,19.1,Muhammad Usman,Mohammad Shahzad,SM Sharif,0,0,null,0,0,null,null
+117,19.2,Muhammad Usman,Mohammad Shahzad,SM Sharif,2,0,null,2,0,null,null
+118,19.3,Muhammad Usman,Mohammad Shahzad,SM Sharif,2,0,null,2,0,null,null
+119,19.4,Muhammad Usman,Mohammad Shahzad,SM Sharif,1,0,null,1,0,null,null
+120,19.5,Mohammad Shahzad,Muhammad Usman,SM Sharif,0,0,null,0,0,null,null
+121,19.6,Mohammad Shahzad,Muhammad Usman,SM Sharif,1,0,null,1,0,null,null
+122,20.1,Mohammad Shahzad,Muhammad Usman,CD de Lange,0,0,null,0,0,null,null
+123,20.2,Mohammad Shahzad,Muhammad Usman,CD de Lange,1,0,null,1,0,null,null
+124,20.3,Muhammad Usman,Mohammad Shahzad,CD de Lange,0,0,null,0,0,null,null
+125,20.4,Muhammad Usman,Mohammad Shahzad,CD de Lange,0,0,null,0,0,null,null
+126,20.5,Muhammad Usman,Mohammad Shahzad,CD de Lange,0,0,null,0,0,null,null
+127,20.6,Muhammad Usman,Mohammad Shahzad,CD de Lange,0,0,null,0,0,null,null
+128,21.1,Mohammad Shahzad,Muhammad Usman,MA Leask,0,0,null,0,0,null,null
+129,21.2,Mohammad Shahzad,Muhammad Usman,MA Leask,2,0,null,2,0,null,null
+130,21.3,Mohammad Shahzad,Muhammad Usman,MA Leask,6,0,null,6,0,null,null
+131,21.4,Mohammad Shahzad,Muhammad Usman,MA Leask,0,0,null,0,0,null,null
+132,21.5,Mohammad Shahzad,Muhammad Usman,MA Leask,2,0,null,2,0,null,null
+133,21.6,Mohammad Shahzad,Muhammad Usman,MA Leask,6,0,null,6,0,null,null
+134,22.1,Muhammad Usman,Mohammad Shahzad,CD de Lange,1,0,null,1,0,null,null
+135,22.2,Mohammad Shahzad,Muhammad Usman,CD de Lange,3,0,null,3,0,null,null
+136,22.3,Muhammad Usman,Mohammad Shahzad,CD de Lange,0,0,null,0,0,null,null
+137,22.4,Muhammad Usman,Mohammad Shahzad,CD de Lange,2,0,null,2,0,null,null
+138,22.5,Muhammad Usman,Mohammad Shahzad,CD de Lange,1,0,null,1,0,null,null
+139,22.6,Mohammad Shahzad,Muhammad Usman,CD de Lange,0,0,null,0,0,null,null
+140,23.1,Muhammad Usman,Mohammad Shahzad,MA Leask,0,0,null,0,0,null,null
+141,23.2,Muhammad Usman,Mohammad Shahzad,MA Leask,0,0,null,0,1,Mohammad Shahzad,run out
+142,23.3,Rameez Shahzad,Muhammad Usman,MA Leask,0,0,null,0,0,null,null
+143,23.4,Rameez Shahzad,Muhammad Usman,MA Leask,0,0,null,0,0,null,null
+144,23.5,Rameez Shahzad,Muhammad Usman,MA Leask,2,0,null,2,0,null,null
+145,23.6,Rameez Shahzad,Muhammad Usman,MA Leask,1,0,null,1,0,null,null
+146,24.1,Rameez Shahzad,Muhammad Usman,JH Davey,0,0,null,0,0,null,null
+147,24.2,Rameez Shahzad,Muhammad Usman,JH Davey,0,0,null,0,0,null,null
+148,24.3,Rameez Shahzad,Muhammad Usman,JH Davey,0,0,null,0,0,null,null
+149,24.4,Rameez Shahzad,Muhammad Usman,JH Davey,1,0,null,1,0,null,null
+150,24.5,Muhammad Usman,Rameez Shahzad,JH Davey,0,0,null,0,0,null,null
+151,24.6,Muhammad Usman,Rameez Shahzad,JH Davey,1,0,null,1,0,null,null
+152,25.1,Muhammad Usman,Rameez Shahzad,MA Leask,0,0,null,0,0,null,null
+153,25.2,Muhammad Usman,Rameez Shahzad,MA Leask,0,0,null,0,0,null,null
+154,25.3,Muhammad Usman,Rameez Shahzad,MA Leask,0,0,null,0,0,null,null
+155,25.4,Muhammad Usman,Rameez Shahzad,MA Leask,1,0,null,1,0,null,null
+156,25.5,Rameez Shahzad,Muhammad Usman,MA Leask,1,0,null,1,0,null,null
+157,25.6,Muhammad Usman,Rameez Shahzad,MA Leask,1,0,null,1,0,null,null
+158,26.1,Muhammad Usman,Rameez Shahzad,JH Davey,0,0,null,0,0,null,null
+159,26.2,Muhammad Usman,Rameez Shahzad,JH Davey,0,0,null,0,0,null,null
+160,26.3,Muhammad Usman,Rameez Shahzad,JH Davey,2,0,null,2,0,null,null
+161,26.4,Muhammad Usman,Rameez Shahzad,JH Davey,6,0,null,6,0,null,null
+162,26.5,Muhammad Usman,Rameez Shahzad,JH Davey,4,0,null,4,0,null,null
+163,26.6,Muhammad Usman,Rameez Shahzad,JH Davey,0,0,null,0,0,null,null
+164,27.1,Rameez Shahzad,Muhammad Usman,MA Leask,1,0,null,1,0,null,null
+165,27.2,Muhammad Usman,Rameez Shahzad,MA Leask,0,0,null,0,0,null,null
+166,27.3,Muhammad Usman,Rameez Shahzad,MA Leask,0,0,null,0,0,null,null
+167,27.4,Muhammad Usman,Rameez Shahzad,MA Leask,0,0,null,0,0,null,null
+168,27.5,Muhammad Usman,Rameez Shahzad,MA Leask,2,0,null,2,0,null,null
+169,27.6,Muhammad Usman,Rameez Shahzad,MA Leask,1,0,null,1,0,null,null
+170,28.1,Muhammad Usman,Rameez Shahzad,AC Evans,1,0,null,1,0,null,null
+171,28.2,Rameez Shahzad,Muhammad Usman,AC Evans,1,0,null,1,0,null,null
+172,28.3,Muhammad Usman,Rameez Shahzad,AC Evans,1,0,null,1,0,null,null
+173,28.4,Rameez Shahzad,Muhammad Usman,AC Evans,0,0,null,0,0,null,null
+174,28.5,Rameez Shahzad,Muhammad Usman,AC Evans,0,0,null,0,0,null,null
+175,28.6,Rameez Shahzad,Muhammad Usman,AC Evans,0,0,null,0,0,null,null
+176,29.1,Muhammad Usman,Rameez Shahzad,CS MacLeod,1,0,null,1,0,null,null
+177,29.2,Rameez Shahzad,Muhammad Usman,CS MacLeod,0,1,wides ,1,0,null,null
+178,29.3,Rameez Shahzad,Muhammad Usman,CS MacLeod,0,1,wides ,1,0,null,null
+179,29.4,Rameez Shahzad,Muhammad Usman,CS MacLeod,1,0,null,1,0,null,null
+180,29.5,Muhammad Usman,Rameez Shahzad,CS MacLeod,0,0,null,0,0,null,null
+181,29.6,Muhammad Usman,Rameez Shahzad,CS MacLeod,0,0,null,0,0,null,null
+182,29.7,Muhammad Usman,Rameez Shahzad,CS MacLeod,0,0,null,0,0,null,null
+183,29.8,Muhammad Usman,Rameez Shahzad,CS MacLeod,0,0,null,0,0,null,null
+184,30.1,Rameez Shahzad,Muhammad Usman,AC Evans,1,0,null,1,0,null,null
+185,30.2,Muhammad Usman,Rameez Shahzad,AC Evans,0,0,null,0,0,null,null
+186,30.3,Muhammad Usman,Rameez Shahzad,AC Evans,0,0,null,0,0,null,null
+187,30.4,Muhammad Usman,Rameez Shahzad,AC Evans,1,0,null,1,0,null,null
+188,30.5,Rameez Shahzad,Muhammad Usman,AC Evans,1,0,null,1,0,null,null
+189,30.6,Muhammad Usman,Rameez Shahzad,AC Evans,0,0,null,0,0,null,null
+190,31.1,Rameez Shahzad,Muhammad Usman,CS MacLeod,0,0,null,0,0,null,null
+191,31.2,Rameez Shahzad,Muhammad Usman,CS MacLeod,1,0,null,1,0,null,null
+192,31.3,Muhammad Usman,Rameez Shahzad,CS MacLeod,1,0,null,1,0,null,null
+193,31.4,Rameez Shahzad,Muhammad Usman,CS MacLeod,1,0,null,1,0,null,null
+194,31.5,Muhammad Usman,Rameez Shahzad,CS MacLeod,1,0,null,1,0,null,null
+195,31.6,Rameez Shahzad,Muhammad Usman,CS MacLeod,0,0,null,0,0,null,null
+196,32.1,Muhammad Usman,Rameez Shahzad,SM Sharif,0,0,null,0,0,null,null
+197,32.2,Muhammad Usman,Rameez Shahzad,SM Sharif,0,0,null,0,1,Muhammad Usman,caught
+198,32.3,Mohammad Naveed,Rameez Shahzad,SM Sharif,0,0,null,0,0,null,null
+199,32.4,Mohammad Naveed,Rameez Shahzad,SM Sharif,2,0,null,2,0,null,null
+200,32.5,Mohammad Naveed,Rameez Shahzad,SM Sharif,0,0,null,0,0,null,null
+201,32.6,Mohammad Naveed,Rameez Shahzad,SM Sharif,0,0,null,0,1,Mohammad Naveed,caught
+202,33.1,Krishna Chandran,Rameez Shahzad,CD de Lange,1,0,null,1,0,null,null
+203,33.2,Krishna Chandran,Rameez Shahzad,CD de Lange,0,0,null,0,0,null,null
+204,33.3,Krishna Chandran,Rameez Shahzad,CD de Lange,1,0,null,1,0,null,null
+205,33.4,Rameez Shahzad,Krishna Chandran,CD de Lange,0,0,null,0,0,null,null
+206,33.5,Rameez Shahzad,Krishna Chandran,CD de Lange,0,0,null,0,0,null,null
+207,33.6,Rameez Shahzad,Krishna Chandran,CD de Lange,2,0,null,2,0,null,null
+208,34.1,Krishna Chandran,Rameez Shahzad,SM Sharif,0,1,legbyes ,1,0,null,null
+209,34.2,Rameez Shahzad,Krishna Chandran,SM Sharif,1,0,null,1,0,null,null
+210,34.3,Krishna Chandran,Rameez Shahzad,SM Sharif,2,0,null,2,0,null,null
+211,34.4,Krishna Chandran,Rameez Shahzad,SM Sharif,1,0,null,1,0,null,null
+212,34.5,Rameez Shahzad,Krishna Chandran,SM Sharif,0,0,null,0,0,null,null
+213,34.6,Rameez Shahzad,Krishna Chandran,SM Sharif,0,0,null,0,0,null,null
+214,35.1,Krishna Chandran,Rameez Shahzad,CD de Lange,1,0,null,1,0,null,null
+215,35.2,Rameez Shahzad,Krishna Chandran,CD de Lange,0,0,null,0,1,Rameez Shahzad,caught
+216,35.3,Amjad Javed,Krishna Chandran,CD de Lange,1,0,null,1,0,null,null
+217,35.4,Krishna Chandran,Amjad Javed,CD de Lange,0,0,null,0,0,null,null
+218,35.5,Krishna Chandran,Amjad Javed,CD de Lange,0,0,null,0,0,null,null
+219,35.6,Krishna Chandran,Amjad Javed,CD de Lange,0,0,null,0,0,null,null
+220,36.1,Amjad Javed,Krishna Chandran,JH Davey,4,0,null,4,0,null,null
+221,36.2,Amjad Javed,Krishna Chandran,JH Davey,0,0,null,0,0,null,null
+222,36.3,Amjad Javed,Krishna Chandran,JH Davey,0,0,null,0,0,null,null
+223,36.4,Amjad Javed,Krishna Chandran,JH Davey,0,0,null,0,0,null,null
+224,36.5,Amjad Javed,Krishna Chandran,JH Davey,1,0,null,1,0,null,null
+225,36.6,Krishna Chandran,Amjad Javed,JH Davey,1,0,null,1,0,null,null
+226,37.1,Krishna Chandran,Amjad Javed,MA Leask,0,0,null,0,0,null,null
+227,37.2,Krishna Chandran,Amjad Javed,MA Leask,0,0,null,0,0,null,null
+228,37.3,Krishna Chandran,Amjad Javed,MA Leask,1,0,null,1,0,null,null
+229,37.4,Amjad Javed,Krishna Chandran,MA Leask,6,0,null,6,0,null,null
+230,37.5,Amjad Javed,Krishna Chandran,MA Leask,1,0,null,1,0,null,null
+231,37.6,Krishna Chandran,Amjad Javed,MA Leask,0,0,null,0,0,null,null
+232,38.1,Amjad Javed,Krishna Chandran,JH Davey,2,0,null,2,0,null,null
+233,38.2,Amjad Javed,Krishna Chandran,JH Davey,0,0,null,0,0,null,null
+234,38.3,Amjad Javed,Krishna Chandran,JH Davey,0,0,null,0,0,null,null
+235,38.4,Amjad Javed,Krishna Chandran,JH Davey,0,0,null,0,0,null,null
+236,38.5,Amjad Javed,Krishna Chandran,JH Davey,6,0,null,6,0,null,null
+237,38.6,Amjad Javed,Krishna Chandran,JH Davey,0,0,null,0,0,null,null
+238,39.1,Krishna Chandran,Amjad Javed,CD de Lange,1,0,null,1,0,null,null
+239,39.2,Amjad Javed,Krishna Chandran,CD de Lange,1,0,null,1,0,null,null
+240,39.3,Krishna Chandran,Amjad Javed,CD de Lange,0,0,null,0,0,null,null
+241,39.4,Krishna Chandran,Amjad Javed,CD de Lange,0,0,null,0,0,null,null
+242,39.5,Krishna Chandran,Amjad Javed,CD de Lange,0,0,null,0,0,null,null
+243,39.6,Krishna Chandran,Amjad Javed,CD de Lange,4,0,null,4,0,null,null
+244,40.1,Amjad Javed,Krishna Chandran,AC Evans,6,0,null,6,0,null,null
+245,40.2,Amjad Javed,Krishna Chandran,AC Evans,4,0,null,4,0,null,null
+246,40.3,Amjad Javed,Krishna Chandran,AC Evans,0,1,wides ,1,0,null,null
+247,40.4,Amjad Javed,Krishna Chandran,AC Evans,0,0,null,0,0,null,null
+248,40.5,Amjad Javed,Krishna Chandran,AC Evans,0,0,null,0,1,Amjad Javed,caught
+249,40.6,Saqlain Haider,Krishna Chandran,AC Evans,0,0,null,0,0,null,null
+250,40.7,Saqlain Haider,Krishna Chandran,AC Evans,1,0,null,1,0,null,null
+251,41.1,Saqlain Haider,Krishna Chandran,MA Leask,4,0,null,4,0,null,null
+252,41.2,Saqlain Haider,Krishna Chandran,MA Leask,4,0,null,4,0,null,null
+253,41.3,Saqlain Haider,Krishna Chandran,MA Leask,0,0,null,0,0,null,null
+254,41.4,Saqlain Haider,Krishna Chandran,MA Leask,1,0,null,1,0,null,null
+255,41.5,Krishna Chandran,Saqlain Haider,MA Leask,0,0,null,0,0,null,null
+256,41.6,Krishna Chandran,Saqlain Haider,MA Leask,1,0,null,1,0,null,null
+257,42.1,Krishna Chandran,Saqlain Haider,AC Evans,1,0,null,1,0,null,null
+258,42.2,Saqlain Haider,Krishna Chandran,AC Evans,1,0,null,1,0,null,null
+259,42.3,Krishna Chandran,Saqlain Haider,AC Evans,0,0,null,0,0,null,null
+260,42.4,Krishna Chandran,Saqlain Haider,AC Evans,0,0,null,0,0,null,null
+261,42.5,Krishna Chandran,Saqlain Haider,AC Evans,0,0,null,0,0,null,null
+262,42.6,Krishna Chandran,Saqlain Haider,AC Evans,0,0,null,0,1,Krishna Chandran,caught
+263,43.1,Ahmed Raza,Saqlain Haider,MA Leask,0,0,null,0,0,null,null
+264,43.2,Ahmed Raza,Saqlain Haider,MA Leask,1,0,null,1,0,null,null
+265,43.3,Saqlain Haider,Ahmed Raza,MA Leask,0,0,null,0,1,Saqlain Haider,caught

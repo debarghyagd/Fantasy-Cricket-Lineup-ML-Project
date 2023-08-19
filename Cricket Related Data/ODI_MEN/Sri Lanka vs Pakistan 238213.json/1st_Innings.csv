@@ -1,0 +1,309 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Salman Butt,Kamran Akmal,SL Malinga,0,0,null,0,0,null,null
+1,0.2,Salman Butt,Kamran Akmal,SL Malinga,0,0,null,0,0,null,null
+2,0.3,Salman Butt,Kamran Akmal,SL Malinga,0,0,null,0,0,null,null
+3,0.4,Salman Butt,Kamran Akmal,SL Malinga,2,0,null,2,0,null,null
+4,0.5,Salman Butt,Kamran Akmal,SL Malinga,0,0,null,0,0,null,null
+5,0.6,Salman Butt,Kamran Akmal,SL Malinga,0,0,null,0,0,null,null
+6,1.1,Kamran Akmal,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+7,1.2,Kamran Akmal,Salman Butt,MF Maharoof,4,0,null,4,0,null,null
+8,1.3,Kamran Akmal,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+9,1.4,Kamran Akmal,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+10,1.5,Kamran Akmal,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+11,1.6,Kamran Akmal,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+12,2.1,Salman Butt,Kamran Akmal,SL Malinga,0,0,null,0,0,null,null
+13,2.2,Salman Butt,Kamran Akmal,SL Malinga,1,0,null,1,0,null,null
+14,2.3,Kamran Akmal,Salman Butt,SL Malinga,0,0,null,0,0,null,null
+15,2.4,Kamran Akmal,Salman Butt,SL Malinga,1,0,null,1,0,null,null
+16,2.5,Salman Butt,Kamran Akmal,SL Malinga,0,0,null,0,0,null,null
+17,2.6,Salman Butt,Kamran Akmal,SL Malinga,0,0,null,0,0,null,null
+18,3.1,Kamran Akmal,Salman Butt,MF Maharoof,0,0,null,0,1,Kamran Akmal,bowled
+19,3.2,Shoaib Malik,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+20,3.3,Shoaib Malik,Salman Butt,MF Maharoof,1,0,null,1,0,null,null
+21,3.4,Salman Butt,Shoaib Malik,MF Maharoof,0,0,null,0,0,null,null
+22,3.5,Salman Butt,Shoaib Malik,MF Maharoof,2,0,null,2,0,null,null
+23,3.6,Salman Butt,Shoaib Malik,MF Maharoof,0,0,null,0,0,null,null
+24,4.1,Shoaib Malik,Salman Butt,SL Malinga,0,0,null,0,0,null,null
+25,4.2,Shoaib Malik,Salman Butt,SL Malinga,1,0,null,1,0,null,null
+26,4.3,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+27,4.4,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+28,4.5,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+29,4.6,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+30,5.1,Shoaib Malik,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+31,5.2,Shoaib Malik,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+32,5.3,Shoaib Malik,Salman Butt,MF Maharoof,0,1,wides ,1,0,null,null
+33,5.4,Shoaib Malik,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+34,5.5,Shoaib Malik,Salman Butt,MF Maharoof,1,0,null,1,0,null,null
+35,5.6,Salman Butt,Shoaib Malik,MF Maharoof,1,0,null,1,0,null,null
+36,5.7,Shoaib Malik,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+37,6.1,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+38,6.2,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+39,6.3,Salman Butt,Shoaib Malik,SL Malinga,4,0,null,4,0,null,null
+40,6.4,Salman Butt,Shoaib Malik,SL Malinga,4,0,null,4,0,null,null
+41,6.5,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+42,6.6,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+43,7.1,Shoaib Malik,Salman Butt,MF Maharoof,2,0,null,2,0,null,null
+44,7.2,Shoaib Malik,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+45,7.3,Shoaib Malik,Salman Butt,MF Maharoof,1,0,null,1,0,null,null
+46,7.4,Salman Butt,Shoaib Malik,MF Maharoof,0,0,null,0,0,null,null
+47,7.5,Salman Butt,Shoaib Malik,MF Maharoof,0,0,null,0,0,null,null
+48,7.6,Salman Butt,Shoaib Malik,MF Maharoof,0,0,null,0,0,null,null
+49,8.1,Shoaib Malik,Salman Butt,SL Malinga,0,0,null,0,0,null,null
+50,8.2,Shoaib Malik,Salman Butt,SL Malinga,1,0,null,1,0,null,null
+51,8.3,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+52,8.4,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+53,8.5,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+54,8.6,Salman Butt,Shoaib Malik,SL Malinga,0,0,null,0,0,null,null
+55,9.1,Shoaib Malik,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+56,9.2,Shoaib Malik,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+57,9.3,Shoaib Malik,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+58,9.4,Shoaib Malik,Salman Butt,MF Maharoof,0,0,null,0,1,Shoaib Malik,bowled
+59,9.5,Mohammad Yousuf,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+60,9.6,Mohammad Yousuf,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+61,10.1,Salman Butt,Mohammad Yousuf,KTGD Prasad,1,1,noballs ,2,0,null,null
+62,10.2,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,1,wides ,1,0,null,null
+63,10.3,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+64,10.4,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+65,10.5,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+66,10.6,Mohammad Yousuf,Salman Butt,KTGD Prasad,1,0,null,1,0,null,null
+67,10.7,Salman Butt,Mohammad Yousuf,KTGD Prasad,0,0,null,0,0,null,null
+68,10.8,Salman Butt,Mohammad Yousuf,KTGD Prasad,1,0,null,1,0,null,null
+69,11.1,Salman Butt,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+70,11.2,Salman Butt,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+71,11.3,Salman Butt,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+72,11.4,Salman Butt,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+73,11.5,Salman Butt,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+74,11.6,Salman Butt,Mohammad Yousuf,MF Maharoof,0,1,noballs ,1,0,null,null
+75,11.7,Salman Butt,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+76,12.1,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+77,12.2,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+78,12.3,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+79,12.4,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,1,noballs ,1,0,null,null
+80,12.5,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+81,12.6,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,1,noballs ,1,0,null,null
+82,12.7,Mohammad Yousuf,Salman Butt,KTGD Prasad,4,0,null,4,0,null,null
+83,12.8,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+84,13.1,Salman Butt,Mohammad Yousuf,MF Maharoof,0,1,legbyes ,1,0,null,null
+85,13.2,Mohammad Yousuf,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+86,13.3,Mohammad Yousuf,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+87,13.4,Mohammad Yousuf,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+88,13.5,Mohammad Yousuf,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+89,13.6,Mohammad Yousuf,Salman Butt,MF Maharoof,1,0,null,1,0,null,null
+90,14.1,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+91,14.2,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+92,14.3,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+93,14.4,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+94,14.5,Mohammad Yousuf,Salman Butt,KTGD Prasad,2,0,null,2,0,null,null
+95,14.6,Mohammad Yousuf,Salman Butt,KTGD Prasad,0,0,null,0,0,null,null
+96,15.1,Salman Butt,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+97,15.2,Salman Butt,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+98,15.3,Salman Butt,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+99,15.4,Salman Butt,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+100,15.5,Salman Butt,Mohammad Yousuf,MF Maharoof,1,0,null,1,0,null,null
+101,15.6,Mohammad Yousuf,Salman Butt,MF Maharoof,0,0,null,0,0,null,null
+102,16.1,Salman Butt,Mohammad Yousuf,KTGD Prasad,2,0,null,2,0,null,null
+103,16.2,Salman Butt,Mohammad Yousuf,KTGD Prasad,0,0,null,0,0,null,null
+104,16.3,Salman Butt,Mohammad Yousuf,KTGD Prasad,0,0,null,0,0,null,null
+105,16.4,Salman Butt,Mohammad Yousuf,KTGD Prasad,0,0,null,0,0,null,null
+106,16.5,Salman Butt,Mohammad Yousuf,KTGD Prasad,4,0,null,4,0,null,null
+107,16.6,Salman Butt,Mohammad Yousuf,KTGD Prasad,0,0,null,0,0,null,null
+108,17.1,Mohammad Yousuf,Salman Butt,M Muralitharan,0,0,null,0,0,null,null
+109,17.2,Mohammad Yousuf,Salman Butt,M Muralitharan,0,0,null,0,0,null,null
+110,17.3,Mohammad Yousuf,Salman Butt,M Muralitharan,0,0,null,0,0,null,null
+111,17.4,Mohammad Yousuf,Salman Butt,M Muralitharan,0,0,null,0,0,null,null
+112,17.5,Mohammad Yousuf,Salman Butt,M Muralitharan,0,0,null,0,0,null,null
+113,17.6,Mohammad Yousuf,Salman Butt,M Muralitharan,0,0,null,0,0,null,null
+114,18.1,Salman Butt,Mohammad Yousuf,SL Malinga,0,0,null,0,0,null,null
+115,18.2,Salman Butt,Mohammad Yousuf,SL Malinga,0,0,null,0,0,null,null
+116,18.3,Salman Butt,Mohammad Yousuf,SL Malinga,0,0,null,0,0,null,null
+117,18.4,Salman Butt,Mohammad Yousuf,SL Malinga,0,0,null,0,0,null,null
+118,18.5,Salman Butt,Mohammad Yousuf,SL Malinga,0,0,null,0,0,null,null
+119,18.6,Salman Butt,Mohammad Yousuf,SL Malinga,0,0,null,0,0,null,null
+120,19.1,Mohammad Yousuf,Salman Butt,M Muralitharan,1,0,null,1,0,null,null
+121,19.2,Salman Butt,Mohammad Yousuf,M Muralitharan,0,0,null,0,0,null,null
+122,19.3,Salman Butt,Mohammad Yousuf,M Muralitharan,1,0,null,1,0,null,null
+123,19.4,Mohammad Yousuf,Salman Butt,M Muralitharan,0,0,null,0,0,null,null
+124,19.5,Mohammad Yousuf,Salman Butt,M Muralitharan,0,0,null,0,0,null,null
+125,19.6,Mohammad Yousuf,Salman Butt,M Muralitharan,0,0,null,0,0,null,null
+126,20.1,Salman Butt,Mohammad Yousuf,SL Malinga,2,0,null,2,0,null,null
+127,20.2,Salman Butt,Mohammad Yousuf,SL Malinga,0,0,null,0,0,null,null
+128,20.3,Salman Butt,Mohammad Yousuf,SL Malinga,0,0,null,0,1,Salman Butt,caught
+129,20.4,Inzamam-ul-Haq,Mohammad Yousuf,SL Malinga,0,0,null,0,0,null,null
+130,20.5,Inzamam-ul-Haq,Mohammad Yousuf,SL Malinga,0,0,null,0,0,null,null
+131,20.6,Inzamam-ul-Haq,Mohammad Yousuf,SL Malinga,1,0,null,1,0,null,null
+132,21.1,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,0,0,null,0,0,null,null
+133,21.2,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,0,0,null,0,0,null,null
+134,21.3,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,0,1,legbyes ,1,0,null,null
+135,21.4,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,2,0,null,2,0,null,null
+136,21.5,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,1,0,null,1,0,null,null
+137,21.6,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,0,0,null,0,0,null,null
+138,22.1,Mohammad Yousuf,Inzamam-ul-Haq,KTGD Prasad,1,0,null,1,0,null,null
+139,22.2,Inzamam-ul-Haq,Mohammad Yousuf,KTGD Prasad,0,0,null,0,0,null,null
+140,22.3,Inzamam-ul-Haq,Mohammad Yousuf,KTGD Prasad,0,0,null,0,0,null,null
+141,22.4,Inzamam-ul-Haq,Mohammad Yousuf,KTGD Prasad,2,0,null,2,0,null,null
+142,22.5,Inzamam-ul-Haq,Mohammad Yousuf,KTGD Prasad,1,0,null,1,0,null,null
+143,22.6,Mohammad Yousuf,Inzamam-ul-Haq,KTGD Prasad,0,0,null,0,0,null,null
+144,23.1,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,4,0,null,4,0,null,null
+145,23.2,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,0,0,null,0,0,null,null
+146,23.3,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,0,0,null,0,0,null,null
+147,23.4,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,0,0,null,0,0,null,null
+148,23.5,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,0,0,null,0,0,null,null
+149,23.6,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,0,0,null,0,0,null,null
+150,24.1,Mohammad Yousuf,Inzamam-ul-Haq,KTGD Prasad,0,0,null,0,0,null,null
+151,24.2,Mohammad Yousuf,Inzamam-ul-Haq,KTGD Prasad,4,0,null,4,0,null,null
+152,24.3,Mohammad Yousuf,Inzamam-ul-Haq,KTGD Prasad,1,0,null,1,0,null,null
+153,24.4,Inzamam-ul-Haq,Mohammad Yousuf,KTGD Prasad,2,0,null,2,0,null,null
+154,24.5,Inzamam-ul-Haq,Mohammad Yousuf,KTGD Prasad,1,0,null,1,0,null,null
+155,24.6,Mohammad Yousuf,Inzamam-ul-Haq,KTGD Prasad,1,0,null,1,0,null,null
+156,25.1,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,2,0,null,2,0,null,null
+157,25.2,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,0,0,null,0,0,null,null
+158,25.3,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,0,0,null,0,0,null,null
+159,25.4,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,4,0,null,4,0,null,null
+160,25.5,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,1,0,null,1,0,null,null
+161,25.6,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,1,0,null,1,0,null,null
+162,26.1,Inzamam-ul-Haq,Mohammad Yousuf,KS Lokuarachchi,0,0,null,0,0,null,null
+163,26.2,Inzamam-ul-Haq,Mohammad Yousuf,KS Lokuarachchi,1,0,null,1,0,null,null
+164,26.3,Mohammad Yousuf,Inzamam-ul-Haq,KS Lokuarachchi,1,0,null,1,0,null,null
+165,26.4,Inzamam-ul-Haq,Mohammad Yousuf,KS Lokuarachchi,1,0,null,1,0,null,null
+166,26.5,Mohammad Yousuf,Inzamam-ul-Haq,KS Lokuarachchi,1,0,null,1,0,null,null
+167,26.6,Inzamam-ul-Haq,Mohammad Yousuf,KS Lokuarachchi,0,0,null,0,0,null,null
+168,27.1,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,2,0,null,2,0,null,null
+169,27.2,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,0,0,null,0,0,null,null
+170,27.3,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,0,0,null,0,0,null,null
+171,27.4,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,0,0,null,0,0,null,null
+172,27.5,Mohammad Yousuf,Inzamam-ul-Haq,M Muralitharan,1,0,null,1,0,null,null
+173,27.6,Inzamam-ul-Haq,Mohammad Yousuf,M Muralitharan,1,0,null,1,0,null,null
+174,28.1,Inzamam-ul-Haq,Mohammad Yousuf,KS Lokuarachchi,1,0,null,1,0,null,null
+175,28.2,Mohammad Yousuf,Inzamam-ul-Haq,KS Lokuarachchi,0,0,null,0,0,null,null
+176,28.3,Mohammad Yousuf,Inzamam-ul-Haq,KS Lokuarachchi,1,0,null,1,0,null,null
+177,28.4,Inzamam-ul-Haq,Mohammad Yousuf,KS Lokuarachchi,1,0,null,1,0,null,null
+178,28.5,Mohammad Yousuf,Inzamam-ul-Haq,KS Lokuarachchi,1,0,null,1,0,null,null
+179,28.6,Inzamam-ul-Haq,Mohammad Yousuf,KS Lokuarachchi,1,0,null,1,0,null,null
+180,29.1,Inzamam-ul-Haq,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+181,29.2,Inzamam-ul-Haq,Mohammad Yousuf,MF Maharoof,2,0,null,2,0,null,null
+182,29.3,Inzamam-ul-Haq,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+183,29.4,Inzamam-ul-Haq,Mohammad Yousuf,MF Maharoof,0,0,null,0,0,null,null
+184,29.5,Inzamam-ul-Haq,Mohammad Yousuf,MF Maharoof,1,0,null,1,0,null,null
+185,29.6,Mohammad Yousuf,Inzamam-ul-Haq,MF Maharoof,2,0,null,2,0,null,null
+186,30.1,Inzamam-ul-Haq,Mohammad Yousuf,KS Lokuarachchi,0,0,null,0,0,null,null
+187,30.2,Inzamam-ul-Haq,Mohammad Yousuf,KS Lokuarachchi,0,0,null,0,0,null,null
+188,30.3,Inzamam-ul-Haq,Mohammad Yousuf,KS Lokuarachchi,1,0,null,1,0,null,null
+189,30.4,Mohammad Yousuf,Inzamam-ul-Haq,KS Lokuarachchi,1,0,null,1,0,null,null
+190,30.5,Inzamam-ul-Haq,Mohammad Yousuf,KS Lokuarachchi,1,0,null,1,0,null,null
+191,30.6,Mohammad Yousuf,Inzamam-ul-Haq,KS Lokuarachchi,0,0,null,0,0,null,null
+192,31.1,Inzamam-ul-Haq,Mohammad Yousuf,MF Maharoof,1,0,null,1,0,null,null
+193,31.2,Mohammad Yousuf,Inzamam-ul-Haq,MF Maharoof,0,0,null,0,0,null,null
+194,31.3,Mohammad Yousuf,Inzamam-ul-Haq,MF Maharoof,0,0,null,0,0,null,null
+195,31.4,Mohammad Yousuf,Inzamam-ul-Haq,MF Maharoof,1,0,null,1,0,null,null
+196,31.5,Inzamam-ul-Haq,Mohammad Yousuf,MF Maharoof,0,0,null,0,1,Inzamam-ul-Haq,caught
+197,31.6,Younis Khan,Mohammad Yousuf,MF Maharoof,1,0,null,1,0,null,null
+198,32.1,Younis Khan,Mohammad Yousuf,KS Lokuarachchi,0,0,null,0,0,null,null
+199,32.2,Younis Khan,Mohammad Yousuf,KS Lokuarachchi,1,0,null,1,0,null,null
+200,32.3,Mohammad Yousuf,Younis Khan,KS Lokuarachchi,0,0,null,0,0,null,null
+201,32.4,Mohammad Yousuf,Younis Khan,KS Lokuarachchi,1,0,null,1,0,null,null
+202,32.5,Younis Khan,Mohammad Yousuf,KS Lokuarachchi,0,0,null,0,0,null,null
+203,32.6,Younis Khan,Mohammad Yousuf,KS Lokuarachchi,0,0,null,0,0,null,null
+204,33.1,Mohammad Yousuf,Younis Khan,M Muralitharan,0,0,null,0,0,null,null
+205,33.2,Mohammad Yousuf,Younis Khan,M Muralitharan,0,0,null,0,0,null,null
+206,33.3,Mohammad Yousuf,Younis Khan,M Muralitharan,0,0,null,0,0,null,null
+207,33.4,Mohammad Yousuf,Younis Khan,M Muralitharan,2,0,null,2,0,null,null
+208,33.5,Mohammad Yousuf,Younis Khan,M Muralitharan,1,0,null,1,0,null,null
+209,33.6,Younis Khan,Mohammad Yousuf,M Muralitharan,1,0,null,1,0,null,null
+210,34.1,Younis Khan,Mohammad Yousuf,KS Lokuarachchi,1,0,null,1,0,null,null
+211,34.2,Mohammad Yousuf,Younis Khan,KS Lokuarachchi,1,0,null,1,0,null,null
+212,34.3,Younis Khan,Mohammad Yousuf,KS Lokuarachchi,1,0,null,1,0,null,null
+213,34.4,Mohammad Yousuf,Younis Khan,KS Lokuarachchi,4,0,null,4,0,null,null
+214,34.5,Mohammad Yousuf,Younis Khan,KS Lokuarachchi,0,0,null,0,0,null,null
+215,34.6,Mohammad Yousuf,Younis Khan,KS Lokuarachchi,0,0,null,0,1,Mohammad Yousuf,caught
+216,35.1,Younis Khan,Shahid Afridi,M Muralitharan,0,0,null,0,0,null,null
+217,35.2,Younis Khan,Shahid Afridi,M Muralitharan,1,0,null,1,0,null,null
+218,35.3,Shahid Afridi,Younis Khan,M Muralitharan,0,0,null,0,0,null,null
+219,35.4,Shahid Afridi,Younis Khan,M Muralitharan,1,0,null,1,0,null,null
+220,35.5,Younis Khan,Shahid Afridi,M Muralitharan,0,0,null,0,0,null,null
+221,35.6,Younis Khan,Shahid Afridi,M Muralitharan,2,0,null,2,0,null,null
+222,36.1,Shahid Afridi,Younis Khan,KS Lokuarachchi,0,0,null,0,0,null,null
+223,36.2,Shahid Afridi,Younis Khan,KS Lokuarachchi,1,0,null,1,0,null,null
+224,36.3,Younis Khan,Shahid Afridi,KS Lokuarachchi,0,0,null,0,0,null,null
+225,36.4,Younis Khan,Shahid Afridi,KS Lokuarachchi,1,0,null,1,0,null,null
+226,36.5,Shahid Afridi,Younis Khan,KS Lokuarachchi,0,0,null,0,1,Shahid Afridi,lbw
+227,36.6,Abdul Razzaq,Younis Khan,KS Lokuarachchi,0,0,null,0,0,null,null
+228,37.1,Younis Khan,Abdul Razzaq,SL Malinga,1,0,null,1,0,null,null
+229,37.2,Abdul Razzaq,Younis Khan,SL Malinga,0,0,null,0,0,null,null
+230,37.3,Abdul Razzaq,Younis Khan,SL Malinga,0,0,null,0,0,null,null
+231,37.4,Abdul Razzaq,Younis Khan,SL Malinga,0,0,null,0,0,null,null
+232,37.5,Abdul Razzaq,Younis Khan,SL Malinga,0,0,null,0,0,null,null
+233,37.6,Abdul Razzaq,Younis Khan,SL Malinga,1,0,null,1,0,null,null
+234,38.1,Abdul Razzaq,Younis Khan,KS Lokuarachchi,1,0,null,1,0,null,null
+235,38.2,Younis Khan,Abdul Razzaq,KS Lokuarachchi,1,0,null,1,0,null,null
+236,38.3,Abdul Razzaq,Younis Khan,KS Lokuarachchi,0,0,null,0,0,null,null
+237,38.4,Abdul Razzaq,Younis Khan,KS Lokuarachchi,1,0,null,1,0,null,null
+238,38.5,Younis Khan,Abdul Razzaq,KS Lokuarachchi,1,0,null,1,0,null,null
+239,38.6,Abdul Razzaq,Younis Khan,KS Lokuarachchi,1,0,null,1,0,null,null
+240,39.1,Abdul Razzaq,Younis Khan,KTGD Prasad,1,0,null,1,0,null,null
+241,39.2,Younis Khan,Abdul Razzaq,KTGD Prasad,0,0,null,0,0,null,null
+242,39.3,Younis Khan,Abdul Razzaq,KTGD Prasad,0,0,null,0,0,null,null
+243,39.4,Younis Khan,Abdul Razzaq,KTGD Prasad,1,0,null,1,0,null,null
+244,39.5,Abdul Razzaq,Younis Khan,KTGD Prasad,0,0,null,0,0,null,null
+245,39.6,Abdul Razzaq,Younis Khan,KTGD Prasad,1,0,null,1,0,null,null
+246,40.1,Abdul Razzaq,Younis Khan,KS Lokuarachchi,0,0,null,0,0,null,null
+247,40.2,Abdul Razzaq,Younis Khan,KS Lokuarachchi,6,0,null,6,0,null,null
+248,40.3,Abdul Razzaq,Younis Khan,KS Lokuarachchi,0,0,null,0,0,null,null
+249,40.4,Abdul Razzaq,Younis Khan,KS Lokuarachchi,1,0,null,1,0,null,null
+250,40.5,Younis Khan,Abdul Razzaq,KS Lokuarachchi,0,0,null,0,0,null,null
+251,40.6,Younis Khan,Abdul Razzaq,KS Lokuarachchi,1,0,null,1,0,null,null
+252,41.1,Younis Khan,Abdul Razzaq,M Muralitharan,1,0,null,1,0,null,null
+253,41.2,Abdul Razzaq,Younis Khan,M Muralitharan,0,0,null,0,0,null,null
+254,41.3,Abdul Razzaq,Younis Khan,M Muralitharan,0,0,null,0,0,null,null
+255,41.4,Abdul Razzaq,Younis Khan,M Muralitharan,0,0,null,0,0,null,null
+256,41.5,Abdul Razzaq,Younis Khan,M Muralitharan,0,0,null,0,0,null,null
+257,41.6,Abdul Razzaq,Younis Khan,M Muralitharan,0,0,null,0,0,null,null
+258,42.1,Younis Khan,Abdul Razzaq,KTGD Prasad,0,0,null,0,0,null,null
+259,42.2,Younis Khan,Abdul Razzaq,KTGD Prasad,1,0,null,1,0,null,null
+260,42.3,Abdul Razzaq,Younis Khan,KTGD Prasad,0,0,null,0,0,null,null
+261,42.4,Abdul Razzaq,Younis Khan,KTGD Prasad,1,0,null,1,0,null,null
+262,42.5,Younis Khan,Abdul Razzaq,KTGD Prasad,0,0,null,0,0,null,null
+263,42.6,Younis Khan,Abdul Razzaq,KTGD Prasad,1,0,null,1,0,null,null
+264,43.1,Younis Khan,Abdul Razzaq,M Muralitharan,0,0,null,0,0,null,null
+265,43.2,Younis Khan,Abdul Razzaq,M Muralitharan,1,0,null,1,0,null,null
+266,43.3,Abdul Razzaq,Younis Khan,M Muralitharan,1,0,null,1,0,null,null
+267,43.4,Younis Khan,Abdul Razzaq,M Muralitharan,0,0,null,0,0,null,null
+268,43.5,Younis Khan,Abdul Razzaq,M Muralitharan,1,0,null,1,0,null,null
+269,43.6,Abdul Razzaq,Younis Khan,M Muralitharan,0,0,null,0,0,null,null
+270,44.1,Younis Khan,Abdul Razzaq,KTGD Prasad,1,0,null,1,0,null,null
+271,44.2,Abdul Razzaq,Younis Khan,KTGD Prasad,0,0,null,0,0,null,null
+272,44.3,Abdul Razzaq,Younis Khan,KTGD Prasad,2,0,null,2,0,null,null
+273,44.4,Abdul Razzaq,Younis Khan,KTGD Prasad,1,1,noballs ,2,0,null,null
+274,44.5,Younis Khan,Abdul Razzaq,KTGD Prasad,1,0,null,1,0,null,null
+275,44.6,Abdul Razzaq,Younis Khan,KTGD Prasad,6,0,null,6,0,null,null
+276,44.7,Abdul Razzaq,Younis Khan,KTGD Prasad,1,0,null,1,0,null,null
+277,45.1,Abdul Razzaq,Younis Khan,KS Lokuarachchi,0,0,null,0,0,null,null
+278,45.2,Abdul Razzaq,Younis Khan,KS Lokuarachchi,1,0,null,1,0,null,null
+279,45.3,Younis Khan,Abdul Razzaq,KS Lokuarachchi,2,0,null,2,0,null,null
+280,45.4,Younis Khan,Abdul Razzaq,KS Lokuarachchi,0,0,null,0,0,null,null
+281,45.5,Younis Khan,Abdul Razzaq,KS Lokuarachchi,1,0,null,1,0,null,null
+282,45.6,Abdul Razzaq,Younis Khan,KS Lokuarachchi,1,0,null,1,0,null,null
+283,46.1,Abdul Razzaq,Younis Khan,SL Malinga,0,0,null,0,0,null,null
+284,46.2,Abdul Razzaq,Younis Khan,SL Malinga,2,0,null,2,0,null,null
+285,46.3,Abdul Razzaq,Younis Khan,SL Malinga,1,0,null,1,0,null,null
+286,46.4,Younis Khan,Abdul Razzaq,SL Malinga,2,0,null,2,0,null,null
+287,46.5,Younis Khan,Abdul Razzaq,SL Malinga,1,0,null,1,0,null,null
+288,46.6,Abdul Razzaq,Younis Khan,SL Malinga,1,0,null,1,0,null,null
+289,47.1,Abdul Razzaq,Younis Khan,KS Lokuarachchi,1,0,null,1,0,null,null
+290,47.2,Younis Khan,Abdul Razzaq,KS Lokuarachchi,1,0,null,1,0,null,null
+291,47.3,Abdul Razzaq,Younis Khan,KS Lokuarachchi,0,0,null,0,1,Abdul Razzaq,caught
+292,47.4,Younis Khan,Naved-ul-Hasan,KS Lokuarachchi,1,0,null,1,0,null,null
+293,47.5,Naved-ul-Hasan,Younis Khan,KS Lokuarachchi,1,0,null,1,0,null,null
+294,47.6,Younis Khan,Naved-ul-Hasan,KS Lokuarachchi,2,0,null,2,0,null,null
+295,48.1,Naved-ul-Hasan,Younis Khan,SL Malinga,0,1,wides ,1,0,null,null
+296,48.2,Naved-ul-Hasan,Younis Khan,SL Malinga,1,0,null,1,0,null,null
+297,48.3,Younis Khan,Naved-ul-Hasan,SL Malinga,4,0,null,4,0,null,null
+298,48.4,Younis Khan,Naved-ul-Hasan,SL Malinga,2,0,null,2,0,null,null
+299,48.5,Younis Khan,Naved-ul-Hasan,SL Malinga,1,0,null,1,0,null,null
+300,48.6,Naved-ul-Hasan,Younis Khan,SL Malinga,1,0,null,1,0,null,null
+301,48.7,Younis Khan,Naved-ul-Hasan,SL Malinga,2,0,null,2,0,null,null
+302,49.1,Naved-ul-Hasan,Younis Khan,KTGD Prasad,1,0,null,1,0,null,null
+303,49.2,Younis Khan,Naved-ul-Hasan,KTGD Prasad,1,0,null,1,0,null,null
+304,49.3,Naved-ul-Hasan,Younis Khan,KTGD Prasad,0,1,byes ,1,0,null,null
+305,49.4,Younis Khan,Naved-ul-Hasan,KTGD Prasad,0,0,null,0,1,Younis Khan,bowled
+306,49.5,Iftikhar Anjum,Naved-ul-Hasan,KTGD Prasad,1,0,null,1,0,null,null
+307,49.6,Naved-ul-Hasan,Iftikhar Anjum,KTGD Prasad,0,2,byes ,2,0,null,null

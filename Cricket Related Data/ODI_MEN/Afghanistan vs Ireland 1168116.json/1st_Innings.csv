@@ -1,0 +1,294 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Hazratullah,Javed Ahmadi,TJ Murtagh,0,0,null,0,0,null,null
+1,0.2,Hazratullah,Javed Ahmadi,TJ Murtagh,6,0,null,6,0,null,null
+2,0.3,Hazratullah,Javed Ahmadi,TJ Murtagh,0,0,null,0,0,null,null
+3,0.4,Hazratullah,Javed Ahmadi,TJ Murtagh,1,0,null,1,0,null,null
+4,0.5,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+5,0.6,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+6,1.1,Hazratullah,Javed Ahmadi,AR McBrine,0,0,null,0,0,null,null
+7,1.2,Hazratullah,Javed Ahmadi,AR McBrine,0,0,null,0,0,null,null
+8,1.3,Hazratullah,Javed Ahmadi,AR McBrine,1,0,null,1,0,null,null
+9,1.4,Javed Ahmadi,Hazratullah,AR McBrine,0,0,null,0,0,null,null
+10,1.5,Javed Ahmadi,Hazratullah,AR McBrine,0,0,null,0,0,null,null
+11,1.6,Javed Ahmadi,Hazratullah,AR McBrine,0,0,null,0,0,null,null
+12,2.1,Hazratullah,Javed Ahmadi,TJ Murtagh,1,0,null,1,0,null,null
+13,2.2,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+14,2.3,Javed Ahmadi,Hazratullah,TJ Murtagh,1,0,null,1,0,null,null
+15,2.4,Hazratullah,Javed Ahmadi,TJ Murtagh,1,0,null,1,0,null,null
+16,2.5,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+17,2.6,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+18,3.1,Hazratullah,Javed Ahmadi,AR McBrine,6,0,null,6,0,null,null
+19,3.2,Hazratullah,Javed Ahmadi,AR McBrine,0,0,null,0,0,null,null
+20,3.3,Hazratullah,Javed Ahmadi,AR McBrine,1,0,null,1,0,null,null
+21,3.4,Javed Ahmadi,Hazratullah,AR McBrine,0,0,null,0,0,null,null
+22,3.5,Javed Ahmadi,Hazratullah,AR McBrine,1,0,null,1,0,null,null
+23,3.6,Hazratullah,Javed Ahmadi,AR McBrine,1,0,null,1,0,null,null
+24,4.1,Hazratullah,Javed Ahmadi,TJ Murtagh,0,0,null,0,0,null,null
+25,4.2,Hazratullah,Javed Ahmadi,TJ Murtagh,2,0,null,2,0,null,null
+26,4.3,Hazratullah,Javed Ahmadi,TJ Murtagh,1,0,null,1,0,null,null
+27,4.4,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+28,4.5,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+29,4.6,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+30,5.1,Hazratullah,Javed Ahmadi,AR McBrine,6,0,null,6,0,null,null
+31,5.2,Hazratullah,Javed Ahmadi,AR McBrine,0,0,null,0,0,null,null
+32,5.3,Hazratullah,Javed Ahmadi,AR McBrine,4,0,null,4,0,null,null
+33,5.4,Hazratullah,Javed Ahmadi,AR McBrine,4,0,null,4,0,null,null
+34,5.5,Hazratullah,Javed Ahmadi,AR McBrine,0,0,null,0,0,null,null
+35,5.6,Hazratullah,Javed Ahmadi,AR McBrine,0,0,null,0,0,null,null
+36,6.1,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+37,6.2,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+38,6.3,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+39,6.4,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+40,6.5,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+41,6.6,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+42,7.1,Hazratullah,Javed Ahmadi,WB Rankin,4,0,null,4,0,null,null
+43,7.2,Hazratullah,Javed Ahmadi,WB Rankin,1,0,null,1,0,null,null
+44,7.3,Javed Ahmadi,Hazratullah,WB Rankin,4,0,null,4,0,null,null
+45,7.4,Javed Ahmadi,Hazratullah,WB Rankin,0,0,null,0,0,null,null
+46,7.5,Javed Ahmadi,Hazratullah,WB Rankin,0,0,null,0,0,null,null
+47,7.6,Javed Ahmadi,Hazratullah,WB Rankin,0,1,legbyes ,1,0,null,null
+48,8.1,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+49,8.2,Javed Ahmadi,Hazratullah,TJ Murtagh,4,0,null,4,0,null,null
+50,8.3,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+51,8.4,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+52,8.5,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+53,8.6,Javed Ahmadi,Hazratullah,TJ Murtagh,0,0,null,0,0,null,null
+54,9.1,Hazratullah,Javed Ahmadi,WB Rankin,1,0,null,1,0,null,null
+55,9.2,Javed Ahmadi,Hazratullah,WB Rankin,1,0,null,1,0,null,null
+56,9.3,Hazratullah,Javed Ahmadi,WB Rankin,0,0,null,0,0,null,null
+57,9.4,Hazratullah,Javed Ahmadi,WB Rankin,2,0,null,2,0,null,null
+58,9.5,Hazratullah,Javed Ahmadi,WB Rankin,0,0,null,0,0,null,null
+59,9.6,Hazratullah,Javed Ahmadi,WB Rankin,0,1,wides ,1,0,null,null
+60,9.7,Hazratullah,Javed Ahmadi,WB Rankin,0,0,null,0,0,null,null
+61,10.1,Javed Ahmadi,Hazratullah,Simi Singh,1,0,null,1,0,null,null
+62,10.2,Hazratullah,Javed Ahmadi,Simi Singh,1,0,null,1,0,null,null
+63,10.3,Javed Ahmadi,Hazratullah,Simi Singh,0,0,null,0,0,null,null
+64,10.4,Javed Ahmadi,Hazratullah,Simi Singh,0,0,null,0,0,null,null
+65,10.5,Javed Ahmadi,Hazratullah,Simi Singh,0,0,null,0,0,null,null
+66,10.6,Javed Ahmadi,Hazratullah,Simi Singh,0,0,null,0,0,null,null
+67,11.1,Hazratullah,Javed Ahmadi,J Cameron-Dow,1,0,null,1,0,null,null
+68,11.2,Javed Ahmadi,Hazratullah,J Cameron-Dow,1,0,null,1,0,null,null
+69,11.3,Hazratullah,Javed Ahmadi,J Cameron-Dow,6,0,null,6,0,null,null
+70,11.4,Hazratullah,Javed Ahmadi,J Cameron-Dow,6,0,null,6,0,null,null
+71,11.5,Hazratullah,Javed Ahmadi,J Cameron-Dow,4,0,null,4,0,null,null
+72,11.6,Hazratullah,Javed Ahmadi,J Cameron-Dow,0,0,null,0,0,null,null
+73,12.1,Javed Ahmadi,Hazratullah,Simi Singh,0,0,null,0,0,null,null
+74,12.2,Javed Ahmadi,Hazratullah,Simi Singh,1,0,null,1,0,null,null
+75,12.3,Hazratullah,Javed Ahmadi,Simi Singh,0,0,null,0,0,null,null
+76,12.4,Hazratullah,Javed Ahmadi,Simi Singh,0,0,null,0,0,null,null
+77,12.5,Hazratullah,Javed Ahmadi,Simi Singh,0,0,null,0,0,null,null
+78,12.6,Hazratullah,Javed Ahmadi,Simi Singh,4,0,null,4,0,null,null
+79,13.1,Javed Ahmadi,Hazratullah,J Cameron-Dow,0,0,null,0,0,null,null
+80,13.2,Javed Ahmadi,Hazratullah,J Cameron-Dow,0,0,null,0,0,null,null
+81,13.3,Javed Ahmadi,Hazratullah,J Cameron-Dow,1,0,null,1,0,null,null
+82,13.4,Hazratullah,Javed Ahmadi,J Cameron-Dow,1,0,null,1,0,null,null
+83,13.5,Javed Ahmadi,Hazratullah,J Cameron-Dow,0,0,null,0,0,null,null
+84,13.6,Javed Ahmadi,Hazratullah,J Cameron-Dow,1,0,null,1,0,null,null
+85,14.1,Javed Ahmadi,Hazratullah,Simi Singh,4,0,null,4,0,null,null
+86,14.2,Javed Ahmadi,Hazratullah,Simi Singh,0,0,null,0,0,null,null
+87,14.3,Javed Ahmadi,Hazratullah,Simi Singh,1,0,null,1,0,null,null
+88,14.4,Hazratullah,Javed Ahmadi,Simi Singh,1,0,null,1,0,null,null
+89,14.5,Javed Ahmadi,Hazratullah,Simi Singh,0,0,null,0,0,null,null
+90,14.6,Javed Ahmadi,Hazratullah,Simi Singh,0,0,null,0,0,null,null
+91,15.1,Hazratullah,Javed Ahmadi,AR McBrine,0,0,null,0,0,null,null
+92,15.2,Hazratullah,Javed Ahmadi,AR McBrine,0,0,null,0,1,Hazratullah,caught
+93,15.3,Rahmat Shah,Javed Ahmadi,AR McBrine,1,0,null,1,0,null,null
+94,15.4,Javed Ahmadi,Rahmat Shah,AR McBrine,0,0,null,0,0,null,null
+95,15.5,Javed Ahmadi,Rahmat Shah,AR McBrine,1,0,null,1,0,null,null
+96,15.6,Rahmat Shah,Javed Ahmadi,AR McBrine,0,0,null,0,0,null,null
+97,16.1,Javed Ahmadi,Rahmat Shah,GH Dockrell,0,0,null,0,0,null,null
+98,16.2,Javed Ahmadi,Rahmat Shah,GH Dockrell,0,0,null,0,1,Javed Ahmadi,caught
+99,16.3,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,null,0,0,null,null
+100,16.4,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,null,0,0,null,null
+101,16.5,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,null,0,0,null,null
+102,16.6,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,1,0,null,1,0,null,null
+103,17.1,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,0,0,null,0,0,null,null
+104,17.2,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,null,1,0,null,null
+105,17.3,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,1,0,null,1,0,null,null
+106,17.4,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,null,1,0,null,null
+107,17.5,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,null,0,0,null,null
+108,17.6,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,null,0,0,null,null
+109,18.1,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,null,0,0,null,null
+110,18.2,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,null,0,0,null,null
+111,18.3,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,1,0,null,1,0,null,null
+112,18.4,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,null,0,0,null,null
+113,18.5,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,null,0,0,null,null
+114,18.6,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,4,0,null,4,0,null,null
+115,19.1,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,0,0,null,0,0,null,null
+116,19.2,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,0,0,null,0,0,null,null
+117,19.3,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,null,1,0,null,null
+118,19.4,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,null,0,0,null,null
+119,19.5,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,null,0,0,null,null
+120,19.6,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,1,0,null,1,0,null,null
+121,20.1,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,null,0,0,null,null
+122,20.2,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,4,0,null,4,0,null,null
+123,20.3,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,4,0,null,4,0,null,null
+124,20.4,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,1,0,null,1,0,null,null
+125,20.5,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,0,0,null,0,0,null,null
+126,20.6,Hashmatullah Shahidi,Rahmat Shah,GH Dockrell,1,0,null,1,0,null,null
+127,21.1,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,null,0,0,null,null
+128,21.2,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,null,0,0,null,null
+129,21.3,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,1,0,null,1,0,null,null
+130,21.4,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,null,0,0,null,null
+131,21.5,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,1,0,null,1,0,null,null
+132,21.6,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,null,0,0,null,null
+133,22.1,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+134,22.2,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+135,22.3,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+136,22.4,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+137,22.5,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+138,22.6,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,1,0,null,1,0,null,null
+139,23.1,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,null,0,0,null,null
+140,23.2,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,null,0,0,null,null
+141,23.3,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,null,0,0,null,null
+142,23.4,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,null,0,0,null,null
+143,23.5,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,0,0,null,0,0,null,null
+144,23.6,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,1,0,null,1,0,null,null
+145,24.1,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+146,24.2,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+147,24.3,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+148,24.4,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,1,0,null,1,0,null,null
+149,24.5,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,null,0,0,null,null
+150,24.6,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,1,0,null,1,0,null,null
+151,25.1,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,4,0,null,4,0,null,null
+152,25.2,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,1,0,null,1,0,null,null
+153,25.3,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,1,0,null,1,0,null,null
+154,25.4,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,null,0,0,null,null
+155,25.5,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,null,0,0,null,null
+156,25.6,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,null,0,0,null,null
+157,26.1,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+158,26.2,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+159,26.3,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,4,0,null,4,0,null,null
+160,26.4,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+161,26.5,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,4,0,null,4,0,null,null
+162,26.6,Rahmat Shah,Hashmatullah Shahidi,WB Rankin,1,0,null,1,0,null,null
+163,27.1,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,0,1,wides ,1,0,null,null
+164,27.2,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,0,0,null,0,0,null,null
+165,27.3,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,1,0,null,1,0,null,null
+166,27.4,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,2,0,null,2,0,null,null
+167,27.5,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,0,0,null,0,0,null,null
+168,27.6,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,0,0,null,0,0,null,null
+169,27.7,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,1,0,null,1,0,null,null
+170,28.1,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,null,1,0,null,null
+171,28.2,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,2,0,null,2,0,null,null
+172,28.3,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,null,0,0,null,null
+173,28.4,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,null,0,0,null,null
+174,28.5,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,1,0,null,1,0,null,null
+175,28.6,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,0,0,null,0,0,null,null
+176,29.1,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,4,0,null,4,0,null,null
+177,29.2,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,0,0,null,0,0,null,null
+178,29.3,Rahmat Shah,Hashmatullah Shahidi,J Cameron-Dow,1,0,null,1,0,null,null
+179,29.4,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,0,0,null,0,0,null,null
+180,29.5,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,4,0,null,4,0,null,null
+181,29.6,Hashmatullah Shahidi,Rahmat Shah,J Cameron-Dow,1,0,null,1,0,null,null
+182,30.1,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,null,1,0,null,null
+183,30.2,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,1,0,null,1,0,null,null
+184,30.3,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,1,0,null,1,0,null,null
+185,30.4,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,0,0,null,0,0,null,null
+186,30.5,Rahmat Shah,Hashmatullah Shahidi,AR McBrine,1,0,null,1,0,null,null
+187,30.6,Hashmatullah Shahidi,Rahmat Shah,AR McBrine,0,0,null,0,0,null,null
+188,31.1,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,0,0,null,0,0,null,null
+189,31.2,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,1,0,null,1,0,null,null
+190,31.3,Hashmatullah Shahidi,Rahmat Shah,TJ Murtagh,0,0,null,0,0,null,null
+191,31.4,Hashmatullah Shahidi,Rahmat Shah,TJ Murtagh,1,0,null,1,0,null,null
+192,31.5,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,0,0,null,0,0,null,null
+193,31.6,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,0,0,null,0,0,null,null
+194,32.1,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,0,0,null,0,0,null,null
+195,32.2,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,1,0,null,1,0,null,null
+196,32.3,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,1,0,null,1,0,null,null
+197,32.4,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,4,0,null,4,0,null,null
+198,32.5,Hashmatullah Shahidi,Rahmat Shah,Simi Singh,1,0,null,1,0,null,null
+199,32.6,Rahmat Shah,Hashmatullah Shahidi,Simi Singh,1,0,null,1,0,null,null
+200,33.1,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,0,0,null,0,0,null,null
+201,33.2,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,4,0,null,4,0,null,null
+202,33.3,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,1,0,null,1,0,null,null
+203,33.4,Hashmatullah Shahidi,Rahmat Shah,TJ Murtagh,1,0,null,1,0,null,null
+204,33.5,Rahmat Shah,Hashmatullah Shahidi,TJ Murtagh,1,0,null,1,0,null,null
+205,33.6,Hashmatullah Shahidi,Rahmat Shah,TJ Murtagh,1,0,null,1,0,null,null
+206,34.1,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,null,0,0,null,null
+207,34.2,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,null,0,0,null,null
+208,34.3,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,null,0,0,null,null
+209,34.4,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,null,0,0,null,null
+210,34.5,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,null,0,0,null,null
+211,34.6,Hashmatullah Shahidi,Rahmat Shah,WB Rankin,0,0,null,0,0,null,null
+212,35.1,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,4,0,null,4,0,null,null
+213,35.2,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,null,0,0,null,null
+214,35.3,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,null,0,0,null,null
+215,35.4,Rahmat Shah,Hashmatullah Shahidi,GH Dockrell,0,0,null,0,1,Rahmat Shah,bowled
+216,35.5,Asghar Stanikzai,Hashmatullah Shahidi,GH Dockrell,4,0,null,4,0,null,null
+217,35.6,Asghar Stanikzai,Hashmatullah Shahidi,GH Dockrell,4,0,null,4,0,null,null
+218,36.1,Hashmatullah Shahidi,Asghar Stanikzai,AR McBrine,0,0,null,0,0,null,null
+219,36.2,Hashmatullah Shahidi,Asghar Stanikzai,AR McBrine,1,0,null,1,0,null,null
+220,36.3,Asghar Stanikzai,Hashmatullah Shahidi,AR McBrine,0,0,null,0,1,Asghar Stanikzai,bowled
+221,36.4,Mohammad Nabi,Hashmatullah Shahidi,AR McBrine,1,0,null,1,0,null,null
+222,36.5,Hashmatullah Shahidi,Mohammad Nabi,AR McBrine,1,0,null,1,0,null,null
+223,36.6,Mohammad Nabi,Hashmatullah Shahidi,AR McBrine,1,0,null,1,0,null,null
+224,37.1,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,1,0,null,1,0,null,null
+225,37.2,Hashmatullah Shahidi,Mohammad Nabi,GH Dockrell,1,0,null,1,0,null,null
+226,37.3,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,1,0,null,1,0,null,null
+227,37.4,Hashmatullah Shahidi,Mohammad Nabi,GH Dockrell,1,0,null,1,0,null,null
+228,37.5,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,0,0,null,0,0,null,null
+229,37.6,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,0,0,null,0,0,null,null
+230,38.1,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,0,0,null,0,0,null,null
+231,38.2,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,1,0,null,1,0,null,null
+232,38.3,Mohammad Nabi,Hashmatullah Shahidi,WB Rankin,1,0,null,1,0,null,null
+233,38.4,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,1,0,null,1,0,null,null
+234,38.5,Mohammad Nabi,Hashmatullah Shahidi,WB Rankin,6,0,null,6,0,null,null
+235,38.6,Mohammad Nabi,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+236,39.1,Hashmatullah Shahidi,Mohammad Nabi,TJ Murtagh,1,0,null,1,0,null,null
+237,39.2,Mohammad Nabi,Hashmatullah Shahidi,TJ Murtagh,1,0,null,1,0,null,null
+238,39.3,Hashmatullah Shahidi,Mohammad Nabi,TJ Murtagh,1,0,null,1,0,null,null
+239,39.4,Mohammad Nabi,Hashmatullah Shahidi,TJ Murtagh,1,0,null,1,0,null,null
+240,39.5,Hashmatullah Shahidi,Mohammad Nabi,TJ Murtagh,0,0,null,0,0,null,null
+241,39.6,Hashmatullah Shahidi,Mohammad Nabi,TJ Murtagh,4,0,null,4,0,null,null
+242,40.1,Mohammad Nabi,Hashmatullah Shahidi,WB Rankin,0,0,null,0,0,null,null
+243,40.2,Mohammad Nabi,Hashmatullah Shahidi,WB Rankin,1,0,null,1,0,null,null
+244,40.3,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,0,0,null,0,0,null,null
+245,40.4,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,0,0,null,0,0,null,null
+246,40.5,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,0,0,null,0,0,null,null
+247,40.6,Hashmatullah Shahidi,Mohammad Nabi,WB Rankin,0,0,null,0,0,null,null
+248,41.1,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,2,0,null,2,0,null,null
+249,41.2,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,0,1,legbyes ,1,0,null,null
+250,41.3,Hashmatullah Shahidi,Mohammad Nabi,GH Dockrell,1,0,null,1,0,null,null
+251,41.4,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,0,0,null,0,0,null,null
+252,41.5,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,6,0,null,6,0,null,null
+253,41.6,Mohammad Nabi,Hashmatullah Shahidi,GH Dockrell,1,0,null,1,0,null,null
+254,42.1,Mohammad Nabi,Hashmatullah Shahidi,Simi Singh,1,0,null,1,0,null,null
+255,42.2,Hashmatullah Shahidi,Mohammad Nabi,Simi Singh,1,0,null,1,0,null,null
+256,42.3,Mohammad Nabi,Hashmatullah Shahidi,Simi Singh,0,0,null,0,1,Mohammad Nabi,caught
+257,42.4,Hashmatullah Shahidi,Gulbadin Naib,Simi Singh,0,0,null,0,0,null,null
+258,42.5,Hashmatullah Shahidi,Gulbadin Naib,Simi Singh,0,0,null,0,0,null,null
+259,42.6,Hashmatullah Shahidi,Gulbadin Naib,Simi Singh,1,0,null,1,0,null,null
+260,43.1,Hashmatullah Shahidi,Gulbadin Naib,GH Dockrell,1,0,null,1,0,null,null
+261,43.2,Gulbadin Naib,Hashmatullah Shahidi,GH Dockrell,0,0,null,0,0,null,null
+262,43.3,Gulbadin Naib,Hashmatullah Shahidi,GH Dockrell,1,0,null,1,0,null,null
+263,43.4,Hashmatullah Shahidi,Gulbadin Naib,GH Dockrell,1,0,null,1,0,null,null
+264,43.5,Gulbadin Naib,Hashmatullah Shahidi,GH Dockrell,1,0,null,1,0,null,null
+265,43.6,Hashmatullah Shahidi,Gulbadin Naib,GH Dockrell,1,0,null,1,0,null,null
+266,44.1,Hashmatullah Shahidi,Gulbadin Naib,WB Rankin,1,0,null,1,0,null,null
+267,44.2,Gulbadin Naib,Hashmatullah Shahidi,WB Rankin,1,0,null,1,0,null,null
+268,44.3,Hashmatullah Shahidi,Gulbadin Naib,WB Rankin,0,0,null,0,1,Hashmatullah Shahidi,caught
+269,44.4,Rashid Khan,Gulbadin Naib,WB Rankin,0,0,null,0,0,null,null
+270,44.5,Rashid Khan,Gulbadin Naib,WB Rankin,0,0,null,0,0,null,null
+271,44.6,Rashid Khan,Gulbadin Naib,WB Rankin,0,0,null,0,0,null,null
+272,45.1,Gulbadin Naib,Rashid Khan,GH Dockrell,0,0,null,0,0,null,null
+273,45.2,Gulbadin Naib,Rashid Khan,GH Dockrell,0,0,null,0,1,Gulbadin Naib,stumped
+274,45.3,Ikram Alikhil,Rashid Khan,GH Dockrell,0,0,null,0,0,null,null
+275,45.4,Ikram Alikhil,Rashid Khan,GH Dockrell,0,0,null,0,0,null,null
+276,45.5,Ikram Alikhil,Rashid Khan,GH Dockrell,0,0,null,0,0,null,null
+277,45.6,Ikram Alikhil,Rashid Khan,GH Dockrell,0,0,null,0,0,null,null
+278,46.1,Rashid Khan,Ikram Alikhil,TJ Murtagh,1,0,null,1,0,null,null
+279,46.2,Ikram Alikhil,Rashid Khan,TJ Murtagh,1,0,null,1,0,null,null
+280,46.3,Rashid Khan,Ikram Alikhil,TJ Murtagh,0,0,null,0,0,null,null
+281,46.4,Rashid Khan,Ikram Alikhil,TJ Murtagh,1,0,null,1,0,null,null
+282,46.5,Ikram Alikhil,Rashid Khan,TJ Murtagh,1,0,null,1,0,null,null
+283,46.6,Rashid Khan,Ikram Alikhil,TJ Murtagh,1,0,null,1,0,null,null
+284,47.1,Rashid Khan,Ikram Alikhil,GH Dockrell,1,0,null,1,0,null,null
+285,47.2,Ikram Alikhil,Rashid Khan,GH Dockrell,1,0,null,1,0,null,null
+286,47.3,Rashid Khan,Ikram Alikhil,GH Dockrell,0,0,null,0,0,null,null
+287,47.4,Rashid Khan,Ikram Alikhil,GH Dockrell,1,0,null,1,0,null,null
+288,47.5,Ikram Alikhil,Rashid Khan,GH Dockrell,0,0,null,0,0,null,null
+289,47.6,Ikram Alikhil,Rashid Khan,GH Dockrell,1,0,null,1,0,null,null
+290,48.1,Ikram Alikhil,Rashid Khan,TJ Murtagh,1,0,null,1,0,null,null
+291,48.2,Rashid Khan,Ikram Alikhil,TJ Murtagh,0,0,null,0,0,null,null
+292,48.3,Rashid Khan,Ikram Alikhil,TJ Murtagh,6,0,null,6,0,null,null

@@ -1,0 +1,299 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,JN Malan,AK Markram,CA Young,0,0,null,0,0,null,null
+1,0.2,JN Malan,AK Markram,CA Young,1,0,null,1,0,null,null
+2,0.3,AK Markram,JN Malan,CA Young,0,1,wides ,1,0,null,null
+3,0.4,AK Markram,JN Malan,CA Young,0,0,null,0,0,null,null
+4,0.5,AK Markram,JN Malan,CA Young,0,1,wides ,1,0,null,null
+5,0.6,AK Markram,JN Malan,CA Young,0,0,null,0,0,null,null
+6,0.7,AK Markram,JN Malan,CA Young,0,0,null,0,0,null,null
+7,0.8,AK Markram,JN Malan,CA Young,0,0,null,0,0,null,null
+8,1.1,JN Malan,AK Markram,MR Adair,4,0,null,4,0,null,null
+9,1.2,JN Malan,AK Markram,MR Adair,1,0,null,1,0,null,null
+10,1.3,AK Markram,JN Malan,MR Adair,0,0,null,0,0,null,null
+11,1.4,AK Markram,JN Malan,MR Adair,4,0,null,4,0,null,null
+12,1.5,AK Markram,JN Malan,MR Adair,0,0,null,0,0,null,null
+13,1.6,AK Markram,JN Malan,MR Adair,0,0,null,0,0,null,null
+14,2.1,JN Malan,AK Markram,CA Young,0,0,null,0,0,null,null
+15,2.2,JN Malan,AK Markram,CA Young,0,0,null,0,0,null,null
+16,2.3,JN Malan,AK Markram,CA Young,0,0,null,0,0,null,null
+17,2.4,JN Malan,AK Markram,CA Young,4,0,null,4,0,null,null
+18,2.5,JN Malan,AK Markram,CA Young,0,0,null,0,0,null,null
+19,2.6,JN Malan,AK Markram,CA Young,0,0,null,0,0,null,null
+20,3.1,AK Markram,JN Malan,MR Adair,1,0,null,1,0,null,null
+21,3.2,JN Malan,AK Markram,MR Adair,0,1,wides ,1,0,null,null
+22,3.3,JN Malan,AK Markram,MR Adair,4,0,null,4,0,null,null
+23,3.4,JN Malan,AK Markram,MR Adair,0,0,null,0,0,null,null
+24,3.5,JN Malan,AK Markram,MR Adair,0,0,null,0,0,null,null
+25,3.6,JN Malan,AK Markram,MR Adair,6,0,null,6,0,null,null
+26,3.7,JN Malan,AK Markram,MR Adair,0,0,null,0,0,null,null
+27,4.1,AK Markram,JN Malan,CA Young,0,0,null,0,0,null,null
+28,4.2,AK Markram,JN Malan,CA Young,0,0,null,0,0,null,null
+29,4.3,AK Markram,JN Malan,CA Young,0,0,null,0,0,null,null
+30,4.4,AK Markram,JN Malan,CA Young,0,0,null,0,1,AK Markram,caught
+31,4.5,JN Malan,T Bavuma,CA Young,4,0,null,4,0,null,null
+32,4.6,JN Malan,T Bavuma,CA Young,0,0,null,0,0,null,null
+33,5.1,T Bavuma,JN Malan,MR Adair,0,0,null,0,0,null,null
+34,5.2,T Bavuma,JN Malan,MR Adair,2,0,null,2,0,null,null
+35,5.3,T Bavuma,JN Malan,MR Adair,0,0,null,0,0,null,null
+36,5.4,T Bavuma,JN Malan,MR Adair,3,0,null,3,0,null,null
+37,5.5,JN Malan,T Bavuma,MR Adair,1,0,null,1,0,null,null
+38,5.6,T Bavuma,JN Malan,MR Adair,1,0,null,1,0,null,null
+39,6.1,T Bavuma,JN Malan,CA Young,1,0,null,1,0,null,null
+40,6.2,JN Malan,T Bavuma,CA Young,0,0,null,0,0,null,null
+41,6.3,JN Malan,T Bavuma,CA Young,0,0,null,0,0,null,null
+42,6.4,JN Malan,T Bavuma,CA Young,4,0,null,4,0,null,null
+43,6.5,JN Malan,T Bavuma,CA Young,0,0,null,0,0,null,null
+44,6.6,JN Malan,T Bavuma,CA Young,0,4,byes ,4,0,null,null
+45,7.1,T Bavuma,JN Malan,MR Adair,0,0,null,0,0,null,null
+46,7.2,T Bavuma,JN Malan,MR Adair,0,0,null,0,0,null,null
+47,7.3,T Bavuma,JN Malan,MR Adair,0,0,null,0,0,null,null
+48,7.4,T Bavuma,JN Malan,MR Adair,0,0,null,0,0,null,null
+49,7.5,T Bavuma,JN Malan,MR Adair,0,0,null,0,0,null,null
+50,7.6,T Bavuma,JN Malan,MR Adair,1,0,null,1,0,null,null
+51,8.1,T Bavuma,JN Malan,CA Young,0,0,null,0,0,null,null
+52,8.2,T Bavuma,JN Malan,CA Young,0,0,null,0,0,null,null
+53,8.3,T Bavuma,JN Malan,CA Young,0,0,null,0,0,null,null
+54,8.4,T Bavuma,JN Malan,CA Young,1,0,null,1,0,null,null
+55,8.5,JN Malan,T Bavuma,CA Young,0,0,null,0,0,null,null
+56,8.6,JN Malan,T Bavuma,CA Young,0,0,null,0,0,null,null
+57,9.1,T Bavuma,JN Malan,MR Adair,0,0,null,0,0,null,null
+58,9.2,T Bavuma,JN Malan,MR Adair,0,0,null,0,0,null,null
+59,9.3,T Bavuma,JN Malan,MR Adair,1,0,null,1,0,null,null
+60,9.4,JN Malan,T Bavuma,MR Adair,0,0,null,0,0,null,null
+61,9.5,JN Malan,T Bavuma,MR Adair,0,0,null,0,0,null,null
+62,9.6,JN Malan,T Bavuma,MR Adair,0,0,null,0,0,null,null
+63,10.1,T Bavuma,JN Malan,J Little,0,0,null,0,1,T Bavuma,caught
+64,10.2,HE van der Dussen,JN Malan,J Little,1,0,null,1,0,null,null
+65,10.3,JN Malan,HE van der Dussen,J Little,0,0,null,0,0,null,null
+66,10.4,JN Malan,HE van der Dussen,J Little,4,0,null,4,0,null,null
+67,10.5,JN Malan,HE van der Dussen,J Little,0,0,null,0,0,null,null
+68,10.6,JN Malan,HE van der Dussen,J Little,2,0,null,2,0,null,null
+69,11.1,HE van der Dussen,JN Malan,MR Adair,0,0,null,0,0,null,null
+70,11.2,HE van der Dussen,JN Malan,MR Adair,0,0,null,0,0,null,null
+71,11.3,HE van der Dussen,JN Malan,MR Adair,0,0,null,0,0,null,null
+72,11.4,HE van der Dussen,JN Malan,MR Adair,0,0,null,0,0,null,null
+73,11.5,HE van der Dussen,JN Malan,MR Adair,0,0,null,0,0,null,null
+74,11.6,HE van der Dussen,JN Malan,MR Adair,0,0,null,0,0,null,null
+75,12.1,JN Malan,HE van der Dussen,J Little,0,0,null,0,0,null,null
+76,12.2,JN Malan,HE van der Dussen,J Little,0,0,null,0,0,null,null
+77,12.3,JN Malan,HE van der Dussen,J Little,0,0,null,0,0,null,null
+78,12.4,JN Malan,HE van der Dussen,J Little,0,0,null,0,0,null,null
+79,12.5,JN Malan,HE van der Dussen,J Little,0,0,null,0,0,null,null
+80,12.6,JN Malan,HE van der Dussen,J Little,1,0,null,1,0,null,null
+81,13.1,JN Malan,HE van der Dussen,Simi Singh,1,0,null,1,0,null,null
+82,13.2,HE van der Dussen,JN Malan,Simi Singh,1,0,null,1,0,null,null
+83,13.3,JN Malan,HE van der Dussen,Simi Singh,1,0,null,1,0,null,null
+84,13.4,HE van der Dussen,JN Malan,Simi Singh,1,0,null,1,0,null,null
+85,13.5,JN Malan,HE van der Dussen,Simi Singh,1,0,null,1,0,null,null
+86,13.6,HE van der Dussen,JN Malan,Simi Singh,4,0,null,4,0,null,null
+87,14.1,JN Malan,HE van der Dussen,J Little,1,0,null,1,0,null,null
+88,14.2,HE van der Dussen,JN Malan,J Little,0,0,null,0,0,null,null
+89,14.3,HE van der Dussen,JN Malan,J Little,0,0,null,0,0,null,null
+90,14.4,HE van der Dussen,JN Malan,J Little,0,0,null,0,0,null,null
+91,14.5,HE van der Dussen,JN Malan,J Little,1,0,null,1,0,null,null
+92,14.6,JN Malan,HE van der Dussen,J Little,0,0,null,0,0,null,null
+93,15.1,HE van der Dussen,JN Malan,Simi Singh,1,0,null,1,0,null,null
+94,15.2,JN Malan,HE van der Dussen,Simi Singh,6,0,null,6,0,null,null
+95,15.3,JN Malan,HE van der Dussen,Simi Singh,1,0,null,1,0,null,null
+96,15.4,HE van der Dussen,JN Malan,Simi Singh,0,0,null,0,0,null,null
+97,15.5,HE van der Dussen,JN Malan,Simi Singh,0,0,null,0,0,null,null
+98,15.6,HE van der Dussen,JN Malan,Simi Singh,0,0,null,0,0,null,null
+99,16.1,JN Malan,HE van der Dussen,J Little,0,0,null,0,0,null,null
+100,16.2,JN Malan,HE van der Dussen,J Little,1,0,null,1,0,null,null
+101,16.3,HE van der Dussen,JN Malan,J Little,0,0,null,0,0,null,null
+102,16.4,HE van der Dussen,JN Malan,J Little,0,0,null,0,0,null,null
+103,16.5,HE van der Dussen,JN Malan,J Little,0,0,null,0,0,null,null
+104,16.6,HE van der Dussen,JN Malan,J Little,1,0,null,1,0,null,null
+105,17.1,HE van der Dussen,JN Malan,Simi Singh,0,0,null,0,0,null,null
+106,17.2,HE van der Dussen,JN Malan,Simi Singh,1,0,null,1,0,null,null
+107,17.3,JN Malan,HE van der Dussen,Simi Singh,0,0,null,0,0,null,null
+108,17.4,JN Malan,HE van der Dussen,Simi Singh,0,0,null,0,0,null,null
+109,17.5,JN Malan,HE van der Dussen,Simi Singh,1,0,null,1,0,null,null
+110,17.6,HE van der Dussen,JN Malan,Simi Singh,2,0,null,2,0,null,null
+111,18.1,JN Malan,HE van der Dussen,J Little,1,0,null,1,0,null,null
+112,18.2,HE van der Dussen,JN Malan,J Little,0,0,null,0,0,null,null
+113,18.3,HE van der Dussen,JN Malan,J Little,0,0,null,0,0,null,null
+114,18.4,HE van der Dussen,JN Malan,J Little,1,0,null,1,0,null,null
+115,18.5,JN Malan,HE van der Dussen,J Little,0,1,wides ,1,0,null,null
+116,18.6,JN Malan,HE van der Dussen,J Little,0,0,null,0,0,null,null
+117,18.7,JN Malan,HE van der Dussen,J Little,0,0,null,0,0,null,null
+118,19.1,HE van der Dussen,JN Malan,Simi Singh,1,0,null,1,0,null,null
+119,19.2,JN Malan,HE van der Dussen,Simi Singh,1,0,null,1,0,null,null
+120,19.3,HE van der Dussen,JN Malan,Simi Singh,1,0,null,1,0,null,null
+121,19.4,JN Malan,HE van der Dussen,Simi Singh,1,0,null,1,0,null,null
+122,19.5,HE van der Dussen,JN Malan,Simi Singh,0,0,null,0,0,null,null
+123,19.6,HE van der Dussen,JN Malan,Simi Singh,1,0,null,1,0,null,null
+124,20.1,HE van der Dussen,JN Malan,GH Dockrell,1,0,null,1,0,null,null
+125,20.2,JN Malan,HE van der Dussen,GH Dockrell,0,0,null,0,0,null,null
+126,20.3,JN Malan,HE van der Dussen,GH Dockrell,0,0,null,0,0,null,null
+127,20.4,JN Malan,HE van der Dussen,GH Dockrell,0,0,null,0,0,null,null
+128,20.5,JN Malan,HE van der Dussen,GH Dockrell,1,0,null,1,0,null,null
+129,20.6,HE van der Dussen,JN Malan,GH Dockrell,1,0,null,1,0,null,null
+130,21.1,HE van der Dussen,JN Malan,Simi Singh,0,0,null,0,0,null,null
+131,21.2,HE van der Dussen,JN Malan,Simi Singh,2,0,null,2,0,null,null
+132,21.3,HE van der Dussen,JN Malan,Simi Singh,1,0,null,1,0,null,null
+133,21.4,JN Malan,HE van der Dussen,Simi Singh,1,0,null,1,0,null,null
+134,21.5,HE van der Dussen,JN Malan,Simi Singh,1,0,null,1,0,null,null
+135,21.6,JN Malan,HE van der Dussen,Simi Singh,1,0,null,1,0,null,null
+136,22.1,JN Malan,HE van der Dussen,GH Dockrell,0,0,null,0,0,null,null
+137,22.2,JN Malan,HE van der Dussen,GH Dockrell,1,0,null,1,0,null,null
+138,22.3,HE van der Dussen,JN Malan,GH Dockrell,1,0,null,1,0,null,null
+139,22.4,JN Malan,HE van der Dussen,GH Dockrell,0,0,null,0,0,null,null
+140,22.5,JN Malan,HE van der Dussen,GH Dockrell,1,0,null,1,0,null,null
+141,22.6,HE van der Dussen,JN Malan,GH Dockrell,0,1,wides ,1,0,null,null
+142,22.7,HE van der Dussen,JN Malan,GH Dockrell,0,1,wides ,1,0,null,null
+143,22.8,HE van der Dussen,JN Malan,GH Dockrell,2,0,null,2,0,null,null
+144,23.1,JN Malan,HE van der Dussen,Simi Singh,2,0,null,2,0,null,null
+145,23.2,JN Malan,HE van der Dussen,Simi Singh,1,0,null,1,0,null,null
+146,23.3,HE van der Dussen,JN Malan,Simi Singh,1,0,null,1,0,null,null
+147,23.4,JN Malan,HE van der Dussen,Simi Singh,0,0,null,0,0,null,null
+148,23.5,JN Malan,HE van der Dussen,Simi Singh,1,0,null,1,0,null,null
+149,23.6,HE van der Dussen,JN Malan,Simi Singh,1,0,null,1,0,null,null
+150,24.1,HE van der Dussen,JN Malan,GH Dockrell,0,0,null,0,0,null,null
+151,24.2,HE van der Dussen,JN Malan,GH Dockrell,1,0,null,1,0,null,null
+152,24.3,JN Malan,HE van der Dussen,GH Dockrell,0,0,null,0,0,null,null
+153,24.4,JN Malan,HE van der Dussen,GH Dockrell,1,0,null,1,0,null,null
+154,24.5,HE van der Dussen,JN Malan,GH Dockrell,1,0,null,1,0,null,null
+155,24.6,JN Malan,HE van der Dussen,GH Dockrell,0,0,null,0,0,null,null
+156,25.1,HE van der Dussen,JN Malan,CA Young,1,0,null,1,0,null,null
+157,25.2,JN Malan,HE van der Dussen,CA Young,0,0,null,0,0,null,null
+158,25.3,JN Malan,HE van der Dussen,CA Young,0,0,null,0,0,null,null
+159,25.4,JN Malan,HE van der Dussen,CA Young,0,0,null,0,0,null,null
+160,25.5,JN Malan,HE van der Dussen,CA Young,1,0,null,1,0,null,null
+161,25.6,HE van der Dussen,JN Malan,CA Young,0,0,null,0,0,null,null
+162,26.1,JN Malan,HE van der Dussen,GH Dockrell,0,0,null,0,0,null,null
+163,26.2,JN Malan,HE van der Dussen,GH Dockrell,1,0,null,1,0,null,null
+164,26.3,HE van der Dussen,JN Malan,GH Dockrell,0,0,null,0,0,null,null
+165,26.4,HE van der Dussen,JN Malan,GH Dockrell,4,0,null,4,0,null,null
+166,26.5,HE van der Dussen,JN Malan,GH Dockrell,0,0,null,0,0,null,null
+167,26.6,HE van der Dussen,JN Malan,GH Dockrell,1,0,null,1,0,null,null
+168,27.1,HE van der Dussen,JN Malan,CA Young,2,0,null,2,0,null,null
+169,27.2,HE van der Dussen,JN Malan,CA Young,0,0,null,0,0,null,null
+170,27.3,HE van der Dussen,JN Malan,CA Young,1,0,null,1,0,null,null
+171,27.4,JN Malan,HE van der Dussen,CA Young,0,0,null,0,0,null,null
+172,27.5,JN Malan,HE van der Dussen,CA Young,0,0,null,0,0,null,null
+173,27.6,JN Malan,HE van der Dussen,CA Young,2,0,null,2,0,null,null
+174,28.1,HE van der Dussen,JN Malan,GH Dockrell,1,0,null,1,0,null,null
+175,28.2,JN Malan,HE van der Dussen,GH Dockrell,6,0,null,6,0,null,null
+176,28.3,JN Malan,HE van der Dussen,GH Dockrell,0,0,null,0,0,null,null
+177,28.4,JN Malan,HE van der Dussen,GH Dockrell,1,0,null,1,0,null,null
+178,28.5,HE van der Dussen,JN Malan,GH Dockrell,0,0,null,0,0,null,null
+179,28.6,HE van der Dussen,JN Malan,GH Dockrell,1,0,null,1,0,null,null
+180,29.1,HE van der Dussen,JN Malan,AR McBrine,2,0,null,2,0,null,null
+181,29.2,HE van der Dussen,JN Malan,AR McBrine,1,0,null,1,0,null,null
+182,29.3,JN Malan,HE van der Dussen,AR McBrine,0,0,null,0,0,null,null
+183,29.4,JN Malan,HE van der Dussen,AR McBrine,0,0,null,0,0,null,null
+184,29.5,JN Malan,HE van der Dussen,AR McBrine,6,0,null,6,0,null,null
+185,29.6,JN Malan,HE van der Dussen,AR McBrine,0,0,null,0,0,null,null
+186,30.1,HE van der Dussen,JN Malan,GH Dockrell,2,0,null,2,0,null,null
+187,30.2,HE van der Dussen,JN Malan,GH Dockrell,0,0,null,0,0,null,null
+188,30.3,HE van der Dussen,JN Malan,GH Dockrell,1,0,null,1,0,null,null
+189,30.4,JN Malan,HE van der Dussen,GH Dockrell,1,0,null,1,0,null,null
+190,30.5,HE van der Dussen,JN Malan,GH Dockrell,0,0,null,0,0,null,null
+191,30.6,HE van der Dussen,JN Malan,GH Dockrell,1,0,null,1,0,null,null
+192,31.1,HE van der Dussen,JN Malan,AR McBrine,1,0,null,1,0,null,null
+193,31.2,JN Malan,HE van der Dussen,AR McBrine,0,0,null,0,0,null,null
+194,31.3,JN Malan,HE van der Dussen,AR McBrine,0,0,null,0,0,null,null
+195,31.4,JN Malan,HE van der Dussen,AR McBrine,0,0,null,0,0,null,null
+196,31.5,JN Malan,HE van der Dussen,AR McBrine,0,1,legbyes ,1,0,null,null
+197,31.6,HE van der Dussen,JN Malan,AR McBrine,0,0,null,0,0,null,null
+198,32.1,JN Malan,HE van der Dussen,GH Dockrell,0,0,null,0,0,null,null
+199,32.2,JN Malan,HE van der Dussen,GH Dockrell,4,0,null,4,0,null,null
+200,32.3,JN Malan,HE van der Dussen,GH Dockrell,0,0,null,0,1,JN Malan,caught
+201,32.4,HE van der Dussen,K Verreynne,GH Dockrell,0,0,null,0,0,null,null
+202,32.5,HE van der Dussen,K Verreynne,GH Dockrell,0,0,null,0,0,null,null
+203,32.6,HE van der Dussen,K Verreynne,GH Dockrell,0,0,null,0,0,null,null
+204,33.1,K Verreynne,HE van der Dussen,AR McBrine,0,0,null,0,0,null,null
+205,33.2,K Verreynne,HE van der Dussen,AR McBrine,0,0,null,0,0,null,null
+206,33.3,K Verreynne,HE van der Dussen,AR McBrine,1,0,null,1,0,null,null
+207,33.4,HE van der Dussen,K Verreynne,AR McBrine,0,0,null,0,1,HE van der Dussen,lbw
+208,33.5,DA Miller,K Verreynne,AR McBrine,0,0,null,0,0,null,null
+209,33.6,DA Miller,K Verreynne,AR McBrine,1,0,null,1,0,null,null
+210,34.1,DA Miller,K Verreynne,J Little,1,0,null,1,0,null,null
+211,34.2,K Verreynne,DA Miller,J Little,0,0,null,0,0,null,null
+212,34.3,K Verreynne,DA Miller,J Little,1,0,null,1,0,null,null
+213,34.4,DA Miller,K Verreynne,J Little,0,0,null,0,0,null,null
+214,34.5,DA Miller,K Verreynne,J Little,2,0,null,2,0,null,null
+215,34.6,DA Miller,K Verreynne,J Little,1,0,null,1,0,null,null
+216,35.1,DA Miller,K Verreynne,AR McBrine,1,0,null,1,0,null,null
+217,35.2,K Verreynne,DA Miller,AR McBrine,0,0,null,0,0,null,null
+218,35.3,K Verreynne,DA Miller,AR McBrine,1,0,null,1,0,null,null
+219,35.4,DA Miller,K Verreynne,AR McBrine,1,0,null,1,0,null,null
+220,35.5,K Verreynne,DA Miller,AR McBrine,1,0,null,1,0,null,null
+221,35.6,DA Miller,K Verreynne,AR McBrine,0,0,null,0,0,null,null
+222,36.1,K Verreynne,DA Miller,J Little,1,0,null,1,0,null,null
+223,36.2,DA Miller,K Verreynne,J Little,0,0,null,0,0,null,null
+224,36.3,DA Miller,K Verreynne,J Little,0,0,null,0,0,null,null
+225,36.4,DA Miller,K Verreynne,J Little,1,0,null,1,0,null,null
+226,36.5,K Verreynne,DA Miller,J Little,0,0,null,0,0,null,null
+227,36.6,K Verreynne,DA Miller,J Little,1,0,null,1,0,null,null
+228,37.1,K Verreynne,DA Miller,AR McBrine,1,0,null,1,0,null,null
+229,37.2,DA Miller,K Verreynne,AR McBrine,1,0,null,1,0,null,null
+230,37.3,K Verreynne,DA Miller,AR McBrine,1,0,null,1,0,null,null
+231,37.4,DA Miller,K Verreynne,AR McBrine,0,0,null,0,0,null,null
+232,37.5,DA Miller,K Verreynne,AR McBrine,1,0,null,1,0,null,null
+233,37.6,K Verreynne,DA Miller,AR McBrine,4,0,null,4,0,null,null
+234,38.1,DA Miller,K Verreynne,J Little,1,0,null,1,0,null,null
+235,38.2,K Verreynne,DA Miller,J Little,1,0,null,1,0,null,null
+236,38.3,DA Miller,K Verreynne,J Little,0,0,null,0,0,null,null
+237,38.4,DA Miller,K Verreynne,J Little,1,0,null,1,0,null,null
+238,38.5,K Verreynne,DA Miller,J Little,0,0,null,0,1,K Verreynne,caught
+239,38.6,AL Phehlukwayo,DA Miller,J Little,0,0,null,0,0,null,null
+240,39.1,DA Miller,AL Phehlukwayo,AR McBrine,4,0,null,4,0,null,null
+241,39.2,DA Miller,AL Phehlukwayo,AR McBrine,1,0,null,1,0,null,null
+242,39.3,AL Phehlukwayo,DA Miller,AR McBrine,0,0,null,0,0,null,null
+243,39.4,AL Phehlukwayo,DA Miller,AR McBrine,0,0,null,0,0,null,null
+244,39.5,AL Phehlukwayo,DA Miller,AR McBrine,0,0,null,0,0,null,null
+245,39.6,AL Phehlukwayo,DA Miller,AR McBrine,0,0,null,0,0,null,null
+246,40.1,DA Miller,AL Phehlukwayo,Simi Singh,1,0,null,1,0,null,null
+247,40.2,AL Phehlukwayo,DA Miller,Simi Singh,0,0,null,0,0,null,null
+248,40.3,AL Phehlukwayo,DA Miller,Simi Singh,0,0,null,0,0,null,null
+249,40.4,AL Phehlukwayo,DA Miller,Simi Singh,1,0,null,1,0,null,null
+250,40.5,DA Miller,AL Phehlukwayo,Simi Singh,1,0,null,1,0,null,null
+251,40.6,AL Phehlukwayo,DA Miller,Simi Singh,0,2,legbyes ,2,0,null,null
+252,41.1,DA Miller,AL Phehlukwayo,AR McBrine,1,0,null,1,0,null,null
+253,41.2,AL Phehlukwayo,DA Miller,AR McBrine,1,0,null,1,0,null,null
+254,41.3,DA Miller,AL Phehlukwayo,AR McBrine,2,0,null,2,0,null,null
+255,41.4,DA Miller,AL Phehlukwayo,AR McBrine,1,0,null,1,0,null,null
+256,41.5,AL Phehlukwayo,DA Miller,AR McBrine,0,0,null,0,1,AL Phehlukwayo,caught
+257,41.6,KA Maharaj,DA Miller,AR McBrine,0,0,null,0,0,null,null
+258,42.1,DA Miller,KA Maharaj,Simi Singh,1,0,null,1,0,null,null
+259,42.2,KA Maharaj,DA Miller,Simi Singh,1,0,null,1,0,null,null
+260,42.3,DA Miller,KA Maharaj,Simi Singh,0,0,null,0,1,DA Miller,caught
+261,42.4,KA Maharaj,K Rabada,Simi Singh,0,0,null,0,0,null,null
+262,42.5,KA Maharaj,K Rabada,Simi Singh,0,0,null,0,0,null,null
+263,42.6,KA Maharaj,K Rabada,Simi Singh,1,0,null,1,0,null,null
+264,43.1,KA Maharaj,K Rabada,CA Young,1,0,null,1,0,null,null
+265,43.2,K Rabada,KA Maharaj,CA Young,0,0,null,0,0,null,null
+266,43.3,K Rabada,KA Maharaj,CA Young,6,0,null,6,0,null,null
+267,43.4,K Rabada,KA Maharaj,CA Young,1,0,null,1,0,null,null
+268,43.5,KA Maharaj,K Rabada,CA Young,1,0,null,1,0,null,null
+269,43.6,K Rabada,KA Maharaj,CA Young,1,0,null,1,0,null,null
+270,44.1,K Rabada,KA Maharaj,MR Adair,0,0,null,0,0,null,null
+271,44.2,K Rabada,KA Maharaj,MR Adair,0,1,legbyes ,1,0,null,null
+272,44.3,KA Maharaj,K Rabada,MR Adair,1,0,null,1,0,null,null
+273,44.4,K Rabada,KA Maharaj,MR Adair,0,1,legbyes ,1,0,null,null
+274,44.5,KA Maharaj,K Rabada,MR Adair,1,0,null,1,0,null,null
+275,44.6,K Rabada,KA Maharaj,MR Adair,1,0,null,1,0,null,null
+276,45.1,K Rabada,KA Maharaj,J Little,6,0,null,6,0,null,null
+277,45.2,K Rabada,KA Maharaj,J Little,0,0,null,0,0,null,null
+278,45.3,K Rabada,KA Maharaj,J Little,0,1,legbyes ,1,0,null,null
+279,45.4,KA Maharaj,K Rabada,J Little,4,0,null,4,0,null,null
+280,45.5,KA Maharaj,K Rabada,J Little,2,0,null,2,0,null,null
+281,45.6,KA Maharaj,K Rabada,J Little,1,0,null,1,0,null,null
+282,46.1,KA Maharaj,K Rabada,MR Adair,1,0,null,1,0,null,null
+283,46.2,K Rabada,KA Maharaj,MR Adair,1,0,null,1,0,null,null
+284,46.3,KA Maharaj,K Rabada,MR Adair,0,1,noballs ,1,1,K Rabada,run out
+285,46.4,A Nortje,KA Maharaj,MR Adair,4,0,null,4,0,null,null
+286,46.5,A Nortje,KA Maharaj,MR Adair,1,0,null,1,0,null,null
+287,46.6,KA Maharaj,A Nortje,MR Adair,0,0,null,0,0,null,null
+288,46.7,KA Maharaj,A Nortje,MR Adair,1,0,null,1,0,null,null
+289,47.1,KA Maharaj,A Nortje,J Little,1,0,null,1,0,null,null
+290,47.2,A Nortje,KA Maharaj,J Little,0,0,null,0,0,null,null
+291,47.3,A Nortje,KA Maharaj,J Little,1,0,null,1,0,null,null
+292,47.4,KA Maharaj,A Nortje,J Little,1,0,null,1,0,null,null
+293,47.5,A Nortje,KA Maharaj,J Little,2,0,null,2,0,null,null
+294,47.6,A Nortje,KA Maharaj,J Little,1,0,null,1,0,null,null
+295,48.1,A Nortje,KA Maharaj,MR Adair,1,0,null,1,0,null,null
+296,48.2,KA Maharaj,A Nortje,MR Adair,0,0,null,0,1,KA Maharaj,caught
+297,48.3,A Nortje,T Shamsi,MR Adair,0,0,null,0,1,A Nortje,bowled

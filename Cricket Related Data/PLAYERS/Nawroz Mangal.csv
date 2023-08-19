@@ -1,0 +1,50 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,571947,Sharjah Cricket Association Stadium,Australia,JL Pattinson,Right-arm fast,"[0, 1, 0]",1,0,2,0,0
+1,656411,Manuka Oval,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,7,11,0,0
+2,656411,Manuka Oval,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,2,10,0,0
+3,656411,Manuka Oval,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",1,3,10,0,0
+4,656411,Manuka Oval,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,2,11,0,0
+5,656473,Sydney Cricket Ground,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,2,15,0,0
+6,656473,Sydney Cricket Ground,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",0,2,15,0,0
+7,710307,Shere Bangla National Stadium,India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+8,710307,Shere Bangla National Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,5,16,1,0
+9,543888,Sharjah Cricket Stadium,Netherlands,PW Borren,Right-arm medium,"[0, 1, 2]",1,0,1,0,0
+10,545656,Sharjah Cricket Stadium,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,6,9,1,0
+11,710295,Khan Shaheb Osman Ali Stadium,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,10,17,0,0
+12,710295,Khan Shaheb Osman Ali Stadium,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",0,3,4,0,0
+13,710295,Khan Shaheb Osman Ali Stadium,Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",1,8,17,1,0
+14,710295,Khan Shaheb Osman Ali Stadium,Pakistan,Umar Gul,Right-arm fast-medium,"[0, 1, 1]",0,11,10,2,0
+15,390253,Willowmoore Park,Scotland,JH Stander,Right-arm fast-medium,"[0, 1, 1]",0,11,11,2,0
+16,656421,University Oval,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,5,15,1,0
+17,656421,University Oval,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+18,710303,Shere Bangla National Stadium,Sri Lanka,BAW Mendis,Right-arm offbreak,"[1, 1, 0]",0,2,8,0,0
+19,953335,Sharjah Cricket Stadium,Zimbabwe,AG Cremer,Right-arm legbreak,"[1, 1, 1]",1,2,5,0,0
+20,953335,Sharjah Cricket Stadium,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,2,3,0,0
+21,953335,Sharjah Cricket Stadium,Zimbabwe,T Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+22,953337,Sharjah Cricket Stadium,Zimbabwe,AG Cremer,Right-arm legbreak,"[1, 1, 1]",1,3,8,0,0
+23,953343,Sharjah Cricket Stadium,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",1,1,6,0,0
+24,656449,Western Australia Cricket Association Ground,Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",0,16,8,0,2
+25,656449,Western Australia Cricket Association Ground,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",1,0,8,0,0
+26,656449,Western Australia Cricket Association Ground,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,8,6,2,0
+27,1051299,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,1,6,0,0
+28,1051299,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,9,10,2,0
+29,1051301,Shere Bangla National Stadium,Bangladesh,Shafiul Islam,Right-arm fast-medium,"[0, 1, 1]",0,12,17,2,0
+30,1051301,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,9,11,1,0
+31,1051301,Shere Bangla National Stadium,Bangladesh,Mosharraf Hossain,Left-arm orthodox,"[1, 0, 1]",1,7,7,1,0
+32,1051301,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,5,5,0,0
+33,710299,Khan Shaheb Osman Ali Stadium,Bangladesh,Arafat Sunny,Left-arm orthodox,"[1, 0, 1]",0,8,9,1,0
+34,710299,Khan Shaheb Osman Ali Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,3,4,0,0
+35,656459,McLean Park,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,14,27,2,0
+36,656459,McLean Park,New Zealand,AF Milne,Right-arm fast,"[0, 1, 0]",0,2,4,0,0
+37,656459,McLean Park,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,9,13,1,0
+38,803795,ICC Academy,United Arab Emirates,Khurram Khan,Left-arm orthodox,"[1, 0, 1]",0,1,1,0,0
+39,803795,ICC Academy,United Arab Emirates,AM Guruge,Left-arm fast-medium,"[0, 0, 1]",0,12,20,1,0
+40,803795,ICC Academy,United Arab Emirates,Mohammad Tauqir,Right-arm offbreak,"[1, 1, 0]",1,1,5,0,0
+41,803795,ICC Academy,United Arab Emirates,Krishna Chandran,Right-arm medium,"[0, 1, 2]",0,17,17,1,1
+42,803797,ICC Academy,United Arab Emirates,Khurram Khan,Left-arm orthodox,"[1, 0, 1]",0,11,15,0,0
+43,803797,ICC Academy,United Arab Emirates,AM Guruge,Left-arm fast-medium,"[0, 0, 1]",0,48,31,5,2
+44,803797,ICC Academy,United Arab Emirates,Krishna Chandran,Right-arm medium,"[0, 1, 2]",1,20,23,1,0
+45,924627,Queens Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",1,6,15,1,0
+46,924627,Queens Sports Club,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+47,924629,Queens Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,0,5,0,0
+48,924633,Queens Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,4,14,0,0

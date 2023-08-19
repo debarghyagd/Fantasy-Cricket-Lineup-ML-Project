@@ -1,0 +1,159 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,JJ Roy,AD Hales,TG Southee,1,0,null,1,0,null,null
+1,0.2,AD Hales,JJ Roy,TG Southee,0,0,null,0,0,null,null
+2,0.3,AD Hales,JJ Roy,TG Southee,1,0,null,1,0,null,null
+3,0.4,JJ Roy,AD Hales,TG Southee,0,4,legbyes ,4,0,null,null
+4,0.5,JJ Roy,AD Hales,TG Southee,0,0,null,0,0,null,null
+5,0.6,JJ Roy,AD Hales,TG Southee,1,0,null,1,0,null,null
+6,1.1,JJ Roy,AD Hales,MJ Santner,1,0,null,1,0,null,null
+7,1.2,AD Hales,JJ Roy,MJ Santner,0,0,null,0,1,AD Hales,caught
+8,1.3,JE Root,JJ Roy,MJ Santner,0,0,null,0,0,null,null
+9,1.4,JE Root,JJ Roy,MJ Santner,0,0,null,0,0,null,null
+10,1.5,JE Root,JJ Roy,MJ Santner,0,0,null,0,0,null,null
+11,1.6,JE Root,JJ Roy,MJ Santner,4,0,null,4,0,null,null
+12,2.1,JJ Roy,JE Root,TG Southee,0,0,null,0,0,null,null
+13,2.2,JJ Roy,JE Root,TG Southee,0,0,null,0,0,null,null
+14,2.3,JJ Roy,JE Root,TG Southee,2,0,null,2,0,null,null
+15,2.4,JJ Roy,JE Root,TG Southee,0,0,null,0,0,null,null
+16,2.5,JJ Roy,JE Root,TG Southee,0,1,wides ,1,0,null,null
+17,2.6,JJ Roy,JE Root,TG Southee,0,1,wides ,1,0,null,null
+18,2.7,JJ Roy,JE Root,TG Southee,0,0,null,0,0,null,null
+19,2.8,JJ Roy,JE Root,TG Southee,4,0,null,4,0,null,null
+20,3.1,JE Root,JJ Roy,MJ Santner,0,0,null,0,1,JE Root,stumped
+21,3.2,EJG Morgan,JJ Roy,MJ Santner,0,0,null,0,1,EJG Morgan,caught
+22,3.3,JJ Roy,BA Stokes,MJ Santner,0,0,null,0,0,null,null
+23,3.4,JJ Roy,BA Stokes,MJ Santner,0,0,null,0,0,null,null
+24,3.5,JJ Roy,BA Stokes,MJ Santner,1,0,null,1,0,null,null
+25,3.6,BA Stokes,JJ Roy,MJ Santner,1,0,null,1,0,null,null
+26,4.1,BA Stokes,JJ Roy,BM Wheeler,0,0,null,0,0,null,null
+27,4.2,BA Stokes,JJ Roy,BM Wheeler,0,0,null,0,0,null,null
+28,4.3,BA Stokes,JJ Roy,BM Wheeler,0,0,null,0,0,null,null
+29,4.4,BA Stokes,JJ Roy,BM Wheeler,0,0,null,0,0,null,null
+30,4.5,BA Stokes,JJ Roy,BM Wheeler,1,0,null,1,0,null,null
+31,4.6,JJ Roy,BA Stokes,BM Wheeler,0,0,null,0,0,null,null
+32,5.1,BA Stokes,JJ Roy,MJ Santner,4,0,null,4,0,null,null
+33,5.2,BA Stokes,JJ Roy,MJ Santner,0,1,byes ,1,0,null,null
+34,5.3,JJ Roy,BA Stokes,MJ Santner,1,0,null,1,0,null,null
+35,5.4,BA Stokes,JJ Roy,MJ Santner,2,0,null,2,0,null,null
+36,5.5,BA Stokes,JJ Roy,MJ Santner,1,0,null,1,0,null,null
+37,5.6,JJ Roy,BA Stokes,MJ Santner,0,0,null,0,0,null,null
+38,6.1,BA Stokes,JJ Roy,BM Wheeler,4,0,null,4,0,null,null
+39,6.2,BA Stokes,JJ Roy,BM Wheeler,4,0,null,4,0,null,null
+40,6.3,BA Stokes,JJ Roy,BM Wheeler,0,0,null,0,1,BA Stokes,caught
+41,6.4,JM Bairstow,JJ Roy,BM Wheeler,2,0,null,2,0,null,null
+42,6.5,JM Bairstow,JJ Roy,BM Wheeler,0,0,null,0,0,null,null
+43,6.6,JM Bairstow,JJ Roy,BM Wheeler,0,0,null,0,0,null,null
+44,7.1,JJ Roy,JM Bairstow,MJ Santner,0,0,null,0,0,null,null
+45,7.2,JJ Roy,JM Bairstow,MJ Santner,1,0,null,1,0,null,null
+46,7.3,JM Bairstow,JJ Roy,MJ Santner,2,0,null,2,0,null,null
+47,7.4,JM Bairstow,JJ Roy,MJ Santner,0,0,null,0,0,null,null
+48,7.5,JM Bairstow,JJ Roy,MJ Santner,0,0,null,0,0,null,null
+49,7.6,JM Bairstow,JJ Roy,MJ Santner,0,0,null,0,0,null,null
+50,8.1,JJ Roy,JM Bairstow,AW Mathieson,0,0,null,0,1,JJ Roy,caught
+51,8.2,JM Bairstow,SW Billings,AW Mathieson,1,0,null,1,0,null,null
+52,8.3,SW Billings,JM Bairstow,AW Mathieson,0,0,null,0,0,null,null
+53,8.4,SW Billings,JM Bairstow,AW Mathieson,0,0,null,0,0,null,null
+54,8.5,SW Billings,JM Bairstow,AW Mathieson,0,0,null,0,0,null,null
+55,8.6,SW Billings,JM Bairstow,AW Mathieson,1,0,null,1,0,null,null
+56,9.1,SW Billings,JM Bairstow,MJ Santner,1,0,null,1,0,null,null
+57,9.2,JM Bairstow,SW Billings,MJ Santner,0,0,null,0,0,null,null
+58,9.3,JM Bairstow,SW Billings,MJ Santner,2,0,null,2,0,null,null
+59,9.4,JM Bairstow,SW Billings,MJ Santner,0,0,null,0,0,null,null
+60,9.5,JM Bairstow,SW Billings,MJ Santner,1,0,null,1,0,null,null
+61,9.6,SW Billings,JM Bairstow,MJ Santner,1,0,null,1,0,null,null
+62,10.1,SW Billings,JM Bairstow,AW Mathieson,0,0,null,0,0,null,null
+63,10.2,SW Billings,JM Bairstow,AW Mathieson,4,0,null,4,0,null,null
+64,10.3,SW Billings,JM Bairstow,AW Mathieson,2,0,null,2,0,null,null
+65,10.4,SW Billings,JM Bairstow,AW Mathieson,4,0,null,4,0,null,null
+66,10.5,SW Billings,JM Bairstow,AW Mathieson,1,0,null,1,0,null,null
+67,10.6,JM Bairstow,SW Billings,AW Mathieson,0,0,null,0,0,null,null
+68,11.1,SW Billings,JM Bairstow,MJ Santner,1,0,null,1,0,null,null
+69,11.2,JM Bairstow,SW Billings,MJ Santner,0,0,null,0,0,null,null
+70,11.3,JM Bairstow,SW Billings,MJ Santner,4,0,null,4,0,null,null
+71,11.4,JM Bairstow,SW Billings,MJ Santner,1,0,null,1,0,null,null
+72,11.5,SW Billings,JM Bairstow,MJ Santner,1,0,null,1,0,null,null
+73,11.6,JM Bairstow,SW Billings,MJ Santner,1,0,null,1,0,null,null
+74,12.1,JM Bairstow,SW Billings,MJ Henry,0,0,null,0,0,null,null
+75,12.2,JM Bairstow,SW Billings,MJ Henry,1,0,null,1,0,null,null
+76,12.3,SW Billings,JM Bairstow,MJ Henry,0,0,null,0,0,null,null
+77,12.4,SW Billings,JM Bairstow,MJ Henry,0,0,null,0,0,null,null
+78,12.5,SW Billings,JM Bairstow,MJ Henry,1,0,null,1,0,null,null
+79,12.6,JM Bairstow,SW Billings,MJ Henry,1,0,null,1,0,null,null
+80,13.1,JM Bairstow,SW Billings,TG Southee,0,0,null,0,0,null,null
+81,13.2,JM Bairstow,SW Billings,TG Southee,0,0,null,0,0,null,null
+82,13.3,JM Bairstow,SW Billings,TG Southee,4,0,null,4,0,null,null
+83,13.4,JM Bairstow,SW Billings,TG Southee,4,0,null,4,0,null,null
+84,13.5,JM Bairstow,SW Billings,TG Southee,1,0,null,1,0,null,null
+85,13.6,SW Billings,JM Bairstow,TG Southee,1,0,null,1,0,null,null
+86,14.1,SW Billings,JM Bairstow,MJ Henry,1,0,null,1,0,null,null
+87,14.2,JM Bairstow,SW Billings,MJ Henry,0,0,null,0,0,null,null
+88,14.3,JM Bairstow,SW Billings,MJ Henry,0,1,wides ,1,0,null,null
+89,14.4,JM Bairstow,SW Billings,MJ Henry,1,0,null,1,0,null,null
+90,14.5,SW Billings,JM Bairstow,MJ Henry,4,0,null,4,0,null,null
+91,14.6,SW Billings,JM Bairstow,MJ Henry,2,0,null,2,0,null,null
+92,14.7,SW Billings,JM Bairstow,MJ Henry,2,0,null,2,0,null,null
+93,15.1,JM Bairstow,SW Billings,GD Elliott,0,1,wides ,1,0,null,null
+94,15.2,JM Bairstow,SW Billings,GD Elliott,0,0,null,0,0,null,null
+95,15.3,JM Bairstow,SW Billings,GD Elliott,4,0,null,4,0,null,null
+96,15.4,JM Bairstow,SW Billings,GD Elliott,4,0,null,4,0,null,null
+97,15.5,JM Bairstow,SW Billings,GD Elliott,1,0,null,1,0,null,null
+98,15.6,SW Billings,JM Bairstow,GD Elliott,0,0,null,0,0,null,null
+99,15.7,SW Billings,JM Bairstow,GD Elliott,6,0,null,6,0,null,null
+100,16.1,JM Bairstow,SW Billings,AW Mathieson,2,0,null,2,0,null,null
+101,16.2,JM Bairstow,SW Billings,AW Mathieson,1,0,null,1,0,null,null
+102,16.3,SW Billings,JM Bairstow,AW Mathieson,4,0,null,4,0,null,null
+103,16.4,SW Billings,JM Bairstow,AW Mathieson,1,0,null,1,0,null,null
+104,16.5,JM Bairstow,SW Billings,AW Mathieson,1,0,null,1,0,null,null
+105,16.6,SW Billings,JM Bairstow,AW Mathieson,1,0,null,1,0,null,null
+106,17.1,SW Billings,JM Bairstow,MJ Henry,0,0,null,0,0,null,null
+107,17.2,SW Billings,JM Bairstow,MJ Henry,0,0,null,0,0,null,null
+108,17.3,SW Billings,JM Bairstow,MJ Henry,2,0,null,2,0,null,null
+109,17.4,SW Billings,JM Bairstow,MJ Henry,0,1,wides ,1,0,null,null
+110,17.5,SW Billings,JM Bairstow,MJ Henry,0,1,wides ,1,0,null,null
+111,17.6,SW Billings,JM Bairstow,MJ Henry,0,0,null,0,1,SW Billings,caught
+112,17.7,DJ Willey,JM Bairstow,MJ Henry,1,0,null,1,0,null,null
+113,17.8,JM Bairstow,DJ Willey,MJ Henry,0,0,null,0,0,null,null
+114,18.1,DJ Willey,JM Bairstow,BM Wheeler,0,0,null,0,0,null,null
+115,18.2,DJ Willey,JM Bairstow,BM Wheeler,1,0,null,1,0,null,null
+116,18.3,JM Bairstow,DJ Willey,BM Wheeler,0,0,null,0,0,null,null
+117,18.4,JM Bairstow,DJ Willey,BM Wheeler,3,0,null,3,0,null,null
+118,18.5,DJ Willey,JM Bairstow,BM Wheeler,0,0,null,0,0,null,null
+119,18.6,DJ Willey,JM Bairstow,BM Wheeler,0,0,null,0,0,null,null
+120,19.1,JM Bairstow,DJ Willey,MJ Henry,2,0,null,2,0,null,null
+121,19.2,JM Bairstow,DJ Willey,MJ Henry,0,0,null,0,0,null,null
+122,19.3,JM Bairstow,DJ Willey,MJ Henry,1,0,null,1,0,null,null
+123,19.4,DJ Willey,JM Bairstow,MJ Henry,4,0,null,4,0,null,null
+124,19.5,DJ Willey,JM Bairstow,MJ Henry,0,0,null,0,0,null,null
+125,19.6,DJ Willey,JM Bairstow,MJ Henry,1,0,null,1,0,null,null
+126,20.1,DJ Willey,JM Bairstow,BM Wheeler,0,0,null,0,1,DJ Willey,caught
+127,20.2,JM Bairstow,AU Rashid,BM Wheeler,0,0,null,0,0,null,null
+128,20.3,JM Bairstow,AU Rashid,BM Wheeler,0,0,null,0,0,null,null
+129,20.4,JM Bairstow,AU Rashid,BM Wheeler,4,0,null,4,0,null,null
+130,20.5,JM Bairstow,AU Rashid,BM Wheeler,0,0,null,0,0,null,null
+131,20.6,JM Bairstow,AU Rashid,BM Wheeler,1,0,null,1,0,null,null
+132,21.1,JM Bairstow,AU Rashid,MJ Henry,1,0,null,1,0,null,null
+133,21.2,AU Rashid,JM Bairstow,MJ Henry,1,0,null,1,0,null,null
+134,21.3,JM Bairstow,AU Rashid,MJ Henry,4,0,null,4,0,null,null
+135,21.4,JM Bairstow,AU Rashid,MJ Henry,1,0,null,1,0,null,null
+136,21.5,AU Rashid,JM Bairstow,MJ Henry,1,0,null,1,0,null,null
+137,21.6,JM Bairstow,AU Rashid,MJ Henry,2,0,null,2,0,null,null
+138,22.1,AU Rashid,JM Bairstow,BM Wheeler,0,1,legbyes ,1,0,null,null
+139,22.2,JM Bairstow,AU Rashid,BM Wheeler,2,0,null,2,0,null,null
+140,22.3,JM Bairstow,AU Rashid,BM Wheeler,0,0,null,0,0,null,null
+141,22.4,JM Bairstow,AU Rashid,BM Wheeler,4,0,null,4,0,null,null
+142,22.5,JM Bairstow,AU Rashid,BM Wheeler,3,0,null,3,0,null,null
+143,22.6,AU Rashid,JM Bairstow,BM Wheeler,4,0,null,4,0,null,null
+144,23.1,JM Bairstow,AU Rashid,TG Southee,0,1,legbyes ,1,0,null,null
+145,23.2,AU Rashid,JM Bairstow,TG Southee,0,1,wides ,1,0,null,null
+146,23.3,AU Rashid,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+147,23.4,AU Rashid,JM Bairstow,TG Southee,0,0,null,0,0,null,null
+148,23.5,AU Rashid,JM Bairstow,TG Southee,1,0,null,1,0,null,null
+149,23.6,JM Bairstow,AU Rashid,TG Southee,4,0,null,4,0,null,null
+150,23.7,JM Bairstow,AU Rashid,TG Southee,1,0,null,1,0,null,null
+151,24.1,JM Bairstow,AU Rashid,AW Mathieson,4,0,null,4,0,null,null
+152,24.2,JM Bairstow,AU Rashid,AW Mathieson,4,0,null,4,0,null,null
+153,24.3,JM Bairstow,AU Rashid,AW Mathieson,1,0,null,1,0,null,null
+154,24.4,AU Rashid,JM Bairstow,AW Mathieson,4,0,null,4,0,null,null
+155,24.5,AU Rashid,JM Bairstow,AW Mathieson,1,0,null,1,0,null,null
+156,24.6,JM Bairstow,AU Rashid,AW Mathieson,0,1,wides ,1,0,null,null
+157,24.7,JM Bairstow,AU Rashid,AW Mathieson,2,0,null,2,0,null,null

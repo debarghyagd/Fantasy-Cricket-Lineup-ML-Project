@@ -1,0 +1,16 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1174238,Sharjah Cricket Stadium,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,8,11,1,0
+1,1174238,Sharjah Cricket Stadium,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,6,12,0,0
+2,1174238,Sharjah Cricket Stadium,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",1,3,11,0,0
+3,1174238,Sharjah Cricket Stadium,Australia,NM Lyon,Right-arm offbreak,"[1, 1, 0]",0,11,19,1,0
+4,1174238,Sharjah Cricket Stadium,Australia,JA Richardson,Right-arm fast,"[0, 1, 0]",0,12,10,3,0
+5,1174239,Sharjah Cricket Stadium,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",0,18,15,4,0
+6,1174239,Sharjah Cricket Stadium,Australia,JA Richardson,Right-arm fast,"[0, 1, 0]",1,1,2,0,0
+7,1174240,Sheikh Zayed Stadium,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",1,1,6,0,0
+8,1174240,Sheikh Zayed Stadium,Australia,JP Behrendorff,Left-arm fast-medium,"[0, 0, 1]",0,1,3,0,0
+9,1174241,Dubai International Cricket Stadium,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",1,0,5,0,0
+10,1174242,Dubai International Cricket Stadium,Australia,JP Behrendorff,Left-arm fast-medium,"[0, 0, 1]",0,14,17,1,0
+11,1174242,Dubai International Cricket Stadium,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,7,9,0,0
+12,1174242,Dubai International Cricket Stadium,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",1,3,4,0,0
+13,1174242,Dubai International Cricket Stadium,Australia,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",0,13,11,1,0
+14,1174242,Dubai International Cricket Stadium,Australia,NM Lyon,Right-arm offbreak,"[1, 1, 0]",0,13,13,1,0

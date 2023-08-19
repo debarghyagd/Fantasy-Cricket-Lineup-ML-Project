@@ -1,0 +1,12 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,461566,Sheikh Zayed Stadium,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",0,1,1,0,0
+1,461566,Sheikh Zayed Stadium,South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+2,461566,Sheikh Zayed Stadium,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,4,11,0,0
+3,461567,Sheikh Zayed Stadium,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",1,1,2,0,0
+4,461568,Dubai International Cricket Stadium,South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",0,5,4,1,0
+5,461568,Dubai International Cricket Stadium,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+6,461568,Dubai International Cricket Stadium,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,2,3,0,0
+7,461568,Dubai International Cricket Stadium,South Africa,J Theron,Right-arm fast-medium,"[0, 1, 1]",0,4,1,1,0
+8,461569,Dubai International Cricket Stadium,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",0,5,10,0,0
+9,461569,Dubai International Cricket Stadium,South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+10,461569,Dubai International Cricket Stadium,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,6,5,1,0

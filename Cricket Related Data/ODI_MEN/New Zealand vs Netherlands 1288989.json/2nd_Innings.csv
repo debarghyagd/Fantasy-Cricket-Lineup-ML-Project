@@ -1,0 +1,265 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,SJ Myburgh,MP O'Dowd,MJ Henry,4,0,null,4,0,null,null
+1,0.2,SJ Myburgh,MP O'Dowd,MJ Henry,0,0,null,0,0,null,null
+2,0.3,SJ Myburgh,MP O'Dowd,MJ Henry,4,0,null,4,0,null,null
+3,0.4,SJ Myburgh,MP O'Dowd,MJ Henry,4,0,null,4,0,null,null
+4,0.5,SJ Myburgh,MP O'Dowd,MJ Henry,1,0,null,1,0,null,null
+5,0.6,MP O'Dowd,SJ Myburgh,MJ Henry,0,0,null,0,0,null,null
+6,1.1,SJ Myburgh,MP O'Dowd,KA Jamieson,0,0,null,0,0,null,null
+7,1.2,SJ Myburgh,MP O'Dowd,KA Jamieson,2,0,null,2,0,null,null
+8,1.3,SJ Myburgh,MP O'Dowd,KA Jamieson,4,0,null,4,0,null,null
+9,1.4,SJ Myburgh,MP O'Dowd,KA Jamieson,0,0,null,0,0,null,null
+10,1.5,SJ Myburgh,MP O'Dowd,KA Jamieson,0,0,null,0,0,null,null
+11,1.6,SJ Myburgh,MP O'Dowd,KA Jamieson,4,0,null,4,0,null,null
+12,2.1,MP O'Dowd,SJ Myburgh,MJ Henry,1,0,null,1,0,null,null
+13,2.2,SJ Myburgh,MP O'Dowd,MJ Henry,1,0,null,1,0,null,null
+14,2.3,MP O'Dowd,SJ Myburgh,MJ Henry,0,0,null,0,0,null,null
+15,2.4,MP O'Dowd,SJ Myburgh,MJ Henry,0,0,null,0,0,null,null
+16,2.5,MP O'Dowd,SJ Myburgh,MJ Henry,0,0,null,0,0,null,null
+17,2.6,MP O'Dowd,SJ Myburgh,MJ Henry,0,0,null,0,0,null,null
+18,3.1,SJ Myburgh,MP O'Dowd,KA Jamieson,4,0,null,4,0,null,null
+19,3.2,SJ Myburgh,MP O'Dowd,KA Jamieson,1,0,null,1,0,null,null
+20,3.3,MP O'Dowd,SJ Myburgh,KA Jamieson,0,0,null,0,0,null,null
+21,3.4,MP O'Dowd,SJ Myburgh,KA Jamieson,0,0,null,0,0,null,null
+22,3.5,MP O'Dowd,SJ Myburgh,KA Jamieson,0,0,null,0,0,null,null
+23,3.6,MP O'Dowd,SJ Myburgh,KA Jamieson,0,0,null,0,0,null,null
+24,4.1,SJ Myburgh,MP O'Dowd,MJ Henry,0,0,null,0,0,null,null
+25,4.2,SJ Myburgh,MP O'Dowd,MJ Henry,0,0,null,0,0,null,null
+26,4.3,SJ Myburgh,MP O'Dowd,MJ Henry,0,0,null,0,0,null,null
+27,4.4,SJ Myburgh,MP O'Dowd,MJ Henry,4,0,null,4,0,null,null
+28,4.5,SJ Myburgh,MP O'Dowd,MJ Henry,0,0,null,0,0,null,null
+29,4.6,SJ Myburgh,MP O'Dowd,MJ Henry,4,0,null,4,0,null,null
+30,5.1,MP O'Dowd,SJ Myburgh,KA Jamieson,2,0,null,2,0,null,null
+31,5.2,MP O'Dowd,SJ Myburgh,KA Jamieson,1,0,null,1,0,null,null
+32,5.3,SJ Myburgh,MP O'Dowd,KA Jamieson,0,0,null,0,0,null,null
+33,5.4,SJ Myburgh,MP O'Dowd,KA Jamieson,6,0,null,6,0,null,null
+34,5.5,SJ Myburgh,MP O'Dowd,KA Jamieson,0,0,null,0,0,null,null
+35,5.6,SJ Myburgh,MP O'Dowd,KA Jamieson,0,0,null,0,0,null,null
+36,6.1,MP O'Dowd,SJ Myburgh,DAJ Bracewell,0,0,null,0,0,null,null
+37,6.2,MP O'Dowd,SJ Myburgh,DAJ Bracewell,0,0,null,0,0,null,null
+38,6.3,MP O'Dowd,SJ Myburgh,DAJ Bracewell,4,0,null,4,0,null,null
+39,6.4,MP O'Dowd,SJ Myburgh,DAJ Bracewell,0,0,null,0,0,null,null
+40,6.5,MP O'Dowd,SJ Myburgh,DAJ Bracewell,0,0,null,0,0,null,null
+41,6.6,MP O'Dowd,SJ Myburgh,DAJ Bracewell,0,0,null,0,0,null,null
+42,7.1,SJ Myburgh,MP O'Dowd,MG Bracewell,0,0,null,0,0,null,null
+43,7.2,SJ Myburgh,MP O'Dowd,MG Bracewell,4,0,null,4,0,null,null
+44,7.3,SJ Myburgh,MP O'Dowd,MG Bracewell,0,0,null,0,0,null,null
+45,7.4,SJ Myburgh,MP O'Dowd,MG Bracewell,0,0,null,0,0,null,null
+46,7.5,SJ Myburgh,MP O'Dowd,MG Bracewell,0,0,null,0,0,null,null
+47,7.6,SJ Myburgh,MP O'Dowd,MG Bracewell,0,0,null,0,0,null,null
+48,8.1,MP O'Dowd,SJ Myburgh,DAJ Bracewell,4,0,null,4,0,null,null
+49,8.2,MP O'Dowd,SJ Myburgh,DAJ Bracewell,0,1,wides ,1,0,null,null
+50,8.3,MP O'Dowd,SJ Myburgh,DAJ Bracewell,0,0,null,0,0,null,null
+51,8.4,MP O'Dowd,SJ Myburgh,DAJ Bracewell,1,0,null,1,0,null,null
+52,8.5,SJ Myburgh,MP O'Dowd,DAJ Bracewell,1,0,null,1,0,null,null
+53,8.6,MP O'Dowd,SJ Myburgh,DAJ Bracewell,0,0,null,0,0,null,null
+54,8.7,MP O'Dowd,SJ Myburgh,DAJ Bracewell,0,0,null,0,0,null,null
+55,9.1,SJ Myburgh,MP O'Dowd,MG Bracewell,0,0,null,0,0,null,null
+56,9.2,SJ Myburgh,MP O'Dowd,MG Bracewell,4,0,null,4,0,null,null
+57,9.3,SJ Myburgh,MP O'Dowd,MG Bracewell,4,0,null,4,0,null,null
+58,9.4,SJ Myburgh,MP O'Dowd,MG Bracewell,0,0,null,0,0,null,null
+59,9.5,SJ Myburgh,MP O'Dowd,MG Bracewell,0,0,null,0,0,null,null
+60,9.6,SJ Myburgh,MP O'Dowd,MG Bracewell,4,0,null,4,0,null,null
+61,10.1,MP O'Dowd,SJ Myburgh,DAJ Bracewell,0,0,null,0,0,null,null
+62,10.2,MP O'Dowd,SJ Myburgh,DAJ Bracewell,0,1,wides ,1,0,null,null
+63,10.3,MP O'Dowd,SJ Myburgh,DAJ Bracewell,1,0,null,1,0,null,null
+64,10.4,SJ Myburgh,MP O'Dowd,DAJ Bracewell,0,0,null,0,0,null,null
+65,10.5,SJ Myburgh,MP O'Dowd,DAJ Bracewell,0,0,null,0,0,null,null
+66,10.6,SJ Myburgh,MP O'Dowd,DAJ Bracewell,4,0,null,4,0,null,null
+67,10.7,SJ Myburgh,MP O'Dowd,DAJ Bracewell,0,0,null,0,0,null,null
+68,11.1,MP O'Dowd,SJ Myburgh,C de Grandhomme,0,0,null,0,0,null,null
+69,11.2,MP O'Dowd,SJ Myburgh,C de Grandhomme,1,0,null,1,0,null,null
+70,11.3,SJ Myburgh,MP O'Dowd,C de Grandhomme,0,0,null,0,0,null,null
+71,11.4,SJ Myburgh,MP O'Dowd,C de Grandhomme,0,0,null,0,1,SJ Myburgh,caught
+72,11.5,MP O'Dowd,Vikramjit Singh,C de Grandhomme,1,0,null,1,0,null,null
+73,11.6,Vikramjit Singh,MP O'Dowd,C de Grandhomme,0,0,null,0,0,null,null
+74,12.1,MP O'Dowd,Vikramjit Singh,DAJ Bracewell,0,0,null,0,0,null,null
+75,12.2,MP O'Dowd,Vikramjit Singh,DAJ Bracewell,0,0,null,0,0,null,null
+76,12.3,MP O'Dowd,Vikramjit Singh,DAJ Bracewell,0,0,null,0,0,null,null
+77,12.4,MP O'Dowd,Vikramjit Singh,DAJ Bracewell,0,0,null,0,0,null,null
+78,12.5,MP O'Dowd,Vikramjit Singh,DAJ Bracewell,0,0,null,0,1,MP O'Dowd,lbw
+79,12.6,BFW de Leede,Vikramjit Singh,DAJ Bracewell,0,0,null,0,0,null,null
+80,13.1,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+81,13.2,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+82,13.3,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+83,13.4,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+84,13.5,Vikramjit Singh,BFW de Leede,C de Grandhomme,6,0,null,6,0,null,null
+85,13.6,Vikramjit Singh,BFW de Leede,C de Grandhomme,1,0,null,1,0,null,null
+86,14.1,Vikramjit Singh,BFW de Leede,IS Sodhi,1,0,null,1,0,null,null
+87,14.2,BFW de Leede,Vikramjit Singh,IS Sodhi,0,0,null,0,0,null,null
+88,14.3,BFW de Leede,Vikramjit Singh,IS Sodhi,1,0,null,1,0,null,null
+89,14.4,Vikramjit Singh,BFW de Leede,IS Sodhi,1,0,null,1,0,null,null
+90,14.5,BFW de Leede,Vikramjit Singh,IS Sodhi,1,0,null,1,0,null,null
+91,14.6,Vikramjit Singh,BFW de Leede,IS Sodhi,1,0,null,1,0,null,null
+92,15.1,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+93,15.2,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+94,15.3,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+95,15.4,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+96,15.5,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+97,15.6,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+98,16.1,BFW de Leede,Vikramjit Singh,IS Sodhi,1,0,null,1,0,null,null
+99,16.2,Vikramjit Singh,BFW de Leede,IS Sodhi,0,0,null,0,0,null,null
+100,16.3,Vikramjit Singh,BFW de Leede,IS Sodhi,0,0,null,0,0,null,null
+101,16.4,Vikramjit Singh,BFW de Leede,IS Sodhi,0,0,null,0,0,null,null
+102,16.5,Vikramjit Singh,BFW de Leede,IS Sodhi,0,0,null,0,0,null,null
+103,16.6,Vikramjit Singh,BFW de Leede,IS Sodhi,1,0,null,1,0,null,null
+104,17.1,Vikramjit Singh,BFW de Leede,C de Grandhomme,1,0,null,1,0,null,null
+105,17.2,BFW de Leede,Vikramjit Singh,C de Grandhomme,0,0,null,0,0,null,null
+106,17.3,BFW de Leede,Vikramjit Singh,C de Grandhomme,0,0,null,0,0,null,null
+107,17.4,BFW de Leede,Vikramjit Singh,C de Grandhomme,1,0,null,1,0,null,null
+108,17.5,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+109,17.6,Vikramjit Singh,BFW de Leede,C de Grandhomme,1,0,null,1,0,null,null
+110,18.1,Vikramjit Singh,BFW de Leede,IS Sodhi,1,0,null,1,0,null,null
+111,18.2,BFW de Leede,Vikramjit Singh,IS Sodhi,1,0,null,1,0,null,null
+112,18.3,Vikramjit Singh,BFW de Leede,IS Sodhi,0,0,null,0,0,null,null
+113,18.4,Vikramjit Singh,BFW de Leede,IS Sodhi,1,0,null,1,0,null,null
+114,18.5,BFW de Leede,Vikramjit Singh,IS Sodhi,0,0,null,0,0,null,null
+115,18.6,BFW de Leede,Vikramjit Singh,IS Sodhi,0,0,null,0,0,null,null
+116,19.1,Vikramjit Singh,BFW de Leede,C de Grandhomme,1,0,null,1,0,null,null
+117,19.2,BFW de Leede,Vikramjit Singh,C de Grandhomme,0,2,legbyes ,2,0,null,null
+118,19.3,BFW de Leede,Vikramjit Singh,C de Grandhomme,0,0,null,0,0,null,null
+119,19.4,BFW de Leede,Vikramjit Singh,C de Grandhomme,0,0,null,0,0,null,null
+120,19.5,BFW de Leede,Vikramjit Singh,C de Grandhomme,1,0,null,1,0,null,null
+121,19.6,Vikramjit Singh,BFW de Leede,C de Grandhomme,1,0,null,1,0,null,null
+122,20.1,Vikramjit Singh,BFW de Leede,IS Sodhi,0,0,null,0,0,null,null
+123,20.2,Vikramjit Singh,BFW de Leede,IS Sodhi,0,0,null,0,0,null,null
+124,20.3,Vikramjit Singh,BFW de Leede,IS Sodhi,1,0,null,1,0,null,null
+125,20.4,BFW de Leede,Vikramjit Singh,IS Sodhi,0,0,null,0,0,null,null
+126,20.5,BFW de Leede,Vikramjit Singh,IS Sodhi,1,0,null,1,0,null,null
+127,20.6,Vikramjit Singh,BFW de Leede,IS Sodhi,0,0,null,0,0,null,null
+128,21.1,BFW de Leede,Vikramjit Singh,C de Grandhomme,4,0,null,4,0,null,null
+129,21.2,BFW de Leede,Vikramjit Singh,C de Grandhomme,0,0,null,0,0,null,null
+130,21.3,BFW de Leede,Vikramjit Singh,C de Grandhomme,1,0,null,1,0,null,null
+131,21.4,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+132,21.5,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+133,21.6,Vikramjit Singh,BFW de Leede,C de Grandhomme,0,0,null,0,0,null,null
+134,22.1,BFW de Leede,Vikramjit Singh,IS Sodhi,0,0,null,0,0,null,null
+135,22.2,BFW de Leede,Vikramjit Singh,IS Sodhi,1,0,null,1,0,null,null
+136,22.3,Vikramjit Singh,BFW de Leede,IS Sodhi,2,0,null,2,0,null,null
+137,22.4,Vikramjit Singh,BFW de Leede,IS Sodhi,0,0,null,0,0,null,null
+138,22.5,Vikramjit Singh,BFW de Leede,IS Sodhi,0,3,wides ,3,0,null,null
+139,22.6,Vikramjit Singh,BFW de Leede,IS Sodhi,0,0,null,0,0,null,null
+140,22.7,Vikramjit Singh,BFW de Leede,IS Sodhi,0,0,null,0,0,null,null
+141,23.1,BFW de Leede,Vikramjit Singh,MG Bracewell,0,1,legbyes ,1,0,null,null
+142,23.2,Vikramjit Singh,BFW de Leede,MG Bracewell,4,0,null,4,0,null,null
+143,23.3,Vikramjit Singh,BFW de Leede,MG Bracewell,0,0,null,0,0,null,null
+144,23.4,Vikramjit Singh,BFW de Leede,MG Bracewell,1,0,null,1,0,null,null
+145,23.5,BFW de Leede,Vikramjit Singh,MG Bracewell,1,0,null,1,0,null,null
+146,23.6,Vikramjit Singh,BFW de Leede,MG Bracewell,0,0,null,0,0,null,null
+147,24.1,BFW de Leede,Vikramjit Singh,MJ Henry,0,0,null,0,0,null,null
+148,24.2,BFW de Leede,Vikramjit Singh,MJ Henry,0,0,null,0,0,null,null
+149,24.3,BFW de Leede,Vikramjit Singh,MJ Henry,1,0,null,1,0,null,null
+150,24.4,Vikramjit Singh,BFW de Leede,MJ Henry,0,0,null,0,0,null,null
+151,24.5,Vikramjit Singh,BFW de Leede,MJ Henry,0,0,null,0,0,null,null
+152,24.6,Vikramjit Singh,BFW de Leede,MJ Henry,0,0,null,0,1,Vikramjit Singh,lbw
+153,25.1,BFW de Leede,SA Edwards,MG Bracewell,1,0,null,1,0,null,null
+154,25.2,SA Edwards,BFW de Leede,MG Bracewell,4,0,null,4,0,null,null
+155,25.3,SA Edwards,BFW de Leede,MG Bracewell,1,0,null,1,0,null,null
+156,25.4,BFW de Leede,SA Edwards,MG Bracewell,0,0,null,0,0,null,null
+157,25.5,BFW de Leede,SA Edwards,MG Bracewell,4,0,null,4,0,null,null
+158,25.6,BFW de Leede,SA Edwards,MG Bracewell,0,0,null,0,0,null,null
+159,26.1,SA Edwards,BFW de Leede,MJ Henry,2,0,null,2,0,null,null
+160,26.2,SA Edwards,BFW de Leede,MJ Henry,0,0,null,0,0,null,null
+161,26.3,SA Edwards,BFW de Leede,MJ Henry,0,1,wides ,1,0,null,null
+162,26.4,SA Edwards,BFW de Leede,MJ Henry,1,0,null,1,0,null,null
+163,26.5,BFW de Leede,SA Edwards,MJ Henry,1,0,null,1,0,null,null
+164,26.6,SA Edwards,BFW de Leede,MJ Henry,0,0,null,0,0,null,null
+165,26.7,SA Edwards,BFW de Leede,MJ Henry,1,0,null,1,0,null,null
+166,27.1,SA Edwards,BFW de Leede,KA Jamieson,0,0,null,0,0,null,null
+167,27.2,SA Edwards,BFW de Leede,KA Jamieson,0,0,null,0,1,SA Edwards,caught
+168,27.3,MJG Rippon,BFW de Leede,KA Jamieson,0,0,null,0,0,null,null
+169,27.4,MJG Rippon,BFW de Leede,KA Jamieson,0,0,null,0,0,null,null
+170,27.5,MJG Rippon,BFW de Leede,KA Jamieson,0,0,null,0,0,null,null
+171,27.6,MJG Rippon,BFW de Leede,KA Jamieson,0,0,null,0,0,null,null
+172,28.1,BFW de Leede,MJG Rippon,MJ Henry,0,0,null,0,0,null,null
+173,28.2,BFW de Leede,MJG Rippon,MJ Henry,0,0,null,0,1,BFW de Leede,bowled
+174,28.3,PM Seelaar,MJG Rippon,MJ Henry,0,0,null,0,1,PM Seelaar,caught
+175,28.4,LV van Beek,MJG Rippon,MJ Henry,0,0,null,0,0,null,null
+176,28.5,LV van Beek,MJG Rippon,MJ Henry,0,0,null,0,0,null,null
+177,28.6,LV van Beek,MJG Rippon,MJ Henry,0,0,null,0,0,null,null
+178,29.1,MJG Rippon,LV van Beek,KA Jamieson,4,0,null,4,0,null,null
+179,29.2,MJG Rippon,LV van Beek,KA Jamieson,1,0,null,1,0,null,null
+180,29.3,LV van Beek,MJG Rippon,KA Jamieson,0,0,null,0,0,null,null
+181,29.4,LV van Beek,MJG Rippon,KA Jamieson,0,0,null,0,0,null,null
+182,29.5,LV van Beek,MJG Rippon,KA Jamieson,0,1,wides ,1,0,null,null
+183,29.6,LV van Beek,MJG Rippon,KA Jamieson,0,0,null,0,0,null,null
+184,29.7,LV van Beek,MJG Rippon,KA Jamieson,0,0,null,0,0,null,null
+185,30.1,MJG Rippon,LV van Beek,MJ Henry,0,0,null,0,0,null,null
+186,30.2,MJG Rippon,LV van Beek,MJ Henry,1,0,null,1,0,null,null
+187,30.3,LV van Beek,MJG Rippon,MJ Henry,0,0,null,0,0,null,null
+188,30.4,LV van Beek,MJG Rippon,MJ Henry,0,0,null,0,0,null,null
+189,30.5,LV van Beek,MJG Rippon,MJ Henry,1,0,null,1,0,null,null
+190,30.6,MJG Rippon,LV van Beek,MJ Henry,4,0,null,4,0,null,null
+191,31.1,LV van Beek,MJG Rippon,KA Jamieson,0,0,null,0,0,null,null
+192,31.2,LV van Beek,MJG Rippon,KA Jamieson,1,1,noballs ,2,0,null,null
+193,31.3,MJG Rippon,LV van Beek,KA Jamieson,6,1,noballs ,7,0,null,null
+194,31.4,MJG Rippon,LV van Beek,KA Jamieson,1,0,null,1,0,null,null
+195,31.5,LV van Beek,MJG Rippon,KA Jamieson,1,0,null,1,0,null,null
+196,31.6,MJG Rippon,LV van Beek,KA Jamieson,0,0,null,0,0,null,null
+197,31.7,MJG Rippon,LV van Beek,KA Jamieson,0,1,wides ,1,0,null,null
+198,31.8,MJG Rippon,LV van Beek,KA Jamieson,1,0,null,1,0,null,null
+199,31.9,LV van Beek,MJG Rippon,KA Jamieson,0,0,null,0,0,null,null
+200,32.1,MJG Rippon,LV van Beek,IS Sodhi,1,0,null,1,0,null,null
+201,32.2,LV van Beek,MJG Rippon,IS Sodhi,1,0,null,1,0,null,null
+202,32.3,MJG Rippon,LV van Beek,IS Sodhi,4,0,null,4,0,null,null
+203,32.4,MJG Rippon,LV van Beek,IS Sodhi,0,0,null,0,0,null,null
+204,32.5,MJG Rippon,LV van Beek,IS Sodhi,0,0,null,0,0,null,null
+205,32.6,MJG Rippon,LV van Beek,IS Sodhi,0,0,null,0,0,null,null
+206,33.1,LV van Beek,MJG Rippon,DAJ Bracewell,0,0,null,0,0,null,null
+207,33.2,LV van Beek,MJG Rippon,DAJ Bracewell,0,0,null,0,0,null,null
+208,33.3,LV van Beek,MJG Rippon,DAJ Bracewell,0,0,null,0,0,null,null
+209,33.4,LV van Beek,MJG Rippon,DAJ Bracewell,1,0,null,1,0,null,null
+210,33.5,MJG Rippon,LV van Beek,DAJ Bracewell,1,0,null,1,0,null,null
+211,33.6,LV van Beek,MJG Rippon,DAJ Bracewell,0,0,null,0,0,null,null
+212,34.1,MJG Rippon,LV van Beek,IS Sodhi,0,0,null,0,0,null,null
+213,34.2,MJG Rippon,LV van Beek,IS Sodhi,0,0,null,0,0,null,null
+214,34.3,MJG Rippon,LV van Beek,IS Sodhi,0,0,null,0,0,null,null
+215,34.4,MJG Rippon,LV van Beek,IS Sodhi,0,0,null,0,1,MJG Rippon,caught
+216,34.5,A Dutt,LV van Beek,IS Sodhi,0,0,null,0,0,null,null
+217,34.6,A Dutt,LV van Beek,IS Sodhi,0,0,null,0,0,null,null
+218,35.1,LV van Beek,A Dutt,DAJ Bracewell,0,0,null,0,0,null,null
+219,35.2,LV van Beek,A Dutt,DAJ Bracewell,1,0,null,1,0,null,null
+220,35.3,A Dutt,LV van Beek,DAJ Bracewell,0,0,null,0,0,null,null
+221,35.4,A Dutt,LV van Beek,DAJ Bracewell,0,0,null,0,0,null,null
+222,35.5,A Dutt,LV van Beek,DAJ Bracewell,0,0,null,0,0,null,null
+223,35.6,A Dutt,LV van Beek,DAJ Bracewell,0,0,null,0,0,null,null
+224,36.1,LV van Beek,A Dutt,IS Sodhi,0,0,null,0,0,null,null
+225,36.2,LV van Beek,A Dutt,IS Sodhi,0,0,null,0,0,null,null
+226,36.3,LV van Beek,A Dutt,IS Sodhi,6,0,null,6,0,null,null
+227,36.4,LV van Beek,A Dutt,IS Sodhi,1,0,null,1,0,null,null
+228,36.5,A Dutt,LV van Beek,IS Sodhi,0,0,null,0,0,null,null
+229,36.6,A Dutt,LV van Beek,IS Sodhi,0,0,null,0,0,null,null
+230,37.1,LV van Beek,A Dutt,MG Bracewell,2,0,null,2,0,null,null
+231,37.2,LV van Beek,A Dutt,MG Bracewell,4,0,null,4,0,null,null
+232,37.3,LV van Beek,A Dutt,MG Bracewell,1,0,null,1,0,null,null
+233,37.4,A Dutt,LV van Beek,MG Bracewell,4,0,null,4,0,null,null
+234,37.5,A Dutt,LV van Beek,MG Bracewell,0,0,null,0,0,null,null
+235,37.6,A Dutt,LV van Beek,MG Bracewell,1,0,null,1,0,null,null
+236,38.1,A Dutt,LV van Beek,IS Sodhi,0,0,null,0,0,null,null
+237,38.2,A Dutt,LV van Beek,IS Sodhi,1,0,null,1,0,null,null
+238,38.3,LV van Beek,A Dutt,IS Sodhi,0,0,null,0,0,null,null
+239,38.4,LV van Beek,A Dutt,IS Sodhi,0,0,null,0,0,null,null
+240,38.5,LV van Beek,A Dutt,IS Sodhi,0,0,null,0,0,null,null
+241,38.6,LV van Beek,A Dutt,IS Sodhi,6,0,null,6,0,null,null
+242,39.1,A Dutt,LV van Beek,MG Bracewell,1,0,null,1,0,null,null
+243,39.2,LV van Beek,A Dutt,MG Bracewell,6,0,null,6,0,null,null
+244,39.3,LV van Beek,A Dutt,MG Bracewell,0,0,null,0,0,null,null
+245,39.4,LV van Beek,A Dutt,MG Bracewell,0,0,null,0,1,LV van Beek,lbw
+246,39.5,C Floyd,A Dutt,MG Bracewell,2,0,null,2,0,null,null
+247,39.6,C Floyd,A Dutt,MG Bracewell,0,0,null,0,0,null,null
+248,40.1,A Dutt,C Floyd,IS Sodhi,0,0,null,0,0,null,null
+249,40.2,A Dutt,C Floyd,IS Sodhi,0,0,null,0,0,null,null
+250,40.3,A Dutt,C Floyd,IS Sodhi,0,0,null,0,0,null,null
+251,40.4,A Dutt,C Floyd,IS Sodhi,0,0,null,0,0,null,null
+252,40.5,A Dutt,C Floyd,IS Sodhi,0,0,null,0,0,null,null
+253,40.6,A Dutt,C Floyd,IS Sodhi,1,0,null,1,0,null,null
+254,41.1,A Dutt,C Floyd,DAJ Bracewell,1,0,null,1,0,null,null
+255,41.2,C Floyd,A Dutt,DAJ Bracewell,0,0,null,0,0,null,null
+256,41.3,C Floyd,A Dutt,DAJ Bracewell,0,0,null,0,0,null,null
+257,41.4,C Floyd,A Dutt,DAJ Bracewell,0,0,null,0,1,C Floyd,bowled
+258,41.5,FJ Klaassen,A Dutt,DAJ Bracewell,0,0,null,0,0,null,null
+259,41.6,FJ Klaassen,A Dutt,DAJ Bracewell,0,1,wides ,1,0,null,null
+260,41.7,FJ Klaassen,A Dutt,DAJ Bracewell,1,0,null,1,0,null,null
+261,42.1,FJ Klaassen,A Dutt,MJ Henry,0,0,null,0,0,null,null
+262,42.2,FJ Klaassen,A Dutt,MJ Henry,0,1,legbyes ,1,0,null,null
+263,42.3,A Dutt,FJ Klaassen,MJ Henry,0,0,null,0,1,A Dutt,caught

@@ -1,0 +1,173 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,B Zuiderent,ES Szwarczynski,KAD Hurdle,0,0,null,0,0,null,null
+1,0.2,B Zuiderent,ES Szwarczynski,KAD Hurdle,0,0,null,0,0,null,null
+2,0.3,B Zuiderent,ES Szwarczynski,KAD Hurdle,1,0,null,1,0,null,null
+3,0.4,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,0,null,0,0,null,null
+4,0.5,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,1,wides ,1,0,null,null
+5,0.6,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,0,null,0,0,null,null
+6,0.7,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,0,null,0,0,null,null
+7,1.1,B Zuiderent,ES Szwarczynski,S Mukuddem,0,0,null,0,0,null,null
+8,1.2,B Zuiderent,ES Szwarczynski,S Mukuddem,0,2,legbyes ,2,0,null,null
+9,1.3,B Zuiderent,ES Szwarczynski,S Mukuddem,1,0,null,1,0,null,null
+10,1.4,ES Szwarczynski,B Zuiderent,S Mukuddem,1,0,null,1,0,null,null
+11,1.5,B Zuiderent,ES Szwarczynski,S Mukuddem,0,0,null,0,0,null,null
+12,1.6,B Zuiderent,ES Szwarczynski,S Mukuddem,0,0,null,0,0,null,null
+13,2.1,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,0,null,0,0,null,null
+14,2.2,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,1,wides ,1,0,null,null
+15,2.3,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,0,null,0,0,null,null
+16,2.4,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,0,null,0,0,null,null
+17,2.5,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,1,wides ,1,0,null,null
+18,2.6,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,0,null,0,0,null,null
+19,2.7,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,0,null,0,0,null,null
+20,2.8,ES Szwarczynski,B Zuiderent,KAD Hurdle,0,0,null,0,0,null,null
+21,3.1,B Zuiderent,ES Szwarczynski,S Mukuddem,0,0,null,0,0,null,null
+22,3.2,B Zuiderent,ES Szwarczynski,S Mukuddem,1,0,null,1,0,null,null
+23,3.3,ES Szwarczynski,B Zuiderent,S Mukuddem,0,0,null,0,0,null,null
+24,3.4,ES Szwarczynski,B Zuiderent,S Mukuddem,0,0,null,0,0,null,null
+25,3.5,ES Szwarczynski,B Zuiderent,S Mukuddem,0,0,null,0,0,null,null
+26,3.6,ES Szwarczynski,B Zuiderent,S Mukuddem,0,1,wides ,1,0,null,null
+27,3.7,ES Szwarczynski,B Zuiderent,S Mukuddem,2,0,null,2,0,null,null
+28,4.1,B Zuiderent,ES Szwarczynski,KAD Hurdle,0,0,null,0,0,null,null
+29,4.2,B Zuiderent,ES Szwarczynski,KAD Hurdle,0,0,null,0,0,null,null
+30,4.3,B Zuiderent,ES Szwarczynski,KAD Hurdle,0,0,null,0,0,null,null
+31,4.4,B Zuiderent,ES Szwarczynski,KAD Hurdle,4,0,null,4,0,null,null
+32,4.5,B Zuiderent,ES Szwarczynski,KAD Hurdle,0,0,null,0,1,B Zuiderent,caught
+33,4.6,RN ten Doeschate,ES Szwarczynski,KAD Hurdle,0,0,null,0,0,null,null
+34,5.1,ES Szwarczynski,RN ten Doeschate,S Mukuddem,4,0,null,4,0,null,null
+35,5.2,ES Szwarczynski,RN ten Doeschate,S Mukuddem,3,0,null,3,0,null,null
+36,5.3,RN ten Doeschate,ES Szwarczynski,S Mukuddem,0,0,null,0,0,null,null
+37,5.4,RN ten Doeschate,ES Szwarczynski,S Mukuddem,0,0,null,0,0,null,null
+38,5.5,RN ten Doeschate,ES Szwarczynski,S Mukuddem,1,0,null,1,0,null,null
+39,5.6,ES Szwarczynski,RN ten Doeschate,S Mukuddem,0,1,wides ,1,0,null,null
+40,5.7,ES Szwarczynski,RN ten Doeschate,S Mukuddem,0,0,null,0,1,ES Szwarczynski,caught
+41,6.1,RN ten Doeschate,DLS van Bunge,KAD Hurdle,0,0,null,0,0,null,null
+42,6.2,RN ten Doeschate,DLS van Bunge,KAD Hurdle,2,1,noballs ,3,0,null,null
+43,6.3,RN ten Doeschate,DLS van Bunge,KAD Hurdle,0,0,null,0,0,null,null
+44,6.4,RN ten Doeschate,DLS van Bunge,KAD Hurdle,1,0,null,1,0,null,null
+45,6.5,DLS van Bunge,RN ten Doeschate,KAD Hurdle,0,0,null,0,0,null,null
+46,6.6,DLS van Bunge,RN ten Doeschate,KAD Hurdle,0,0,null,0,0,null,null
+47,6.7,DLS van Bunge,RN ten Doeschate,KAD Hurdle,1,0,null,1,0,null,null
+48,7.1,DLS van Bunge,RN ten Doeschate,S Mukuddem,0,0,null,0,0,null,null
+49,7.2,DLS van Bunge,RN ten Doeschate,S Mukuddem,0,0,null,0,0,null,null
+50,7.3,DLS van Bunge,RN ten Doeschate,S Mukuddem,0,0,null,0,0,null,null
+51,7.4,DLS van Bunge,RN ten Doeschate,S Mukuddem,1,0,null,1,0,null,null
+52,7.5,RN ten Doeschate,DLS van Bunge,S Mukuddem,0,0,null,0,0,null,null
+53,7.6,RN ten Doeschate,DLS van Bunge,S Mukuddem,0,0,null,0,0,null,null
+54,8.1,DLS van Bunge,RN ten Doeschate,KAD Hurdle,0,0,null,0,0,null,null
+55,8.2,DLS van Bunge,RN ten Doeschate,KAD Hurdle,1,0,null,1,0,null,null
+56,8.3,RN ten Doeschate,DLS van Bunge,KAD Hurdle,0,0,null,0,0,null,null
+57,8.4,RN ten Doeschate,DLS van Bunge,KAD Hurdle,4,0,null,4,0,null,null
+58,8.5,RN ten Doeschate,DLS van Bunge,KAD Hurdle,4,0,null,4,0,null,null
+59,8.6,RN ten Doeschate,DLS van Bunge,KAD Hurdle,0,0,null,0,0,null,null
+60,9.1,DLS van Bunge,RN ten Doeschate,S Mukuddem,0,0,null,0,0,null,null
+61,9.2,DLS van Bunge,RN ten Doeschate,S Mukuddem,6,0,null,6,0,null,null
+62,9.3,DLS van Bunge,RN ten Doeschate,S Mukuddem,0,0,null,0,1,DLS van Bunge,bowled
+63,9.4,AN Kervezee,RN ten Doeschate,S Mukuddem,0,0,null,0,0,null,null
+64,9.5,AN Kervezee,RN ten Doeschate,S Mukuddem,0,1,wides ,1,0,null,null
+65,9.6,AN Kervezee,RN ten Doeschate,S Mukuddem,0,0,null,0,0,null,null
+66,9.7,AN Kervezee,RN ten Doeschate,S Mukuddem,0,0,null,0,0,null,null
+67,10.1,RN ten Doeschate,AN Kervezee,KAD Hurdle,0,0,null,0,1,RN ten Doeschate,caught
+68,10.2,TBM de Leede,AN Kervezee,KAD Hurdle,0,0,null,0,1,TBM de Leede,caught
+69,10.3,PW Borren,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+70,10.4,PW Borren,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+71,10.5,PW Borren,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+72,10.6,PW Borren,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+73,11.1,AN Kervezee,PW Borren,S Mukuddem,0,0,null,0,0,null,null
+74,11.2,AN Kervezee,PW Borren,S Mukuddem,1,0,null,1,0,null,null
+75,11.3,PW Borren,AN Kervezee,S Mukuddem,0,0,null,0,0,null,null
+76,11.4,PW Borren,AN Kervezee,S Mukuddem,0,0,null,0,0,null,null
+77,11.5,PW Borren,AN Kervezee,S Mukuddem,0,0,null,0,0,null,null
+78,11.6,PW Borren,AN Kervezee,S Mukuddem,0,0,null,0,1,PW Borren,caught
+79,12.1,AN Kervezee,LP van Troost,KAD Hurdle,1,0,null,1,0,null,null
+80,12.2,LP van Troost,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+81,12.3,LP van Troost,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+82,12.4,LP van Troost,AN Kervezee,KAD Hurdle,0,1,wides ,1,0,null,null
+83,12.5,LP van Troost,AN Kervezee,KAD Hurdle,0,1,wides ,1,0,null,null
+84,12.6,LP van Troost,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+85,12.7,LP van Troost,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+86,12.8,LP van Troost,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+87,13.1,AN Kervezee,LP van Troost,S Mukuddem,0,0,null,0,0,null,null
+88,13.2,AN Kervezee,LP van Troost,S Mukuddem,0,0,null,0,0,null,null
+89,13.3,AN Kervezee,LP van Troost,S Mukuddem,0,0,null,0,0,null,null
+90,13.4,AN Kervezee,LP van Troost,S Mukuddem,0,0,null,0,0,null,null
+91,13.5,AN Kervezee,LP van Troost,S Mukuddem,0,0,null,0,0,null,null
+92,13.6,AN Kervezee,LP van Troost,S Mukuddem,0,0,null,0,0,null,null
+93,14.1,LP van Troost,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+94,14.2,LP van Troost,AN Kervezee,KAD Hurdle,0,0,null,0,1,LP van Troost,retired hurt
+95,14.3,J Smits,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+96,14.4,J Smits,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+97,14.5,J Smits,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+98,14.6,J Smits,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+99,15.1,AN Kervezee,J Smits,S Mukuddem,0,0,null,0,0,null,null
+100,15.2,AN Kervezee,J Smits,S Mukuddem,0,0,null,0,0,null,null
+101,15.3,AN Kervezee,J Smits,S Mukuddem,1,0,null,1,0,null,null
+102,15.4,J Smits,AN Kervezee,S Mukuddem,2,0,null,2,0,null,null
+103,15.5,J Smits,AN Kervezee,S Mukuddem,0,0,null,0,0,null,null
+104,15.6,J Smits,AN Kervezee,S Mukuddem,0,0,null,0,0,null,null
+105,16.1,AN Kervezee,J Smits,KAD Hurdle,0,0,null,0,0,null,null
+106,16.2,AN Kervezee,J Smits,KAD Hurdle,3,0,null,3,0,null,null
+107,16.3,J Smits,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+108,16.4,J Smits,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+109,16.5,J Smits,AN Kervezee,KAD Hurdle,2,0,null,2,0,null,null
+110,16.6,J Smits,AN Kervezee,KAD Hurdle,0,0,null,0,0,null,null
+111,17.1,AN Kervezee,J Smits,S Mukuddem,2,0,null,2,0,null,null
+112,17.2,AN Kervezee,J Smits,S Mukuddem,4,0,null,4,0,null,null
+113,17.3,AN Kervezee,J Smits,S Mukuddem,0,0,null,0,0,null,null
+114,17.4,AN Kervezee,J Smits,S Mukuddem,0,0,null,0,1,AN Kervezee,caught
+115,17.5,MBS Jonkman,J Smits,S Mukuddem,0,0,null,0,0,null,null
+116,17.6,MBS Jonkman,J Smits,S Mukuddem,0,0,null,0,0,null,null
+117,18.1,J Smits,MBS Jonkman,KAD Hurdle,0,0,null,0,0,null,null
+118,18.2,J Smits,MBS Jonkman,KAD Hurdle,0,0,null,0,0,null,null
+119,18.3,J Smits,MBS Jonkman,KAD Hurdle,0,0,null,0,0,null,null
+120,18.4,J Smits,MBS Jonkman,KAD Hurdle,0,0,null,0,0,null,null
+121,18.5,J Smits,MBS Jonkman,KAD Hurdle,0,0,null,0,0,null,null
+122,18.6,J Smits,MBS Jonkman,KAD Hurdle,0,0,null,0,0,null,null
+123,19.1,MBS Jonkman,J Smits,S Mukuddem,2,0,null,2,0,null,null
+124,19.2,MBS Jonkman,J Smits,S Mukuddem,0,0,null,0,0,null,null
+125,19.3,MBS Jonkman,J Smits,S Mukuddem,4,0,null,4,0,null,null
+126,19.4,MBS Jonkman,J Smits,S Mukuddem,0,0,null,0,0,null,null
+127,19.5,MBS Jonkman,J Smits,S Mukuddem,1,0,null,1,0,null,null
+128,19.6,J Smits,MBS Jonkman,S Mukuddem,0,0,null,0,0,null,null
+129,20.1,MBS Jonkman,J Smits,RDM Leverock,0,0,null,0,0,null,null
+130,20.2,MBS Jonkman,J Smits,RDM Leverock,0,0,null,0,0,null,null
+131,20.3,MBS Jonkman,J Smits,RDM Leverock,1,0,null,1,0,null,null
+132,20.4,J Smits,MBS Jonkman,RDM Leverock,0,0,null,0,0,null,null
+133,20.5,J Smits,MBS Jonkman,RDM Leverock,0,0,null,0,0,null,null
+134,20.6,J Smits,MBS Jonkman,RDM Leverock,0,0,null,0,0,null,null
+135,21.1,MBS Jonkman,J Smits,SKW Kelly,0,0,null,0,0,null,null
+136,21.2,MBS Jonkman,J Smits,SKW Kelly,0,0,null,0,0,null,null
+137,21.3,MBS Jonkman,J Smits,SKW Kelly,0,0,null,0,0,null,null
+138,21.4,MBS Jonkman,J Smits,SKW Kelly,0,4,legbyes ,4,0,null,null
+139,21.5,MBS Jonkman,J Smits,SKW Kelly,1,0,null,1,0,null,null
+140,21.6,J Smits,MBS Jonkman,SKW Kelly,0,0,null,0,0,null,null
+141,21.7,J Smits,MBS Jonkman,SKW Kelly,1,0,null,1,0,null,null
+142,22.1,J Smits,MBS Jonkman,RDM Leverock,0,0,null,0,0,null,null
+143,22.2,J Smits,MBS Jonkman,RDM Leverock,0,0,null,0,0,null,null
+144,22.3,J Smits,MBS Jonkman,RDM Leverock,0,0,null,0,0,null,null
+145,22.4,J Smits,MBS Jonkman,RDM Leverock,0,0,null,0,0,null,null
+146,22.5,J Smits,MBS Jonkman,RDM Leverock,0,0,null,0,0,null,null
+147,22.6,J Smits,MBS Jonkman,RDM Leverock,2,0,null,2,0,null,null
+148,23.1,MBS Jonkman,J Smits,SKW Kelly,0,0,null,0,0,null,null
+149,23.2,MBS Jonkman,J Smits,SKW Kelly,0,0,null,0,0,null,null
+150,23.3,MBS Jonkman,J Smits,SKW Kelly,2,0,null,2,0,null,null
+151,23.4,MBS Jonkman,J Smits,SKW Kelly,4,0,null,4,0,null,null
+152,23.5,MBS Jonkman,J Smits,SKW Kelly,0,0,null,0,0,null,null
+153,23.6,MBS Jonkman,J Smits,SKW Kelly,0,1,noballs ,1,0,null,null
+154,23.7,MBS Jonkman,J Smits,SKW Kelly,0,0,null,0,1,MBS Jonkman,bowled
+155,23.8,Mohammad Kashif,J Smits,SKW Kelly,1,0,null,1,0,null,null
+156,24.1,Mohammad Kashif,J Smits,RDM Leverock,0,0,null,0,0,null,null
+157,24.2,Mohammad Kashif,J Smits,RDM Leverock,0,0,null,0,0,null,null
+158,24.3,Mohammad Kashif,J Smits,RDM Leverock,0,0,null,0,0,null,null
+159,24.4,Mohammad Kashif,J Smits,RDM Leverock,0,0,null,0,0,null,null
+160,24.5,Mohammad Kashif,J Smits,RDM Leverock,0,0,null,0,0,null,null
+161,24.6,Mohammad Kashif,J Smits,RDM Leverock,0,0,null,0,0,null,null
+162,25.1,J Smits,Mohammad Kashif,SKW Kelly,0,0,null,0,0,null,null
+163,25.2,J Smits,Mohammad Kashif,SKW Kelly,0,0,null,0,0,null,null
+164,25.3,J Smits,Mohammad Kashif,SKW Kelly,0,0,null,0,0,null,null
+165,25.4,J Smits,Mohammad Kashif,SKW Kelly,0,0,null,0,0,null,null
+166,25.5,J Smits,Mohammad Kashif,SKW Kelly,1,0,null,1,0,null,null
+167,25.6,Mohammad Kashif,J Smits,SKW Kelly,0,0,null,0,0,null,null
+168,26.1,J Smits,Mohammad Kashif,RDM Leverock,1,0,null,1,0,null,null
+169,26.2,Mohammad Kashif,J Smits,RDM Leverock,0,0,null,0,0,null,null
+170,26.3,Mohammad Kashif,J Smits,RDM Leverock,0,0,null,0,0,null,null
+171,26.4,Mohammad Kashif,J Smits,RDM Leverock,0,0,null,0,1,Mohammad Kashif,caught

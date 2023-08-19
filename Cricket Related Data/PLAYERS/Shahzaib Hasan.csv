@@ -1,0 +1,9 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,455235,Rangiri Dambulla International Stadium,Bangladesh,Shafiul Islam,Right-arm fast-medium,"[0, 1, 1]",0,11,10,2,0
+1,455235,Rangiri Dambulla International Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,25,15,3,2
+2,461570,Dubai International Cricket Stadium,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",0,8,5,1,0
+3,461570,Dubai International Cricket Stadium,South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",1,2,3,0,0
+4,461570,Dubai International Cricket Stadium,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,18,23,3,0
+5,461570,Dubai International Cricket Stadium,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,11,12,2,0
+6,455231,Rangiri Dambulla International Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,2,8,0,0
+7,455231,Rangiri Dambulla International Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",1,4,9,1,0

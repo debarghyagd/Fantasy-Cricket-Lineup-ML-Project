@@ -1,0 +1,288 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+1,0.2,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+2,0.3,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+3,0.4,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+4,0.5,Tamim Iqbal,Imrul Kayes,TA Boult,4,0,null,4,0,null,null
+5,0.6,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+6,1.1,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+7,1.2,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+8,1.3,Imrul Kayes,Tamim Iqbal,TG Southee,0,1,wides ,1,0,null,null
+9,1.4,Imrul Kayes,Tamim Iqbal,TG Southee,6,0,null,6,0,null,null
+10,1.5,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+11,1.6,Imrul Kayes,Tamim Iqbal,TG Southee,4,0,null,4,0,null,null
+12,1.7,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+13,2.1,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+14,2.2,Tamim Iqbal,Imrul Kayes,TA Boult,0,1,legbyes ,1,0,null,null
+15,2.3,Imrul Kayes,Tamim Iqbal,TA Boult,0,0,null,0,0,null,null
+16,2.4,Imrul Kayes,Tamim Iqbal,TA Boult,0,0,null,0,0,null,null
+17,2.5,Imrul Kayes,Tamim Iqbal,TA Boult,2,0,null,2,0,null,null
+18,2.6,Imrul Kayes,Tamim Iqbal,TA Boult,0,0,null,0,0,null,null
+19,3.1,Tamim Iqbal,Imrul Kayes,TG Southee,0,0,null,0,0,null,null
+20,3.2,Tamim Iqbal,Imrul Kayes,TG Southee,0,0,null,0,0,null,null
+21,3.3,Tamim Iqbal,Imrul Kayes,TG Southee,0,0,null,0,0,null,null
+22,3.4,Tamim Iqbal,Imrul Kayes,TG Southee,1,0,null,1,0,null,null
+23,3.5,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+24,3.6,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+25,4.1,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+26,4.2,Tamim Iqbal,Imrul Kayes,TA Boult,4,0,null,4,0,null,null
+27,4.3,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+28,4.4,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+29,4.5,Tamim Iqbal,Imrul Kayes,TA Boult,0,1,wides ,1,0,null,null
+30,4.6,Tamim Iqbal,Imrul Kayes,TA Boult,2,0,null,2,0,null,null
+31,4.7,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+32,5.1,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+33,5.2,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+34,5.3,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+35,5.4,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+36,5.5,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+37,5.6,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+38,6.1,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+39,6.2,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+40,6.3,Tamim Iqbal,Imrul Kayes,TA Boult,4,0,null,4,0,null,null
+41,6.4,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+42,6.5,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+43,6.6,Tamim Iqbal,Imrul Kayes,TA Boult,0,0,null,0,0,null,null
+44,7.1,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+45,7.2,Imrul Kayes,Tamim Iqbal,TG Southee,4,0,null,4,0,null,null
+46,7.3,Imrul Kayes,Tamim Iqbal,TG Southee,0,0,null,0,1,Imrul Kayes,caught
+47,7.4,Soumya Sarkar,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+48,7.5,Soumya Sarkar,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+49,7.6,Soumya Sarkar,Tamim Iqbal,TG Southee,0,0,null,0,0,null,null
+50,8.1,Tamim Iqbal,Soumya Sarkar,LH Ferguson,0,0,null,0,0,null,null
+51,8.2,Tamim Iqbal,Soumya Sarkar,LH Ferguson,0,0,null,0,0,null,null
+52,8.3,Tamim Iqbal,Soumya Sarkar,LH Ferguson,0,1,wides ,1,0,null,null
+53,8.4,Tamim Iqbal,Soumya Sarkar,LH Ferguson,0,1,wides ,1,0,null,null
+54,8.5,Tamim Iqbal,Soumya Sarkar,LH Ferguson,0,0,null,0,0,null,null
+55,8.6,Tamim Iqbal,Soumya Sarkar,LH Ferguson,1,0,null,1,0,null,null
+56,8.7,Soumya Sarkar,Tamim Iqbal,LH Ferguson,0,0,null,0,0,null,null
+57,8.8,Soumya Sarkar,Tamim Iqbal,LH Ferguson,0,0,null,0,0,null,null
+58,9.1,Tamim Iqbal,Soumya Sarkar,TG Southee,4,0,null,4,0,null,null
+59,9.2,Tamim Iqbal,Soumya Sarkar,TG Southee,0,0,null,0,0,null,null
+60,9.3,Tamim Iqbal,Soumya Sarkar,TG Southee,2,0,null,2,0,null,null
+61,9.4,Tamim Iqbal,Soumya Sarkar,TG Southee,0,0,null,0,0,null,null
+62,9.5,Tamim Iqbal,Soumya Sarkar,TG Southee,0,0,null,0,0,null,null
+63,9.6,Tamim Iqbal,Soumya Sarkar,TG Southee,0,0,null,0,0,null,null
+64,10.1,Soumya Sarkar,Tamim Iqbal,LH Ferguson,1,0,null,1,0,null,null
+65,10.2,Tamim Iqbal,Soumya Sarkar,LH Ferguson,0,4,legbyes ,4,0,null,null
+66,10.3,Tamim Iqbal,Soumya Sarkar,LH Ferguson,0,0,null,0,0,null,null
+67,10.4,Tamim Iqbal,Soumya Sarkar,LH Ferguson,0,0,null,0,0,null,null
+68,10.5,Tamim Iqbal,Soumya Sarkar,LH Ferguson,0,0,null,0,0,null,null
+69,10.6,Tamim Iqbal,Soumya Sarkar,LH Ferguson,0,0,null,0,0,null,null
+70,11.1,Soumya Sarkar,Tamim Iqbal,JDS Neesham,0,0,null,0,0,null,null
+71,11.2,Soumya Sarkar,Tamim Iqbal,JDS Neesham,0,0,null,0,1,Soumya Sarkar,caught
+72,11.3,Mahmudullah,Tamim Iqbal,JDS Neesham,0,0,null,0,0,null,null
+73,11.4,Mahmudullah,Tamim Iqbal,JDS Neesham,0,0,null,0,0,null,null
+74,11.5,Mahmudullah,Tamim Iqbal,JDS Neesham,0,0,null,0,1,Mahmudullah,caught
+75,11.6,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,0,0,null,0,0,null,null
+76,12.1,Tamim Iqbal,Shakib Al Hasan,LH Ferguson,1,0,null,1,0,null,null
+77,12.2,Shakib Al Hasan,Tamim Iqbal,LH Ferguson,1,0,null,1,0,null,null
+78,12.3,Tamim Iqbal,Shakib Al Hasan,LH Ferguson,1,0,null,1,0,null,null
+79,12.4,Shakib Al Hasan,Tamim Iqbal,LH Ferguson,0,1,wides ,1,0,null,null
+80,12.5,Shakib Al Hasan,Tamim Iqbal,LH Ferguson,1,0,null,1,0,null,null
+81,12.6,Tamim Iqbal,Shakib Al Hasan,LH Ferguson,1,0,null,1,0,null,null
+82,12.7,Shakib Al Hasan,Tamim Iqbal,LH Ferguson,1,0,null,1,0,null,null
+83,13.1,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,1,0,null,1,0,null,null
+84,13.2,Tamim Iqbal,Shakib Al Hasan,JDS Neesham,0,0,null,0,0,null,null
+85,13.3,Tamim Iqbal,Shakib Al Hasan,JDS Neesham,0,0,null,0,0,null,null
+86,13.4,Tamim Iqbal,Shakib Al Hasan,JDS Neesham,1,0,null,1,0,null,null
+87,13.5,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,0,0,null,0,0,null,null
+88,13.6,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,1,0,null,1,0,null,null
+89,14.1,Shakib Al Hasan,Tamim Iqbal,LH Ferguson,1,0,null,1,0,null,null
+90,14.2,Tamim Iqbal,Shakib Al Hasan,LH Ferguson,4,0,null,4,0,null,null
+91,14.3,Tamim Iqbal,Shakib Al Hasan,LH Ferguson,0,0,null,0,0,null,null
+92,14.4,Tamim Iqbal,Shakib Al Hasan,LH Ferguson,0,0,null,0,0,null,null
+93,14.5,Tamim Iqbal,Shakib Al Hasan,LH Ferguson,0,0,null,0,0,null,null
+94,14.6,Tamim Iqbal,Shakib Al Hasan,LH Ferguson,1,0,null,1,0,null,null
+95,15.1,Tamim Iqbal,Shakib Al Hasan,JDS Neesham,2,0,null,2,0,null,null
+96,15.2,Tamim Iqbal,Shakib Al Hasan,JDS Neesham,1,0,null,1,0,null,null
+97,15.3,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,0,0,null,0,0,null,null
+98,15.4,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,0,0,null,0,0,null,null
+99,15.5,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,1,0,null,1,0,null,null
+100,15.6,Tamim Iqbal,Shakib Al Hasan,JDS Neesham,1,0,null,1,0,null,null
+101,16.1,Tamim Iqbal,Shakib Al Hasan,TA Boult,1,0,null,1,0,null,null
+102,16.2,Shakib Al Hasan,Tamim Iqbal,TA Boult,1,0,null,1,0,null,null
+103,16.3,Tamim Iqbal,Shakib Al Hasan,TA Boult,0,0,null,0,0,null,null
+104,16.4,Tamim Iqbal,Shakib Al Hasan,TA Boult,1,0,null,1,0,null,null
+105,16.5,Shakib Al Hasan,Tamim Iqbal,TA Boult,0,1,wides ,1,0,null,null
+106,16.6,Shakib Al Hasan,Tamim Iqbal,TA Boult,0,0,null,0,0,null,null
+107,16.7,Shakib Al Hasan,Tamim Iqbal,TA Boult,0,0,null,0,0,null,null
+108,17.1,Tamim Iqbal,Shakib Al Hasan,JDS Neesham,1,0,null,1,0,null,null
+109,17.2,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,0,1,noballs ,1,0,null,null
+110,17.3,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,0,0,null,0,0,null,null
+111,17.4,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,0,0,null,0,0,null,null
+112,17.5,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,4,0,null,4,0,null,null
+113,17.6,Shakib Al Hasan,Tamim Iqbal,JDS Neesham,0,2,wides ,2,0,null,null
+114,17.7,Tamim Iqbal,Shakib Al Hasan,JDS Neesham,0,0,null,0,0,null,null
+115,17.8,Tamim Iqbal,Shakib Al Hasan,JDS Neesham,0,0,null,0,1,Tamim Iqbal,caught
+116,18.1,Shakib Al Hasan,Mushfiqur Rahim,TA Boult,0,0,null,0,0,null,null
+117,18.2,Shakib Al Hasan,Mushfiqur Rahim,TA Boult,1,0,null,1,0,null,null
+118,18.3,Mushfiqur Rahim,Shakib Al Hasan,TA Boult,0,0,null,0,0,null,null
+119,18.4,Mushfiqur Rahim,Shakib Al Hasan,TA Boult,0,0,null,0,0,null,null
+120,18.5,Mushfiqur Rahim,Shakib Al Hasan,TA Boult,1,0,null,1,0,null,null
+121,18.6,Shakib Al Hasan,Mushfiqur Rahim,TA Boult,0,0,null,0,0,null,null
+122,19.1,Mushfiqur Rahim,Shakib Al Hasan,JDS Neesham,0,1,legbyes ,1,0,null,null
+123,19.2,Shakib Al Hasan,Mushfiqur Rahim,JDS Neesham,0,1,wides ,1,0,null,null
+124,19.3,Shakib Al Hasan,Mushfiqur Rahim,JDS Neesham,1,0,null,1,0,null,null
+125,19.4,Mushfiqur Rahim,Shakib Al Hasan,JDS Neesham,0,0,null,0,0,null,null
+126,19.5,Mushfiqur Rahim,Shakib Al Hasan,JDS Neesham,0,0,null,0,0,null,null
+127,19.6,Mushfiqur Rahim,Shakib Al Hasan,JDS Neesham,0,0,null,0,0,null,null
+128,19.7,Mushfiqur Rahim,Shakib Al Hasan,JDS Neesham,0,0,null,0,0,null,null
+129,20.1,Shakib Al Hasan,Mushfiqur Rahim,TA Boult,0,0,null,0,0,null,null
+130,20.2,Shakib Al Hasan,Mushfiqur Rahim,TA Boult,1,0,null,1,0,null,null
+131,20.3,Mushfiqur Rahim,Shakib Al Hasan,TA Boult,0,0,null,0,0,null,null
+132,20.4,Mushfiqur Rahim,Shakib Al Hasan,TA Boult,0,0,null,0,0,null,null
+133,20.5,Mushfiqur Rahim,Shakib Al Hasan,TA Boult,0,0,null,0,0,null,null
+134,20.6,Mushfiqur Rahim,Shakib Al Hasan,TA Boult,0,0,null,0,0,null,null
+135,21.1,Shakib Al Hasan,Mushfiqur Rahim,TG Southee,1,0,null,1,0,null,null
+136,21.2,Mushfiqur Rahim,Shakib Al Hasan,TG Southee,3,0,null,3,0,null,null
+137,21.3,Shakib Al Hasan,Mushfiqur Rahim,TG Southee,0,0,null,0,0,null,null
+138,21.4,Shakib Al Hasan,Mushfiqur Rahim,TG Southee,0,0,null,0,0,null,null
+139,21.5,Shakib Al Hasan,Mushfiqur Rahim,TG Southee,4,0,null,4,0,null,null
+140,21.6,Shakib Al Hasan,Mushfiqur Rahim,TG Southee,1,0,null,1,0,null,null
+141,22.1,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,2,0,null,2,0,null,null
+142,22.2,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,4,0,null,4,0,null,null
+143,22.3,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,1,0,null,1,0,null,null
+144,22.4,Mushfiqur Rahim,Shakib Al Hasan,MJ Santner,2,0,null,2,0,null,null
+145,22.5,Mushfiqur Rahim,Shakib Al Hasan,MJ Santner,1,0,null,1,0,null,null
+146,22.6,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,1,0,null,1,0,null,null
+147,23.1,Shakib Al Hasan,Mushfiqur Rahim,TG Southee,0,0,null,0,0,null,null
+148,23.2,Shakib Al Hasan,Mushfiqur Rahim,TG Southee,4,0,null,4,0,null,null
+149,23.3,Shakib Al Hasan,Mushfiqur Rahim,TG Southee,0,0,null,0,0,null,null
+150,23.4,Shakib Al Hasan,Mushfiqur Rahim,TG Southee,4,0,null,4,0,null,null
+151,23.5,Shakib Al Hasan,Mushfiqur Rahim,TG Southee,0,0,null,0,0,null,null
+152,23.6,Shakib Al Hasan,Mushfiqur Rahim,TG Southee,1,0,null,1,0,null,null
+153,24.1,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+154,24.2,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,1,0,null,1,0,null,null
+155,24.3,Mushfiqur Rahim,Shakib Al Hasan,MJ Santner,1,0,null,1,0,null,null
+156,24.4,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+157,24.5,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+158,24.6,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+159,25.1,Mushfiqur Rahim,Shakib Al Hasan,LH Ferguson,0,0,null,0,0,null,null
+160,25.2,Mushfiqur Rahim,Shakib Al Hasan,LH Ferguson,1,0,null,1,0,null,null
+161,25.3,Shakib Al Hasan,Mushfiqur Rahim,LH Ferguson,0,0,null,0,0,null,null
+162,25.4,Shakib Al Hasan,Mushfiqur Rahim,LH Ferguson,6,0,null,6,0,null,null
+163,25.5,Shakib Al Hasan,Mushfiqur Rahim,LH Ferguson,2,0,null,2,0,null,null
+164,25.6,Shakib Al Hasan,Mushfiqur Rahim,LH Ferguson,1,0,null,1,0,null,null
+165,26.1,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,1,0,null,1,0,null,null
+166,26.2,Mushfiqur Rahim,Shakib Al Hasan,MJ Santner,0,0,null,0,0,null,null
+167,26.3,Mushfiqur Rahim,Shakib Al Hasan,MJ Santner,1,0,null,1,0,null,null
+168,26.4,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,0,1,wides ,1,0,null,null
+169,26.5,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,1,0,null,1,0,null,null
+170,26.6,Mushfiqur Rahim,Shakib Al Hasan,MJ Santner,3,0,null,3,0,null,null
+171,26.7,Shakib Al Hasan,Mushfiqur Rahim,MJ Santner,1,0,null,1,0,null,null
+172,27.1,Shakib Al Hasan,Mushfiqur Rahim,LH Ferguson,2,0,null,2,0,null,null
+173,27.2,Shakib Al Hasan,Mushfiqur Rahim,LH Ferguson,6,0,null,6,0,null,null
+174,27.3,Shakib Al Hasan,Mushfiqur Rahim,LH Ferguson,0,0,null,0,1,Shakib Al Hasan,caught
+175,27.4,Sabbir Rahman,Mushfiqur Rahim,LH Ferguson,2,0,null,2,0,null,null
+176,27.5,Sabbir Rahman,Mushfiqur Rahim,LH Ferguson,1,0,null,1,0,null,null
+177,27.6,Mushfiqur Rahim,Sabbir Rahman,LH Ferguson,0,1,wides ,1,0,null,null
+178,27.7,Mushfiqur Rahim,Sabbir Rahman,LH Ferguson,0,0,null,0,0,null,null
+179,28.1,Sabbir Rahman,Mushfiqur Rahim,JDS Neesham,1,0,null,1,0,null,null
+180,28.2,Mushfiqur Rahim,Sabbir Rahman,JDS Neesham,1,0,null,1,0,null,null
+181,28.3,Sabbir Rahman,Mushfiqur Rahim,JDS Neesham,3,0,null,3,0,null,null
+182,28.4,Mushfiqur Rahim,Sabbir Rahman,JDS Neesham,0,1,wides ,1,0,null,null
+183,28.5,Mushfiqur Rahim,Sabbir Rahman,JDS Neesham,2,0,null,2,0,null,null
+184,28.6,Mushfiqur Rahim,Sabbir Rahman,JDS Neesham,1,0,null,1,0,null,null
+185,28.7,Sabbir Rahman,Mushfiqur Rahim,JDS Neesham,1,0,null,1,0,null,null
+186,29.1,Sabbir Rahman,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+187,29.2,Sabbir Rahman,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+188,29.3,Sabbir Rahman,Mushfiqur Rahim,MJ Santner,1,0,null,1,0,null,null
+189,29.4,Mushfiqur Rahim,Sabbir Rahman,MJ Santner,0,0,null,0,0,null,null
+190,29.5,Mushfiqur Rahim,Sabbir Rahman,MJ Santner,0,0,null,0,0,null,null
+191,29.6,Mushfiqur Rahim,Sabbir Rahman,MJ Santner,0,0,null,0,0,null,null
+192,30.1,Sabbir Rahman,Mushfiqur Rahim,LH Ferguson,1,0,null,1,0,null,null
+193,30.2,Mushfiqur Rahim,Sabbir Rahman,LH Ferguson,1,0,null,1,0,null,null
+194,30.3,Sabbir Rahman,Mushfiqur Rahim,LH Ferguson,6,0,null,6,0,null,null
+195,30.4,Sabbir Rahman,Mushfiqur Rahim,LH Ferguson,0,0,null,0,1,Sabbir Rahman,caught
+196,30.5,Mosaddek Hossain,Mushfiqur Rahim,LH Ferguson,0,0,null,0,0,null,null
+197,30.6,Mosaddek Hossain,Mushfiqur Rahim,LH Ferguson,0,0,null,0,0,null,null
+198,31.1,Mushfiqur Rahim,Mosaddek Hossain,MJ Santner,0,0,null,0,0,null,null
+199,31.2,Mushfiqur Rahim,Mosaddek Hossain,MJ Santner,4,0,null,4,0,null,null
+200,31.3,Mushfiqur Rahim,Mosaddek Hossain,MJ Santner,2,0,null,2,0,null,null
+201,31.4,Mushfiqur Rahim,Mosaddek Hossain,MJ Santner,1,0,null,1,0,null,null
+202,31.5,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+203,31.6,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,1,0,null,1,0,null,null
+204,32.1,Mosaddek Hossain,Mushfiqur Rahim,LH Ferguson,0,1,wides ,1,0,null,null
+205,32.2,Mosaddek Hossain,Mushfiqur Rahim,LH Ferguson,0,0,null,0,0,null,null
+206,32.3,Mosaddek Hossain,Mushfiqur Rahim,LH Ferguson,0,0,null,0,0,null,null
+207,32.4,Mosaddek Hossain,Mushfiqur Rahim,LH Ferguson,4,0,null,4,0,null,null
+208,32.5,Mosaddek Hossain,Mushfiqur Rahim,LH Ferguson,0,0,null,0,0,null,null
+209,32.6,Mosaddek Hossain,Mushfiqur Rahim,LH Ferguson,1,0,null,1,0,null,null
+210,32.7,Mushfiqur Rahim,Mosaddek Hossain,LH Ferguson,0,1,byes ,1,0,null,null
+211,33.1,Mushfiqur Rahim,Mosaddek Hossain,MJ Santner,1,0,null,1,0,null,null
+212,33.2,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+213,33.3,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+214,33.4,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+215,33.5,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,6,0,null,6,0,null,null
+216,33.6,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+217,34.1,Mushfiqur Rahim,Mosaddek Hossain,TA Boult,2,0,null,2,0,null,null
+218,34.2,Mushfiqur Rahim,Mosaddek Hossain,TA Boult,0,0,null,0,0,null,null
+219,34.3,Mushfiqur Rahim,Mosaddek Hossain,TA Boult,2,0,null,2,0,null,null
+220,34.4,Mushfiqur Rahim,Mosaddek Hossain,TA Boult,0,1,wides ,1,0,null,null
+221,34.5,Mushfiqur Rahim,Mosaddek Hossain,TA Boult,0,0,null,0,0,null,null
+222,34.6,Mushfiqur Rahim,Mosaddek Hossain,TA Boult,4,0,null,4,0,null,null
+223,34.7,Mushfiqur Rahim,Mosaddek Hossain,TA Boult,4,0,null,4,0,null,null
+224,35.1,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+225,35.2,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,1,wides ,1,0,null,null
+226,35.3,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+227,35.4,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+228,35.5,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,1,0,null,1,0,null,null
+229,35.6,Mushfiqur Rahim,Mosaddek Hossain,MJ Santner,1,0,null,1,0,null,null
+230,35.7,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,1,0,null,1,0,null,null
+231,36.1,Mosaddek Hossain,Mushfiqur Rahim,TA Boult,1,0,null,1,0,null,null
+232,36.2,Mushfiqur Rahim,Mosaddek Hossain,TA Boult,0,0,null,0,0,null,null
+233,36.3,Mushfiqur Rahim,Mosaddek Hossain,TA Boult,1,0,null,1,0,null,null
+234,36.4,Mosaddek Hossain,Mushfiqur Rahim,TA Boult,4,0,null,4,0,null,null
+235,36.5,Mosaddek Hossain,Mushfiqur Rahim,TA Boult,0,0,null,0,0,null,null
+236,36.6,Mosaddek Hossain,Mushfiqur Rahim,TA Boult,0,0,null,0,0,null,null
+237,37.1,Mushfiqur Rahim,Mosaddek Hossain,MJ Santner,0,0,null,0,0,null,null
+238,37.2,Mushfiqur Rahim,Mosaddek Hossain,MJ Santner,1,0,null,1,0,null,null
+239,37.3,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+240,37.4,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+241,37.5,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+242,37.6,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,1,wides ,1,0,null,null
+243,37.7,Mosaddek Hossain,Mushfiqur Rahim,MJ Santner,0,0,null,0,0,null,null
+244,38.1,Mushfiqur Rahim,Mosaddek Hossain,TG Southee,0,0,null,0,0,null,null
+245,38.2,Mushfiqur Rahim,Mosaddek Hossain,TG Southee,1,0,null,1,0,null,null
+246,38.3,Mosaddek Hossain,Mushfiqur Rahim,TG Southee,4,0,null,4,1,Mushfiqur Rahim,retired hurt
+247,38.4,Mosaddek Hossain,Mashrafe Mortaza,TG Southee,1,0,null,1,0,null,null
+248,38.5,Mashrafe Mortaza,Mosaddek Hossain,TG Southee,0,0,null,0,0,null,null
+249,38.6,Mashrafe Mortaza,Mosaddek Hossain,TG Southee,0,1,wides ,1,0,null,null
+250,38.7,Mashrafe Mortaza,Mosaddek Hossain,TG Southee,4,0,null,4,0,null,null
+251,39.1,Mosaddek Hossain,Mashrafe Mortaza,MJ Santner,4,0,null,4,0,null,null
+252,39.2,Mosaddek Hossain,Mashrafe Mortaza,MJ Santner,0,0,null,0,0,null,null
+253,39.3,Mosaddek Hossain,Mashrafe Mortaza,MJ Santner,1,0,null,1,0,null,null
+254,39.4,Mashrafe Mortaza,Mosaddek Hossain,MJ Santner,0,0,null,0,0,null,null
+255,39.5,Mashrafe Mortaza,Mosaddek Hossain,MJ Santner,0,0,null,0,0,null,null
+256,39.6,Mashrafe Mortaza,Mosaddek Hossain,MJ Santner,4,0,null,4,0,null,null
+257,40.1,Mosaddek Hossain,Mashrafe Mortaza,JDS Neesham,1,0,null,1,0,null,null
+258,40.2,Mashrafe Mortaza,Mosaddek Hossain,JDS Neesham,4,0,null,4,0,null,null
+259,40.3,Mashrafe Mortaza,Mosaddek Hossain,JDS Neesham,0,0,null,0,0,null,null
+260,40.4,Mashrafe Mortaza,Mosaddek Hossain,JDS Neesham,1,0,null,1,0,null,null
+261,40.5,Mosaddek Hossain,Mashrafe Mortaza,JDS Neesham,1,0,null,1,0,null,null
+262,40.6,Mashrafe Mortaza,Mosaddek Hossain,JDS Neesham,1,0,null,1,0,null,null
+263,41.1,Mashrafe Mortaza,Mosaddek Hossain,MJ Santner,0,0,null,0,1,Mashrafe Mortaza,caught
+264,41.2,Taskin Ahmed,Mosaddek Hossain,MJ Santner,1,0,null,1,0,null,null
+265,41.3,Mosaddek Hossain,Taskin Ahmed,MJ Santner,0,0,null,0,0,null,null
+266,41.4,Mosaddek Hossain,Taskin Ahmed,MJ Santner,6,0,null,6,0,null,null
+267,41.5,Mosaddek Hossain,Taskin Ahmed,MJ Santner,1,0,null,1,0,null,null
+268,41.6,Taskin Ahmed,Mosaddek Hossain,MJ Santner,1,0,null,1,0,null,null
+269,42.1,Taskin Ahmed,Mosaddek Hossain,TG Southee,0,0,null,0,0,null,null
+270,42.2,Taskin Ahmed,Mosaddek Hossain,TG Southee,0,0,null,0,0,null,null
+271,42.3,Taskin Ahmed,Mosaddek Hossain,TG Southee,0,0,null,0,0,null,null
+272,42.4,Taskin Ahmed,Mosaddek Hossain,TG Southee,0,0,null,0,0,null,null
+273,42.5,Taskin Ahmed,Mosaddek Hossain,TG Southee,0,0,null,0,0,null,null
+274,42.6,Taskin Ahmed,Mosaddek Hossain,TG Southee,0,0,null,0,0,null,null
+275,43.1,Mosaddek Hossain,Taskin Ahmed,LH Ferguson,0,0,null,0,0,null,null
+276,43.2,Mosaddek Hossain,Taskin Ahmed,LH Ferguson,0,0,null,0,0,null,null
+277,43.3,Mosaddek Hossain,Taskin Ahmed,LH Ferguson,1,0,null,1,0,null,null
+278,43.4,Taskin Ahmed,Mosaddek Hossain,LH Ferguson,0,0,null,0,0,null,null
+279,43.5,Taskin Ahmed,Mosaddek Hossain,LH Ferguson,0,0,null,0,0,null,null
+280,43.6,Taskin Ahmed,Mosaddek Hossain,LH Ferguson,0,0,null,0,1,Taskin Ahmed,caught
+281,44.1,Mosaddek Hossain,Mustafizur Rahman,TG Southee,0,0,null,0,0,null,null
+282,44.2,Mosaddek Hossain,Mustafizur Rahman,TG Southee,4,0,null,4,0,null,null
+283,44.3,Mosaddek Hossain,Mustafizur Rahman,TG Southee,6,0,null,6,0,null,null
+284,44.4,Mosaddek Hossain,Mustafizur Rahman,TG Southee,0,1,wides ,1,0,null,null
+285,44.5,Mosaddek Hossain,Mustafizur Rahman,TG Southee,1,0,null,1,0,null,null
+286,44.6,Mustafizur Rahman,Mosaddek Hossain,TG Southee,0,0,null,0,1,Mustafizur Rahman,bowled

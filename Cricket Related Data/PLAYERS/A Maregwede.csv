@@ -1,0 +1,21 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,64900,Harare Sports Club,Australia,DS Lehmann,Left-arm orthodox,"[1, 0, 1]",1,5,9,0,0
+1,64900,Harare Sports Club,Australia,GB Hogg,Left-arm chinaman,"[1, 0, 0]",0,9,14,1,0
+2,64900,Harare Sports Club,Australia,GD McGrath,Right-arm fast-medium,"[0, 1, 1]",0,4,6,1,0
+3,64932,The Wanderers Stadium,South Africa,JA Morkel,Right-arm fast-medium,"[0, 1, 1]",1,2,9,0,0
+4,64932,The Wanderers Stadium,South Africa,N Boje,Left-arm orthodox,"[1, 0, 1]",0,2,4,0,0
+5,64932,The Wanderers Stadium,South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",0,1,7,0,0
+6,64932,The Wanderers Stadium,South Africa,AJ Hall,Right-arm fast-medium,"[0, 1, 1]",0,8,14,1,0
+7,64934,Kingsmead,South Africa,N Boje,Left-arm orthodox,"[1, 0, 1]",0,6,8,1,0
+8,64934,Kingsmead,South Africa,JA Morkel,Right-arm fast-medium,"[0, 1, 1]",0,3,4,0,0
+9,64891,Harare Sports Club,Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",0,5,13,0,0
+10,64891,Harare Sports Club,Sri Lanka,UDU Chandana,Right-arm legbreak,"[1, 1, 1]",0,7,10,1,0
+11,64891,Harare Sports Club,Sri Lanka,RP Arnold,Right-arm offbreak,"[1, 1, 0]",1,6,6,1,0
+12,64899,Harare Sports Club,Australia,JN Gillespie,Right-arm fast,"[0, 1, 0]",1,4,5,0,0
+13,64899,Harare Sports Club,Australia,MS Kasprowicz,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+14,64901,Harare Sports Club,Australia,JN Gillespie,Right-arm fast,"[0, 1, 0]",1,1,4,0,0
+15,64887,Queens Sports Club,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",0,11,9,1,1
+16,64887,Queens Sports Club,Sri Lanka,RP Arnold,Right-arm offbreak,"[1, 1, 0]",0,2,1,0,0
+17,64887,Queens Sports Club,Sri Lanka,ST Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,11,18,1,0
+18,64887,Queens Sports Club,Sri Lanka,UDU Chandana,Right-arm legbreak,"[1, 1, 1]",1,8,12,1,0
+19,64852,Harare Sports Club,West Indies,CD Collymore,Right-arm fast-medium,"[0, 1, 1]",0,0,3,0,0

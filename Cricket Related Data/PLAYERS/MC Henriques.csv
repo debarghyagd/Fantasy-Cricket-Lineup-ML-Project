@@ -1,0 +1,27 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,754755,Bellerive Oval,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,3,6,0,0
+1,1223956,Sydney Cricket Ground,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,2,1,0,0
+2,1022349,Edgbaston,New Zealand,AF Milne,Right-arm fast,"[0, 1, 0]",1,9,8,2,0
+3,1022349,Edgbaston,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,9,6,2,0
+4,573017,Sydney Cricket Ground,Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",1,2,7,0,0
+5,573018,Bellerive Oval,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,3,4,0,0
+6,573018,Bellerive Oval,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+7,1263161,"Kensington Oval, Bridgetown, Barbados",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",1,3,14,0,0
+8,1263161,"Kensington Oval, Bridgetown, Barbados",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,1,5,0,0
+9,1263162,"Kensington Oval, Bridgetown, Barbados",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",1,1,4,0,0
+10,1263162,"Kensington Oval, Bridgetown, Barbados",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,1,5,0,0
+11,1263162,"Kensington Oval, Bridgetown, Barbados",West Indies,HR Walsh,Right-arm legbreak,"[1, 1, 1]",0,2,4,0,0
+12,1022365,Edgbaston,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",1,4,12,0,0
+13,1022365,Edgbaston,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,5,3,1,0
+14,1022365,Edgbaston,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,8,4,2,0
+15,1223957,Manuka Oval,India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",1,13,13,3,0
+16,1223957,Manuka Oval,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,6,7,0,0
+17,416238,Feroz Shah Kotla,India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",0,1,4,0,0
+18,416238,Feroz Shah Kotla,India,A Nehra,Left-arm fast-medium,"[0, 0, 1]",0,6,7,0,0
+19,416239,"Punjab Cricket Association Stadium, Mohali",India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",1,2,4,0,0
+20,416239,"Punjab Cricket Association Stadium, Mohali",India,Yuvraj Singh,Left-arm orthodox,"[1, 0, 1]",0,1,1,0,0
+21,995457,R Premadasa Stadium,Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",1,0,1,0,0
+22,995457,R Premadasa Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+23,995459,R Premadasa Stadium,Sri Lanka,S Prasanna,Right-arm legbreak,"[1, 1, 1]",1,0,4,0,0
+24,995459,R Premadasa Stadium,Sri Lanka,MA Aponso,Left-arm orthodox,"[1, 0, 1]",0,2,10,0,0
+25,1263163,"Kensington Oval, Bridgetown, Barbados",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",1,0,2,0,0

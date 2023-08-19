@@ -1,0 +1,15 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1288313,"Gaddafi Stadium, Lahore",Australia,TM Head,Right-arm offbreak,"[1, 1, 0]",1,0,2,0,0
+1,1288313,"Gaddafi Stadium, Lahore",Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,1,4,0,0
+2,1288314,"Gaddafi Stadium, Lahore",Australia,NT Ellis,Right-arm fast-medium,"[0, 1, 1]",0,6,5,0,0
+3,1288314,"Gaddafi Stadium, Lahore",Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,1,1,0,0
+4,902643,Sheikh Zayed Stadium,England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,4,12,1,0
+5,902645,Sharjah Cricket Stadium,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,1,6,0,0
+6,1198487,National Stadium,Sri Lanka,CBRLS Kumara,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+7,1198487,National Stadium,Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",1,16,7,0,2
+8,1198488,National Stadium,Sri Lanka,CBRLS Kumara,Right-arm fast-medium,"[0, 1, 1]",0,10,6,2,0
+9,1198488,National Stadium,Sri Lanka,GSNFG Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,7,8,0,0
+10,1198488,National Stadium,Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",0,11,8,1,1
+11,1233461,Rawalpindi Cricket Stadium,Zimbabwe,CT Mumba,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+12,1233462,Rawalpindi Cricket Stadium,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,12,17,1,0
+13,1233463,Rawalpindi Cricket Stadium,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",1,12,12,2,0

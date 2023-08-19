@@ -1,0 +1,297 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Imam-ul-Haq,Fakhar Zaman,TA Boult,0,0,null,0,0,null,null
+1,0.2,Imam-ul-Haq,Fakhar Zaman,TA Boult,0,0,null,0,0,null,null
+2,0.3,Imam-ul-Haq,Fakhar Zaman,TA Boult,4,0,null,4,0,null,null
+3,0.4,Imam-ul-Haq,Fakhar Zaman,TA Boult,0,0,null,0,0,null,null
+4,0.5,Imam-ul-Haq,Fakhar Zaman,TA Boult,0,1,wides ,1,0,null,null
+5,0.6,Imam-ul-Haq,Fakhar Zaman,TA Boult,0,0,null,0,0,null,null
+6,0.7,Imam-ul-Haq,Fakhar Zaman,TA Boult,0,0,null,0,0,null,null
+7,1.1,Fakhar Zaman,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+8,1.2,Fakhar Zaman,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+9,1.3,Fakhar Zaman,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+10,1.4,Fakhar Zaman,Imam-ul-Haq,TG Southee,1,0,null,1,0,null,null
+11,1.5,Imam-ul-Haq,Fakhar Zaman,TG Southee,0,0,null,0,0,null,null
+12,1.6,Imam-ul-Haq,Fakhar Zaman,TG Southee,1,0,null,1,0,null,null
+13,2.1,Imam-ul-Haq,Fakhar Zaman,TA Boult,0,1,legbyes ,1,0,null,null
+14,2.2,Fakhar Zaman,Imam-ul-Haq,TA Boult,0,0,null,0,1,Fakhar Zaman,bowled
+15,2.3,Babar Azam,Imam-ul-Haq,TA Boult,0,0,null,0,1,Babar Azam,caught
+16,2.4,Mohammad Hafeez,Imam-ul-Haq,TA Boult,0,0,null,0,1,Mohammad Hafeez,lbw
+17,2.5,Shoaib Malik,Imam-ul-Haq,TA Boult,0,0,null,0,0,null,null
+18,2.6,Shoaib Malik,Imam-ul-Haq,TA Boult,0,0,null,0,0,null,null
+19,3.1,Imam-ul-Haq,Shoaib Malik,TG Southee,0,0,null,0,0,null,null
+20,3.2,Imam-ul-Haq,Shoaib Malik,TG Southee,0,0,null,0,0,null,null
+21,3.3,Imam-ul-Haq,Shoaib Malik,TG Southee,0,0,null,0,0,null,null
+22,3.4,Imam-ul-Haq,Shoaib Malik,TG Southee,0,0,null,0,0,null,null
+23,3.5,Imam-ul-Haq,Shoaib Malik,TG Southee,0,0,null,0,0,null,null
+24,3.6,Imam-ul-Haq,Shoaib Malik,TG Southee,0,0,null,0,0,null,null
+25,4.1,Shoaib Malik,Imam-ul-Haq,TA Boult,0,0,null,0,0,null,null
+26,4.2,Shoaib Malik,Imam-ul-Haq,TA Boult,0,0,null,0,0,null,null
+27,4.3,Shoaib Malik,Imam-ul-Haq,TA Boult,0,0,null,0,0,null,null
+28,4.4,Shoaib Malik,Imam-ul-Haq,TA Boult,4,0,null,4,0,null,null
+29,4.5,Shoaib Malik,Imam-ul-Haq,TA Boult,0,1,wides ,1,0,null,null
+30,4.6,Shoaib Malik,Imam-ul-Haq,TA Boult,0,0,null,0,0,null,null
+31,4.7,Shoaib Malik,Imam-ul-Haq,TA Boult,0,0,null,0,0,null,null
+32,5.1,Imam-ul-Haq,Shoaib Malik,TG Southee,1,0,null,1,0,null,null
+33,5.2,Shoaib Malik,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+34,5.3,Shoaib Malik,Imam-ul-Haq,TG Southee,4,0,null,4,0,null,null
+35,5.4,Shoaib Malik,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+36,5.5,Shoaib Malik,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+37,5.6,Shoaib Malik,Imam-ul-Haq,TG Southee,3,0,null,3,0,null,null
+38,6.1,Shoaib Malik,Imam-ul-Haq,TA Boult,2,0,null,2,0,null,null
+39,6.2,Shoaib Malik,Imam-ul-Haq,TA Boult,1,0,null,1,0,null,null
+40,6.3,Imam-ul-Haq,Shoaib Malik,TA Boult,0,1,wides ,1,0,null,null
+41,6.4,Imam-ul-Haq,Shoaib Malik,TA Boult,0,1,wides ,1,0,null,null
+42,6.5,Imam-ul-Haq,Shoaib Malik,TA Boult,2,0,null,2,0,null,null
+43,6.6,Imam-ul-Haq,Shoaib Malik,TA Boult,2,0,null,2,0,null,null
+44,6.7,Imam-ul-Haq,Shoaib Malik,TA Boult,0,0,null,0,0,null,null
+45,6.8,Imam-ul-Haq,Shoaib Malik,TA Boult,0,0,null,0,0,null,null
+46,7.1,Shoaib Malik,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+47,7.2,Shoaib Malik,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+48,7.3,Shoaib Malik,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+49,7.4,Shoaib Malik,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+50,7.5,Shoaib Malik,Imam-ul-Haq,TG Southee,1,0,null,1,0,null,null
+51,7.6,Imam-ul-Haq,Shoaib Malik,TG Southee,3,0,null,3,0,null,null
+52,8.1,Imam-ul-Haq,Shoaib Malik,TA Boult,0,0,null,0,0,null,null
+53,8.2,Imam-ul-Haq,Shoaib Malik,TA Boult,0,0,null,0,0,null,null
+54,8.3,Imam-ul-Haq,Shoaib Malik,TA Boult,1,0,null,1,0,null,null
+55,8.4,Shoaib Malik,Imam-ul-Haq,TA Boult,0,0,null,0,0,null,null
+56,8.5,Shoaib Malik,Imam-ul-Haq,TA Boult,0,1,wides ,1,0,null,null
+57,8.6,Shoaib Malik,Imam-ul-Haq,TA Boult,0,0,null,0,0,null,null
+58,8.7,Shoaib Malik,Imam-ul-Haq,TA Boult,0,0,null,0,0,null,null
+59,9.1,Imam-ul-Haq,Shoaib Malik,TG Southee,0,0,null,0,0,null,null
+60,9.2,Imam-ul-Haq,Shoaib Malik,TG Southee,1,0,null,1,0,null,null
+61,9.3,Shoaib Malik,Imam-ul-Haq,TG Southee,2,0,null,2,0,null,null
+62,9.4,Shoaib Malik,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+63,9.5,Shoaib Malik,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+64,9.6,Shoaib Malik,Imam-ul-Haq,TG Southee,0,0,null,0,0,null,null
+65,10.1,Imam-ul-Haq,Shoaib Malik,LH Ferguson,1,0,null,1,0,null,null
+66,10.2,Shoaib Malik,Imam-ul-Haq,LH Ferguson,0,0,null,0,0,null,null
+67,10.3,Shoaib Malik,Imam-ul-Haq,LH Ferguson,0,0,null,0,0,null,null
+68,10.4,Shoaib Malik,Imam-ul-Haq,LH Ferguson,0,0,null,0,0,null,null
+69,10.5,Shoaib Malik,Imam-ul-Haq,LH Ferguson,1,0,null,1,0,null,null
+70,10.6,Imam-ul-Haq,Shoaib Malik,LH Ferguson,1,0,null,1,0,null,null
+71,11.1,Imam-ul-Haq,Shoaib Malik,C de Grandhomme,1,0,null,1,0,null,null
+72,11.2,Shoaib Malik,Imam-ul-Haq,C de Grandhomme,0,0,null,0,0,null,null
+73,11.3,Shoaib Malik,Imam-ul-Haq,C de Grandhomme,1,0,null,1,0,null,null
+74,11.4,Imam-ul-Haq,Shoaib Malik,C de Grandhomme,1,0,null,1,0,null,null
+75,11.5,Shoaib Malik,Imam-ul-Haq,C de Grandhomme,0,0,null,0,0,null,null
+76,11.6,Shoaib Malik,Imam-ul-Haq,C de Grandhomme,0,0,null,0,0,null,null
+77,12.1,Imam-ul-Haq,Shoaib Malik,LH Ferguson,0,0,null,0,0,null,null
+78,12.2,Imam-ul-Haq,Shoaib Malik,LH Ferguson,0,0,null,0,0,null,null
+79,12.3,Imam-ul-Haq,Shoaib Malik,LH Ferguson,1,0,null,1,0,null,null
+80,12.4,Shoaib Malik,Imam-ul-Haq,LH Ferguson,0,0,null,0,0,null,null
+81,12.5,Shoaib Malik,Imam-ul-Haq,LH Ferguson,2,0,null,2,0,null,null
+82,12.6,Shoaib Malik,Imam-ul-Haq,LH Ferguson,0,0,null,0,0,null,null
+83,13.1,Imam-ul-Haq,Shoaib Malik,C de Grandhomme,1,0,null,1,0,null,null
+84,13.2,Shoaib Malik,Imam-ul-Haq,C de Grandhomme,1,0,null,1,0,null,null
+85,13.3,Imam-ul-Haq,Shoaib Malik,C de Grandhomme,4,0,null,4,0,null,null
+86,13.4,Imam-ul-Haq,Shoaib Malik,C de Grandhomme,1,0,null,1,0,null,null
+87,13.5,Shoaib Malik,Imam-ul-Haq,C de Grandhomme,1,0,null,1,0,null,null
+88,13.6,Imam-ul-Haq,Shoaib Malik,C de Grandhomme,1,0,null,1,0,null,null
+89,14.1,Imam-ul-Haq,Shoaib Malik,LH Ferguson,1,0,null,1,0,null,null
+90,14.2,Shoaib Malik,Imam-ul-Haq,LH Ferguson,0,0,null,0,0,null,null
+91,14.3,Shoaib Malik,Imam-ul-Haq,LH Ferguson,4,0,null,4,0,null,null
+92,14.4,Shoaib Malik,Imam-ul-Haq,LH Ferguson,0,0,null,0,0,null,null
+93,14.5,Shoaib Malik,Imam-ul-Haq,LH Ferguson,1,0,null,1,0,null,null
+94,14.6,Imam-ul-Haq,Shoaib Malik,LH Ferguson,1,0,null,1,0,null,null
+95,15.1,Imam-ul-Haq,Shoaib Malik,C de Grandhomme,1,0,null,1,0,null,null
+96,15.2,Shoaib Malik,Imam-ul-Haq,C de Grandhomme,1,0,null,1,0,null,null
+97,15.3,Imam-ul-Haq,Shoaib Malik,C de Grandhomme,0,0,null,0,0,null,null
+98,15.4,Imam-ul-Haq,Shoaib Malik,C de Grandhomme,0,0,null,0,0,null,null
+99,15.5,Imam-ul-Haq,Shoaib Malik,C de Grandhomme,4,0,null,4,0,null,null
+100,15.6,Imam-ul-Haq,Shoaib Malik,C de Grandhomme,0,0,null,0,0,null,null
+101,16.1,Shoaib Malik,Imam-ul-Haq,LH Ferguson,1,0,null,1,0,null,null
+102,16.2,Imam-ul-Haq,Shoaib Malik,LH Ferguson,0,0,null,0,0,null,null
+103,16.3,Imam-ul-Haq,Shoaib Malik,LH Ferguson,0,0,null,0,1,Imam-ul-Haq,caught
+104,16.4,Sarfraz Ahmed,Shoaib Malik,LH Ferguson,1,0,null,1,0,null,null
+105,16.5,Shoaib Malik,Sarfraz Ahmed,LH Ferguson,0,0,null,0,0,null,null
+106,16.6,Shoaib Malik,Sarfraz Ahmed,LH Ferguson,0,0,null,0,0,null,null
+107,17.1,Sarfraz Ahmed,Shoaib Malik,C de Grandhomme,1,0,null,1,0,null,null
+108,17.2,Shoaib Malik,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+109,17.3,Shoaib Malik,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,1,Shoaib Malik,caught
+110,17.4,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+111,17.5,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+112,17.6,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+113,18.1,Sarfraz Ahmed,Shadab Khan,LH Ferguson,0,0,null,0,0,null,null
+114,18.2,Sarfraz Ahmed,Shadab Khan,LH Ferguson,1,0,null,1,0,null,null
+115,18.3,Shadab Khan,Sarfraz Ahmed,LH Ferguson,1,0,null,1,0,null,null
+116,18.4,Sarfraz Ahmed,Shadab Khan,LH Ferguson,0,0,null,0,0,null,null
+117,18.5,Sarfraz Ahmed,Shadab Khan,LH Ferguson,0,0,null,0,0,null,null
+118,18.6,Sarfraz Ahmed,Shadab Khan,LH Ferguson,0,0,null,0,0,null,null
+119,19.1,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+120,19.2,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+121,19.3,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+122,19.4,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,0,1,wides ,1,0,null,null
+123,19.5,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,1,0,null,1,0,null,null
+124,19.6,Sarfraz Ahmed,Shadab Khan,C de Grandhomme,0,0,null,0,0,null,null
+125,19.7,Sarfraz Ahmed,Shadab Khan,C de Grandhomme,0,0,null,0,0,null,null
+126,20.1,Shadab Khan,Sarfraz Ahmed,LH Ferguson,3,0,null,3,0,null,null
+127,20.2,Sarfraz Ahmed,Shadab Khan,LH Ferguson,0,0,null,0,0,null,null
+128,20.3,Sarfraz Ahmed,Shadab Khan,LH Ferguson,1,0,null,1,0,null,null
+129,20.4,Shadab Khan,Sarfraz Ahmed,LH Ferguson,0,0,null,0,0,null,null
+130,20.5,Shadab Khan,Sarfraz Ahmed,LH Ferguson,0,0,null,0,0,null,null
+131,20.6,Shadab Khan,Sarfraz Ahmed,LH Ferguson,0,0,null,0,0,null,null
+132,21.1,Sarfraz Ahmed,Shadab Khan,C de Grandhomme,1,0,null,1,0,null,null
+133,21.2,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+134,21.3,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,2,0,null,2,0,null,null
+135,21.4,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+136,21.5,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+137,21.6,Shadab Khan,Sarfraz Ahmed,C de Grandhomme,0,1,legbyes ,1,0,null,null
+138,22.1,Shadab Khan,Sarfraz Ahmed,IS Sodhi,0,0,null,0,1,Shadab Khan,caught
+139,22.2,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+140,22.3,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+141,22.4,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+142,22.5,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+143,22.6,Imad Wasim,Sarfraz Ahmed,IS Sodhi,1,0,null,1,0,null,null
+144,23.1,Imad Wasim,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+145,23.2,Imad Wasim,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+146,23.3,Imad Wasim,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+147,23.4,Imad Wasim,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+148,23.5,Imad Wasim,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+149,23.6,Imad Wasim,Sarfraz Ahmed,C de Grandhomme,1,0,null,1,0,null,null
+150,24.1,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+151,24.2,Imad Wasim,Sarfraz Ahmed,IS Sodhi,1,0,null,1,0,null,null
+152,24.3,Sarfraz Ahmed,Imad Wasim,IS Sodhi,0,0,null,0,0,null,null
+153,24.4,Sarfraz Ahmed,Imad Wasim,IS Sodhi,0,0,null,0,0,null,null
+154,24.5,Sarfraz Ahmed,Imad Wasim,IS Sodhi,0,0,null,0,0,null,null
+155,24.6,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+156,25.1,Sarfraz Ahmed,Imad Wasim,C de Grandhomme,4,0,null,4,0,null,null
+157,25.2,Sarfraz Ahmed,Imad Wasim,C de Grandhomme,0,0,null,0,0,null,null
+158,25.3,Sarfraz Ahmed,Imad Wasim,C de Grandhomme,0,0,null,0,0,null,null
+159,25.4,Sarfraz Ahmed,Imad Wasim,C de Grandhomme,1,0,null,1,0,null,null
+160,25.5,Imad Wasim,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+161,25.6,Imad Wasim,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+162,26.1,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+163,26.2,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,2,wides ,2,0,null,null
+164,26.3,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+165,26.4,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+166,26.5,Imad Wasim,Sarfraz Ahmed,IS Sodhi,1,0,null,1,0,null,null
+167,26.6,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+168,26.7,Imad Wasim,Sarfraz Ahmed,IS Sodhi,1,0,null,1,0,null,null
+169,27.1,Imad Wasim,Sarfraz Ahmed,TA Boult,1,0,null,1,0,null,null
+170,27.2,Sarfraz Ahmed,Imad Wasim,TA Boult,1,0,null,1,0,null,null
+171,27.3,Imad Wasim,Sarfraz Ahmed,TA Boult,1,0,null,1,0,null,null
+172,27.4,Sarfraz Ahmed,Imad Wasim,TA Boult,2,0,null,2,0,null,null
+173,27.5,Sarfraz Ahmed,Imad Wasim,TA Boult,0,0,null,0,0,null,null
+174,27.6,Sarfraz Ahmed,Imad Wasim,TA Boult,1,0,null,1,0,null,null
+175,28.1,Sarfraz Ahmed,Imad Wasim,IS Sodhi,0,0,null,0,0,null,null
+176,28.2,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+177,28.3,Imad Wasim,Sarfraz Ahmed,IS Sodhi,1,0,null,1,0,null,null
+178,28.4,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+179,28.5,Imad Wasim,Sarfraz Ahmed,IS Sodhi,1,0,null,1,0,null,null
+180,28.6,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+181,29.1,Sarfraz Ahmed,Imad Wasim,TA Boult,0,0,null,0,0,null,null
+182,29.2,Sarfraz Ahmed,Imad Wasim,TA Boult,1,0,null,1,0,null,null
+183,29.3,Imad Wasim,Sarfraz Ahmed,TA Boult,0,0,null,0,0,null,null
+184,29.4,Imad Wasim,Sarfraz Ahmed,TA Boult,1,0,null,1,0,null,null
+185,29.5,Sarfraz Ahmed,Imad Wasim,TA Boult,2,0,null,2,0,null,null
+186,29.6,Sarfraz Ahmed,Imad Wasim,TA Boult,4,0,null,4,0,null,null
+187,30.1,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+188,30.2,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+189,30.3,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+190,30.4,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+191,30.5,Imad Wasim,Sarfraz Ahmed,IS Sodhi,1,0,null,1,0,null,null
+192,30.6,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+193,31.1,Sarfraz Ahmed,Imad Wasim,TG Southee,0,0,null,0,0,null,null
+194,31.2,Sarfraz Ahmed,Imad Wasim,TG Southee,0,0,null,0,0,null,null
+195,31.3,Sarfraz Ahmed,Imad Wasim,TG Southee,1,0,null,1,0,null,null
+196,31.4,Imad Wasim,Sarfraz Ahmed,TG Southee,1,0,null,1,0,null,null
+197,31.5,Sarfraz Ahmed,Imad Wasim,TG Southee,0,0,null,0,0,null,null
+198,31.6,Sarfraz Ahmed,Imad Wasim,TG Southee,1,0,null,1,0,null,null
+199,32.1,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+200,32.2,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+201,32.3,Imad Wasim,Sarfraz Ahmed,IS Sodhi,2,0,null,2,0,null,null
+202,32.4,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+203,32.5,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+204,32.6,Imad Wasim,Sarfraz Ahmed,IS Sodhi,0,0,null,0,0,null,null
+205,33.1,Sarfraz Ahmed,Imad Wasim,TG Southee,1,0,null,1,0,null,null
+206,33.2,Imad Wasim,Sarfraz Ahmed,TG Southee,0,0,null,0,0,null,null
+207,33.3,Imad Wasim,Sarfraz Ahmed,TG Southee,0,0,null,0,0,null,null
+208,33.4,Imad Wasim,Sarfraz Ahmed,TG Southee,1,0,null,1,0,null,null
+209,33.5,Sarfraz Ahmed,Imad Wasim,TG Southee,1,0,null,1,0,null,null
+210,33.6,Imad Wasim,Sarfraz Ahmed,TG Southee,0,0,null,0,0,null,null
+211,34.1,Sarfraz Ahmed,Imad Wasim,IS Sodhi,0,0,null,0,0,null,null
+212,34.2,Sarfraz Ahmed,Imad Wasim,IS Sodhi,0,0,null,0,0,null,null
+213,34.3,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+214,34.4,Imad Wasim,Sarfraz Ahmed,IS Sodhi,6,1,noballs ,7,0,null,null
+215,34.5,Imad Wasim,Sarfraz Ahmed,IS Sodhi,6,0,null,6,0,null,null
+216,34.6,Imad Wasim,Sarfraz Ahmed,IS Sodhi,1,0,null,1,0,null,null
+217,34.7,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+218,35.1,Sarfraz Ahmed,Imad Wasim,TG Southee,0,0,null,0,0,null,null
+219,35.2,Sarfraz Ahmed,Imad Wasim,TG Southee,1,0,null,1,0,null,null
+220,35.3,Imad Wasim,Sarfraz Ahmed,TG Southee,1,0,null,1,0,null,null
+221,35.4,Sarfraz Ahmed,Imad Wasim,TG Southee,1,0,null,1,0,null,null
+222,35.5,Imad Wasim,Sarfraz Ahmed,TG Southee,0,0,null,0,0,null,null
+223,35.6,Imad Wasim,Sarfraz Ahmed,TG Southee,0,0,null,0,0,null,null
+224,36.1,Sarfraz Ahmed,Imad Wasim,IS Sodhi,0,0,null,0,0,null,null
+225,36.2,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+226,36.3,Imad Wasim,Sarfraz Ahmed,IS Sodhi,1,0,null,1,0,null,null
+227,36.4,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+228,36.5,Imad Wasim,Sarfraz Ahmed,IS Sodhi,1,0,null,1,0,null,null
+229,36.6,Sarfraz Ahmed,Imad Wasim,IS Sodhi,4,0,null,4,0,null,null
+230,37.1,Imad Wasim,Sarfraz Ahmed,LH Ferguson,1,0,null,1,0,null,null
+231,37.2,Sarfraz Ahmed,Imad Wasim,LH Ferguson,1,0,null,1,0,null,null
+232,37.3,Imad Wasim,Sarfraz Ahmed,LH Ferguson,0,0,null,0,0,null,null
+233,37.4,Imad Wasim,Sarfraz Ahmed,LH Ferguson,1,0,null,1,0,null,null
+234,37.5,Sarfraz Ahmed,Imad Wasim,LH Ferguson,0,0,null,0,0,null,null
+235,37.6,Sarfraz Ahmed,Imad Wasim,LH Ferguson,1,0,null,1,0,null,null
+236,38.1,Sarfraz Ahmed,Imad Wasim,IS Sodhi,4,0,null,4,0,null,null
+237,38.2,Sarfraz Ahmed,Imad Wasim,IS Sodhi,1,0,null,1,0,null,null
+238,38.3,Imad Wasim,Sarfraz Ahmed,IS Sodhi,1,0,null,1,0,null,null
+239,38.4,Sarfraz Ahmed,Imad Wasim,IS Sodhi,0,0,null,0,0,null,null
+240,38.5,Sarfraz Ahmed,Imad Wasim,IS Sodhi,4,0,null,4,0,null,null
+241,38.6,Sarfraz Ahmed,Imad Wasim,IS Sodhi,0,0,null,0,0,null,null
+242,39.1,Imad Wasim,Sarfraz Ahmed,LH Ferguson,0,0,null,0,0,null,null
+243,39.2,Imad Wasim,Sarfraz Ahmed,LH Ferguson,0,1,wides ,1,0,null,null
+244,39.3,Imad Wasim,Sarfraz Ahmed,LH Ferguson,2,0,null,2,0,null,null
+245,39.4,Imad Wasim,Sarfraz Ahmed,LH Ferguson,0,1,wides ,1,0,null,null
+246,39.5,Imad Wasim,Sarfraz Ahmed,LH Ferguson,1,0,null,1,0,null,null
+247,39.6,Sarfraz Ahmed,Imad Wasim,LH Ferguson,0,0,null,0,0,null,null
+248,39.7,Sarfraz Ahmed,Imad Wasim,LH Ferguson,0,0,null,0,0,null,null
+249,39.8,Sarfraz Ahmed,Imad Wasim,LH Ferguson,4,0,null,4,0,null,null
+250,40.1,Imad Wasim,Sarfraz Ahmed,C de Grandhomme,0,0,null,0,0,null,null
+251,40.2,Imad Wasim,Sarfraz Ahmed,C de Grandhomme,1,0,null,1,0,null,null
+252,40.3,Sarfraz Ahmed,Imad Wasim,C de Grandhomme,1,0,null,1,0,null,null
+253,40.4,Imad Wasim,Sarfraz Ahmed,C de Grandhomme,1,0,null,1,0,null,null
+254,40.5,Sarfraz Ahmed,Imad Wasim,C de Grandhomme,4,0,null,4,0,null,null
+255,40.6,Sarfraz Ahmed,Imad Wasim,C de Grandhomme,0,0,null,0,1,Sarfraz Ahmed,bowled
+256,41.1,Imad Wasim,Hasan Ali,TA Boult,1,0,null,1,0,null,null
+257,41.2,Hasan Ali,Imad Wasim,TA Boult,0,0,null,0,0,null,null
+258,41.3,Hasan Ali,Imad Wasim,TA Boult,0,0,null,0,0,null,null
+259,41.4,Hasan Ali,Imad Wasim,TA Boult,0,0,null,0,0,null,null
+260,41.5,Hasan Ali,Imad Wasim,TA Boult,1,0,null,1,0,null,null
+261,41.6,Imad Wasim,Hasan Ali,TA Boult,0,0,null,0,0,null,null
+262,42.1,Hasan Ali,Imad Wasim,C de Grandhomme,0,0,null,0,0,null,null
+263,42.2,Hasan Ali,Imad Wasim,C de Grandhomme,0,1,legbyes ,1,0,null,null
+264,42.3,Imad Wasim,Hasan Ali,C de Grandhomme,1,0,null,1,0,null,null
+265,42.4,Hasan Ali,Imad Wasim,C de Grandhomme,1,0,null,1,0,null,null
+266,42.5,Imad Wasim,Hasan Ali,C de Grandhomme,0,0,null,0,0,null,null
+267,42.6,Imad Wasim,Hasan Ali,C de Grandhomme,1,0,null,1,0,null,null
+268,43.1,Imad Wasim,Hasan Ali,TA Boult,0,0,null,0,0,null,null
+269,43.2,Imad Wasim,Hasan Ali,TA Boult,0,1,wides ,1,0,null,null
+270,43.3,Imad Wasim,Hasan Ali,TA Boult,1,0,null,1,0,null,null
+271,43.4,Hasan Ali,Imad Wasim,TA Boult,1,0,null,1,0,null,null
+272,43.5,Imad Wasim,Hasan Ali,TA Boult,1,0,null,1,0,null,null
+273,43.6,Hasan Ali,Imad Wasim,TA Boult,4,0,null,4,0,null,null
+274,43.7,Hasan Ali,Imad Wasim,TA Boult,1,0,null,1,0,null,null
+275,44.1,Hasan Ali,Imad Wasim,LH Ferguson,0,0,null,0,0,null,null
+276,44.2,Hasan Ali,Imad Wasim,LH Ferguson,0,0,null,0,0,null,null
+277,44.3,Hasan Ali,Imad Wasim,LH Ferguson,1,0,null,1,0,null,null
+278,44.4,Imad Wasim,Hasan Ali,LH Ferguson,0,0,null,0,0,null,null
+279,44.5,Imad Wasim,Hasan Ali,LH Ferguson,0,1,wides ,1,0,null,null
+280,44.6,Imad Wasim,Hasan Ali,LH Ferguson,0,1,legbyes ,1,0,null,null
+281,44.7,Hasan Ali,Imad Wasim,LH Ferguson,0,0,null,0,0,null,null
+282,45.1,Imad Wasim,Hasan Ali,TA Boult,1,0,null,1,0,null,null
+283,45.2,Hasan Ali,Imad Wasim,TA Boult,2,0,null,2,0,null,null
+284,45.3,Hasan Ali,Imad Wasim,TA Boult,2,0,null,2,0,null,null
+285,45.4,Hasan Ali,Imad Wasim,TA Boult,0,0,null,0,0,null,null
+286,45.5,Hasan Ali,Imad Wasim,TA Boult,1,0,null,1,0,null,null
+287,45.6,Imad Wasim,Hasan Ali,TA Boult,2,0,null,2,0,null,null
+288,46.1,Hasan Ali,Imad Wasim,TG Southee,1,0,null,1,0,null,null
+289,46.2,Imad Wasim,Hasan Ali,TG Southee,2,0,null,2,0,null,null
+290,46.3,Imad Wasim,Hasan Ali,TG Southee,1,0,null,1,0,null,null
+291,46.4,Hasan Ali,Imad Wasim,TG Southee,1,0,null,1,0,null,null
+292,46.5,Imad Wasim,Hasan Ali,TG Southee,0,0,null,0,1,Imad Wasim,caught
+293,46.6,Shaheen Shah Afridi,Hasan Ali,TG Southee,0,0,null,0,0,null,null
+294,47.1,Hasan Ali,Shaheen Shah Afridi,LH Ferguson,0,0,null,0,1,Hasan Ali,caught
+295,47.2,Shaheen Shah Afridi,Junaid Khan,LH Ferguson,0,0,null,0,1,Shaheen Shah Afridi,bowled

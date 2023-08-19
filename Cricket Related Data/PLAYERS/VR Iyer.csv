@@ -1,0 +1,6 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1277083,"Boland Park, Paarl",South Africa,KA Maharaj,Left-arm orthodox,"[1, 0, 1]",0,5,8,0,0
+1,1277083,"Boland Park, Paarl",South Africa,SSB Magala,Right-arm fast-medium,"[0, 1, 1]",0,8,8,0,1
+2,1277083,"Boland Park, Paarl",South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",0,4,8,0,0
+3,1277083,"Boland Park, Paarl",South Africa,L Ngidi,Right-arm fast,"[0, 1, 0]",0,3,6,0,0
+4,1277082,"Boland Park, Paarl",South Africa,L Ngidi,Right-arm fast,"[0, 1, 0]",1,1,4,0,0

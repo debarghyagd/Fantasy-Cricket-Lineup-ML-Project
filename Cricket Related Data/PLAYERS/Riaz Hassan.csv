@@ -1,0 +1,8 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1295183,"West End Park International Cricket Stadium, Doha",Netherlands,VJ Kingma,Right-arm medium,"[0, 1, 2]",0,6,20,0,0
+1,1295183,"West End Park International Cricket Stadium, Doha",Netherlands,BD Glover,Right-arm fast,"[0, 1, 0]",0,6,6,1,0
+2,1299830,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,1,1,0,0
+3,1299830,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Shoriful Islam,Left-arm fast-medium,"[0, 0, 1]",1,0,1,0,0
+4,1299831,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Shoriful Islam,Left-arm fast-medium,"[0, 0, 1]",0,7,14,0,1
+5,1299831,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,4,11,0,0
+6,1299831,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,4,14,0,0

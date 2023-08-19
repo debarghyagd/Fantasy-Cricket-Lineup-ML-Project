@@ -1,0 +1,10 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1244524,Sheikh Zayed Stadium,Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,0,3,0,0
+1,1302627,Dubai International Cricket Stadium,Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",1,7,6,1,0
+2,1302627,Dubai International Cricket Stadium,Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",0,9,3,2,0
+3,1302627,Dubai International Cricket Stadium,Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",0,5,4,0,0
+4,1312800,"Moosa Cricket Stadium, Pearland",Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",0,11,9,0,1
+5,1312800,"Moosa Cricket Stadium, Pearland",Scotland,MA Leask,Right-arm offbreak,"[1, 1, 0]",0,10,12,1,0
+6,1312801,"Moosa Cricket Stadium, Pearland",United States of America,Ali Khan,Right-arm fast-medium,"[0, 1, 1]",0,1,7,0,0
+7,1312801,"Moosa Cricket Stadium, Pearland",United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,1,2,0,0
+8,1312801,"Moosa Cricket Stadium, Pearland",United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",1,2,6,0,0

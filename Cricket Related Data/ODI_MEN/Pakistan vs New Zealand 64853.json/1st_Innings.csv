@@ -1,0 +1,305 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Yasir Hameed,Imran Farhat,DR Tuffey,0,0,null,0,0,null,null
+1,0.2,Yasir Hameed,Imran Farhat,DR Tuffey,4,0,null,4,0,null,null
+2,0.3,Yasir Hameed,Imran Farhat,DR Tuffey,0,0,null,0,0,null,null
+3,0.4,Yasir Hameed,Imran Farhat,DR Tuffey,0,0,null,0,0,null,null
+4,0.5,Yasir Hameed,Imran Farhat,DR Tuffey,2,0,null,2,0,null,null
+5,0.6,Yasir Hameed,Imran Farhat,DR Tuffey,0,0,null,0,0,null,null
+6,1.1,Imran Farhat,Yasir Hameed,JDP Oram,0,0,null,0,0,null,null
+7,1.2,Imran Farhat,Yasir Hameed,JDP Oram,0,1,wides ,1,0,null,null
+8,1.3,Imran Farhat,Yasir Hameed,JDP Oram,0,0,null,0,0,null,null
+9,1.4,Imran Farhat,Yasir Hameed,JDP Oram,0,0,null,0,0,null,null
+10,1.5,Imran Farhat,Yasir Hameed,JDP Oram,0,0,null,0,0,null,null
+11,1.6,Imran Farhat,Yasir Hameed,JDP Oram,1,0,null,1,0,null,null
+12,1.7,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+13,2.1,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+14,2.2,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+15,2.3,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+16,2.4,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+17,2.5,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+18,2.6,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+19,3.1,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+20,3.2,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+21,3.3,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+22,3.4,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+23,3.5,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+24,3.6,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+25,4.1,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+26,4.2,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+27,4.3,Imran Farhat,Yasir Hameed,DR Tuffey,0,1,legbyes ,1,0,null,null
+28,4.4,Yasir Hameed,Imran Farhat,DR Tuffey,0,0,null,0,0,null,null
+29,4.5,Yasir Hameed,Imran Farhat,DR Tuffey,4,0,null,4,0,null,null
+30,4.6,Yasir Hameed,Imran Farhat,DR Tuffey,2,0,null,2,0,null,null
+31,5.1,Imran Farhat,Yasir Hameed,JDP Oram,0,0,null,0,0,null,null
+32,5.2,Imran Farhat,Yasir Hameed,JDP Oram,1,0,null,1,0,null,null
+33,5.3,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+34,5.4,Yasir Hameed,Imran Farhat,JDP Oram,2,0,null,2,0,null,null
+35,5.5,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+36,5.6,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+37,6.1,Imran Farhat,Yasir Hameed,DR Tuffey,1,0,null,1,0,null,null
+38,6.2,Yasir Hameed,Imran Farhat,DR Tuffey,1,0,null,1,0,null,null
+39,6.3,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+40,6.4,Imran Farhat,Yasir Hameed,DR Tuffey,1,0,null,1,0,null,null
+41,6.5,Yasir Hameed,Imran Farhat,DR Tuffey,0,0,null,0,0,null,null
+42,6.6,Yasir Hameed,Imran Farhat,DR Tuffey,1,0,null,1,0,null,null
+43,7.1,Yasir Hameed,Imran Farhat,JDP Oram,1,0,null,1,0,null,null
+44,7.2,Imran Farhat,Yasir Hameed,JDP Oram,0,0,null,0,0,null,null
+45,7.3,Imran Farhat,Yasir Hameed,JDP Oram,0,0,null,0,0,null,null
+46,7.4,Imran Farhat,Yasir Hameed,JDP Oram,0,0,null,0,0,null,null
+47,7.5,Imran Farhat,Yasir Hameed,JDP Oram,4,0,null,4,0,null,null
+48,7.6,Imran Farhat,Yasir Hameed,JDP Oram,0,0,null,0,0,null,null
+49,8.1,Yasir Hameed,Imran Farhat,DR Tuffey,1,0,null,1,0,null,null
+50,8.2,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+51,8.3,Imran Farhat,Yasir Hameed,DR Tuffey,1,0,null,1,0,null,null
+52,8.4,Yasir Hameed,Imran Farhat,DR Tuffey,0,0,null,0,0,null,null
+53,8.5,Yasir Hameed,Imran Farhat,DR Tuffey,0,0,null,0,0,null,null
+54,8.6,Yasir Hameed,Imran Farhat,DR Tuffey,3,0,null,3,0,null,null
+55,9.1,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+56,9.2,Yasir Hameed,Imran Farhat,JDP Oram,1,0,null,1,0,null,null
+57,9.3,Imran Farhat,Yasir Hameed,JDP Oram,0,0,null,0,0,null,null
+58,9.4,Imran Farhat,Yasir Hameed,JDP Oram,0,0,null,0,0,null,null
+59,9.5,Imran Farhat,Yasir Hameed,JDP Oram,1,0,null,1,0,null,null
+60,9.6,Yasir Hameed,Imran Farhat,JDP Oram,1,0,null,1,0,null,null
+61,10.1,Yasir Hameed,Imran Farhat,DR Tuffey,0,0,null,0,0,null,null
+62,10.2,Yasir Hameed,Imran Farhat,DR Tuffey,1,0,null,1,0,null,null
+63,10.3,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+64,10.4,Imran Farhat,Yasir Hameed,DR Tuffey,6,0,null,6,0,null,null
+65,10.5,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+66,10.6,Imran Farhat,Yasir Hameed,DR Tuffey,0,0,null,0,0,null,null
+67,11.1,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+68,11.2,Yasir Hameed,Imran Farhat,JDP Oram,1,0,null,1,0,null,null
+69,11.3,Imran Farhat,Yasir Hameed,JDP Oram,1,0,null,1,0,null,null
+70,11.4,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+71,11.5,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+72,11.6,Yasir Hameed,Imran Farhat,JDP Oram,0,0,null,0,0,null,null
+73,12.1,Imran Farhat,Yasir Hameed,CL Cairns,0,0,null,0,0,null,null
+74,12.2,Imran Farhat,Yasir Hameed,CL Cairns,0,1,wides ,1,0,null,null
+75,12.3,Imran Farhat,Yasir Hameed,CL Cairns,0,0,null,0,0,null,null
+76,12.4,Imran Farhat,Yasir Hameed,CL Cairns,4,0,null,4,0,null,null
+77,12.5,Imran Farhat,Yasir Hameed,CL Cairns,0,0,null,0,0,null,null
+78,12.6,Imran Farhat,Yasir Hameed,CL Cairns,4,0,null,4,0,null,null
+79,12.7,Imran Farhat,Yasir Hameed,CL Cairns,0,0,null,0,0,null,null
+80,13.1,Yasir Hameed,Imran Farhat,PA Hitchcock,4,0,null,4,0,null,null
+81,13.2,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+82,13.3,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+83,13.4,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+84,13.5,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+85,13.6,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+86,14.1,Imran Farhat,Yasir Hameed,CL Cairns,0,0,null,0,0,null,null
+87,14.2,Imran Farhat,Yasir Hameed,CL Cairns,1,0,null,1,0,null,null
+88,14.3,Yasir Hameed,Imran Farhat,CL Cairns,0,0,null,0,0,null,null
+89,14.4,Yasir Hameed,Imran Farhat,CL Cairns,1,0,null,1,0,null,null
+90,14.5,Imran Farhat,Yasir Hameed,CL Cairns,4,0,null,4,0,null,null
+91,14.6,Imran Farhat,Yasir Hameed,CL Cairns,0,0,null,0,0,null,null
+92,15.1,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+93,15.2,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+94,15.3,Yasir Hameed,Imran Farhat,PA Hitchcock,1,0,null,1,0,null,null
+95,15.4,Imran Farhat,Yasir Hameed,PA Hitchcock,0,0,null,0,0,null,null
+96,15.5,Imran Farhat,Yasir Hameed,PA Hitchcock,1,0,null,1,0,null,null
+97,15.6,Yasir Hameed,Imran Farhat,PA Hitchcock,0,4,byes ,4,0,null,null
+98,16.1,Imran Farhat,Yasir Hameed,CL Cairns,2,0,null,2,0,null,null
+99,16.2,Imran Farhat,Yasir Hameed,CL Cairns,0,0,null,0,0,null,null
+100,16.3,Imran Farhat,Yasir Hameed,CL Cairns,4,0,null,4,0,null,null
+101,16.4,Imran Farhat,Yasir Hameed,CL Cairns,1,0,null,1,0,null,null
+102,16.5,Yasir Hameed,Imran Farhat,CL Cairns,0,0,null,0,0,null,null
+103,16.6,Yasir Hameed,Imran Farhat,CL Cairns,0,0,null,0,0,null,null
+104,17.1,Imran Farhat,Yasir Hameed,PA Hitchcock,0,0,null,0,0,null,null
+105,17.2,Imran Farhat,Yasir Hameed,PA Hitchcock,0,0,null,0,0,null,null
+106,17.3,Imran Farhat,Yasir Hameed,PA Hitchcock,0,0,null,0,0,null,null
+107,17.4,Imran Farhat,Yasir Hameed,PA Hitchcock,1,0,null,1,0,null,null
+108,17.5,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+109,17.6,Yasir Hameed,Imran Farhat,PA Hitchcock,2,0,null,2,0,null,null
+110,18.1,Imran Farhat,Yasir Hameed,TK Canning,0,0,null,0,0,null,null
+111,18.2,Imran Farhat,Yasir Hameed,TK Canning,0,0,null,0,0,null,null
+112,18.3,Imran Farhat,Yasir Hameed,TK Canning,0,0,null,0,0,null,null
+113,18.4,Imran Farhat,Yasir Hameed,TK Canning,1,0,null,1,0,null,null
+114,18.5,Yasir Hameed,Imran Farhat,TK Canning,1,0,null,1,0,null,null
+115,18.6,Imran Farhat,Yasir Hameed,TK Canning,4,0,null,4,0,null,null
+116,19.1,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+117,19.2,Yasir Hameed,Imran Farhat,PA Hitchcock,1,0,null,1,0,null,null
+118,19.3,Imran Farhat,Yasir Hameed,PA Hitchcock,1,0,null,1,0,null,null
+119,19.4,Yasir Hameed,Imran Farhat,PA Hitchcock,1,0,null,1,0,null,null
+120,19.5,Imran Farhat,Yasir Hameed,PA Hitchcock,0,0,null,0,0,null,null
+121,19.6,Imran Farhat,Yasir Hameed,PA Hitchcock,0,0,null,0,0,null,null
+122,20.1,Yasir Hameed,Imran Farhat,TK Canning,3,0,null,3,0,null,null
+123,20.2,Imran Farhat,Yasir Hameed,TK Canning,1,0,null,1,0,null,null
+124,20.3,Yasir Hameed,Imran Farhat,TK Canning,2,0,null,2,0,null,null
+125,20.4,Yasir Hameed,Imran Farhat,TK Canning,0,0,null,0,0,null,null
+126,20.5,Yasir Hameed,Imran Farhat,TK Canning,0,0,null,0,0,null,null
+127,20.6,Yasir Hameed,Imran Farhat,TK Canning,1,0,null,1,0,null,null
+128,21.1,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+129,21.2,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+130,21.3,Yasir Hameed,Imran Farhat,PA Hitchcock,1,0,null,1,0,null,null
+131,21.4,Imran Farhat,Yasir Hameed,PA Hitchcock,1,0,null,1,0,null,null
+132,21.5,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+133,21.6,Yasir Hameed,Imran Farhat,PA Hitchcock,0,0,null,0,0,null,null
+134,22.1,Imran Farhat,Yasir Hameed,TK Canning,0,0,null,0,0,null,null
+135,22.2,Imran Farhat,Yasir Hameed,TK Canning,1,0,null,1,0,null,null
+136,22.3,Yasir Hameed,Imran Farhat,TK Canning,1,0,null,1,0,null,null
+137,22.4,Imran Farhat,Yasir Hameed,TK Canning,4,0,null,4,0,null,null
+138,22.5,Imran Farhat,Yasir Hameed,TK Canning,1,0,null,1,0,null,null
+139,22.6,Yasir Hameed,Imran Farhat,TK Canning,4,0,null,4,0,null,null
+140,23.1,Imran Farhat,Yasir Hameed,DL Vettori,1,0,null,1,0,null,null
+141,23.2,Yasir Hameed,Imran Farhat,DL Vettori,0,0,null,0,0,null,null
+142,23.3,Yasir Hameed,Imran Farhat,DL Vettori,1,0,null,1,0,null,null
+143,23.4,Imran Farhat,Yasir Hameed,DL Vettori,1,0,null,1,0,null,null
+144,23.5,Yasir Hameed,Imran Farhat,DL Vettori,4,0,null,4,0,null,null
+145,23.6,Yasir Hameed,Imran Farhat,DL Vettori,0,0,null,0,1,Yasir Hameed,caught
+146,24.1,Imran Farhat,Saleem Elahi,TK Canning,1,0,null,1,0,null,null
+147,24.2,Saleem Elahi,Imran Farhat,TK Canning,4,0,null,4,0,null,null
+148,24.3,Saleem Elahi,Imran Farhat,TK Canning,1,0,null,1,0,null,null
+149,24.4,Imran Farhat,Saleem Elahi,TK Canning,0,0,null,0,0,null,null
+150,24.5,Imran Farhat,Saleem Elahi,TK Canning,4,0,null,4,0,null,null
+151,24.6,Imran Farhat,Saleem Elahi,TK Canning,0,0,null,0,0,null,null
+152,25.1,Saleem Elahi,Imran Farhat,DL Vettori,0,0,null,0,0,null,null
+153,25.2,Saleem Elahi,Imran Farhat,DL Vettori,2,0,null,2,0,null,null
+154,25.3,Saleem Elahi,Imran Farhat,DL Vettori,0,0,null,0,0,null,null
+155,25.4,Saleem Elahi,Imran Farhat,DL Vettori,0,0,null,0,0,null,null
+156,25.5,Saleem Elahi,Imran Farhat,DL Vettori,4,0,null,4,0,null,null
+157,25.6,Saleem Elahi,Imran Farhat,DL Vettori,0,0,null,0,0,null,null
+158,26.1,Imran Farhat,Saleem Elahi,CL Cairns,1,0,null,1,0,null,null
+159,26.2,Saleem Elahi,Imran Farhat,CL Cairns,1,0,null,1,0,null,null
+160,26.3,Imran Farhat,Saleem Elahi,CL Cairns,0,0,null,0,0,null,null
+161,26.4,Imran Farhat,Saleem Elahi,CL Cairns,0,0,null,0,0,null,null
+162,26.5,Imran Farhat,Saleem Elahi,CL Cairns,0,0,null,0,0,null,null
+163,26.6,Imran Farhat,Saleem Elahi,CL Cairns,1,0,null,1,0,null,null
+164,27.1,Imran Farhat,Saleem Elahi,DL Vettori,1,0,null,1,0,null,null
+165,27.2,Saleem Elahi,Imran Farhat,DL Vettori,0,0,null,0,0,null,null
+166,27.3,Saleem Elahi,Imran Farhat,DL Vettori,1,0,null,1,0,null,null
+167,27.4,Imran Farhat,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+168,27.5,Imran Farhat,Saleem Elahi,DL Vettori,1,0,null,1,0,null,null
+169,27.6,Saleem Elahi,Imran Farhat,DL Vettori,0,0,null,0,0,null,null
+170,28.1,Imran Farhat,Saleem Elahi,CL Cairns,2,0,null,2,0,null,null
+171,28.2,Imran Farhat,Saleem Elahi,CL Cairns,0,0,null,0,0,null,null
+172,28.3,Imran Farhat,Saleem Elahi,CL Cairns,0,0,null,0,0,null,null
+173,28.4,Imran Farhat,Saleem Elahi,CL Cairns,1,0,null,1,0,null,null
+174,28.5,Saleem Elahi,Imran Farhat,CL Cairns,0,0,null,0,0,null,null
+175,28.6,Saleem Elahi,Imran Farhat,CL Cairns,0,0,null,0,0,null,null
+176,29.1,Imran Farhat,Saleem Elahi,DL Vettori,1,0,null,1,0,null,null
+177,29.2,Saleem Elahi,Imran Farhat,DL Vettori,2,0,null,2,0,null,null
+178,29.3,Saleem Elahi,Imran Farhat,DL Vettori,0,0,null,0,0,null,null
+179,29.4,Saleem Elahi,Imran Farhat,DL Vettori,0,0,null,0,0,null,null
+180,29.5,Saleem Elahi,Imran Farhat,DL Vettori,1,0,null,1,0,null,null
+181,29.6,Imran Farhat,Saleem Elahi,DL Vettori,0,0,null,0,1,Imran Farhat,caught
+182,30.1,Saleem Elahi,Mohammad Yousuf,CL Cairns,0,0,null,0,0,null,null
+183,30.2,Saleem Elahi,Mohammad Yousuf,CL Cairns,0,0,null,0,0,null,null
+184,30.3,Saleem Elahi,Mohammad Yousuf,CL Cairns,2,0,null,2,0,null,null
+185,30.4,Saleem Elahi,Mohammad Yousuf,CL Cairns,1,0,null,1,0,null,null
+186,30.5,Mohammad Yousuf,Saleem Elahi,CL Cairns,1,0,null,1,0,null,null
+187,30.6,Saleem Elahi,Mohammad Yousuf,CL Cairns,0,0,null,0,0,null,null
+188,31.1,Mohammad Yousuf,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+189,31.2,Mohammad Yousuf,Saleem Elahi,DL Vettori,4,0,null,4,0,null,null
+190,31.3,Mohammad Yousuf,Saleem Elahi,DL Vettori,1,0,null,1,0,null,null
+191,31.4,Saleem Elahi,Mohammad Yousuf,DL Vettori,1,0,null,1,0,null,null
+192,31.5,Mohammad Yousuf,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+193,31.6,Mohammad Yousuf,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+194,32.1,Saleem Elahi,Mohammad Yousuf,CL Cairns,1,0,null,1,0,null,null
+195,32.2,Mohammad Yousuf,Saleem Elahi,CL Cairns,0,0,null,0,0,null,null
+196,32.3,Mohammad Yousuf,Saleem Elahi,CL Cairns,0,0,null,0,0,null,null
+197,32.4,Mohammad Yousuf,Saleem Elahi,CL Cairns,2,0,null,2,0,null,null
+198,32.5,Mohammad Yousuf,Saleem Elahi,CL Cairns,0,0,null,0,0,null,null
+199,32.6,Mohammad Yousuf,Saleem Elahi,CL Cairns,0,0,null,0,0,null,null
+200,33.1,Saleem Elahi,Mohammad Yousuf,DL Vettori,0,0,null,0,0,null,null
+201,33.2,Saleem Elahi,Mohammad Yousuf,DL Vettori,0,0,null,0,0,null,null
+202,33.3,Saleem Elahi,Mohammad Yousuf,DL Vettori,0,0,null,0,0,null,null
+203,33.4,Saleem Elahi,Mohammad Yousuf,DL Vettori,0,0,null,0,0,null,null
+204,33.5,Saleem Elahi,Mohammad Yousuf,DL Vettori,1,0,null,1,0,null,null
+205,33.6,Mohammad Yousuf,Saleem Elahi,DL Vettori,1,0,null,1,0,null,null
+206,34.1,Mohammad Yousuf,Saleem Elahi,JDP Oram,0,0,null,0,0,null,null
+207,34.2,Mohammad Yousuf,Saleem Elahi,JDP Oram,1,0,null,1,0,null,null
+208,34.3,Saleem Elahi,Mohammad Yousuf,JDP Oram,1,0,null,1,0,null,null
+209,34.4,Mohammad Yousuf,Saleem Elahi,JDP Oram,1,0,null,1,0,null,null
+210,34.5,Saleem Elahi,Mohammad Yousuf,JDP Oram,0,0,null,0,0,null,null
+211,34.6,Saleem Elahi,Mohammad Yousuf,JDP Oram,0,0,null,0,0,null,null
+212,35.1,Mohammad Yousuf,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+213,35.2,Mohammad Yousuf,Saleem Elahi,DL Vettori,0,0,null,0,1,Mohammad Yousuf,caught
+214,35.3,Saleem Elahi,Misbah-ul-Haq,DL Vettori,0,0,null,0,0,null,null
+215,35.4,Saleem Elahi,Misbah-ul-Haq,DL Vettori,1,0,null,1,0,null,null
+216,35.5,Misbah-ul-Haq,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+217,35.6,Misbah-ul-Haq,Saleem Elahi,DL Vettori,1,0,null,1,0,null,null
+218,36.1,Misbah-ul-Haq,Saleem Elahi,JDP Oram,0,0,null,0,0,null,null
+219,36.2,Misbah-ul-Haq,Saleem Elahi,JDP Oram,0,1,wides ,1,0,null,null
+220,36.3,Misbah-ul-Haq,Saleem Elahi,JDP Oram,1,0,null,1,0,null,null
+221,36.4,Saleem Elahi,Misbah-ul-Haq,JDP Oram,0,0,null,0,0,null,null
+222,36.5,Saleem Elahi,Misbah-ul-Haq,JDP Oram,1,0,null,1,0,null,null
+223,36.6,Misbah-ul-Haq,Saleem Elahi,JDP Oram,0,0,null,0,0,null,null
+224,36.7,Misbah-ul-Haq,Saleem Elahi,JDP Oram,1,0,null,1,0,null,null
+225,37.1,Misbah-ul-Haq,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+226,37.2,Misbah-ul-Haq,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+227,37.3,Misbah-ul-Haq,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+228,37.4,Misbah-ul-Haq,Saleem Elahi,DL Vettori,1,0,null,1,0,null,null
+229,37.5,Saleem Elahi,Misbah-ul-Haq,DL Vettori,0,0,null,0,0,null,null
+230,37.6,Saleem Elahi,Misbah-ul-Haq,DL Vettori,2,0,null,2,0,null,null
+231,38.1,Misbah-ul-Haq,Saleem Elahi,DR Tuffey,0,0,null,0,0,null,null
+232,38.2,Misbah-ul-Haq,Saleem Elahi,DR Tuffey,0,0,null,0,0,null,null
+233,38.3,Misbah-ul-Haq,Saleem Elahi,DR Tuffey,0,0,null,0,1,Misbah-ul-Haq,caught
+234,38.4,Saleem Elahi,Shoaib Malik,DR Tuffey,1,0,null,1,0,null,null
+235,38.5,Shoaib Malik,Saleem Elahi,DR Tuffey,0,0,null,0,0,null,null
+236,38.6,Shoaib Malik,Saleem Elahi,DR Tuffey,0,0,null,0,0,null,null
+237,39.1,Saleem Elahi,Shoaib Malik,DL Vettori,2,0,null,2,0,null,null
+238,39.2,Saleem Elahi,Shoaib Malik,DL Vettori,1,0,null,1,0,null,null
+239,39.3,Shoaib Malik,Saleem Elahi,DL Vettori,1,0,null,1,0,null,null
+240,39.4,Saleem Elahi,Shoaib Malik,DL Vettori,0,0,null,0,0,null,null
+241,39.5,Saleem Elahi,Shoaib Malik,DL Vettori,2,0,null,2,0,null,null
+242,39.6,Saleem Elahi,Shoaib Malik,DL Vettori,0,0,null,0,0,null,null
+243,40.1,Shoaib Malik,Saleem Elahi,DR Tuffey,0,0,null,0,0,null,null
+244,40.2,Shoaib Malik,Saleem Elahi,DR Tuffey,0,0,null,0,0,null,null
+245,40.3,Shoaib Malik,Saleem Elahi,DR Tuffey,1,0,null,1,0,null,null
+246,40.4,Saleem Elahi,Shoaib Malik,DR Tuffey,3,0,null,3,0,null,null
+247,40.5,Shoaib Malik,Saleem Elahi,DR Tuffey,1,0,null,1,0,null,null
+248,40.6,Saleem Elahi,Shoaib Malik,DR Tuffey,0,0,null,0,0,null,null
+249,41.1,Shoaib Malik,Saleem Elahi,DL Vettori,4,0,null,4,0,null,null
+250,41.2,Shoaib Malik,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+251,41.3,Shoaib Malik,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+252,41.4,Shoaib Malik,Saleem Elahi,DL Vettori,0,0,null,0,0,null,null
+253,41.5,Shoaib Malik,Saleem Elahi,DL Vettori,1,0,null,1,0,null,null
+254,41.6,Saleem Elahi,Shoaib Malik,DL Vettori,0,0,null,0,0,null,null
+255,42.1,Shoaib Malik,Saleem Elahi,PA Hitchcock,1,0,null,1,0,null,null
+256,42.2,Saleem Elahi,Shoaib Malik,PA Hitchcock,1,0,null,1,0,null,null
+257,42.3,Shoaib Malik,Saleem Elahi,PA Hitchcock,2,0,null,2,0,null,null
+258,42.4,Shoaib Malik,Saleem Elahi,PA Hitchcock,1,0,null,1,0,null,null
+259,42.5,Saleem Elahi,Shoaib Malik,PA Hitchcock,1,0,null,1,0,null,null
+260,42.6,Shoaib Malik,Saleem Elahi,PA Hitchcock,2,0,null,2,0,null,null
+261,43.1,Saleem Elahi,Shoaib Malik,JDP Oram,1,0,null,1,0,null,null
+262,43.2,Shoaib Malik,Saleem Elahi,JDP Oram,1,0,null,1,0,null,null
+263,43.3,Saleem Elahi,Shoaib Malik,JDP Oram,2,0,null,2,0,null,null
+264,43.4,Saleem Elahi,Shoaib Malik,JDP Oram,4,0,null,4,0,null,null
+265,43.5,Saleem Elahi,Shoaib Malik,JDP Oram,4,0,null,4,0,null,null
+266,43.6,Saleem Elahi,Shoaib Malik,JDP Oram,4,0,null,4,0,null,null
+267,44.1,Shoaib Malik,Saleem Elahi,PA Hitchcock,2,0,null,2,0,null,null
+268,44.2,Shoaib Malik,Saleem Elahi,PA Hitchcock,4,0,null,4,0,null,null
+269,44.3,Shoaib Malik,Saleem Elahi,PA Hitchcock,1,0,null,1,0,null,null
+270,44.4,Saleem Elahi,Shoaib Malik,PA Hitchcock,1,0,null,1,0,null,null
+271,44.5,Shoaib Malik,Saleem Elahi,PA Hitchcock,0,0,null,0,0,null,null
+272,44.6,Shoaib Malik,Saleem Elahi,PA Hitchcock,1,0,null,1,1,Shoaib Malik,run out
+273,45.1,Saleem Elahi,Abdul Razzaq,CL Cairns,1,0,null,1,0,null,null
+274,45.2,Abdul Razzaq,Saleem Elahi,CL Cairns,1,0,null,1,0,null,null
+275,45.3,Saleem Elahi,Abdul Razzaq,CL Cairns,1,0,null,1,0,null,null
+276,45.4,Abdul Razzaq,Saleem Elahi,CL Cairns,1,0,null,1,0,null,null
+277,45.5,Saleem Elahi,Abdul Razzaq,CL Cairns,4,0,null,4,0,null,null
+278,45.6,Saleem Elahi,Abdul Razzaq,CL Cairns,1,0,null,1,0,null,null
+279,46.1,Saleem Elahi,Abdul Razzaq,DR Tuffey,1,0,null,1,0,null,null
+280,46.2,Abdul Razzaq,Saleem Elahi,DR Tuffey,4,0,null,4,0,null,null
+281,46.3,Abdul Razzaq,Saleem Elahi,DR Tuffey,1,0,null,1,0,null,null
+282,46.4,Saleem Elahi,Abdul Razzaq,DR Tuffey,1,0,null,1,0,null,null
+283,46.5,Abdul Razzaq,Saleem Elahi,DR Tuffey,2,0,null,2,0,null,null
+284,46.6,Abdul Razzaq,Saleem Elahi,DR Tuffey,4,0,null,4,0,null,null
+285,47.1,Saleem Elahi,Abdul Razzaq,PA Hitchcock,1,0,null,1,0,null,null
+286,47.2,Abdul Razzaq,Saleem Elahi,PA Hitchcock,1,0,null,1,0,null,null
+287,47.3,Saleem Elahi,Abdul Razzaq,PA Hitchcock,0,1,wides ,1,0,null,null
+288,47.4,Saleem Elahi,Abdul Razzaq,PA Hitchcock,1,0,null,1,0,null,null
+289,47.5,Abdul Razzaq,Saleem Elahi,PA Hitchcock,1,0,null,1,0,null,null
+290,47.6,Saleem Elahi,Abdul Razzaq,PA Hitchcock,2,0,null,2,0,null,null
+291,47.7,Saleem Elahi,Abdul Razzaq,PA Hitchcock,1,0,null,1,0,null,null
+292,48.1,Saleem Elahi,Abdul Razzaq,DR Tuffey,1,0,null,1,0,null,null
+293,48.2,Abdul Razzaq,Saleem Elahi,DR Tuffey,4,0,null,4,0,null,null
+294,48.3,Abdul Razzaq,Saleem Elahi,DR Tuffey,2,0,null,2,0,null,null
+295,48.4,Abdul Razzaq,Saleem Elahi,DR Tuffey,1,0,null,1,0,null,null
+296,48.5,Saleem Elahi,Abdul Razzaq,DR Tuffey,1,0,null,1,0,null,null
+297,48.6,Abdul Razzaq,Saleem Elahi,DR Tuffey,6,0,null,6,0,null,null
+298,49.1,Saleem Elahi,Abdul Razzaq,PA Hitchcock,0,0,null,0,1,Saleem Elahi,caught
+299,49.2,Moin Khan,Abdul Razzaq,PA Hitchcock,1,0,null,1,0,null,null
+300,49.3,Abdul Razzaq,Moin Khan,PA Hitchcock,6,0,null,6,0,null,null
+301,49.4,Abdul Razzaq,Moin Khan,PA Hitchcock,2,0,null,2,0,null,null
+302,49.5,Abdul Razzaq,Moin Khan,PA Hitchcock,2,0,null,2,0,null,null
+303,49.6,Abdul Razzaq,Moin Khan,PA Hitchcock,4,0,null,4,0,null,null

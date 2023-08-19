@@ -1,0 +1,41 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,415285,SuperSport Park,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,13,8,2,0
+1,415285,SuperSport Park,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,8,13,0,0
+2,415285,SuperSport Park,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,6,7,1,0
+3,415285,SuperSport Park,Australia,PM Siddle,Right-arm fast-medium,"[0, 1, 1]",1,9,18,2,0
+4,350046,Lord's,Australia,B Lee,Right-arm fast,"[0, 1, 0]",1,8,15,2,0
+5,350047,Trent Bridge,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",1,18,16,3,0
+6,350047,Trent Bridge,Australia,PM Siddle,Right-arm fast-medium,"[0, 1, 1]",0,6,11,1,0
+7,350047,Trent Bridge,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,5,8,0,0
+8,350047,Trent Bridge,Australia,NM Hauritz,Right-arm offbreak,"[1, 1, 0]",0,6,12,0,0
+9,350048,Trent Bridge,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,9,14,2,0
+10,350048,Trent Bridge,Australia,PM Siddle,Right-arm fast-medium,"[0, 1, 1]",0,4,14,0,0
+11,350049,Riverside Ground,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,13,14,2,0
+12,350049,Riverside Ground,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,1,16,0,0
+13,350049,Riverside Ground,Australia,BW Hilfenhaus,Right-arm fast-medium,"[0, 1, 1]",0,13,14,3,0
+14,350049,Riverside Ground,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+15,350049,Riverside Ground,Australia,NM Hauritz,Right-arm offbreak,"[1, 1, 0]",0,9,14,0,0
+16,415282,New Wanderers Stadium,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",1,0,5,0,0
+17,415282,New Wanderers Stadium,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,5,7,1,0
+18,1152844,Trent Bridge,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,6,6,0,0
+19,1152844,Trent Bridge,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",1,5,8,0,0
+20,1152844,Trent Bridge,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+21,1152844,Trent Bridge,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",0,2,2,0,0
+22,415276,New Wanderers Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,1,6,0,0
+23,1161014,"The Village, Malahide",Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",1,1,9,0,0
+24,1161014,"The Village, Malahide",Ireland,J Little,Left-arm fast,"[0, 0, 0]",0,7,9,1,0
+25,383275,"Civil Service Cricket Club, Stormont",Ireland,RM West,"Left arm Fast medium, Slow Left arm Orthodox",not known,0,18,33,0,0
+26,383275,"Civil Service Cricket Club, Stormont",Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,10,17,1,0
+27,383275,"Civil Service Cricket Club, Stormont",Ireland,DT Johnston,Right-arm fast-medium,"[0, 1, 1]",1,10,18,1,0
+28,1185310,Newlands,South Africa,BE Hendricks,Left-arm fast-medium,"[0, 0, 1]",1,4,9,0,0
+29,1185310,Newlands,South Africa,L Sipamla,Right-arm fast-medium,"[0, 1, 1]",0,27,31,3,0
+30,1185310,Newlands,South Africa,JT Smuts,Left-arm orthodox,"[1, 0, 1]",0,9,18,0,0
+31,1185310,Newlands,South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",0,17,24,1,0
+32,1185310,Newlands,South Africa,L Ngidi,Right-arm fast,"[0, 1, 0]",0,19,14,0,2
+33,1185312,The Wanderers Stadium,South Africa,BE Hendricks,Left-arm fast-medium,"[0, 0, 1]",0,6,14,0,0
+34,1185312,The Wanderers Stadium,South Africa,L Sipamla,Right-arm fast-medium,"[0, 1, 1]",0,6,19,1,0
+35,1185312,The Wanderers Stadium,South Africa,JT Smuts,Left-arm orthodox,"[1, 0, 1]",0,3,9,0,0
+36,1185312,The Wanderers Stadium,South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",0,29,26,2,2
+37,1185312,The Wanderers Stadium,South Africa,L Ngidi,Right-arm fast,"[0, 1, 0]",1,15,11,3,0
+38,415280,SuperSport Park,South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",1,7,12,1,0
+39,415280,SuperSport Park,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,2,3,0,0

@@ -1,0 +1,4 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1144171,Newlands,South Africa,JP Duminy,Right-arm offbreak,"[1, 1, 0]",0,4,6,0,0
+1,1144171,Newlands,South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",1,5,11,0,0
+2,1144171,Newlands,South Africa,Imran Tahir,Right-arm legbreak,"[1, 1, 1]",0,7,15,1,0

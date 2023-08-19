@@ -1,0 +1,8 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1288313,"Gaddafi Stadium, Lahore",Australia,NT Ellis,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+1,1288313,"Gaddafi Stadium, Lahore",Australia,TM Head,Right-arm offbreak,"[1, 1, 0]",1,0,3,0,0
+2,1239538,"Lord's, London",England,S Mahmood,Right-arm fast-medium,"[0, 1, 1]",0,10,13,1,0
+3,1239538,"Lord's, London",England,BA Carse,Right-arm fast,"[0, 1, 0]",0,18,21,1,0
+4,1239538,"Lord's, London",England,MW Parkinson,Right-arm legbreak,"[1, 1, 1]",1,9,15,0,0
+5,1239537,"Sophia Gardens, Cardiff",England,S Mahmood,Right-arm fast-medium,"[0, 1, 1]",1,5,9,1,0
+6,1239539,"Edgbaston, Birmingham",England,BA Carse,Right-arm fast,"[0, 1, 0]",0,3,3,0,0

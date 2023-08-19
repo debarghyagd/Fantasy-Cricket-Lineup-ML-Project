@@ -1,0 +1,17 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1299829,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,2,3,0,0
+1,1299829,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Shoriful Islam,Left-arm fast-medium,"[0, 0, 1]",1,1,8,0,0
+2,1299829,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,2,2,0,0
+3,1193499,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,West Indies,R Shepherd,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+4,1193499,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",1,1,5,0,0
+5,1310943,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,2,9,0,0
+6,1310943,Harare Sports Club,Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",1,3,11,0,0
+7,1310944,Harare Sports Club,Zimbabwe,RP Burl,Right-arm legbreak,"[1, 1, 1]",0,20,19,2,0
+8,1310944,Harare Sports Club,Zimbabwe,TL Chivanga,Right-arm fast,"[0, 1, 0]",0,14,25,2,0
+9,1310944,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,10,16,0,0
+10,1310944,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,27,26,5,0
+11,1310944,Harare Sports Club,Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,15,15,3,0
+12,1310944,Harare Sports Club,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,21,25,3,0
+13,1310944,Harare Sports Club,Zimbabwe,W Madhevere,Right-arm offbreak,"[1, 1, 0]",0,5,8,0,0
+14,1310945,Harare Sports Club,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,1,15,0,0
+15,1310945,Harare Sports Club,Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",1,7,15,0,0

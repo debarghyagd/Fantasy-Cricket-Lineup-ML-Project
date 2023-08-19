@@ -1,0 +1,151 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,WU Tharanga,TM Dilshan,Z Khan,0,0,null,0,1,WU Tharanga,bowled
+1,0.2,ST Jayasuriya,TM Dilshan,Z Khan,0,0,null,0,0,null,null
+2,0.3,ST Jayasuriya,TM Dilshan,Z Khan,0,0,null,0,0,null,null
+3,0.4,ST Jayasuriya,TM Dilshan,Z Khan,1,0,null,1,0,null,null
+4,0.5,TM Dilshan,ST Jayasuriya,Z Khan,1,0,null,1,0,null,null
+5,0.6,ST Jayasuriya,TM Dilshan,Z Khan,0,0,null,0,0,null,null
+6,1.1,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+7,1.2,TM Dilshan,ST Jayasuriya,A Nehra,1,0,null,1,0,null,null
+8,1.3,ST Jayasuriya,TM Dilshan,A Nehra,0,0,null,0,0,null,null
+9,1.4,ST Jayasuriya,TM Dilshan,A Nehra,0,1,wides ,1,0,null,null
+10,1.5,ST Jayasuriya,TM Dilshan,A Nehra,0,0,null,0,0,null,null
+11,1.6,ST Jayasuriya,TM Dilshan,A Nehra,0,0,null,0,0,null,null
+12,1.7,ST Jayasuriya,TM Dilshan,A Nehra,0,0,null,0,0,null,null
+13,2.1,TM Dilshan,ST Jayasuriya,Z Khan,1,0,null,1,0,null,null
+14,2.2,ST Jayasuriya,TM Dilshan,Z Khan,0,0,null,0,0,null,null
+15,2.3,ST Jayasuriya,TM Dilshan,Z Khan,0,0,null,0,0,null,null
+16,2.4,ST Jayasuriya,TM Dilshan,Z Khan,4,0,null,4,0,null,null
+17,2.5,ST Jayasuriya,TM Dilshan,Z Khan,0,0,null,0,0,null,null
+18,2.6,ST Jayasuriya,TM Dilshan,Z Khan,0,0,null,0,0,null,null
+19,3.1,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+20,3.2,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+21,3.3,TM Dilshan,ST Jayasuriya,A Nehra,5,0,null,5,0,null,null
+22,3.4,ST Jayasuriya,TM Dilshan,A Nehra,0,0,null,0,0,null,null
+23,3.5,ST Jayasuriya,TM Dilshan,A Nehra,4,0,null,4,0,null,null
+24,3.6,ST Jayasuriya,TM Dilshan,A Nehra,0,0,null,0,0,null,null
+25,4.1,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+26,4.2,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+27,4.3,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+28,4.4,TM Dilshan,ST Jayasuriya,Z Khan,0,1,wides ,1,0,null,null
+29,4.5,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+30,4.6,TM Dilshan,ST Jayasuriya,Z Khan,1,0,null,1,0,null,null
+31,4.7,ST Jayasuriya,TM Dilshan,Z Khan,0,0,null,0,0,null,null
+32,5.1,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+33,5.2,TM Dilshan,ST Jayasuriya,A Nehra,0,1,wides ,1,0,null,null
+34,5.3,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+35,5.4,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+36,5.5,TM Dilshan,ST Jayasuriya,A Nehra,1,0,null,1,0,null,null
+37,5.6,ST Jayasuriya,TM Dilshan,A Nehra,1,0,null,1,0,null,null
+38,5.7,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+39,6.1,ST Jayasuriya,TM Dilshan,Z Khan,0,0,null,0,0,null,null
+40,6.2,ST Jayasuriya,TM Dilshan,Z Khan,2,0,null,2,0,null,null
+41,6.3,ST Jayasuriya,TM Dilshan,Z Khan,1,0,null,1,0,null,null
+42,6.4,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+43,6.5,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+44,6.6,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+45,7.1,ST Jayasuriya,TM Dilshan,A Nehra,1,0,null,1,0,null,null
+46,7.2,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+47,7.3,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+48,7.4,TM Dilshan,ST Jayasuriya,A Nehra,4,0,null,4,0,null,null
+49,7.5,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+50,7.6,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+51,8.1,ST Jayasuriya,TM Dilshan,Z Khan,0,0,null,0,0,null,null
+52,8.2,ST Jayasuriya,TM Dilshan,Z Khan,1,0,null,1,0,null,null
+53,8.3,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+54,8.4,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+55,8.5,TM Dilshan,ST Jayasuriya,Z Khan,1,0,null,1,0,null,null
+56,8.6,ST Jayasuriya,TM Dilshan,Z Khan,0,1,wides ,1,0,null,null
+57,8.7,ST Jayasuriya,TM Dilshan,Z Khan,0,0,null,0,0,null,null
+58,9.1,TM Dilshan,ST Jayasuriya,A Nehra,4,0,null,4,0,null,null
+59,9.2,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+60,9.3,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+61,9.4,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+62,9.5,TM Dilshan,ST Jayasuriya,A Nehra,0,0,null,0,0,null,null
+63,9.6,TM Dilshan,ST Jayasuriya,A Nehra,1,0,null,1,0,null,null
+64,10.1,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+65,10.2,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+66,10.3,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+67,10.4,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+68,10.5,TM Dilshan,ST Jayasuriya,Z Khan,0,0,null,0,1,TM Dilshan,caught
+69,10.6,KC Sangakkara,ST Jayasuriya,Z Khan,0,0,null,0,0,null,null
+70,11.1,ST Jayasuriya,KC Sangakkara,S Tyagi,0,0,null,0,0,null,null
+71,11.2,ST Jayasuriya,KC Sangakkara,S Tyagi,0,0,null,0,0,null,null
+72,11.3,ST Jayasuriya,KC Sangakkara,S Tyagi,0,1,legbyes ,1,0,null,null
+73,11.4,KC Sangakkara,ST Jayasuriya,S Tyagi,0,0,null,0,0,null,null
+74,11.5,KC Sangakkara,ST Jayasuriya,S Tyagi,0,0,null,0,0,null,null
+75,11.6,KC Sangakkara,ST Jayasuriya,S Tyagi,0,0,null,0,0,null,null
+76,12.1,ST Jayasuriya,KC Sangakkara,Z Khan,4,0,null,4,0,null,null
+77,12.2,ST Jayasuriya,KC Sangakkara,Z Khan,0,1,wides ,1,0,null,null
+78,12.3,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,null,0,0,null,null
+79,12.4,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,null,0,0,null,null
+80,12.5,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,null,0,0,null,null
+81,12.6,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,null,0,0,null,null
+82,12.7,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,null,0,0,null,null
+83,13.1,KC Sangakkara,ST Jayasuriya,S Tyagi,0,0,null,0,0,null,null
+84,13.2,KC Sangakkara,ST Jayasuriya,S Tyagi,0,0,null,0,0,null,null
+85,13.3,KC Sangakkara,ST Jayasuriya,S Tyagi,0,0,null,0,0,null,null
+86,13.4,KC Sangakkara,ST Jayasuriya,S Tyagi,1,0,null,1,0,null,null
+87,13.5,ST Jayasuriya,KC Sangakkara,S Tyagi,0,0,null,0,0,null,null
+88,13.6,ST Jayasuriya,KC Sangakkara,S Tyagi,1,0,null,1,0,null,null
+89,14.1,ST Jayasuriya,KC Sangakkara,Z Khan,4,1,noballs ,5,0,null,null
+90,14.2,ST Jayasuriya,KC Sangakkara,Z Khan,4,0,null,4,0,null,null
+91,14.3,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,null,0,0,null,null
+92,14.4,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,null,0,0,null,null
+93,14.5,ST Jayasuriya,KC Sangakkara,Z Khan,2,0,null,2,0,null,null
+94,14.6,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,null,0,0,null,null
+95,14.7,ST Jayasuriya,KC Sangakkara,Z Khan,0,0,null,0,0,null,null
+96,15.1,KC Sangakkara,ST Jayasuriya,S Tyagi,0,0,null,0,1,KC Sangakkara,caught
+97,15.2,TT Samaraweera,ST Jayasuriya,S Tyagi,1,0,null,1,0,null,null
+98,15.3,ST Jayasuriya,TT Samaraweera,S Tyagi,0,0,null,0,0,null,null
+99,15.4,ST Jayasuriya,TT Samaraweera,S Tyagi,0,0,null,0,0,null,null
+100,15.5,ST Jayasuriya,TT Samaraweera,S Tyagi,0,0,null,0,0,null,null
+101,15.6,ST Jayasuriya,TT Samaraweera,S Tyagi,1,0,null,1,0,null,null
+102,16.1,ST Jayasuriya,TT Samaraweera,Harbhajan Singh,0,0,null,0,0,null,null
+103,16.2,ST Jayasuriya,TT Samaraweera,Harbhajan Singh,0,0,null,0,0,null,null
+104,16.3,ST Jayasuriya,TT Samaraweera,Harbhajan Singh,0,0,null,0,0,null,null
+105,16.4,ST Jayasuriya,TT Samaraweera,Harbhajan Singh,0,0,null,0,1,ST Jayasuriya,lbw
+106,16.5,SHT Kandamby,TT Samaraweera,Harbhajan Singh,0,0,null,0,0,null,null
+107,16.6,SHT Kandamby,TT Samaraweera,Harbhajan Singh,1,0,null,1,0,null,null
+108,17.1,SHT Kandamby,TT Samaraweera,S Tyagi,0,0,null,0,0,null,null
+109,17.2,SHT Kandamby,TT Samaraweera,S Tyagi,1,0,null,1,0,null,null
+110,17.3,TT Samaraweera,SHT Kandamby,S Tyagi,1,0,null,1,0,null,null
+111,17.4,SHT Kandamby,TT Samaraweera,S Tyagi,0,0,null,0,0,null,null
+112,17.5,SHT Kandamby,TT Samaraweera,S Tyagi,0,0,null,0,0,null,null
+113,17.6,SHT Kandamby,TT Samaraweera,S Tyagi,0,0,null,0,1,TT Samaraweera,run out
+114,18.1,SHT Kandamby,M Pushpakumara,Harbhajan Singh,0,0,null,0,0,null,null
+115,18.2,SHT Kandamby,M Pushpakumara,Harbhajan Singh,0,0,null,0,0,null,null
+116,18.3,SHT Kandamby,M Pushpakumara,Harbhajan Singh,0,0,null,0,0,null,null
+117,18.4,SHT Kandamby,M Pushpakumara,Harbhajan Singh,2,0,null,2,0,null,null
+118,18.5,SHT Kandamby,M Pushpakumara,Harbhajan Singh,1,0,null,1,0,null,null
+119,18.6,M Pushpakumara,SHT Kandamby,Harbhajan Singh,1,0,null,1,0,null,null
+120,19.1,M Pushpakumara,SHT Kandamby,S Tyagi,1,0,null,1,0,null,null
+121,19.2,SHT Kandamby,M Pushpakumara,S Tyagi,1,0,null,1,0,null,null
+122,19.3,M Pushpakumara,SHT Kandamby,S Tyagi,0,0,null,0,0,null,null
+123,19.4,M Pushpakumara,SHT Kandamby,S Tyagi,0,0,null,0,0,null,null
+124,19.5,M Pushpakumara,SHT Kandamby,S Tyagi,0,0,null,0,0,null,null
+125,19.6,M Pushpakumara,SHT Kandamby,S Tyagi,0,1,wides ,1,0,null,null
+126,19.7,M Pushpakumara,SHT Kandamby,S Tyagi,1,0,null,1,0,null,null
+127,20.1,M Pushpakumara,SHT Kandamby,Harbhajan Singh,1,0,null,1,0,null,null
+128,20.2,SHT Kandamby,M Pushpakumara,Harbhajan Singh,1,0,null,1,0,null,null
+129,20.3,M Pushpakumara,SHT Kandamby,Harbhajan Singh,0,0,null,0,0,null,null
+130,20.4,M Pushpakumara,SHT Kandamby,Harbhajan Singh,0,0,null,0,0,null,null
+131,20.5,M Pushpakumara,SHT Kandamby,Harbhajan Singh,0,0,null,0,0,null,null
+132,20.6,M Pushpakumara,SHT Kandamby,Harbhajan Singh,0,0,null,0,0,null,null
+133,21.1,SHT Kandamby,M Pushpakumara,S Tyagi,0,0,null,0,0,null,null
+134,21.2,SHT Kandamby,M Pushpakumara,S Tyagi,1,0,null,1,0,null,null
+135,21.3,M Pushpakumara,SHT Kandamby,S Tyagi,0,0,null,0,0,null,null
+136,21.4,M Pushpakumara,SHT Kandamby,S Tyagi,0,0,null,0,0,null,null
+137,21.5,M Pushpakumara,SHT Kandamby,S Tyagi,0,1,wides ,1,0,null,null
+138,21.6,M Pushpakumara,SHT Kandamby,S Tyagi,0,0,null,0,0,null,null
+139,21.7,M Pushpakumara,SHT Kandamby,S Tyagi,1,0,null,1,0,null,null
+140,22.1,M Pushpakumara,SHT Kandamby,Harbhajan Singh,0,0,null,0,0,null,null
+141,22.2,M Pushpakumara,SHT Kandamby,Harbhajan Singh,1,0,null,1,0,null,null
+142,22.3,SHT Kandamby,M Pushpakumara,Harbhajan Singh,0,0,null,0,0,null,null
+143,22.4,SHT Kandamby,M Pushpakumara,Harbhajan Singh,0,0,null,0,0,null,null
+144,22.5,SHT Kandamby,M Pushpakumara,Harbhajan Singh,4,0,null,4,0,null,null
+145,22.6,SHT Kandamby,M Pushpakumara,Harbhajan Singh,0,0,null,0,0,null,null
+146,23.1,M Pushpakumara,SHT Kandamby,S Tyagi,0,0,null,0,0,null,null
+147,23.2,M Pushpakumara,SHT Kandamby,S Tyagi,1,0,null,1,0,null,null
+148,23.3,SHT Kandamby,M Pushpakumara,S Tyagi,0,0,null,0,0,null,null
+149,23.4,SHT Kandamby,M Pushpakumara,S Tyagi,0,1,wides ,1,0,null,null

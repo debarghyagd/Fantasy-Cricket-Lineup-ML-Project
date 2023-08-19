@@ -1,0 +1,64 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,249748,Brabourne Stadium,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,1,8,0,0
+1,256610,Kinrara Academy Oval,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,0,7,0,0
+2,256610,Kinrara Academy Oval,Australia,B Lee,Right-arm fast,"[0, 1, 0]",1,1,3,0,0
+3,256615,Kinrara Academy Oval,Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",1,0,5,0,0
+4,406195,"Brisbane Cricket Ground, Woolloongabba",Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,5,6,0,0
+5,406195,"Brisbane Cricket Ground, Woolloongabba",Australia,NM Hauritz,Right-arm offbreak,"[1, 1, 0]",0,1,8,0,0
+6,406196,Melbourne Cricket Ground,Australia,CJ McKay,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+7,406196,Melbourne Cricket Ground,Australia,RJ Harris,Right-arm fast,"[0, 1, 0]",1,1,9,0,0
+8,406196,Melbourne Cricket Ground,Australia,DE Bollinger,Left-arm fast-medium,"[0, 0, 1]",0,3,3,0,0
+9,65662,Adelaide Oval,Australia,B Lee,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+10,66210,Kennington Oval,England,SJ Harmison,Right-arm fast-medium,"[0, 1, 1]",1,2,10,0,0
+11,66210,Kennington Oval,England,D Gough,Right-arm fast-medium,"[0, 1, 1]",0,1,8,0,0
+12,256612,Kinrara Academy Oval,India,AB Agarkar,Right-arm fast-medium,"[0, 1, 1]",0,2,21,0,0
+13,256612,Kinrara Academy Oval,India,MM Patel,Right-arm fast-medium,"[0, 1, 1]",0,0,7,0,0
+14,256612,Kinrara Academy Oval,India,RP Singh,Left-arm fast-medium,"[0, 0, 1]",0,5,11,0,0
+15,256612,Kinrara Academy Oval,India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",1,1,14,0,0
+16,256612,Kinrara Academy Oval,India,S Sreesanth,Right-arm fast-medium,"[0, 1, 1]",0,0,5,0,0
+17,238176,Queenstown Events Centre,New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",0,37,24,4,1
+18,238176,Queenstown Events Centre,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",1,7,9,1,0
+19,238176,Queenstown Events Centre,New Zealand,NJ Astle,Right-arm medium,"[0, 1, 2]",1,7,13,0,0
+20,238177,Jade Stadium,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",0,2,3,0,0
+21,238178,McLean Park,New Zealand,NJ Astle,Right-arm medium,"[0, 1, 2]",1,0,1,0,0
+22,238179,Eden Park,New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",0,7,10,1,0
+23,238179,Eden Park,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,12,7,0,1
+24,238179,Eden Park,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",0,2,3,0,0
+25,238179,Eden Park,New Zealand,NJ Astle,Right-arm medium,"[0, 1, 2]",0,11,13,1,0
+26,209768,"Daren Sammy National Cricket Stadium, Gros Islet",Pakistan,Naved-ul-Hasan,Right-arm fast-medium,"[0, 1, 1]",0,11,18,1,0
+27,65665,W.A.C.A. Ground,Pakistan,Naved-ul-Hasan,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+28,65665,W.A.C.A. Ground,Pakistan,Mohammad Khalil,Left-arm medium,"[0, 0, 2]",1,10,13,0,0
+29,65665,W.A.C.A. Ground,Pakistan,Iftikhar Anjum,Right-arm medium,"[0, 1, 2]",0,10,10,1,0
+30,66209,The Rose Bowl,Pakistan,Mohammad Sami,Right-arm fast-medium,"[0, 1, 1]",0,4,8,0,0
+31,66209,The Rose Bowl,Pakistan,Shoaib Akhtar,Right-arm fast,"[0, 1, 0]",1,1,4,0,0
+32,249744,Brabourne Stadium,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",0,4,14,0,0
+33,249744,Brabourne Stadium,Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",1,3,16,0,0
+34,249744,Brabourne Stadium,Sri Lanka,WPUJC Vaas,Left-arm fast-medium,"[0, 0, 1]",0,1,18,0,0
+35,249744,Brabourne Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,7,13,1,0
+36,249744,Brabourne Stadium,Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",0,13,26,2,0
+37,65660,"Brisbane Cricket Ground, Woolloongabba",Australia,DS Lehmann,Left-arm orthodox,"[1, 0, 1]",0,18,20,1,0
+38,65660,"Brisbane Cricket Ground, Woolloongabba",Australia,JN Gillespie,Right-arm fast,"[0, 1, 0]",0,21,21,2,0
+39,65660,"Brisbane Cricket Ground, Woolloongabba",Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,10,20,0,0
+40,65660,"Brisbane Cricket Ground, Woolloongabba",Australia,MS Kasprowicz,Right-arm fast-medium,"[0, 1, 1]",0,23,31,2,0
+41,65660,"Brisbane Cricket Ground, Woolloongabba",Australia,A Symonds,Right-arm medium,"[0, 1, 2]",0,14,20,1,0
+42,65660,"Brisbane Cricket Ground, Woolloongabba",Australia,SR Watson,Right-arm fast-medium,"[0, 1, 1]",1,21,27,2,0
+43,66203,The Rose Bowl,Bangladesh,Nazmul Hossain,Right-arm fast-medium,"[0, 1, 1]",0,8,30,2,0
+44,66203,The Rose Bowl,Bangladesh,Khaled Mahmud,Right-arm medium,"[0, 1, 2]",0,29,35,4,0
+45,66203,The Rose Bowl,Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",0,26,20,0,2
+46,66203,The Rose Bowl,Bangladesh,Tapash Baisya,Right-arm fast-medium,"[0, 1, 1]",1,12,17,2,0
+47,239918,"Queen's Park Oval, Port of Spain",India,AB Agarkar,Right-arm fast-medium,"[0, 1, 1]",0,8,12,2,0
+48,239919,"Queen's Park Oval, Port of Spain",India,AB Agarkar,Right-arm fast-medium,"[0, 1, 1]",1,15,14,1,0
+49,239919,"Queen's Park Oval, Port of Spain",India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",0,3,6,0,0
+50,239919,"Queen's Park Oval, Port of Spain",India,S Sreesanth,Right-arm fast-medium,"[0, 1, 1]",0,5,5,0,0
+51,239919,"Queen's Park Oval, Port of Spain",India,MM Patel,Right-arm fast-medium,"[0, 1, 1]",0,9,10,1,0
+52,65659,"Brisbane Cricket Ground, Woolloongabba",Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",1,2,4,0,0
+53,65659,"Brisbane Cricket Ground, Woolloongabba",Pakistan,Shoaib Akhtar,Right-arm fast,"[0, 1, 0]",0,0,9,0,0
+54,65659,"Brisbane Cricket Ground, Woolloongabba",Pakistan,Naved-ul-Hasan,Right-arm fast-medium,"[0, 1, 1]",0,8,16,1,0
+55,208835,"Sabina Park, Kingston",South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",0,2,9,0,0
+56,64848,"Queens Sports Club, Bulawayo",Zimbabwe,AM Blignaut,Right-arm fast-medium,"[0, 1, 1]",0,6,7,1,0
+57,64848,"Queens Sports Club, Bulawayo",Zimbabwe,SM Ervine,Right-arm medium,"[0, 1, 2]",1,1,7,0,0
+58,64851,Harare Sports Club,Zimbabwe,SM Ervine,Right-arm medium,"[0, 1, 2]",0,41,37,4,1
+59,64851,Harare Sports Club,Zimbabwe,AM Blignaut,Right-arm fast-medium,"[0, 1, 1]",0,8,22,0,0
+60,64851,Harare Sports Club,Zimbabwe,RW Price,Left-arm orthodox,"[1, 0, 1]",0,20,22,0,1
+61,64849,Harare Sports Club,Zimbabwe,AM Blignaut,Right-arm fast-medium,"[0, 1, 1]",1,1,8,0,0
+62,64852,Harare Sports Club,Zimbabwe,AM Blignaut,Right-arm fast-medium,"[0, 1, 1]",1,11,13,2,0

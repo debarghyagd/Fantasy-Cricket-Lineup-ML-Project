@@ -1,0 +1,304 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,V Sehwag,SR Tendulkar,Shoaib Akhtar,1,0,null,1,0,null,null
+1,0.2,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+2,0.3,SR Tendulkar,V Sehwag,Shoaib Akhtar,1,0,null,1,0,null,null
+3,0.4,V Sehwag,SR Tendulkar,Shoaib Akhtar,4,0,null,4,0,null,null
+4,0.5,V Sehwag,SR Tendulkar,Shoaib Akhtar,1,0,null,1,0,null,null
+5,0.6,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+6,1.1,V Sehwag,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+7,1.2,V Sehwag,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+8,1.3,V Sehwag,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+9,1.4,V Sehwag,SR Tendulkar,Shabbir Ahmed,4,0,null,4,0,null,null
+10,1.5,V Sehwag,SR Tendulkar,Shabbir Ahmed,1,0,null,1,0,null,null
+11,1.6,SR Tendulkar,V Sehwag,Shabbir Ahmed,1,0,null,1,0,null,null
+12,2.1,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+13,2.2,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+14,2.3,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+15,2.4,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+16,2.5,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+17,2.6,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+18,3.1,V Sehwag,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+19,3.2,V Sehwag,SR Tendulkar,Shabbir Ahmed,4,0,null,4,0,null,null
+20,3.3,V Sehwag,SR Tendulkar,Shabbir Ahmed,2,0,null,2,0,null,null
+21,3.4,V Sehwag,SR Tendulkar,Shabbir Ahmed,1,0,null,1,0,null,null
+22,3.5,SR Tendulkar,V Sehwag,Shabbir Ahmed,0,0,null,0,0,null,null
+23,3.6,SR Tendulkar,V Sehwag,Shabbir Ahmed,0,1,legbyes ,1,0,null,null
+24,4.1,SR Tendulkar,V Sehwag,Shoaib Akhtar,1,0,null,1,0,null,null
+25,4.2,V Sehwag,SR Tendulkar,Shoaib Akhtar,1,0,null,1,0,null,null
+26,4.3,SR Tendulkar,V Sehwag,Shoaib Akhtar,4,0,null,4,0,null,null
+27,4.4,SR Tendulkar,V Sehwag,Shoaib Akhtar,4,0,null,4,0,null,null
+28,4.5,SR Tendulkar,V Sehwag,Shoaib Akhtar,0,0,null,0,0,null,null
+29,4.6,SR Tendulkar,V Sehwag,Shoaib Akhtar,1,0,null,1,0,null,null
+30,5.1,SR Tendulkar,V Sehwag,Shabbir Ahmed,2,0,null,2,0,null,null
+31,5.2,SR Tendulkar,V Sehwag,Shabbir Ahmed,4,0,null,4,0,null,null
+32,5.3,SR Tendulkar,V Sehwag,Shabbir Ahmed,2,0,null,2,0,null,null
+33,5.4,SR Tendulkar,V Sehwag,Shabbir Ahmed,0,0,null,0,0,null,null
+34,5.5,SR Tendulkar,V Sehwag,Shabbir Ahmed,0,0,null,0,0,null,null
+35,5.6,SR Tendulkar,V Sehwag,Shabbir Ahmed,0,1,legbyes ,1,0,null,null
+36,6.1,SR Tendulkar,V Sehwag,Shoaib Akhtar,2,0,null,2,0,null,null
+37,6.2,SR Tendulkar,V Sehwag,Shoaib Akhtar,1,0,null,1,0,null,null
+38,6.3,V Sehwag,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+39,6.4,V Sehwag,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+40,6.5,V Sehwag,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+41,6.6,V Sehwag,SR Tendulkar,Shoaib Akhtar,2,0,null,2,0,null,null
+42,7.1,SR Tendulkar,V Sehwag,Shabbir Ahmed,4,0,null,4,0,null,null
+43,7.2,SR Tendulkar,V Sehwag,Shabbir Ahmed,0,0,null,0,0,null,null
+44,7.3,SR Tendulkar,V Sehwag,Shabbir Ahmed,1,0,null,1,0,null,null
+45,7.4,V Sehwag,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+46,7.5,V Sehwag,SR Tendulkar,Shabbir Ahmed,4,0,null,4,0,null,null
+47,7.6,V Sehwag,SR Tendulkar,Shabbir Ahmed,1,0,null,1,0,null,null
+48,8.1,V Sehwag,SR Tendulkar,Shoaib Akhtar,0,0,null,0,1,V Sehwag,bowled
+49,8.2,VVS Laxman,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+50,8.3,VVS Laxman,SR Tendulkar,Shoaib Akhtar,1,0,null,1,0,null,null
+51,8.4,SR Tendulkar,VVS Laxman,Shoaib Akhtar,0,0,null,0,0,null,null
+52,8.5,SR Tendulkar,VVS Laxman,Shoaib Akhtar,0,0,null,0,0,null,null
+53,8.6,SR Tendulkar,VVS Laxman,Shoaib Akhtar,0,0,null,0,0,null,null
+54,9.1,VVS Laxman,SR Tendulkar,Mohammad Sami,0,0,null,0,0,null,null
+55,9.2,VVS Laxman,SR Tendulkar,Mohammad Sami,1,0,null,1,0,null,null
+56,9.3,SR Tendulkar,VVS Laxman,Mohammad Sami,0,1,wides ,1,0,null,null
+57,9.4,SR Tendulkar,VVS Laxman,Mohammad Sami,0,0,null,0,0,null,null
+58,9.5,SR Tendulkar,VVS Laxman,Mohammad Sami,0,0,null,0,0,null,null
+59,9.6,SR Tendulkar,VVS Laxman,Mohammad Sami,1,0,null,1,0,null,null
+60,9.7,VVS Laxman,SR Tendulkar,Mohammad Sami,0,0,null,0,0,null,null
+61,10.1,SR Tendulkar,VVS Laxman,Shabbir Ahmed,4,0,null,4,0,null,null
+62,10.2,SR Tendulkar,VVS Laxman,Shabbir Ahmed,0,0,null,0,0,null,null
+63,10.3,SR Tendulkar,VVS Laxman,Shabbir Ahmed,0,0,null,0,0,null,null
+64,10.4,SR Tendulkar,VVS Laxman,Shabbir Ahmed,0,0,null,0,0,null,null
+65,10.5,SR Tendulkar,VVS Laxman,Shabbir Ahmed,3,0,null,3,0,null,null
+66,10.6,VVS Laxman,SR Tendulkar,Shabbir Ahmed,2,0,null,2,0,null,null
+67,11.1,SR Tendulkar,VVS Laxman,Mohammad Sami,0,1,wides ,1,0,null,null
+68,11.2,SR Tendulkar,VVS Laxman,Mohammad Sami,0,0,null,0,0,null,null
+69,11.3,SR Tendulkar,VVS Laxman,Mohammad Sami,0,0,null,0,0,null,null
+70,11.4,SR Tendulkar,VVS Laxman,Mohammad Sami,1,0,null,1,0,null,null
+71,11.5,VVS Laxman,SR Tendulkar,Mohammad Sami,0,0,null,0,1,VVS Laxman,lbw
+72,11.6,SC Ganguly,SR Tendulkar,Mohammad Sami,0,1,noballs ,1,0,null,null
+73,11.7,SC Ganguly,SR Tendulkar,Mohammad Sami,0,1,wides ,1,0,null,null
+74,11.8,SC Ganguly,SR Tendulkar,Mohammad Sami,0,0,null,0,0,null,null
+75,11.9,SC Ganguly,SR Tendulkar,Mohammad Sami,0,0,null,0,0,null,null
+76,12.1,SR Tendulkar,SC Ganguly,Shabbir Ahmed,1,0,null,1,0,null,null
+77,12.2,SC Ganguly,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+78,12.3,SC Ganguly,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+79,12.4,SC Ganguly,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+80,12.5,SC Ganguly,SR Tendulkar,Shabbir Ahmed,4,0,null,4,0,null,null
+81,12.6,SC Ganguly,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+82,13.1,SR Tendulkar,SC Ganguly,Mohammad Sami,0,0,null,0,0,null,null
+83,13.2,SR Tendulkar,SC Ganguly,Mohammad Sami,0,0,null,0,0,null,null
+84,13.3,SR Tendulkar,SC Ganguly,Mohammad Sami,0,0,null,0,0,null,null
+85,13.4,SR Tendulkar,SC Ganguly,Mohammad Sami,0,1,legbyes ,1,0,null,null
+86,13.5,SC Ganguly,SR Tendulkar,Mohammad Sami,0,0,null,0,0,null,null
+87,13.6,SC Ganguly,SR Tendulkar,Mohammad Sami,0,0,null,0,0,null,null
+88,14.1,SR Tendulkar,SC Ganguly,Shabbir Ahmed,4,0,null,4,0,null,null
+89,14.2,SR Tendulkar,SC Ganguly,Shabbir Ahmed,0,2,legbyes ,2,0,null,null
+90,14.3,SR Tendulkar,SC Ganguly,Shabbir Ahmed,1,0,null,1,0,null,null
+91,14.4,SC Ganguly,SR Tendulkar,Shabbir Ahmed,0,0,null,0,0,null,null
+92,14.5,SC Ganguly,SR Tendulkar,Shabbir Ahmed,1,0,null,1,0,null,null
+93,14.6,SR Tendulkar,SC Ganguly,Shabbir Ahmed,0,0,null,0,0,null,null
+94,15.1,SC Ganguly,SR Tendulkar,Mohammad Sami,2,0,null,2,0,null,null
+95,15.2,SC Ganguly,SR Tendulkar,Mohammad Sami,1,0,null,1,0,null,null
+96,15.3,SR Tendulkar,SC Ganguly,Mohammad Sami,2,0,null,2,0,null,null
+97,15.4,SR Tendulkar,SC Ganguly,Mohammad Sami,1,0,null,1,0,null,null
+98,15.5,SC Ganguly,SR Tendulkar,Mohammad Sami,0,0,null,0,0,null,null
+99,15.6,SC Ganguly,SR Tendulkar,Mohammad Sami,0,0,null,0,0,null,null
+100,16.1,SR Tendulkar,SC Ganguly,Shoaib Malik,0,0,null,0,0,null,null
+101,16.2,SR Tendulkar,SC Ganguly,Shoaib Malik,0,1,legbyes ,1,0,null,null
+102,16.3,SC Ganguly,SR Tendulkar,Shoaib Malik,1,0,null,1,0,null,null
+103,16.4,SR Tendulkar,SC Ganguly,Shoaib Malik,0,0,null,0,0,null,null
+104,16.5,SR Tendulkar,SC Ganguly,Shoaib Malik,1,0,null,1,0,null,null
+105,16.6,SC Ganguly,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+106,17.1,SR Tendulkar,SC Ganguly,Mohammad Sami,0,1,wides ,1,0,null,null
+107,17.2,SR Tendulkar,SC Ganguly,Mohammad Sami,0,0,null,0,0,null,null
+108,17.3,SR Tendulkar,SC Ganguly,Mohammad Sami,1,0,null,1,0,null,null
+109,17.4,SC Ganguly,SR Tendulkar,Mohammad Sami,0,0,null,0,0,null,null
+110,17.5,SC Ganguly,SR Tendulkar,Mohammad Sami,0,1,noballs ,1,0,null,null
+111,17.6,SC Ganguly,SR Tendulkar,Mohammad Sami,1,0,null,1,0,null,null
+112,17.7,SR Tendulkar,SC Ganguly,Mohammad Sami,1,0,null,1,0,null,null
+113,17.8,SC Ganguly,SR Tendulkar,Mohammad Sami,1,0,null,1,0,null,null
+114,18.1,SC Ganguly,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+115,18.2,SC Ganguly,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+116,18.3,SC Ganguly,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+117,18.4,SC Ganguly,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+118,18.5,SC Ganguly,SR Tendulkar,Shoaib Malik,0,2,wides ,2,0,null,null
+119,18.6,SR Tendulkar,SC Ganguly,Shoaib Malik,1,0,null,1,0,null,null
+120,18.7,SC Ganguly,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+121,19.1,SR Tendulkar,SC Ganguly,Mohammad Sami,0,0,null,0,0,null,null
+122,19.2,SR Tendulkar,SC Ganguly,Mohammad Sami,1,0,null,1,0,null,null
+123,19.3,SC Ganguly,SR Tendulkar,Mohammad Sami,1,0,null,1,0,null,null
+124,19.4,SR Tendulkar,SC Ganguly,Mohammad Sami,1,0,null,1,0,null,null
+125,19.5,SC Ganguly,SR Tendulkar,Mohammad Sami,1,0,null,1,0,null,null
+126,19.6,SR Tendulkar,SC Ganguly,Mohammad Sami,0,1,noballs ,1,0,null,null
+127,19.7,SR Tendulkar,SC Ganguly,Mohammad Sami,4,0,null,4,0,null,null
+128,20.1,SC Ganguly,SR Tendulkar,Shoaib Malik,0,2,legbyes ,2,0,null,null
+129,20.2,SC Ganguly,SR Tendulkar,Shoaib Malik,1,0,null,1,0,null,null
+130,20.3,SR Tendulkar,SC Ganguly,Shoaib Malik,1,0,null,1,0,null,null
+131,20.4,SC Ganguly,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+132,20.5,SC Ganguly,SR Tendulkar,Shoaib Malik,0,1,legbyes ,1,0,null,null
+133,20.6,SR Tendulkar,SC Ganguly,Shoaib Malik,1,0,null,1,0,null,null
+134,21.1,SR Tendulkar,SC Ganguly,Shahid Afridi,1,0,null,1,0,null,null
+135,21.2,SC Ganguly,SR Tendulkar,Shahid Afridi,1,0,null,1,0,null,null
+136,21.3,SR Tendulkar,SC Ganguly,Shahid Afridi,0,2,legbyes ,2,0,null,null
+137,21.4,SR Tendulkar,SC Ganguly,Shahid Afridi,4,0,null,4,0,null,null
+138,21.5,SR Tendulkar,SC Ganguly,Shahid Afridi,0,0,null,0,0,null,null
+139,21.6,SR Tendulkar,SC Ganguly,Shahid Afridi,0,1,noballs ,1,0,null,null
+140,21.7,SR Tendulkar,SC Ganguly,Shahid Afridi,1,0,null,1,0,null,null
+141,22.1,SR Tendulkar,SC Ganguly,Shoaib Malik,4,0,null,4,0,null,null
+142,22.2,SR Tendulkar,SC Ganguly,Shoaib Malik,1,0,null,1,0,null,null
+143,22.3,SC Ganguly,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+144,22.4,SC Ganguly,SR Tendulkar,Shoaib Malik,0,1,legbyes ,1,0,null,null
+145,22.5,SR Tendulkar,SC Ganguly,Shoaib Malik,1,0,null,1,0,null,null
+146,22.6,SC Ganguly,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+147,23.1,SR Tendulkar,SC Ganguly,Shahid Afridi,0,0,null,0,0,null,null
+148,23.2,SR Tendulkar,SC Ganguly,Shahid Afridi,2,0,null,2,0,null,null
+149,23.3,SR Tendulkar,SC Ganguly,Shahid Afridi,0,0,null,0,0,null,null
+150,23.4,SR Tendulkar,SC Ganguly,Shahid Afridi,1,0,null,1,0,null,null
+151,23.5,SC Ganguly,SR Tendulkar,Shahid Afridi,0,0,null,0,1,SC Ganguly,stumped
+152,23.6,R Dravid,SR Tendulkar,Shahid Afridi,0,0,null,0,0,null,null
+153,24.1,SR Tendulkar,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+154,24.2,R Dravid,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+155,24.3,R Dravid,SR Tendulkar,Shoaib Malik,1,0,null,1,0,null,null
+156,24.4,SR Tendulkar,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+157,24.5,R Dravid,SR Tendulkar,Shoaib Malik,1,0,null,1,0,null,null
+158,24.6,SR Tendulkar,R Dravid,Shoaib Malik,4,0,null,4,0,null,null
+159,25.1,R Dravid,SR Tendulkar,Shahid Afridi,1,0,null,1,0,null,null
+160,25.2,SR Tendulkar,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+161,25.3,SR Tendulkar,R Dravid,Shahid Afridi,4,0,null,4,0,null,null
+162,25.4,SR Tendulkar,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+163,25.5,SR Tendulkar,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+164,25.6,R Dravid,SR Tendulkar,Shahid Afridi,0,0,null,0,0,null,null
+165,26.1,SR Tendulkar,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+166,26.2,R Dravid,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+167,26.3,R Dravid,SR Tendulkar,Shoaib Malik,1,0,null,1,0,null,null
+168,26.4,SR Tendulkar,R Dravid,Shoaib Malik,4,0,null,4,0,null,null
+169,26.5,SR Tendulkar,R Dravid,Shoaib Malik,0,0,null,0,0,null,null
+170,26.6,SR Tendulkar,R Dravid,Shoaib Malik,0,0,null,0,0,null,null
+171,27.1,R Dravid,SR Tendulkar,Shahid Afridi,1,0,null,1,0,null,null
+172,27.2,SR Tendulkar,R Dravid,Shahid Afridi,0,1,noballs ,1,0,null,null
+173,27.3,SR Tendulkar,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+174,27.4,SR Tendulkar,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+175,27.5,SR Tendulkar,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+176,27.6,R Dravid,SR Tendulkar,Shahid Afridi,1,0,null,1,0,null,null
+177,27.7,SR Tendulkar,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+178,28.1,SR Tendulkar,R Dravid,Shoaib Akhtar,4,0,null,4,0,null,null
+179,28.2,SR Tendulkar,R Dravid,Shoaib Akhtar,0,0,null,0,0,null,null
+180,28.3,SR Tendulkar,R Dravid,Shoaib Akhtar,0,0,null,0,0,null,null
+181,28.4,SR Tendulkar,R Dravid,Shoaib Akhtar,0,0,null,0,0,null,null
+182,28.5,SR Tendulkar,R Dravid,Shoaib Akhtar,1,0,null,1,0,null,null
+183,28.6,R Dravid,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+184,29.1,SR Tendulkar,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+185,29.2,SR Tendulkar,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+186,29.3,R Dravid,SR Tendulkar,Shahid Afridi,4,0,null,4,0,null,null
+187,29.4,R Dravid,SR Tendulkar,Shahid Afridi,2,0,null,2,0,null,null
+188,29.5,R Dravid,SR Tendulkar,Shahid Afridi,0,0,null,0,0,null,null
+189,29.6,R Dravid,SR Tendulkar,Shahid Afridi,0,0,null,0,0,null,null
+190,30.1,SR Tendulkar,R Dravid,Shoaib Akhtar,2,0,null,2,0,null,null
+191,30.2,SR Tendulkar,R Dravid,Shoaib Akhtar,1,0,null,1,0,null,null
+192,30.3,R Dravid,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+193,30.4,R Dravid,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+194,30.5,R Dravid,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+195,30.6,R Dravid,SR Tendulkar,Shoaib Akhtar,0,0,null,0,0,null,null
+196,31.1,SR Tendulkar,R Dravid,Shahid Afridi,2,0,null,2,0,null,null
+197,31.2,SR Tendulkar,R Dravid,Shahid Afridi,0,0,null,0,0,null,null
+198,31.3,SR Tendulkar,R Dravid,Shahid Afridi,1,0,null,1,0,null,null
+199,31.4,R Dravid,SR Tendulkar,Shahid Afridi,1,0,null,1,0,null,null
+200,31.5,SR Tendulkar,R Dravid,Shahid Afridi,6,0,null,6,0,null,null
+201,31.6,SR Tendulkar,R Dravid,Shahid Afridi,0,2,byes ,2,0,null,null
+202,32.1,R Dravid,SR Tendulkar,Abdul Razzaq,0,0,null,0,0,null,null
+203,32.2,R Dravid,SR Tendulkar,Abdul Razzaq,2,0,null,2,0,null,null
+204,32.3,R Dravid,SR Tendulkar,Abdul Razzaq,1,0,null,1,0,null,null
+205,32.4,SR Tendulkar,R Dravid,Abdul Razzaq,2,0,null,2,0,null,null
+206,32.5,SR Tendulkar,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+207,32.6,SR Tendulkar,R Dravid,Abdul Razzaq,2,0,null,2,0,null,null
+208,33.1,R Dravid,SR Tendulkar,Shoaib Malik,1,0,null,1,0,null,null
+209,33.2,SR Tendulkar,R Dravid,Shoaib Malik,0,0,null,0,0,null,null
+210,33.3,SR Tendulkar,R Dravid,Shoaib Malik,4,0,null,4,0,null,null
+211,33.4,SR Tendulkar,R Dravid,Shoaib Malik,0,1,legbyes ,1,0,null,null
+212,33.5,R Dravid,SR Tendulkar,Shoaib Malik,4,0,null,4,0,null,null
+213,33.6,R Dravid,SR Tendulkar,Shoaib Malik,0,0,null,0,0,null,null
+214,34.1,SR Tendulkar,R Dravid,Abdul Razzaq,1,0,null,1,0,null,null
+215,34.2,R Dravid,SR Tendulkar,Abdul Razzaq,1,0,null,1,0,null,null
+216,34.3,SR Tendulkar,R Dravid,Abdul Razzaq,1,0,null,1,0,null,null
+217,34.4,R Dravid,SR Tendulkar,Abdul Razzaq,1,0,null,1,0,null,null
+218,34.5,SR Tendulkar,R Dravid,Abdul Razzaq,4,0,null,4,0,null,null
+219,34.6,SR Tendulkar,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+220,35.1,R Dravid,SR Tendulkar,Shabbir Ahmed,1,0,null,1,0,null,null
+221,35.2,SR Tendulkar,R Dravid,Shabbir Ahmed,0,0,null,0,0,null,null
+222,35.3,SR Tendulkar,R Dravid,Shabbir Ahmed,1,0,null,1,0,null,null
+223,35.4,R Dravid,SR Tendulkar,Shabbir Ahmed,0,1,legbyes ,1,0,null,null
+224,35.5,SR Tendulkar,R Dravid,Shabbir Ahmed,2,0,null,2,0,null,null
+225,35.6,SR Tendulkar,R Dravid,Shabbir Ahmed,2,0,null,2,0,null,null
+226,36.1,R Dravid,SR Tendulkar,Abdul Razzaq,1,0,null,1,0,null,null
+227,36.2,SR Tendulkar,R Dravid,Abdul Razzaq,1,0,null,1,0,null,null
+228,36.3,R Dravid,SR Tendulkar,Abdul Razzaq,1,0,null,1,0,null,null
+229,36.4,SR Tendulkar,R Dravid,Abdul Razzaq,0,0,null,0,0,null,null
+230,36.5,SR Tendulkar,R Dravid,Abdul Razzaq,4,0,null,4,0,null,null
+231,36.6,SR Tendulkar,R Dravid,Abdul Razzaq,0,1,legbyes ,1,0,null,null
+232,37.1,SR Tendulkar,R Dravid,Shabbir Ahmed,1,0,null,1,0,null,null
+233,37.2,R Dravid,SR Tendulkar,Shabbir Ahmed,1,0,null,1,0,null,null
+234,37.3,SR Tendulkar,R Dravid,Shabbir Ahmed,2,0,null,2,0,null,null
+235,37.4,SR Tendulkar,R Dravid,Shabbir Ahmed,1,0,null,1,0,null,null
+236,37.5,R Dravid,SR Tendulkar,Shabbir Ahmed,2,0,null,2,0,null,null
+237,37.6,R Dravid,SR Tendulkar,Shabbir Ahmed,1,0,null,1,0,null,null
+238,38.1,R Dravid,SR Tendulkar,Shoaib Malik,1,0,null,1,0,null,null
+239,38.2,SR Tendulkar,R Dravid,Shoaib Malik,4,0,null,4,0,null,null
+240,38.3,SR Tendulkar,R Dravid,Shoaib Malik,0,0,null,0,0,null,null
+241,38.4,SR Tendulkar,R Dravid,Shoaib Malik,0,0,null,0,1,SR Tendulkar,caught
+242,38.5,R Dravid,Yuvraj Singh,Shoaib Malik,0,0,null,0,0,null,null
+243,38.6,R Dravid,Yuvraj Singh,Shoaib Malik,1,0,null,1,0,null,null
+244,39.1,R Dravid,Yuvraj Singh,Mohammad Sami,1,0,null,1,0,null,null
+245,39.2,Yuvraj Singh,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+246,39.3,Yuvraj Singh,R Dravid,Mohammad Sami,1,0,null,1,0,null,null
+247,39.4,R Dravid,Yuvraj Singh,Mohammad Sami,0,0,null,0,0,null,null
+248,39.5,R Dravid,Yuvraj Singh,Mohammad Sami,1,0,null,1,0,null,null
+249,39.6,Yuvraj Singh,R Dravid,Mohammad Sami,0,1,legbyes ,1,0,null,null
+250,40.1,Yuvraj Singh,R Dravid,Shoaib Malik,0,4,legbyes ,4,0,null,null
+251,40.2,Yuvraj Singh,R Dravid,Shoaib Malik,1,0,null,1,0,null,null
+252,40.3,R Dravid,Yuvraj Singh,Shoaib Malik,1,0,null,1,0,null,null
+253,40.4,Yuvraj Singh,R Dravid,Shoaib Malik,2,0,null,2,0,null,null
+254,40.5,Yuvraj Singh,R Dravid,Shoaib Malik,0,0,null,0,0,null,null
+255,40.6,Yuvraj Singh,R Dravid,Shoaib Malik,0,0,null,0,0,null,null
+256,41.1,R Dravid,Yuvraj Singh,Mohammad Sami,0,0,null,0,0,null,null
+257,41.2,R Dravid,Yuvraj Singh,Mohammad Sami,1,0,null,1,0,null,null
+258,41.3,Yuvraj Singh,R Dravid,Mohammad Sami,0,0,null,0,0,null,null
+259,41.4,Yuvraj Singh,R Dravid,Mohammad Sami,1,0,null,1,0,null,null
+260,41.5,R Dravid,Yuvraj Singh,Mohammad Sami,0,0,null,0,1,R Dravid,bowled
+261,41.6,M Kaif,Yuvraj Singh,Mohammad Sami,0,0,null,0,0,null,null
+262,42.1,Yuvraj Singh,M Kaif,Shoaib Malik,4,0,null,4,0,null,null
+263,42.2,Yuvraj Singh,M Kaif,Shoaib Malik,4,0,null,4,0,null,null
+264,42.3,Yuvraj Singh,M Kaif,Shoaib Malik,1,0,null,1,0,null,null
+265,42.4,M Kaif,Yuvraj Singh,Shoaib Malik,0,0,null,0,0,null,null
+266,42.5,M Kaif,Yuvraj Singh,Shoaib Malik,1,0,null,1,0,null,null
+267,42.6,Yuvraj Singh,M Kaif,Shoaib Malik,2,0,null,2,0,null,null
+268,43.1,M Kaif,Yuvraj Singh,Mohammad Sami,1,0,null,1,0,null,null
+269,43.2,Yuvraj Singh,M Kaif,Mohammad Sami,0,0,null,0,0,null,null
+270,43.3,Yuvraj Singh,M Kaif,Mohammad Sami,1,0,null,1,0,null,null
+271,43.4,M Kaif,Yuvraj Singh,Mohammad Sami,1,0,null,1,0,null,null
+272,43.5,Yuvraj Singh,M Kaif,Mohammad Sami,2,0,null,2,0,null,null
+273,43.6,Yuvraj Singh,M Kaif,Mohammad Sami,0,0,null,0,0,null,null
+274,44.1,M Kaif,Yuvraj Singh,Shahid Afridi,2,0,null,2,0,null,null
+275,44.2,M Kaif,Yuvraj Singh,Shahid Afridi,1,0,null,1,0,null,null
+276,44.3,Yuvraj Singh,M Kaif,Shahid Afridi,0,1,legbyes ,1,0,null,null
+277,44.4,M Kaif,Yuvraj Singh,Shahid Afridi,1,0,null,1,0,null,null
+278,44.5,Yuvraj Singh,M Kaif,Shahid Afridi,0,0,null,0,1,Yuvraj Singh,caught
+279,44.6,RR Powar,M Kaif,Shahid Afridi,1,0,null,1,0,null,null
+280,45.1,RR Powar,M Kaif,Shoaib Akhtar,0,0,null,0,0,null,null
+281,45.2,RR Powar,M Kaif,Shoaib Akhtar,1,0,null,1,0,null,null
+282,45.3,M Kaif,RR Powar,Shoaib Akhtar,0,0,null,0,1,M Kaif,caught
+283,45.4,Z Khan,RR Powar,Shoaib Akhtar,0,0,null,0,1,Z Khan,lbw
+284,45.5,L Balaji,RR Powar,Shoaib Akhtar,0,0,null,0,0,null,null
+285,45.6,L Balaji,RR Powar,Shoaib Akhtar,0,0,null,0,0,null,null
+286,46.1,RR Powar,L Balaji,Shahid Afridi,4,0,null,4,0,null,null
+287,46.2,RR Powar,L Balaji,Shahid Afridi,1,0,null,1,0,null,null
+288,46.3,L Balaji,RR Powar,Shahid Afridi,4,0,null,4,0,null,null
+289,46.4,L Balaji,RR Powar,Shahid Afridi,0,0,null,0,0,null,null
+290,46.5,L Balaji,RR Powar,Shahid Afridi,4,0,null,4,0,null,null
+291,46.6,L Balaji,RR Powar,Shahid Afridi,0,1,legbyes ,1,0,null,null
+292,47.1,L Balaji,RR Powar,Shoaib Akhtar,4,0,null,4,0,null,null
+293,47.2,L Balaji,RR Powar,Shoaib Akhtar,1,0,null,1,0,null,null
+294,47.3,RR Powar,L Balaji,Shoaib Akhtar,0,0,null,0,0,null,null
+295,47.4,RR Powar,L Balaji,Shoaib Akhtar,4,0,null,4,0,null,null
+296,47.5,RR Powar,L Balaji,Shoaib Akhtar,0,2,noballs ,2,0,null,null
+297,47.6,L Balaji,RR Powar,Shoaib Akhtar,1,0,null,1,0,null,null
+298,47.7,RR Powar,L Balaji,Shoaib Akhtar,4,0,null,4,0,null,null
+299,48.1,L Balaji,RR Powar,Mohammad Sami,0,0,null,0,1,L Balaji,run out
+300,48.2,RR Powar,A Nehra,Mohammad Sami,2,0,null,2,0,null,null
+301,48.3,RR Powar,A Nehra,Mohammad Sami,1,0,null,1,0,null,null
+302,48.4,A Nehra,RR Powar,Mohammad Sami,0,0,null,0,1,A Nehra,bowled

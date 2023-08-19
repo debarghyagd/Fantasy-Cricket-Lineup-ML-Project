@@ -1,0 +1,24 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,247496,"Kensington Oval, Bridgetown",Australia,A Symonds,Right-arm medium,"[0, 1, 2]",1,0,6,0,0
+1,247496,"Kensington Oval, Bridgetown",Australia,SR Clark,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+2,247496,"Kensington Oval, Bridgetown",Australia,GB Hogg,Left-arm chinaman,"[1, 0, 0]",0,1,3,0,0
+3,247496,"Kensington Oval, Bridgetown",Australia,SW Tait,Right-arm fast,"[0, 1, 0]",0,3,9,0,0
+4,247484,Providence Stadium,England,SI Mahmood,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+5,225171,"Civil Service Cricket Club, Stormont",England,JWM Dalrymple,Right-arm offbreak,"[1, 1, 0]",0,8,9,1,0
+6,225171,"Civil Service Cricket Club, Stormont",England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,7,13,1,0
+7,225171,"Civil Service Cricket Club, Stormont",England,SJ Harmison,Right-arm fast-medium,"[0, 1, 1]",1,1,2,0,0
+8,225171,"Civil Service Cricket Club, Stormont",England,SI Mahmood,Right-arm fast-medium,"[0, 1, 1]",0,2,14,0,0
+9,383275,"Civil Service Cricket Club, Stormont",England,RJ Sidebottom,Left-arm fast-medium,"[0, 0, 1]",0,4,5,1,0
+10,293071,"Civil Service Cricket Club, Stormont",India,AB Agarkar,Right-arm fast-medium,"[0, 1, 1]",0,4,3,0,0
+11,293071,"Civil Service Cricket Club, Stormont",India,RP Singh,Left-arm fast-medium,"[0, 0, 1]",1,0,4,0,0
+12,247465,"Sabina Park, Kingston",Pakistan,Iftikhar Anjum,Right-arm medium,"[0, 1, 2]",1,0,1,0,0
+13,247488,Providence Stadium,South Africa,AJ Hall,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+14,293072,"Civil Service Cricket Club, Stormont",South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",0,3,5,0,0
+15,293072,"Civil Service Cricket Club, Stormont",South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,1,1,0,0
+16,293072,"Civil Service Cricket Club, Stormont",South Africa,MS Tshabalala,Right-arm offbreak,"[1, 1, 0]",0,3,4,0,0
+17,247501,"National Cricket Stadium, St George's",Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",1,0,1,0,0
+18,247501,"National Cricket Stadium, St George's",Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",0,0,8,0,0
+19,247461,"Sabina Park, Kingston",Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",1,0,3,0,0
+20,325581,Gymkhana Club Ground,Zimbabwe,C Zhuwao,Right-arm legbreak,"[1, 1, 1]",0,9,9,2,0
+21,247477,"Sabina Park, Kingston",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,8,5,1,0
+22,247477,"Sabina Park, Kingston",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,9,12,1,0

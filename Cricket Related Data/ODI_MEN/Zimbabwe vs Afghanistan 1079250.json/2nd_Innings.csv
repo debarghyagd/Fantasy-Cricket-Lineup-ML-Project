@@ -1,0 +1,86 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,PJ Moor,SF Mire,Amir Hamza,0,0,null,0,0,null,null
+1,0.2,PJ Moor,SF Mire,Amir Hamza,0,0,null,0,0,null,null
+2,0.3,PJ Moor,SF Mire,Amir Hamza,3,0,null,3,0,null,null
+3,0.4,SF Mire,PJ Moor,Amir Hamza,0,0,null,0,0,null,null
+4,0.5,SF Mire,PJ Moor,Amir Hamza,0,0,null,0,0,null,null
+5,0.6,SF Mire,PJ Moor,Amir Hamza,0,0,null,0,0,null,null
+6,1.1,PJ Moor,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+7,1.2,PJ Moor,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+8,1.3,PJ Moor,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+9,1.4,PJ Moor,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+10,1.5,PJ Moor,SF Mire,Dawlat Zadran,0,0,null,0,0,null,null
+11,1.6,PJ Moor,SF Mire,Dawlat Zadran,0,0,null,0,1,PJ Moor,caught
+12,2.1,SF Mire,TK Musakanda,Amir Hamza,0,0,null,0,0,null,null
+13,2.2,SF Mire,TK Musakanda,Amir Hamza,2,0,null,2,0,null,null
+14,2.3,SF Mire,TK Musakanda,Amir Hamza,0,0,null,0,1,SF Mire,caught
+15,2.4,CR Ervine,TK Musakanda,Amir Hamza,2,0,null,2,0,null,null
+16,2.5,CR Ervine,TK Musakanda,Amir Hamza,1,0,null,1,0,null,null
+17,2.6,TK Musakanda,CR Ervine,Amir Hamza,0,0,null,0,0,null,null
+18,3.1,CR Ervine,TK Musakanda,Dawlat Zadran,1,0,null,1,0,null,null
+19,3.2,TK Musakanda,CR Ervine,Dawlat Zadran,0,0,null,0,0,null,null
+20,3.3,TK Musakanda,CR Ervine,Dawlat Zadran,1,0,null,1,0,null,null
+21,3.4,CR Ervine,TK Musakanda,Dawlat Zadran,0,1,legbyes ,1,0,null,null
+22,3.5,TK Musakanda,CR Ervine,Dawlat Zadran,0,0,null,0,0,null,null
+23,3.6,TK Musakanda,CR Ervine,Dawlat Zadran,0,0,null,0,0,null,null
+24,4.1,CR Ervine,TK Musakanda,Amir Hamza,0,0,null,0,1,CR Ervine,caught
+25,4.2,TK Musakanda,SC Williams,Amir Hamza,0,1,wides ,1,0,null,null
+26,4.3,TK Musakanda,SC Williams,Amir Hamza,0,0,null,0,0,null,null
+27,4.4,TK Musakanda,SC Williams,Amir Hamza,1,0,null,1,0,null,null
+28,4.5,SC Williams,TK Musakanda,Amir Hamza,0,0,null,0,1,SC Williams,caught
+29,4.6,RP Burl,TK Musakanda,Amir Hamza,0,0,null,0,0,null,null
+30,4.7,RP Burl,TK Musakanda,Amir Hamza,0,0,null,0,0,null,null
+31,5.1,TK Musakanda,RP Burl,Gulbadin Naib,1,0,null,1,0,null,null
+32,5.2,RP Burl,TK Musakanda,Gulbadin Naib,0,0,null,0,0,null,null
+33,5.3,RP Burl,TK Musakanda,Gulbadin Naib,0,0,null,0,0,null,null
+34,5.4,RP Burl,TK Musakanda,Gulbadin Naib,0,0,null,0,0,null,null
+35,5.5,RP Burl,TK Musakanda,Gulbadin Naib,0,0,null,0,0,null,null
+36,5.6,RP Burl,TK Musakanda,Gulbadin Naib,1,0,null,1,0,null,null
+37,6.1,RP Burl,TK Musakanda,Amir Hamza,4,0,null,4,0,null,null
+38,6.2,RP Burl,TK Musakanda,Amir Hamza,0,1,wides ,1,0,null,null
+39,6.3,RP Burl,TK Musakanda,Amir Hamza,1,0,null,1,0,null,null
+40,6.4,TK Musakanda,RP Burl,Amir Hamza,1,0,null,1,0,null,null
+41,6.5,RP Burl,TK Musakanda,Amir Hamza,1,0,null,1,0,null,null
+42,6.6,TK Musakanda,RP Burl,Amir Hamza,1,0,null,1,0,null,null
+43,6.7,RP Burl,TK Musakanda,Amir Hamza,1,0,null,1,0,null,null
+44,7.1,RP Burl,TK Musakanda,Mohammad Nabi,3,0,null,3,0,null,null
+45,7.2,TK Musakanda,RP Burl,Mohammad Nabi,1,0,null,1,0,null,null
+46,7.3,RP Burl,TK Musakanda,Mohammad Nabi,0,0,null,0,1,RP Burl,caught
+47,7.4,TK Musakanda,MN Waller,Mohammad Nabi,0,0,null,0,0,null,null
+48,7.5,TK Musakanda,MN Waller,Mohammad Nabi,1,0,null,1,0,null,null
+49,7.6,MN Waller,TK Musakanda,Mohammad Nabi,0,0,null,0,0,null,null
+50,8.1,TK Musakanda,MN Waller,Gulbadin Naib,0,0,null,0,1,TK Musakanda,caught
+51,8.2,AG Cremer,MN Waller,Gulbadin Naib,1,0,null,1,0,null,null
+52,8.3,MN Waller,AG Cremer,Gulbadin Naib,4,0,null,4,0,null,null
+53,8.4,MN Waller,AG Cremer,Gulbadin Naib,0,0,null,0,0,null,null
+54,8.5,MN Waller,AG Cremer,Gulbadin Naib,1,0,null,1,0,null,null
+55,8.6,AG Cremer,MN Waller,Gulbadin Naib,0,0,null,0,0,null,null
+56,9.1,MN Waller,AG Cremer,Mohammad Nabi,1,0,null,1,0,null,null
+57,9.2,AG Cremer,MN Waller,Mohammad Nabi,1,0,null,1,0,null,null
+58,9.3,MN Waller,AG Cremer,Mohammad Nabi,0,0,null,0,0,null,null
+59,9.4,MN Waller,AG Cremer,Mohammad Nabi,0,0,null,0,0,null,null
+60,9.5,MN Waller,AG Cremer,Mohammad Nabi,0,0,null,0,1,MN Waller,lbw
+61,9.6,TL Chatara,AG Cremer,Mohammad Nabi,0,0,null,0,0,null,null
+62,10.1,AG Cremer,TL Chatara,Rashid Khan,0,0,null,0,0,null,null
+63,10.2,AG Cremer,TL Chatara,Rashid Khan,1,0,null,1,0,null,null
+64,10.3,TL Chatara,AG Cremer,Rashid Khan,0,0,null,0,1,TL Chatara,bowled
+65,10.4,CB Mpofu,AG Cremer,Rashid Khan,0,1,legbyes ,1,0,null,null
+66,10.5,AG Cremer,CB Mpofu,Rashid Khan,2,0,null,2,0,null,null
+67,10.6,AG Cremer,CB Mpofu,Rashid Khan,3,0,null,3,0,null,null
+68,11.1,AG Cremer,CB Mpofu,Mohammad Nabi,1,0,null,1,0,null,null
+69,11.2,CB Mpofu,AG Cremer,Mohammad Nabi,0,0,null,0,0,null,null
+70,11.3,CB Mpofu,AG Cremer,Mohammad Nabi,1,0,null,1,0,null,null
+71,11.4,AG Cremer,CB Mpofu,Mohammad Nabi,0,0,null,0,0,null,null
+72,11.5,AG Cremer,CB Mpofu,Mohammad Nabi,1,0,null,1,0,null,null
+73,11.6,CB Mpofu,AG Cremer,Mohammad Nabi,1,0,null,1,0,null,null
+74,12.1,CB Mpofu,AG Cremer,Rashid Khan,1,0,null,1,0,null,null
+75,12.2,AG Cremer,CB Mpofu,Rashid Khan,1,0,null,1,0,null,null
+76,12.3,CB Mpofu,AG Cremer,Rashid Khan,0,0,null,0,0,null,null
+77,12.4,CB Mpofu,AG Cremer,Rashid Khan,0,0,null,0,1,CB Mpofu,bowled
+78,12.5,R Ngarava,AG Cremer,Rashid Khan,0,0,null,0,0,null,null
+79,12.6,R Ngarava,AG Cremer,Rashid Khan,0,0,null,0,0,null,null
+80,13.1,AG Cremer,R Ngarava,Mohammad Nabi,0,0,null,0,0,null,null
+81,13.2,AG Cremer,R Ngarava,Mohammad Nabi,2,0,null,2,0,null,null
+82,13.3,AG Cremer,R Ngarava,Mohammad Nabi,1,0,null,1,0,null,null
+83,13.4,R Ngarava,AG Cremer,Mohammad Nabi,0,0,null,0,0,null,null
+84,13.5,R Ngarava,AG Cremer,Mohammad Nabi,0,0,null,0,1,R Ngarava,caught

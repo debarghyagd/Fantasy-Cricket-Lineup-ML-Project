@@ -1,0 +1,17 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,66305,Riverside Ground,New Zealand,CL Cairns,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+1,226356,Rawalpindi Cricket Stadium,Pakistan,Naved-ul-Hasan,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+2,64846,Rangiri Dambulla International Stadium,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",0,0,1,0,0
+3,64846,Rangiri Dambulla International Stadium,Sri Lanka,UDU Chandana,Right-arm legbreak,"[1, 1, 1]",0,2,2,0,0
+4,66304,Trent Bridge,West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,4,2,1,0
+5,66304,Trent Bridge,West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",1,0,5,0,0
+6,238188,Feroz Shah Kotla,India,Yuvraj Singh,Left-arm orthodox,"[1, 0, 1]",0,4,6,1,0
+7,238188,Feroz Shah Kotla,India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",1,6,14,1,0
+8,238189,Nahar Singh Stadium,India,Harbhajan Singh,Right-arm offbreak,"[1, 1, 0]",0,2,4,0,0
+9,238189,Nahar Singh Stadium,India,Yuvraj Singh,Left-arm orthodox,"[1, 0, 1]",0,2,3,0,0
+10,238189,Nahar Singh Stadium,India,S Sreesanth,Right-arm fast-medium,"[0, 1, 1]",1,1,2,0,0
+11,238190,"Nehru Stadium, Fatorda",India,MM Patel,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+12,238193,Keenan Stadium,India,VRV Singh,Right-arm fast-medium,"[0, 1, 1]",0,4,6,1,0
+13,238193,Keenan Stadium,India,RR Powar,Right-arm offbreak,"[1, 1, 0]",0,10,6,1,1
+14,238194,Maharani Usharaje Trust Cricket Ground,India,S Sreesanth,Right-arm fast-medium,"[0, 1, 1]",1,9,7,2,0
+15,226354,National Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",0,7,14,0,0

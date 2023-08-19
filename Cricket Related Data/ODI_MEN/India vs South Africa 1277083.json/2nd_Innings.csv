@@ -1,0 +1,295 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,JN Malan,Q de Kock,JJ Bumrah,1,0,null,1,0,null,null
+1,0.2,Q de Kock,JN Malan,JJ Bumrah,0,0,null,0,0,null,null
+2,0.3,Q de Kock,JN Malan,JJ Bumrah,0,0,null,0,0,null,null
+3,0.4,Q de Kock,JN Malan,JJ Bumrah,2,0,null,2,0,null,null
+4,0.5,Q de Kock,JN Malan,JJ Bumrah,4,0,null,4,0,null,null
+5,0.6,Q de Kock,JN Malan,JJ Bumrah,0,0,null,0,0,null,null
+6,1.1,JN Malan,Q de Kock,B Kumar,1,0,null,1,0,null,null
+7,1.2,Q de Kock,JN Malan,B Kumar,0,0,null,0,0,null,null
+8,1.3,Q de Kock,JN Malan,B Kumar,4,0,null,4,0,null,null
+9,1.4,Q de Kock,JN Malan,B Kumar,0,0,null,0,0,null,null
+10,1.5,Q de Kock,JN Malan,B Kumar,6,0,null,6,0,null,null
+11,1.6,Q de Kock,JN Malan,B Kumar,0,1,wides ,1,0,null,null
+12,1.7,Q de Kock,JN Malan,B Kumar,4,0,null,4,0,null,null
+13,2.1,JN Malan,Q de Kock,JJ Bumrah,0,0,null,0,0,null,null
+14,2.2,JN Malan,Q de Kock,JJ Bumrah,1,0,null,1,0,null,null
+15,2.3,Q de Kock,JN Malan,JJ Bumrah,0,0,null,0,0,null,null
+16,2.4,Q de Kock,JN Malan,JJ Bumrah,0,0,null,0,0,null,null
+17,2.5,Q de Kock,JN Malan,JJ Bumrah,4,0,null,4,0,null,null
+18,2.6,Q de Kock,JN Malan,JJ Bumrah,0,0,null,0,0,null,null
+19,3.1,JN Malan,Q de Kock,R Ashwin,1,0,null,1,0,null,null
+20,3.2,Q de Kock,JN Malan,R Ashwin,0,0,null,0,0,null,null
+21,3.3,Q de Kock,JN Malan,R Ashwin,0,0,null,0,0,null,null
+22,3.4,Q de Kock,JN Malan,R Ashwin,4,0,null,4,0,null,null
+23,3.5,Q de Kock,JN Malan,R Ashwin,0,0,null,0,0,null,null
+24,3.6,Q de Kock,JN Malan,R Ashwin,1,0,null,1,0,null,null
+25,4.1,Q de Kock,JN Malan,JJ Bumrah,0,0,null,0,0,null,null
+26,4.2,Q de Kock,JN Malan,JJ Bumrah,0,0,null,0,0,null,null
+27,4.3,Q de Kock,JN Malan,JJ Bumrah,1,0,null,1,0,null,null
+28,4.4,JN Malan,Q de Kock,JJ Bumrah,1,0,null,1,0,null,null
+29,4.5,Q de Kock,JN Malan,JJ Bumrah,1,0,null,1,0,null,null
+30,4.6,JN Malan,Q de Kock,JJ Bumrah,1,0,null,1,0,null,null
+31,5.1,JN Malan,Q de Kock,R Ashwin,0,0,null,0,0,null,null
+32,5.2,JN Malan,Q de Kock,R Ashwin,0,0,null,0,0,null,null
+33,5.3,JN Malan,Q de Kock,R Ashwin,0,0,null,0,0,null,null
+34,5.4,JN Malan,Q de Kock,R Ashwin,0,0,null,0,0,null,null
+35,5.5,JN Malan,Q de Kock,R Ashwin,0,0,null,0,0,null,null
+36,5.6,JN Malan,Q de Kock,R Ashwin,0,0,null,0,0,null,null
+37,6.1,Q de Kock,JN Malan,JJ Bumrah,1,0,null,1,0,null,null
+38,6.2,JN Malan,Q de Kock,JJ Bumrah,0,0,null,0,0,null,null
+39,6.3,JN Malan,Q de Kock,JJ Bumrah,2,0,null,2,0,null,null
+40,6.4,JN Malan,Q de Kock,JJ Bumrah,0,0,null,0,0,null,null
+41,6.5,JN Malan,Q de Kock,JJ Bumrah,0,0,null,0,0,null,null
+42,6.6,JN Malan,Q de Kock,JJ Bumrah,0,0,null,0,0,null,null
+43,7.1,Q de Kock,JN Malan,R Ashwin,0,0,null,0,0,null,null
+44,7.2,Q de Kock,JN Malan,R Ashwin,0,0,null,0,0,null,null
+45,7.3,Q de Kock,JN Malan,R Ashwin,6,0,null,6,0,null,null
+46,7.4,Q de Kock,JN Malan,R Ashwin,1,0,null,1,0,null,null
+47,7.5,JN Malan,Q de Kock,R Ashwin,4,0,null,4,0,null,null
+48,7.6,JN Malan,Q de Kock,R Ashwin,0,0,null,0,0,null,null
+49,8.1,Q de Kock,JN Malan,JJ Bumrah,1,0,null,1,0,null,null
+50,8.2,JN Malan,Q de Kock,JJ Bumrah,0,0,null,0,0,null,null
+51,8.3,JN Malan,Q de Kock,JJ Bumrah,0,0,null,0,0,null,null
+52,8.4,JN Malan,Q de Kock,JJ Bumrah,0,0,null,0,0,null,null
+53,8.5,JN Malan,Q de Kock,JJ Bumrah,4,0,null,4,0,null,null
+54,8.6,JN Malan,Q de Kock,JJ Bumrah,2,0,null,2,0,null,null
+55,9.1,Q de Kock,JN Malan,R Ashwin,1,0,null,1,0,null,null
+56,9.2,JN Malan,Q de Kock,R Ashwin,0,0,null,0,0,null,null
+57,9.3,JN Malan,Q de Kock,R Ashwin,1,0,null,1,0,null,null
+58,9.4,Q de Kock,JN Malan,R Ashwin,4,0,null,4,0,null,null
+59,9.5,Q de Kock,JN Malan,R Ashwin,1,0,null,1,0,null,null
+60,9.6,JN Malan,Q de Kock,R Ashwin,0,0,null,0,0,null,null
+61,10.1,Q de Kock,JN Malan,YS Chahal,1,0,null,1,0,null,null
+62,10.2,JN Malan,Q de Kock,YS Chahal,1,0,null,1,0,null,null
+63,10.3,Q de Kock,JN Malan,YS Chahal,0,0,null,0,0,null,null
+64,10.4,Q de Kock,JN Malan,YS Chahal,1,0,null,1,0,null,null
+65,10.5,JN Malan,Q de Kock,YS Chahal,0,0,null,0,0,null,null
+66,10.6,JN Malan,Q de Kock,YS Chahal,0,1,wides ,1,0,null,null
+67,10.7,JN Malan,Q de Kock,YS Chahal,2,0,null,2,0,null,null
+68,11.1,Q de Kock,JN Malan,B Kumar,2,0,null,2,0,null,null
+69,11.2,Q de Kock,JN Malan,B Kumar,0,0,null,0,0,null,null
+70,11.3,Q de Kock,JN Malan,B Kumar,0,0,null,0,0,null,null
+71,11.4,Q de Kock,JN Malan,B Kumar,1,0,null,1,0,null,null
+72,11.5,JN Malan,Q de Kock,B Kumar,0,0,null,0,0,null,null
+73,11.6,JN Malan,Q de Kock,B Kumar,0,0,null,0,0,null,null
+74,12.1,Q de Kock,JN Malan,YS Chahal,0,0,null,0,0,null,null
+75,12.2,Q de Kock,JN Malan,YS Chahal,1,0,null,1,0,null,null
+76,12.3,JN Malan,Q de Kock,YS Chahal,1,0,null,1,0,null,null
+77,12.4,Q de Kock,JN Malan,YS Chahal,3,0,null,3,0,null,null
+78,12.5,JN Malan,Q de Kock,YS Chahal,0,0,null,0,0,null,null
+79,12.6,JN Malan,Q de Kock,YS Chahal,1,0,null,1,0,null,null
+80,13.1,JN Malan,Q de Kock,B Kumar,1,0,null,1,0,null,null
+81,13.2,Q de Kock,JN Malan,B Kumar,1,0,null,1,0,null,null
+82,13.3,JN Malan,Q de Kock,B Kumar,4,0,null,4,0,null,null
+83,13.4,JN Malan,Q de Kock,B Kumar,1,0,null,1,0,null,null
+84,13.5,Q de Kock,JN Malan,B Kumar,1,0,null,1,0,null,null
+85,13.6,JN Malan,Q de Kock,B Kumar,1,0,null,1,0,null,null
+86,14.1,JN Malan,Q de Kock,YS Chahal,0,0,null,0,0,null,null
+87,14.2,JN Malan,Q de Kock,YS Chahal,1,0,null,1,0,null,null
+88,14.3,Q de Kock,JN Malan,YS Chahal,1,0,null,1,0,null,null
+89,14.4,JN Malan,Q de Kock,YS Chahal,1,0,null,1,0,null,null
+90,14.5,Q de Kock,JN Malan,YS Chahal,0,0,null,0,0,null,null
+91,14.6,Q de Kock,JN Malan,YS Chahal,0,0,null,0,0,null,null
+92,15.1,JN Malan,Q de Kock,B Kumar,0,0,null,0,0,null,null
+93,15.2,JN Malan,Q de Kock,B Kumar,4,0,null,4,0,null,null
+94,15.3,JN Malan,Q de Kock,B Kumar,1,0,null,1,0,null,null
+95,15.4,Q de Kock,JN Malan,B Kumar,6,0,null,6,0,null,null
+96,15.5,Q de Kock,JN Malan,B Kumar,0,0,null,0,0,null,null
+97,15.6,Q de Kock,JN Malan,B Kumar,1,0,null,1,0,null,null
+98,16.1,Q de Kock,JN Malan,YS Chahal,1,0,null,1,0,null,null
+99,16.2,JN Malan,Q de Kock,YS Chahal,0,0,null,0,0,null,null
+100,16.3,JN Malan,Q de Kock,YS Chahal,0,0,null,0,0,null,null
+101,16.4,JN Malan,Q de Kock,YS Chahal,1,0,null,1,0,null,null
+102,16.5,Q de Kock,JN Malan,YS Chahal,1,0,null,1,0,null,null
+103,16.6,JN Malan,Q de Kock,YS Chahal,1,0,null,1,0,null,null
+104,17.1,JN Malan,Q de Kock,SN Thakur,1,0,null,1,0,null,null
+105,17.2,Q de Kock,JN Malan,SN Thakur,0,0,null,0,0,null,null
+106,17.3,Q de Kock,JN Malan,SN Thakur,1,0,null,1,0,null,null
+107,17.4,JN Malan,Q de Kock,SN Thakur,1,0,null,1,0,null,null
+108,17.5,Q de Kock,JN Malan,SN Thakur,4,0,null,4,0,null,null
+109,17.6,Q de Kock,JN Malan,SN Thakur,0,0,null,0,0,null,null
+110,18.1,JN Malan,Q de Kock,YS Chahal,0,0,null,0,0,null,null
+111,18.2,JN Malan,Q de Kock,YS Chahal,1,0,null,1,0,null,null
+112,18.3,Q de Kock,JN Malan,YS Chahal,2,0,null,2,0,null,null
+113,18.4,Q de Kock,JN Malan,YS Chahal,0,0,null,0,0,null,null
+114,18.5,Q de Kock,JN Malan,YS Chahal,1,0,null,1,0,null,null
+115,18.6,JN Malan,Q de Kock,YS Chahal,1,0,null,1,0,null,null
+116,19.1,JN Malan,Q de Kock,SN Thakur,0,0,null,0,0,null,null
+117,19.2,JN Malan,Q de Kock,SN Thakur,0,0,null,0,0,null,null
+118,19.3,JN Malan,Q de Kock,SN Thakur,0,0,null,0,0,null,null
+119,19.4,JN Malan,Q de Kock,SN Thakur,1,0,null,1,0,null,null
+120,19.5,Q de Kock,JN Malan,SN Thakur,0,0,null,0,0,null,null
+121,19.6,Q de Kock,JN Malan,SN Thakur,0,0,null,0,0,null,null
+122,20.1,JN Malan,Q de Kock,R Ashwin,0,0,null,0,0,null,null
+123,20.2,JN Malan,Q de Kock,R Ashwin,2,0,null,2,0,null,null
+124,20.3,JN Malan,Q de Kock,R Ashwin,1,0,null,1,0,null,null
+125,20.4,Q de Kock,JN Malan,R Ashwin,1,0,null,1,0,null,null
+126,20.5,JN Malan,Q de Kock,R Ashwin,1,0,null,1,0,null,null
+127,20.6,Q de Kock,JN Malan,R Ashwin,1,0,null,1,0,null,null
+128,21.1,Q de Kock,JN Malan,SN Thakur,0,0,null,0,0,null,null
+129,21.2,Q de Kock,JN Malan,SN Thakur,1,0,null,1,0,null,null
+130,21.3,JN Malan,Q de Kock,SN Thakur,0,0,null,0,0,null,null
+131,21.4,JN Malan,Q de Kock,SN Thakur,0,0,null,0,0,null,null
+132,21.5,JN Malan,Q de Kock,SN Thakur,0,1,wides ,1,0,null,null
+133,21.6,JN Malan,Q de Kock,SN Thakur,1,0,null,1,0,null,null
+134,21.7,Q de Kock,JN Malan,SN Thakur,0,1,wides ,1,0,null,null
+135,21.8,Q de Kock,JN Malan,SN Thakur,0,0,null,0,1,Q de Kock,lbw
+136,22.1,JN Malan,T Bavuma,R Ashwin,0,0,null,0,0,null,null
+137,22.2,JN Malan,T Bavuma,R Ashwin,6,0,null,6,0,null,null
+138,22.3,JN Malan,T Bavuma,R Ashwin,1,0,null,1,0,null,null
+139,22.4,T Bavuma,JN Malan,R Ashwin,2,0,null,2,0,null,null
+140,22.5,T Bavuma,JN Malan,R Ashwin,0,0,null,0,0,null,null
+141,22.6,T Bavuma,JN Malan,R Ashwin,1,0,null,1,0,null,null
+142,23.1,T Bavuma,JN Malan,VR Iyer,1,0,null,1,0,null,null
+143,23.2,JN Malan,T Bavuma,VR Iyer,1,0,null,1,0,null,null
+144,23.3,T Bavuma,JN Malan,VR Iyer,0,0,null,0,0,null,null
+145,23.4,T Bavuma,JN Malan,VR Iyer,1,0,null,1,0,null,null
+146,23.5,JN Malan,T Bavuma,VR Iyer,0,0,null,0,0,null,null
+147,23.6,JN Malan,T Bavuma,VR Iyer,0,0,null,0,0,null,null
+148,24.1,T Bavuma,JN Malan,R Ashwin,1,0,null,1,0,null,null
+149,24.2,JN Malan,T Bavuma,R Ashwin,1,0,null,1,0,null,null
+150,24.3,T Bavuma,JN Malan,R Ashwin,1,0,null,1,0,null,null
+151,24.4,JN Malan,T Bavuma,R Ashwin,1,0,null,1,0,null,null
+152,24.5,T Bavuma,JN Malan,R Ashwin,4,0,null,4,0,null,null
+153,24.6,T Bavuma,JN Malan,R Ashwin,0,0,null,0,0,null,null
+154,25.1,JN Malan,T Bavuma,VR Iyer,0,0,null,0,0,null,null
+155,25.2,JN Malan,T Bavuma,VR Iyer,4,0,null,4,0,null,null
+156,25.3,JN Malan,T Bavuma,VR Iyer,0,0,null,0,0,null,null
+157,25.4,JN Malan,T Bavuma,VR Iyer,1,0,null,1,0,null,null
+158,25.5,T Bavuma,JN Malan,VR Iyer,1,0,null,1,0,null,null
+159,25.6,JN Malan,T Bavuma,VR Iyer,1,0,null,1,0,null,null
+160,26.1,JN Malan,T Bavuma,YS Chahal,0,0,null,0,0,null,null
+161,26.2,JN Malan,T Bavuma,YS Chahal,1,0,null,1,0,null,null
+162,26.3,T Bavuma,JN Malan,YS Chahal,0,0,null,0,0,null,null
+163,26.4,T Bavuma,JN Malan,YS Chahal,1,0,null,1,0,null,null
+164,26.5,JN Malan,T Bavuma,YS Chahal,1,0,null,1,0,null,null
+165,26.6,T Bavuma,JN Malan,YS Chahal,0,4,byes ,4,0,null,null
+166,27.1,JN Malan,T Bavuma,VR Iyer,1,0,null,1,0,null,null
+167,27.2,T Bavuma,JN Malan,VR Iyer,1,0,null,1,0,null,null
+168,27.3,JN Malan,T Bavuma,VR Iyer,1,0,null,1,0,null,null
+169,27.4,T Bavuma,JN Malan,VR Iyer,1,0,null,1,0,null,null
+170,27.5,JN Malan,T Bavuma,VR Iyer,1,0,null,1,0,null,null
+171,27.6,T Bavuma,JN Malan,VR Iyer,1,0,null,1,0,null,null
+172,28.1,T Bavuma,JN Malan,YS Chahal,1,0,null,1,0,null,null
+173,28.2,JN Malan,T Bavuma,YS Chahal,0,0,null,0,0,null,null
+174,28.3,JN Malan,T Bavuma,YS Chahal,1,0,null,1,0,null,null
+175,28.4,T Bavuma,JN Malan,YS Chahal,1,0,null,1,0,null,null
+176,28.5,JN Malan,T Bavuma,YS Chahal,0,0,null,0,0,null,null
+177,28.6,JN Malan,T Bavuma,YS Chahal,0,0,null,0,0,null,null
+178,29.1,T Bavuma,JN Malan,VR Iyer,1,0,null,1,0,null,null
+179,29.2,JN Malan,T Bavuma,VR Iyer,0,0,null,0,0,null,null
+180,29.3,JN Malan,T Bavuma,VR Iyer,1,0,null,1,0,null,null
+181,29.4,T Bavuma,JN Malan,VR Iyer,0,0,null,0,0,null,null
+182,29.5,T Bavuma,JN Malan,VR Iyer,0,0,null,0,0,null,null
+183,29.6,T Bavuma,JN Malan,VR Iyer,2,0,null,2,0,null,null
+184,30.1,JN Malan,T Bavuma,YS Chahal,4,0,null,4,0,null,null
+185,30.2,JN Malan,T Bavuma,YS Chahal,0,0,null,0,0,null,null
+186,30.3,JN Malan,T Bavuma,YS Chahal,1,0,null,1,0,null,null
+187,30.4,T Bavuma,JN Malan,YS Chahal,0,0,null,0,0,null,null
+188,30.5,T Bavuma,JN Malan,YS Chahal,1,0,null,1,0,null,null
+189,30.6,JN Malan,T Bavuma,YS Chahal,1,0,null,1,0,null,null
+190,31.1,JN Malan,T Bavuma,SN Thakur,4,0,null,4,0,null,null
+191,31.2,JN Malan,T Bavuma,SN Thakur,1,0,null,1,0,null,null
+192,31.3,T Bavuma,JN Malan,SN Thakur,2,0,null,2,0,null,null
+193,31.4,T Bavuma,JN Malan,SN Thakur,1,0,null,1,0,null,null
+194,31.5,JN Malan,T Bavuma,SN Thakur,1,0,null,1,0,null,null
+195,31.6,T Bavuma,JN Malan,SN Thakur,0,0,null,0,0,null,null
+196,32.1,JN Malan,T Bavuma,JJ Bumrah,0,0,null,0,0,null,null
+197,32.2,JN Malan,T Bavuma,JJ Bumrah,0,0,null,0,0,null,null
+198,32.3,JN Malan,T Bavuma,JJ Bumrah,0,0,null,0,0,null,null
+199,32.4,JN Malan,T Bavuma,JJ Bumrah,1,0,null,1,0,null,null
+200,32.5,T Bavuma,JN Malan,JJ Bumrah,0,0,null,0,0,null,null
+201,32.6,T Bavuma,JN Malan,JJ Bumrah,0,0,null,0,0,null,null
+202,33.1,JN Malan,T Bavuma,SN Thakur,0,0,null,0,0,null,null
+203,33.2,JN Malan,T Bavuma,SN Thakur,4,0,null,4,0,null,null
+204,33.3,JN Malan,T Bavuma,SN Thakur,1,0,null,1,0,null,null
+205,33.4,T Bavuma,JN Malan,SN Thakur,4,0,null,4,0,null,null
+206,33.5,T Bavuma,JN Malan,SN Thakur,4,0,null,4,0,null,null
+207,33.6,T Bavuma,JN Malan,SN Thakur,1,0,null,1,0,null,null
+208,34.1,T Bavuma,JN Malan,JJ Bumrah,1,0,null,1,0,null,null
+209,34.2,JN Malan,T Bavuma,JJ Bumrah,0,0,null,0,0,null,null
+210,34.3,JN Malan,T Bavuma,JJ Bumrah,0,0,null,0,0,null,null
+211,34.4,JN Malan,T Bavuma,JJ Bumrah,0,0,null,0,1,JN Malan,bowled
+212,34.5,AK Markram,T Bavuma,JJ Bumrah,0,0,null,0,0,null,null
+213,34.6,AK Markram,T Bavuma,JJ Bumrah,1,0,null,1,0,null,null
+214,35.1,AK Markram,T Bavuma,YS Chahal,0,0,null,0,0,null,null
+215,35.2,AK Markram,T Bavuma,YS Chahal,1,0,null,1,0,null,null
+216,35.3,T Bavuma,AK Markram,YS Chahal,0,0,null,0,0,null,null
+217,35.4,T Bavuma,AK Markram,YS Chahal,0,0,null,0,1,T Bavuma,caught and bowled
+218,35.5,HE van der Dussen,AK Markram,YS Chahal,1,0,null,1,0,null,null
+219,35.6,AK Markram,HE van der Dussen,YS Chahal,0,0,null,0,0,null,null
+220,36.1,HE van der Dussen,AK Markram,JJ Bumrah,0,0,null,0,0,null,null
+221,36.2,HE van der Dussen,AK Markram,JJ Bumrah,0,0,null,0,0,null,null
+222,36.3,HE van der Dussen,AK Markram,JJ Bumrah,1,0,null,1,0,null,null
+223,36.4,AK Markram,HE van der Dussen,JJ Bumrah,1,0,null,1,0,null,null
+224,36.5,HE van der Dussen,AK Markram,JJ Bumrah,0,0,null,0,0,null,null
+225,36.6,HE van der Dussen,AK Markram,JJ Bumrah,0,0,null,0,0,null,null
+226,37.1,AK Markram,HE van der Dussen,YS Chahal,4,0,null,4,0,null,null
+227,37.2,AK Markram,HE van der Dussen,YS Chahal,1,0,null,1,0,null,null
+228,37.3,HE van der Dussen,AK Markram,YS Chahal,0,0,null,0,0,null,null
+229,37.4,HE van der Dussen,AK Markram,YS Chahal,0,0,null,0,0,null,null
+230,37.5,HE van der Dussen,AK Markram,YS Chahal,0,0,null,0,0,null,null
+231,37.6,HE van der Dussen,AK Markram,YS Chahal,3,0,null,3,0,null,null
+232,38.1,HE van der Dussen,AK Markram,R Ashwin,4,0,null,4,0,null,null
+233,38.2,HE van der Dussen,AK Markram,R Ashwin,1,0,null,1,0,null,null
+234,38.3,AK Markram,HE van der Dussen,R Ashwin,1,0,null,1,0,null,null
+235,38.4,HE van der Dussen,AK Markram,R Ashwin,4,0,null,4,0,null,null
+236,38.5,HE van der Dussen,AK Markram,R Ashwin,0,0,null,0,0,null,null
+237,38.6,HE van der Dussen,AK Markram,R Ashwin,2,0,null,2,0,null,null
+238,39.1,AK Markram,HE van der Dussen,VR Iyer,2,0,null,2,0,null,null
+239,39.2,AK Markram,HE van der Dussen,VR Iyer,4,0,null,4,0,null,null
+240,39.3,AK Markram,HE van der Dussen,VR Iyer,0,0,null,0,0,null,null
+241,39.4,AK Markram,HE van der Dussen,VR Iyer,1,0,null,1,0,null,null
+242,39.5,HE van der Dussen,AK Markram,VR Iyer,1,0,null,1,0,null,null
+243,39.6,AK Markram,HE van der Dussen,VR Iyer,0,0,null,0,0,null,null
+244,40.1,HE van der Dussen,AK Markram,R Ashwin,0,0,null,0,0,null,null
+245,40.2,HE van der Dussen,AK Markram,R Ashwin,1,0,null,1,0,null,null
+246,40.3,AK Markram,HE van der Dussen,R Ashwin,0,0,null,0,0,null,null
+247,40.4,AK Markram,HE van der Dussen,R Ashwin,0,0,null,0,0,null,null
+248,40.5,AK Markram,HE van der Dussen,R Ashwin,1,0,null,1,0,null,null
+249,40.6,HE van der Dussen,AK Markram,R Ashwin,1,0,null,1,0,null,null
+250,41.1,HE van der Dussen,AK Markram,B Kumar,2,0,null,2,0,null,null
+251,41.2,HE van der Dussen,AK Markram,B Kumar,1,0,null,1,0,null,null
+252,41.3,AK Markram,HE van der Dussen,B Kumar,0,0,null,0,0,null,null
+253,41.4,AK Markram,HE van der Dussen,B Kumar,1,0,null,1,0,null,null
+254,41.5,HE van der Dussen,AK Markram,B Kumar,0,0,null,0,0,null,null
+255,41.6,HE van der Dussen,AK Markram,B Kumar,1,0,null,1,0,null,null
+256,42.1,HE van der Dussen,AK Markram,R Ashwin,1,0,null,1,0,null,null
+257,42.2,AK Markram,HE van der Dussen,R Ashwin,0,0,null,0,0,null,null
+258,42.3,AK Markram,HE van der Dussen,R Ashwin,0,0,null,0,0,null,null
+259,42.4,AK Markram,HE van der Dussen,R Ashwin,1,0,null,1,0,null,null
+260,42.5,HE van der Dussen,AK Markram,R Ashwin,1,0,null,1,0,null,null
+261,42.6,AK Markram,HE van der Dussen,R Ashwin,2,0,null,2,0,null,null
+262,43.1,HE van der Dussen,AK Markram,B Kumar,2,0,null,2,0,null,null
+263,43.2,HE van der Dussen,AK Markram,B Kumar,1,0,null,1,0,null,null
+264,43.3,AK Markram,HE van der Dussen,B Kumar,4,0,null,4,0,null,null
+265,43.4,AK Markram,HE van der Dussen,B Kumar,4,0,null,4,0,null,null
+266,43.5,AK Markram,HE van der Dussen,B Kumar,0,0,null,0,0,null,null
+267,43.6,AK Markram,HE van der Dussen,B Kumar,1,0,null,1,0,null,null
+268,44.1,AK Markram,HE van der Dussen,JJ Bumrah,0,0,null,0,0,null,null
+269,44.2,AK Markram,HE van der Dussen,JJ Bumrah,0,0,null,0,0,null,null
+270,44.3,AK Markram,HE van der Dussen,JJ Bumrah,1,0,null,1,0,null,null
+271,44.4,HE van der Dussen,AK Markram,JJ Bumrah,0,0,null,0,0,null,null
+272,44.5,HE van der Dussen,AK Markram,JJ Bumrah,0,1,wides ,1,0,null,null
+273,44.6,HE van der Dussen,AK Markram,JJ Bumrah,0,0,null,0,0,null,null
+274,44.7,HE van der Dussen,AK Markram,JJ Bumrah,0,0,null,0,0,null,null
+275,45.1,AK Markram,HE van der Dussen,B Kumar,0,0,null,0,0,null,null
+276,45.2,AK Markram,HE van der Dussen,B Kumar,0,0,null,0,0,null,null
+277,45.3,AK Markram,HE van der Dussen,B Kumar,1,0,null,1,0,null,null
+278,45.4,HE van der Dussen,AK Markram,B Kumar,1,0,null,1,0,null,null
+279,45.5,AK Markram,HE van der Dussen,B Kumar,2,0,null,2,0,null,null
+280,45.6,AK Markram,HE van der Dussen,B Kumar,0,0,null,0,0,null,null
+281,46.1,HE van der Dussen,AK Markram,JJ Bumrah,0,0,null,0,0,null,null
+282,46.2,HE van der Dussen,AK Markram,JJ Bumrah,3,0,null,3,0,null,null
+283,46.3,AK Markram,HE van der Dussen,JJ Bumrah,0,0,null,0,0,null,null
+284,46.4,AK Markram,HE van der Dussen,JJ Bumrah,0,1,legbyes ,1,0,null,null
+285,46.5,HE van der Dussen,AK Markram,JJ Bumrah,1,0,null,1,0,null,null
+286,46.6,AK Markram,HE van der Dussen,JJ Bumrah,0,0,null,0,0,null,null
+287,47.1,HE van der Dussen,AK Markram,B Kumar,1,0,null,1,0,null,null
+288,47.2,AK Markram,HE van der Dussen,B Kumar,1,0,null,1,0,null,null
+289,47.3,HE van der Dussen,AK Markram,B Kumar,2,0,null,2,0,null,null
+290,47.4,HE van der Dussen,AK Markram,B Kumar,1,0,null,1,0,null,null
+291,47.5,AK Markram,HE van der Dussen,B Kumar,1,0,null,1,0,null,null
+292,47.6,HE van der Dussen,AK Markram,B Kumar,0,0,null,0,0,null,null
+293,48.1,AK Markram,HE van der Dussen,SS Iyer,1,0,null,1,0,null,null

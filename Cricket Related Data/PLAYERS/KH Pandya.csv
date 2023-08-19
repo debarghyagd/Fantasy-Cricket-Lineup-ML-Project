@@ -1,0 +1,15 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1243393,Maharashtra Cricket Association Stadium,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,6,4,1,0
+1,1243393,Maharashtra Cricket Association Stadium,England,MA Wood,Right-arm fast,"[0, 1, 0]",0,17,7,2,1
+2,1243393,Maharashtra Cricket Association Stadium,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,5,5,0,0
+3,1243394,Maharashtra Cricket Association Stadium,England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,6,5,0,0
+4,1243395,Maharashtra Cricket Association Stadium,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,9,13,0,0
+5,1243395,Maharashtra Cricket Association Stadium,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,1,1,0,0
+6,1243395,Maharashtra Cricket Association Stadium,England,RJW Topley,Left-arm fast-medium,"[0, 0, 1]",0,9,9,0,0
+7,1243395,Maharashtra Cricket Association Stadium,England,MA Wood,Right-arm fast,"[0, 1, 0]",1,6,11,0,0
+8,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",1,0,1,0,0
+9,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",0,17,14,2,0
+10,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",0,1,4,0,0
+11,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,MD Shanaka,Right-arm medium,"[0, 1, 2]",0,2,2,0,0
+12,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,C Karunaratne,Right-arm fast-medium,"[0, 1, 1]",0,10,23,1,0
+13,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,5,10,0,0

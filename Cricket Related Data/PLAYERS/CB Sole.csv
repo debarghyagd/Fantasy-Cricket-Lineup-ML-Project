@@ -1,0 +1,15 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1078659,Sheikh Zayed Stadium,Hong Kong,Nadeem Ahmed,Left-arm orthodox,"[1, 0, 1]",1,1,4,0,0
+1,1078659,Sheikh Zayed Stadium,Hong Kong,Ehsan Nawaz,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+2,1133025,Harare Sports Club,Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,7,5,1,0
+3,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+4,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,JA Duffy,Right-arm fast-medium,"[0, 1, 1]",1,1,2,0,0
+5,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,BM Tickner,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+6,1312802,"Moosa Cricket Stadium, Pearland",United Arab Emirates,KP Meiyappan,Right-arm legbreak,"[1, 1, 1]",0,2,2,0,0
+7,1312802,"Moosa Cricket Stadium, Pearland",United Arab Emirates,Akif Raja,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+8,1322036,"Mannofield Park, Aberdeen",United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",1,4,3,1,0
+9,1322039,"Mannofield Park, Aberdeen",United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",0,1,1,0,0
+10,1089420,"Grange Cricket Club Ground, Raeburn Place",Zimbabwe,RP Burl,Right-arm legbreak,"[1, 1, 1]",1,1,4,0,0
+11,1089420,"Grange Cricket Club Ground, Raeburn Place",Zimbabwe,AG Cremer,Right-arm legbreak,"[1, 1, 1]",0,1,4,0,0
+12,1089420,"Grange Cricket Club Ground, Raeburn Place",Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,0,4,0,0
+13,1078660,Dubai International Cricket Stadium,United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0

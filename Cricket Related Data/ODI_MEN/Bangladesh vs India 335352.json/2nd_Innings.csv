@@ -1,0 +1,268 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,G Gambhir,RV Uthappa,Mashrafe Mortaza,4,0,null,4,0,null,null
+1,0.2,G Gambhir,RV Uthappa,Mashrafe Mortaza,1,0,null,1,0,null,null
+2,0.3,RV Uthappa,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+3,0.4,RV Uthappa,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+4,0.5,RV Uthappa,G Gambhir,Mashrafe Mortaza,1,0,null,1,0,null,null
+5,0.6,G Gambhir,RV Uthappa,Mashrafe Mortaza,1,0,null,1,0,null,null
+6,1.1,G Gambhir,RV Uthappa,Shahadat Hossain,5,0,null,5,0,null,null
+7,1.2,RV Uthappa,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+8,1.3,RV Uthappa,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+9,1.4,RV Uthappa,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+10,1.5,RV Uthappa,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+11,1.6,RV Uthappa,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+12,2.1,G Gambhir,RV Uthappa,Mashrafe Mortaza,1,0,null,1,0,null,null
+13,2.2,RV Uthappa,G Gambhir,Mashrafe Mortaza,1,0,null,1,0,null,null
+14,2.3,G Gambhir,RV Uthappa,Mashrafe Mortaza,0,0,null,0,0,null,null
+15,2.4,G Gambhir,RV Uthappa,Mashrafe Mortaza,0,0,null,0,0,null,null
+16,2.5,G Gambhir,RV Uthappa,Mashrafe Mortaza,0,0,null,0,0,null,null
+17,2.6,G Gambhir,RV Uthappa,Mashrafe Mortaza,0,0,null,0,0,null,null
+18,3.1,RV Uthappa,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+19,3.2,RV Uthappa,G Gambhir,Shahadat Hossain,0,0,null,0,1,RV Uthappa,bowled
+20,3.3,RG Sharma,G Gambhir,Shahadat Hossain,1,0,null,1,0,null,null
+21,3.4,G Gambhir,RG Sharma,Shahadat Hossain,0,0,null,0,0,null,null
+22,3.5,G Gambhir,RG Sharma,Shahadat Hossain,4,0,null,4,0,null,null
+23,3.6,G Gambhir,RG Sharma,Shahadat Hossain,0,1,legbyes ,1,0,null,null
+24,4.1,G Gambhir,RG Sharma,Mashrafe Mortaza,0,1,legbyes ,1,0,null,null
+25,4.2,RG Sharma,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+26,4.3,RG Sharma,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+27,4.4,RG Sharma,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+28,4.5,RG Sharma,G Gambhir,Mashrafe Mortaza,4,0,null,4,0,null,null
+29,4.6,RG Sharma,G Gambhir,Mashrafe Mortaza,1,0,null,1,0,null,null
+30,5.1,RG Sharma,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+31,5.2,RG Sharma,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+32,5.3,RG Sharma,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+33,5.4,RG Sharma,G Gambhir,Shahadat Hossain,2,0,null,2,0,null,null
+34,5.5,RG Sharma,G Gambhir,Shahadat Hossain,1,0,null,1,0,null,null
+35,5.6,G Gambhir,RG Sharma,Shahadat Hossain,0,0,null,0,0,null,null
+36,6.1,RG Sharma,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+37,6.2,RG Sharma,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+38,6.3,RG Sharma,G Gambhir,Mashrafe Mortaza,1,0,null,1,0,null,null
+39,6.4,G Gambhir,RG Sharma,Mashrafe Mortaza,1,0,null,1,0,null,null
+40,6.5,RG Sharma,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+41,6.6,RG Sharma,G Gambhir,Mashrafe Mortaza,2,0,null,2,0,null,null
+42,7.1,G Gambhir,RG Sharma,Shahadat Hossain,0,0,null,0,0,null,null
+43,7.2,G Gambhir,RG Sharma,Shahadat Hossain,4,0,null,4,0,null,null
+44,7.3,G Gambhir,RG Sharma,Shahadat Hossain,0,0,null,0,0,null,null
+45,7.4,G Gambhir,RG Sharma,Shahadat Hossain,0,2,legbyes ,2,0,null,null
+46,7.5,G Gambhir,RG Sharma,Shahadat Hossain,0,0,null,0,0,null,null
+47,7.6,G Gambhir,RG Sharma,Shahadat Hossain,4,0,null,4,0,null,null
+48,8.1,RG Sharma,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+49,8.2,RG Sharma,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+50,8.3,RG Sharma,G Gambhir,Mashrafe Mortaza,4,0,null,4,0,null,null
+51,8.4,RG Sharma,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+52,8.5,RG Sharma,G Gambhir,Mashrafe Mortaza,4,0,null,4,0,null,null
+53,8.6,RG Sharma,G Gambhir,Mashrafe Mortaza,2,0,null,2,0,null,null
+54,9.1,G Gambhir,RG Sharma,Shahadat Hossain,2,0,null,2,0,null,null
+55,9.2,G Gambhir,RG Sharma,Shahadat Hossain,1,0,null,1,0,null,null
+56,9.3,RG Sharma,G Gambhir,Shahadat Hossain,0,0,null,0,1,RG Sharma,caught
+57,9.4,SK Raina,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+58,9.5,SK Raina,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+59,9.6,SK Raina,G Gambhir,Shahadat Hossain,2,0,null,2,0,null,null
+60,10.1,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+61,10.2,G Gambhir,SK Raina,Mahmudullah,2,0,null,2,0,null,null
+62,10.3,G Gambhir,SK Raina,Mahmudullah,2,0,null,2,0,null,null
+63,10.4,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+64,10.5,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+65,10.6,G Gambhir,SK Raina,Mahmudullah,1,0,null,1,0,null,null
+66,11.1,G Gambhir,SK Raina,Farhad Reza,1,0,null,1,0,null,null
+67,11.2,SK Raina,G Gambhir,Farhad Reza,1,0,null,1,0,null,null
+68,11.3,G Gambhir,SK Raina,Farhad Reza,4,0,null,4,0,null,null
+69,11.4,G Gambhir,SK Raina,Farhad Reza,0,0,null,0,0,null,null
+70,11.5,G Gambhir,SK Raina,Farhad Reza,1,0,null,1,0,null,null
+71,11.6,SK Raina,G Gambhir,Farhad Reza,1,0,null,1,0,null,null
+72,12.1,SK Raina,G Gambhir,Mahmudullah,0,1,legbyes ,1,0,null,null
+73,12.2,G Gambhir,SK Raina,Mahmudullah,1,0,null,1,0,null,null
+74,12.3,SK Raina,G Gambhir,Mahmudullah,1,0,null,1,0,null,null
+75,12.4,G Gambhir,SK Raina,Mahmudullah,4,0,null,4,0,null,null
+76,12.5,G Gambhir,SK Raina,Mahmudullah,6,0,null,6,0,null,null
+77,12.6,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+78,13.1,SK Raina,G Gambhir,Abdur Razzak,1,0,null,1,0,null,null
+79,13.2,G Gambhir,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+80,13.3,SK Raina,G Gambhir,Abdur Razzak,4,0,null,4,0,null,null
+81,13.4,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+82,13.5,SK Raina,G Gambhir,Abdur Razzak,1,0,null,1,0,null,null
+83,13.6,G Gambhir,SK Raina,Abdur Razzak,4,0,null,4,0,null,null
+84,14.1,SK Raina,G Gambhir,Mahmudullah,1,0,null,1,0,null,null
+85,14.2,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+86,14.3,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+87,14.4,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+88,14.5,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+89,14.6,G Gambhir,SK Raina,Mahmudullah,1,0,null,1,0,null,null
+90,15.1,G Gambhir,SK Raina,Mashrafe Mortaza,1,0,null,1,0,null,null
+91,15.2,SK Raina,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+92,15.3,SK Raina,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+93,15.4,SK Raina,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+94,15.5,SK Raina,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+95,15.6,SK Raina,G Gambhir,Mashrafe Mortaza,4,0,null,4,0,null,null
+96,16.1,G Gambhir,SK Raina,Abdur Razzak,0,0,null,0,0,null,null
+97,16.2,G Gambhir,SK Raina,Abdur Razzak,0,0,null,0,0,null,null
+98,16.3,G Gambhir,SK Raina,Abdur Razzak,0,0,null,0,0,null,null
+99,16.4,G Gambhir,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+100,16.5,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+101,16.6,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+102,17.1,G Gambhir,SK Raina,Mashrafe Mortaza,1,0,null,1,0,null,null
+103,17.2,SK Raina,G Gambhir,Mashrafe Mortaza,2,0,null,2,0,null,null
+104,17.3,SK Raina,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+105,17.4,SK Raina,G Gambhir,Mashrafe Mortaza,0,0,null,0,0,null,null
+106,17.5,SK Raina,G Gambhir,Mashrafe Mortaza,6,0,null,6,0,null,null
+107,17.6,SK Raina,G Gambhir,Mashrafe Mortaza,0,1,wides ,1,0,null,null
+108,17.7,SK Raina,G Gambhir,Mashrafe Mortaza,4,0,null,4,0,null,null
+109,18.1,G Gambhir,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+110,18.2,SK Raina,G Gambhir,Abdur Razzak,1,0,null,1,0,null,null
+111,18.3,G Gambhir,SK Raina,Abdur Razzak,0,0,null,0,0,null,null
+112,18.4,G Gambhir,SK Raina,Abdur Razzak,0,0,null,0,0,null,null
+113,18.5,G Gambhir,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+114,18.6,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+115,19.1,G Gambhir,SK Raina,Shahadat Hossain,0,0,null,0,0,null,null
+116,19.2,G Gambhir,SK Raina,Shahadat Hossain,1,0,null,1,0,null,null
+117,19.3,SK Raina,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+118,19.4,SK Raina,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+119,19.5,SK Raina,G Gambhir,Shahadat Hossain,4,0,null,4,0,null,null
+120,19.6,SK Raina,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+121,20.1,G Gambhir,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+122,20.2,SK Raina,G Gambhir,Abdur Razzak,0,1,wides ,1,0,null,null
+123,20.3,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+124,20.4,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+125,20.5,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+126,20.6,SK Raina,G Gambhir,Abdur Razzak,4,0,null,4,0,null,null
+127,20.7,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+128,21.1,G Gambhir,SK Raina,Shahadat Hossain,4,0,null,4,0,null,null
+129,21.2,G Gambhir,SK Raina,Shahadat Hossain,1,0,null,1,0,null,null
+130,21.3,SK Raina,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+131,21.4,SK Raina,G Gambhir,Shahadat Hossain,0,1,wides ,1,0,null,null
+132,21.5,SK Raina,G Gambhir,Shahadat Hossain,0,0,null,0,0,null,null
+133,21.6,SK Raina,G Gambhir,Shahadat Hossain,4,0,null,4,0,null,null
+134,21.7,SK Raina,G Gambhir,Shahadat Hossain,2,0,null,2,0,null,null
+135,22.1,G Gambhir,SK Raina,Abdur Razzak,0,0,null,0,0,null,null
+136,22.2,G Gambhir,SK Raina,Abdur Razzak,0,0,null,0,0,null,null
+137,22.3,G Gambhir,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+138,22.4,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+139,22.5,SK Raina,G Gambhir,Abdur Razzak,1,0,null,1,0,null,null
+140,22.6,G Gambhir,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+141,23.1,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+142,23.2,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+143,23.3,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+144,23.4,G Gambhir,SK Raina,Mahmudullah,1,0,null,1,0,null,null
+145,23.5,SK Raina,G Gambhir,Mahmudullah,1,0,null,1,0,null,null
+146,23.6,G Gambhir,SK Raina,Mahmudullah,1,0,null,1,0,null,null
+147,24.1,G Gambhir,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+148,24.2,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+149,24.3,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+150,24.4,SK Raina,G Gambhir,Abdur Razzak,1,0,null,1,0,null,null
+151,24.5,G Gambhir,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+152,24.6,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+153,25.1,G Gambhir,SK Raina,Mahmudullah,1,0,null,1,0,null,null
+154,25.2,SK Raina,G Gambhir,Mahmudullah,0,0,null,0,0,null,null
+155,25.3,SK Raina,G Gambhir,Mahmudullah,1,0,null,1,0,null,null
+156,25.4,G Gambhir,SK Raina,Mahmudullah,1,0,null,1,0,null,null
+157,25.5,SK Raina,G Gambhir,Mahmudullah,1,0,null,1,0,null,null
+158,25.6,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+159,26.1,SK Raina,G Gambhir,Abdur Razzak,1,0,null,1,0,null,null
+160,26.2,G Gambhir,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+161,26.3,SK Raina,G Gambhir,Abdur Razzak,0,0,null,0,0,null,null
+162,26.4,SK Raina,G Gambhir,Abdur Razzak,1,0,null,1,0,null,null
+163,26.5,G Gambhir,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+164,26.6,SK Raina,G Gambhir,Abdur Razzak,1,0,null,1,0,null,null
+165,27.1,SK Raina,G Gambhir,Mahmudullah,4,0,null,4,0,null,null
+166,27.2,SK Raina,G Gambhir,Mahmudullah,0,0,null,0,0,null,null
+167,27.3,SK Raina,G Gambhir,Mahmudullah,1,0,null,1,0,null,null
+168,27.4,G Gambhir,SK Raina,Mahmudullah,4,0,null,4,0,null,null
+169,27.5,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+170,27.6,G Gambhir,SK Raina,Mahmudullah,0,0,null,0,0,null,null
+171,28.1,SK Raina,G Gambhir,Alok Kapali,0,0,null,0,0,null,null
+172,28.2,SK Raina,G Gambhir,Alok Kapali,1,0,null,1,0,null,null
+173,28.3,G Gambhir,SK Raina,Alok Kapali,1,0,null,1,0,null,null
+174,28.4,SK Raina,G Gambhir,Alok Kapali,0,1,wides ,1,0,null,null
+175,28.5,SK Raina,G Gambhir,Alok Kapali,0,0,null,0,0,null,null
+176,28.6,SK Raina,G Gambhir,Alok Kapali,0,0,null,0,0,null,null
+177,28.7,SK Raina,G Gambhir,Alok Kapali,1,0,null,1,0,null,null
+178,29.1,SK Raina,G Gambhir,Farhad Reza,0,2,legbyes ,2,0,null,null
+179,29.2,SK Raina,G Gambhir,Farhad Reza,2,0,null,2,0,null,null
+180,29.3,SK Raina,G Gambhir,Farhad Reza,0,0,null,0,0,null,null
+181,29.4,SK Raina,G Gambhir,Farhad Reza,0,0,null,0,0,null,null
+182,29.5,SK Raina,G Gambhir,Farhad Reza,2,0,null,2,0,null,null
+183,29.6,SK Raina,G Gambhir,Farhad Reza,1,0,null,1,0,null,null
+184,30.1,SK Raina,G Gambhir,Alok Kapali,1,0,null,1,0,null,null
+185,30.2,G Gambhir,SK Raina,Alok Kapali,0,0,null,0,0,null,null
+186,30.3,G Gambhir,SK Raina,Alok Kapali,1,0,null,1,0,null,null
+187,30.4,SK Raina,G Gambhir,Alok Kapali,2,0,null,2,0,null,null
+188,30.5,SK Raina,G Gambhir,Alok Kapali,2,0,null,2,0,null,null
+189,30.6,SK Raina,G Gambhir,Alok Kapali,1,0,null,1,0,null,null
+190,31.1,SK Raina,G Gambhir,Farhad Reza,1,0,null,1,0,null,null
+191,31.2,G Gambhir,SK Raina,Farhad Reza,4,0,null,4,0,null,null
+192,31.3,G Gambhir,SK Raina,Farhad Reza,2,0,null,2,0,null,null
+193,31.4,G Gambhir,SK Raina,Farhad Reza,0,0,null,0,1,G Gambhir,caught
+194,31.5,Yuvraj Singh,SK Raina,Farhad Reza,0,0,null,0,0,null,null
+195,31.6,Yuvraj Singh,SK Raina,Farhad Reza,0,0,null,0,0,null,null
+196,32.1,SK Raina,Yuvraj Singh,Alok Kapali,0,0,null,0,0,null,null
+197,32.2,SK Raina,Yuvraj Singh,Alok Kapali,0,0,null,0,0,null,null
+198,32.3,SK Raina,Yuvraj Singh,Alok Kapali,1,0,null,1,0,null,null
+199,32.4,Yuvraj Singh,SK Raina,Alok Kapali,1,0,null,1,0,null,null
+200,32.5,SK Raina,Yuvraj Singh,Alok Kapali,1,0,null,1,0,null,null
+201,32.6,Yuvraj Singh,SK Raina,Alok Kapali,1,0,null,1,0,null,null
+202,33.1,Yuvraj Singh,SK Raina,Farhad Reza,0,0,null,0,0,null,null
+203,33.2,Yuvraj Singh,SK Raina,Farhad Reza,0,0,null,0,0,null,null
+204,33.3,Yuvraj Singh,SK Raina,Farhad Reza,1,0,null,1,0,null,null
+205,33.4,SK Raina,Yuvraj Singh,Farhad Reza,1,0,null,1,0,null,null
+206,33.5,Yuvraj Singh,SK Raina,Farhad Reza,0,0,null,0,0,null,null
+207,33.6,Yuvraj Singh,SK Raina,Farhad Reza,0,0,null,0,0,null,null
+208,34.1,SK Raina,Yuvraj Singh,Alok Kapali,4,0,null,4,0,null,null
+209,34.2,SK Raina,Yuvraj Singh,Alok Kapali,4,0,null,4,0,null,null
+210,34.3,SK Raina,Yuvraj Singh,Alok Kapali,1,0,null,1,0,null,null
+211,34.4,Yuvraj Singh,SK Raina,Alok Kapali,1,0,null,1,0,null,null
+212,34.5,SK Raina,Yuvraj Singh,Alok Kapali,1,0,null,1,0,null,null
+213,34.6,Yuvraj Singh,SK Raina,Alok Kapali,0,0,null,0,0,null,null
+214,35.1,SK Raina,Yuvraj Singh,Farhad Reza,1,0,null,1,0,null,null
+215,35.2,Yuvraj Singh,SK Raina,Farhad Reza,1,0,null,1,0,null,null
+216,35.3,SK Raina,Yuvraj Singh,Farhad Reza,1,0,null,1,0,null,null
+217,35.4,Yuvraj Singh,SK Raina,Farhad Reza,6,0,null,6,0,null,null
+218,35.5,Yuvraj Singh,SK Raina,Farhad Reza,0,0,null,0,0,null,null
+219,35.6,Yuvraj Singh,SK Raina,Farhad Reza,1,0,null,1,0,null,null
+220,36.1,Yuvraj Singh,SK Raina,Mashrafe Mortaza,2,0,null,2,0,null,null
+221,36.2,Yuvraj Singh,SK Raina,Mashrafe Mortaza,0,0,null,0,0,null,null
+222,36.3,Yuvraj Singh,SK Raina,Mashrafe Mortaza,1,0,null,1,0,null,null
+223,36.4,SK Raina,Yuvraj Singh,Mashrafe Mortaza,1,0,null,1,0,null,null
+224,36.5,Yuvraj Singh,SK Raina,Mashrafe Mortaza,0,0,null,0,0,null,null
+225,36.6,Yuvraj Singh,SK Raina,Mashrafe Mortaza,2,0,null,2,0,null,null
+226,37.1,SK Raina,Yuvraj Singh,Farhad Reza,0,1,legbyes ,1,0,null,null
+227,37.2,Yuvraj Singh,SK Raina,Farhad Reza,1,0,null,1,0,null,null
+228,37.3,SK Raina,Yuvraj Singh,Farhad Reza,1,0,null,1,0,null,null
+229,37.4,Yuvraj Singh,SK Raina,Farhad Reza,0,0,null,0,0,null,null
+230,37.5,Yuvraj Singh,SK Raina,Farhad Reza,4,0,null,4,0,null,null
+231,37.6,Yuvraj Singh,SK Raina,Farhad Reza,0,0,null,0,0,null,null
+232,38.1,SK Raina,Yuvraj Singh,Mashrafe Mortaza,1,0,null,1,0,null,null
+233,38.2,Yuvraj Singh,SK Raina,Mashrafe Mortaza,0,0,null,0,0,null,null
+234,38.3,Yuvraj Singh,SK Raina,Mashrafe Mortaza,1,0,null,1,0,null,null
+235,38.4,SK Raina,Yuvraj Singh,Mashrafe Mortaza,0,0,null,0,0,null,null
+236,38.5,SK Raina,Yuvraj Singh,Mashrafe Mortaza,0,0,null,0,0,null,null
+237,38.6,SK Raina,Yuvraj Singh,Mashrafe Mortaza,0,0,null,0,0,null,null
+238,39.1,Yuvraj Singh,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+239,39.2,SK Raina,Yuvraj Singh,Abdur Razzak,2,0,null,2,0,null,null
+240,39.3,SK Raina,Yuvraj Singh,Abdur Razzak,6,0,null,6,0,null,null
+241,39.4,SK Raina,Yuvraj Singh,Abdur Razzak,4,0,null,4,0,null,null
+242,39.5,SK Raina,Yuvraj Singh,Abdur Razzak,0,0,null,0,0,null,null
+243,39.6,SK Raina,Yuvraj Singh,Abdur Razzak,1,0,null,1,0,null,null
+244,40.1,SK Raina,Yuvraj Singh,Shahadat Hossain,0,0,null,0,0,null,null
+245,40.2,SK Raina,Yuvraj Singh,Shahadat Hossain,0,0,null,0,0,null,null
+246,40.3,SK Raina,Yuvraj Singh,Shahadat Hossain,0,1,wides ,1,0,null,null
+247,40.4,SK Raina,Yuvraj Singh,Shahadat Hossain,4,0,null,4,0,null,null
+248,40.5,SK Raina,Yuvraj Singh,Shahadat Hossain,0,0,null,0,0,null,null
+249,40.6,SK Raina,Yuvraj Singh,Shahadat Hossain,0,1,legbyes ,1,0,null,null
+250,40.7,Yuvraj Singh,SK Raina,Shahadat Hossain,0,0,null,0,0,null,null
+251,41.1,SK Raina,Yuvraj Singh,Abdur Razzak,1,0,null,1,0,null,null
+252,41.2,Yuvraj Singh,SK Raina,Abdur Razzak,0,1,wides ,1,0,null,null
+253,41.3,Yuvraj Singh,SK Raina,Abdur Razzak,0,1,legbyes ,1,0,null,null
+254,41.4,SK Raina,Yuvraj Singh,Abdur Razzak,6,0,null,6,0,null,null
+255,41.5,SK Raina,Yuvraj Singh,Abdur Razzak,0,0,null,0,0,null,null
+256,41.6,SK Raina,Yuvraj Singh,Abdur Razzak,0,1,legbyes ,1,0,null,null
+257,41.7,Yuvraj Singh,SK Raina,Abdur Razzak,1,0,null,1,0,null,null
+258,42.1,Yuvraj Singh,SK Raina,Shahadat Hossain,4,0,null,4,0,null,null
+259,42.2,Yuvraj Singh,SK Raina,Shahadat Hossain,0,0,null,0,0,null,null
+260,42.3,Yuvraj Singh,SK Raina,Shahadat Hossain,6,0,null,6,0,null,null
+261,42.4,Yuvraj Singh,SK Raina,Shahadat Hossain,1,0,null,1,0,null,null
+262,42.5,SK Raina,Yuvraj Singh,Shahadat Hossain,1,0,null,1,0,null,null
+263,42.6,Yuvraj Singh,SK Raina,Shahadat Hossain,0,0,null,0,0,null,null
+264,43.1,SK Raina,Yuvraj Singh,Abdur Razzak,0,1,wides ,1,0,null,null
+265,43.2,SK Raina,Yuvraj Singh,Abdur Razzak,2,0,null,2,0,null,null
+266,43.3,SK Raina,Yuvraj Singh,Abdur Razzak,1,0,null,1,0,null,null

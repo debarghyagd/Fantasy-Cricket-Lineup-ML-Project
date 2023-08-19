@@ -1,0 +1,34 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1174845,Wanderers Cricket Ground,Namibia,BM Scholtz,Left-arm orthodox,"[1, 0, 1]",0,9,17,1,0
+1,1215122,Tribhuvan University International Cricket Ground,Nepal,S Bhari,Left-arm orthodox,"[1, 0, 1]",1,0,2,0,0
+2,1275250,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",1,18,12,4,0
+3,1211171,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Namibia,BM Scholtz,Left-arm orthodox,"[1, 0, 1]",0,13,14,1,0
+4,1275253,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",1,0,2,0,0
+5,1312805,"Moosa Cricket Stadium, Pearland",Nepal,Karan KC,Right-arm medium,"[0, 1, 2]",1,0,1,0,0
+6,1312805,"Moosa Cricket Stadium, Pearland",Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",0,10,7,0,1
+7,1312805,"Moosa Cricket Stadium, Pearland",Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+8,1196670,Mannofield Park,Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,1,4,0,0
+9,1196670,Mannofield Park,Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",0,9,11,1,0
+10,1196670,Mannofield Park,Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,3,7,0,0
+11,1196675,Mannofield Park,Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,7,21,1,0
+12,1196675,Mannofield Park,Papua New Guinea,L Siaka,Right-arm fast-medium,"[0, 1, 1]",0,10,5,2,0
+13,1196675,Mannofield Park,Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,12,12,2,0
+14,1275256,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,1,3,0,0
+15,1275256,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",0,19,15,1,1
+16,1275256,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,11,19,0,0
+17,1302616,"ICC Academy, Dubai",United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+18,1215123,Tribhuvan University International Cricket Ground,United States of America,J Theron,Right-arm fast-medium,"[0, 1, 1]",0,11,14,0,1
+19,1215123,Tribhuvan University International Cricket Ground,United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,11,10,1,0
+20,1215123,Tribhuvan University International Cricket Ground,United States of America,IG Holland,Right-arm fast-medium,"[0, 1, 1]",0,11,12,1,0
+21,1215126,Tribhuvan University International Cricket Ground,United States of America,J Theron,Right-arm fast-medium,"[0, 1, 1]",1,1,2,0,0
+22,1215126,Tribhuvan University International Cricket Ground,United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,2,2,0,0
+23,1275254,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,NK Patel,Left-arm orthodox,"[1, 0, 1]",0,3,5,0,0
+24,1275254,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,SR Taylor,Right-arm offbreak,"[1, 1, 0]",0,1,1,0,0
+25,1312807,"Moosa Cricket Stadium, Pearland",United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,1,4,0,0
+26,1312807,"Moosa Cricket Stadium, Pearland",United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",0,6,6,1,0
+27,1196673,Mannofield Park,Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",1,1,4,0,0
+28,1275257,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",0,2,2,0,0
+29,1275251,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,7,5,0,1
+30,1275251,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,K Gore,Left-arm orthodox,"[1, 0, 1]",0,2,8,0,0
+31,1275251,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,NK Patel,Left-arm orthodox,"[1, 0, 1]",0,5,13,0,0
+32,1275251,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,EH Hutchinson,Right-arm fast-medium,"[0, 1, 1]",1,1,2,0,0

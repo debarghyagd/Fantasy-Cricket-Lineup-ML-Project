@@ -1,0 +1,12 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,64896,Arnos Vale Ground,Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",1,1,2,0,0
+1,64894,Daren Sammy National Cricket Stadium,England,SJ Harmison,Right-arm fast-medium,"[0, 1, 1]",0,7,7,1,0
+2,64894,Daren Sammy National Cricket Stadium,England,GJ Batty,Right-arm offbreak,"[1, 1, 0]",0,2,4,0,0
+3,64894,Daren Sammy National Cricket Stadium,England,D Gough,Right-arm fast-medium,"[0, 1, 1]",0,6,4,1,0
+4,64862,Newlands,South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",0,5,10,0,0
+5,64897,Arnos Vale Ground,Bangladesh,Tapash Baisya,Right-arm fast-medium,"[0, 1, 1]",1,2,2,0,0
+6,64897,Arnos Vale Ground,Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",0,1,1,0,0
+7,66306,Headingley,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,1,3,0,0
+8,64864,Kingsmead,South Africa,JH Kallis,Right-arm fast-medium,"[0, 1, 1]",0,4,8,0,0
+9,64849,Harare Sports Club,Zimbabwe,SM Ervine,Right-arm medium,"[0, 1, 2]",0,6,6,0,0
+10,64849,Harare Sports Club,Zimbabwe,AM Blignaut,Right-arm fast-medium,"[0, 1, 1]",0,2,8,0,0

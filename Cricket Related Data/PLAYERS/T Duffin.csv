@@ -1,0 +1,25 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,247461,"Sabina Park, Kingston",Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",1,5,14,1,0
+1,255961,Goodyear Park,South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",1,0,11,0,0
+2,257470,Sedgars Park,South Africa,AJ Hall,Right-arm fast-medium,"[0, 1, 1]",0,9,21,0,0
+3,257470,Sedgars Park,South Africa,JJ van der Wath,Right-arm fast-medium,"[0, 1, 1]",0,18,31,1,0
+4,257470,Sedgars Park,South Africa,A Nel,Right-arm fast-medium,"[0, 1, 1]",1,13,13,1,0
+5,257470,Sedgars Park,South Africa,R Telemachus,Right-arm fast-medium,"[0, 1, 1]",0,13,25,1,0
+6,257470,Sedgars Park,South Africa,JP Duminy,Right-arm offbreak,"[1, 1, 0]",0,16,19,2,0
+7,239907,"Antigua Recreation Ground, St John's",West Indies,IDR Bradshaw,Left-arm fast-medium,"[0, 0, 1]",0,17,29,3,0
+8,239907,"Antigua Recreation Ground, St John's",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,2,17,0,0
+9,239907,"Antigua Recreation Ground, St John's",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",0,1,14,0,0
+10,239907,"Antigua Recreation Ground, St John's",West Indies,DR Smith,Right-arm medium,"[0, 1, 2]",1,0,6,0,0
+11,239907,"Antigua Recreation Ground, St John's",West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,6,27,0,0
+12,239908,"Antigua Recreation Ground, St John's",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,0,6,0,0
+13,239908,"Antigua Recreation Ground, St John's",West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,1,9,0,0
+14,239911,"Beausejour Stadium, Gros Islet",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,11,28,2,0
+15,239911,"Beausejour Stadium, Gros Islet",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",0,6,19,0,0
+16,239911,"Beausejour Stadium, Gros Islet",West Indies,D Mohammed,Left-arm chinaman,"[1, 0, 0]",0,3,11,0,0
+17,239911,"Beausejour Stadium, Gros Islet",West Indies,CD Collymore,Right-arm fast-medium,"[0, 1, 1]",1,3,31,0,0
+18,239912,"Queen's Park Oval, Port of Spain",West Indies,CD Collymore,Right-arm fast-medium,"[0, 1, 1]",0,9,20,1,0
+19,239912,"Queen's Park Oval, Port of Spain",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",1,5,10,0,0
+20,239913,"Queen's Park Oval, Port of Spain",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",0,2,2,0,0
+21,239913,"Queen's Park Oval, Port of Spain",West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",1,0,9,0,0
+22,249207,Harare Sports Club,Bangladesh,Syed Rasel,Left-arm fast-medium,"[0, 0, 1]",0,22,26,4,0
+23,249207,Harare Sports Club,Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",0,1,1,0,0

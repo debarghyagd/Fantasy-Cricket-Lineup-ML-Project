@@ -1,0 +1,258 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,TM Head,AJ Finch,Shaheen Shah Afridi,0,0,null,0,1,TM Head,bowled
+1,0.2,BR McDermott,AJ Finch,Shaheen Shah Afridi,0,0,null,0,0,null,null
+2,0.3,BR McDermott,AJ Finch,Shaheen Shah Afridi,0,0,null,0,0,null,null
+3,0.4,BR McDermott,AJ Finch,Shaheen Shah Afridi,0,0,null,0,0,null,null
+4,0.5,BR McDermott,AJ Finch,Shaheen Shah Afridi,0,0,null,0,0,null,null
+5,0.6,BR McDermott,AJ Finch,Shaheen Shah Afridi,0,0,null,0,0,null,null
+6,1.1,AJ Finch,BR McDermott,Haris Rauf,0,0,null,0,0,null,null
+7,1.2,AJ Finch,BR McDermott,Haris Rauf,0,0,null,0,0,null,null
+8,1.3,AJ Finch,BR McDermott,Haris Rauf,0,0,null,0,1,AJ Finch,lbw
+9,1.4,M Labuschagne,BR McDermott,Haris Rauf,0,0,null,0,0,null,null
+10,1.5,M Labuschagne,BR McDermott,Haris Rauf,4,0,null,4,0,null,null
+11,1.6,M Labuschagne,BR McDermott,Haris Rauf,0,0,null,0,0,null,null
+12,2.1,BR McDermott,M Labuschagne,Shaheen Shah Afridi,0,0,null,0,0,null,null
+13,2.2,BR McDermott,M Labuschagne,Shaheen Shah Afridi,1,0,null,1,0,null,null
+14,2.3,M Labuschagne,BR McDermott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+15,2.4,M Labuschagne,BR McDermott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+16,2.5,M Labuschagne,BR McDermott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+17,2.6,M Labuschagne,BR McDermott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+18,3.1,BR McDermott,M Labuschagne,Haris Rauf,0,0,null,0,0,null,null
+19,3.2,BR McDermott,M Labuschagne,Haris Rauf,0,0,null,0,0,null,null
+20,3.3,BR McDermott,M Labuschagne,Haris Rauf,0,0,null,0,0,null,null
+21,3.4,BR McDermott,M Labuschagne,Haris Rauf,0,1,legbyes ,1,0,null,null
+22,3.5,M Labuschagne,BR McDermott,Haris Rauf,0,0,null,0,0,null,null
+23,3.6,M Labuschagne,BR McDermott,Haris Rauf,0,0,null,0,0,null,null
+24,4.1,BR McDermott,M Labuschagne,Shaheen Shah Afridi,0,0,null,0,0,null,null
+25,4.2,BR McDermott,M Labuschagne,Shaheen Shah Afridi,0,0,null,0,0,null,null
+26,4.3,BR McDermott,M Labuschagne,Shaheen Shah Afridi,0,0,null,0,0,null,null
+27,4.4,BR McDermott,M Labuschagne,Shaheen Shah Afridi,0,0,null,0,0,null,null
+28,4.5,BR McDermott,M Labuschagne,Shaheen Shah Afridi,0,0,null,0,0,null,null
+29,4.6,BR McDermott,M Labuschagne,Shaheen Shah Afridi,0,0,null,0,0,null,null
+30,5.1,M Labuschagne,BR McDermott,Haris Rauf,0,0,null,0,1,M Labuschagne,caught
+31,5.2,MP Stoinis,BR McDermott,Haris Rauf,1,0,null,1,0,null,null
+32,5.3,BR McDermott,MP Stoinis,Haris Rauf,0,0,null,0,0,null,null
+33,5.4,BR McDermott,MP Stoinis,Haris Rauf,0,0,null,0,0,null,null
+34,5.5,BR McDermott,MP Stoinis,Haris Rauf,4,0,null,4,0,null,null
+35,5.6,BR McDermott,MP Stoinis,Haris Rauf,0,0,null,0,0,null,null
+36,6.1,MP Stoinis,BR McDermott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+37,6.2,MP Stoinis,BR McDermott,Shaheen Shah Afridi,1,0,null,1,0,null,null
+38,6.3,BR McDermott,MP Stoinis,Shaheen Shah Afridi,0,0,null,0,0,null,null
+39,6.4,BR McDermott,MP Stoinis,Shaheen Shah Afridi,1,0,null,1,0,null,null
+40,6.5,MP Stoinis,BR McDermott,Shaheen Shah Afridi,0,1,wides ,1,0,null,null
+41,6.6,MP Stoinis,BR McDermott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+42,6.7,MP Stoinis,BR McDermott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+43,7.1,BR McDermott,MP Stoinis,Haris Rauf,1,0,null,1,0,null,null
+44,7.2,MP Stoinis,BR McDermott,Haris Rauf,0,0,null,0,0,null,null
+45,7.3,MP Stoinis,BR McDermott,Haris Rauf,0,0,null,0,0,null,null
+46,7.4,MP Stoinis,BR McDermott,Haris Rauf,4,0,null,4,0,null,null
+47,7.5,MP Stoinis,BR McDermott,Haris Rauf,0,0,null,0,0,null,null
+48,7.6,MP Stoinis,BR McDermott,Haris Rauf,0,0,null,0,0,null,null
+49,8.1,BR McDermott,MP Stoinis,Shaheen Shah Afridi,0,0,null,0,0,null,null
+50,8.2,BR McDermott,MP Stoinis,Shaheen Shah Afridi,2,0,null,2,0,null,null
+51,8.3,BR McDermott,MP Stoinis,Shaheen Shah Afridi,1,0,null,1,0,null,null
+52,8.4,MP Stoinis,BR McDermott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+53,8.5,MP Stoinis,BR McDermott,Shaheen Shah Afridi,4,0,null,4,0,null,null
+54,8.6,MP Stoinis,BR McDermott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+55,9.1,BR McDermott,MP Stoinis,Haris Rauf,0,0,null,0,0,null,null
+56,9.2,BR McDermott,MP Stoinis,Haris Rauf,2,0,null,2,0,null,null
+57,9.3,BR McDermott,MP Stoinis,Haris Rauf,0,0,null,0,0,null,null
+58,9.4,BR McDermott,MP Stoinis,Haris Rauf,1,0,null,1,0,null,null
+59,9.5,MP Stoinis,BR McDermott,Haris Rauf,1,0,null,1,0,null,null
+60,9.6,BR McDermott,MP Stoinis,Haris Rauf,1,0,null,1,0,null,null
+61,10.1,BR McDermott,MP Stoinis,Zahid Mahmood,0,0,null,0,0,null,null
+62,10.2,BR McDermott,MP Stoinis,Zahid Mahmood,0,0,null,0,0,null,null
+63,10.3,BR McDermott,MP Stoinis,Zahid Mahmood,6,0,null,6,0,null,null
+64,10.4,BR McDermott,MP Stoinis,Zahid Mahmood,2,0,null,2,0,null,null
+65,10.5,BR McDermott,MP Stoinis,Zahid Mahmood,1,0,null,1,0,null,null
+66,10.6,MP Stoinis,BR McDermott,Zahid Mahmood,0,0,null,0,0,null,null
+67,11.1,BR McDermott,MP Stoinis,Mohammad Wasim,0,0,null,0,0,null,null
+68,11.2,BR McDermott,MP Stoinis,Mohammad Wasim,0,0,null,0,0,null,null
+69,11.3,BR McDermott,MP Stoinis,Mohammad Wasim,1,0,null,1,0,null,null
+70,11.4,MP Stoinis,BR McDermott,Mohammad Wasim,6,0,null,6,0,null,null
+71,11.5,MP Stoinis,BR McDermott,Mohammad Wasim,1,0,null,1,0,null,null
+72,11.6,BR McDermott,MP Stoinis,Mohammad Wasim,0,1,wides ,1,0,null,null
+73,11.7,BR McDermott,MP Stoinis,Mohammad Wasim,4,0,null,4,0,null,null
+74,12.1,MP Stoinis,BR McDermott,Zahid Mahmood,1,0,null,1,0,null,null
+75,12.2,BR McDermott,MP Stoinis,Zahid Mahmood,0,0,null,0,0,null,null
+76,12.3,BR McDermott,MP Stoinis,Zahid Mahmood,4,0,null,4,0,null,null
+77,12.4,BR McDermott,MP Stoinis,Zahid Mahmood,1,0,null,1,0,null,null
+78,12.5,MP Stoinis,BR McDermott,Zahid Mahmood,0,0,null,0,1,MP Stoinis,caught
+79,12.6,AT Carey,BR McDermott,Zahid Mahmood,0,0,null,0,0,null,null
+80,13.1,BR McDermott,AT Carey,Mohammad Wasim,1,0,null,1,0,null,null
+81,13.2,AT Carey,BR McDermott,Mohammad Wasim,1,0,null,1,0,null,null
+82,13.3,BR McDermott,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+83,13.4,BR McDermott,AT Carey,Mohammad Wasim,1,0,null,1,0,null,null
+84,13.5,AT Carey,BR McDermott,Mohammad Wasim,0,0,null,0,0,null,null
+85,13.6,AT Carey,BR McDermott,Mohammad Wasim,1,0,null,1,0,null,null
+86,14.1,AT Carey,BR McDermott,Zahid Mahmood,0,0,null,0,0,null,null
+87,14.2,AT Carey,BR McDermott,Zahid Mahmood,0,0,null,0,0,null,null
+88,14.3,AT Carey,BR McDermott,Zahid Mahmood,1,0,null,1,0,null,null
+89,14.4,BR McDermott,AT Carey,Zahid Mahmood,1,0,null,1,0,null,null
+90,14.5,AT Carey,BR McDermott,Zahid Mahmood,0,0,null,0,0,null,null
+91,14.6,AT Carey,BR McDermott,Zahid Mahmood,2,0,null,2,0,null,null
+92,15.1,BR McDermott,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+93,15.2,BR McDermott,AT Carey,Mohammad Wasim,0,0,null,0,1,BR McDermott,caught
+94,15.3,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+95,15.4,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+96,15.5,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+97,15.6,C Green,AT Carey,Mohammad Wasim,1,0,null,1,0,null,null
+98,16.1,C Green,AT Carey,Zahid Mahmood,1,0,null,1,0,null,null
+99,16.2,AT Carey,C Green,Zahid Mahmood,0,0,null,0,0,null,null
+100,16.3,AT Carey,C Green,Zahid Mahmood,0,0,null,0,0,null,null
+101,16.4,AT Carey,C Green,Zahid Mahmood,4,0,null,4,0,null,null
+102,16.5,AT Carey,C Green,Zahid Mahmood,1,0,null,1,0,null,null
+103,16.6,C Green,AT Carey,Zahid Mahmood,1,0,null,1,0,null,null
+104,17.1,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+105,17.2,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+106,17.3,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+107,17.4,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+108,17.5,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+109,17.6,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+110,18.1,AT Carey,C Green,Zahid Mahmood,0,0,null,0,0,null,null
+111,18.2,AT Carey,C Green,Zahid Mahmood,1,0,null,1,0,null,null
+112,18.3,C Green,AT Carey,Zahid Mahmood,0,0,null,0,0,null,null
+113,18.4,C Green,AT Carey,Zahid Mahmood,1,0,null,1,0,null,null
+114,18.5,AT Carey,C Green,Zahid Mahmood,0,0,null,0,0,null,null
+115,18.6,AT Carey,C Green,Zahid Mahmood,4,0,null,4,0,null,null
+116,19.1,C Green,AT Carey,Mohammad Wasim,1,0,null,1,0,null,null
+117,19.2,AT Carey,C Green,Mohammad Wasim,0,0,null,0,0,null,null
+118,19.3,AT Carey,C Green,Mohammad Wasim,0,0,null,0,0,null,null
+119,19.4,AT Carey,C Green,Mohammad Wasim,1,0,null,1,0,null,null
+120,19.5,C Green,AT Carey,Mohammad Wasim,1,0,null,1,0,null,null
+121,19.6,AT Carey,C Green,Mohammad Wasim,0,0,null,0,0,null,null
+122,20.1,C Green,AT Carey,Iftikhar Ahmed,0,0,null,0,0,null,null
+123,20.2,C Green,AT Carey,Iftikhar Ahmed,1,0,null,1,0,null,null
+124,20.3,AT Carey,C Green,Iftikhar Ahmed,0,0,null,0,0,null,null
+125,20.4,AT Carey,C Green,Iftikhar Ahmed,1,0,null,1,0,null,null
+126,20.5,C Green,AT Carey,Iftikhar Ahmed,0,0,null,0,0,null,null
+127,20.6,C Green,AT Carey,Iftikhar Ahmed,1,0,null,1,0,null,null
+128,21.1,C Green,AT Carey,Haris Rauf,4,0,null,4,0,null,null
+129,21.2,C Green,AT Carey,Haris Rauf,1,0,null,1,0,null,null
+130,21.3,AT Carey,C Green,Haris Rauf,0,0,null,0,0,null,null
+131,21.4,AT Carey,C Green,Haris Rauf,0,0,null,0,0,null,null
+132,21.5,AT Carey,C Green,Haris Rauf,0,0,null,0,0,null,null
+133,21.6,AT Carey,C Green,Haris Rauf,1,0,null,1,0,null,null
+134,22.1,AT Carey,C Green,Iftikhar Ahmed,0,0,null,0,0,null,null
+135,22.2,AT Carey,C Green,Iftikhar Ahmed,0,0,null,0,0,null,null
+136,22.3,AT Carey,C Green,Iftikhar Ahmed,0,0,null,0,0,null,null
+137,22.4,AT Carey,C Green,Iftikhar Ahmed,0,0,null,0,0,null,null
+138,22.5,AT Carey,C Green,Iftikhar Ahmed,0,0,null,0,0,null,null
+139,22.6,AT Carey,C Green,Iftikhar Ahmed,4,0,null,4,0,null,null
+140,23.1,C Green,AT Carey,Haris Rauf,1,0,null,1,0,null,null
+141,23.2,AT Carey,C Green,Haris Rauf,0,0,null,0,0,null,null
+142,23.3,AT Carey,C Green,Haris Rauf,1,0,null,1,0,null,null
+143,23.4,C Green,AT Carey,Haris Rauf,1,0,null,1,0,null,null
+144,23.5,AT Carey,C Green,Haris Rauf,1,0,null,1,0,null,null
+145,23.6,C Green,AT Carey,Haris Rauf,1,0,null,1,0,null,null
+146,24.1,C Green,AT Carey,Iftikhar Ahmed,1,0,null,1,0,null,null
+147,24.2,AT Carey,C Green,Iftikhar Ahmed,1,0,null,1,0,null,null
+148,24.3,C Green,AT Carey,Iftikhar Ahmed,1,0,null,1,0,null,null
+149,24.4,AT Carey,C Green,Iftikhar Ahmed,1,0,null,1,0,null,null
+150,24.5,C Green,AT Carey,Iftikhar Ahmed,0,0,null,0,0,null,null
+151,24.6,C Green,AT Carey,Iftikhar Ahmed,1,0,null,1,0,null,null
+152,25.1,C Green,AT Carey,Zahid Mahmood,0,0,null,0,0,null,null
+153,25.2,C Green,AT Carey,Zahid Mahmood,1,0,null,1,0,null,null
+154,25.3,AT Carey,C Green,Zahid Mahmood,0,0,null,0,0,null,null
+155,25.4,AT Carey,C Green,Zahid Mahmood,1,0,null,1,0,null,null
+156,25.5,C Green,AT Carey,Zahid Mahmood,0,0,null,0,0,null,null
+157,25.6,C Green,AT Carey,Zahid Mahmood,2,0,null,2,0,null,null
+158,26.1,AT Carey,C Green,Iftikhar Ahmed,1,0,null,1,0,null,null
+159,26.2,C Green,AT Carey,Iftikhar Ahmed,2,0,null,2,0,null,null
+160,26.3,C Green,AT Carey,Iftikhar Ahmed,0,0,null,0,0,null,null
+161,26.4,C Green,AT Carey,Iftikhar Ahmed,1,0,null,1,0,null,null
+162,26.5,AT Carey,C Green,Iftikhar Ahmed,0,0,null,0,0,null,null
+163,26.6,AT Carey,C Green,Iftikhar Ahmed,1,0,null,1,0,null,null
+164,27.1,AT Carey,C Green,Zahid Mahmood,0,0,null,0,0,null,null
+165,27.2,AT Carey,C Green,Zahid Mahmood,0,0,null,0,0,null,null
+166,27.3,AT Carey,C Green,Zahid Mahmood,0,1,wides ,1,0,null,null
+167,27.4,AT Carey,C Green,Zahid Mahmood,1,0,null,1,0,null,null
+168,27.5,C Green,AT Carey,Zahid Mahmood,1,0,null,1,0,null,null
+169,27.6,AT Carey,C Green,Zahid Mahmood,1,0,null,1,0,null,null
+170,27.7,C Green,AT Carey,Zahid Mahmood,6,0,null,6,0,null,null
+171,28.1,AT Carey,C Green,Iftikhar Ahmed,4,0,null,4,0,null,null
+172,28.2,AT Carey,C Green,Iftikhar Ahmed,2,0,null,2,0,null,null
+173,28.3,AT Carey,C Green,Iftikhar Ahmed,4,0,null,4,0,null,null
+174,28.4,AT Carey,C Green,Iftikhar Ahmed,1,0,null,1,0,null,null
+175,28.5,C Green,AT Carey,Iftikhar Ahmed,1,0,null,1,0,null,null
+176,28.6,AT Carey,C Green,Iftikhar Ahmed,1,0,null,1,0,null,null
+177,29.1,AT Carey,C Green,Mohammad Wasim,6,0,null,6,0,null,null
+178,29.2,AT Carey,C Green,Mohammad Wasim,0,0,null,0,0,null,null
+179,29.3,AT Carey,C Green,Mohammad Wasim,1,0,null,1,0,null,null
+180,29.4,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+181,29.5,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+182,29.6,C Green,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+183,30.1,AT Carey,C Green,Iftikhar Ahmed,1,0,null,1,0,null,null
+184,30.2,C Green,AT Carey,Iftikhar Ahmed,0,0,null,0,0,null,null
+185,30.3,C Green,AT Carey,Iftikhar Ahmed,0,0,null,0,0,null,null
+186,30.4,C Green,AT Carey,Iftikhar Ahmed,0,0,null,0,0,null,null
+187,30.5,C Green,AT Carey,Iftikhar Ahmed,1,0,null,1,0,null,null
+188,30.6,AT Carey,C Green,Iftikhar Ahmed,0,0,null,0,0,null,null
+189,31.1,C Green,AT Carey,Mohammad Wasim,0,0,null,0,1,C Green,bowled
+190,31.2,SA Abbott,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+191,31.3,SA Abbott,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+192,31.4,SA Abbott,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+193,31.5,SA Abbott,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+194,31.6,SA Abbott,AT Carey,Mohammad Wasim,0,1,wides ,1,0,null,null
+195,31.7,SA Abbott,AT Carey,Mohammad Wasim,0,0,null,0,0,null,null
+196,32.1,AT Carey,SA Abbott,Iftikhar Ahmed,0,0,null,0,0,null,null
+197,32.2,AT Carey,SA Abbott,Iftikhar Ahmed,1,0,null,1,0,null,null
+198,32.3,SA Abbott,AT Carey,Iftikhar Ahmed,0,0,null,0,0,null,null
+199,32.4,SA Abbott,AT Carey,Iftikhar Ahmed,1,0,null,1,0,null,null
+200,32.5,AT Carey,SA Abbott,Iftikhar Ahmed,4,0,null,4,0,null,null
+201,32.6,AT Carey,SA Abbott,Iftikhar Ahmed,0,0,null,0,1,AT Carey,caught
+202,33.1,JP Behrendorff,SA Abbott,Mohammad Wasim,0,0,null,0,0,null,null
+203,33.2,JP Behrendorff,SA Abbott,Mohammad Wasim,0,0,null,0,0,null,null
+204,33.3,JP Behrendorff,SA Abbott,Mohammad Wasim,0,0,null,0,0,null,null
+205,33.4,JP Behrendorff,SA Abbott,Mohammad Wasim,0,0,null,0,0,null,null
+206,33.5,JP Behrendorff,SA Abbott,Mohammad Wasim,1,0,null,1,0,null,null
+207,33.6,SA Abbott,JP Behrendorff,Mohammad Wasim,0,0,null,0,0,null,null
+208,34.1,JP Behrendorff,SA Abbott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+209,34.2,JP Behrendorff,SA Abbott,Shaheen Shah Afridi,1,0,null,1,0,null,null
+210,34.3,SA Abbott,JP Behrendorff,Shaheen Shah Afridi,0,0,null,0,0,null,null
+211,34.4,SA Abbott,JP Behrendorff,Shaheen Shah Afridi,4,0,null,4,0,null,null
+212,34.5,SA Abbott,JP Behrendorff,Shaheen Shah Afridi,1,0,null,1,0,null,null
+213,34.6,JP Behrendorff,SA Abbott,Shaheen Shah Afridi,0,0,null,0,1,JP Behrendorff,caught
+214,35.1,SA Abbott,NT Ellis,Mohammad Wasim,1,0,null,1,0,null,null
+215,35.2,NT Ellis,SA Abbott,Mohammad Wasim,0,0,null,0,0,null,null
+216,35.3,NT Ellis,SA Abbott,Mohammad Wasim,0,0,null,0,0,null,null
+217,35.4,NT Ellis,SA Abbott,Mohammad Wasim,0,1,wides ,1,0,null,null
+218,35.5,NT Ellis,SA Abbott,Mohammad Wasim,2,0,null,2,0,null,null
+219,35.6,NT Ellis,SA Abbott,Mohammad Wasim,0,0,null,0,1,NT Ellis,bowled
+220,35.7,A Zampa,SA Abbott,Mohammad Wasim,0,1,wides ,1,0,null,null
+221,35.8,A Zampa,SA Abbott,Mohammad Wasim,0,0,null,0,0,null,null
+222,36.1,SA Abbott,A Zampa,Shaheen Shah Afridi,0,0,null,0,0,null,null
+223,36.2,SA Abbott,A Zampa,Shaheen Shah Afridi,2,0,null,2,0,null,null
+224,36.3,SA Abbott,A Zampa,Shaheen Shah Afridi,0,0,null,0,0,null,null
+225,36.4,SA Abbott,A Zampa,Shaheen Shah Afridi,0,1,legbyes ,1,0,null,null
+226,36.5,A Zampa,SA Abbott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+227,36.6,A Zampa,SA Abbott,Shaheen Shah Afridi,0,0,null,0,0,null,null
+228,37.1,SA Abbott,A Zampa,Mohammad Wasim,2,0,null,2,0,null,null
+229,37.2,SA Abbott,A Zampa,Mohammad Wasim,2,0,null,2,0,null,null
+230,37.3,SA Abbott,A Zampa,Mohammad Wasim,1,0,null,1,0,null,null
+231,37.4,A Zampa,SA Abbott,Mohammad Wasim,0,0,null,0,0,null,null
+232,37.5,A Zampa,SA Abbott,Mohammad Wasim,0,0,null,0,0,null,null
+233,37.6,A Zampa,SA Abbott,Mohammad Wasim,0,0,null,0,0,null,null
+234,38.1,SA Abbott,A Zampa,Shaheen Shah Afridi,4,0,null,4,0,null,null
+235,38.2,SA Abbott,A Zampa,Shaheen Shah Afridi,2,0,null,2,0,null,null
+236,38.3,SA Abbott,A Zampa,Shaheen Shah Afridi,6,0,null,6,0,null,null
+237,38.4,SA Abbott,A Zampa,Shaheen Shah Afridi,4,0,null,4,0,null,null
+238,38.5,SA Abbott,A Zampa,Shaheen Shah Afridi,4,0,null,4,0,null,null
+239,38.6,SA Abbott,A Zampa,Shaheen Shah Afridi,1,0,null,1,0,null,null
+240,39.1,SA Abbott,A Zampa,Haris Rauf,0,0,null,0,0,null,null
+241,39.2,SA Abbott,A Zampa,Haris Rauf,4,0,null,4,0,null,null
+242,39.3,SA Abbott,A Zampa,Haris Rauf,0,0,null,0,0,null,null
+243,39.4,SA Abbott,A Zampa,Haris Rauf,0,0,null,0,0,null,null
+244,39.5,SA Abbott,A Zampa,Haris Rauf,1,0,null,1,0,null,null
+245,39.6,A Zampa,SA Abbott,Haris Rauf,0,0,null,0,0,null,null
+246,40.1,SA Abbott,A Zampa,Zahid Mahmood,0,0,null,0,0,null,null
+247,40.2,SA Abbott,A Zampa,Zahid Mahmood,0,0,null,0,0,null,null
+248,40.3,SA Abbott,A Zampa,Zahid Mahmood,4,0,null,4,0,null,null
+249,40.4,SA Abbott,A Zampa,Zahid Mahmood,0,0,null,0,0,null,null
+250,40.5,SA Abbott,A Zampa,Zahid Mahmood,1,0,null,1,0,null,null
+251,40.6,A Zampa,SA Abbott,Zahid Mahmood,0,0,null,0,0,null,null
+252,41.1,SA Abbott,A Zampa,Haris Rauf,0,0,null,0,0,null,null
+253,41.2,SA Abbott,A Zampa,Haris Rauf,2,0,null,2,0,null,null
+254,41.3,SA Abbott,A Zampa,Haris Rauf,2,0,null,2,0,null,null
+255,41.4,SA Abbott,A Zampa,Haris Rauf,0,0,null,0,0,null,null
+256,41.5,SA Abbott,A Zampa,Haris Rauf,0,0,null,0,1,SA Abbott,caught

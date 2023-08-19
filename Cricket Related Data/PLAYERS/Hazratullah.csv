@@ -1,0 +1,40 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1144486,County Ground,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+1,1144486,County Ground,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,0,1,0,0
+2,1144510,The Rose Bowl,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,6,8,1,0
+3,1144510,The Rose Bowl,India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",1,4,16,0,0
+4,1150146,"Civil Service Cricket Club, Stormont",Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",1,7,4,0,1
+5,1150146,"Civil Service Cricket Club, Stormont",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,7,5,1,0
+6,1150147,"Civil Service Cricket Club, Stormont",Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+7,1150147,"Civil Service Cricket Club, Stormont",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+8,1168115,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",0,7,9,1,0
+9,1168115,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,Simi Singh,Right-arm offbreak,"[1, 1, 0]",0,3,8,0,0
+10,1168115,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,14,13,2,1
+11,1168116,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,12,9,0,1
+12,1168116,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",0,8,8,1,0
+13,1168116,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,Simi Singh,Right-arm offbreak,"[1, 1, 0]",0,6,6,1,0
+14,1168116,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",1,23,15,2,2
+15,1168117,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,Simi Singh,Right-arm offbreak,"[1, 1, 0]",0,2,5,0,0
+16,1168117,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,13,6,1,1
+17,1168117,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,19,22,2,1
+18,1168118,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,4,6,0,0
+19,1168118,"Rajiv Gandhi International Cricket Stadium, Dehradun",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",1,10,10,1,1
+20,1144495,The Cooper Associates County Ground,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,3,8,0,0
+21,1144495,The Cooper Associates County Ground,New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,4,2,1,0
+22,1144495,The Cooper Associates County Ground,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",0,27,17,4,1
+23,1144495,The Cooper Associates County Ground,New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",1,0,1,0,0
+24,1144503,Sophia Gardens,South Africa,BE Hendricks,Left-arm fast-medium,"[0, 0, 1]",0,7,8,1,0
+25,1144503,Sophia Gardens,South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",1,15,16,2,0
+26,1144489,Sophia Gardens,Sri Lanka,N Pradeep,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+27,1144489,Sophia Gardens,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,15,14,2,0
+28,1193497,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",1,7,16,1,0
+29,1193498,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+30,1193498,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,West Indies,SS Cottrell,Left-arm fast-medium,"[0, 0, 1]",0,2,7,0,0
+31,1193499,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,West Indies,HR Walsh,Right-arm legbreak,"[1, 1, 1]",0,6,6,0,1
+32,1193499,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,West Indies,R Shepherd,Right-arm fast-medium,"[0, 1, 1]",0,12,15,2,0
+33,1193499,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,20,11,3,1
+34,1168515,"Civil Service Cricket Club, Stormont",Ireland,MR Adair,Right-arm fast,"[0, 1, 0]",1,0,2,0,0
+35,1168515,"Civil Service Cricket Club, Stormont",Ireland,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,7,11,1,0
+36,1168515,"Civil Service Cricket Club, Stormont",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,7,27,1,0
+37,1169330,"Grange Cricket Club, Raeburn Place",Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,8,8,2,0
+38,1169330,"Grange Cricket Club, Raeburn Place",Scotland,BTJ Wheal,Right-arm fast-medium,"[0, 1, 1]",1,6,4,0,1

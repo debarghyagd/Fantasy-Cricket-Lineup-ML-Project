@@ -1,0 +1,214 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,CH Gayle,J Charles,B Kumar,0,0,null,0,0,null,null
+1,0.2,CH Gayle,J Charles,B Kumar,0,0,null,0,0,null,null
+2,0.3,CH Gayle,J Charles,B Kumar,2,0,null,2,0,null,null
+3,0.4,CH Gayle,J Charles,B Kumar,0,0,null,0,0,null,null
+4,0.5,CH Gayle,J Charles,B Kumar,0,1,wides ,1,0,null,null
+5,0.6,CH Gayle,J Charles,B Kumar,0,0,null,0,0,null,null
+6,0.7,CH Gayle,J Charles,B Kumar,0,0,null,0,0,null,null
+7,1.1,J Charles,CH Gayle,UT Yadav,1,0,null,1,0,null,null
+8,1.2,CH Gayle,J Charles,UT Yadav,0,1,wides ,1,0,null,null
+9,1.3,CH Gayle,J Charles,UT Yadav,0,0,null,0,0,null,null
+10,1.4,CH Gayle,J Charles,UT Yadav,0,0,null,0,0,null,null
+11,1.5,CH Gayle,J Charles,UT Yadav,0,0,null,0,0,null,null
+12,1.6,CH Gayle,J Charles,UT Yadav,4,0,null,4,0,null,null
+13,1.7,CH Gayle,J Charles,UT Yadav,0,1,legbyes ,1,0,null,null
+14,1.8,J Charles,CH Gayle,UT Yadav,0,0,null,0,0,null,null
+15,2.1,CH Gayle,J Charles,B Kumar,4,0,null,4,0,null,null
+16,2.2,CH Gayle,J Charles,B Kumar,0,0,null,0,1,CH Gayle,caught
+17,2.3,DM Bravo,J Charles,B Kumar,0,0,null,0,0,null,null
+18,2.4,DM Bravo,J Charles,B Kumar,0,0,null,0,0,null,null
+19,2.5,DM Bravo,J Charles,B Kumar,0,0,null,0,0,null,null
+20,2.6,DM Bravo,J Charles,B Kumar,0,0,null,0,0,null,null
+21,3.1,J Charles,DM Bravo,UT Yadav,0,0,null,0,0,null,null
+22,3.2,J Charles,DM Bravo,UT Yadav,0,0,null,0,0,null,null
+23,3.3,J Charles,DM Bravo,UT Yadav,4,0,null,4,0,null,null
+24,3.4,J Charles,DM Bravo,UT Yadav,0,1,wides ,1,0,null,null
+25,3.5,J Charles,DM Bravo,UT Yadav,0,0,null,0,0,null,null
+26,3.6,J Charles,DM Bravo,UT Yadav,0,0,null,0,0,null,null
+27,3.7,J Charles,DM Bravo,UT Yadav,0,0,null,0,0,null,null
+28,4.1,DM Bravo,J Charles,B Kumar,0,0,null,0,0,null,null
+29,4.2,DM Bravo,J Charles,B Kumar,1,0,null,1,0,null,null
+30,4.3,J Charles,DM Bravo,B Kumar,0,0,null,0,0,null,null
+31,4.4,J Charles,DM Bravo,B Kumar,4,0,null,4,0,null,null
+32,4.5,J Charles,DM Bravo,B Kumar,1,0,null,1,0,null,null
+33,4.6,DM Bravo,J Charles,B Kumar,0,0,null,0,1,DM Bravo,caught
+34,5.1,J Charles,MN Samuels,UT Yadav,0,0,null,0,0,null,null
+35,5.2,J Charles,MN Samuels,UT Yadav,0,0,null,0,0,null,null
+36,5.3,J Charles,MN Samuels,UT Yadav,0,0,null,0,0,null,null
+37,5.4,J Charles,MN Samuels,UT Yadav,0,0,null,0,0,null,null
+38,5.5,J Charles,MN Samuels,UT Yadav,0,0,null,0,0,null,null
+39,5.6,J Charles,MN Samuels,UT Yadav,4,0,null,4,0,null,null
+40,6.1,MN Samuels,J Charles,B Kumar,0,0,null,0,0,null,null
+41,6.2,MN Samuels,J Charles,B Kumar,0,0,null,0,0,null,null
+42,6.3,MN Samuels,J Charles,B Kumar,0,0,null,0,0,null,null
+43,6.4,MN Samuels,J Charles,B Kumar,0,0,null,0,0,null,null
+44,6.5,MN Samuels,J Charles,B Kumar,0,0,null,0,0,null,null
+45,6.6,MN Samuels,J Charles,B Kumar,0,0,null,0,0,null,null
+46,7.1,J Charles,MN Samuels,I Sharma,0,1,legbyes ,1,0,null,null
+47,7.2,MN Samuels,J Charles,I Sharma,4,0,null,4,0,null,null
+48,7.3,MN Samuels,J Charles,I Sharma,0,0,null,0,0,null,null
+49,7.4,MN Samuels,J Charles,I Sharma,0,0,null,0,0,null,null
+50,7.5,MN Samuels,J Charles,I Sharma,0,1,wides ,1,0,null,null
+51,7.6,MN Samuels,J Charles,I Sharma,0,0,null,0,0,null,null
+52,7.7,MN Samuels,J Charles,I Sharma,0,0,null,0,0,null,null
+53,8.1,J Charles,MN Samuels,B Kumar,1,0,null,1,0,null,null
+54,8.2,MN Samuels,J Charles,B Kumar,0,0,null,0,0,null,null
+55,8.3,MN Samuels,J Charles,B Kumar,1,0,null,1,0,null,null
+56,8.4,J Charles,MN Samuels,B Kumar,0,0,null,0,0,null,null
+57,8.5,J Charles,MN Samuels,B Kumar,6,0,null,6,0,null,null
+58,8.6,J Charles,MN Samuels,B Kumar,1,0,null,1,0,null,null
+59,9.1,J Charles,MN Samuels,I Sharma,6,0,null,6,0,null,null
+60,9.2,J Charles,MN Samuels,I Sharma,4,0,null,4,0,null,null
+61,9.3,J Charles,MN Samuels,I Sharma,1,0,null,1,0,null,null
+62,9.4,MN Samuels,J Charles,I Sharma,0,0,null,0,0,null,null
+63,9.5,MN Samuels,J Charles,I Sharma,0,1,wides ,1,0,null,null
+64,9.6,MN Samuels,J Charles,I Sharma,0,0,null,0,0,null,null
+65,9.7,MN Samuels,J Charles,I Sharma,0,0,null,0,0,null,null
+66,10.1,J Charles,MN Samuels,B Kumar,0,0,null,0,0,null,null
+67,10.2,J Charles,MN Samuels,B Kumar,4,0,null,4,0,null,null
+68,10.3,J Charles,MN Samuels,B Kumar,0,0,null,0,0,null,null
+69,10.4,J Charles,MN Samuels,B Kumar,0,0,null,0,0,null,null
+70,10.5,J Charles,MN Samuels,B Kumar,1,0,null,1,0,null,null
+71,10.6,MN Samuels,J Charles,B Kumar,0,0,null,0,0,null,null
+72,11.1,J Charles,MN Samuels,I Sharma,1,0,null,1,0,null,null
+73,11.2,MN Samuels,J Charles,I Sharma,1,0,null,1,0,null,null
+74,11.3,J Charles,MN Samuels,I Sharma,0,0,null,0,0,null,null
+75,11.4,J Charles,MN Samuels,I Sharma,1,0,null,1,0,null,null
+76,11.5,MN Samuels,J Charles,I Sharma,0,0,null,0,0,null,null
+77,11.6,MN Samuels,J Charles,I Sharma,0,0,null,0,1,MN Samuels,caught
+78,12.1,J Charles,KA Pollard,B Kumar,0,0,null,0,0,null,null
+79,12.2,J Charles,KA Pollard,B Kumar,0,0,null,0,0,null,null
+80,12.3,J Charles,KA Pollard,B Kumar,1,0,null,1,0,null,null
+81,12.4,KA Pollard,J Charles,B Kumar,0,0,null,0,1,KA Pollard,caught
+82,12.5,DJ Bravo,J Charles,B Kumar,0,0,null,0,0,null,null
+83,12.6,DJ Bravo,J Charles,B Kumar,0,0,null,0,0,null,null
+84,13.1,J Charles,DJ Bravo,I Sharma,0,0,null,0,0,null,null
+85,13.2,J Charles,DJ Bravo,I Sharma,4,0,null,4,0,null,null
+86,13.3,J Charles,DJ Bravo,I Sharma,0,0,null,0,1,J Charles,caught
+87,13.4,DJ Bravo,D Ramdin,I Sharma,0,0,null,0,0,null,null
+88,13.5,DJ Bravo,D Ramdin,I Sharma,0,0,null,0,0,null,null
+89,13.6,DJ Bravo,D Ramdin,I Sharma,0,0,null,0,0,null,null
+90,14.1,D Ramdin,DJ Bravo,B Kumar,0,0,null,0,0,null,null
+91,14.2,D Ramdin,DJ Bravo,B Kumar,0,0,null,0,0,null,null
+92,14.3,D Ramdin,DJ Bravo,B Kumar,0,0,null,0,0,null,null
+93,14.4,D Ramdin,DJ Bravo,B Kumar,0,0,null,0,0,null,null
+94,14.5,D Ramdin,DJ Bravo,B Kumar,0,0,null,0,0,null,null
+95,14.6,D Ramdin,DJ Bravo,B Kumar,1,0,null,1,0,null,null
+96,15.1,D Ramdin,DJ Bravo,I Sharma,1,0,null,1,0,null,null
+97,15.2,DJ Bravo,D Ramdin,I Sharma,0,0,null,0,0,null,null
+98,15.3,DJ Bravo,D Ramdin,I Sharma,2,0,null,2,0,null,null
+99,15.4,DJ Bravo,D Ramdin,I Sharma,0,0,null,0,0,null,null
+100,15.5,DJ Bravo,D Ramdin,I Sharma,1,0,null,1,0,null,null
+101,15.6,D Ramdin,DJ Bravo,I Sharma,0,0,null,0,0,null,null
+102,16.1,DJ Bravo,D Ramdin,RA Jadeja,0,0,null,0,0,null,null
+103,16.2,DJ Bravo,D Ramdin,RA Jadeja,0,0,null,0,0,null,null
+104,16.3,DJ Bravo,D Ramdin,RA Jadeja,1,0,null,1,0,null,null
+105,16.4,D Ramdin,DJ Bravo,RA Jadeja,0,0,null,0,0,null,null
+106,16.5,D Ramdin,DJ Bravo,RA Jadeja,0,0,null,0,0,null,null
+107,16.6,D Ramdin,DJ Bravo,RA Jadeja,0,0,null,0,0,null,null
+108,17.1,DJ Bravo,D Ramdin,R Ashwin,0,0,null,0,0,null,null
+109,17.2,DJ Bravo,D Ramdin,R Ashwin,1,0,null,1,0,null,null
+110,17.3,D Ramdin,DJ Bravo,R Ashwin,1,0,null,1,0,null,null
+111,17.4,DJ Bravo,D Ramdin,R Ashwin,0,0,null,0,0,null,null
+112,17.5,DJ Bravo,D Ramdin,R Ashwin,1,0,null,1,0,null,null
+113,17.6,D Ramdin,DJ Bravo,R Ashwin,0,0,null,0,0,null,null
+114,18.1,DJ Bravo,D Ramdin,RA Jadeja,0,0,null,0,0,null,null
+115,18.2,DJ Bravo,D Ramdin,RA Jadeja,0,0,null,0,0,null,null
+116,18.3,DJ Bravo,D Ramdin,RA Jadeja,1,0,null,1,0,null,null
+117,18.4,D Ramdin,DJ Bravo,RA Jadeja,2,0,null,2,0,null,null
+118,18.5,D Ramdin,DJ Bravo,RA Jadeja,4,0,null,4,0,null,null
+119,18.6,D Ramdin,DJ Bravo,RA Jadeja,0,0,null,0,0,null,null
+120,19.1,DJ Bravo,D Ramdin,R Ashwin,0,0,null,0,0,null,null
+121,19.2,DJ Bravo,D Ramdin,R Ashwin,0,0,null,0,0,null,null
+122,19.3,DJ Bravo,D Ramdin,R Ashwin,0,0,null,0,0,null,null
+123,19.4,DJ Bravo,D Ramdin,R Ashwin,0,0,null,0,0,null,null
+124,19.5,DJ Bravo,D Ramdin,R Ashwin,6,0,null,6,0,null,null
+125,19.6,DJ Bravo,D Ramdin,R Ashwin,0,0,null,0,0,null,null
+126,20.1,D Ramdin,DJ Bravo,UT Yadav,0,0,null,0,1,D Ramdin,caught
+127,20.2,DJG Sammy,DJ Bravo,UT Yadav,0,0,null,0,0,null,null
+128,20.3,DJG Sammy,DJ Bravo,UT Yadav,2,0,null,2,0,null,null
+129,20.4,DJG Sammy,DJ Bravo,UT Yadav,0,0,null,0,0,null,null
+130,20.5,DJG Sammy,DJ Bravo,UT Yadav,0,4,legbyes ,4,0,null,null
+131,20.6,DJG Sammy,DJ Bravo,UT Yadav,0,4,legbyes ,4,0,null,null
+132,21.1,DJ Bravo,DJG Sammy,RA Jadeja,1,0,null,1,0,null,null
+133,21.2,DJG Sammy,DJ Bravo,RA Jadeja,0,0,null,0,0,null,null
+134,21.3,DJG Sammy,DJ Bravo,RA Jadeja,6,0,null,6,0,null,null
+135,21.4,DJG Sammy,DJ Bravo,RA Jadeja,0,0,null,0,0,null,null
+136,21.5,DJG Sammy,DJ Bravo,RA Jadeja,0,0,null,0,0,null,null
+137,21.6,DJG Sammy,DJ Bravo,RA Jadeja,0,0,null,0,0,null,null
+138,22.1,DJ Bravo,DJG Sammy,UT Yadav,0,0,null,0,0,null,null
+139,22.2,DJ Bravo,DJG Sammy,UT Yadav,0,0,null,0,0,null,null
+140,22.3,DJ Bravo,DJG Sammy,UT Yadav,0,0,null,0,1,DJ Bravo,lbw
+141,22.4,KAJ Roach,DJG Sammy,UT Yadav,0,0,null,0,0,null,null
+142,22.5,KAJ Roach,DJG Sammy,UT Yadav,0,0,null,0,0,null,null
+143,22.6,KAJ Roach,DJG Sammy,UT Yadav,0,1,byes ,1,0,null,null
+144,23.1,KAJ Roach,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+145,23.2,KAJ Roach,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+146,23.3,KAJ Roach,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+147,23.4,KAJ Roach,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+148,23.5,KAJ Roach,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+149,23.6,KAJ Roach,DJG Sammy,RA Jadeja,0,0,null,0,0,null,null
+150,24.1,DJG Sammy,KAJ Roach,UT Yadav,4,0,null,4,0,null,null
+151,24.2,DJG Sammy,KAJ Roach,UT Yadav,0,0,null,0,0,null,null
+152,24.3,DJG Sammy,KAJ Roach,UT Yadav,0,0,null,0,1,DJG Sammy,lbw
+153,24.4,SP Narine,KAJ Roach,UT Yadav,0,0,null,0,0,null,null
+154,24.5,SP Narine,KAJ Roach,UT Yadav,0,0,null,0,0,null,null
+155,24.6,SP Narine,KAJ Roach,UT Yadav,0,0,null,0,0,null,null
+156,25.1,KAJ Roach,SP Narine,RA Jadeja,1,0,null,1,0,null,null
+157,25.2,SP Narine,KAJ Roach,RA Jadeja,1,0,null,1,0,null,null
+158,25.3,KAJ Roach,SP Narine,RA Jadeja,6,0,null,6,0,null,null
+159,25.4,KAJ Roach,SP Narine,RA Jadeja,0,0,null,0,0,null,null
+160,25.5,KAJ Roach,SP Narine,RA Jadeja,4,0,null,4,0,null,null
+161,25.6,KAJ Roach,SP Narine,RA Jadeja,2,0,null,2,0,null,null
+162,26.1,SP Narine,KAJ Roach,R Ashwin,0,0,null,0,0,null,null
+163,26.2,SP Narine,KAJ Roach,R Ashwin,0,0,null,0,0,null,null
+164,26.3,SP Narine,KAJ Roach,R Ashwin,2,0,null,2,0,null,null
+165,26.4,SP Narine,KAJ Roach,R Ashwin,6,0,null,6,0,null,null
+166,26.5,SP Narine,KAJ Roach,R Ashwin,0,0,null,0,0,null,null
+167,26.6,SP Narine,KAJ Roach,R Ashwin,0,0,null,0,0,null,null
+168,27.1,KAJ Roach,SP Narine,I Sharma,0,0,null,0,0,null,null
+169,27.2,KAJ Roach,SP Narine,I Sharma,0,0,null,0,0,null,null
+170,27.3,KAJ Roach,SP Narine,I Sharma,1,0,null,1,0,null,null
+171,27.4,SP Narine,KAJ Roach,I Sharma,0,1,wides ,1,0,null,null
+172,27.5,SP Narine,KAJ Roach,I Sharma,0,0,null,0,0,null,null
+173,27.6,SP Narine,KAJ Roach,I Sharma,0,0,null,0,0,null,null
+174,27.7,SP Narine,KAJ Roach,I Sharma,0,0,null,0,0,null,null
+175,28.1,KAJ Roach,SP Narine,R Ashwin,6,0,null,6,0,null,null
+176,28.2,KAJ Roach,SP Narine,R Ashwin,0,0,null,0,0,null,null
+177,28.3,KAJ Roach,SP Narine,R Ashwin,0,0,null,0,0,null,null
+178,28.4,KAJ Roach,SP Narine,R Ashwin,1,0,null,1,0,null,null
+179,28.5,SP Narine,KAJ Roach,R Ashwin,1,0,null,1,0,null,null
+180,28.6,KAJ Roach,SP Narine,R Ashwin,0,0,null,0,0,null,null
+181,29.1,SP Narine,KAJ Roach,I Sharma,0,0,null,0,0,null,null
+182,29.2,SP Narine,KAJ Roach,I Sharma,0,0,null,0,0,null,null
+183,29.3,SP Narine,KAJ Roach,I Sharma,0,0,null,0,0,null,null
+184,29.4,SP Narine,KAJ Roach,I Sharma,0,0,null,0,0,null,null
+185,29.5,SP Narine,KAJ Roach,I Sharma,0,0,null,0,0,null,null
+186,29.6,SP Narine,KAJ Roach,I Sharma,0,0,null,0,0,null,null
+187,30.1,KAJ Roach,SP Narine,UT Yadav,1,0,null,1,0,null,null
+188,30.2,SP Narine,KAJ Roach,UT Yadav,0,0,null,0,0,null,null
+189,30.3,SP Narine,KAJ Roach,UT Yadav,0,0,null,0,0,null,null
+190,30.4,SP Narine,KAJ Roach,UT Yadav,0,0,null,0,0,null,null
+191,30.5,SP Narine,KAJ Roach,UT Yadav,1,0,null,1,0,null,null
+192,30.6,KAJ Roach,SP Narine,UT Yadav,1,0,null,1,0,null,null
+193,31.1,KAJ Roach,SP Narine,RA Jadeja,4,0,null,4,0,null,null
+194,31.2,KAJ Roach,SP Narine,RA Jadeja,1,0,null,1,0,null,null
+195,31.3,SP Narine,KAJ Roach,RA Jadeja,0,0,null,0,0,null,null
+196,31.4,SP Narine,KAJ Roach,RA Jadeja,0,0,null,0,0,null,null
+197,31.5,SP Narine,KAJ Roach,RA Jadeja,2,0,null,2,0,null,null
+198,31.6,SP Narine,KAJ Roach,RA Jadeja,6,0,null,6,0,null,null
+199,32.1,KAJ Roach,SP Narine,UT Yadav,0,0,null,0,0,null,null
+200,32.2,KAJ Roach,SP Narine,UT Yadav,4,0,null,4,0,null,null
+201,32.3,KAJ Roach,SP Narine,UT Yadav,0,1,wides ,1,0,null,null
+202,32.4,KAJ Roach,SP Narine,UT Yadav,0,1,wides ,1,0,null,null
+203,32.5,KAJ Roach,SP Narine,UT Yadav,0,0,null,0,0,null,null
+204,32.6,KAJ Roach,SP Narine,UT Yadav,1,0,null,1,0,null,null
+205,32.7,SP Narine,KAJ Roach,UT Yadav,0,0,null,0,0,null,null
+206,32.8,SP Narine,KAJ Roach,UT Yadav,1,0,null,1,0,null,null
+207,33.1,SP Narine,KAJ Roach,RA Jadeja,0,0,null,0,0,null,null
+208,33.2,SP Narine,KAJ Roach,RA Jadeja,1,0,null,1,0,null,null
+209,33.3,KAJ Roach,SP Narine,RA Jadeja,0,0,null,0,0,null,null
+210,33.4,KAJ Roach,SP Narine,RA Jadeja,1,0,null,1,0,null,null
+211,33.5,SP Narine,KAJ Roach,RA Jadeja,0,0,null,0,1,SP Narine,caught
+212,33.6,KAJ Roach,TL Best,RA Jadeja,0,0,null,0,1,KAJ Roach,bowled

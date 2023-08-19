@@ -1,0 +1,208 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,T Kaitano,T Marumani,Hasan Mahmud,0,0,null,0,0,null,null
+1,0.2,T Kaitano,T Marumani,Hasan Mahmud,0,0,null,0,0,null,null
+2,0.3,T Kaitano,T Marumani,Hasan Mahmud,0,1,wides ,1,0,null,null
+3,0.4,T Kaitano,T Marumani,Hasan Mahmud,0,4,legbyes ,4,0,null,null
+4,0.5,T Kaitano,T Marumani,Hasan Mahmud,0,0,null,0,0,null,null
+5,0.6,T Kaitano,T Marumani,Hasan Mahmud,0,0,null,0,1,T Kaitano,lbw
+6,0.7,I Kaia,T Marumani,Hasan Mahmud,0,0,null,0,0,null,null
+7,1.1,T Marumani,I Kaia,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+8,1.2,T Marumani,I Kaia,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+9,1.3,I Kaia,T Marumani,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+10,1.4,I Kaia,T Marumani,Mehedi Hasan Miraz,1,0,null,1,0,null,null
+11,1.5,T Marumani,I Kaia,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+12,1.6,T Marumani,I Kaia,Mehedi Hasan Miraz,0,0,null,0,1,T Marumani,bowled
+13,2.1,I Kaia,W Madhevere,Hasan Mahmud,0,0,null,0,0,null,null
+14,2.2,I Kaia,W Madhevere,Hasan Mahmud,0,0,null,0,0,null,null
+15,2.3,I Kaia,W Madhevere,Hasan Mahmud,0,0,null,0,0,null,null
+16,2.4,I Kaia,W Madhevere,Hasan Mahmud,0,5,wides ,5,0,null,null
+17,2.5,I Kaia,W Madhevere,Hasan Mahmud,0,0,null,0,0,null,null
+18,2.6,I Kaia,W Madhevere,Hasan Mahmud,0,0,null,0,0,null,null
+19,2.7,I Kaia,W Madhevere,Hasan Mahmud,0,0,null,0,0,null,null
+20,3.1,W Madhevere,I Kaia,Ebadat Hossain,0,1,wides ,1,0,null,null
+21,3.2,W Madhevere,I Kaia,Ebadat Hossain,0,0,null,0,0,null,null
+22,3.3,W Madhevere,I Kaia,Ebadat Hossain,0,0,null,0,0,null,null
+23,3.4,W Madhevere,I Kaia,Ebadat Hossain,1,0,null,1,0,null,null
+24,3.5,I Kaia,W Madhevere,Ebadat Hossain,0,0,null,0,0,null,null
+25,3.6,I Kaia,W Madhevere,Ebadat Hossain,0,0,null,0,0,null,null
+26,3.7,I Kaia,W Madhevere,Ebadat Hossain,0,1,wides ,1,0,null,null
+27,3.8,I Kaia,W Madhevere,Ebadat Hossain,0,0,null,0,0,null,null
+28,4.1,W Madhevere,I Kaia,Hasan Mahmud,0,0,null,0,0,null,null
+29,4.2,W Madhevere,I Kaia,Hasan Mahmud,0,1,wides ,1,0,null,null
+30,4.3,W Madhevere,I Kaia,Hasan Mahmud,0,0,null,0,0,null,null
+31,4.4,W Madhevere,I Kaia,Hasan Mahmud,0,0,null,0,0,null,null
+32,4.5,W Madhevere,I Kaia,Hasan Mahmud,0,0,null,0,0,null,null
+33,4.6,W Madhevere,I Kaia,Hasan Mahmud,0,0,null,0,0,null,null
+34,4.7,W Madhevere,I Kaia,Hasan Mahmud,0,0,null,0,0,null,null
+35,5.1,I Kaia,W Madhevere,Ebadat Hossain,0,1,wides ,1,0,null,null
+36,5.2,I Kaia,W Madhevere,Ebadat Hossain,0,0,null,0,0,null,null
+37,5.3,I Kaia,W Madhevere,Ebadat Hossain,1,0,null,1,0,null,null
+38,5.4,W Madhevere,I Kaia,Ebadat Hossain,0,0,null,0,1,W Madhevere,caught
+39,5.5,Sikandar Raza,I Kaia,Ebadat Hossain,0,0,null,0,1,Sikandar Raza,bowled
+40,5.6,C Madande,I Kaia,Ebadat Hossain,0,1,noballs ,1,0,null,null
+41,5.7,C Madande,I Kaia,Ebadat Hossain,0,0,null,0,0,null,null
+42,5.8,C Madande,I Kaia,Ebadat Hossain,0,0,null,0,0,null,null
+43,6.1,I Kaia,C Madande,Hasan Mahmud,4,0,null,4,0,null,null
+44,6.2,I Kaia,C Madande,Hasan Mahmud,4,0,null,4,0,null,null
+45,6.3,I Kaia,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+46,6.4,I Kaia,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+47,6.5,I Kaia,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+48,6.6,I Kaia,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+49,7.1,C Madande,I Kaia,Ebadat Hossain,0,0,null,0,0,null,null
+50,7.2,C Madande,I Kaia,Ebadat Hossain,0,0,null,0,0,null,null
+51,7.3,C Madande,I Kaia,Ebadat Hossain,0,0,null,0,0,null,null
+52,7.4,C Madande,I Kaia,Ebadat Hossain,0,0,null,0,0,null,null
+53,7.5,C Madande,I Kaia,Ebadat Hossain,0,0,null,0,0,null,null
+54,7.6,C Madande,I Kaia,Ebadat Hossain,4,0,null,4,0,null,null
+55,8.1,I Kaia,C Madande,Taijul Islam,0,0,null,0,0,null,null
+56,8.2,I Kaia,C Madande,Taijul Islam,0,0,null,0,1,I Kaia,lbw
+57,8.3,T Munyonga,C Madande,Taijul Islam,0,0,null,0,0,null,null
+58,8.4,T Munyonga,C Madande,Taijul Islam,1,0,null,1,0,null,null
+59,8.5,C Madande,T Munyonga,Taijul Islam,0,0,null,0,0,null,null
+60,8.6,C Madande,T Munyonga,Taijul Islam,0,0,null,0,0,null,null
+61,9.1,T Munyonga,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+62,9.2,T Munyonga,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+63,9.3,T Munyonga,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+64,9.4,T Munyonga,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+65,9.5,T Munyonga,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+66,9.6,T Munyonga,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+67,10.1,C Madande,T Munyonga,Taijul Islam,0,0,null,0,0,null,null
+68,10.2,C Madande,T Munyonga,Taijul Islam,2,0,null,2,0,null,null
+69,10.3,C Madande,T Munyonga,Taijul Islam,0,0,null,0,0,null,null
+70,10.4,C Madande,T Munyonga,Taijul Islam,0,0,null,0,0,null,null
+71,10.5,C Madande,T Munyonga,Taijul Islam,0,0,null,0,0,null,null
+72,10.6,C Madande,T Munyonga,Taijul Islam,0,0,null,0,0,null,null
+73,11.1,T Munyonga,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+74,11.2,T Munyonga,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+75,11.3,T Munyonga,C Madande,Ebadat Hossain,0,1,wides ,1,0,null,null
+76,11.4,T Munyonga,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+77,11.5,T Munyonga,C Madande,Ebadat Hossain,4,0,null,4,0,null,null
+78,11.6,T Munyonga,C Madande,Ebadat Hossain,4,0,null,4,0,null,null
+79,11.7,T Munyonga,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+80,12.1,C Madande,T Munyonga,Mustafizur Rahman,0,0,null,0,0,null,null
+81,12.2,C Madande,T Munyonga,Mustafizur Rahman,0,0,null,0,0,null,null
+82,12.3,C Madande,T Munyonga,Mustafizur Rahman,1,0,null,1,0,null,null
+83,12.4,T Munyonga,C Madande,Mustafizur Rahman,0,0,null,0,0,null,null
+84,12.5,T Munyonga,C Madande,Mustafizur Rahman,2,0,null,2,0,null,null
+85,12.6,T Munyonga,C Madande,Mustafizur Rahman,2,0,null,2,0,null,null
+86,13.1,C Madande,T Munyonga,Taijul Islam,1,0,null,1,0,null,null
+87,13.2,T Munyonga,C Madande,Taijul Islam,0,0,null,0,1,T Munyonga,stumped
+88,13.3,LM Jongwe,C Madande,Taijul Islam,0,0,null,0,0,null,null
+89,13.4,LM Jongwe,C Madande,Taijul Islam,1,0,null,1,0,null,null
+90,13.5,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+91,13.6,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+92,14.1,LM Jongwe,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+93,14.2,LM Jongwe,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+94,14.3,LM Jongwe,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+95,14.4,LM Jongwe,C Madande,Hasan Mahmud,4,0,null,4,0,null,null
+96,14.5,LM Jongwe,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+97,14.6,LM Jongwe,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+98,15.1,C Madande,LM Jongwe,Taijul Islam,1,0,null,1,0,null,null
+99,15.2,LM Jongwe,C Madande,Taijul Islam,1,0,null,1,0,null,null
+100,15.3,C Madande,LM Jongwe,Taijul Islam,4,0,null,4,0,null,null
+101,15.4,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+102,15.5,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+103,15.6,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+104,16.1,LM Jongwe,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+105,16.2,LM Jongwe,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+106,16.3,LM Jongwe,C Madande,Hasan Mahmud,1,0,null,1,0,null,null
+107,16.4,C Madande,LM Jongwe,Hasan Mahmud,1,0,null,1,0,null,null
+108,16.5,LM Jongwe,C Madande,Hasan Mahmud,0,0,null,0,0,null,null
+109,16.6,LM Jongwe,C Madande,Hasan Mahmud,4,0,null,4,0,null,null
+110,17.1,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+111,17.2,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+112,17.3,C Madande,LM Jongwe,Taijul Islam,4,0,null,4,0,null,null
+113,17.4,C Madande,LM Jongwe,Taijul Islam,1,0,null,1,0,null,null
+114,17.5,LM Jongwe,C Madande,Taijul Islam,1,0,null,1,0,null,null
+115,17.6,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+116,18.1,LM Jongwe,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+117,18.2,LM Jongwe,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+118,18.3,LM Jongwe,C Madande,Ebadat Hossain,0,0,null,0,0,null,null
+119,18.4,LM Jongwe,C Madande,Ebadat Hossain,1,0,null,1,0,null,null
+120,18.5,C Madande,LM Jongwe,Ebadat Hossain,0,0,null,0,0,null,null
+121,18.6,C Madande,LM Jongwe,Ebadat Hossain,0,1,wides ,1,0,null,null
+122,18.7,C Madande,LM Jongwe,Ebadat Hossain,0,0,null,0,0,null,null
+123,19.1,LM Jongwe,C Madande,Taijul Islam,0,0,null,0,0,null,null
+124,19.2,LM Jongwe,C Madande,Taijul Islam,1,0,null,1,0,null,null
+125,19.3,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+126,19.4,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+127,19.5,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+128,19.6,C Madande,LM Jongwe,Taijul Islam,0,0,null,0,0,null,null
+129,20.1,LM Jongwe,C Madande,Mustafizur Rahman,1,0,null,1,0,null,null
+130,20.2,C Madande,LM Jongwe,Mustafizur Rahman,1,0,null,1,0,null,null
+131,20.3,LM Jongwe,C Madande,Mustafizur Rahman,0,0,null,0,0,null,null
+132,20.4,LM Jongwe,C Madande,Mustafizur Rahman,0,0,null,0,0,null,null
+133,20.5,LM Jongwe,C Madande,Mustafizur Rahman,0,0,null,0,1,LM Jongwe,caught
+134,20.6,C Madande,B Evans,Mustafizur Rahman,0,0,null,0,0,null,null
+135,21.1,B Evans,C Madande,Taijul Islam,0,0,null,0,0,null,null
+136,21.2,B Evans,C Madande,Taijul Islam,0,0,null,0,0,null,null
+137,21.3,B Evans,C Madande,Taijul Islam,0,0,null,0,0,null,null
+138,21.4,B Evans,C Madande,Taijul Islam,2,0,null,2,0,null,null
+139,21.5,B Evans,C Madande,Taijul Islam,0,0,null,0,0,null,null
+140,21.6,B Evans,C Madande,Taijul Islam,0,0,null,0,0,null,null
+141,22.1,C Madande,B Evans,Mustafizur Rahman,4,0,null,4,0,null,null
+142,22.2,C Madande,B Evans,Mustafizur Rahman,0,0,null,0,0,null,null
+143,22.3,C Madande,B Evans,Mustafizur Rahman,0,0,null,0,1,C Madande,caught
+144,22.4,B Evans,R Ngarava,Mustafizur Rahman,0,0,null,0,0,null,null
+145,22.5,B Evans,R Ngarava,Mustafizur Rahman,0,0,null,0,0,null,null
+146,22.6,B Evans,R Ngarava,Mustafizur Rahman,0,0,null,0,1,B Evans,caught
+147,23.1,R Ngarava,VM Nyauchi,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+148,23.2,R Ngarava,VM Nyauchi,Mehedi Hasan Miraz,4,0,null,4,0,null,null
+149,23.3,R Ngarava,VM Nyauchi,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+150,23.4,R Ngarava,VM Nyauchi,Mehedi Hasan Miraz,4,0,null,4,0,null,null
+151,23.5,R Ngarava,VM Nyauchi,Mehedi Hasan Miraz,0,0,null,0,0,null,null
+152,23.6,R Ngarava,VM Nyauchi,Mehedi Hasan Miraz,6,0,null,6,0,null,null
+153,24.1,VM Nyauchi,R Ngarava,Mustafizur Rahman,0,0,null,0,0,null,null
+154,24.2,VM Nyauchi,R Ngarava,Mustafizur Rahman,0,0,null,0,0,null,null
+155,24.3,VM Nyauchi,R Ngarava,Mustafizur Rahman,0,0,null,0,0,null,null
+156,24.4,VM Nyauchi,R Ngarava,Mustafizur Rahman,0,0,null,0,0,null,null
+157,24.5,VM Nyauchi,R Ngarava,Mustafizur Rahman,0,0,null,0,0,null,null
+158,24.6,VM Nyauchi,R Ngarava,Mustafizur Rahman,1,0,null,1,0,null,null
+159,25.1,VM Nyauchi,R Ngarava,Hasan Mahmud,0,0,null,0,0,null,null
+160,25.2,VM Nyauchi,R Ngarava,Hasan Mahmud,0,0,null,0,0,null,null
+161,25.3,VM Nyauchi,R Ngarava,Hasan Mahmud,0,4,byes ,4,0,null,null
+162,25.4,VM Nyauchi,R Ngarava,Hasan Mahmud,0,1,noballs ,1,0,null,null
+163,25.5,VM Nyauchi,R Ngarava,Hasan Mahmud,1,0,null,1,0,null,null
+164,25.6,R Ngarava,VM Nyauchi,Hasan Mahmud,0,1,wides ,1,0,null,null
+165,25.7,R Ngarava,VM Nyauchi,Hasan Mahmud,0,1,noballs ,1,0,null,null
+166,25.8,R Ngarava,VM Nyauchi,Hasan Mahmud,0,0,null,0,0,null,null
+167,25.9,R Ngarava,VM Nyauchi,Hasan Mahmud,0,0,null,0,0,null,null
+168,26.1,VM Nyauchi,R Ngarava,Taijul Islam,1,0,null,1,0,null,null
+169,26.2,R Ngarava,VM Nyauchi,Taijul Islam,1,0,null,1,0,null,null
+170,26.3,VM Nyauchi,R Ngarava,Taijul Islam,0,0,null,0,0,null,null
+171,26.4,VM Nyauchi,R Ngarava,Taijul Islam,0,0,null,0,0,null,null
+172,26.5,VM Nyauchi,R Ngarava,Taijul Islam,0,0,null,0,0,null,null
+173,26.6,VM Nyauchi,R Ngarava,Taijul Islam,0,0,null,0,0,null,null
+174,27.1,R Ngarava,VM Nyauchi,Hasan Mahmud,4,0,null,4,0,null,null
+175,27.2,R Ngarava,VM Nyauchi,Hasan Mahmud,0,0,null,0,0,null,null
+176,27.3,R Ngarava,VM Nyauchi,Hasan Mahmud,1,0,null,1,0,null,null
+177,27.4,VM Nyauchi,R Ngarava,Hasan Mahmud,0,0,null,0,0,null,null
+178,27.5,VM Nyauchi,R Ngarava,Hasan Mahmud,0,0,null,0,0,null,null
+179,27.6,VM Nyauchi,R Ngarava,Hasan Mahmud,4,0,null,4,0,null,null
+180,28.1,R Ngarava,VM Nyauchi,Taijul Islam,0,0,null,0,0,null,null
+181,28.2,R Ngarava,VM Nyauchi,Taijul Islam,0,0,null,0,0,null,null
+182,28.3,R Ngarava,VM Nyauchi,Taijul Islam,1,0,null,1,0,null,null
+183,28.4,VM Nyauchi,R Ngarava,Taijul Islam,6,0,null,6,0,null,null
+184,28.5,VM Nyauchi,R Ngarava,Taijul Islam,1,0,null,1,0,null,null
+185,28.6,R Ngarava,VM Nyauchi,Taijul Islam,4,0,null,4,0,null,null
+186,29.1,VM Nyauchi,R Ngarava,Ebadat Hossain,0,0,null,0,0,null,null
+187,29.2,VM Nyauchi,R Ngarava,Ebadat Hossain,4,0,null,4,0,null,null
+188,29.3,VM Nyauchi,R Ngarava,Ebadat Hossain,0,1,wides ,1,0,null,null
+189,29.4,VM Nyauchi,R Ngarava,Ebadat Hossain,1,0,null,1,0,null,null
+190,29.5,R Ngarava,VM Nyauchi,Ebadat Hossain,4,0,null,4,0,null,null
+191,29.6,R Ngarava,VM Nyauchi,Ebadat Hossain,0,0,null,0,0,null,null
+192,29.7,R Ngarava,VM Nyauchi,Ebadat Hossain,0,0,null,0,0,null,null
+193,30.1,VM Nyauchi,R Ngarava,Mustafizur Rahman,4,0,null,4,0,null,null
+194,30.2,VM Nyauchi,R Ngarava,Mustafizur Rahman,1,0,null,1,0,null,null
+195,30.3,R Ngarava,VM Nyauchi,Mustafizur Rahman,0,0,null,0,0,null,null
+196,30.4,R Ngarava,VM Nyauchi,Mustafizur Rahman,0,0,null,0,0,null,null
+197,30.5,R Ngarava,VM Nyauchi,Mustafizur Rahman,0,0,null,0,0,null,null
+198,30.6,R Ngarava,VM Nyauchi,Mustafizur Rahman,0,0,null,0,0,null,null
+199,31.1,VM Nyauchi,R Ngarava,Ebadat Hossain,1,0,null,1,0,null,null
+200,31.2,R Ngarava,VM Nyauchi,Ebadat Hossain,4,0,null,4,0,null,null
+201,31.3,R Ngarava,VM Nyauchi,Ebadat Hossain,1,0,null,1,0,null,null
+202,31.4,VM Nyauchi,R Ngarava,Ebadat Hossain,0,0,null,0,0,null,null
+203,31.5,VM Nyauchi,R Ngarava,Ebadat Hossain,1,0,null,1,0,null,null
+204,31.6,R Ngarava,VM Nyauchi,Ebadat Hossain,0,0,null,0,0,null,null
+205,32.1,VM Nyauchi,R Ngarava,Mustafizur Rahman,0,0,null,0,0,null,null
+206,32.2,VM Nyauchi,R Ngarava,Mustafizur Rahman,0,0,null,0,1,VM Nyauchi,bowled

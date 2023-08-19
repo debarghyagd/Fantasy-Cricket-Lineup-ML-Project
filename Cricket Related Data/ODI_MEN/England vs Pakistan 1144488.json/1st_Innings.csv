@@ -1,0 +1,310 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Imam-ul-Haq,Fakhar Zaman,CR Woakes,0,0,null,0,0,null,null
+1,0.2,Imam-ul-Haq,Fakhar Zaman,CR Woakes,1,0,null,1,0,null,null
+2,0.3,Fakhar Zaman,Imam-ul-Haq,CR Woakes,0,0,null,0,0,null,null
+3,0.4,Fakhar Zaman,Imam-ul-Haq,CR Woakes,4,0,null,4,0,null,null
+4,0.5,Fakhar Zaman,Imam-ul-Haq,CR Woakes,0,0,null,0,0,null,null
+5,0.6,Fakhar Zaman,Imam-ul-Haq,CR Woakes,4,0,null,4,0,null,null
+6,1.1,Imam-ul-Haq,Fakhar Zaman,JC Archer,1,0,null,1,0,null,null
+7,1.2,Fakhar Zaman,Imam-ul-Haq,JC Archer,0,4,legbyes ,4,0,null,null
+8,1.3,Fakhar Zaman,Imam-ul-Haq,JC Archer,0,0,null,0,0,null,null
+9,1.4,Fakhar Zaman,Imam-ul-Haq,JC Archer,0,0,null,0,0,null,null
+10,1.5,Fakhar Zaman,Imam-ul-Haq,JC Archer,0,0,null,0,0,null,null
+11,1.6,Fakhar Zaman,Imam-ul-Haq,JC Archer,0,0,null,0,0,null,null
+12,2.1,Imam-ul-Haq,Fakhar Zaman,CR Woakes,0,0,null,0,0,null,null
+13,2.2,Imam-ul-Haq,Fakhar Zaman,CR Woakes,0,0,null,0,0,null,null
+14,2.3,Imam-ul-Haq,Fakhar Zaman,CR Woakes,0,0,null,0,0,null,null
+15,2.4,Imam-ul-Haq,Fakhar Zaman,CR Woakes,0,0,null,0,0,null,null
+16,2.5,Imam-ul-Haq,Fakhar Zaman,CR Woakes,0,0,null,0,0,null,null
+17,2.6,Imam-ul-Haq,Fakhar Zaman,CR Woakes,0,0,null,0,0,null,null
+18,3.1,Fakhar Zaman,Imam-ul-Haq,JC Archer,0,0,null,0,0,null,null
+19,3.2,Fakhar Zaman,Imam-ul-Haq,JC Archer,4,0,null,4,0,null,null
+20,3.3,Fakhar Zaman,Imam-ul-Haq,JC Archer,0,1,byes ,1,0,null,null
+21,3.4,Imam-ul-Haq,Fakhar Zaman,JC Archer,0,0,null,0,0,null,null
+22,3.5,Imam-ul-Haq,Fakhar Zaman,JC Archer,0,0,null,0,0,null,null
+23,3.6,Imam-ul-Haq,Fakhar Zaman,JC Archer,1,0,null,1,0,null,null
+24,4.1,Imam-ul-Haq,Fakhar Zaman,CR Woakes,0,0,null,0,0,null,null
+25,4.2,Imam-ul-Haq,Fakhar Zaman,CR Woakes,0,0,null,0,0,null,null
+26,4.3,Imam-ul-Haq,Fakhar Zaman,CR Woakes,6,0,null,6,0,null,null
+27,4.4,Imam-ul-Haq,Fakhar Zaman,CR Woakes,4,0,null,4,0,null,null
+28,4.5,Imam-ul-Haq,Fakhar Zaman,CR Woakes,1,0,null,1,0,null,null
+29,4.6,Fakhar Zaman,Imam-ul-Haq,CR Woakes,0,0,null,0,0,null,null
+30,5.1,Imam-ul-Haq,Fakhar Zaman,JC Archer,1,0,null,1,0,null,null
+31,5.2,Fakhar Zaman,Imam-ul-Haq,JC Archer,4,0,null,4,0,null,null
+32,5.3,Fakhar Zaman,Imam-ul-Haq,JC Archer,0,0,null,0,0,null,null
+33,5.4,Fakhar Zaman,Imam-ul-Haq,JC Archer,0,0,null,0,0,null,null
+34,5.5,Fakhar Zaman,Imam-ul-Haq,JC Archer,1,0,null,1,0,null,null
+35,5.6,Imam-ul-Haq,Fakhar Zaman,JC Archer,0,0,null,0,0,null,null
+36,6.1,Fakhar Zaman,Imam-ul-Haq,CR Woakes,4,0,null,4,0,null,null
+37,6.2,Fakhar Zaman,Imam-ul-Haq,CR Woakes,4,0,null,4,0,null,null
+38,6.3,Fakhar Zaman,Imam-ul-Haq,CR Woakes,1,0,null,1,0,null,null
+39,6.4,Imam-ul-Haq,Fakhar Zaman,CR Woakes,2,0,null,2,0,null,null
+40,6.5,Imam-ul-Haq,Fakhar Zaman,CR Woakes,1,0,null,1,0,null,null
+41,6.6,Fakhar Zaman,Imam-ul-Haq,CR Woakes,0,0,null,0,0,null,null
+42,7.1,Imam-ul-Haq,Fakhar Zaman,JC Archer,0,0,null,0,0,null,null
+43,7.2,Imam-ul-Haq,Fakhar Zaman,JC Archer,4,0,null,4,0,null,null
+44,7.3,Imam-ul-Haq,Fakhar Zaman,JC Archer,0,0,null,0,0,null,null
+45,7.4,Imam-ul-Haq,Fakhar Zaman,JC Archer,2,0,null,2,0,null,null
+46,7.5,Imam-ul-Haq,Fakhar Zaman,JC Archer,0,2,wides ,2,0,null,null
+47,7.6,Fakhar Zaman,Imam-ul-Haq,JC Archer,2,0,null,2,0,null,null
+48,7.7,Fakhar Zaman,Imam-ul-Haq,JC Archer,0,1,wides ,1,0,null,null
+49,7.8,Fakhar Zaman,Imam-ul-Haq,JC Archer,2,0,null,2,0,null,null
+50,8.1,Imam-ul-Haq,Fakhar Zaman,MM Ali,0,0,null,0,0,null,null
+51,8.2,Imam-ul-Haq,Fakhar Zaman,MM Ali,4,0,null,4,0,null,null
+52,8.3,Imam-ul-Haq,Fakhar Zaman,MM Ali,0,0,null,0,0,null,null
+53,8.4,Imam-ul-Haq,Fakhar Zaman,MM Ali,0,0,null,0,0,null,null
+54,8.5,Imam-ul-Haq,Fakhar Zaman,MM Ali,1,0,null,1,0,null,null
+55,8.6,Fakhar Zaman,Imam-ul-Haq,MM Ali,0,0,null,0,0,null,null
+56,9.1,Imam-ul-Haq,Fakhar Zaman,MA Wood,0,0,null,0,0,null,null
+57,9.2,Imam-ul-Haq,Fakhar Zaman,MA Wood,1,0,null,1,0,null,null
+58,9.3,Fakhar Zaman,Imam-ul-Haq,MA Wood,0,0,null,0,0,null,null
+59,9.4,Fakhar Zaman,Imam-ul-Haq,MA Wood,1,0,null,1,0,null,null
+60,9.5,Imam-ul-Haq,Fakhar Zaman,MA Wood,0,0,null,0,0,null,null
+61,9.6,Imam-ul-Haq,Fakhar Zaman,MA Wood,0,0,null,0,0,null,null
+62,10.1,Fakhar Zaman,Imam-ul-Haq,MM Ali,0,0,null,0,0,null,null
+63,10.2,Fakhar Zaman,Imam-ul-Haq,MM Ali,0,0,null,0,0,null,null
+64,10.3,Fakhar Zaman,Imam-ul-Haq,MM Ali,1,0,null,1,0,null,null
+65,10.4,Imam-ul-Haq,Fakhar Zaman,MM Ali,1,0,null,1,0,null,null
+66,10.5,Fakhar Zaman,Imam-ul-Haq,MM Ali,1,0,null,1,0,null,null
+67,10.6,Imam-ul-Haq,Fakhar Zaman,MM Ali,1,0,null,1,0,null,null
+68,11.1,Imam-ul-Haq,Fakhar Zaman,MA Wood,0,0,null,0,0,null,null
+69,11.2,Imam-ul-Haq,Fakhar Zaman,MA Wood,1,0,null,1,0,null,null
+70,11.3,Fakhar Zaman,Imam-ul-Haq,MA Wood,0,0,null,0,0,null,null
+71,11.4,Fakhar Zaman,Imam-ul-Haq,MA Wood,1,0,null,1,0,null,null
+72,11.5,Imam-ul-Haq,Fakhar Zaman,MA Wood,1,0,null,1,0,null,null
+73,11.6,Fakhar Zaman,Imam-ul-Haq,MA Wood,0,0,null,0,0,null,null
+74,12.1,Imam-ul-Haq,Fakhar Zaman,MM Ali,1,0,null,1,0,null,null
+75,12.2,Fakhar Zaman,Imam-ul-Haq,MM Ali,0,0,null,0,0,null,null
+76,12.3,Fakhar Zaman,Imam-ul-Haq,MM Ali,0,0,null,0,0,null,null
+77,12.4,Fakhar Zaman,Imam-ul-Haq,MM Ali,1,0,null,1,0,null,null
+78,12.5,Imam-ul-Haq,Fakhar Zaman,MM Ali,0,0,null,0,0,null,null
+79,12.6,Imam-ul-Haq,Fakhar Zaman,MM Ali,1,0,null,1,0,null,null
+80,13.1,Imam-ul-Haq,Fakhar Zaman,MA Wood,0,0,null,0,0,null,null
+81,13.2,Imam-ul-Haq,Fakhar Zaman,MA Wood,1,0,null,1,0,null,null
+82,13.3,Fakhar Zaman,Imam-ul-Haq,MA Wood,0,0,null,0,0,null,null
+83,13.4,Fakhar Zaman,Imam-ul-Haq,MA Wood,0,0,null,0,0,null,null
+84,13.5,Fakhar Zaman,Imam-ul-Haq,MA Wood,1,0,null,1,0,null,null
+85,13.6,Imam-ul-Haq,Fakhar Zaman,MA Wood,0,1,wides ,1,0,null,null
+86,13.7,Imam-ul-Haq,Fakhar Zaman,MA Wood,0,0,null,0,0,null,null
+87,14.1,Fakhar Zaman,Imam-ul-Haq,MM Ali,0,0,null,0,1,Fakhar Zaman,stumped
+88,14.2,Babar Azam,Imam-ul-Haq,MM Ali,0,0,null,0,0,null,null
+89,14.3,Babar Azam,Imam-ul-Haq,MM Ali,1,0,null,1,0,null,null
+90,14.4,Imam-ul-Haq,Babar Azam,MM Ali,1,0,null,1,0,null,null
+91,14.5,Babar Azam,Imam-ul-Haq,MM Ali,1,0,null,1,0,null,null
+92,14.6,Imam-ul-Haq,Babar Azam,MM Ali,0,0,null,0,0,null,null
+93,15.1,Babar Azam,Imam-ul-Haq,MA Wood,0,0,null,0,0,null,null
+94,15.2,Babar Azam,Imam-ul-Haq,MA Wood,0,0,null,0,0,null,null
+95,15.3,Babar Azam,Imam-ul-Haq,MA Wood,0,0,null,0,0,null,null
+96,15.4,Babar Azam,Imam-ul-Haq,MA Wood,4,0,null,4,0,null,null
+97,15.5,Babar Azam,Imam-ul-Haq,MA Wood,0,0,null,0,0,null,null
+98,15.6,Babar Azam,Imam-ul-Haq,MA Wood,1,0,null,1,0,null,null
+99,16.1,Babar Azam,Imam-ul-Haq,MM Ali,1,0,null,1,0,null,null
+100,16.2,Imam-ul-Haq,Babar Azam,MM Ali,0,0,null,0,0,null,null
+101,16.3,Imam-ul-Haq,Babar Azam,MM Ali,1,0,null,1,0,null,null
+102,16.4,Babar Azam,Imam-ul-Haq,MM Ali,2,0,null,2,0,null,null
+103,16.5,Babar Azam,Imam-ul-Haq,MM Ali,1,0,null,1,0,null,null
+104,16.6,Imam-ul-Haq,Babar Azam,MM Ali,0,0,null,0,0,null,null
+105,17.1,Babar Azam,Imam-ul-Haq,BA Stokes,0,0,null,0,0,null,null
+106,17.2,Babar Azam,Imam-ul-Haq,BA Stokes,1,0,null,1,0,null,null
+107,17.3,Imam-ul-Haq,Babar Azam,BA Stokes,1,0,null,1,0,null,null
+108,17.4,Babar Azam,Imam-ul-Haq,BA Stokes,1,0,null,1,0,null,null
+109,17.5,Imam-ul-Haq,Babar Azam,BA Stokes,1,0,null,1,0,null,null
+110,17.6,Babar Azam,Imam-ul-Haq,BA Stokes,1,0,null,1,0,null,null
+111,18.1,Babar Azam,Imam-ul-Haq,MM Ali,0,0,null,0,0,null,null
+112,18.2,Babar Azam,Imam-ul-Haq,MM Ali,1,0,null,1,0,null,null
+113,18.3,Imam-ul-Haq,Babar Azam,MM Ali,1,0,null,1,0,null,null
+114,18.4,Babar Azam,Imam-ul-Haq,MM Ali,1,0,null,1,0,null,null
+115,18.5,Imam-ul-Haq,Babar Azam,MM Ali,1,0,null,1,0,null,null
+116,18.6,Babar Azam,Imam-ul-Haq,MM Ali,4,0,null,4,0,null,null
+117,19.1,Imam-ul-Haq,Babar Azam,BA Stokes,0,1,legbyes ,1,0,null,null
+118,19.2,Babar Azam,Imam-ul-Haq,BA Stokes,0,0,null,0,0,null,null
+119,19.3,Babar Azam,Imam-ul-Haq,BA Stokes,1,0,null,1,0,null,null
+120,19.4,Imam-ul-Haq,Babar Azam,BA Stokes,0,0,null,0,0,null,null
+121,19.5,Imam-ul-Haq,Babar Azam,BA Stokes,1,0,null,1,0,null,null
+122,19.6,Babar Azam,Imam-ul-Haq,BA Stokes,0,0,null,0,0,null,null
+123,20.1,Imam-ul-Haq,Babar Azam,MM Ali,0,0,null,0,1,Imam-ul-Haq,caught
+124,20.2,Babar Azam,Mohammad Hafeez,MM Ali,0,0,null,0,0,null,null
+125,20.3,Babar Azam,Mohammad Hafeez,MM Ali,2,0,null,2,0,null,null
+126,20.4,Babar Azam,Mohammad Hafeez,MM Ali,1,0,null,1,0,null,null
+127,20.5,Mohammad Hafeez,Babar Azam,MM Ali,4,0,null,4,0,null,null
+128,20.6,Mohammad Hafeez,Babar Azam,MM Ali,1,0,null,1,0,null,null
+129,21.1,Mohammad Hafeez,Babar Azam,BA Stokes,1,0,null,1,0,null,null
+130,21.2,Babar Azam,Mohammad Hafeez,BA Stokes,1,0,null,1,0,null,null
+131,21.3,Mohammad Hafeez,Babar Azam,BA Stokes,1,0,null,1,0,null,null
+132,21.4,Babar Azam,Mohammad Hafeez,BA Stokes,1,0,null,1,0,null,null
+133,21.5,Mohammad Hafeez,Babar Azam,BA Stokes,4,0,null,4,0,null,null
+134,21.6,Mohammad Hafeez,Babar Azam,BA Stokes,1,0,null,1,0,null,null
+135,22.1,Mohammad Hafeez,Babar Azam,AU Rashid,1,0,null,1,0,null,null
+136,22.2,Babar Azam,Mohammad Hafeez,AU Rashid,0,0,null,0,0,null,null
+137,22.3,Babar Azam,Mohammad Hafeez,AU Rashid,1,0,null,1,0,null,null
+138,22.4,Mohammad Hafeez,Babar Azam,AU Rashid,1,0,null,1,0,null,null
+139,22.5,Babar Azam,Mohammad Hafeez,AU Rashid,1,0,null,1,0,null,null
+140,22.6,Mohammad Hafeez,Babar Azam,AU Rashid,0,0,null,0,0,null,null
+141,23.1,Babar Azam,Mohammad Hafeez,BA Stokes,0,0,null,0,0,null,null
+142,23.2,Babar Azam,Mohammad Hafeez,BA Stokes,0,0,null,0,0,null,null
+143,23.3,Babar Azam,Mohammad Hafeez,BA Stokes,1,0,null,1,0,null,null
+144,23.4,Mohammad Hafeez,Babar Azam,BA Stokes,0,0,null,0,0,null,null
+145,23.5,Mohammad Hafeez,Babar Azam,BA Stokes,0,1,legbyes ,1,0,null,null
+146,23.6,Babar Azam,Mohammad Hafeez,BA Stokes,0,0,null,0,0,null,null
+147,24.1,Mohammad Hafeez,Babar Azam,AU Rashid,1,0,null,1,0,null,null
+148,24.2,Babar Azam,Mohammad Hafeez,AU Rashid,0,0,null,0,0,null,null
+149,24.3,Babar Azam,Mohammad Hafeez,AU Rashid,0,2,wides ,2,0,null,null
+150,24.4,Mohammad Hafeez,Babar Azam,AU Rashid,1,0,null,1,0,null,null
+151,24.5,Babar Azam,Mohammad Hafeez,AU Rashid,1,0,null,1,0,null,null
+152,24.6,Mohammad Hafeez,Babar Azam,AU Rashid,1,0,null,1,0,null,null
+153,24.7,Babar Azam,Mohammad Hafeez,AU Rashid,1,0,null,1,0,null,null
+154,25.1,Babar Azam,Mohammad Hafeez,BA Stokes,2,0,null,2,0,null,null
+155,25.2,Babar Azam,Mohammad Hafeez,BA Stokes,0,0,null,0,0,null,null
+156,25.3,Babar Azam,Mohammad Hafeez,BA Stokes,0,0,null,0,0,null,null
+157,25.4,Babar Azam,Mohammad Hafeez,BA Stokes,1,0,null,1,0,null,null
+158,25.5,Mohammad Hafeez,Babar Azam,BA Stokes,1,0,null,1,0,null,null
+159,25.6,Babar Azam,Mohammad Hafeez,BA Stokes,1,0,null,1,0,null,null
+160,26.1,Babar Azam,Mohammad Hafeez,AU Rashid,4,0,null,4,0,null,null
+161,26.2,Babar Azam,Mohammad Hafeez,AU Rashid,6,0,null,6,0,null,null
+162,26.3,Babar Azam,Mohammad Hafeez,AU Rashid,0,0,null,0,0,null,null
+163,26.4,Babar Azam,Mohammad Hafeez,AU Rashid,0,0,null,0,0,null,null
+164,26.5,Babar Azam,Mohammad Hafeez,AU Rashid,0,0,null,0,0,null,null
+165,26.6,Babar Azam,Mohammad Hafeez,AU Rashid,4,0,null,4,0,null,null
+166,27.1,Mohammad Hafeez,Babar Azam,JC Archer,0,0,null,0,0,null,null
+167,27.2,Mohammad Hafeez,Babar Azam,JC Archer,0,0,null,0,0,null,null
+168,27.3,Mohammad Hafeez,Babar Azam,JC Archer,0,0,null,0,0,null,null
+169,27.4,Mohammad Hafeez,Babar Azam,JC Archer,0,1,wides ,1,0,null,null
+170,27.5,Mohammad Hafeez,Babar Azam,JC Archer,1,0,null,1,0,null,null
+171,27.6,Babar Azam,Mohammad Hafeez,JC Archer,2,0,null,2,0,null,null
+172,27.7,Babar Azam,Mohammad Hafeez,JC Archer,1,0,null,1,0,null,null
+173,28.1,Babar Azam,Mohammad Hafeez,AU Rashid,1,0,null,1,0,null,null
+174,28.2,Mohammad Hafeez,Babar Azam,AU Rashid,1,0,null,1,0,null,null
+175,28.3,Babar Azam,Mohammad Hafeez,AU Rashid,0,0,null,0,0,null,null
+176,28.4,Babar Azam,Mohammad Hafeez,AU Rashid,2,0,null,2,0,null,null
+177,28.5,Babar Azam,Mohammad Hafeez,AU Rashid,0,0,null,0,0,null,null
+178,28.6,Babar Azam,Mohammad Hafeez,AU Rashid,1,0,null,1,0,null,null
+179,29.1,Babar Azam,Mohammad Hafeez,JC Archer,0,0,null,0,0,null,null
+180,29.2,Babar Azam,Mohammad Hafeez,JC Archer,2,0,null,2,0,null,null
+181,29.3,Babar Azam,Mohammad Hafeez,JC Archer,0,0,null,0,0,null,null
+182,29.4,Babar Azam,Mohammad Hafeez,JC Archer,2,0,null,2,0,null,null
+183,29.5,Babar Azam,Mohammad Hafeez,JC Archer,1,0,null,1,0,null,null
+184,29.6,Mohammad Hafeez,Babar Azam,JC Archer,1,0,null,1,0,null,null
+185,30.1,Mohammad Hafeez,Babar Azam,AU Rashid,1,0,null,1,0,null,null
+186,30.2,Babar Azam,Mohammad Hafeez,AU Rashid,1,0,null,1,0,null,null
+187,30.3,Mohammad Hafeez,Babar Azam,AU Rashid,6,0,null,6,0,null,null
+188,30.4,Mohammad Hafeez,Babar Azam,AU Rashid,4,0,null,4,0,null,null
+189,30.5,Mohammad Hafeez,Babar Azam,AU Rashid,0,0,null,0,0,null,null
+190,30.6,Mohammad Hafeez,Babar Azam,AU Rashid,1,0,null,1,0,null,null
+191,31.1,Mohammad Hafeez,Babar Azam,MA Wood,2,0,null,2,0,null,null
+192,31.2,Mohammad Hafeez,Babar Azam,MA Wood,1,0,null,1,0,null,null
+193,31.3,Babar Azam,Mohammad Hafeez,MA Wood,1,0,null,1,0,null,null
+194,31.4,Mohammad Hafeez,Babar Azam,MA Wood,1,0,null,1,0,null,null
+195,31.5,Babar Azam,Mohammad Hafeez,MA Wood,0,1,legbyes ,1,0,null,null
+196,31.6,Mohammad Hafeez,Babar Azam,MA Wood,1,0,null,1,0,null,null
+197,32.1,Mohammad Hafeez,Babar Azam,MM Ali,1,0,null,1,0,null,null
+198,32.2,Babar Azam,Mohammad Hafeez,MM Ali,0,1,legbyes ,1,0,null,null
+199,32.3,Mohammad Hafeez,Babar Azam,MM Ali,0,0,null,0,0,null,null
+200,32.4,Mohammad Hafeez,Babar Azam,MM Ali,1,0,null,1,0,null,null
+201,32.5,Babar Azam,Mohammad Hafeez,MM Ali,0,0,null,0,1,Babar Azam,caught
+202,32.6,Mohammad Hafeez,Sarfraz Ahmed,MM Ali,1,0,null,1,0,null,null
+203,33.1,Mohammad Hafeez,Sarfraz Ahmed,MA Wood,0,0,null,0,0,null,null
+204,33.2,Mohammad Hafeez,Sarfraz Ahmed,MA Wood,0,0,null,0,0,null,null
+205,33.3,Mohammad Hafeez,Sarfraz Ahmed,MA Wood,4,0,null,4,0,null,null
+206,33.4,Mohammad Hafeez,Sarfraz Ahmed,MA Wood,1,0,null,1,0,null,null
+207,33.5,Sarfraz Ahmed,Mohammad Hafeez,MA Wood,1,0,null,1,0,null,null
+208,33.6,Mohammad Hafeez,Sarfraz Ahmed,MA Wood,4,0,null,4,0,null,null
+209,34.1,Sarfraz Ahmed,Mohammad Hafeez,MM Ali,1,0,null,1,0,null,null
+210,34.2,Mohammad Hafeez,Sarfraz Ahmed,MM Ali,1,0,null,1,0,null,null
+211,34.3,Sarfraz Ahmed,Mohammad Hafeez,MM Ali,1,0,null,1,0,null,null
+212,34.4,Mohammad Hafeez,Sarfraz Ahmed,MM Ali,0,0,null,0,0,null,null
+213,34.5,Mohammad Hafeez,Sarfraz Ahmed,MM Ali,1,0,null,1,0,null,null
+214,34.6,Sarfraz Ahmed,Mohammad Hafeez,MM Ali,4,0,null,4,0,null,null
+215,35.1,Mohammad Hafeez,Sarfraz Ahmed,MA Wood,1,0,null,1,0,null,null
+216,35.2,Sarfraz Ahmed,Mohammad Hafeez,MA Wood,0,0,null,0,0,null,null
+217,35.3,Sarfraz Ahmed,Mohammad Hafeez,MA Wood,0,0,null,0,0,null,null
+218,35.4,Sarfraz Ahmed,Mohammad Hafeez,MA Wood,0,0,null,0,0,null,null
+219,35.5,Sarfraz Ahmed,Mohammad Hafeez,MA Wood,2,0,null,2,0,null,null
+220,35.6,Sarfraz Ahmed,Mohammad Hafeez,MA Wood,0,1,wides ,1,0,null,null
+221,35.7,Sarfraz Ahmed,Mohammad Hafeez,MA Wood,1,0,null,1,0,null,null
+222,36.1,Sarfraz Ahmed,Mohammad Hafeez,MM Ali,1,0,null,1,0,null,null
+223,36.2,Mohammad Hafeez,Sarfraz Ahmed,MM Ali,1,0,null,1,0,null,null
+224,36.3,Sarfraz Ahmed,Mohammad Hafeez,MM Ali,0,0,null,0,0,null,null
+225,36.4,Sarfraz Ahmed,Mohammad Hafeez,MM Ali,0,0,null,0,0,null,null
+226,36.5,Sarfraz Ahmed,Mohammad Hafeez,MM Ali,1,0,null,1,0,null,null
+227,36.6,Mohammad Hafeez,Sarfraz Ahmed,MM Ali,0,0,null,0,0,null,null
+228,37.1,Sarfraz Ahmed,Mohammad Hafeez,CR Woakes,4,0,null,4,0,null,null
+229,37.2,Sarfraz Ahmed,Mohammad Hafeez,CR Woakes,0,0,null,0,0,null,null
+230,37.3,Sarfraz Ahmed,Mohammad Hafeez,CR Woakes,1,0,null,1,0,null,null
+231,37.4,Mohammad Hafeez,Sarfraz Ahmed,CR Woakes,0,0,null,0,0,null,null
+232,37.5,Mohammad Hafeez,Sarfraz Ahmed,CR Woakes,1,0,null,1,0,null,null
+233,37.6,Sarfraz Ahmed,Mohammad Hafeez,CR Woakes,0,1,wides ,1,0,null,null
+234,37.7,Sarfraz Ahmed,Mohammad Hafeez,CR Woakes,2,0,null,2,0,null,null
+235,38.1,Mohammad Hafeez,Sarfraz Ahmed,BA Stokes,4,0,null,4,0,null,null
+236,38.2,Mohammad Hafeez,Sarfraz Ahmed,BA Stokes,2,0,null,2,0,null,null
+237,38.3,Mohammad Hafeez,Sarfraz Ahmed,BA Stokes,1,0,null,1,0,null,null
+238,38.4,Sarfraz Ahmed,Mohammad Hafeez,BA Stokes,0,0,null,0,0,null,null
+239,38.5,Sarfraz Ahmed,Mohammad Hafeez,BA Stokes,0,0,null,0,0,null,null
+240,38.6,Sarfraz Ahmed,Mohammad Hafeez,BA Stokes,1,0,null,1,0,null,null
+241,39.1,Sarfraz Ahmed,Mohammad Hafeez,CR Woakes,1,0,null,1,0,null,null
+242,39.2,Mohammad Hafeez,Sarfraz Ahmed,CR Woakes,1,0,null,1,0,null,null
+243,39.3,Sarfraz Ahmed,Mohammad Hafeez,CR Woakes,1,0,null,1,0,null,null
+244,39.4,Mohammad Hafeez,Sarfraz Ahmed,CR Woakes,1,0,null,1,0,null,null
+245,39.5,Sarfraz Ahmed,Mohammad Hafeez,CR Woakes,4,0,null,4,0,null,null
+246,39.6,Sarfraz Ahmed,Mohammad Hafeez,CR Woakes,1,0,null,1,0,null,null
+247,40.1,Sarfraz Ahmed,Mohammad Hafeez,BA Stokes,0,0,null,0,0,null,null
+248,40.2,Sarfraz Ahmed,Mohammad Hafeez,BA Stokes,4,0,null,4,0,null,null
+249,40.3,Sarfraz Ahmed,Mohammad Hafeez,BA Stokes,1,0,null,1,0,null,null
+250,40.4,Mohammad Hafeez,Sarfraz Ahmed,BA Stokes,4,0,null,4,0,null,null
+251,40.5,Mohammad Hafeez,Sarfraz Ahmed,BA Stokes,2,0,null,2,0,null,null
+252,40.6,Mohammad Hafeez,Sarfraz Ahmed,BA Stokes,2,0,null,2,0,null,null
+253,41.1,Sarfraz Ahmed,Mohammad Hafeez,JC Archer,0,0,null,0,0,null,null
+254,41.2,Sarfraz Ahmed,Mohammad Hafeez,JC Archer,1,0,null,1,0,null,null
+255,41.3,Mohammad Hafeez,Sarfraz Ahmed,JC Archer,4,0,null,4,0,null,null
+256,41.4,Mohammad Hafeez,Sarfraz Ahmed,JC Archer,0,0,null,0,0,null,null
+257,41.5,Mohammad Hafeez,Sarfraz Ahmed,JC Archer,0,0,null,0,0,null,null
+258,41.6,Mohammad Hafeez,Sarfraz Ahmed,JC Archer,1,0,null,1,0,null,null
+259,42.1,Mohammad Hafeez,Sarfraz Ahmed,MA Wood,6,0,null,6,0,null,null
+260,42.2,Mohammad Hafeez,Sarfraz Ahmed,MA Wood,1,0,null,1,0,null,null
+261,42.3,Sarfraz Ahmed,Mohammad Hafeez,MA Wood,1,0,null,1,0,null,null
+262,42.4,Mohammad Hafeez,Sarfraz Ahmed,MA Wood,0,0,null,0,1,Mohammad Hafeez,caught
+263,42.5,Sarfraz Ahmed,Asif Ali,MA Wood,0,0,null,0,0,null,null
+264,42.6,Sarfraz Ahmed,Asif Ali,MA Wood,0,0,null,0,0,null,null
+265,43.1,Asif Ali,Sarfraz Ahmed,JC Archer,2,0,null,2,0,null,null
+266,43.2,Asif Ali,Sarfraz Ahmed,JC Archer,0,1,wides ,1,0,null,null
+267,43.3,Asif Ali,Sarfraz Ahmed,JC Archer,1,0,null,1,0,null,null
+268,43.4,Sarfraz Ahmed,Asif Ali,JC Archer,2,0,null,2,0,null,null
+269,43.5,Sarfraz Ahmed,Asif Ali,JC Archer,1,0,null,1,0,null,null
+270,43.6,Asif Ali,Sarfraz Ahmed,JC Archer,6,0,null,6,0,null,null
+271,43.7,Asif Ali,Sarfraz Ahmed,JC Archer,0,0,null,0,0,null,null
+272,44.1,Sarfraz Ahmed,Asif Ali,MA Wood,1,0,null,1,0,null,null
+273,44.2,Asif Ali,Sarfraz Ahmed,MA Wood,0,0,null,0,0,null,null
+274,44.3,Asif Ali,Sarfraz Ahmed,MA Wood,2,0,null,2,0,null,null
+275,44.4,Asif Ali,Sarfraz Ahmed,MA Wood,0,0,null,0,0,null,null
+276,44.5,Asif Ali,Sarfraz Ahmed,MA Wood,2,0,null,2,0,null,null
+277,44.6,Asif Ali,Sarfraz Ahmed,MA Wood,0,0,null,0,0,null,null
+278,45.1,Sarfraz Ahmed,Asif Ali,JC Archer,1,0,null,1,0,null,null
+279,45.2,Asif Ali,Sarfraz Ahmed,JC Archer,1,0,null,1,0,null,null
+280,45.3,Sarfraz Ahmed,Asif Ali,JC Archer,2,0,null,2,0,null,null
+281,45.4,Sarfraz Ahmed,Asif Ali,JC Archer,2,0,null,2,0,null,null
+282,45.5,Sarfraz Ahmed,Asif Ali,JC Archer,4,0,null,4,0,null,null
+283,45.6,Sarfraz Ahmed,Asif Ali,JC Archer,4,0,null,4,0,null,null
+284,46.1,Asif Ali,Sarfraz Ahmed,MA Wood,0,0,null,0,1,Asif Ali,caught
+285,46.2,Shoaib Malik,Sarfraz Ahmed,MA Wood,1,0,null,1,0,null,null
+286,46.3,Sarfraz Ahmed,Shoaib Malik,MA Wood,1,0,null,1,0,null,null
+287,46.4,Shoaib Malik,Sarfraz Ahmed,MA Wood,1,0,null,1,0,null,null
+288,46.5,Sarfraz Ahmed,Shoaib Malik,MA Wood,1,0,null,1,0,null,null
+289,46.6,Shoaib Malik,Sarfraz Ahmed,MA Wood,2,0,null,2,0,null,null
+290,47.1,Sarfraz Ahmed,Shoaib Malik,CR Woakes,2,0,null,2,0,null,null
+291,47.2,Sarfraz Ahmed,Shoaib Malik,CR Woakes,0,0,null,0,1,Sarfraz Ahmed,caught and bowled
+292,47.3,Shoaib Malik,Wahab Riaz,CR Woakes,0,1,wides ,1,0,null,null
+293,47.4,Shoaib Malik,Wahab Riaz,CR Woakes,1,0,null,1,0,null,null
+294,47.5,Wahab Riaz,Shoaib Malik,CR Woakes,4,0,null,4,0,null,null
+295,47.6,Wahab Riaz,Shoaib Malik,CR Woakes,0,0,null,0,1,Wahab Riaz,caught
+296,47.7,Shoaib Malik,Hasan Ali,CR Woakes,2,0,null,2,0,null,null
+297,48.1,Hasan Ali,Shoaib Malik,JC Archer,2,0,null,2,0,null,null
+298,48.2,Hasan Ali,Shoaib Malik,JC Archer,1,0,null,1,0,null,null
+299,48.3,Shoaib Malik,Hasan Ali,JC Archer,0,0,null,0,0,null,null
+300,48.4,Shoaib Malik,Hasan Ali,JC Archer,1,0,null,1,0,null,null
+301,48.5,Hasan Ali,Shoaib Malik,JC Archer,0,0,null,0,0,null,null
+302,48.6,Hasan Ali,Shoaib Malik,JC Archer,6,0,null,6,0,null,null
+303,49.1,Shoaib Malik,Hasan Ali,CR Woakes,0,0,null,0,1,Shoaib Malik,caught
+304,49.2,Hasan Ali,Shadab Khan,CR Woakes,1,0,null,1,0,null,null
+305,49.3,Shadab Khan,Hasan Ali,CR Woakes,4,0,null,4,0,null,null
+306,49.4,Shadab Khan,Hasan Ali,CR Woakes,2,0,null,2,0,null,null
+307,49.5,Shadab Khan,Hasan Ali,CR Woakes,0,0,null,0,0,null,null
+308,49.6,Shadab Khan,Hasan Ali,CR Woakes,4,0,null,4,0,null,null

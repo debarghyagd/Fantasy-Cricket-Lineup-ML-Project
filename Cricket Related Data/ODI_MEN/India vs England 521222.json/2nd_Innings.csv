@@ -1,0 +1,228 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,C Kieswetter,AN Cook,P Kumar,0,0,null,0,0,null,null
+1,0.2,C Kieswetter,AN Cook,P Kumar,0,0,null,0,0,null,null
+2,0.3,C Kieswetter,AN Cook,P Kumar,0,0,null,0,0,null,null
+3,0.4,C Kieswetter,AN Cook,P Kumar,0,1,wides ,1,0,null,null
+4,0.5,C Kieswetter,AN Cook,P Kumar,0,0,null,0,0,null,null
+5,0.6,C Kieswetter,AN Cook,P Kumar,0,0,null,0,0,null,null
+6,0.7,C Kieswetter,AN Cook,P Kumar,0,0,null,0,0,null,null
+7,1.1,AN Cook,C Kieswetter,R Vinay Kumar,2,0,null,2,0,null,null
+8,1.2,AN Cook,C Kieswetter,R Vinay Kumar,0,0,null,0,0,null,null
+9,1.3,AN Cook,C Kieswetter,R Vinay Kumar,0,0,null,0,0,null,null
+10,1.4,AN Cook,C Kieswetter,R Vinay Kumar,0,0,null,0,0,null,null
+11,1.5,AN Cook,C Kieswetter,R Vinay Kumar,0,0,null,0,0,null,null
+12,1.6,AN Cook,C Kieswetter,R Vinay Kumar,0,0,null,0,0,null,null
+13,2.1,C Kieswetter,AN Cook,P Kumar,4,0,null,4,0,null,null
+14,2.2,C Kieswetter,AN Cook,P Kumar,1,0,null,1,0,null,null
+15,2.3,AN Cook,C Kieswetter,P Kumar,1,0,null,1,0,null,null
+16,2.4,C Kieswetter,AN Cook,P Kumar,1,0,null,1,0,null,null
+17,2.5,AN Cook,C Kieswetter,P Kumar,0,0,null,0,0,null,null
+18,2.6,AN Cook,C Kieswetter,P Kumar,0,0,null,0,0,null,null
+19,3.1,C Kieswetter,AN Cook,R Vinay Kumar,1,0,null,1,0,null,null
+20,3.2,AN Cook,C Kieswetter,R Vinay Kumar,2,0,null,2,0,null,null
+21,3.3,AN Cook,C Kieswetter,R Vinay Kumar,4,0,null,4,0,null,null
+22,3.4,AN Cook,C Kieswetter,R Vinay Kumar,1,0,null,1,0,null,null
+23,3.5,C Kieswetter,AN Cook,R Vinay Kumar,0,0,null,0,0,null,null
+24,3.6,C Kieswetter,AN Cook,R Vinay Kumar,6,0,null,6,0,null,null
+25,4.1,AN Cook,C Kieswetter,P Kumar,1,0,null,1,0,null,null
+26,4.2,C Kieswetter,AN Cook,P Kumar,4,0,null,4,0,null,null
+27,4.3,C Kieswetter,AN Cook,P Kumar,1,0,null,1,0,null,null
+28,4.4,AN Cook,C Kieswetter,P Kumar,0,0,null,0,0,null,null
+29,4.5,AN Cook,C Kieswetter,P Kumar,0,0,null,0,0,null,null
+30,4.6,AN Cook,C Kieswetter,P Kumar,0,0,null,0,0,null,null
+31,5.1,C Kieswetter,AN Cook,R Vinay Kumar,0,0,null,0,0,null,null
+32,5.2,C Kieswetter,AN Cook,R Vinay Kumar,0,0,null,0,0,null,null
+33,5.3,C Kieswetter,AN Cook,R Vinay Kumar,1,0,null,1,0,null,null
+34,5.4,AN Cook,C Kieswetter,R Vinay Kumar,0,0,null,0,0,null,null
+35,5.5,AN Cook,C Kieswetter,R Vinay Kumar,4,0,null,4,0,null,null
+36,5.6,AN Cook,C Kieswetter,R Vinay Kumar,0,0,null,0,0,null,null
+37,6.1,C Kieswetter,AN Cook,P Kumar,1,0,null,1,0,null,null
+38,6.2,AN Cook,C Kieswetter,P Kumar,0,0,null,0,0,null,null
+39,6.3,AN Cook,C Kieswetter,P Kumar,1,0,null,1,0,null,null
+40,6.4,C Kieswetter,AN Cook,P Kumar,0,0,null,0,0,null,null
+41,6.5,C Kieswetter,AN Cook,P Kumar,2,0,null,2,0,null,null
+42,6.6,C Kieswetter,AN Cook,P Kumar,2,0,null,2,0,null,null
+43,7.1,AN Cook,C Kieswetter,R Ashwin,1,0,null,1,0,null,null
+44,7.2,C Kieswetter,AN Cook,R Ashwin,0,0,null,0,0,null,null
+45,7.3,C Kieswetter,AN Cook,R Ashwin,0,0,null,0,0,null,null
+46,7.4,C Kieswetter,AN Cook,R Ashwin,0,0,null,0,0,null,null
+47,7.5,C Kieswetter,AN Cook,R Ashwin,1,0,null,1,0,null,null
+48,7.6,AN Cook,C Kieswetter,R Ashwin,0,0,null,0,0,null,null
+49,8.1,C Kieswetter,AN Cook,P Kumar,0,0,null,0,0,null,null
+50,8.2,C Kieswetter,AN Cook,P Kumar,4,0,null,4,0,null,null
+51,8.3,C Kieswetter,AN Cook,P Kumar,1,0,null,1,0,null,null
+52,8.4,AN Cook,C Kieswetter,P Kumar,4,0,null,4,0,null,null
+53,8.5,AN Cook,C Kieswetter,P Kumar,1,0,null,1,0,null,null
+54,8.6,C Kieswetter,AN Cook,P Kumar,4,0,null,4,0,null,null
+55,9.1,AN Cook,C Kieswetter,R Ashwin,0,0,null,0,0,null,null
+56,9.2,AN Cook,C Kieswetter,R Ashwin,4,0,null,4,0,null,null
+57,9.3,AN Cook,C Kieswetter,R Ashwin,1,0,null,1,0,null,null
+58,9.4,C Kieswetter,AN Cook,R Ashwin,0,0,null,0,0,null,null
+59,9.5,C Kieswetter,AN Cook,R Ashwin,0,0,null,0,0,null,null
+60,9.6,C Kieswetter,AN Cook,R Ashwin,0,0,null,0,0,null,null
+61,10.1,AN Cook,C Kieswetter,MK Tiwary,0,1,wides ,1,0,null,null
+62,10.2,AN Cook,C Kieswetter,MK Tiwary,0,0,null,0,0,null,null
+63,10.3,AN Cook,C Kieswetter,MK Tiwary,4,0,null,4,0,null,null
+64,10.4,AN Cook,C Kieswetter,MK Tiwary,1,0,null,1,0,null,null
+65,10.5,C Kieswetter,AN Cook,MK Tiwary,4,0,null,4,0,null,null
+66,10.6,C Kieswetter,AN Cook,MK Tiwary,1,0,null,1,0,null,null
+67,10.7,AN Cook,C Kieswetter,MK Tiwary,2,0,null,2,0,null,null
+68,11.1,C Kieswetter,AN Cook,R Ashwin,1,0,null,1,0,null,null
+69,11.2,AN Cook,C Kieswetter,R Ashwin,1,0,null,1,0,null,null
+70,11.3,C Kieswetter,AN Cook,R Ashwin,1,0,null,1,0,null,null
+71,11.4,AN Cook,C Kieswetter,R Ashwin,0,0,null,0,0,null,null
+72,11.5,AN Cook,C Kieswetter,R Ashwin,0,0,null,0,0,null,null
+73,11.6,AN Cook,C Kieswetter,R Ashwin,1,0,null,1,0,null,null
+74,12.1,AN Cook,C Kieswetter,RA Jadeja,0,0,null,0,0,null,null
+75,12.2,AN Cook,C Kieswetter,RA Jadeja,1,0,null,1,0,null,null
+76,12.3,C Kieswetter,AN Cook,RA Jadeja,1,0,null,1,0,null,null
+77,12.4,AN Cook,C Kieswetter,RA Jadeja,1,0,null,1,0,null,null
+78,12.5,C Kieswetter,AN Cook,RA Jadeja,0,0,null,0,0,null,null
+79,12.6,C Kieswetter,AN Cook,RA Jadeja,0,0,null,0,0,null,null
+80,13.1,AN Cook,C Kieswetter,R Ashwin,1,0,null,1,0,null,null
+81,13.2,C Kieswetter,AN Cook,R Ashwin,0,0,null,0,0,null,null
+82,13.3,C Kieswetter,AN Cook,R Ashwin,0,0,null,0,0,null,null
+83,13.4,C Kieswetter,AN Cook,R Ashwin,1,0,null,1,0,null,null
+84,13.5,AN Cook,C Kieswetter,R Ashwin,1,0,null,1,0,null,null
+85,13.6,C Kieswetter,AN Cook,R Ashwin,0,0,null,0,0,null,null
+86,14.1,AN Cook,C Kieswetter,RA Jadeja,1,0,null,1,0,null,null
+87,14.2,C Kieswetter,AN Cook,RA Jadeja,0,0,null,0,0,null,null
+88,14.3,C Kieswetter,AN Cook,RA Jadeja,4,0,null,4,0,null,null
+89,14.4,C Kieswetter,AN Cook,RA Jadeja,1,0,null,1,0,null,null
+90,14.5,AN Cook,C Kieswetter,RA Jadeja,1,0,null,1,0,null,null
+91,14.6,C Kieswetter,AN Cook,RA Jadeja,0,0,null,0,0,null,null
+92,15.1,AN Cook,C Kieswetter,R Ashwin,0,0,null,0,0,null,null
+93,15.2,AN Cook,C Kieswetter,R Ashwin,0,0,null,0,0,null,null
+94,15.3,AN Cook,C Kieswetter,R Ashwin,0,0,null,0,0,null,null
+95,15.4,AN Cook,C Kieswetter,R Ashwin,1,0,null,1,0,null,null
+96,15.5,C Kieswetter,AN Cook,R Ashwin,1,0,null,1,0,null,null
+97,15.6,AN Cook,C Kieswetter,R Ashwin,4,0,null,4,0,null,null
+98,16.1,C Kieswetter,AN Cook,VR Aaron,4,0,null,4,0,null,null
+99,16.2,C Kieswetter,AN Cook,VR Aaron,0,0,null,0,0,null,null
+100,16.3,C Kieswetter,AN Cook,VR Aaron,1,0,null,1,0,null,null
+101,16.4,AN Cook,C Kieswetter,VR Aaron,1,0,null,1,0,null,null
+102,16.5,C Kieswetter,AN Cook,VR Aaron,0,0,null,0,0,null,null
+103,16.6,C Kieswetter,AN Cook,VR Aaron,0,0,null,0,0,null,null
+104,17.1,AN Cook,C Kieswetter,RA Jadeja,1,0,null,1,0,null,null
+105,17.2,C Kieswetter,AN Cook,RA Jadeja,0,0,null,0,0,null,null
+106,17.3,C Kieswetter,AN Cook,RA Jadeja,4,0,null,4,0,null,null
+107,17.4,C Kieswetter,AN Cook,RA Jadeja,4,0,null,4,0,null,null
+108,17.5,C Kieswetter,AN Cook,RA Jadeja,0,0,null,0,0,null,null
+109,17.6,C Kieswetter,AN Cook,RA Jadeja,0,0,null,0,0,null,null
+110,18.1,AN Cook,C Kieswetter,VR Aaron,1,0,null,1,0,null,null
+111,18.2,C Kieswetter,AN Cook,VR Aaron,0,0,null,0,0,null,null
+112,18.3,C Kieswetter,AN Cook,VR Aaron,1,0,null,1,0,null,null
+113,18.4,AN Cook,C Kieswetter,VR Aaron,4,0,null,4,0,null,null
+114,18.5,AN Cook,C Kieswetter,VR Aaron,1,0,null,1,0,null,null
+115,18.6,C Kieswetter,AN Cook,VR Aaron,0,0,null,0,0,null,null
+116,19.1,AN Cook,C Kieswetter,RA Jadeja,0,0,null,0,0,null,null
+117,19.2,AN Cook,C Kieswetter,RA Jadeja,0,0,null,0,0,null,null
+118,19.3,AN Cook,C Kieswetter,RA Jadeja,0,0,null,0,0,null,null
+119,19.4,AN Cook,C Kieswetter,RA Jadeja,0,4,byes ,4,0,null,null
+120,19.5,AN Cook,C Kieswetter,RA Jadeja,0,0,null,0,0,null,null
+121,19.6,AN Cook,C Kieswetter,RA Jadeja,1,0,null,1,0,null,null
+122,20.1,AN Cook,C Kieswetter,VR Aaron,4,0,null,4,0,null,null
+123,20.2,AN Cook,C Kieswetter,VR Aaron,0,0,null,0,1,AN Cook,bowled
+124,20.3,IJL Trott,C Kieswetter,VR Aaron,0,1,wides ,1,0,null,null
+125,20.4,IJL Trott,C Kieswetter,VR Aaron,0,0,null,0,0,null,null
+126,20.5,IJL Trott,C Kieswetter,VR Aaron,1,0,null,1,0,null,null
+127,20.6,C Kieswetter,IJL Trott,VR Aaron,0,0,null,0,0,null,null
+128,20.7,C Kieswetter,IJL Trott,VR Aaron,0,0,null,0,0,null,null
+129,21.1,IJL Trott,C Kieswetter,RA Jadeja,0,0,null,0,0,null,null
+130,21.2,IJL Trott,C Kieswetter,RA Jadeja,2,0,null,2,0,null,null
+131,21.3,IJL Trott,C Kieswetter,RA Jadeja,1,0,null,1,0,null,null
+132,21.4,C Kieswetter,IJL Trott,RA Jadeja,0,0,null,0,1,C Kieswetter,lbw
+133,21.5,IR Bell,IJL Trott,RA Jadeja,0,0,null,0,0,null,null
+134,21.6,IR Bell,IJL Trott,RA Jadeja,1,0,null,1,0,null,null
+135,22.1,IR Bell,IJL Trott,R Ashwin,0,0,null,0,0,null,null
+136,22.2,IR Bell,IJL Trott,R Ashwin,0,0,null,0,0,null,null
+137,22.3,IR Bell,IJL Trott,R Ashwin,1,0,null,1,0,null,null
+138,22.4,IJL Trott,IR Bell,R Ashwin,0,0,null,0,0,null,null
+139,22.5,IJL Trott,IR Bell,R Ashwin,1,0,null,1,0,null,null
+140,22.6,IR Bell,IJL Trott,R Ashwin,0,0,null,0,1,IR Bell,caught
+141,23.1,IJL Trott,RS Bopara,RA Jadeja,0,0,null,0,0,null,null
+142,23.2,IJL Trott,RS Bopara,RA Jadeja,0,0,null,0,0,null,null
+143,23.3,IJL Trott,RS Bopara,RA Jadeja,0,0,null,0,1,IJL Trott,caught
+144,23.4,JM Bairstow,RS Bopara,RA Jadeja,1,0,null,1,0,null,null
+145,23.5,RS Bopara,JM Bairstow,RA Jadeja,0,0,null,0,0,null,null
+146,23.6,RS Bopara,JM Bairstow,RA Jadeja,0,0,null,0,0,null,null
+147,24.1,JM Bairstow,RS Bopara,R Ashwin,0,0,null,0,0,null,null
+148,24.2,JM Bairstow,RS Bopara,R Ashwin,0,0,null,0,0,null,null
+149,24.3,JM Bairstow,RS Bopara,R Ashwin,1,0,null,1,0,null,null
+150,24.4,RS Bopara,JM Bairstow,R Ashwin,1,0,null,1,0,null,null
+151,24.5,JM Bairstow,RS Bopara,R Ashwin,0,0,null,0,0,null,null
+152,24.6,JM Bairstow,RS Bopara,R Ashwin,0,0,null,0,0,null,null
+153,25.1,RS Bopara,JM Bairstow,RA Jadeja,0,0,null,0,0,null,null
+154,25.2,RS Bopara,JM Bairstow,RA Jadeja,0,0,null,0,0,null,null
+155,25.3,RS Bopara,JM Bairstow,RA Jadeja,0,0,null,0,0,null,null
+156,25.4,RS Bopara,JM Bairstow,RA Jadeja,1,0,null,1,0,null,null
+157,25.5,JM Bairstow,RS Bopara,RA Jadeja,0,0,null,0,1,JM Bairstow,caught
+158,25.6,SR Patel,RS Bopara,RA Jadeja,0,0,null,0,0,null,null
+159,26.1,RS Bopara,SR Patel,R Ashwin,0,0,null,0,0,null,null
+160,26.2,RS Bopara,SR Patel,R Ashwin,0,0,null,0,0,null,null
+161,26.3,RS Bopara,SR Patel,R Ashwin,0,0,null,0,0,null,null
+162,26.4,RS Bopara,SR Patel,R Ashwin,1,0,null,1,0,null,null
+163,26.5,SR Patel,RS Bopara,R Ashwin,0,0,null,0,0,null,null
+164,26.6,SR Patel,RS Bopara,R Ashwin,1,0,null,1,0,null,null
+165,27.1,SR Patel,RS Bopara,MK Tiwary,1,0,null,1,0,null,null
+166,27.2,RS Bopara,SR Patel,MK Tiwary,1,0,null,1,0,null,null
+167,27.3,SR Patel,RS Bopara,MK Tiwary,4,0,null,4,0,null,null
+168,27.4,SR Patel,RS Bopara,MK Tiwary,0,0,null,0,0,null,null
+169,27.5,SR Patel,RS Bopara,MK Tiwary,0,0,null,0,0,null,null
+170,27.6,SR Patel,RS Bopara,MK Tiwary,1,0,null,1,0,null,null
+171,28.1,SR Patel,RS Bopara,SK Raina,0,0,null,0,0,null,null
+172,28.2,SR Patel,RS Bopara,SK Raina,0,0,null,0,0,null,null
+173,28.3,SR Patel,RS Bopara,SK Raina,0,1,wides ,1,0,null,null
+174,28.4,SR Patel,RS Bopara,SK Raina,0,0,null,0,0,null,null
+175,28.5,SR Patel,RS Bopara,SK Raina,0,0,null,0,0,null,null
+176,28.6,SR Patel,RS Bopara,SK Raina,1,0,null,1,0,null,null
+177,28.7,RS Bopara,SR Patel,SK Raina,0,0,null,0,0,null,null
+178,29.1,SR Patel,RS Bopara,MK Tiwary,0,1,wides ,1,0,null,null
+179,29.2,SR Patel,RS Bopara,MK Tiwary,0,0,null,0,0,null,null
+180,29.3,SR Patel,RS Bopara,MK Tiwary,0,0,null,0,0,null,null
+181,29.4,SR Patel,RS Bopara,MK Tiwary,0,0,null,0,0,null,null
+182,29.5,SR Patel,RS Bopara,MK Tiwary,0,0,null,0,0,null,null
+183,29.6,SR Patel,RS Bopara,MK Tiwary,1,0,null,1,0,null,null
+184,29.7,RS Bopara,SR Patel,MK Tiwary,0,0,null,0,0,null,null
+185,30.1,SR Patel,RS Bopara,SK Raina,0,0,null,0,0,null,null
+186,30.2,SR Patel,RS Bopara,SK Raina,1,0,null,1,0,null,null
+187,30.3,RS Bopara,SR Patel,SK Raina,0,0,null,0,0,null,null
+188,30.4,RS Bopara,SR Patel,SK Raina,0,0,null,0,1,RS Bopara,bowled
+189,30.5,TT Bresnan,SR Patel,SK Raina,0,0,null,0,0,null,null
+190,30.6,TT Bresnan,SR Patel,SK Raina,0,0,null,0,0,null,null
+191,31.1,SR Patel,TT Bresnan,MK Tiwary,0,0,null,0,0,null,null
+192,31.2,SR Patel,TT Bresnan,MK Tiwary,0,0,null,0,0,null,null
+193,31.3,SR Patel,TT Bresnan,MK Tiwary,1,0,null,1,0,null,null
+194,31.4,TT Bresnan,SR Patel,MK Tiwary,0,0,null,0,0,null,null
+195,31.5,TT Bresnan,SR Patel,MK Tiwary,0,0,null,0,1,TT Bresnan,caught
+196,31.6,GP Swann,SR Patel,MK Tiwary,0,0,null,0,0,null,null
+197,32.1,SR Patel,GP Swann,SK Raina,1,0,null,1,0,null,null
+198,32.2,GP Swann,SR Patel,SK Raina,0,0,null,0,0,null,null
+199,32.3,GP Swann,SR Patel,SK Raina,0,0,null,0,0,null,null
+200,32.4,GP Swann,SR Patel,SK Raina,0,0,null,0,0,null,null
+201,32.5,GP Swann,SR Patel,SK Raina,0,0,null,0,0,null,null
+202,32.6,GP Swann,SR Patel,SK Raina,0,0,null,0,0,null,null
+203,33.1,SR Patel,GP Swann,MK Tiwary,0,0,null,0,0,null,null
+204,33.2,SR Patel,GP Swann,MK Tiwary,0,0,null,0,0,null,null
+205,33.3,SR Patel,GP Swann,MK Tiwary,0,0,null,0,0,null,null
+206,33.4,SR Patel,GP Swann,MK Tiwary,1,0,null,1,0,null,null
+207,33.5,GP Swann,SR Patel,MK Tiwary,4,0,null,4,0,null,null
+208,33.6,GP Swann,SR Patel,MK Tiwary,0,0,null,0,0,null,null
+209,34.1,SR Patel,GP Swann,SK Raina,0,0,null,0,0,null,null
+210,34.2,SR Patel,GP Swann,SK Raina,4,0,null,4,0,null,null
+211,34.3,SR Patel,GP Swann,SK Raina,0,0,null,0,0,null,null
+212,34.4,SR Patel,GP Swann,SK Raina,1,0,null,1,0,null,null
+213,34.5,GP Swann,SR Patel,SK Raina,0,0,null,0,0,null,null
+214,34.6,GP Swann,SR Patel,SK Raina,0,0,null,0,0,null,null
+215,35.1,SR Patel,GP Swann,RA Jadeja,0,0,null,0,1,SR Patel,caught
+216,35.2,SC Meaker,GP Swann,RA Jadeja,0,0,null,0,0,null,null
+217,35.3,SC Meaker,GP Swann,RA Jadeja,0,0,null,0,0,null,null
+218,35.4,SC Meaker,GP Swann,RA Jadeja,0,0,null,0,0,null,null
+219,35.5,SC Meaker,GP Swann,RA Jadeja,1,0,null,1,0,null,null
+220,35.6,GP Swann,SC Meaker,RA Jadeja,6,0,null,6,0,null,null
+221,36.1,SC Meaker,GP Swann,R Ashwin,0,0,null,0,0,null,null
+222,36.2,SC Meaker,GP Swann,R Ashwin,0,0,null,0,1,SC Meaker,lbw
+223,36.3,ST Finn,GP Swann,R Ashwin,0,0,null,0,0,null,null
+224,36.4,ST Finn,GP Swann,R Ashwin,0,0,null,0,0,null,null
+225,36.5,ST Finn,GP Swann,R Ashwin,2,0,null,2,0,null,null
+226,36.6,ST Finn,GP Swann,R Ashwin,0,0,null,0,1,ST Finn,caught

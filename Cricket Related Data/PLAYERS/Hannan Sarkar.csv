@@ -1,0 +1,11 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,64843,"MA Aziz Stadium, Chittagong",England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,5,22,0,0
+1,64843,"MA Aziz Stadium, Chittagong",England,AF Giles,Left-arm orthodox,"[1, 0, 1]",0,9,7,2,0
+2,64844,"Bangabandhu National Stadium, Dhaka",England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,0,7,0,0
+3,64845,"Bangabandhu National Stadium, Dhaka",England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,13,21,2,0
+4,64898,National Cricket Stadium,West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",1,1,4,0,0
+5,64881,Harare Sports Club,Zimbabwe,SM Ervine,Right-arm medium,"[0, 1, 2]",0,12,25,0,1
+6,64881,Harare Sports Club,Zimbabwe,RW Price,Left-arm orthodox,"[1, 0, 1]",1,7,11,0,0
+7,64897,Arnos Vale Ground,West Indies,IDR Bradshaw,Left-arm fast-medium,"[0, 0, 1]",1,9,12,1,0
+8,64897,Arnos Vale Ground,West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+9,64897,Arnos Vale Ground,West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,11,14,1,0

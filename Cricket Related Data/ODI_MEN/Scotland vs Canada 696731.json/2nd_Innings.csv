@@ -1,0 +1,255 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,R Gunasekera,NR Kumar,RML Taylor,0,0,null,0,0,null,null
+1,0.2,R Gunasekera,NR Kumar,RML Taylor,0,0,null,0,0,null,null
+2,0.3,R Gunasekera,NR Kumar,RML Taylor,0,0,null,0,1,R Gunasekera,caught
+3,0.4,Zeeshan Siddiqi,NR Kumar,RML Taylor,0,1,legbyes ,1,0,null,null
+4,0.5,NR Kumar,Zeeshan Siddiqi,RML Taylor,1,0,null,1,0,null,null
+5,0.6,Zeeshan Siddiqi,NR Kumar,RML Taylor,0,0,null,0,0,null,null
+6,1.1,NR Kumar,Zeeshan Siddiqi,I Wardlaw,0,0,null,0,0,null,null
+7,1.2,NR Kumar,Zeeshan Siddiqi,I Wardlaw,0,0,null,0,0,null,null
+8,1.3,NR Kumar,Zeeshan Siddiqi,I Wardlaw,4,0,null,4,0,null,null
+9,1.4,NR Kumar,Zeeshan Siddiqi,I Wardlaw,0,0,null,0,0,null,null
+10,1.5,NR Kumar,Zeeshan Siddiqi,I Wardlaw,2,0,null,2,0,null,null
+11,1.6,NR Kumar,Zeeshan Siddiqi,I Wardlaw,0,0,null,0,0,null,null
+12,2.1,Zeeshan Siddiqi,NR Kumar,RML Taylor,1,0,null,1,0,null,null
+13,2.2,NR Kumar,Zeeshan Siddiqi,RML Taylor,1,0,null,1,0,null,null
+14,2.3,Zeeshan Siddiqi,NR Kumar,RML Taylor,0,0,null,0,0,null,null
+15,2.4,Zeeshan Siddiqi,NR Kumar,RML Taylor,0,1,legbyes ,1,0,null,null
+16,2.5,NR Kumar,Zeeshan Siddiqi,RML Taylor,0,1,wides ,1,0,null,null
+17,2.6,NR Kumar,Zeeshan Siddiqi,RML Taylor,2,0,null,2,0,null,null
+18,2.7,NR Kumar,Zeeshan Siddiqi,RML Taylor,0,0,null,0,0,null,null
+19,3.1,Zeeshan Siddiqi,NR Kumar,I Wardlaw,0,0,null,0,0,null,null
+20,3.2,Zeeshan Siddiqi,NR Kumar,I Wardlaw,0,0,null,0,0,null,null
+21,3.3,Zeeshan Siddiqi,NR Kumar,I Wardlaw,4,0,null,4,0,null,null
+22,3.4,Zeeshan Siddiqi,NR Kumar,I Wardlaw,0,0,null,0,0,null,null
+23,3.5,Zeeshan Siddiqi,NR Kumar,I Wardlaw,0,0,null,0,0,null,null
+24,3.6,Zeeshan Siddiqi,NR Kumar,I Wardlaw,0,0,null,0,0,null,null
+25,4.1,NR Kumar,Zeeshan Siddiqi,RML Taylor,0,0,null,0,0,null,null
+26,4.2,NR Kumar,Zeeshan Siddiqi,RML Taylor,4,0,null,4,0,null,null
+27,4.3,NR Kumar,Zeeshan Siddiqi,RML Taylor,0,0,null,0,0,null,null
+28,4.4,NR Kumar,Zeeshan Siddiqi,RML Taylor,0,1,wides ,1,0,null,null
+29,4.5,NR Kumar,Zeeshan Siddiqi,RML Taylor,0,0,null,0,0,null,null
+30,4.6,NR Kumar,Zeeshan Siddiqi,RML Taylor,0,0,null,0,0,null,null
+31,4.7,NR Kumar,Zeeshan Siddiqi,RML Taylor,0,0,null,0,0,null,null
+32,5.1,Zeeshan Siddiqi,NR Kumar,I Wardlaw,0,0,null,0,0,null,null
+33,5.2,Zeeshan Siddiqi,NR Kumar,I Wardlaw,0,0,null,0,0,null,null
+34,5.3,Zeeshan Siddiqi,NR Kumar,I Wardlaw,1,0,null,1,0,null,null
+35,5.4,NR Kumar,Zeeshan Siddiqi,I Wardlaw,4,0,null,4,0,null,null
+36,5.5,NR Kumar,Zeeshan Siddiqi,I Wardlaw,0,0,null,0,0,null,null
+37,5.6,NR Kumar,Zeeshan Siddiqi,I Wardlaw,4,0,null,4,0,null,null
+38,6.1,Zeeshan Siddiqi,NR Kumar,RML Taylor,0,0,null,0,0,null,null
+39,6.2,Zeeshan Siddiqi,NR Kumar,RML Taylor,0,0,null,0,0,null,null
+40,6.3,Zeeshan Siddiqi,NR Kumar,RML Taylor,1,0,null,1,0,null,null
+41,6.4,NR Kumar,Zeeshan Siddiqi,RML Taylor,4,0,null,4,0,null,null
+42,6.5,NR Kumar,Zeeshan Siddiqi,RML Taylor,0,0,null,0,0,null,null
+43,6.6,NR Kumar,Zeeshan Siddiqi,RML Taylor,0,0,null,0,0,null,null
+44,7.1,Zeeshan Siddiqi,NR Kumar,I Wardlaw,0,0,null,0,0,null,null
+45,7.2,Zeeshan Siddiqi,NR Kumar,I Wardlaw,0,0,null,0,0,null,null
+46,7.3,Zeeshan Siddiqi,NR Kumar,I Wardlaw,0,0,null,0,0,null,null
+47,7.4,Zeeshan Siddiqi,NR Kumar,I Wardlaw,0,0,null,0,1,Zeeshan Siddiqi,caught
+48,7.5,AS Hansra,NR Kumar,I Wardlaw,1,0,null,1,0,null,null
+49,7.6,NR Kumar,AS Hansra,I Wardlaw,0,0,null,0,1,NR Kumar,lbw
+50,8.1,AS Hansra,Raza-ur-Rehman,RML Taylor,1,0,null,1,0,null,null
+51,8.2,Raza-ur-Rehman,AS Hansra,RML Taylor,2,0,null,2,0,null,null
+52,8.3,Raza-ur-Rehman,AS Hansra,RML Taylor,0,0,null,0,0,null,null
+53,8.4,Raza-ur-Rehman,AS Hansra,RML Taylor,1,0,null,1,0,null,null
+54,8.5,AS Hansra,Raza-ur-Rehman,RML Taylor,0,0,null,0,1,AS Hansra,caught
+55,8.6,TC Bastiampillai,Raza-ur-Rehman,RML Taylor,1,0,null,1,0,null,null
+56,9.1,TC Bastiampillai,Raza-ur-Rehman,I Wardlaw,0,0,null,0,0,null,null
+57,9.2,TC Bastiampillai,Raza-ur-Rehman,I Wardlaw,0,0,null,0,0,null,null
+58,9.3,TC Bastiampillai,Raza-ur-Rehman,I Wardlaw,0,0,null,0,0,null,null
+59,9.4,TC Bastiampillai,Raza-ur-Rehman,I Wardlaw,0,0,null,0,0,null,null
+60,9.5,TC Bastiampillai,Raza-ur-Rehman,I Wardlaw,0,0,null,0,0,null,null
+61,9.6,TC Bastiampillai,Raza-ur-Rehman,I Wardlaw,0,0,null,0,0,null,null
+62,10.1,Raza-ur-Rehman,TC Bastiampillai,RML Taylor,1,0,null,1,0,null,null
+63,10.2,TC Bastiampillai,Raza-ur-Rehman,RML Taylor,0,0,null,0,0,null,null
+64,10.3,TC Bastiampillai,Raza-ur-Rehman,RML Taylor,0,0,null,0,0,null,null
+65,10.4,TC Bastiampillai,Raza-ur-Rehman,RML Taylor,0,0,null,0,0,null,null
+66,10.5,TC Bastiampillai,Raza-ur-Rehman,RML Taylor,0,0,null,0,0,null,null
+67,10.6,TC Bastiampillai,Raza-ur-Rehman,RML Taylor,0,0,null,0,0,null,null
+68,11.1,Raza-ur-Rehman,TC Bastiampillai,I Wardlaw,0,0,null,0,0,null,null
+69,11.2,Raza-ur-Rehman,TC Bastiampillai,I Wardlaw,0,0,null,0,0,null,null
+70,11.3,Raza-ur-Rehman,TC Bastiampillai,I Wardlaw,0,0,null,0,0,null,null
+71,11.4,Raza-ur-Rehman,TC Bastiampillai,I Wardlaw,4,0,null,4,0,null,null
+72,11.5,Raza-ur-Rehman,TC Bastiampillai,I Wardlaw,0,0,null,0,0,null,null
+73,11.6,Raza-ur-Rehman,TC Bastiampillai,I Wardlaw,0,0,null,0,0,null,null
+74,12.1,TC Bastiampillai,Raza-ur-Rehman,RML Taylor,0,0,null,0,0,null,null
+75,12.2,TC Bastiampillai,Raza-ur-Rehman,RML Taylor,0,0,null,0,0,null,null
+76,12.3,TC Bastiampillai,Raza-ur-Rehman,RML Taylor,1,0,null,1,0,null,null
+77,12.4,Raza-ur-Rehman,TC Bastiampillai,RML Taylor,0,0,null,0,0,null,null
+78,12.5,Raza-ur-Rehman,TC Bastiampillai,RML Taylor,0,0,null,0,0,null,null
+79,12.6,Raza-ur-Rehman,TC Bastiampillai,RML Taylor,1,0,null,1,0,null,null
+80,13.1,Raza-ur-Rehman,TC Bastiampillai,RM Haq,0,0,null,0,0,null,null
+81,13.2,Raza-ur-Rehman,TC Bastiampillai,RM Haq,4,0,null,4,0,null,null
+82,13.3,Raza-ur-Rehman,TC Bastiampillai,RM Haq,1,0,null,1,0,null,null
+83,13.4,TC Bastiampillai,Raza-ur-Rehman,RM Haq,1,0,null,1,0,null,null
+84,13.5,Raza-ur-Rehman,TC Bastiampillai,RM Haq,0,0,null,0,0,null,null
+85,13.6,Raza-ur-Rehman,TC Bastiampillai,RM Haq,1,0,null,1,0,null,null
+86,14.1,Raza-ur-Rehman,TC Bastiampillai,SM Sharif,1,0,null,1,0,null,null
+87,14.2,TC Bastiampillai,Raza-ur-Rehman,SM Sharif,0,0,null,0,0,null,null
+88,14.3,TC Bastiampillai,Raza-ur-Rehman,SM Sharif,6,0,null,6,0,null,null
+89,14.4,TC Bastiampillai,Raza-ur-Rehman,SM Sharif,0,0,null,0,0,null,null
+90,14.5,TC Bastiampillai,Raza-ur-Rehman,SM Sharif,0,1,wides ,1,0,null,null
+91,14.6,TC Bastiampillai,Raza-ur-Rehman,SM Sharif,0,0,null,0,1,Raza-ur-Rehman,run out
+92,14.7,Hamza Tariq,TC Bastiampillai,SM Sharif,0,0,null,0,0,null,null
+93,15.1,TC Bastiampillai,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+94,15.2,TC Bastiampillai,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+95,15.3,TC Bastiampillai,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+96,15.4,TC Bastiampillai,Hamza Tariq,RM Haq,1,0,null,1,0,null,null
+97,15.5,Hamza Tariq,TC Bastiampillai,RM Haq,0,0,null,0,0,null,null
+98,15.6,Hamza Tariq,TC Bastiampillai,RM Haq,0,0,null,0,0,null,null
+99,16.1,TC Bastiampillai,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+100,16.2,TC Bastiampillai,Hamza Tariq,SM Sharif,1,0,null,1,0,null,null
+101,16.3,Hamza Tariq,TC Bastiampillai,SM Sharif,0,0,null,0,0,null,null
+102,16.4,Hamza Tariq,TC Bastiampillai,SM Sharif,0,0,null,0,0,null,null
+103,16.5,Hamza Tariq,TC Bastiampillai,SM Sharif,0,0,null,0,0,null,null
+104,16.6,Hamza Tariq,TC Bastiampillai,SM Sharif,0,0,null,0,0,null,null
+105,17.1,TC Bastiampillai,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+106,17.2,TC Bastiampillai,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+107,17.3,TC Bastiampillai,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+108,17.4,TC Bastiampillai,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+109,17.5,TC Bastiampillai,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+110,17.6,TC Bastiampillai,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+111,18.1,Hamza Tariq,TC Bastiampillai,SM Sharif,0,1,wides ,1,0,null,null
+112,18.2,Hamza Tariq,TC Bastiampillai,SM Sharif,0,0,null,0,0,null,null
+113,18.3,Hamza Tariq,TC Bastiampillai,SM Sharif,0,0,null,0,0,null,null
+114,18.4,Hamza Tariq,TC Bastiampillai,SM Sharif,0,0,null,0,0,null,null
+115,18.5,Hamza Tariq,TC Bastiampillai,SM Sharif,0,0,null,0,0,null,null
+116,18.6,Hamza Tariq,TC Bastiampillai,SM Sharif,0,0,null,0,0,null,null
+117,18.7,Hamza Tariq,TC Bastiampillai,SM Sharif,0,0,null,0,0,null,null
+118,19.1,TC Bastiampillai,Hamza Tariq,RM Haq,0,0,null,0,1,TC Bastiampillai,caught
+119,19.2,Junaid Siddiqui,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+120,19.3,Junaid Siddiqui,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+121,19.4,Junaid Siddiqui,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+122,19.5,Junaid Siddiqui,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+123,19.6,Junaid Siddiqui,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+124,20.1,Hamza Tariq,Junaid Siddiqui,SM Sharif,0,0,null,0,0,null,null
+125,20.2,Hamza Tariq,Junaid Siddiqui,SM Sharif,0,0,null,0,0,null,null
+126,20.3,Hamza Tariq,Junaid Siddiqui,SM Sharif,0,0,null,0,0,null,null
+127,20.4,Hamza Tariq,Junaid Siddiqui,SM Sharif,0,0,null,0,0,null,null
+128,20.5,Hamza Tariq,Junaid Siddiqui,SM Sharif,0,1,wides ,1,0,null,null
+129,20.6,Hamza Tariq,Junaid Siddiqui,SM Sharif,0,0,null,0,0,null,null
+130,20.7,Hamza Tariq,Junaid Siddiqui,SM Sharif,1,0,null,1,0,null,null
+131,21.1,Hamza Tariq,Junaid Siddiqui,RM Haq,6,0,null,6,0,null,null
+132,21.2,Hamza Tariq,Junaid Siddiqui,RM Haq,0,0,null,0,0,null,null
+133,21.3,Hamza Tariq,Junaid Siddiqui,RM Haq,4,0,null,4,0,null,null
+134,21.4,Hamza Tariq,Junaid Siddiqui,RM Haq,1,0,null,1,0,null,null
+135,21.5,Junaid Siddiqui,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+136,21.6,Junaid Siddiqui,Hamza Tariq,RM Haq,0,0,null,0,0,null,null
+137,22.1,Hamza Tariq,Junaid Siddiqui,SM Sharif,0,1,wides ,1,0,null,null
+138,22.2,Hamza Tariq,Junaid Siddiqui,SM Sharif,2,0,null,2,0,null,null
+139,22.3,Hamza Tariq,Junaid Siddiqui,SM Sharif,0,0,null,0,0,null,null
+140,22.4,Hamza Tariq,Junaid Siddiqui,SM Sharif,0,0,null,0,0,null,null
+141,22.5,Hamza Tariq,Junaid Siddiqui,SM Sharif,1,0,null,1,0,null,null
+142,22.6,Junaid Siddiqui,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+143,22.7,Junaid Siddiqui,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+144,23.1,Hamza Tariq,Junaid Siddiqui,I Wardlaw,0,1,wides ,1,0,null,null
+145,23.2,Hamza Tariq,Junaid Siddiqui,I Wardlaw,0,0,null,0,0,null,null
+146,23.3,Hamza Tariq,Junaid Siddiqui,I Wardlaw,0,0,null,0,0,null,null
+147,23.4,Hamza Tariq,Junaid Siddiqui,I Wardlaw,0,0,null,0,0,null,null
+148,23.5,Hamza Tariq,Junaid Siddiqui,I Wardlaw,0,0,null,0,0,null,null
+149,23.6,Hamza Tariq,Junaid Siddiqui,I Wardlaw,0,0,null,0,0,null,null
+150,23.7,Hamza Tariq,Junaid Siddiqui,I Wardlaw,0,0,null,0,0,null,null
+151,24.1,Junaid Siddiqui,Hamza Tariq,RD Berrington,0,0,null,0,0,null,null
+152,24.2,Junaid Siddiqui,Hamza Tariq,RD Berrington,0,0,null,0,0,null,null
+153,24.3,Junaid Siddiqui,Hamza Tariq,RD Berrington,1,0,null,1,0,null,null
+154,24.4,Hamza Tariq,Junaid Siddiqui,RD Berrington,0,0,null,0,0,null,null
+155,24.5,Hamza Tariq,Junaid Siddiqui,RD Berrington,1,0,null,1,0,null,null
+156,24.6,Junaid Siddiqui,Hamza Tariq,RD Berrington,1,0,null,1,0,null,null
+157,25.1,Junaid Siddiqui,Hamza Tariq,I Wardlaw,0,0,null,0,0,null,null
+158,25.2,Junaid Siddiqui,Hamza Tariq,I Wardlaw,0,0,null,0,0,null,null
+159,25.3,Junaid Siddiqui,Hamza Tariq,I Wardlaw,0,0,null,0,0,null,null
+160,25.4,Junaid Siddiqui,Hamza Tariq,I Wardlaw,0,0,null,0,0,null,null
+161,25.5,Junaid Siddiqui,Hamza Tariq,I Wardlaw,0,0,null,0,0,null,null
+162,25.6,Junaid Siddiqui,Hamza Tariq,I Wardlaw,0,0,null,0,0,null,null
+163,26.1,Hamza Tariq,Junaid Siddiqui,RD Berrington,4,0,null,4,0,null,null
+164,26.2,Hamza Tariq,Junaid Siddiqui,RD Berrington,4,0,null,4,0,null,null
+165,26.3,Hamza Tariq,Junaid Siddiqui,RD Berrington,0,0,null,0,0,null,null
+166,26.4,Hamza Tariq,Junaid Siddiqui,RD Berrington,1,0,null,1,0,null,null
+167,26.5,Junaid Siddiqui,Hamza Tariq,RD Berrington,0,0,null,0,0,null,null
+168,26.6,Junaid Siddiqui,Hamza Tariq,RD Berrington,1,0,null,1,0,null,null
+169,27.1,Junaid Siddiqui,Hamza Tariq,I Wardlaw,0,0,null,0,0,null,null
+170,27.2,Junaid Siddiqui,Hamza Tariq,I Wardlaw,0,0,null,0,0,null,null
+171,27.3,Junaid Siddiqui,Hamza Tariq,I Wardlaw,0,0,null,0,0,null,null
+172,27.4,Junaid Siddiqui,Hamza Tariq,I Wardlaw,1,0,null,1,0,null,null
+173,27.5,Hamza Tariq,Junaid Siddiqui,I Wardlaw,4,0,null,4,0,null,null
+174,27.6,Hamza Tariq,Junaid Siddiqui,I Wardlaw,0,0,null,0,0,null,null
+175,28.1,Junaid Siddiqui,Hamza Tariq,RD Berrington,0,0,null,0,0,null,null
+176,28.2,Junaid Siddiqui,Hamza Tariq,RD Berrington,0,0,null,0,0,null,null
+177,28.3,Junaid Siddiqui,Hamza Tariq,RD Berrington,1,0,null,1,0,null,null
+178,28.4,Hamza Tariq,Junaid Siddiqui,RD Berrington,0,0,null,0,0,null,null
+179,28.5,Hamza Tariq,Junaid Siddiqui,RD Berrington,4,0,null,4,0,null,null
+180,28.6,Hamza Tariq,Junaid Siddiqui,RD Berrington,0,0,null,0,0,null,null
+181,29.1,Junaid Siddiqui,Hamza Tariq,CS MacLeod,0,1,wides ,1,0,null,null
+182,29.2,Junaid Siddiqui,Hamza Tariq,CS MacLeod,0,1,wides ,1,0,null,null
+183,29.3,Junaid Siddiqui,Hamza Tariq,CS MacLeod,0,0,null,0,0,null,null
+184,29.4,Junaid Siddiqui,Hamza Tariq,CS MacLeod,0,0,null,0,1,Junaid Siddiqui,caught
+185,29.5,HS Baidwan,Hamza Tariq,CS MacLeod,0,0,null,0,0,null,null
+186,29.6,HS Baidwan,Hamza Tariq,CS MacLeod,0,1,wides ,1,0,null,null
+187,29.7,HS Baidwan,Hamza Tariq,CS MacLeod,0,0,null,0,0,null,null
+188,29.8,HS Baidwan,Hamza Tariq,CS MacLeod,0,1,wides ,1,0,null,null
+189,29.9,HS Baidwan,Hamza Tariq,CS MacLeod,0,0,null,0,0,null,null
+190,29.10,HS Baidwan,Hamza Tariq,CS MacLeod,0,0,null,0,0,null,null
+191,30.1,Hamza Tariq,HS Baidwan,RD Berrington,1,0,null,1,0,null,null
+192,30.2,HS Baidwan,Hamza Tariq,RD Berrington,1,0,null,1,0,null,null
+193,30.3,Hamza Tariq,HS Baidwan,RD Berrington,0,0,null,0,0,null,null
+194,30.4,Hamza Tariq,HS Baidwan,RD Berrington,0,0,null,0,1,HS Baidwan,run out
+195,30.5,Hamza Tariq,Khurram Chohan,RD Berrington,0,0,null,0,0,null,null
+196,30.6,Hamza Tariq,Khurram Chohan,RD Berrington,0,0,null,0,0,null,null
+197,31.1,Khurram Chohan,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+198,31.2,Khurram Chohan,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+199,31.3,Khurram Chohan,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+200,31.4,Khurram Chohan,Hamza Tariq,SM Sharif,1,0,null,1,0,null,null
+201,31.5,Hamza Tariq,Khurram Chohan,SM Sharif,0,0,null,0,0,null,null
+202,31.6,Hamza Tariq,Khurram Chohan,SM Sharif,0,1,wides ,1,0,null,null
+203,31.7,Hamza Tariq,Khurram Chohan,SM Sharif,1,0,null,1,0,null,null
+204,32.1,Hamza Tariq,Khurram Chohan,RD Berrington,0,0,null,0,0,null,null
+205,32.2,Hamza Tariq,Khurram Chohan,RD Berrington,0,0,null,0,0,null,null
+206,32.3,Hamza Tariq,Khurram Chohan,RD Berrington,1,0,null,1,0,null,null
+207,32.4,Khurram Chohan,Hamza Tariq,RD Berrington,4,0,null,4,0,null,null
+208,32.5,Khurram Chohan,Hamza Tariq,RD Berrington,1,0,null,1,0,null,null
+209,32.6,Hamza Tariq,Khurram Chohan,RD Berrington,0,0,null,0,0,null,null
+210,33.1,Khurram Chohan,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+211,33.2,Khurram Chohan,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+212,33.3,Khurram Chohan,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+213,33.4,Khurram Chohan,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+214,33.5,Khurram Chohan,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+215,33.6,Khurram Chohan,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+216,34.1,Hamza Tariq,Khurram Chohan,RD Berrington,0,0,null,0,0,null,null
+217,34.2,Hamza Tariq,Khurram Chohan,RD Berrington,4,0,null,4,0,null,null
+218,34.3,Hamza Tariq,Khurram Chohan,RD Berrington,1,0,null,1,0,null,null
+219,34.4,Khurram Chohan,Hamza Tariq,RD Berrington,1,0,null,1,0,null,null
+220,34.5,Hamza Tariq,Khurram Chohan,RD Berrington,1,0,null,1,0,null,null
+221,34.6,Khurram Chohan,Hamza Tariq,RD Berrington,0,1,wides ,1,0,null,null
+222,34.7,Khurram Chohan,Hamza Tariq,RD Berrington,0,1,legbyes ,1,0,null,null
+223,35.1,Khurram Chohan,Hamza Tariq,MW Machan,0,0,null,0,0,null,null
+224,35.2,Khurram Chohan,Hamza Tariq,MW Machan,0,1,wides ,1,0,null,null
+225,35.3,Khurram Chohan,Hamza Tariq,MW Machan,0,0,null,0,0,null,null
+226,35.4,Khurram Chohan,Hamza Tariq,MW Machan,0,0,null,0,0,null,null
+227,35.5,Khurram Chohan,Hamza Tariq,MW Machan,1,0,null,1,0,null,null
+228,35.6,Hamza Tariq,Khurram Chohan,MW Machan,4,0,null,4,0,null,null
+229,35.7,Hamza Tariq,Khurram Chohan,MW Machan,4,0,null,4,0,null,null
+230,36.1,Khurram Chohan,Hamza Tariq,RML Taylor,0,1,legbyes ,1,0,null,null
+231,36.2,Hamza Tariq,Khurram Chohan,RML Taylor,0,1,wides ,1,0,null,null
+232,36.3,Hamza Tariq,Khurram Chohan,RML Taylor,4,0,null,4,0,null,null
+233,36.4,Hamza Tariq,Khurram Chohan,RML Taylor,0,2,wides ,2,0,null,null
+234,36.5,Khurram Chohan,Hamza Tariq,RML Taylor,0,1,wides ,1,0,null,null
+235,36.6,Khurram Chohan,Hamza Tariq,RML Taylor,0,0,null,0,0,null,null
+236,36.7,Khurram Chohan,Hamza Tariq,RML Taylor,0,0,null,0,0,null,null
+237,36.8,Khurram Chohan,Hamza Tariq,RML Taylor,0,0,null,0,0,null,null
+238,36.9,Khurram Chohan,Hamza Tariq,RML Taylor,1,0,null,1,0,null,null
+239,37.1,Khurram Chohan,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+240,37.2,Khurram Chohan,Hamza Tariq,SM Sharif,0,0,null,0,1,Khurram Chohan,lbw
+241,37.3,JOA Gordon,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+242,37.4,JOA Gordon,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+243,37.5,JOA Gordon,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+244,37.6,JOA Gordon,Hamza Tariq,SM Sharif,0,0,null,0,0,null,null
+245,38.1,Hamza Tariq,JOA Gordon,RML Taylor,0,1,wides ,1,0,null,null
+246,38.2,Hamza Tariq,JOA Gordon,RML Taylor,0,0,null,0,0,null,null
+247,38.3,Hamza Tariq,JOA Gordon,RML Taylor,0,0,null,0,0,null,null
+248,38.4,Hamza Tariq,JOA Gordon,RML Taylor,4,0,null,4,0,null,null
+249,38.5,Hamza Tariq,JOA Gordon,RML Taylor,4,0,null,4,0,null,null
+250,38.6,Hamza Tariq,JOA Gordon,RML Taylor,4,0,null,4,0,null,null
+251,38.7,Hamza Tariq,JOA Gordon,RML Taylor,1,0,null,1,0,null,null
+252,39.1,Hamza Tariq,JOA Gordon,SM Sharif,4,0,null,4,0,null,null
+253,39.2,Hamza Tariq,JOA Gordon,SM Sharif,0,0,null,0,1,Hamza Tariq,caught

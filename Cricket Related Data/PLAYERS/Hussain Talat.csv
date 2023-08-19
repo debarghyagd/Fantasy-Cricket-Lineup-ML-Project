@@ -1,0 +1,4 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1144157,Kingsmead,South Africa,D Paterson,Right-arm fast,"[0, 1, 0]",0,1,4,0,0
+1,1144157,Kingsmead,South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",0,0,6,0,0
+2,1144157,Kingsmead,South Africa,T Shamsi,Left-arm chinaman,"[1, 0, 0]",1,1,4,0,0

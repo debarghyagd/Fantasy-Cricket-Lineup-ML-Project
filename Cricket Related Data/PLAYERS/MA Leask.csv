@@ -1,0 +1,73 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,812623,ICC Academy,Afghanistan,Hamid Hassan,Right-arm fast,"[0, 1, 0]",0,5,8,1,0
+1,812623,ICC Academy,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",1,5,5,1,0
+2,656477,Bellerive Oval,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,18,9,4,0
+3,1131277,ICC Academy,Ireland,PKD Chase,Right-arm fast-medium,"[0, 1, 1]",0,18,8,2,1
+4,1131277,ICC Academy,Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",1,2,3,0,0
+5,1131277,ICC Academy,Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,7,4,1,0
+6,1131277,ICC Academy,Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",0,10,12,0,0
+7,1133025,Harare Sports Club,Ireland,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",0,1,5,0,0
+8,1133025,Harare Sports Club,Ireland,Simi Singh,Right-arm offbreak,"[1, 1, 0]",1,1,4,0,0
+9,727935,"The Village, Malahide",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",1,13,12,2,0
+10,727935,"The Village, Malahide",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,16,16,1,1
+11,727937,"The Village, Malahide",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,8,7,0,1
+12,727937,"The Village, Malahide",Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+13,810829,Dubai International Cricket Stadium,Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,7,4,0,1
+14,810829,Dubai International Cricket Stadium,Ireland,PR Stirling,Right-arm offbreak,"[1, 1, 0]",0,2,5,0,0
+15,696759,Hagley Oval,Kenya,SO Ngoche,Left-arm orthodox,"[1, 0, 1]",0,4,4,0,0
+16,1308248,Dubai International Cricket Stadium,Oman,Khawar Ali,Right-arm legbreak,"[1, 1, 1]",1,1,4,0,0
+17,1308248,Dubai International Cricket Stadium,Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,10,6,1,1
+18,1308248,Dubai International Cricket Stadium,Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,10,9,2,0
+19,1275258,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,16,10,1,1
+20,1275258,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,14,9,2,0
+21,1003273,"Grange Cricket Club Ground, Raeburn Place",Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,2,4,0,0
+22,696731,Hagley Oval,Canada,HS Baidwan,Right-arm medium,"[0, 1, 2]",0,11,6,0,1
+23,696731,Hagley Oval,Canada,Khurram Chohan,Right-arm fast,"[0, 1, 0]",1,1,3,0,0
+24,684679,Mannofield Park,England,JC Tredwell,Right-arm offbreak,"[1, 1, 0]",1,24,9,1,3
+25,684679,Mannofield Park,England,RS Bopara,Right-arm medium,"[0, 1, 2]",0,18,7,1,2
+26,1004285,"Grange Cricket Club Ground, Raeburn Place",Hong Kong,Nadeem Ahmed,Left-arm orthodox,"[1, 0, 1]",0,1,3,0,0
+27,1322032,"Titwood, Glasgow",Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+28,1322032,"Titwood, Glasgow",Nepal,Mohammad Aadil Alam,Right-arm medium,"[0, 1, 2]",1,4,9,1,0
+29,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,JA Duffy,Right-arm fast-medium,"[0, 1, 1]",1,18,8,1,2
+30,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,BM Tickner,Right-arm fast-medium,"[0, 1, 1]",0,17,9,3,0
+31,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",0,23,10,3,1
+32,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",New Zealand,DJ Mitchell,Right-arm medium,"[0, 1, 2]",0,4,6,0,0
+33,1196673,Mannofield Park,Oman,AV Lalcheta,Left-arm orthodox,"[1, 0, 1]",1,0,1,0,0
+34,1275257,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",1,0,1,0,0
+35,1308245,Dubai International Cricket Stadium,Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,1,4,0,0
+36,1196672,Mannofield Park,Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,1,3,0,0
+37,1196672,Mannofield Park,Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",0,8,6,1,0
+38,1196674,Mannofield Park,Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",1,9,6,1,0
+39,1308247,Dubai International Cricket Stadium,Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,14,5,0,2
+40,656467,Bellerive Oval,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,1,3,0,0
+41,1133019,Queens Sports Club,United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",1,3,5,0,0
+42,1312802,"Moosa Cricket Stadium, Pearland",United Arab Emirates,Akif Raja,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+43,1312802,"Moosa Cricket Stadium, Pearland",United Arab Emirates,KP Meiyappan,Right-arm legbreak,"[1, 1, 1]",1,0,1,0,0
+44,1322036,"Mannofield Park, Aberdeen",United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",0,21,11,2,0
+45,1322036,"Mannofield Park, Aberdeen",United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",1,2,3,0,0
+46,1312799,"Choice Moosa Stadium, Pearland",United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",1,0,3,0,0
+47,1312799,"Choice Moosa Stadium, Pearland",United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+48,1322041,"Mannofield Park, Aberdeen",United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,3,5,0,0
+49,1322041,"Mannofield Park, Aberdeen",United States of America,NK Patel,Left-arm orthodox,"[1, 0, 1]",0,22,23,3,0
+50,1322041,"Mannofield Park, Aberdeen",United States of America,SR Taylor,Right-arm offbreak,"[1, 1, 0]",1,9,12,1,0
+51,1089419,"Grange Cricket Club Ground, Raeburn Place",Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,1,3,0,0
+52,1089419,"Grange Cricket Club Ground, Raeburn Place",Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,9,6,1,0
+53,1089419,"Grange Cricket Club Ground, Raeburn Place",Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,10,8,0,0
+54,1089419,"Grange Cricket Club Ground, Raeburn Place",Zimbabwe,R Ngarava,Left-arm fast-medium,"[0, 0, 1]",0,39,23,4,2
+55,1089420,"Grange Cricket Club Ground, Raeburn Place",Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,2,10,0,0
+56,1089420,"Grange Cricket Club Ground, Raeburn Place",Zimbabwe,RP Burl,Right-arm legbreak,"[1, 1, 1]",0,1,2,0,0
+57,1089420,"Grange Cricket Club Ground, Raeburn Place",Zimbabwe,AG Cremer,Right-arm legbreak,"[1, 1, 1]",0,3,12,0,0
+58,1089420,"Grange Cricket Club Ground, Raeburn Place",Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,5,7,1,0
+59,1078660,Dubai International Cricket Stadium,United Arab Emirates,Imran Haider,Right-arm legbreak,"[1, 1, 1]",1,10,10,2,0
+60,1312800,"Moosa Cricket Stadium, Pearland",United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",0,8,12,0,0
+61,1312800,"Moosa Cricket Stadium, Pearland",United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",0,12,9,2,0
+62,1312798,"Choice Moosa Stadium, Pearland",United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",1,5,5,1,0
+63,1312798,"Choice Moosa Stadium, Pearland",United States of America,SR Taylor,Right-arm offbreak,"[1, 1, 0]",0,1,2,0,0
+64,1322038,"Mannofield Park, Aberdeen",United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,7,2,0,1
+65,1322038,"Mannofield Park, Aberdeen",United States of America,SR Taylor,Right-arm offbreak,"[1, 1, 0]",0,10,3,2,0
+66,1322038,"Mannofield Park, Aberdeen",United States of America,IG Holland,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+67,1133028,Harare Sports Club,West Indies,AR Nurse,Right-arm offbreak,"[1, 1, 0]",0,2,3,0,0
+68,1133017,Queens Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,5,8,0,0
+69,1133017,Queens Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,5,6,0,0
+70,1133017,Queens Sports Club,Zimbabwe,B Muzarabani,Right-arm fast-medium,"[0, 1, 1]",0,10,4,2,0
+71,1133017,Queens Sports Club,Zimbabwe,AG Cremer,Right-arm legbreak,"[1, 1, 1]",0,4,5,0,0

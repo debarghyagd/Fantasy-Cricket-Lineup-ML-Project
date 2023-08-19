@@ -1,0 +1,26 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,P Jayawickrama,Left-arm orthodox,"[1, 0, 1]",1,8,8,1,0
+1,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",0,12,13,0,1
+2,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,MD Shanaka,Right-arm medium,"[0, 1, 2]",0,3,3,0,0
+3,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,C Karunaratne,Right-arm fast-medium,"[0, 1, 1]",0,12,12,2,0
+4,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,3,5,0,0
+5,1317900,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,JNT Seales,Right-arm medium,"[0, 1, 2]",0,0,3,0,0
+6,1317900,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,R Shepherd,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+7,1317900,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+8,1317900,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,10,11,0,1
+9,1317902,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,JNT Seales,Right-arm medium,"[0, 1, 2]",0,2,2,0,0
+10,1317902,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,3,4,0,0
+11,1317902,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,HR Walsh,Right-arm legbreak,"[1, 1, 1]",0,1,1,0,0
+12,1325551,Harare Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",1,13,5,0,2
+13,1325551,Harare Sports Club,Zimbabwe,VM Nyauchi,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+14,1317901,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,HR Walsh,Right-arm legbreak,"[1, 1, 1]",0,14,9,0,2
+15,1317901,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,R Shepherd,Right-arm fast-medium,"[0, 1, 1]",1,6,9,0,0
+16,1317901,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,JNT Seales,Right-arm medium,"[0, 1, 2]",0,7,7,1,0
+17,1317901,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,4,6,0,0
+18,1317901,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,9,7,0,1
+19,1325550,Harare Sports Club,Zimbabwe,TL Chivanga,Right-arm fast,"[0, 1, 0]",0,4,8,1,0
+20,1325550,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,13,16,1,1
+21,1325550,Harare Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,13,4,0,2
+22,1325550,Harare Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,5,3,1,0
+23,1325550,Harare Sports Club,Zimbabwe,W Madhevere,Right-arm offbreak,"[1, 1, 0]",0,1,3,0,0
+24,1325550,Harare Sports Club,Zimbabwe,I Kaia,Right-arm legbreak,"[1, 1, 1]",0,6,4,0,1

@@ -1,0 +1,3 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,65648,Brisbane Cricket Ground,India,L Balaji,Right-arm fast-medium,"[0, 1, 1]",0,2,9,0,0
+1,65648,Brisbane Cricket Ground,India,A Nehra,Left-arm fast-medium,"[0, 0, 1]",1,1,6,0,0

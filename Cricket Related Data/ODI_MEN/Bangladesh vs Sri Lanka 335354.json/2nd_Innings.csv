@@ -1,0 +1,237 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tamim Iqbal,Nazimuddin,WPUJC Vaas,0,0,null,0,0,null,null
+1,0.2,Tamim Iqbal,Nazimuddin,WPUJC Vaas,0,0,null,0,0,null,null
+2,0.3,Tamim Iqbal,Nazimuddin,WPUJC Vaas,0,0,null,0,0,null,null
+3,0.4,Tamim Iqbal,Nazimuddin,WPUJC Vaas,0,0,null,0,0,null,null
+4,0.5,Tamim Iqbal,Nazimuddin,WPUJC Vaas,1,0,null,1,0,null,null
+5,0.6,Nazimuddin,Tamim Iqbal,WPUJC Vaas,1,0,null,1,0,null,null
+6,1.1,Nazimuddin,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+7,1.2,Nazimuddin,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+8,1.3,Nazimuddin,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+9,1.4,Nazimuddin,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+10,1.5,Nazimuddin,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+11,1.6,Nazimuddin,Tamim Iqbal,KMDN Kulasekara,0,0,null,0,0,null,null
+12,2.1,Tamim Iqbal,Nazimuddin,WPUJC Vaas,0,0,null,0,0,null,null
+13,2.2,Tamim Iqbal,Nazimuddin,WPUJC Vaas,0,0,null,0,0,null,null
+14,2.3,Tamim Iqbal,Nazimuddin,WPUJC Vaas,1,0,null,1,0,null,null
+15,2.4,Nazimuddin,Tamim Iqbal,WPUJC Vaas,0,0,null,0,0,null,null
+16,2.5,Nazimuddin,Tamim Iqbal,WPUJC Vaas,0,0,null,0,0,null,null
+17,2.6,Nazimuddin,Tamim Iqbal,WPUJC Vaas,0,0,null,0,0,null,null
+18,3.1,Tamim Iqbal,Nazimuddin,KMDN Kulasekara,0,0,null,0,0,null,null
+19,3.2,Tamim Iqbal,Nazimuddin,KMDN Kulasekara,2,0,null,2,0,null,null
+20,3.3,Tamim Iqbal,Nazimuddin,KMDN Kulasekara,4,0,null,4,0,null,null
+21,3.4,Tamim Iqbal,Nazimuddin,KMDN Kulasekara,0,0,null,0,0,null,null
+22,3.5,Tamim Iqbal,Nazimuddin,KMDN Kulasekara,0,0,null,0,0,null,null
+23,3.6,Tamim Iqbal,Nazimuddin,KMDN Kulasekara,0,0,null,0,0,null,null
+24,4.1,Nazimuddin,Tamim Iqbal,WPUJC Vaas,0,0,null,0,0,null,null
+25,4.2,Nazimuddin,Tamim Iqbal,WPUJC Vaas,0,0,null,0,0,null,null
+26,4.3,Nazimuddin,Tamim Iqbal,WPUJC Vaas,0,0,null,0,0,null,null
+27,4.4,Nazimuddin,Tamim Iqbal,WPUJC Vaas,1,0,null,1,0,null,null
+28,4.5,Tamim Iqbal,Nazimuddin,WPUJC Vaas,0,0,null,0,1,Tamim Iqbal,caught
+29,4.6,Mohammad Ashraful,Nazimuddin,WPUJC Vaas,0,0,null,0,0,null,null
+30,5.1,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,0,0,null,0,0,null,null
+31,5.2,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,0,0,null,0,0,null,null
+32,5.3,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,0,0,null,0,0,null,null
+33,5.4,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,4,0,null,4,0,null,null
+34,5.5,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,0,0,null,0,0,null,null
+35,5.6,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,0,0,null,0,0,null,null
+36,6.1,Mohammad Ashraful,Nazimuddin,WPUJC Vaas,0,0,null,0,0,null,null
+37,6.2,Mohammad Ashraful,Nazimuddin,WPUJC Vaas,1,0,null,1,0,null,null
+38,6.3,Nazimuddin,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+39,6.4,Nazimuddin,Mohammad Ashraful,WPUJC Vaas,0,0,null,0,0,null,null
+40,6.5,Nazimuddin,Mohammad Ashraful,WPUJC Vaas,0,4,legbyes ,4,0,null,null
+41,6.6,Nazimuddin,Mohammad Ashraful,WPUJC Vaas,4,0,null,4,0,null,null
+42,7.1,Mohammad Ashraful,Nazimuddin,KMDN Kulasekara,0,0,null,0,0,null,null
+43,7.2,Mohammad Ashraful,Nazimuddin,KMDN Kulasekara,0,0,null,0,0,null,null
+44,7.3,Mohammad Ashraful,Nazimuddin,KMDN Kulasekara,1,0,null,1,0,null,null
+45,7.4,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,0,0,null,0,0,null,null
+46,7.5,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,0,0,null,0,0,null,null
+47,7.6,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,0,0,null,0,0,null,null
+48,8.1,Mohammad Ashraful,Nazimuddin,WPUJC Vaas,0,0,null,0,0,null,null
+49,8.2,Mohammad Ashraful,Nazimuddin,WPUJC Vaas,4,0,null,4,0,null,null
+50,8.3,Mohammad Ashraful,Nazimuddin,WPUJC Vaas,0,0,null,0,0,null,null
+51,8.4,Mohammad Ashraful,Nazimuddin,WPUJC Vaas,4,0,null,4,0,null,null
+52,8.5,Mohammad Ashraful,Nazimuddin,WPUJC Vaas,0,0,null,0,0,null,null
+53,8.6,Mohammad Ashraful,Nazimuddin,WPUJC Vaas,4,0,null,4,0,null,null
+54,9.1,Nazimuddin,Mohammad Ashraful,T Thushara,2,0,null,2,0,null,null
+55,9.2,Nazimuddin,Mohammad Ashraful,T Thushara,0,0,null,0,0,null,null
+56,9.3,Nazimuddin,Mohammad Ashraful,T Thushara,4,0,null,4,0,null,null
+57,9.4,Nazimuddin,Mohammad Ashraful,T Thushara,0,0,null,0,0,null,null
+58,9.5,Nazimuddin,Mohammad Ashraful,T Thushara,0,0,null,0,0,null,null
+59,9.6,Nazimuddin,Mohammad Ashraful,T Thushara,0,1,legbyes ,1,0,null,null
+60,10.1,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,0,0,null,0,0,null,null
+61,10.2,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,4,0,null,4,0,null,null
+62,10.3,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,0,0,null,0,0,null,null
+63,10.4,Nazimuddin,Mohammad Ashraful,KMDN Kulasekara,1,0,null,1,0,null,null
+64,10.5,Mohammad Ashraful,Nazimuddin,KMDN Kulasekara,0,0,null,0,0,null,null
+65,10.6,Mohammad Ashraful,Nazimuddin,KMDN Kulasekara,0,0,null,0,0,null,null
+66,11.1,Nazimuddin,Mohammad Ashraful,T Thushara,4,0,null,4,0,null,null
+67,11.2,Nazimuddin,Mohammad Ashraful,T Thushara,0,0,null,0,0,null,null
+68,11.3,Nazimuddin,Mohammad Ashraful,T Thushara,0,0,null,0,0,null,null
+69,11.4,Nazimuddin,Mohammad Ashraful,T Thushara,1,0,null,1,0,null,null
+70,11.5,Mohammad Ashraful,Nazimuddin,T Thushara,0,0,null,0,1,Mohammad Ashraful,caught
+71,11.6,Raqibul Hasan,Nazimuddin,T Thushara,0,2,wides ,2,0,null,null
+72,11.7,Nazimuddin,Raqibul Hasan,T Thushara,0,0,null,0,0,null,null
+73,12.1,Raqibul Hasan,Nazimuddin,KMDN Kulasekara,0,0,null,0,0,null,null
+74,12.2,Raqibul Hasan,Nazimuddin,KMDN Kulasekara,0,0,null,0,0,null,null
+75,12.3,Raqibul Hasan,Nazimuddin,KMDN Kulasekara,0,0,null,0,0,null,null
+76,12.4,Raqibul Hasan,Nazimuddin,KMDN Kulasekara,2,0,null,2,0,null,null
+77,12.5,Raqibul Hasan,Nazimuddin,KMDN Kulasekara,4,0,null,4,0,null,null
+78,12.6,Raqibul Hasan,Nazimuddin,KMDN Kulasekara,4,0,null,4,0,null,null
+79,13.1,Nazimuddin,Raqibul Hasan,T Thushara,0,0,null,0,0,null,null
+80,13.2,Nazimuddin,Raqibul Hasan,T Thushara,0,0,null,0,0,null,null
+81,13.3,Nazimuddin,Raqibul Hasan,T Thushara,1,0,null,1,0,null,null
+82,13.4,Raqibul Hasan,Nazimuddin,T Thushara,0,0,null,0,0,null,null
+83,13.5,Raqibul Hasan,Nazimuddin,T Thushara,4,0,null,4,0,null,null
+84,13.6,Raqibul Hasan,Nazimuddin,T Thushara,0,0,null,0,0,null,null
+85,14.1,Nazimuddin,Raqibul Hasan,BAW Mendis,4,0,null,4,0,null,null
+86,14.2,Nazimuddin,Raqibul Hasan,BAW Mendis,6,0,null,6,0,null,null
+87,14.3,Nazimuddin,Raqibul Hasan,BAW Mendis,0,0,null,0,0,null,null
+88,14.4,Nazimuddin,Raqibul Hasan,BAW Mendis,0,0,null,0,0,null,null
+89,14.5,Nazimuddin,Raqibul Hasan,BAW Mendis,1,0,null,1,0,null,null
+90,14.6,Raqibul Hasan,Nazimuddin,BAW Mendis,0,0,null,0,0,null,null
+91,15.1,Nazimuddin,Raqibul Hasan,T Thushara,4,0,null,4,0,null,null
+92,15.2,Nazimuddin,Raqibul Hasan,T Thushara,0,0,null,0,0,null,null
+93,15.3,Nazimuddin,Raqibul Hasan,T Thushara,0,0,null,0,0,null,null
+94,15.4,Nazimuddin,Raqibul Hasan,T Thushara,2,1,noballs ,3,0,null,null
+95,15.5,Nazimuddin,Raqibul Hasan,T Thushara,0,0,null,0,0,null,null
+96,15.6,Nazimuddin,Raqibul Hasan,T Thushara,1,0,null,1,0,null,null
+97,15.7,Raqibul Hasan,Nazimuddin,T Thushara,4,0,null,4,0,null,null
+98,16.1,Nazimuddin,Raqibul Hasan,BAW Mendis,0,0,null,0,0,null,null
+99,16.2,Nazimuddin,Raqibul Hasan,BAW Mendis,1,0,null,1,0,null,null
+100,16.3,Raqibul Hasan,Nazimuddin,BAW Mendis,1,0,null,1,0,null,null
+101,16.4,Nazimuddin,Raqibul Hasan,BAW Mendis,1,0,null,1,0,null,null
+102,16.5,Raqibul Hasan,Nazimuddin,BAW Mendis,0,0,null,0,1,Nazimuddin,run out
+103,16.6,Raqibul Hasan,Mushfiqur Rahim,BAW Mendis,0,0,null,0,0,null,null
+104,17.1,Mushfiqur Rahim,Raqibul Hasan,T Thushara,0,0,null,0,0,null,null
+105,17.2,Mushfiqur Rahim,Raqibul Hasan,T Thushara,0,0,null,0,0,null,null
+106,17.3,Mushfiqur Rahim,Raqibul Hasan,T Thushara,0,0,null,0,0,null,null
+107,17.4,Mushfiqur Rahim,Raqibul Hasan,T Thushara,0,0,null,0,0,null,null
+108,17.5,Mushfiqur Rahim,Raqibul Hasan,T Thushara,4,0,null,4,0,null,null
+109,17.6,Mushfiqur Rahim,Raqibul Hasan,T Thushara,2,0,null,2,0,null,null
+110,18.1,Raqibul Hasan,Mushfiqur Rahim,BAW Mendis,0,0,null,0,0,null,null
+111,18.2,Raqibul Hasan,Mushfiqur Rahim,BAW Mendis,1,0,null,1,0,null,null
+112,18.3,Mushfiqur Rahim,Raqibul Hasan,BAW Mendis,0,0,null,0,0,null,null
+113,18.4,Mushfiqur Rahim,Raqibul Hasan,BAW Mendis,1,0,null,1,0,null,null
+114,18.5,Raqibul Hasan,Mushfiqur Rahim,BAW Mendis,0,0,null,0,0,null,null
+115,18.6,Raqibul Hasan,Mushfiqur Rahim,BAW Mendis,1,0,null,1,0,null,null
+116,19.1,Raqibul Hasan,Mushfiqur Rahim,M Muralitharan,0,1,wides ,1,0,null,null
+117,19.2,Raqibul Hasan,Mushfiqur Rahim,M Muralitharan,0,0,null,0,0,null,null
+118,19.3,Raqibul Hasan,Mushfiqur Rahim,M Muralitharan,2,0,null,2,0,null,null
+119,19.4,Raqibul Hasan,Mushfiqur Rahim,M Muralitharan,0,0,null,0,0,null,null
+120,19.5,Raqibul Hasan,Mushfiqur Rahim,M Muralitharan,0,0,null,0,0,null,null
+121,19.6,Raqibul Hasan,Mushfiqur Rahim,M Muralitharan,0,0,null,0,0,null,null
+122,19.7,Raqibul Hasan,Mushfiqur Rahim,M Muralitharan,0,3,wides ,3,0,null,null
+123,19.8,Raqibul Hasan,Mushfiqur Rahim,M Muralitharan,1,0,null,1,0,null,null
+124,20.1,Raqibul Hasan,Mushfiqur Rahim,CK Kapugedera,0,0,null,0,0,null,null
+125,20.2,Raqibul Hasan,Mushfiqur Rahim,CK Kapugedera,2,0,null,2,0,null,null
+126,20.3,Raqibul Hasan,Mushfiqur Rahim,CK Kapugedera,0,0,null,0,0,null,null
+127,20.4,Raqibul Hasan,Mushfiqur Rahim,CK Kapugedera,0,0,null,0,0,null,null
+128,20.5,Raqibul Hasan,Mushfiqur Rahim,CK Kapugedera,0,0,null,0,0,null,null
+129,20.6,Raqibul Hasan,Mushfiqur Rahim,CK Kapugedera,0,0,null,0,0,null,null
+130,21.1,Mushfiqur Rahim,Raqibul Hasan,M Muralitharan,1,0,null,1,0,null,null
+131,21.2,Raqibul Hasan,Mushfiqur Rahim,M Muralitharan,1,0,null,1,0,null,null
+132,21.3,Mushfiqur Rahim,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+133,21.4,Mushfiqur Rahim,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+134,21.5,Mushfiqur Rahim,Raqibul Hasan,M Muralitharan,0,0,null,0,1,Mushfiqur Rahim,caught
+135,21.6,Alok Kapali,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+136,22.1,Raqibul Hasan,Alok Kapali,CK Kapugedera,1,0,null,1,0,null,null
+137,22.2,Alok Kapali,Raqibul Hasan,CK Kapugedera,1,0,null,1,0,null,null
+138,22.3,Raqibul Hasan,Alok Kapali,CK Kapugedera,0,0,null,0,0,null,null
+139,22.4,Raqibul Hasan,Alok Kapali,CK Kapugedera,1,0,null,1,0,null,null
+140,22.5,Alok Kapali,Raqibul Hasan,CK Kapugedera,1,0,null,1,0,null,null
+141,22.6,Raqibul Hasan,Alok Kapali,CK Kapugedera,0,1,legbyes ,1,0,null,null
+142,23.1,Raqibul Hasan,Alok Kapali,M Muralitharan,0,0,null,0,0,null,null
+143,23.2,Raqibul Hasan,Alok Kapali,M Muralitharan,0,0,null,0,0,null,null
+144,23.3,Raqibul Hasan,Alok Kapali,M Muralitharan,0,0,null,0,0,null,null
+145,23.4,Raqibul Hasan,Alok Kapali,M Muralitharan,0,1,wides ,1,0,null,null
+146,23.5,Raqibul Hasan,Alok Kapali,M Muralitharan,0,0,null,0,0,null,null
+147,23.6,Raqibul Hasan,Alok Kapali,M Muralitharan,1,0,null,1,0,null,null
+148,23.7,Alok Kapali,Raqibul Hasan,M Muralitharan,1,0,null,1,0,null,null
+149,24.1,Alok Kapali,Raqibul Hasan,CK Kapugedera,1,0,null,1,0,null,null
+150,24.2,Raqibul Hasan,Alok Kapali,CK Kapugedera,0,0,null,0,0,null,null
+151,24.3,Raqibul Hasan,Alok Kapali,CK Kapugedera,1,0,null,1,0,null,null
+152,24.4,Alok Kapali,Raqibul Hasan,CK Kapugedera,1,0,null,1,0,null,null
+153,24.5,Raqibul Hasan,Alok Kapali,CK Kapugedera,0,0,null,0,0,null,null
+154,24.6,Raqibul Hasan,Alok Kapali,CK Kapugedera,4,0,null,4,0,null,null
+155,25.1,Alok Kapali,Raqibul Hasan,M Muralitharan,4,0,null,4,0,null,null
+156,25.2,Alok Kapali,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+157,25.3,Alok Kapali,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+158,25.4,Alok Kapali,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+159,25.5,Alok Kapali,Raqibul Hasan,M Muralitharan,0,0,null,0,1,Alok Kapali,lbw
+160,25.6,Mahmudullah,Raqibul Hasan,M Muralitharan,1,0,null,1,0,null,null
+161,26.1,Mahmudullah,Raqibul Hasan,CK Kapugedera,1,0,null,1,0,null,null
+162,26.2,Raqibul Hasan,Mahmudullah,CK Kapugedera,2,0,null,2,0,null,null
+163,26.3,Raqibul Hasan,Mahmudullah,CK Kapugedera,0,0,null,0,0,null,null
+164,26.4,Raqibul Hasan,Mahmudullah,CK Kapugedera,4,0,null,4,0,null,null
+165,26.5,Raqibul Hasan,Mahmudullah,CK Kapugedera,1,0,null,1,0,null,null
+166,26.6,Mahmudullah,Raqibul Hasan,CK Kapugedera,0,0,null,0,0,null,null
+167,27.1,Raqibul Hasan,Mahmudullah,M Muralitharan,0,0,null,0,0,null,null
+168,27.2,Raqibul Hasan,Mahmudullah,M Muralitharan,0,0,null,0,0,null,null
+169,27.3,Raqibul Hasan,Mahmudullah,M Muralitharan,1,0,null,1,0,null,null
+170,27.4,Mahmudullah,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+171,27.5,Mahmudullah,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+172,27.6,Mahmudullah,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+173,28.1,Raqibul Hasan,Mahmudullah,CK Kapugedera,1,0,null,1,0,null,null
+174,28.2,Mahmudullah,Raqibul Hasan,CK Kapugedera,1,0,null,1,0,null,null
+175,28.3,Raqibul Hasan,Mahmudullah,CK Kapugedera,0,0,null,0,0,null,null
+176,28.4,Raqibul Hasan,Mahmudullah,CK Kapugedera,1,0,null,1,0,null,null
+177,28.5,Mahmudullah,Raqibul Hasan,CK Kapugedera,1,0,null,1,0,null,null
+178,28.6,Raqibul Hasan,Mahmudullah,CK Kapugedera,0,0,null,0,0,null,null
+179,29.1,Mahmudullah,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+180,29.2,Mahmudullah,Raqibul Hasan,M Muralitharan,1,0,null,1,0,null,null
+181,29.3,Raqibul Hasan,Mahmudullah,M Muralitharan,0,0,null,0,0,null,null
+182,29.4,Raqibul Hasan,Mahmudullah,M Muralitharan,1,0,null,1,0,null,null
+183,29.5,Mahmudullah,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+184,29.6,Mahmudullah,Raqibul Hasan,M Muralitharan,0,0,null,0,0,null,null
+185,30.1,Raqibul Hasan,Mahmudullah,BAW Mendis,0,0,null,0,0,null,null
+186,30.2,Raqibul Hasan,Mahmudullah,BAW Mendis,0,0,null,0,0,null,null
+187,30.3,Raqibul Hasan,Mahmudullah,BAW Mendis,1,0,null,1,0,null,null
+188,30.4,Mahmudullah,Raqibul Hasan,BAW Mendis,1,0,null,1,0,null,null
+189,30.5,Raqibul Hasan,Mahmudullah,BAW Mendis,1,0,null,1,0,null,null
+190,30.6,Mahmudullah,Raqibul Hasan,BAW Mendis,0,0,null,0,0,null,null
+191,31.1,Raqibul Hasan,Mahmudullah,M Muralitharan,4,0,null,4,0,null,null
+192,31.2,Raqibul Hasan,Mahmudullah,M Muralitharan,0,0,null,0,1,Raqibul Hasan,caught
+193,31.3,Abdur Razzak,Mahmudullah,M Muralitharan,1,0,null,1,0,null,null
+194,31.4,Mahmudullah,Abdur Razzak,M Muralitharan,0,0,null,0,0,null,null
+195,31.5,Mahmudullah,Abdur Razzak,M Muralitharan,1,0,null,1,0,null,null
+196,31.6,Abdur Razzak,Mahmudullah,M Muralitharan,0,0,null,0,0,null,null
+197,32.1,Mahmudullah,Abdur Razzak,BAW Mendis,1,0,null,1,0,null,null
+198,32.2,Abdur Razzak,Mahmudullah,BAW Mendis,0,0,null,0,0,null,null
+199,32.3,Abdur Razzak,Mahmudullah,BAW Mendis,0,0,null,0,0,null,null
+200,32.4,Abdur Razzak,Mahmudullah,BAW Mendis,1,0,null,1,0,null,null
+201,32.5,Mahmudullah,Abdur Razzak,BAW Mendis,0,0,null,0,0,null,null
+202,32.6,Mahmudullah,Abdur Razzak,BAW Mendis,0,0,null,0,1,Mahmudullah,caught
+203,33.1,Abdur Razzak,Farhad Reza,M Muralitharan,0,0,null,0,0,null,null
+204,33.2,Abdur Razzak,Farhad Reza,M Muralitharan,0,0,null,0,0,null,null
+205,33.3,Abdur Razzak,Farhad Reza,M Muralitharan,2,0,null,2,0,null,null
+206,33.4,Abdur Razzak,Farhad Reza,M Muralitharan,2,0,null,2,0,null,null
+207,33.5,Abdur Razzak,Farhad Reza,M Muralitharan,0,0,null,0,0,null,null
+208,33.6,Abdur Razzak,Farhad Reza,M Muralitharan,0,0,null,0,0,null,null
+209,34.1,Farhad Reza,Abdur Razzak,BAW Mendis,0,0,null,0,0,null,null
+210,34.2,Farhad Reza,Abdur Razzak,BAW Mendis,0,0,null,0,0,null,null
+211,34.3,Farhad Reza,Abdur Razzak,BAW Mendis,0,0,null,0,0,null,null
+212,34.4,Farhad Reza,Abdur Razzak,BAW Mendis,1,0,null,1,0,null,null
+213,34.5,Abdur Razzak,Farhad Reza,BAW Mendis,0,0,null,0,0,null,null
+214,34.6,Abdur Razzak,Farhad Reza,BAW Mendis,1,0,null,1,0,null,null
+215,35.1,Abdur Razzak,Farhad Reza,M Muralitharan,0,0,null,0,1,Abdur Razzak,bowled
+216,35.2,Mashrafe Mortaza,Farhad Reza,M Muralitharan,1,0,null,1,0,null,null
+217,35.3,Farhad Reza,Mashrafe Mortaza,M Muralitharan,0,0,null,0,0,null,null
+218,35.4,Farhad Reza,Mashrafe Mortaza,M Muralitharan,0,0,null,0,0,null,null
+219,35.5,Farhad Reza,Mashrafe Mortaza,M Muralitharan,0,0,null,0,0,null,null
+220,35.6,Farhad Reza,Mashrafe Mortaza,M Muralitharan,0,0,null,0,0,null,null
+221,36.1,Mashrafe Mortaza,Farhad Reza,BAW Mendis,1,0,null,1,0,null,null
+222,36.2,Farhad Reza,Mashrafe Mortaza,BAW Mendis,0,0,null,0,0,null,null
+223,36.3,Farhad Reza,Mashrafe Mortaza,BAW Mendis,0,0,null,0,0,null,null
+224,36.4,Farhad Reza,Mashrafe Mortaza,BAW Mendis,0,0,null,0,0,null,null
+225,36.5,Farhad Reza,Mashrafe Mortaza,BAW Mendis,0,0,null,0,0,null,null
+226,36.6,Farhad Reza,Mashrafe Mortaza,BAW Mendis,2,0,null,2,0,null,null
+227,37.1,Mashrafe Mortaza,Farhad Reza,M Muralitharan,0,0,null,0,0,null,null
+228,37.2,Mashrafe Mortaza,Farhad Reza,M Muralitharan,0,0,null,0,0,null,null
+229,37.3,Mashrafe Mortaza,Farhad Reza,M Muralitharan,0,0,null,0,0,null,null
+230,37.4,Mashrafe Mortaza,Farhad Reza,M Muralitharan,0,0,null,0,0,null,null
+231,37.5,Mashrafe Mortaza,Farhad Reza,M Muralitharan,0,0,null,0,0,null,null
+232,37.6,Mashrafe Mortaza,Farhad Reza,M Muralitharan,0,0,null,0,1,Mashrafe Mortaza,caught
+233,38.1,Farhad Reza,Shahadat Hossain,BAW Mendis,2,0,null,2,0,null,null
+234,38.2,Farhad Reza,Shahadat Hossain,BAW Mendis,0,0,null,0,0,null,null
+235,38.3,Farhad Reza,Shahadat Hossain,BAW Mendis,0,0,null,0,1,Farhad Reza,caught

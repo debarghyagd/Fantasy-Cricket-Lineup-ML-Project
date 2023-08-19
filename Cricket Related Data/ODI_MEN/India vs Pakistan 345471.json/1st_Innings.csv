@@ -1,0 +1,304 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Salman Butt,Kamran Akmal,P Kumar,0,0,null,0,0,null,null
+1,0.2,Salman Butt,Kamran Akmal,P Kumar,0,0,null,0,0,null,null
+2,0.3,Salman Butt,Kamran Akmal,P Kumar,0,0,null,0,0,null,null
+3,0.4,Salman Butt,Kamran Akmal,P Kumar,1,0,null,1,0,null,null
+4,0.5,Kamran Akmal,Salman Butt,P Kumar,1,0,null,1,0,null,null
+5,0.6,Salman Butt,Kamran Akmal,P Kumar,0,0,null,0,0,null,null
+6,1.1,Kamran Akmal,Salman Butt,I Sharma,0,0,null,0,0,null,null
+7,1.2,Kamran Akmal,Salman Butt,I Sharma,1,0,null,1,0,null,null
+8,1.3,Salman Butt,Kamran Akmal,I Sharma,4,0,null,4,0,null,null
+9,1.4,Salman Butt,Kamran Akmal,I Sharma,0,0,null,0,0,null,null
+10,1.5,Salman Butt,Kamran Akmal,I Sharma,0,0,null,0,0,null,null
+11,1.6,Salman Butt,Kamran Akmal,I Sharma,0,0,null,0,0,null,null
+12,2.1,Kamran Akmal,Salman Butt,P Kumar,0,0,null,0,0,null,null
+13,2.2,Kamran Akmal,Salman Butt,P Kumar,0,0,null,0,0,null,null
+14,2.3,Kamran Akmal,Salman Butt,P Kumar,0,0,null,0,0,null,null
+15,2.4,Kamran Akmal,Salman Butt,P Kumar,0,0,null,0,0,null,null
+16,2.5,Kamran Akmal,Salman Butt,P Kumar,0,0,null,0,0,null,null
+17,2.6,Kamran Akmal,Salman Butt,P Kumar,0,0,null,0,0,null,null
+18,3.1,Salman Butt,Kamran Akmal,I Sharma,1,0,null,1,0,null,null
+19,3.2,Kamran Akmal,Salman Butt,I Sharma,4,0,null,4,0,null,null
+20,3.3,Kamran Akmal,Salman Butt,I Sharma,0,0,null,0,0,null,null
+21,3.4,Kamran Akmal,Salman Butt,I Sharma,0,0,null,0,0,null,null
+22,3.5,Kamran Akmal,Salman Butt,I Sharma,0,0,null,0,0,null,null
+23,3.6,Kamran Akmal,Salman Butt,I Sharma,0,0,null,0,0,null,null
+24,4.1,Salman Butt,Kamran Akmal,P Kumar,0,0,null,0,0,null,null
+25,4.2,Salman Butt,Kamran Akmal,P Kumar,0,0,null,0,0,null,null
+26,4.3,Salman Butt,Kamran Akmal,P Kumar,1,0,null,1,0,null,null
+27,4.4,Kamran Akmal,Salman Butt,P Kumar,0,0,null,0,0,null,null
+28,4.5,Kamran Akmal,Salman Butt,P Kumar,0,0,null,0,0,null,null
+29,4.6,Kamran Akmal,Salman Butt,P Kumar,0,0,null,0,0,null,null
+30,5.1,Salman Butt,Kamran Akmal,I Sharma,0,0,null,0,0,null,null
+31,5.2,Salman Butt,Kamran Akmal,I Sharma,1,0,null,1,0,null,null
+32,5.3,Kamran Akmal,Salman Butt,I Sharma,0,0,null,0,0,null,null
+33,5.4,Kamran Akmal,Salman Butt,I Sharma,0,0,null,0,0,null,null
+34,5.5,Kamran Akmal,Salman Butt,I Sharma,0,0,null,0,0,null,null
+35,5.6,Kamran Akmal,Salman Butt,I Sharma,4,0,null,4,0,null,null
+36,6.1,Salman Butt,Kamran Akmal,P Kumar,0,0,null,0,0,null,null
+37,6.2,Salman Butt,Kamran Akmal,P Kumar,1,0,null,1,0,null,null
+38,6.3,Kamran Akmal,Salman Butt,P Kumar,0,0,null,0,0,null,null
+39,6.4,Kamran Akmal,Salman Butt,P Kumar,0,0,null,0,0,null,null
+40,6.5,Kamran Akmal,Salman Butt,P Kumar,1,0,null,1,0,null,null
+41,6.6,Salman Butt,Kamran Akmal,P Kumar,1,0,null,1,0,null,null
+42,7.1,Salman Butt,Kamran Akmal,IK Pathan,4,0,null,4,0,null,null
+43,7.2,Salman Butt,Kamran Akmal,IK Pathan,0,0,null,0,0,null,null
+44,7.3,Salman Butt,Kamran Akmal,IK Pathan,0,0,null,0,0,null,null
+45,7.4,Salman Butt,Kamran Akmal,IK Pathan,0,0,null,0,0,null,null
+46,7.5,Salman Butt,Kamran Akmal,IK Pathan,0,0,null,0,0,null,null
+47,7.6,Salman Butt,Kamran Akmal,IK Pathan,1,0,null,1,0,null,null
+48,8.1,Salman Butt,Kamran Akmal,P Kumar,0,0,null,0,0,null,null
+49,8.2,Salman Butt,Kamran Akmal,P Kumar,0,0,null,0,0,null,null
+50,8.3,Salman Butt,Kamran Akmal,P Kumar,0,0,null,0,0,null,null
+51,8.4,Salman Butt,Kamran Akmal,P Kumar,2,0,null,2,0,null,null
+52,8.5,Salman Butt,Kamran Akmal,P Kumar,0,0,null,0,0,null,null
+53,8.6,Salman Butt,Kamran Akmal,P Kumar,1,0,null,1,0,null,null
+54,9.1,Salman Butt,Kamran Akmal,IK Pathan,1,0,null,1,0,null,null
+55,9.2,Kamran Akmal,Salman Butt,IK Pathan,4,0,null,4,0,null,null
+56,9.3,Kamran Akmal,Salman Butt,IK Pathan,0,0,null,0,1,Kamran Akmal,caught
+57,9.4,Younis Khan,Salman Butt,IK Pathan,4,0,null,4,0,null,null
+58,9.5,Younis Khan,Salman Butt,IK Pathan,1,0,null,1,0,null,null
+59,9.6,Salman Butt,Younis Khan,IK Pathan,0,0,null,0,0,null,null
+60,10.1,Younis Khan,Salman Butt,P Kumar,0,0,null,0,0,null,null
+61,10.2,Younis Khan,Salman Butt,P Kumar,0,0,null,0,0,null,null
+62,10.3,Younis Khan,Salman Butt,P Kumar,1,0,null,1,0,null,null
+63,10.4,Salman Butt,Younis Khan,P Kumar,0,0,null,0,0,null,null
+64,10.5,Salman Butt,Younis Khan,P Kumar,0,0,null,0,0,null,null
+65,10.6,Salman Butt,Younis Khan,P Kumar,0,0,null,0,0,null,null
+66,11.1,Younis Khan,Salman Butt,IK Pathan,4,0,null,4,0,null,null
+67,11.2,Younis Khan,Salman Butt,IK Pathan,0,0,null,0,0,null,null
+68,11.3,Younis Khan,Salman Butt,IK Pathan,0,0,null,0,0,null,null
+69,11.4,Younis Khan,Salman Butt,IK Pathan,0,0,null,0,0,null,null
+70,11.5,Younis Khan,Salman Butt,IK Pathan,0,0,null,0,0,null,null
+71,11.6,Younis Khan,Salman Butt,IK Pathan,0,0,null,0,0,null,null
+72,12.1,Salman Butt,Younis Khan,I Sharma,0,0,null,0,0,null,null
+73,12.2,Salman Butt,Younis Khan,I Sharma,1,0,null,1,0,null,null
+74,12.3,Younis Khan,Salman Butt,I Sharma,0,0,null,0,0,null,null
+75,12.4,Younis Khan,Salman Butt,I Sharma,0,0,null,0,0,null,null
+76,12.5,Younis Khan,Salman Butt,I Sharma,0,0,null,0,0,null,null
+77,12.6,Younis Khan,Salman Butt,I Sharma,0,0,null,0,0,null,null
+78,13.1,Salman Butt,Younis Khan,IK Pathan,1,0,null,1,0,null,null
+79,13.2,Younis Khan,Salman Butt,IK Pathan,1,0,null,1,0,null,null
+80,13.3,Salman Butt,Younis Khan,IK Pathan,4,0,null,4,0,null,null
+81,13.4,Salman Butt,Younis Khan,IK Pathan,4,0,null,4,0,null,null
+82,13.5,Salman Butt,Younis Khan,IK Pathan,0,0,null,0,0,null,null
+83,13.6,Salman Butt,Younis Khan,IK Pathan,0,0,null,0,0,null,null
+84,14.1,Younis Khan,Salman Butt,I Sharma,1,0,null,1,0,null,null
+85,14.2,Salman Butt,Younis Khan,I Sharma,0,0,null,0,0,null,null
+86,14.3,Salman Butt,Younis Khan,I Sharma,0,0,null,0,0,null,null
+87,14.4,Salman Butt,Younis Khan,I Sharma,0,0,null,0,0,null,null
+88,14.5,Salman Butt,Younis Khan,I Sharma,0,0,null,0,0,null,null
+89,14.6,Salman Butt,Younis Khan,I Sharma,0,0,null,0,0,null,null
+90,15.1,Younis Khan,Salman Butt,IK Pathan,1,0,null,1,0,null,null
+91,15.2,Salman Butt,Younis Khan,IK Pathan,1,0,null,1,0,null,null
+92,15.3,Younis Khan,Salman Butt,IK Pathan,1,0,null,1,0,null,null
+93,15.4,Salman Butt,Younis Khan,IK Pathan,1,0,null,1,0,null,null
+94,15.5,Younis Khan,Salman Butt,IK Pathan,0,0,null,0,0,null,null
+95,15.6,Younis Khan,Salman Butt,IK Pathan,1,0,null,1,0,null,null
+96,16.1,Younis Khan,Salman Butt,I Sharma,0,0,null,0,0,null,null
+97,16.2,Younis Khan,Salman Butt,I Sharma,0,0,null,0,0,null,null
+98,16.3,Younis Khan,Salman Butt,I Sharma,0,0,null,0,0,null,null
+99,16.4,Younis Khan,Salman Butt,I Sharma,0,0,null,0,0,null,null
+100,16.5,Younis Khan,Salman Butt,I Sharma,0,1,legbyes ,1,0,null,null
+101,16.6,Salman Butt,Younis Khan,I Sharma,1,0,null,1,0,null,null
+102,17.1,Salman Butt,Younis Khan,PP Chawla,0,0,null,0,0,null,null
+103,17.2,Salman Butt,Younis Khan,PP Chawla,2,0,null,2,0,null,null
+104,17.3,Salman Butt,Younis Khan,PP Chawla,0,0,null,0,0,null,null
+105,17.4,Salman Butt,Younis Khan,PP Chawla,1,0,null,1,0,null,null
+106,17.5,Younis Khan,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+107,17.6,Younis Khan,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+108,18.1,Salman Butt,Younis Khan,IK Pathan,0,0,null,0,0,null,null
+109,18.2,Salman Butt,Younis Khan,IK Pathan,0,0,null,0,0,null,null
+110,18.3,Salman Butt,Younis Khan,IK Pathan,1,0,null,1,0,null,null
+111,18.4,Younis Khan,Salman Butt,IK Pathan,1,0,null,1,0,null,null
+112,18.5,Salman Butt,Younis Khan,IK Pathan,1,0,null,1,0,null,null
+113,18.6,Younis Khan,Salman Butt,IK Pathan,0,0,null,0,0,null,null
+114,19.1,Salman Butt,Younis Khan,PP Chawla,0,0,null,0,0,null,null
+115,19.2,Salman Butt,Younis Khan,PP Chawla,4,0,null,4,0,null,null
+116,19.3,Salman Butt,Younis Khan,PP Chawla,0,0,null,0,0,null,null
+117,19.4,Salman Butt,Younis Khan,PP Chawla,0,0,null,0,0,null,null
+118,19.5,Salman Butt,Younis Khan,PP Chawla,0,0,null,0,0,null,null
+119,19.6,Salman Butt,Younis Khan,PP Chawla,2,0,null,2,0,null,null
+120,20.1,Younis Khan,Salman Butt,V Sehwag,1,0,null,1,0,null,null
+121,20.2,Salman Butt,Younis Khan,V Sehwag,0,0,null,0,0,null,null
+122,20.3,Salman Butt,Younis Khan,V Sehwag,0,0,null,0,0,null,null
+123,20.4,Salman Butt,Younis Khan,V Sehwag,0,1,legbyes ,1,0,null,null
+124,20.5,Younis Khan,Salman Butt,V Sehwag,0,0,null,0,0,null,null
+125,20.6,Younis Khan,Salman Butt,V Sehwag,0,0,null,0,0,null,null
+126,21.1,Salman Butt,Younis Khan,PP Chawla,0,0,null,0,0,null,null
+127,21.2,Salman Butt,Younis Khan,PP Chawla,1,0,null,1,0,null,null
+128,21.3,Younis Khan,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+129,21.4,Younis Khan,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+130,21.5,Salman Butt,Younis Khan,PP Chawla,1,0,null,1,0,null,null
+131,21.6,Younis Khan,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+132,22.1,Younis Khan,Salman Butt,V Sehwag,6,0,null,6,0,null,null
+133,22.2,Younis Khan,Salman Butt,V Sehwag,1,0,null,1,0,null,null
+134,22.3,Salman Butt,Younis Khan,V Sehwag,1,0,null,1,0,null,null
+135,22.4,Younis Khan,Salman Butt,V Sehwag,0,0,null,0,0,null,null
+136,22.5,Younis Khan,Salman Butt,V Sehwag,2,0,null,2,0,null,null
+137,22.6,Younis Khan,Salman Butt,V Sehwag,1,0,null,1,0,null,null
+138,23.1,Younis Khan,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+139,23.2,Younis Khan,Salman Butt,PP Chawla,2,0,null,2,0,null,null
+140,23.3,Younis Khan,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+141,23.4,Younis Khan,Salman Butt,PP Chawla,6,0,null,6,0,null,null
+142,23.5,Younis Khan,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+143,23.6,Younis Khan,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+144,24.1,Salman Butt,Younis Khan,YK Pathan,0,0,null,0,0,null,null
+145,24.2,Salman Butt,Younis Khan,YK Pathan,0,0,null,0,0,null,null
+146,24.3,Salman Butt,Younis Khan,YK Pathan,1,0,null,1,0,null,null
+147,24.4,Younis Khan,Salman Butt,YK Pathan,1,0,null,1,0,null,null
+148,24.5,Salman Butt,Younis Khan,YK Pathan,0,0,null,0,0,null,null
+149,24.6,Salman Butt,Younis Khan,YK Pathan,1,0,null,1,0,null,null
+150,25.1,Salman Butt,Younis Khan,PP Chawla,1,0,null,1,0,null,null
+151,25.2,Younis Khan,Salman Butt,PP Chawla,4,0,null,4,0,null,null
+152,25.3,Younis Khan,Salman Butt,PP Chawla,4,0,null,4,0,null,null
+153,25.4,Younis Khan,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+154,25.5,Salman Butt,Younis Khan,PP Chawla,1,0,null,1,0,null,null
+155,25.6,Younis Khan,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+156,26.1,Salman Butt,Younis Khan,YK Pathan,1,0,null,1,0,null,null
+157,26.2,Younis Khan,Salman Butt,YK Pathan,1,0,null,1,0,null,null
+158,26.3,Salman Butt,Younis Khan,YK Pathan,4,0,null,4,0,null,null
+159,26.4,Salman Butt,Younis Khan,YK Pathan,0,0,null,0,0,null,null
+160,26.5,Salman Butt,Younis Khan,YK Pathan,0,0,null,0,0,null,null
+161,26.6,Salman Butt,Younis Khan,YK Pathan,2,0,null,2,0,null,null
+162,27.1,Younis Khan,Salman Butt,Yuvraj Singh,1,0,null,1,0,null,null
+163,27.2,Salman Butt,Younis Khan,Yuvraj Singh,1,0,null,1,0,null,null
+164,27.3,Younis Khan,Salman Butt,Yuvraj Singh,1,0,null,1,0,null,null
+165,27.4,Salman Butt,Younis Khan,Yuvraj Singh,4,0,null,4,0,null,null
+166,27.5,Salman Butt,Younis Khan,Yuvraj Singh,0,0,null,0,0,null,null
+167,27.6,Salman Butt,Younis Khan,Yuvraj Singh,1,0,null,1,0,null,null
+168,28.1,Salman Butt,Younis Khan,SK Raina,0,0,null,0,0,null,null
+169,28.2,Salman Butt,Younis Khan,SK Raina,1,0,null,1,0,null,null
+170,28.3,Younis Khan,Salman Butt,SK Raina,4,0,null,4,0,null,null
+171,28.4,Younis Khan,Salman Butt,SK Raina,1,0,null,1,0,null,null
+172,28.5,Salman Butt,Younis Khan,SK Raina,1,0,null,1,0,null,null
+173,28.6,Younis Khan,Salman Butt,SK Raina,4,0,null,4,0,null,null
+174,29.1,Salman Butt,Younis Khan,Yuvraj Singh,4,0,null,4,0,null,null
+175,29.2,Salman Butt,Younis Khan,Yuvraj Singh,1,0,null,1,0,null,null
+176,29.3,Younis Khan,Salman Butt,Yuvraj Singh,1,0,null,1,0,null,null
+177,29.4,Salman Butt,Younis Khan,Yuvraj Singh,0,0,null,0,0,null,null
+178,29.5,Salman Butt,Younis Khan,Yuvraj Singh,1,0,null,1,0,null,null
+179,29.6,Younis Khan,Salman Butt,Yuvraj Singh,0,0,null,0,0,null,null
+180,30.1,Salman Butt,Younis Khan,P Kumar,1,0,null,1,0,null,null
+181,30.2,Younis Khan,Salman Butt,P Kumar,0,0,null,0,0,null,null
+182,30.3,Younis Khan,Salman Butt,P Kumar,1,0,null,1,0,null,null
+183,30.4,Salman Butt,Younis Khan,P Kumar,4,0,null,4,0,null,null
+184,30.5,Salman Butt,Younis Khan,P Kumar,0,0,null,0,0,null,null
+185,30.6,Salman Butt,Younis Khan,P Kumar,1,0,null,1,0,null,null
+186,31.1,Salman Butt,Younis Khan,IK Pathan,2,0,null,2,0,null,null
+187,31.2,Salman Butt,Younis Khan,IK Pathan,0,0,null,0,0,null,null
+188,31.3,Salman Butt,Younis Khan,IK Pathan,0,0,null,0,0,null,null
+189,31.4,Salman Butt,Younis Khan,IK Pathan,4,0,null,4,0,null,null
+190,31.5,Salman Butt,Younis Khan,IK Pathan,0,0,null,0,0,null,null
+191,31.6,Salman Butt,Younis Khan,IK Pathan,1,0,null,1,0,null,null
+192,32.1,Salman Butt,Younis Khan,P Kumar,0,0,null,0,0,null,null
+193,32.2,Salman Butt,Younis Khan,P Kumar,0,0,null,0,0,null,null
+194,32.3,Salman Butt,Younis Khan,P Kumar,1,0,null,1,0,null,null
+195,32.4,Younis Khan,Salman Butt,P Kumar,2,0,null,2,0,null,null
+196,32.5,Younis Khan,Salman Butt,P Kumar,0,0,null,0,0,null,null
+197,32.6,Younis Khan,Salman Butt,P Kumar,1,0,null,1,0,null,null
+198,33.1,Younis Khan,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+199,33.2,Salman Butt,Younis Khan,PP Chawla,0,0,null,0,0,null,null
+200,33.3,Salman Butt,Younis Khan,PP Chawla,1,0,null,1,0,null,null
+201,33.4,Younis Khan,Salman Butt,PP Chawla,2,0,null,2,0,null,null
+202,33.5,Younis Khan,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+203,33.6,Salman Butt,Younis Khan,PP Chawla,1,0,null,1,0,null,null
+204,34.1,Salman Butt,Younis Khan,I Sharma,0,1,wides ,1,0,null,null
+205,34.2,Salman Butt,Younis Khan,I Sharma,1,0,null,1,0,null,null
+206,34.3,Younis Khan,Salman Butt,I Sharma,1,0,null,1,0,null,null
+207,34.4,Salman Butt,Younis Khan,I Sharma,1,0,null,1,0,null,null
+208,34.5,Younis Khan,Salman Butt,I Sharma,2,0,null,2,0,null,null
+209,34.6,Younis Khan,Salman Butt,I Sharma,2,0,null,2,0,null,null
+210,34.7,Younis Khan,Salman Butt,I Sharma,1,0,null,1,0,null,null
+211,35.1,Younis Khan,Salman Butt,PP Chawla,6,0,null,6,0,null,null
+212,35.2,Younis Khan,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+213,35.3,Salman Butt,Younis Khan,PP Chawla,1,0,null,1,0,null,null
+214,35.4,Younis Khan,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+215,35.5,Younis Khan,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+216,35.6,Younis Khan,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+217,36.1,Younis Khan,Salman Butt,V Sehwag,1,0,null,1,0,null,null
+218,36.2,Salman Butt,Younis Khan,V Sehwag,0,0,null,0,0,null,null
+219,36.3,Salman Butt,Younis Khan,V Sehwag,6,0,null,6,0,null,null
+220,36.4,Salman Butt,Younis Khan,V Sehwag,1,0,null,1,0,null,null
+221,36.5,Younis Khan,Salman Butt,V Sehwag,2,0,null,2,0,null,null
+222,36.6,Younis Khan,Salman Butt,V Sehwag,4,0,null,4,0,null,null
+223,37.1,Salman Butt,Younis Khan,Yuvraj Singh,0,0,null,0,0,null,null
+224,37.2,Salman Butt,Younis Khan,Yuvraj Singh,0,1,legbyes ,1,0,null,null
+225,37.3,Younis Khan,Salman Butt,Yuvraj Singh,0,0,null,0,0,null,null
+226,37.4,Younis Khan,Salman Butt,Yuvraj Singh,2,0,null,2,0,null,null
+227,37.5,Younis Khan,Salman Butt,Yuvraj Singh,1,0,null,1,0,null,null
+228,37.6,Salman Butt,Younis Khan,Yuvraj Singh,0,0,null,0,0,null,null
+229,38.1,Younis Khan,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+230,38.2,Salman Butt,Younis Khan,PP Chawla,1,0,null,1,0,null,null
+231,38.3,Younis Khan,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+232,38.4,Salman Butt,Younis Khan,PP Chawla,2,0,null,2,0,null,null
+233,38.5,Salman Butt,Younis Khan,PP Chawla,0,0,null,0,0,null,null
+234,38.6,Salman Butt,Younis Khan,PP Chawla,6,0,null,6,0,null,null
+235,39.1,Younis Khan,Salman Butt,Yuvraj Singh,0,0,null,0,0,null,null
+236,39.2,Younis Khan,Salman Butt,Yuvraj Singh,1,0,null,1,0,null,null
+237,39.3,Salman Butt,Younis Khan,Yuvraj Singh,1,0,null,1,0,null,null
+238,39.4,Younis Khan,Salman Butt,Yuvraj Singh,1,0,null,1,0,null,null
+239,39.5,Salman Butt,Younis Khan,Yuvraj Singh,1,0,null,1,0,null,null
+240,39.6,Younis Khan,Salman Butt,Yuvraj Singh,1,0,null,1,0,null,null
+241,40.1,Younis Khan,Salman Butt,IK Pathan,1,0,null,1,0,null,null
+242,40.2,Salman Butt,Younis Khan,IK Pathan,1,0,null,1,0,null,null
+243,40.3,Younis Khan,Salman Butt,IK Pathan,0,0,null,0,0,null,null
+244,40.4,Younis Khan,Salman Butt,IK Pathan,1,0,null,1,0,null,null
+245,40.5,Salman Butt,Younis Khan,IK Pathan,1,0,null,1,0,null,null
+246,40.6,Younis Khan,Salman Butt,IK Pathan,1,0,null,1,0,null,null
+247,41.1,Younis Khan,Salman Butt,I Sharma,4,1,noballs ,5,0,null,null
+248,41.2,Younis Khan,Salman Butt,I Sharma,0,0,null,0,0,null,null
+249,41.3,Younis Khan,Salman Butt,I Sharma,0,0,null,0,0,null,null
+250,41.4,Younis Khan,Salman Butt,I Sharma,2,0,null,2,0,null,null
+251,41.5,Younis Khan,Salman Butt,I Sharma,1,0,null,1,0,null,null
+252,41.6,Salman Butt,Younis Khan,I Sharma,1,0,null,1,0,null,null
+253,41.7,Younis Khan,Salman Butt,I Sharma,0,0,null,0,1,Younis Khan,caught
+254,42.1,Misbah-ul-Haq,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+255,42.2,Salman Butt,Misbah-ul-Haq,PP Chawla,1,0,null,1,0,null,null
+256,42.3,Misbah-ul-Haq,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+257,42.4,Misbah-ul-Haq,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+258,42.5,Misbah-ul-Haq,Salman Butt,PP Chawla,4,0,null,4,0,null,null
+259,42.6,Misbah-ul-Haq,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+260,43.1,Misbah-ul-Haq,Salman Butt,I Sharma,1,0,null,1,0,null,null
+261,43.2,Salman Butt,Misbah-ul-Haq,I Sharma,0,1,wides ,1,0,null,null
+262,43.3,Salman Butt,Misbah-ul-Haq,I Sharma,4,0,null,4,0,null,null
+263,43.4,Salman Butt,Misbah-ul-Haq,I Sharma,1,0,null,1,0,null,null
+264,43.5,Misbah-ul-Haq,Salman Butt,I Sharma,4,0,null,4,0,null,null
+265,43.6,Misbah-ul-Haq,Salman Butt,I Sharma,1,0,null,1,0,null,null
+266,43.7,Salman Butt,Misbah-ul-Haq,I Sharma,0,0,null,0,0,null,null
+267,44.1,Misbah-ul-Haq,Salman Butt,PP Chawla,0,0,null,0,0,null,null
+268,44.2,Misbah-ul-Haq,Salman Butt,PP Chawla,6,0,null,6,0,null,null
+269,44.3,Misbah-ul-Haq,Salman Butt,PP Chawla,2,0,null,2,0,null,null
+270,44.4,Misbah-ul-Haq,Salman Butt,PP Chawla,1,0,null,1,0,null,null
+271,44.5,Salman Butt,Misbah-ul-Haq,PP Chawla,6,0,null,6,0,null,null
+272,44.6,Salman Butt,Misbah-ul-Haq,PP Chawla,4,0,null,4,0,null,null
+273,45.1,Misbah-ul-Haq,Salman Butt,IK Pathan,0,0,null,0,0,null,null
+274,45.2,Misbah-ul-Haq,Salman Butt,IK Pathan,1,0,null,1,0,null,null
+275,45.3,Salman Butt,Misbah-ul-Haq,IK Pathan,1,0,null,1,0,null,null
+276,45.4,Misbah-ul-Haq,Salman Butt,IK Pathan,1,0,null,1,0,null,null
+277,45.5,Salman Butt,Misbah-ul-Haq,IK Pathan,1,0,null,1,0,null,null
+278,45.6,Misbah-ul-Haq,Salman Butt,IK Pathan,1,0,null,1,1,Salman Butt,retired hurt
+279,46.1,Misbah-ul-Haq,Shahid Afridi,P Kumar,4,0,null,4,0,null,null
+280,46.2,Misbah-ul-Haq,Shahid Afridi,P Kumar,4,0,null,4,0,null,null
+281,46.3,Misbah-ul-Haq,Shahid Afridi,P Kumar,1,0,null,1,0,null,null
+282,46.4,Shahid Afridi,Misbah-ul-Haq,P Kumar,0,0,null,0,0,null,null
+283,46.5,Shahid Afridi,Misbah-ul-Haq,P Kumar,0,0,null,0,0,null,null
+284,46.6,Shahid Afridi,Misbah-ul-Haq,P Kumar,1,0,null,1,0,null,null
+285,47.1,Shahid Afridi,Misbah-ul-Haq,IK Pathan,1,0,null,1,0,null,null
+286,47.2,Misbah-ul-Haq,Shahid Afridi,IK Pathan,0,0,null,0,0,null,null
+287,47.3,Misbah-ul-Haq,Shahid Afridi,IK Pathan,0,0,null,0,1,Misbah-ul-Haq,caught
+288,47.4,Shahid Afridi,Shoaib Malik,IK Pathan,2,0,null,2,0,null,null
+289,47.5,Shahid Afridi,Shoaib Malik,IK Pathan,1,0,null,1,0,null,null
+290,47.6,Shoaib Malik,Shahid Afridi,IK Pathan,1,0,null,1,0,null,null
+291,48.1,Shoaib Malik,Shahid Afridi,P Kumar,0,1,legbyes ,1,0,null,null
+292,48.2,Shahid Afridi,Shoaib Malik,P Kumar,0,0,null,0,0,null,null
+293,48.3,Shahid Afridi,Shoaib Malik,P Kumar,1,0,null,1,0,null,null
+294,48.4,Shoaib Malik,Shahid Afridi,P Kumar,0,0,null,0,0,null,null
+295,48.5,Shoaib Malik,Shahid Afridi,P Kumar,4,0,null,4,0,null,null
+296,48.6,Shoaib Malik,Shahid Afridi,P Kumar,1,0,null,1,0,null,null
+297,49.1,Shoaib Malik,Shahid Afridi,I Sharma,1,0,null,1,0,null,null
+298,49.2,Shahid Afridi,Shoaib Malik,I Sharma,2,0,null,2,0,null,null
+299,49.3,Shahid Afridi,Shoaib Malik,I Sharma,0,1,byes ,1,0,null,null
+300,49.4,Shoaib Malik,Shahid Afridi,I Sharma,4,0,null,4,0,null,null
+301,49.5,Shoaib Malik,Shahid Afridi,I Sharma,0,1,byes ,1,0,null,null
+302,49.6,Shahid Afridi,Shoaib Malik,I Sharma,2,0,null,2,0,null,null

@@ -1,0 +1,307 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Q de Kock,RR Rossouw,CP Tremain,0,0,null,0,0,null,null
+1,0.2,Q de Kock,RR Rossouw,CP Tremain,1,0,null,1,0,null,null
+2,0.3,RR Rossouw,Q de Kock,CP Tremain,4,0,null,4,0,null,null
+3,0.4,RR Rossouw,Q de Kock,CP Tremain,2,0,null,2,0,null,null
+4,0.5,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+5,0.6,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+6,1.1,Q de Kock,RR Rossouw,JM Mennie,0,0,null,0,0,null,null
+7,1.2,Q de Kock,RR Rossouw,JM Mennie,1,0,null,1,0,null,null
+8,1.3,RR Rossouw,Q de Kock,JM Mennie,4,0,null,4,0,null,null
+9,1.4,RR Rossouw,Q de Kock,JM Mennie,4,0,null,4,0,null,null
+10,1.5,RR Rossouw,Q de Kock,JM Mennie,0,0,null,0,0,null,null
+11,1.6,RR Rossouw,Q de Kock,JM Mennie,1,0,null,1,0,null,null
+12,2.1,RR Rossouw,Q de Kock,CP Tremain,4,0,null,4,0,null,null
+13,2.2,RR Rossouw,Q de Kock,CP Tremain,2,0,null,2,0,null,null
+14,2.3,RR Rossouw,Q de Kock,CP Tremain,2,0,null,2,0,null,null
+15,2.4,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+16,2.5,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+17,2.6,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+18,3.1,Q de Kock,RR Rossouw,JM Mennie,0,0,null,0,0,null,null
+19,3.2,Q de Kock,RR Rossouw,JM Mennie,2,0,null,2,0,null,null
+20,3.3,Q de Kock,RR Rossouw,JM Mennie,0,0,null,0,0,null,null
+21,3.4,Q de Kock,RR Rossouw,JM Mennie,0,0,null,0,0,null,null
+22,3.5,Q de Kock,RR Rossouw,JM Mennie,4,0,null,4,0,null,null
+23,3.6,Q de Kock,RR Rossouw,JM Mennie,2,0,null,2,0,null,null
+24,4.1,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+25,4.2,RR Rossouw,Q de Kock,CP Tremain,4,0,null,4,0,null,null
+26,4.3,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+27,4.4,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+28,4.5,RR Rossouw,Q de Kock,CP Tremain,4,0,null,4,0,null,null
+29,4.6,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+30,5.1,Q de Kock,RR Rossouw,JM Mennie,1,0,null,1,0,null,null
+31,5.2,RR Rossouw,Q de Kock,JM Mennie,0,0,null,0,0,null,null
+32,5.3,RR Rossouw,Q de Kock,JM Mennie,0,0,null,0,0,null,null
+33,5.4,RR Rossouw,Q de Kock,JM Mennie,0,0,null,0,0,null,null
+34,5.5,RR Rossouw,Q de Kock,JM Mennie,0,0,null,0,0,null,null
+35,5.6,RR Rossouw,Q de Kock,JM Mennie,0,0,null,0,0,null,null
+36,6.1,Q de Kock,RR Rossouw,CP Tremain,0,0,null,0,0,null,null
+37,6.2,Q de Kock,RR Rossouw,CP Tremain,1,0,null,1,0,null,null
+38,6.3,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+39,6.4,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+40,6.5,RR Rossouw,Q de Kock,CP Tremain,0,0,null,0,0,null,null
+41,6.6,RR Rossouw,Q de Kock,CP Tremain,1,0,null,1,0,null,null
+42,7.1,RR Rossouw,Q de Kock,JM Mennie,1,0,null,1,0,null,null
+43,7.2,Q de Kock,RR Rossouw,JM Mennie,1,0,null,1,0,null,null
+44,7.3,RR Rossouw,Q de Kock,JM Mennie,4,0,null,4,0,null,null
+45,7.4,RR Rossouw,Q de Kock,JM Mennie,0,0,null,0,0,null,null
+46,7.5,RR Rossouw,Q de Kock,JM Mennie,1,0,null,1,0,null,null
+47,7.6,Q de Kock,RR Rossouw,JM Mennie,0,0,null,0,0,null,null
+48,8.1,RR Rossouw,Q de Kock,JW Hastings,0,0,null,0,0,null,null
+49,8.2,RR Rossouw,Q de Kock,JW Hastings,4,0,null,4,0,null,null
+50,8.3,RR Rossouw,Q de Kock,JW Hastings,4,0,null,4,0,null,null
+51,8.4,RR Rossouw,Q de Kock,JW Hastings,0,0,null,0,0,null,null
+52,8.5,RR Rossouw,Q de Kock,JW Hastings,0,0,null,0,0,null,null
+53,8.6,RR Rossouw,Q de Kock,JW Hastings,0,0,null,0,0,null,null
+54,9.1,Q de Kock,RR Rossouw,JM Mennie,0,0,null,0,0,null,null
+55,9.2,Q de Kock,RR Rossouw,JM Mennie,4,0,null,4,0,null,null
+56,9.3,Q de Kock,RR Rossouw,JM Mennie,0,0,null,0,0,null,null
+57,9.4,Q de Kock,RR Rossouw,JM Mennie,2,0,null,2,0,null,null
+58,9.5,Q de Kock,RR Rossouw,JM Mennie,1,0,null,1,0,null,null
+59,9.6,RR Rossouw,Q de Kock,JM Mennie,0,0,null,0,0,null,null
+60,10.1,Q de Kock,RR Rossouw,JW Hastings,1,0,null,1,0,null,null
+61,10.2,RR Rossouw,Q de Kock,JW Hastings,1,0,null,1,0,null,null
+62,10.3,Q de Kock,RR Rossouw,JW Hastings,1,0,null,1,0,null,null
+63,10.4,RR Rossouw,Q de Kock,JW Hastings,1,0,null,1,0,null,null
+64,10.5,Q de Kock,RR Rossouw,JW Hastings,0,0,null,0,0,null,null
+65,10.6,Q de Kock,RR Rossouw,JW Hastings,0,0,null,0,1,Q de Kock,caught
+66,11.1,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+67,11.2,RR Rossouw,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+68,11.3,F du Plessis,RR Rossouw,MR Marsh,1,0,null,1,0,null,null
+69,11.4,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+70,11.5,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+71,11.6,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+72,12.1,F du Plessis,RR Rossouw,JW Hastings,1,0,null,1,0,null,null
+73,12.2,RR Rossouw,F du Plessis,JW Hastings,0,0,null,0,0,null,null
+74,12.3,RR Rossouw,F du Plessis,JW Hastings,1,0,null,1,0,null,null
+75,12.4,F du Plessis,RR Rossouw,JW Hastings,0,0,null,0,0,null,null
+76,12.5,F du Plessis,RR Rossouw,JW Hastings,0,0,null,0,0,null,null
+77,12.6,F du Plessis,RR Rossouw,JW Hastings,0,0,null,0,0,null,null
+78,13.1,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+79,13.2,RR Rossouw,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+80,13.3,F du Plessis,RR Rossouw,MR Marsh,0,0,null,0,0,null,null
+81,13.4,F du Plessis,RR Rossouw,MR Marsh,0,0,null,0,0,null,null
+82,13.5,F du Plessis,RR Rossouw,MR Marsh,4,0,null,4,0,null,null
+83,13.6,F du Plessis,RR Rossouw,MR Marsh,0,0,null,0,0,null,null
+84,14.1,RR Rossouw,F du Plessis,JW Hastings,0,0,null,0,0,null,null
+85,14.2,RR Rossouw,F du Plessis,JW Hastings,2,0,null,2,0,null,null
+86,14.3,RR Rossouw,F du Plessis,JW Hastings,1,0,null,1,0,null,null
+87,14.4,F du Plessis,RR Rossouw,JW Hastings,0,0,null,0,0,null,null
+88,14.5,F du Plessis,RR Rossouw,JW Hastings,4,0,null,4,0,null,null
+89,14.6,F du Plessis,RR Rossouw,JW Hastings,0,0,null,0,0,null,null
+90,15.1,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+91,15.2,RR Rossouw,F du Plessis,MR Marsh,2,0,null,2,0,null,null
+92,15.3,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+93,15.4,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+94,15.5,RR Rossouw,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+95,15.6,F du Plessis,RR Rossouw,MR Marsh,4,0,null,4,0,null,null
+96,16.1,RR Rossouw,F du Plessis,A Zampa,0,0,null,0,0,null,null
+97,16.2,RR Rossouw,F du Plessis,A Zampa,1,0,null,1,0,null,null
+98,16.3,F du Plessis,RR Rossouw,A Zampa,1,0,null,1,0,null,null
+99,16.4,RR Rossouw,F du Plessis,A Zampa,1,0,null,1,0,null,null
+100,16.5,F du Plessis,RR Rossouw,A Zampa,1,0,null,1,0,null,null
+101,16.6,RR Rossouw,F du Plessis,A Zampa,1,0,null,1,0,null,null
+102,17.1,RR Rossouw,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+103,17.2,F du Plessis,RR Rossouw,MR Marsh,1,0,null,1,0,null,null
+104,17.3,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+105,17.4,RR Rossouw,F du Plessis,MR Marsh,0,1,wides ,1,0,null,null
+106,17.5,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+107,17.6,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+108,17.7,RR Rossouw,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+109,18.1,F du Plessis,RR Rossouw,A Zampa,0,0,null,0,0,null,null
+110,18.2,F du Plessis,RR Rossouw,A Zampa,1,0,null,1,0,null,null
+111,18.3,RR Rossouw,F du Plessis,A Zampa,1,0,null,1,0,null,null
+112,18.4,F du Plessis,RR Rossouw,A Zampa,1,0,null,1,0,null,null
+113,18.5,RR Rossouw,F du Plessis,A Zampa,0,0,null,0,0,null,null
+114,18.6,RR Rossouw,F du Plessis,A Zampa,2,0,null,2,0,null,null
+115,19.1,F du Plessis,RR Rossouw,JM Mennie,1,0,null,1,0,null,null
+116,19.2,RR Rossouw,F du Plessis,JM Mennie,1,0,null,1,0,null,null
+117,19.3,F du Plessis,RR Rossouw,JM Mennie,0,0,null,0,0,null,null
+118,19.4,F du Plessis,RR Rossouw,JM Mennie,4,0,null,4,0,null,null
+119,19.5,F du Plessis,RR Rossouw,JM Mennie,1,0,null,1,0,null,null
+120,19.6,RR Rossouw,F du Plessis,JM Mennie,0,0,null,0,0,null,null
+121,20.1,F du Plessis,RR Rossouw,A Zampa,0,0,null,0,0,null,null
+122,20.2,F du Plessis,RR Rossouw,A Zampa,0,0,null,0,0,null,null
+123,20.3,F du Plessis,RR Rossouw,A Zampa,4,0,null,4,0,null,null
+124,20.4,F du Plessis,RR Rossouw,A Zampa,4,0,null,4,0,null,null
+125,20.5,F du Plessis,RR Rossouw,A Zampa,0,0,null,0,0,null,null
+126,20.6,F du Plessis,RR Rossouw,A Zampa,1,0,null,1,0,null,null
+127,21.1,F du Plessis,RR Rossouw,JM Mennie,1,0,null,1,0,null,null
+128,21.2,RR Rossouw,F du Plessis,JM Mennie,1,0,null,1,0,null,null
+129,21.3,F du Plessis,RR Rossouw,JM Mennie,0,0,null,0,0,null,null
+130,21.4,F du Plessis,RR Rossouw,JM Mennie,1,0,null,1,0,null,null
+131,21.5,RR Rossouw,F du Plessis,JM Mennie,4,0,null,4,0,null,null
+132,21.6,RR Rossouw,F du Plessis,JM Mennie,2,0,null,2,0,null,null
+133,22.1,F du Plessis,RR Rossouw,A Zampa,1,0,null,1,0,null,null
+134,22.2,RR Rossouw,F du Plessis,A Zampa,1,0,null,1,0,null,null
+135,22.3,F du Plessis,RR Rossouw,A Zampa,0,0,null,0,0,null,null
+136,22.4,F du Plessis,RR Rossouw,A Zampa,4,0,null,4,0,null,null
+137,22.5,F du Plessis,RR Rossouw,A Zampa,1,0,null,1,0,null,null
+138,22.6,RR Rossouw,F du Plessis,A Zampa,0,0,null,0,0,null,null
+139,23.1,F du Plessis,RR Rossouw,CP Tremain,0,0,null,0,0,null,null
+140,23.2,F du Plessis,RR Rossouw,CP Tremain,1,0,null,1,0,null,null
+141,23.3,RR Rossouw,F du Plessis,CP Tremain,1,0,null,1,0,null,null
+142,23.4,F du Plessis,RR Rossouw,CP Tremain,1,0,null,1,0,null,null
+143,23.5,RR Rossouw,F du Plessis,CP Tremain,1,0,null,1,0,null,null
+144,23.6,F du Plessis,RR Rossouw,CP Tremain,4,0,null,4,0,null,null
+145,24.1,RR Rossouw,F du Plessis,JW Hastings,0,0,null,0,1,RR Rossouw,caught
+146,24.2,F du Plessis,JP Duminy,JW Hastings,1,0,null,1,0,null,null
+147,24.3,JP Duminy,F du Plessis,JW Hastings,0,0,null,0,0,null,null
+148,24.4,JP Duminy,F du Plessis,JW Hastings,0,0,null,0,0,null,null
+149,24.5,JP Duminy,F du Plessis,JW Hastings,0,1,wides ,1,0,null,null
+150,24.6,JP Duminy,F du Plessis,JW Hastings,0,0,null,0,0,null,null
+151,24.7,JP Duminy,F du Plessis,JW Hastings,0,0,null,0,0,null,null
+152,25.1,F du Plessis,JP Duminy,CP Tremain,2,0,null,2,0,null,null
+153,25.2,F du Plessis,JP Duminy,CP Tremain,1,0,null,1,0,null,null
+154,25.3,JP Duminy,F du Plessis,CP Tremain,1,0,null,1,0,null,null
+155,25.4,F du Plessis,JP Duminy,CP Tremain,0,0,null,0,0,null,null
+156,25.5,F du Plessis,JP Duminy,CP Tremain,4,0,null,4,0,null,null
+157,25.6,F du Plessis,JP Duminy,CP Tremain,1,0,null,1,0,null,null
+158,26.1,F du Plessis,JP Duminy,JW Hastings,1,0,null,1,0,null,null
+159,26.2,JP Duminy,F du Plessis,JW Hastings,0,0,null,0,0,null,null
+160,26.3,JP Duminy,F du Plessis,JW Hastings,0,0,null,0,0,null,null
+161,26.4,JP Duminy,F du Plessis,JW Hastings,0,0,null,0,0,null,null
+162,26.5,JP Duminy,F du Plessis,JW Hastings,1,0,null,1,0,null,null
+163,26.6,F du Plessis,JP Duminy,JW Hastings,1,0,null,1,0,null,null
+164,27.1,F du Plessis,JP Duminy,TM Head,2,0,null,2,0,null,null
+165,27.2,F du Plessis,JP Duminy,TM Head,4,0,null,4,0,null,null
+166,27.3,F du Plessis,JP Duminy,TM Head,0,0,null,0,0,null,null
+167,27.4,F du Plessis,JP Duminy,TM Head,0,0,null,0,0,null,null
+168,27.5,F du Plessis,JP Duminy,TM Head,1,0,null,1,0,null,null
+169,27.6,JP Duminy,F du Plessis,TM Head,1,0,null,1,0,null,null
+170,28.1,JP Duminy,F du Plessis,JW Hastings,4,0,null,4,0,null,null
+171,28.2,JP Duminy,F du Plessis,JW Hastings,0,0,null,0,0,null,null
+172,28.3,JP Duminy,F du Plessis,JW Hastings,0,0,null,0,0,null,null
+173,28.4,JP Duminy,F du Plessis,JW Hastings,1,0,null,1,0,null,null
+174,28.5,F du Plessis,JP Duminy,JW Hastings,1,0,null,1,0,null,null
+175,28.6,JP Duminy,F du Plessis,JW Hastings,2,0,null,2,0,null,null
+176,29.1,F du Plessis,JP Duminy,TM Head,1,0,null,1,0,null,null
+177,29.2,JP Duminy,F du Plessis,TM Head,1,0,null,1,0,null,null
+178,29.3,F du Plessis,JP Duminy,TM Head,0,0,null,0,0,null,null
+179,29.4,F du Plessis,JP Duminy,TM Head,0,5,wides ,5,0,null,null
+180,29.5,F du Plessis,JP Duminy,TM Head,1,0,null,1,0,null,null
+181,29.6,JP Duminy,F du Plessis,TM Head,4,0,null,4,0,null,null
+182,29.7,JP Duminy,F du Plessis,TM Head,1,0,null,1,0,null,null
+183,30.1,JP Duminy,F du Plessis,A Zampa,0,0,null,0,0,null,null
+184,30.2,JP Duminy,F du Plessis,A Zampa,0,0,null,0,0,null,null
+185,30.3,JP Duminy,F du Plessis,A Zampa,1,0,null,1,0,null,null
+186,30.4,F du Plessis,JP Duminy,A Zampa,1,0,null,1,0,null,null
+187,30.5,JP Duminy,F du Plessis,A Zampa,1,0,null,1,0,null,null
+188,30.6,F du Plessis,JP Duminy,A Zampa,0,0,null,0,0,null,null
+189,31.1,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+190,31.2,JP Duminy,F du Plessis,MR Marsh,4,0,null,4,0,null,null
+191,31.3,JP Duminy,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+192,31.4,F du Plessis,JP Duminy,MR Marsh,1,0,null,1,0,null,null
+193,31.5,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+194,31.6,JP Duminy,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+195,32.1,JP Duminy,F du Plessis,A Zampa,1,0,null,1,0,null,null
+196,32.2,F du Plessis,JP Duminy,A Zampa,0,0,null,0,0,null,null
+197,32.3,F du Plessis,JP Duminy,A Zampa,1,0,null,1,0,null,null
+198,32.4,JP Duminy,F du Plessis,A Zampa,1,0,null,1,0,null,null
+199,32.5,F du Plessis,JP Duminy,A Zampa,4,0,null,4,0,null,null
+200,32.6,F du Plessis,JP Duminy,A Zampa,1,0,null,1,0,null,null
+201,33.1,F du Plessis,JP Duminy,MR Marsh,1,0,null,1,0,null,null
+202,33.2,JP Duminy,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+203,33.3,F du Plessis,JP Duminy,MR Marsh,1,0,null,1,0,null,null
+204,33.4,JP Duminy,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+205,33.5,F du Plessis,JP Duminy,MR Marsh,1,0,null,1,0,null,null
+206,33.6,JP Duminy,F du Plessis,MR Marsh,4,0,null,4,0,null,null
+207,34.1,F du Plessis,JP Duminy,A Zampa,0,0,null,0,0,null,null
+208,34.2,F du Plessis,JP Duminy,A Zampa,2,0,null,2,0,null,null
+209,34.3,F du Plessis,JP Duminy,A Zampa,0,0,null,0,0,null,null
+210,34.4,F du Plessis,JP Duminy,A Zampa,1,0,null,1,0,null,null
+211,34.5,JP Duminy,F du Plessis,A Zampa,4,0,null,4,0,null,null
+212,34.6,JP Duminy,F du Plessis,A Zampa,1,0,null,1,0,null,null
+213,35.1,JP Duminy,F du Plessis,MR Marsh,4,0,null,4,0,null,null
+214,35.2,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+215,35.3,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+216,35.4,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+217,35.5,JP Duminy,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+218,35.6,F du Plessis,JP Duminy,MR Marsh,1,0,null,1,0,null,null
+219,36.1,F du Plessis,JP Duminy,A Zampa,1,0,null,1,0,null,null
+220,36.2,JP Duminy,F du Plessis,A Zampa,1,0,null,1,0,null,null
+221,36.3,F du Plessis,JP Duminy,A Zampa,2,0,null,2,0,null,null
+222,36.4,F du Plessis,JP Duminy,A Zampa,4,0,null,4,0,null,null
+223,36.5,F du Plessis,JP Duminy,A Zampa,0,0,null,0,0,null,null
+224,36.6,F du Plessis,JP Duminy,A Zampa,1,0,null,1,0,null,null
+225,37.1,F du Plessis,JP Duminy,CP Tremain,0,1,wides ,1,0,null,null
+226,37.2,F du Plessis,JP Duminy,CP Tremain,0,0,null,0,0,null,null
+227,37.3,F du Plessis,JP Duminy,CP Tremain,0,1,legbyes ,1,0,null,null
+228,37.4,JP Duminy,F du Plessis,CP Tremain,0,0,null,0,0,null,null
+229,37.5,JP Duminy,F du Plessis,CP Tremain,4,0,null,4,0,null,null
+230,37.6,JP Duminy,F du Plessis,CP Tremain,0,1,wides ,1,0,null,null
+231,37.7,JP Duminy,F du Plessis,CP Tremain,1,0,null,1,0,null,null
+232,37.8,F du Plessis,JP Duminy,CP Tremain,1,0,null,1,0,null,null
+233,38.1,F du Plessis,JP Duminy,JM Mennie,1,0,null,1,0,null,null
+234,38.2,JP Duminy,F du Plessis,JM Mennie,4,0,null,4,0,null,null
+235,38.3,JP Duminy,F du Plessis,JM Mennie,1,0,null,1,0,null,null
+236,38.4,F du Plessis,JP Duminy,JM Mennie,1,0,null,1,0,null,null
+237,38.5,JP Duminy,F du Plessis,JM Mennie,0,0,null,0,0,null,null
+238,38.6,JP Duminy,F du Plessis,JM Mennie,1,0,null,1,0,null,null
+239,39.1,JP Duminy,F du Plessis,CP Tremain,0,0,null,0,0,null,null
+240,39.2,JP Duminy,F du Plessis,CP Tremain,1,0,null,1,0,null,null
+241,39.3,F du Plessis,JP Duminy,CP Tremain,4,0,null,4,0,null,null
+242,39.4,F du Plessis,JP Duminy,CP Tremain,2,0,null,2,0,null,null
+243,39.5,F du Plessis,JP Duminy,CP Tremain,1,0,null,1,0,null,null
+244,39.6,JP Duminy,F du Plessis,CP Tremain,0,0,null,0,0,null,null
+245,40.1,F du Plessis,JP Duminy,JM Mennie,1,0,null,1,0,null,null
+246,40.2,JP Duminy,F du Plessis,JM Mennie,6,0,null,6,0,null,null
+247,40.3,JP Duminy,F du Plessis,JM Mennie,0,0,null,0,0,null,null
+248,40.4,JP Duminy,F du Plessis,JM Mennie,6,0,null,6,0,null,null
+249,40.5,JP Duminy,F du Plessis,JM Mennie,1,0,null,1,0,null,null
+250,40.6,F du Plessis,JP Duminy,JM Mennie,1,0,null,1,0,null,null
+251,41.1,F du Plessis,JP Duminy,MR Marsh,2,0,null,2,0,null,null
+252,41.2,F du Plessis,JP Duminy,MR Marsh,1,0,null,1,0,null,null
+253,41.3,JP Duminy,F du Plessis,MR Marsh,6,0,null,6,0,null,null
+254,41.4,JP Duminy,F du Plessis,MR Marsh,4,0,null,4,0,null,null
+255,41.5,JP Duminy,F du Plessis,MR Marsh,4,0,null,4,0,null,null
+256,41.6,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,1,JP Duminy,bowled
+257,42.1,F du Plessis,DA Miller,JM Mennie,1,0,null,1,0,null,null
+258,42.2,DA Miller,F du Plessis,JM Mennie,0,1,wides ,1,0,null,null
+259,42.3,DA Miller,F du Plessis,JM Mennie,1,0,null,1,0,null,null
+260,42.4,F du Plessis,DA Miller,JM Mennie,1,0,null,1,0,null,null
+261,42.5,DA Miller,F du Plessis,JM Mennie,2,0,null,2,0,null,null
+262,42.6,DA Miller,F du Plessis,JM Mennie,4,0,null,4,0,null,null
+263,42.7,DA Miller,F du Plessis,JM Mennie,0,0,null,0,0,null,null
+264,43.1,F du Plessis,DA Miller,MR Marsh,2,0,null,2,0,null,null
+265,43.2,F du Plessis,DA Miller,MR Marsh,0,0,null,0,1,F du Plessis,caught
+266,43.3,F Behardien,DA Miller,MR Marsh,0,0,null,0,0,null,null
+267,43.4,F Behardien,DA Miller,MR Marsh,0,0,null,0,0,null,null
+268,43.5,F Behardien,DA Miller,MR Marsh,1,0,null,1,0,null,null
+269,43.6,DA Miller,F Behardien,MR Marsh,0,0,null,0,0,null,null
+270,44.1,F Behardien,DA Miller,JW Hastings,0,0,null,0,0,null,null
+271,44.2,F Behardien,DA Miller,JW Hastings,1,0,null,1,0,null,null
+272,44.3,DA Miller,F Behardien,JW Hastings,0,0,null,0,0,null,null
+273,44.4,DA Miller,F Behardien,JW Hastings,4,0,null,4,0,null,null
+274,44.5,DA Miller,F Behardien,JW Hastings,1,0,null,1,0,null,null
+275,44.6,F Behardien,DA Miller,JW Hastings,1,0,null,1,0,null,null
+276,45.1,F Behardien,DA Miller,MR Marsh,1,0,null,1,0,null,null
+277,45.2,DA Miller,F Behardien,MR Marsh,1,0,null,1,0,null,null
+278,45.3,F Behardien,DA Miller,MR Marsh,4,0,null,4,0,null,null
+279,45.4,F Behardien,DA Miller,MR Marsh,1,0,null,1,0,null,null
+280,45.5,DA Miller,F Behardien,MR Marsh,0,0,null,0,0,null,null
+281,45.6,DA Miller,F Behardien,MR Marsh,2,0,null,2,0,null,null
+282,46.1,F Behardien,DA Miller,JW Hastings,1,0,null,1,0,null,null
+283,46.2,DA Miller,F Behardien,JW Hastings,4,0,null,4,0,null,null
+284,46.3,DA Miller,F Behardien,JW Hastings,1,0,null,1,0,null,null
+285,46.4,F Behardien,DA Miller,JW Hastings,0,0,null,0,0,null,null
+286,46.5,F Behardien,DA Miller,JW Hastings,2,0,null,2,0,null,null
+287,46.6,F Behardien,DA Miller,JW Hastings,1,0,null,1,0,null,null
+288,47.1,F Behardien,DA Miller,CP Tremain,0,0,null,0,1,F Behardien,caught
+289,47.2,DA Miller,WD Parnell,CP Tremain,1,0,null,1,0,null,null
+290,47.3,WD Parnell,DA Miller,CP Tremain,2,0,null,2,0,null,null
+291,47.4,WD Parnell,DA Miller,CP Tremain,4,0,null,4,0,null,null
+292,47.5,WD Parnell,DA Miller,CP Tremain,1,0,null,1,0,null,null
+293,47.6,DA Miller,WD Parnell,CP Tremain,1,0,null,1,0,null,null
+294,48.1,DA Miller,WD Parnell,JW Hastings,4,0,null,4,0,null,null
+295,48.2,DA Miller,WD Parnell,JW Hastings,0,0,null,0,1,DA Miller,caught
+296,48.3,AL Phehlukwayo,WD Parnell,JW Hastings,0,0,null,0,0,null,null
+297,48.4,AL Phehlukwayo,WD Parnell,JW Hastings,1,0,null,1,0,null,null
+298,48.5,WD Parnell,AL Phehlukwayo,JW Hastings,1,0,null,1,0,null,null
+299,48.6,AL Phehlukwayo,WD Parnell,JW Hastings,1,0,null,1,0,null,null
+300,49.1,AL Phehlukwayo,WD Parnell,CP Tremain,4,0,null,4,0,null,null
+301,49.2,AL Phehlukwayo,WD Parnell,CP Tremain,0,0,null,0,0,null,null
+302,49.3,AL Phehlukwayo,WD Parnell,CP Tremain,6,0,null,6,0,null,null
+303,49.4,AL Phehlukwayo,WD Parnell,CP Tremain,0,0,null,0,0,null,null
+304,49.5,AL Phehlukwayo,WD Parnell,CP Tremain,1,0,null,1,0,null,null
+305,49.6,WD Parnell,AL Phehlukwayo,CP Tremain,0,0,null,0,0,null,null

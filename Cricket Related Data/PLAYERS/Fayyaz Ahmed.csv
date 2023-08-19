@@ -1,0 +1,7 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,736503,Kinrara Academy Oval,Afghanistan,Rahmat Shah,Right-arm legbreak,"[1, 1, 1]",0,6,5,1,0
+1,736503,Kinrara Academy Oval,Afghanistan,Shapoor Zadran,Left-arm fast-medium,"[0, 0, 1]",1,0,1,0,0
+2,736511,Kinrara Academy Oval,Hong Kong,Nadeem Ahmed,Left-arm orthodox,"[1, 0, 1]",0,6,10,1,0
+3,736511,Kinrara Academy Oval,Hong Kong,Irfan Ahmed,Right-arm fast-medium,"[0, 1, 1]",0,11,26,2,0
+4,736511,Kinrara Academy Oval,Hong Kong,Ehsan Nawaz,Right-arm fast-medium,"[0, 1, 1]",0,8,14,1,0
+5,997995,"Grange Cricket Club Ground, Raeburn Place",Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,0,3,0,0

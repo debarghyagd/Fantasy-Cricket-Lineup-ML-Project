@@ -1,0 +1,86 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+1,0.2,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+2,0.3,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+3,0.4,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,1,wides ,1,0,null,null
+4,0.5,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+5,0.6,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+6,0.7,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+7,1.1,CJ Chibhabha,BB Chari,RAS Lakmal,2,0,null,2,0,null,null
+8,1.2,CJ Chibhabha,BB Chari,RAS Lakmal,2,0,null,2,0,null,null
+9,1.3,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+10,1.4,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+11,1.5,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+12,1.6,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+13,2.1,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,4,legbyes ,4,0,null,null
+14,2.2,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+15,2.3,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+16,2.4,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,1,wides ,1,0,null,null
+17,2.5,BB Chari,CJ Chibhabha,KMDN Kulasekara,4,0,null,4,0,null,null
+18,2.6,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+19,2.7,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+20,3.1,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+21,3.2,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+22,3.3,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+23,3.4,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+24,3.5,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+25,3.6,CJ Chibhabha,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+26,4.1,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,1,wides ,1,0,null,null
+27,4.2,BB Chari,CJ Chibhabha,KMDN Kulasekara,0,0,null,0,0,null,null
+28,4.3,BB Chari,CJ Chibhabha,KMDN Kulasekara,1,0,null,1,0,null,null
+29,4.4,CJ Chibhabha,BB Chari,KMDN Kulasekara,0,0,null,0,0,null,null
+30,4.5,CJ Chibhabha,BB Chari,KMDN Kulasekara,4,0,null,4,0,null,null
+31,4.6,CJ Chibhabha,BB Chari,KMDN Kulasekara,0,0,null,0,1,CJ Chibhabha,lbw
+32,4.7,CR Ervine,BB Chari,KMDN Kulasekara,0,0,null,0,0,null,null
+33,5.1,BB Chari,CR Ervine,RAS Lakmal,1,0,null,1,0,null,null
+34,5.2,CR Ervine,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+35,5.3,CR Ervine,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+36,5.4,CR Ervine,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+37,5.5,CR Ervine,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+38,5.6,CR Ervine,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+39,6.1,BB Chari,CR Ervine,KMDN Kulasekara,1,0,null,1,0,null,null
+40,6.2,CR Ervine,BB Chari,KMDN Kulasekara,0,0,null,0,0,null,null
+41,6.3,CR Ervine,BB Chari,KMDN Kulasekara,0,0,null,0,0,null,null
+42,6.4,CR Ervine,BB Chari,KMDN Kulasekara,0,0,null,0,0,null,null
+43,6.5,CR Ervine,BB Chari,KMDN Kulasekara,1,0,null,1,0,null,null
+44,6.6,BB Chari,CR Ervine,KMDN Kulasekara,0,0,null,0,0,null,null
+45,7.1,CR Ervine,BB Chari,RAS Lakmal,4,0,null,4,0,null,null
+46,7.2,CR Ervine,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+47,7.3,CR Ervine,BB Chari,RAS Lakmal,4,0,null,4,0,null,null
+48,7.4,CR Ervine,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+49,7.5,CR Ervine,BB Chari,RAS Lakmal,0,0,null,0,0,null,null
+50,7.6,CR Ervine,BB Chari,RAS Lakmal,1,0,null,1,0,null,null
+51,8.1,CR Ervine,BB Chari,KMDN Kulasekara,0,0,null,0,0,null,null
+52,8.2,CR Ervine,BB Chari,KMDN Kulasekara,1,0,null,1,0,null,null
+53,8.3,BB Chari,CR Ervine,KMDN Kulasekara,0,1,legbyes ,1,0,null,null
+54,8.4,CR Ervine,BB Chari,KMDN Kulasekara,0,0,null,0,0,null,null
+55,8.5,CR Ervine,BB Chari,KMDN Kulasekara,1,0,null,1,0,null,null
+56,8.6,BB Chari,CR Ervine,KMDN Kulasekara,1,0,null,1,0,null,null
+57,9.1,BB Chari,CR Ervine,MD Shanaka,0,0,null,0,0,null,null
+58,9.2,BB Chari,CR Ervine,MD Shanaka,0,0,null,0,0,null,null
+59,9.3,BB Chari,CR Ervine,MD Shanaka,1,0,null,1,0,null,null
+60,9.4,CR Ervine,BB Chari,MD Shanaka,1,0,null,1,0,null,null
+61,9.5,BB Chari,CR Ervine,MD Shanaka,0,0,null,0,0,null,null
+62,9.6,BB Chari,CR Ervine,MD Shanaka,2,0,null,2,0,null,null
+63,10.1,CR Ervine,BB Chari,DM de Silva,1,0,null,1,0,null,null
+64,10.2,BB Chari,CR Ervine,DM de Silva,0,0,null,0,1,BB Chari,run out
+65,10.3,Sikandar Raza,CR Ervine,DM de Silva,1,0,null,1,0,null,null
+66,10.4,CR Ervine,Sikandar Raza,DM de Silva,1,0,null,1,0,null,null
+67,10.5,Sikandar Raza,CR Ervine,DM de Silva,1,0,null,1,0,null,null
+68,10.6,CR Ervine,Sikandar Raza,DM de Silva,0,0,null,0,0,null,null
+69,11.1,Sikandar Raza,CR Ervine,SS Pathirana,0,0,null,0,0,null,null
+70,11.2,Sikandar Raza,CR Ervine,SS Pathirana,1,0,null,1,0,null,null
+71,11.3,CR Ervine,Sikandar Raza,SS Pathirana,1,0,null,1,0,null,null
+72,11.4,Sikandar Raza,CR Ervine,SS Pathirana,1,0,null,1,0,null,null
+73,11.5,CR Ervine,Sikandar Raza,SS Pathirana,0,0,null,0,0,null,null
+74,11.6,CR Ervine,Sikandar Raza,SS Pathirana,2,0,null,2,0,null,null
+75,12.1,Sikandar Raza,CR Ervine,MD Shanaka,0,0,null,0,0,null,null
+76,12.2,Sikandar Raza,CR Ervine,MD Shanaka,0,1,wides ,1,0,null,null
+77,12.3,Sikandar Raza,CR Ervine,MD Shanaka,0,0,null,0,0,null,null
+78,12.4,Sikandar Raza,CR Ervine,MD Shanaka,0,0,null,0,0,null,null
+79,12.5,Sikandar Raza,CR Ervine,MD Shanaka,0,0,null,0,0,null,null
+80,12.6,Sikandar Raza,CR Ervine,MD Shanaka,0,0,null,0,0,null,null
+81,12.7,Sikandar Raza,CR Ervine,MD Shanaka,0,0,null,0,0,null,null
+82,13.1,CR Ervine,Sikandar Raza,SS Pathirana,0,0,null,0,0,null,null
+83,13.2,CR Ervine,Sikandar Raza,SS Pathirana,4,0,null,4,0,null,null
+84,13.3,CR Ervine,Sikandar Raza,SS Pathirana,1,0,null,1,0,null,null

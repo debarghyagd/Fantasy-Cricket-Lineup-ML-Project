@@ -1,0 +1,14 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,65644,Sydney Cricket Ground,Australia,A Symonds,Right-arm medium,"[0, 1, 2]",1,10,10,1,0
+1,65646,Bellerive Oval,Australia,A Symonds,Right-arm medium,"[0, 1, 2]",0,8,7,2,0
+2,65646,Bellerive Oval,Australia,GB Hogg,Left-arm chinaman,"[1, 0, 0]",1,0,1,0,0
+3,64881,Harare Sports Club,Bangladesh,Khaled Mahmud,Right-arm medium,"[0, 1, 2]",0,1,2,0,0
+4,64881,Harare Sports Club,Bangladesh,Tareq Aziz,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+5,65648,Brisbane Cricket Ground,India,A Kumble,Right-arm legbreak,"[1, 1, 1]",0,15,8,2,0
+6,65648,Brisbane Cricket Ground,India,L Balaji,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+7,65648,Brisbane Cricket Ground,India,A Nehra,Left-arm fast-medium,"[0, 0, 1]",0,10,7,1,0
+8,64851,Harare Sports Club,West Indies,WW Hinds,Right-arm medium,"[0, 1, 2]",0,8,6,1,0
+9,64851,Harare Sports Club,West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+10,64851,Harare Sports Club,West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,8,7,1,0
+11,65645,Bellerive Oval,India,A Kumble,Right-arm legbreak,"[1, 1, 1]",0,14,7,0,1
+12,65645,Bellerive Oval,India,AB Agarkar,Right-arm fast-medium,"[0, 1, 1]",0,20,11,0,2

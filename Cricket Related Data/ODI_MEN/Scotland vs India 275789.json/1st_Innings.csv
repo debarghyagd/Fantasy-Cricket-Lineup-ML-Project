@@ -1,0 +1,294 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,DF Watts,NS Poonia,AB Agarkar,0,1,wides ,1,0,null,null
+1,0.2,DF Watts,NS Poonia,AB Agarkar,0,0,null,0,0,null,null
+2,0.3,DF Watts,NS Poonia,AB Agarkar,0,0,null,0,0,null,null
+3,0.4,DF Watts,NS Poonia,AB Agarkar,0,1,wides ,1,0,null,null
+4,0.5,DF Watts,NS Poonia,AB Agarkar,0,0,null,0,0,null,null
+5,0.6,DF Watts,NS Poonia,AB Agarkar,0,1,wides ,1,0,null,null
+6,0.7,DF Watts,NS Poonia,AB Agarkar,0,0,null,0,0,null,null
+7,0.8,DF Watts,NS Poonia,AB Agarkar,0,0,null,0,0,null,null
+8,0.9,DF Watts,NS Poonia,AB Agarkar,0,0,null,0,0,null,null
+9,1.1,NS Poonia,DF Watts,RP Singh,0,0,null,0,0,null,null
+10,1.2,NS Poonia,DF Watts,RP Singh,1,0,null,1,0,null,null
+11,1.3,DF Watts,NS Poonia,RP Singh,0,0,null,0,0,null,null
+12,1.4,DF Watts,NS Poonia,RP Singh,0,0,null,0,0,null,null
+13,1.5,DF Watts,NS Poonia,RP Singh,1,0,null,1,0,null,null
+14,1.6,NS Poonia,DF Watts,RP Singh,0,0,null,0,0,null,null
+15,2.1,DF Watts,NS Poonia,AB Agarkar,0,0,null,0,0,null,null
+16,2.2,DF Watts,NS Poonia,AB Agarkar,0,0,null,0,0,null,null
+17,2.3,DF Watts,NS Poonia,AB Agarkar,0,0,null,0,0,null,null
+18,2.4,DF Watts,NS Poonia,AB Agarkar,1,0,null,1,0,null,null
+19,2.5,NS Poonia,DF Watts,AB Agarkar,0,0,null,0,0,null,null
+20,2.6,NS Poonia,DF Watts,AB Agarkar,0,0,null,0,0,null,null
+21,3.1,DF Watts,NS Poonia,RP Singh,2,0,null,2,0,null,null
+22,3.2,DF Watts,NS Poonia,RP Singh,0,0,null,0,0,null,null
+23,3.3,DF Watts,NS Poonia,RP Singh,0,0,null,0,0,null,null
+24,3.4,DF Watts,NS Poonia,RP Singh,0,0,null,0,0,null,null
+25,3.5,DF Watts,NS Poonia,RP Singh,0,0,null,0,0,null,null
+26,3.6,DF Watts,NS Poonia,RP Singh,0,0,null,0,0,null,null
+27,4.1,NS Poonia,DF Watts,AB Agarkar,0,1,wides ,1,0,null,null
+28,4.2,NS Poonia,DF Watts,AB Agarkar,0,0,null,0,0,null,null
+29,4.3,NS Poonia,DF Watts,AB Agarkar,0,0,null,0,1,NS Poonia,lbw
+30,4.4,RR Watson,DF Watts,AB Agarkar,0,0,null,0,0,null,null
+31,4.5,RR Watson,DF Watts,AB Agarkar,0,0,null,0,0,null,null
+32,4.6,RR Watson,DF Watts,AB Agarkar,3,0,null,3,0,null,null
+33,4.7,DF Watts,RR Watson,AB Agarkar,0,0,null,0,0,null,null
+34,5.1,RR Watson,DF Watts,RP Singh,0,0,null,0,0,null,null
+35,5.2,RR Watson,DF Watts,RP Singh,0,0,null,0,0,null,null
+36,5.3,RR Watson,DF Watts,RP Singh,0,1,wides ,1,0,null,null
+37,5.4,RR Watson,DF Watts,RP Singh,0,0,null,0,0,null,null
+38,5.5,RR Watson,DF Watts,RP Singh,0,0,null,0,0,null,null
+39,5.6,RR Watson,DF Watts,RP Singh,1,0,null,1,0,null,null
+40,5.7,DF Watts,RR Watson,RP Singh,1,0,null,1,0,null,null
+41,6.1,DF Watts,RR Watson,AB Agarkar,0,0,null,0,0,null,null
+42,6.2,DF Watts,RR Watson,AB Agarkar,1,0,null,1,0,null,null
+43,6.3,RR Watson,DF Watts,AB Agarkar,0,0,null,0,0,null,null
+44,6.4,RR Watson,DF Watts,AB Agarkar,0,0,null,0,0,null,null
+45,6.5,RR Watson,DF Watts,AB Agarkar,0,0,null,0,0,null,null
+46,6.6,RR Watson,DF Watts,AB Agarkar,3,0,null,3,0,null,null
+47,7.1,RR Watson,DF Watts,RP Singh,3,0,null,3,0,null,null
+48,7.2,DF Watts,RR Watson,RP Singh,0,0,null,0,0,null,null
+49,7.3,DF Watts,RR Watson,RP Singh,0,0,null,0,0,null,null
+50,7.4,DF Watts,RR Watson,RP Singh,0,0,null,0,0,null,null
+51,7.5,DF Watts,RR Watson,RP Singh,0,0,null,0,0,null,null
+52,7.6,DF Watts,RR Watson,RP Singh,0,0,null,0,1,DF Watts,caught
+53,8.1,RR Watson,RM Haq,AB Agarkar,0,1,wides ,1,0,null,null
+54,8.2,RR Watson,RM Haq,AB Agarkar,1,0,null,1,0,null,null
+55,8.3,RM Haq,RR Watson,AB Agarkar,0,0,null,0,0,null,null
+56,8.4,RM Haq,RR Watson,AB Agarkar,0,0,null,0,0,null,null
+57,8.5,RM Haq,RR Watson,AB Agarkar,4,0,null,4,0,null,null
+58,8.6,RM Haq,RR Watson,AB Agarkar,0,0,null,0,0,null,null
+59,8.7,RM Haq,RR Watson,AB Agarkar,1,0,null,1,0,null,null
+60,9.1,RM Haq,RR Watson,RP Singh,1,0,null,1,0,null,null
+61,9.2,RR Watson,RM Haq,RP Singh,0,0,null,0,0,null,null
+62,9.3,RR Watson,RM Haq,RP Singh,0,0,null,0,0,null,null
+63,9.4,RR Watson,RM Haq,RP Singh,4,0,null,4,0,null,null
+64,9.5,RR Watson,RM Haq,RP Singh,0,0,null,0,0,null,null
+65,9.6,RR Watson,RM Haq,RP Singh,0,0,null,0,0,null,null
+66,10.1,RM Haq,RR Watson,AB Agarkar,0,0,null,0,0,null,null
+67,10.2,RM Haq,RR Watson,AB Agarkar,0,0,null,0,0,null,null
+68,10.3,RM Haq,RR Watson,AB Agarkar,0,0,null,0,0,null,null
+69,10.4,RM Haq,RR Watson,AB Agarkar,1,0,null,1,0,null,null
+70,10.5,RR Watson,RM Haq,AB Agarkar,0,0,null,0,0,null,null
+71,10.6,RR Watson,RM Haq,AB Agarkar,0,0,null,0,0,null,null
+72,11.1,RM Haq,RR Watson,MM Patel,0,1,wides ,1,0,null,null
+73,11.2,RM Haq,RR Watson,MM Patel,0,0,null,0,0,null,null
+74,11.3,RM Haq,RR Watson,MM Patel,0,0,null,0,0,null,null
+75,11.4,RM Haq,RR Watson,MM Patel,0,0,null,0,0,null,null
+76,11.5,RM Haq,RR Watson,MM Patel,0,0,null,0,0,null,null
+77,11.6,RM Haq,RR Watson,MM Patel,0,0,null,0,0,null,null
+78,11.7,RM Haq,RR Watson,MM Patel,0,0,null,0,0,null,null
+79,12.1,RR Watson,RM Haq,AB Agarkar,0,0,null,0,0,null,null
+80,12.2,RR Watson,RM Haq,AB Agarkar,0,0,null,0,0,null,null
+81,12.3,RR Watson,RM Haq,AB Agarkar,0,0,null,0,0,null,null
+82,12.4,RR Watson,RM Haq,AB Agarkar,4,0,null,4,0,null,null
+83,12.5,RR Watson,RM Haq,AB Agarkar,1,0,null,1,0,null,null
+84,12.6,RM Haq,RR Watson,AB Agarkar,4,0,null,4,0,null,null
+85,13.1,RR Watson,RM Haq,MM Patel,0,0,null,0,0,null,null
+86,13.2,RR Watson,RM Haq,MM Patel,4,0,null,4,0,null,null
+87,13.3,RR Watson,RM Haq,MM Patel,0,0,null,0,0,null,null
+88,13.4,RR Watson,RM Haq,MM Patel,0,0,null,0,0,null,null
+89,13.5,RR Watson,RM Haq,MM Patel,0,0,null,0,0,null,null
+90,13.6,RR Watson,RM Haq,MM Patel,0,0,null,0,1,RR Watson,caught
+91,14.1,RM Haq,GM Hamilton,RP Singh,0,0,null,0,1,RM Haq,caught
+92,14.2,NFI McCallum,GM Hamilton,RP Singh,0,0,null,0,0,null,null
+93,14.3,NFI McCallum,GM Hamilton,RP Singh,0,0,null,0,0,null,null
+94,14.4,NFI McCallum,GM Hamilton,RP Singh,0,0,null,0,0,null,null
+95,14.5,NFI McCallum,GM Hamilton,RP Singh,0,1,wides ,1,0,null,null
+96,14.6,NFI McCallum,GM Hamilton,RP Singh,1,0,null,1,0,null,null
+97,14.7,GM Hamilton,NFI McCallum,RP Singh,0,0,null,0,0,null,null
+98,15.1,NFI McCallum,GM Hamilton,MM Patel,0,0,null,0,0,null,null
+99,15.2,NFI McCallum,GM Hamilton,MM Patel,2,0,null,2,0,null,null
+100,15.3,NFI McCallum,GM Hamilton,MM Patel,1,0,null,1,0,null,null
+101,15.4,GM Hamilton,NFI McCallum,MM Patel,0,0,null,0,0,null,null
+102,15.5,GM Hamilton,NFI McCallum,MM Patel,0,1,wides ,1,0,null,null
+103,15.6,GM Hamilton,NFI McCallum,MM Patel,0,0,null,0,0,null,null
+104,15.7,GM Hamilton,NFI McCallum,MM Patel,1,0,null,1,0,null,null
+105,16.1,GM Hamilton,NFI McCallum,RP Singh,0,0,null,0,0,null,null
+106,16.2,GM Hamilton,NFI McCallum,RP Singh,0,0,null,0,0,null,null
+107,16.3,GM Hamilton,NFI McCallum,RP Singh,2,0,null,2,0,null,null
+108,16.4,GM Hamilton,NFI McCallum,RP Singh,0,0,null,0,0,null,null
+109,16.5,GM Hamilton,NFI McCallum,RP Singh,0,0,null,0,0,null,null
+110,16.6,GM Hamilton,NFI McCallum,RP Singh,0,0,null,0,0,null,null
+111,17.1,NFI McCallum,GM Hamilton,MM Patel,0,0,null,0,0,null,null
+112,17.2,NFI McCallum,GM Hamilton,MM Patel,0,0,null,0,0,null,null
+113,17.3,NFI McCallum,GM Hamilton,MM Patel,0,0,null,0,0,null,null
+114,17.4,NFI McCallum,GM Hamilton,MM Patel,1,0,null,1,0,null,null
+115,17.5,GM Hamilton,NFI McCallum,MM Patel,0,0,null,0,0,null,null
+116,17.6,GM Hamilton,NFI McCallum,MM Patel,1,0,null,1,0,null,null
+117,18.1,GM Hamilton,NFI McCallum,RP Singh,0,2,wides ,2,0,null,null
+118,18.2,NFI McCallum,GM Hamilton,RP Singh,0,1,wides ,1,0,null,null
+119,18.3,NFI McCallum,GM Hamilton,RP Singh,0,1,wides ,1,0,null,null
+120,18.4,NFI McCallum,GM Hamilton,RP Singh,0,0,null,0,0,null,null
+121,18.5,NFI McCallum,GM Hamilton,RP Singh,0,0,null,0,0,null,null
+122,18.6,NFI McCallum,GM Hamilton,RP Singh,0,0,null,0,0,null,null
+123,18.7,NFI McCallum,GM Hamilton,RP Singh,0,0,null,0,0,null,null
+124,18.8,NFI McCallum,GM Hamilton,RP Singh,0,0,null,0,0,null,null
+125,18.9,NFI McCallum,GM Hamilton,RP Singh,0,0,null,0,0,null,null
+126,19.1,GM Hamilton,NFI McCallum,MM Patel,0,0,null,0,0,null,null
+127,19.2,GM Hamilton,NFI McCallum,MM Patel,1,0,null,1,0,null,null
+128,19.3,NFI McCallum,GM Hamilton,MM Patel,0,1,noballs ,1,0,null,null
+129,19.4,NFI McCallum,GM Hamilton,MM Patel,0,0,null,0,0,null,null
+130,19.5,NFI McCallum,GM Hamilton,MM Patel,0,1,noballs ,1,0,null,null
+131,19.6,NFI McCallum,GM Hamilton,MM Patel,0,0,null,0,0,null,null
+132,19.7,NFI McCallum,GM Hamilton,MM Patel,0,0,null,0,0,null,null
+133,19.8,NFI McCallum,GM Hamilton,MM Patel,0,0,null,0,0,null,null
+134,20.1,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+135,20.2,GM Hamilton,NFI McCallum,PP Chawla,1,0,null,1,0,null,null
+136,20.3,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+137,20.4,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+138,20.5,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+139,20.6,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+140,21.1,GM Hamilton,NFI McCallum,MM Patel,1,0,null,1,0,null,null
+141,21.2,NFI McCallum,GM Hamilton,MM Patel,1,0,null,1,0,null,null
+142,21.3,GM Hamilton,NFI McCallum,MM Patel,0,0,null,0,0,null,null
+143,21.4,GM Hamilton,NFI McCallum,MM Patel,0,0,null,0,0,null,null
+144,21.5,GM Hamilton,NFI McCallum,MM Patel,0,1,wides ,1,0,null,null
+145,21.6,GM Hamilton,NFI McCallum,MM Patel,1,0,null,1,0,null,null
+146,21.7,NFI McCallum,GM Hamilton,MM Patel,2,0,null,2,0,null,null
+147,22.1,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+148,22.2,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+149,22.3,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+150,22.4,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+151,22.5,GM Hamilton,NFI McCallum,PP Chawla,4,0,null,4,0,null,null
+152,22.6,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+153,23.1,NFI McCallum,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+154,23.2,NFI McCallum,GM Hamilton,RR Powar,0,2,byes ,2,0,null,null
+155,23.3,NFI McCallum,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+156,23.4,NFI McCallum,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+157,23.5,NFI McCallum,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+158,23.6,NFI McCallum,GM Hamilton,RR Powar,6,0,null,6,0,null,null
+159,24.1,GM Hamilton,NFI McCallum,PP Chawla,4,0,null,4,0,null,null
+160,24.2,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+161,24.3,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+162,24.4,GM Hamilton,NFI McCallum,PP Chawla,1,0,null,1,0,null,null
+163,24.5,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+164,24.6,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+165,25.1,GM Hamilton,NFI McCallum,RR Powar,0,0,null,0,0,null,null
+166,25.2,GM Hamilton,NFI McCallum,RR Powar,1,0,null,1,0,null,null
+167,25.3,NFI McCallum,GM Hamilton,RR Powar,1,0,null,1,0,null,null
+168,25.4,GM Hamilton,NFI McCallum,RR Powar,0,0,null,0,0,null,null
+169,25.5,GM Hamilton,NFI McCallum,RR Powar,0,0,null,0,0,null,null
+170,25.6,GM Hamilton,NFI McCallum,RR Powar,2,0,null,2,0,null,null
+171,26.1,NFI McCallum,GM Hamilton,PP Chawla,4,0,null,4,0,null,null
+172,26.2,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+173,26.3,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+174,26.4,NFI McCallum,GM Hamilton,PP Chawla,1,0,null,1,0,null,null
+175,26.5,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+176,26.6,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+177,27.1,NFI McCallum,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+178,27.2,NFI McCallum,GM Hamilton,RR Powar,1,0,null,1,0,null,null
+179,27.3,GM Hamilton,NFI McCallum,RR Powar,0,0,null,0,0,null,null
+180,27.4,GM Hamilton,NFI McCallum,RR Powar,0,0,null,0,0,null,null
+181,27.5,GM Hamilton,NFI McCallum,RR Powar,0,0,null,0,0,null,null
+182,27.6,GM Hamilton,NFI McCallum,RR Powar,4,0,null,4,0,null,null
+183,28.1,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+184,28.2,NFI McCallum,GM Hamilton,PP Chawla,2,0,null,2,0,null,null
+185,28.3,NFI McCallum,GM Hamilton,PP Chawla,1,0,null,1,0,null,null
+186,28.4,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+187,28.5,GM Hamilton,NFI McCallum,PP Chawla,1,0,null,1,0,null,null
+188,28.6,NFI McCallum,GM Hamilton,PP Chawla,1,0,null,1,0,null,null
+189,29.1,NFI McCallum,GM Hamilton,RR Powar,2,0,null,2,0,null,null
+190,29.2,NFI McCallum,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+191,29.3,NFI McCallum,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+192,29.4,NFI McCallum,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+193,29.5,NFI McCallum,GM Hamilton,RR Powar,1,0,null,1,0,null,null
+194,29.6,GM Hamilton,NFI McCallum,RR Powar,0,0,null,0,0,null,null
+195,30.1,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+196,30.2,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+197,30.3,NFI McCallum,GM Hamilton,PP Chawla,3,0,null,3,0,null,null
+198,30.4,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+199,30.5,GM Hamilton,NFI McCallum,PP Chawla,0,0,null,0,0,null,null
+200,30.6,GM Hamilton,NFI McCallum,PP Chawla,2,0,null,2,0,null,null
+201,31.1,NFI McCallum,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+202,31.2,NFI McCallum,GM Hamilton,RR Powar,1,0,null,1,0,null,null
+203,31.3,GM Hamilton,NFI McCallum,RR Powar,1,0,null,1,0,null,null
+204,31.4,NFI McCallum,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+205,31.5,NFI McCallum,GM Hamilton,RR Powar,1,0,null,1,0,null,null
+206,31.6,GM Hamilton,NFI McCallum,RR Powar,1,0,null,1,0,null,null
+207,32.1,GM Hamilton,NFI McCallum,PP Chawla,1,0,null,1,0,null,null
+208,32.2,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+209,32.3,NFI McCallum,GM Hamilton,PP Chawla,4,0,null,4,0,null,null
+210,32.4,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+211,32.5,NFI McCallum,GM Hamilton,PP Chawla,4,0,null,4,0,null,null
+212,32.6,NFI McCallum,GM Hamilton,PP Chawla,0,0,null,0,1,NFI McCallum,caught
+213,33.1,GM Hamilton,CJO Smith,RR Powar,0,0,null,0,0,null,null
+214,33.2,GM Hamilton,CJO Smith,RR Powar,0,0,null,0,0,null,null
+215,33.3,GM Hamilton,CJO Smith,RR Powar,0,0,null,0,0,null,null
+216,33.4,GM Hamilton,CJO Smith,RR Powar,1,0,null,1,0,null,null
+217,33.5,CJO Smith,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+218,33.6,CJO Smith,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+219,34.1,GM Hamilton,CJO Smith,PP Chawla,0,0,null,0,0,null,null
+220,34.2,GM Hamilton,CJO Smith,PP Chawla,0,0,null,0,0,null,null
+221,34.3,GM Hamilton,CJO Smith,PP Chawla,0,0,null,0,0,null,null
+222,34.4,GM Hamilton,CJO Smith,PP Chawla,0,0,null,0,0,null,null
+223,34.5,GM Hamilton,CJO Smith,PP Chawla,1,0,null,1,0,null,null
+224,34.6,CJO Smith,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+225,35.1,GM Hamilton,CJO Smith,RR Powar,0,2,legbyes ,2,0,null,null
+226,35.2,GM Hamilton,CJO Smith,RR Powar,1,0,null,1,0,null,null
+227,35.3,CJO Smith,GM Hamilton,RR Powar,4,0,null,4,0,null,null
+228,35.4,CJO Smith,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+229,35.5,CJO Smith,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+230,35.6,CJO Smith,GM Hamilton,RR Powar,0,5,wides ,5,0,null,null
+231,35.7,CJO Smith,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+232,36.1,GM Hamilton,CJO Smith,PP Chawla,1,0,null,1,0,null,null
+233,36.2,CJO Smith,GM Hamilton,PP Chawla,0,0,null,0,1,CJO Smith,lbw
+234,36.3,CM Wright,GM Hamilton,PP Chawla,1,0,null,1,0,null,null
+235,36.4,GM Hamilton,CM Wright,PP Chawla,1,0,null,1,0,null,null
+236,36.5,CM Wright,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+237,36.6,CM Wright,GM Hamilton,PP Chawla,1,0,null,1,0,null,null
+238,37.1,CM Wright,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+239,37.2,CM Wright,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+240,37.3,CM Wright,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+241,37.4,CM Wright,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+242,37.5,CM Wright,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+243,37.6,CM Wright,GM Hamilton,RR Powar,1,0,null,1,0,null,null
+244,38.1,CM Wright,GM Hamilton,PP Chawla,1,0,null,1,0,null,null
+245,38.2,GM Hamilton,CM Wright,PP Chawla,1,0,null,1,0,null,null
+246,38.3,CM Wright,GM Hamilton,PP Chawla,0,0,null,0,0,null,null
+247,38.4,CM Wright,GM Hamilton,PP Chawla,1,0,null,1,0,null,null
+248,38.5,GM Hamilton,CM Wright,PP Chawla,0,0,null,0,0,null,null
+249,38.6,GM Hamilton,CM Wright,PP Chawla,0,0,null,0,0,null,null
+250,39.1,CM Wright,GM Hamilton,RR Powar,1,0,null,1,0,null,null
+251,39.2,GM Hamilton,CM Wright,RR Powar,2,0,null,2,0,null,null
+252,39.3,GM Hamilton,CM Wright,RR Powar,1,0,null,1,0,null,null
+253,39.4,CM Wright,GM Hamilton,RR Powar,0,1,wides ,1,0,null,null
+254,39.5,CM Wright,GM Hamilton,RR Powar,1,0,null,1,0,null,null
+255,39.6,GM Hamilton,CM Wright,RR Powar,1,0,null,1,0,null,null
+256,39.7,CM Wright,GM Hamilton,RR Powar,0,0,null,0,0,null,null
+257,40.1,GM Hamilton,CM Wright,RP Singh,0,0,null,0,0,null,null
+258,40.2,GM Hamilton,CM Wright,RP Singh,1,0,null,1,0,null,null
+259,40.3,CM Wright,GM Hamilton,RP Singh,1,0,null,1,0,null,null
+260,40.4,GM Hamilton,CM Wright,RP Singh,0,0,null,0,0,null,null
+261,40.5,GM Hamilton,CM Wright,RP Singh,1,0,null,1,0,null,null
+262,40.6,CM Wright,GM Hamilton,RP Singh,0,0,null,0,0,null,null
+263,41.1,GM Hamilton,CM Wright,MM Patel,0,0,null,0,0,null,null
+264,41.2,GM Hamilton,CM Wright,MM Patel,0,0,null,0,0,null,null
+265,41.3,GM Hamilton,CM Wright,MM Patel,1,0,null,1,0,null,null
+266,41.4,CM Wright,GM Hamilton,MM Patel,0,0,null,0,0,null,null
+267,41.5,CM Wright,GM Hamilton,MM Patel,2,0,null,2,0,null,null
+268,41.6,CM Wright,GM Hamilton,MM Patel,1,0,null,1,0,null,null
+269,42.1,CM Wright,GM Hamilton,AB Agarkar,4,0,null,4,0,null,null
+270,42.2,CM Wright,GM Hamilton,AB Agarkar,1,0,null,1,0,null,null
+271,42.3,GM Hamilton,CM Wright,AB Agarkar,1,0,null,1,0,null,null
+272,42.4,CM Wright,GM Hamilton,AB Agarkar,4,0,null,4,0,null,null
+273,42.5,CM Wright,GM Hamilton,AB Agarkar,1,0,null,1,0,null,null
+274,42.6,GM Hamilton,CM Wright,AB Agarkar,0,0,null,0,1,GM Hamilton,bowled
+275,43.1,CM Wright,JAR Blain,MM Patel,0,0,null,0,0,null,null
+276,43.2,CM Wright,JAR Blain,MM Patel,1,0,null,1,0,null,null
+277,43.3,JAR Blain,CM Wright,MM Patel,1,0,null,1,0,null,null
+278,43.4,CM Wright,JAR Blain,MM Patel,0,0,null,0,0,null,null
+279,43.5,CM Wright,JAR Blain,MM Patel,2,0,null,2,0,null,null
+280,43.6,CM Wright,JAR Blain,MM Patel,2,0,null,2,0,null,null
+281,44.1,JAR Blain,CM Wright,AB Agarkar,1,0,null,1,0,null,null
+282,44.2,CM Wright,JAR Blain,AB Agarkar,6,0,null,6,0,null,null
+283,44.3,CM Wright,JAR Blain,AB Agarkar,2,0,null,2,0,null,null
+284,44.4,CM Wright,JAR Blain,AB Agarkar,2,0,null,2,0,null,null
+285,44.5,CM Wright,JAR Blain,AB Agarkar,1,0,null,1,0,null,null
+286,44.6,JAR Blain,CM Wright,AB Agarkar,2,0,null,2,0,null,null
+287,45.1,CM Wright,JAR Blain,MM Patel,0,0,null,0,1,CM Wright,run out
+288,45.2,PJC Hoffmann,JAR Blain,MM Patel,0,0,null,0,0,null,null
+289,45.3,PJC Hoffmann,JAR Blain,MM Patel,1,0,null,1,0,null,null
+290,45.4,JAR Blain,PJC Hoffmann,MM Patel,0,0,null,0,1,JAR Blain,caught
+291,45.5,PJC Hoffmann,JD Nel,MM Patel,2,0,null,2,0,null,null
+292,45.6,PJC Hoffmann,JD Nel,MM Patel,2,0,null,2,0,null,null

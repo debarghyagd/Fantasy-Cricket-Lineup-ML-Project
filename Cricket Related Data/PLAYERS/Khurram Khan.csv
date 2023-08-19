@@ -1,0 +1,34 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,736503,Kinrara Academy Oval,Afghanistan,Amir Hamza,Left-arm orthodox,"[1, 0, 1]",0,9,10,0,0
+1,736503,Kinrara Academy Oval,Afghanistan,Rahmat Shah,Right-arm legbreak,"[1, 1, 1]",1,2,3,0,0
+2,736503,Kinrara Academy Oval,Afghanistan,Shapoor Zadran,Left-arm fast-medium,"[0, 0, 1]",0,6,7,0,0
+3,736503,Kinrara Academy Oval,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,6,10,0,0
+4,335346,Gaddafi Stadium,Bangladesh,Shahadat Hossain,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+5,335346,Gaddafi Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,13,10,2,0
+6,335346,Gaddafi Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,26,26,4,0
+7,656439,Western Australia Cricket Association Ground,India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,2,10,0,0
+8,656439,Western Australia Cricket Association Ground,India,MM Sharma,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+9,656439,Western Australia Cricket Association Ground,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,6,6,1,0
+10,656429,"Brisbane Cricket Ground, Woolloongabba",Ireland,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",1,7,6,0,0
+11,656429,"Brisbane Cricket Ground, Woolloongabba",Ireland,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,8,7,1,0
+12,656429,"Brisbane Cricket Ground, Woolloongabba",Ireland,PR Stirling,Right-arm offbreak,"[1, 1, 0]",0,15,28,1,0
+13,656447,McLean Park,Pakistan,Wahab Riaz,Left-arm fast,"[0, 0, 0]",0,15,13,1,1
+14,656447,McLean Park,Pakistan,Rahat Ali,Left-arm fast-medium,"[0, 0, 1]",0,9,12,1,0
+15,656447,McLean Park,Pakistan,Sohail Khan,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+16,656447,McLean Park,Pakistan,Haris Sohail,Left-arm orthodox,"[1, 0, 1]",0,1,2,0,0
+17,656469,Westpac Stadium,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",1,1,9,0,0
+18,656469,Westpac Stadium,South Africa,JP Duminy,Right-arm offbreak,"[1, 1, 0]",0,10,6,2,0
+19,335350,Gaddafi Stadium,Sri Lanka,T Thushara,Left-arm fast-medium,"[0, 0, 1]",1,1,5,0,0
+20,335350,Gaddafi Stadium,Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+21,803795,ICC Academy,Afghanistan,Shapoor Zadran,Left-arm fast-medium,"[0, 0, 1]",0,13,16,2,0
+22,803795,ICC Academy,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,4,6,0,0
+23,803797,ICC Academy,Afghanistan,Hamid Hassan,Right-arm fast,"[0, 1, 0]",0,37,32,8,0
+24,803797,ICC Academy,Afghanistan,Samiullah Shenwari,Right-arm legbreak,"[1, 1, 1]",0,12,21,1,0
+25,803797,ICC Academy,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",0,28,28,4,0
+26,656479,McLean Park,West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,4,4,1,0
+27,656413,Saxton Oval,Zimbabwe,T Kamungozi,Right-arm legbreak,"[1, 1, 1]",0,8,21,0,0
+28,656413,Saxton Oval,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,6,7,1,0
+29,656413,Saxton Oval,Zimbabwe,SF Mire,Right-arm fast-medium,"[0, 1, 1]",0,11,11,2,0
+30,656413,Saxton Oval,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,12,10,2,0
+31,656413,Saxton Oval,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+32,656413,Saxton Oval,Zimbabwe,T Panyangara,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0

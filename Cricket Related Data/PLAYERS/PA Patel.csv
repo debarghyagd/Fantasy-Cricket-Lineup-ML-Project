@@ -1,0 +1,59 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,66367,"Wankhede Stadium, Mumbai",Australia,GB Hogg,Left-arm chinaman,"[1, 0, 0]",1,1,3,0,0
+1,474477,Riverside Ground,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",0,12,18,1,0
+2,474477,Riverside Ground,England,SR Patel,Left-arm orthodox,"[1, 0, 1]",0,15,19,1,0
+3,474477,Riverside Ground,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,24,32,4,0
+4,474477,Riverside Ground,England,JW Dernbach,Right-arm fast-medium,"[0, 1, 1]",0,22,16,3,0
+5,474478,The Rose Bowl,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,3,7,0,0
+6,474479,Kennington Oval,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,2,6,0,0
+7,474480,Lord's,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,13,10,1,1
+8,474480,Lord's,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",1,1,4,0,0
+9,474480,Lord's,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,2,12,0,0
+10,474481,Sophia Gardens,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,7,12,0,0
+11,474481,Sophia Gardens,England,JW Dernbach,Right-arm fast-medium,"[0, 1, 1]",0,5,11,0,0
+12,474481,Sophia Gardens,England,GP Swann,Right-arm offbreak,"[1, 1, 0]",1,0,2,0,0
+13,65649,Sydney Cricket Ground,Australia,JN Gillespie,Right-arm fast,"[0, 1, 0]",1,22,22,4,0
+14,65649,Sydney Cricket Ground,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,2,7,0,0
+15,521218,"Rajiv Gandhi International Stadium, Uppal",England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+16,521219,Feroz Shah Kotla,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,6,9,1,0
+17,521220,"Punjab Cricket Association Stadium, Mohali",England,GP Swann,Right-arm offbreak,"[1, 1, 0]",0,3,4,0,0
+18,521220,"Punjab Cricket Association Stadium, Mohali",England,SR Patel,Left-arm orthodox,"[1, 0, 1]",0,5,7,0,0
+19,521220,"Punjab Cricket Association Stadium, Mohali",England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,10,13,1,0
+20,521220,"Punjab Cricket Association Stadium, Mohali",England,JW Dernbach,Right-arm fast-medium,"[0, 1, 1]",0,8,10,1,0
+21,521221,Wankhede Stadium,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",1,2,9,0,0
+22,467886,M Chinnaswamy Stadium,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,16,10,3,0
+23,467886,M Chinnaswamy Stadium,New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",0,3,3,0,0
+24,467886,M Chinnaswamy Stadium,New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,22,27,4,0
+25,467887,"MA Chidambaram Stadium, Chepauk",New Zealand,SB Styris,Right-arm medium,"[0, 1, 2]",0,3,9,0,0
+26,467887,"MA Chidambaram Stadium, Chepauk",New Zealand,KD Mills,Right-arm fast-medium,"[0, 1, 1]",0,11,5,2,0
+27,518963,"Brisbane Cricket Ground, Woolloongabba",Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+28,65716,R.Premadasa Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,10,7,1,0
+29,65716,R.Premadasa Stadium,Sri Lanka,WS Jayantha,Right-arm offbreak,"[1, 1, 0]",0,3,3,0,0
+30,536929,Barabati Stadium,West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",1,2,6,0,0
+31,536930,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",1,0,2,0,0
+32,536930,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+33,536931,"Sardar Patel Stadium, Motera",West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,1,6,0,0
+34,536931,"Sardar Patel Stadium, Motera",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",1,4,6,0,0
+35,536931,"Sardar Patel Stadium, Motera",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",0,5,3,1,0
+36,536931,"Sardar Patel Stadium, Motera",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,22,15,5,0
+37,536932,Holkar Cricket Stadium,West Indies,KA Pollard,Right-arm medium,"[0, 1, 2]",0,1,1,0,0
+38,536932,Holkar Cricket Stadium,West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,2,2,0,0
+39,536933,"MA Chidambaram Stadium, Chepauk",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",1,0,1,0,0
+40,65648,Brisbane Cricket Ground,Zimbabwe,AM Blignaut,Right-arm fast-medium,"[0, 1, 1]",0,3,10,0,0
+41,463153,St George's Park,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",0,2,6,0,0
+42,463153,St George's Park,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",1,1,3,0,0
+43,463153,St George's Park,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,8,15,2,0
+44,463154,SuperSport Park,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",1,17,14,3,0
+45,463154,SuperSport Park,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,11,8,2,0
+46,463154,SuperSport Park,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,10,13,1,0
+47,489221,"Queen's Park Oval, Port of Spain",West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,7,11,1,0
+48,489222,"Queen's Park Oval, Port of Spain",West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",0,18,23,1,1
+49,489222,"Queen's Park Oval, Port of Spain",West Indies,KA Pollard,Right-arm medium,"[0, 1, 2]",0,3,3,0,0
+50,489222,"Queen's Park Oval, Port of Spain",West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,4,11,0,0
+51,489222,"Queen's Park Oval, Port of Spain",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,12,9,1,0
+52,489223,"Sir Vivian Richards Stadium, North Sound",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,17,22,2,0
+53,489223,"Sir Vivian Richards Stadium, North Sound",West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",0,7,6,1,0
+54,489224,"Sir Vivian Richards Stadium, North Sound",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,11,14,1,0
+55,489224,"Sir Vivian Richards Stadium, North Sound",West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",1,15,18,2,0
+56,489225,"Sabina Park, Kingston",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,3,5,0,0
+57,489225,"Sabina Park, Kingston",West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",0,3,3,0,0

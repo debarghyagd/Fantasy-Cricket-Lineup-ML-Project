@@ -1,0 +1,70 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1153253,Dubai International Cricket Stadium,Afghanistan,Aftab Alam,Right-arm fast-medium,"[0, 1, 1]",1,1,7,0,0
+1,1153253,Dubai International Cricket Stadium,Afghanistan,Rahmat Shah,Right-arm legbreak,"[1, 1, 1]",0,2,2,0,0
+2,1153253,Dubai International Cricket Stadium,Afghanistan,Javed Ahmadi,Right-arm offbreak,"[1, 1, 0]",0,2,3,0,0
+3,1119498,Holkar Cricket Stadium,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,2,2,0,0
+4,1119498,Holkar Cricket Stadium,Australia,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,1,2,0,0
+5,1119498,Holkar Cricket Stadium,Australia,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",0,6,8,1,0
+6,1119498,Holkar Cricket Stadium,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",0,10,5,2,0
+7,1119498,Holkar Cricket Stadium,Australia,MP Stoinis,Right-arm medium,"[0, 1, 2]",0,15,8,3,0
+8,1119499,M.Chinnaswamy Stadium,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",1,3,3,0,0
+9,1119499,M.Chinnaswamy Stadium,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",0,9,7,0,1
+10,1119499,M.Chinnaswamy Stadium,Australia,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",0,5,6,0,0
+11,1119499,M.Chinnaswamy Stadium,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,16,9,3,0
+12,1119500,"Vidarbha Cricket Association Stadium, Jamtha",Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,2,3,0,0
+13,895815,Sydney Cricket Ground,Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",0,19,13,2,0
+14,895815,Sydney Cricket Ground,Australia,SM Boland,Right-arm fast-medium,"[0, 1, 1]",0,20,20,1,0
+15,895815,Sydney Cricket Ground,Australia,NM Lyon,Right-arm offbreak,"[1, 1, 0]",0,22,15,2,1
+16,1119496,"MA Chidambaram Stadium, Chepauk",Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",1,0,2,0,0
+17,1119497,Eden Gardens,Australia,NM Coulter-Nile,Right-arm fast,"[0, 1, 0]",0,2,7,0,0
+18,1119497,Eden Gardens,Australia,TM Head,Right-arm offbreak,"[1, 1, 0]",0,1,4,0,0
+19,1187028,Saurashtra Cricket Association Stadium,Australia,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+20,1187028,Saurashtra Cricket Association Stadium,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,2,3,0,0
+21,1187029,M.Chinnaswamy Stadium,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,8,5,2,0
+22,1030219,Himachal Pradesh Cricket Association Stadium,New Zealand,DAJ Bracewell,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+23,1030219,Himachal Pradesh Cricket Association Stadium,New Zealand,IS Sodhi,Right-arm legbreak,"[1, 1, 1]",1,5,8,0,0
+24,1030219,Himachal Pradesh Cricket Association Stadium,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,7,9,0,0
+25,1030219,Himachal Pradesh Cricket Association Stadium,New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",0,4,6,1,0
+26,1030221,Feroz Shah Kotla,New Zealand,AP Devcich,Left-arm orthodox,"[1, 0, 1]",1,11,9,0,1
+27,1030221,Feroz Shah Kotla,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,3,5,0,0
+28,1030223,"Punjab Cricket Association Stadium, Mohali",New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,5,6,0,0
+29,1030223,"Punjab Cricket Association Stadium, Mohali",New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,4,5,0,0
+30,1030223,"Punjab Cricket Association Stadium, Mohali",New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",0,11,10,2,0
+31,1030223,"Punjab Cricket Association Stadium, Mohali",New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",0,7,6,1,0
+32,1030225,JSCA International Stadium Complex,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",1,2,5,0,0
+33,1030225,JSCA International Stadium Complex,New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",0,10,7,2,0
+34,1030227,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,New Zealand,IS Sodhi,Right-arm legbreak,"[1, 1, 1]",1,0,2,0,0
+35,1109608,"R.Premadasa Stadium, Khettarama",Sri Lanka,MVT Fernando,Left-arm fast-medium,"[0, 0, 1]",0,18,9,2,0
+36,1109608,"R.Premadasa Stadium, Khettarama",Sri Lanka,TAM Siriwardana,Left-arm orthodox,"[1, 0, 1]",0,7,8,1,0
+37,1109608,"R.Premadasa Stadium, Khettarama",Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+38,1109608,"R.Premadasa Stadium, Khettarama",Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,11,10,0,0
+39,1109608,"R.Premadasa Stadium, Khettarama",Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",0,3,6,0,0
+40,1122726,Himachal Pradesh Cricket Association Stadium,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,1,5,0,0
+41,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,P Jayawickrama,Left-arm orthodox,"[1, 0, 1]",1,5,10,0,0
+42,1262757,"R Premadasa Stadium, Colombo",Sri Lanka,MD Shanaka,Right-arm medium,"[0, 1, 2]",0,6,9,0,0
+43,1187684,Bay Oval,New Zealand,HK Bennett,Right-arm fast-medium,"[0, 1, 1]",1,4,5,0,0
+44,1187684,Bay Oval,New Zealand,TG Southee,Right-arm fast-medium,"[0, 1, 1]",0,6,8,0,0
+45,1187684,Bay Oval,New Zealand,KA Jamieson,Right-arm fast-medium,"[0, 1, 1]",0,5,8,0,0
+46,1187684,Bay Oval,New Zealand,JDS Neesham,Right-arm medium,"[0, 1, 2]",0,12,11,1,0
+47,1109609,"R.Premadasa Stadium, Khettarama",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",0,3,3,0,0
+48,1109609,"R.Premadasa Stadium, Khettarama",Sri Lanka,MVT Fernando,Left-arm fast-medium,"[0, 0, 1]",0,2,4,0,0
+49,1109609,"R.Premadasa Stadium, Khettarama",Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,9,9,0,0
+50,1109609,"R.Premadasa Stadium, Khettarama",Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,5,5,1,0
+51,1109609,"R.Premadasa Stadium, Khettarama",Sri Lanka,A Dananjaya,Right-arm offbreak,"[1, 1, 0]",0,7,15,0,0
+52,1262755,"R Premadasa Stadium, Colombo",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",0,6,20,0,0
+53,1262755,"R Premadasa Stadium, Colombo",Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",0,15,10,1,1
+54,1262755,"R Premadasa Stadium, Colombo",Sri Lanka,DM de Silva,Right-arm offbreak,"[1, 1, 0]",1,0,2,0,0
+55,1262755,"R Premadasa Stadium, Colombo",Sri Lanka,C Karunaratne,Right-arm fast-medium,"[0, 1, 1]",0,4,4,0,0
+56,1262755,"R Premadasa Stadium, Colombo",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,1,5,0,0
+57,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",0,7,8,0,0
+58,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,CAK Rajitha,Right-arm fast-medium,"[0, 1, 1]",0,3,6,0,0
+59,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,PADLR Sandakan,Left-arm chinaman,"[1, 0, 0]",0,15,9,2,0
+60,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,MD Shanaka,Right-arm medium,"[0, 1, 2]",0,1,1,0,0
+61,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,C Karunaratne,Right-arm fast-medium,"[0, 1, 1]",0,3,1,0,0
+62,1262756,"R Premadasa Stadium, Colombo",Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,8,7,1,0
+63,1007651,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,4,1,1,0
+64,885967,Harare Sports Club,Zimbabwe,CJ Chibhabha,Right-arm medium,"[0, 1, 2]",1,5,8,0,0
+65,885967,Harare Sports Club,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,7,6,1,0
+66,885967,Harare Sports Club,Zimbabwe,AG Cremer,Right-arm legbreak,"[1, 1, 1]",0,21,17,2,0
+67,885967,Harare Sports Club,Zimbabwe,N Madziva,Right-arm medium,"[0, 1, 2]",0,7,5,1,0
+68,885967,Harare Sports Club,Zimbabwe,H Masakadza,Right-arm medium,"[0, 1, 2]",0,16,22,0,1

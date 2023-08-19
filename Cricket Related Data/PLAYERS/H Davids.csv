@@ -1,0 +1,5 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,648655,SuperSport Park,India,I Sharma,Right-arm fast-medium,"[0, 1, 1]",1,0,2,0,0
+1,648655,SuperSport Park,India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,1,5,0,0
+2,685735,SuperSport Park,Pakistan,Sohail Tanvir,Left-arm fast-medium,"[0, 0, 1]",0,4,6,0,0
+3,685735,SuperSport Park,Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",1,1,8,0,0

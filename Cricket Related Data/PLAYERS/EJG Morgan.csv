@@ -1,0 +1,53 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,247496,"Kensington Oval, Bridgetown",Australia,GD McGrath,Right-arm fast-medium,"[0, 1, 1]",1,0,9,0,0
+1,247498,"Kensington Oval, Bridgetown",Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",0,0,5,0,0
+2,247498,"Kensington Oval, Bridgetown",Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,5,4,1,0
+3,1029001,County Ground,England,PKD Chase,Right-arm fast-medium,"[0, 1, 1]",1,1,4,0,0
+4,1029001,County Ground,England,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,9,8,2,0
+5,1029003,Lord's,England,PKD Chase,Right-arm fast-medium,"[0, 1, 1]",0,3,4,0,0
+6,1029003,Lord's,England,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+7,1029003,Lord's,England,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,16,15,0,1
+8,1029003,Lord's,England,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,33,26,4,1
+9,1029003,Lord's,England,PR Stirling,Right-arm offbreak,"[1, 1, 0]",0,7,10,0,0
+10,1198249,The Rose Bowl,England,CA Young,Right-arm medium,"[0, 1, 2]",0,19,10,4,0
+11,1198249,The Rose Bowl,England,J Little,Left-arm fast,"[0, 0, 0]",1,26,17,1,3
+12,1198249,The Rose Bowl,England,MR Adair,Right-arm fast,"[0, 1, 0]",0,12,15,3,0
+13,1198249,The Rose Bowl,England,GJ Delany,Right-arm legbreak,"[1, 1, 1]",0,5,4,1,0
+14,1198249,The Rose Bowl,England,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,22,21,4,0
+15,247484,Providence Stadium,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+16,247484,Providence Stadium,England,SI Mahmood,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+17,1161014,"The Village, Malahide",England,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+18,1161014,"The Village, Malahide",England,J Little,Left-arm fast,"[0, 0, 0]",1,0,2,0,0
+19,1198247,The Rose Bowl,England,CA Young,Right-arm medium,"[0, 1, 2]",0,7,4,0,1
+20,1198247,The Rose Bowl,England,GJ Delany,Right-arm legbreak,"[1, 1, 1]",0,3,7,0,0
+21,1198247,The Rose Bowl,England,Simi Singh,Right-arm offbreak,"[1, 1, 0]",0,8,8,0,1
+22,1198247,The Rose Bowl,England,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,13,7,3,0
+23,1198248,The Rose Bowl,England,J Little,Left-arm fast,"[0, 0, 0]",1,0,2,0,0
+24,483126,Clontarf Cricket Club Ground,England,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,13,9,0,1
+25,483126,Clontarf Cricket Club Ground,England,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,15,18,3,0
+26,483126,Clontarf Cricket Club Ground,England,WB Rankin,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+27,483126,Clontarf Cricket Club Ground,England,PR Stirling,Right-arm offbreak,"[1, 1, 0]",1,4,8,0,0
+28,566940,"The Village, Malahide",England,TJ Murtagh,Right-arm fast-medium,"[0, 1, 1]",0,3,11,0,0
+29,566940,"The Village, Malahide",England,GH Dockrell,Left-arm orthodox,"[1, 0, 1]",0,42,29,3,2
+30,566940,"The Village, Malahide",England,KJ O'Brien,Right-arm fast-medium,"[0, 1, 1]",0,17,10,2,1
+31,566940,"The Village, Malahide",England,DT Johnston,Right-arm fast-medium,"[0, 1, 1]",0,18,10,1,1
+32,566940,"The Village, Malahide",England,PR Stirling,Right-arm offbreak,"[1, 1, 0]",0,15,20,0,0
+33,247492,Providence Stadium,New Zealand,SE Bond,Right-arm fast,"[0, 1, 0]",0,8,17,1,0
+34,247465,"Sabina Park, Kingston",Pakistan,Mohammad Sami,Right-arm fast-medium,"[0, 1, 1]",1,1,4,0,0
+35,247465,"Sabina Park, Kingston",Pakistan,Umar Gul,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+36,390204,Willowmoore Park,Scotland,CM Wright,Right-arm fast-medium,"[0, 1, 1]",0,3,10,0,0
+37,390204,Willowmoore Park,Scotland,JH Stander,Right-arm fast-medium,"[0, 1, 1]",0,10,10,1,1
+38,390204,Willowmoore Park,Scotland,CS MacLeod,Right-arm fast-medium,"[0, 1, 1]",0,3,9,0,0
+39,390204,Willowmoore Park,Scotland,MM Iqbal,Right-arm fast-medium,"[0, 1, 1]",0,23,13,2,2
+40,390204,Willowmoore Park,Scotland,RR Watson,Right-arm fast-medium,"[0, 1, 1]",1,19,16,0,1
+41,390204,Willowmoore Park,Scotland,JD Nel,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+42,247488,Providence Stadium,South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",0,10,25,2,0
+43,247488,Providence Stadium,South Africa,AJ Hall,Right-arm fast-medium,"[0, 1, 1]",1,10,10,2,0
+44,247501,"National Cricket Stadium, St George's",Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+45,295788,Clontarf Cricket Club Ground,West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,0,2,0,0
+46,295788,Clontarf Cricket Club Ground,West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,15,26,2,0
+47,295788,Clontarf Cricket Club Ground,West Indies,DR Smith,Right-arm medium,"[0, 1, 2]",0,13,9,1,1
+48,247461,"Sabina Park, Kingston",Zimbabwe,CB Mpofu,Right-arm medium,"[0, 1, 2]",0,8,6,2,0
+49,247461,"Sabina Park, Kingston",Zimbabwe,EC Rainsford,Right-arm fast-medium,"[0, 1, 1]",0,13,18,2,0
+50,247477,"Sabina Park, Kingston",West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",0,9,5,0,1
+51,247477,"Sabina Park, Kingston",West Indies,IDR Bradshaw,Left-arm fast-medium,"[0, 0, 1]",0,5,11,0,0

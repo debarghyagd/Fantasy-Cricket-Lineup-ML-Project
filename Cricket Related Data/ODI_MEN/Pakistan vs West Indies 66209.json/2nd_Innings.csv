@@ -1,0 +1,180 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,CH Gayle,WW Hinds,Shoaib Akhtar,0,0,null,0,0,null,null
+1,0.2,CH Gayle,WW Hinds,Shoaib Akhtar,0,1,legbyes ,1,0,null,null
+2,0.3,WW Hinds,CH Gayle,Shoaib Akhtar,0,0,null,0,0,null,null
+3,0.4,WW Hinds,CH Gayle,Shoaib Akhtar,1,0,null,1,0,null,null
+4,0.5,CH Gayle,WW Hinds,Shoaib Akhtar,0,0,null,0,0,null,null
+5,0.6,CH Gayle,WW Hinds,Shoaib Akhtar,0,1,wides ,1,0,null,null
+6,0.7,CH Gayle,WW Hinds,Shoaib Akhtar,0,1,wides ,1,0,null,null
+7,0.8,CH Gayle,WW Hinds,Shoaib Akhtar,0,0,null,0,0,null,null
+8,1.1,WW Hinds,CH Gayle,Mohammad Sami,0,2,byes ,2,0,null,null
+9,1.2,WW Hinds,CH Gayle,Mohammad Sami,0,0,null,0,0,null,null
+10,1.3,WW Hinds,CH Gayle,Mohammad Sami,1,0,null,1,0,null,null
+11,1.4,CH Gayle,WW Hinds,Mohammad Sami,0,0,null,0,0,null,null
+12,1.5,CH Gayle,WW Hinds,Mohammad Sami,1,0,null,1,0,null,null
+13,1.6,WW Hinds,CH Gayle,Mohammad Sami,0,0,null,0,0,null,null
+14,2.1,CH Gayle,WW Hinds,Shoaib Akhtar,0,0,null,0,0,null,null
+15,2.2,CH Gayle,WW Hinds,Shoaib Akhtar,0,0,null,0,1,CH Gayle,lbw
+16,2.3,RR Sarwan,WW Hinds,Shoaib Akhtar,0,0,null,0,0,null,null
+17,2.4,RR Sarwan,WW Hinds,Shoaib Akhtar,0,0,null,0,0,null,null
+18,2.5,RR Sarwan,WW Hinds,Shoaib Akhtar,0,1,wides ,1,0,null,null
+19,2.6,RR Sarwan,WW Hinds,Shoaib Akhtar,0,0,null,0,0,null,null
+20,2.7,RR Sarwan,WW Hinds,Shoaib Akhtar,0,0,null,0,0,null,null
+21,3.1,WW Hinds,RR Sarwan,Mohammad Sami,0,0,null,0,0,null,null
+22,3.2,WW Hinds,RR Sarwan,Mohammad Sami,0,0,null,0,0,null,null
+23,3.3,WW Hinds,RR Sarwan,Mohammad Sami,0,0,null,0,0,null,null
+24,3.4,WW Hinds,RR Sarwan,Mohammad Sami,3,0,null,3,0,null,null
+25,3.5,RR Sarwan,WW Hinds,Mohammad Sami,4,0,null,4,0,null,null
+26,3.6,RR Sarwan,WW Hinds,Mohammad Sami,4,0,null,4,0,null,null
+27,4.1,WW Hinds,RR Sarwan,Shoaib Akhtar,0,0,null,0,0,null,null
+28,4.2,WW Hinds,RR Sarwan,Shoaib Akhtar,0,0,null,0,1,WW Hinds,caught and bowled
+29,4.3,BC Lara,RR Sarwan,Shoaib Akhtar,2,0,null,2,0,null,null
+30,4.4,BC Lara,RR Sarwan,Shoaib Akhtar,1,0,null,1,0,null,null
+31,4.5,RR Sarwan,BC Lara,Shoaib Akhtar,0,0,null,0,0,null,null
+32,4.6,RR Sarwan,BC Lara,Shoaib Akhtar,3,0,null,3,0,null,null
+33,5.1,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+34,5.2,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+35,5.3,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+36,5.4,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+37,5.5,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+38,5.6,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+39,6.1,BC Lara,RR Sarwan,Shoaib Akhtar,1,0,null,1,0,null,null
+40,6.2,RR Sarwan,BC Lara,Shoaib Akhtar,0,1,wides ,1,0,null,null
+41,6.3,RR Sarwan,BC Lara,Shoaib Akhtar,0,0,null,0,0,null,null
+42,6.4,RR Sarwan,BC Lara,Shoaib Akhtar,0,0,null,0,0,null,null
+43,6.5,RR Sarwan,BC Lara,Shoaib Akhtar,0,0,null,0,0,null,null
+44,6.6,RR Sarwan,BC Lara,Shoaib Akhtar,0,0,null,0,0,null,null
+45,6.7,RR Sarwan,BC Lara,Shoaib Akhtar,2,0,null,2,0,null,null
+46,7.1,BC Lara,RR Sarwan,Naved-ul-Hasan,1,0,null,1,0,null,null
+47,7.2,RR Sarwan,BC Lara,Naved-ul-Hasan,4,0,null,4,0,null,null
+48,7.3,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+49,7.4,RR Sarwan,BC Lara,Naved-ul-Hasan,3,0,null,3,0,null,null
+50,7.5,BC Lara,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+51,7.6,BC Lara,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+52,8.1,RR Sarwan,BC Lara,Mohammad Sami,0,0,null,0,0,null,null
+53,8.2,RR Sarwan,BC Lara,Mohammad Sami,0,0,null,0,0,null,null
+54,8.3,RR Sarwan,BC Lara,Mohammad Sami,6,0,null,6,0,null,null
+55,8.4,RR Sarwan,BC Lara,Mohammad Sami,0,0,null,0,0,null,null
+56,8.5,RR Sarwan,BC Lara,Mohammad Sami,0,0,null,0,0,null,null
+57,8.6,RR Sarwan,BC Lara,Mohammad Sami,4,0,null,4,0,null,null
+58,9.1,BC Lara,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+59,9.2,BC Lara,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+60,9.3,BC Lara,RR Sarwan,Naved-ul-Hasan,4,0,null,4,0,null,null
+61,9.4,BC Lara,RR Sarwan,Naved-ul-Hasan,4,0,null,4,0,null,null
+62,9.5,BC Lara,RR Sarwan,Naved-ul-Hasan,1,0,null,1,0,null,null
+63,9.6,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+64,10.1,BC Lara,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+65,10.2,BC Lara,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+66,10.3,BC Lara,RR Sarwan,Abdul Razzaq,0,1,wides ,1,0,null,null
+67,10.4,BC Lara,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+68,10.5,BC Lara,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+69,10.6,BC Lara,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+70,10.7,BC Lara,RR Sarwan,Abdul Razzaq,2,0,null,2,0,null,null
+71,11.1,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+72,11.2,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+73,11.3,RR Sarwan,BC Lara,Naved-ul-Hasan,1,0,null,1,0,null,null
+74,11.4,BC Lara,RR Sarwan,Naved-ul-Hasan,1,0,null,1,0,null,null
+75,11.5,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+76,11.6,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+77,12.1,BC Lara,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+78,12.2,BC Lara,RR Sarwan,Abdul Razzaq,4,0,null,4,0,null,null
+79,12.3,BC Lara,RR Sarwan,Abdul Razzaq,4,0,null,4,0,null,null
+80,12.4,BC Lara,RR Sarwan,Abdul Razzaq,4,0,null,4,0,null,null
+81,12.5,BC Lara,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+82,12.6,BC Lara,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+83,13.1,BC Lara,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+84,13.2,BC Lara,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+85,13.3,BC Lara,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+86,13.4,BC Lara,RR Sarwan,Naved-ul-Hasan,1,0,null,1,0,null,null
+87,13.5,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+88,13.6,RR Sarwan,BC Lara,Naved-ul-Hasan,0,0,null,0,0,null,null
+89,14.1,BC Lara,RR Sarwan,Shoaib Akhtar,0,0,null,0,0,null,null
+90,14.2,BC Lara,RR Sarwan,Shoaib Akhtar,0,0,null,0,1,BC Lara,retired hurt
+91,14.3,S Chanderpaul,RR Sarwan,Shoaib Akhtar,0,0,null,0,0,null,null
+92,14.4,S Chanderpaul,RR Sarwan,Shoaib Akhtar,0,0,null,0,0,null,null
+93,14.5,S Chanderpaul,RR Sarwan,Shoaib Akhtar,0,0,null,0,0,null,null
+94,14.6,S Chanderpaul,RR Sarwan,Shoaib Akhtar,0,0,null,0,0,null,null
+95,15.1,RR Sarwan,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+96,15.2,RR Sarwan,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+97,15.3,RR Sarwan,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+98,15.4,RR Sarwan,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+99,15.5,RR Sarwan,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+100,15.6,RR Sarwan,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+101,16.1,S Chanderpaul,RR Sarwan,Shoaib Akhtar,1,0,null,1,0,null,null
+102,16.2,RR Sarwan,S Chanderpaul,Shoaib Akhtar,0,0,null,0,0,null,null
+103,16.3,RR Sarwan,S Chanderpaul,Shoaib Akhtar,1,0,null,1,0,null,null
+104,16.4,S Chanderpaul,RR Sarwan,Shoaib Akhtar,0,0,null,0,0,null,null
+105,16.5,S Chanderpaul,RR Sarwan,Shoaib Akhtar,0,0,null,0,0,null,null
+106,16.6,S Chanderpaul,RR Sarwan,Shoaib Akhtar,0,0,null,0,0,null,null
+107,17.1,RR Sarwan,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+108,17.2,RR Sarwan,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+109,17.3,RR Sarwan,S Chanderpaul,Naved-ul-Hasan,1,0,null,1,0,null,null
+110,17.4,S Chanderpaul,RR Sarwan,Naved-ul-Hasan,2,0,null,2,0,null,null
+111,17.5,S Chanderpaul,RR Sarwan,Naved-ul-Hasan,0,1,wides ,1,0,null,null
+112,17.6,S Chanderpaul,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+113,17.7,S Chanderpaul,RR Sarwan,Naved-ul-Hasan,0,0,null,0,0,null,null
+114,18.1,RR Sarwan,S Chanderpaul,Shoaib Akhtar,1,0,null,1,0,null,null
+115,18.2,S Chanderpaul,RR Sarwan,Shoaib Akhtar,0,0,null,0,0,null,null
+116,18.3,S Chanderpaul,RR Sarwan,Shoaib Akhtar,1,0,null,1,0,null,null
+117,18.4,RR Sarwan,S Chanderpaul,Shoaib Akhtar,0,0,null,0,0,null,null
+118,18.5,RR Sarwan,S Chanderpaul,Shoaib Akhtar,0,1,legbyes ,1,0,null,null
+119,18.6,S Chanderpaul,RR Sarwan,Shoaib Akhtar,0,0,null,0,0,null,null
+120,19.1,RR Sarwan,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+121,19.2,RR Sarwan,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+122,19.3,RR Sarwan,S Chanderpaul,Shoaib Malik,1,0,null,1,0,null,null
+123,19.4,S Chanderpaul,RR Sarwan,Shoaib Malik,1,0,null,1,0,null,null
+124,19.5,RR Sarwan,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+125,19.6,RR Sarwan,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+126,20.1,S Chanderpaul,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+127,20.2,RR Sarwan,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+128,20.3,RR Sarwan,S Chanderpaul,Abdul Razzaq,4,0,null,4,0,null,null
+129,20.4,RR Sarwan,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+130,20.5,RR Sarwan,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+131,20.6,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+132,21.1,RR Sarwan,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+133,21.2,RR Sarwan,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+134,21.3,RR Sarwan,S Chanderpaul,Shoaib Malik,1,0,null,1,0,null,null
+135,21.4,S Chanderpaul,RR Sarwan,Shoaib Malik,1,0,null,1,0,null,null
+136,21.5,RR Sarwan,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+137,21.6,RR Sarwan,S Chanderpaul,Shoaib Malik,1,0,null,1,0,null,null
+138,22.1,RR Sarwan,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+139,22.2,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+140,22.3,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+141,22.4,S Chanderpaul,RR Sarwan,Abdul Razzaq,4,0,null,4,0,null,null
+142,22.5,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+143,22.6,S Chanderpaul,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+144,23.1,RR Sarwan,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+145,23.2,RR Sarwan,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+146,23.3,RR Sarwan,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+147,23.4,RR Sarwan,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+148,23.5,RR Sarwan,S Chanderpaul,Shoaib Malik,1,0,null,1,0,null,null
+149,23.6,S Chanderpaul,RR Sarwan,Shoaib Malik,0,0,null,0,1,S Chanderpaul,caught
+150,24.1,RL Powell,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+151,24.2,RR Sarwan,RL Powell,Abdul Razzaq,0,1,legbyes ,1,0,null,null
+152,24.3,RL Powell,RR Sarwan,Abdul Razzaq,4,0,null,4,0,null,null
+153,24.4,RL Powell,RR Sarwan,Abdul Razzaq,0,1,wides ,1,0,null,null
+154,24.5,RL Powell,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+155,24.6,RL Powell,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+156,24.7,RL Powell,RR Sarwan,Abdul Razzaq,0,4,legbyes ,4,0,null,null
+157,25.1,RR Sarwan,RL Powell,Shoaib Malik,0,0,null,0,0,null,null
+158,25.2,RR Sarwan,RL Powell,Shoaib Malik,1,0,null,1,0,null,null
+159,25.3,RL Powell,RR Sarwan,Shoaib Malik,0,1,legbyes ,1,0,null,null
+160,25.4,RR Sarwan,RL Powell,Shoaib Malik,1,1,noballs ,2,0,null,null
+161,25.5,RL Powell,RR Sarwan,Shoaib Malik,0,0,null,0,0,null,null
+162,25.6,RL Powell,RR Sarwan,Shoaib Malik,0,0,null,0,0,null,null
+163,25.7,RL Powell,RR Sarwan,Shoaib Malik,0,1,wides ,1,0,null,null
+164,25.8,RL Powell,RR Sarwan,Shoaib Malik,0,0,null,0,0,null,null
+165,26.1,RR Sarwan,RL Powell,Abdul Razzaq,4,0,null,4,0,null,null
+166,26.2,RR Sarwan,RL Powell,Abdul Razzaq,0,1,wides ,1,0,null,null
+167,26.3,RR Sarwan,RL Powell,Abdul Razzaq,0,0,null,0,0,null,null
+168,26.4,RR Sarwan,RL Powell,Abdul Razzaq,0,1,legbyes ,1,0,null,null
+169,26.5,RL Powell,RR Sarwan,Abdul Razzaq,0,0,null,0,0,null,null
+170,26.6,RL Powell,RR Sarwan,Abdul Razzaq,1,0,null,1,0,null,null
+171,26.7,RR Sarwan,RL Powell,Abdul Razzaq,0,1,legbyes ,1,0,null,null
+172,27.1,RR Sarwan,RL Powell,Shoaib Malik,0,0,null,0,0,null,null
+173,27.2,RR Sarwan,RL Powell,Shoaib Malik,2,0,null,2,0,null,null
+174,27.3,RR Sarwan,RL Powell,Shoaib Malik,0,0,null,0,0,null,null
+175,27.4,RR Sarwan,RL Powell,Shoaib Malik,0,0,null,0,0,null,null
+176,27.5,RR Sarwan,RL Powell,Shoaib Malik,0,0,null,0,0,null,null
+177,27.6,RR Sarwan,RL Powell,Shoaib Malik,3,0,null,3,0,null,null
+178,28.1,RR Sarwan,RL Powell,Mohammad Yousuf,1,0,null,1,0,null,null

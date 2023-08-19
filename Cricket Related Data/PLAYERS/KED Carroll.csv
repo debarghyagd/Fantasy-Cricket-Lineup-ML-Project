@@ -1,0 +1,6 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,293071,"Civil Service Cricket Club, Stormont",India,RP Singh,Left-arm fast-medium,"[0, 0, 1]",0,2,7,0,0
+1,293071,"Civil Service Cricket Club, Stormont",India,S Sreesanth,Right-arm fast-medium,"[0, 1, 1]",1,5,8,0,0
+2,293072,"Civil Service Cricket Club, Stormont",South Africa,M Ntini,Right-arm fast,"[0, 1, 0]",0,2,7,0,0
+3,293072,"Civil Service Cricket Club, Stormont",South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",1,18,16,1,0
+4,247501,"National Cricket Stadium, St George's",Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",1,0,2,0,0

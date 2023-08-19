@@ -1,0 +1,19 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1278677,"Narendra Modi Stadium, Ahmedabad",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,4,4,0,0
+1,1278677,"Narendra Modi Stadium, Ahmedabad",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0
+2,1278677,"Narendra Modi Stadium, Ahmedabad",West Indies,FA Allen,Left-arm orthodox,"[1, 0, 1]",0,12,10,1,0
+3,1317900,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,JNT Seales,Right-arm medium,"[0, 1, 2]",0,10,14,0,1
+4,1317900,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,2,4,0,0
+5,1317900,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",1,9,8,1,0
+6,1317900,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,R Shepherd,Right-arm fast-medium,"[0, 1, 1]",0,6,7,0,0
+7,1278676,"Narendra Modi Stadium, Ahmedabad",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,7,13,0,0
+8,1278676,"Narendra Modi Stadium, Ahmedabad",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,6,5,1,0
+9,1278676,"Narendra Modi Stadium, Ahmedabad",West Indies,FA Allen,Left-arm orthodox,"[1, 0, 1]",0,6,5,0,0
+10,1317901,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,JNT Seales,Right-arm medium,"[0, 1, 2]",0,5,13,0,0
+11,1317901,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",1,11,10,1,0
+12,1317901,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,6,4,0,0
+13,1317901,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,R Shepherd,Right-arm fast-medium,"[0, 1, 1]",0,11,9,1,0
+14,1325550,Harare Sports Club,Zimbabwe,TL Chivanga,Right-arm fast,"[0, 1, 0]",0,2,5,0,0
+15,1325550,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",1,2,5,0,0
+16,1325550,Harare Sports Club,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,0,2,0,0
+17,1325550,Harare Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,10,8,1,0

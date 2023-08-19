@@ -1,0 +1,4 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,351684,Melbourne Cricket Ground,Australia,SW Tait,Right-arm fast,"[0, 1, 0]",0,1,3,0,0
+1,351688,Western Australia Cricket Association Ground,Australia,MG Johnson,Left-arm fast,"[0, 0, 0]",0,2,1,0,0
+2,351688,Western Australia Cricket Association Ground,Australia,BW Hilfenhaus,Right-arm fast-medium,"[0, 1, 1]",1,0,4,0,0

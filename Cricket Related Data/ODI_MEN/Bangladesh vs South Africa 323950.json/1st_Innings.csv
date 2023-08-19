@@ -1,0 +1,302 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tamim Iqbal,Shahriar Nafees,A Nel,0,0,null,0,0,null,null
+1,0.2,Tamim Iqbal,Shahriar Nafees,A Nel,0,0,null,0,0,null,null
+2,0.3,Tamim Iqbal,Shahriar Nafees,A Nel,0,0,null,0,1,Tamim Iqbal,bowled
+3,0.4,Mohammad Ashraful,Shahriar Nafees,A Nel,0,1,wides ,1,0,null,null
+4,0.5,Mohammad Ashraful,Shahriar Nafees,A Nel,0,0,null,0,0,null,null
+5,0.6,Mohammad Ashraful,Shahriar Nafees,A Nel,0,0,null,0,0,null,null
+6,0.7,Mohammad Ashraful,Shahriar Nafees,A Nel,0,0,null,0,0,null,null
+7,1.1,Shahriar Nafees,Mohammad Ashraful,CK Langeveldt,0,1,wides ,1,0,null,null
+8,1.2,Shahriar Nafees,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+9,1.3,Shahriar Nafees,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+10,1.4,Shahriar Nafees,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+11,1.5,Shahriar Nafees,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+12,1.6,Shahriar Nafees,Mohammad Ashraful,CK Langeveldt,4,0,null,4,0,null,null
+13,1.7,Shahriar Nafees,Mohammad Ashraful,CK Langeveldt,0,0,null,0,0,null,null
+14,2.1,Mohammad Ashraful,Shahriar Nafees,A Nel,0,0,null,0,1,Mohammad Ashraful,caught
+15,2.2,Shahriar Nafees,Nazimuddin,A Nel,0,0,null,0,0,null,null
+16,2.3,Shahriar Nafees,Nazimuddin,A Nel,0,0,null,0,0,null,null
+17,2.4,Shahriar Nafees,Nazimuddin,A Nel,0,0,null,0,0,null,null
+18,2.5,Shahriar Nafees,Nazimuddin,A Nel,0,0,null,0,0,null,null
+19,2.6,Shahriar Nafees,Nazimuddin,A Nel,0,0,null,0,0,null,null
+20,3.1,Nazimuddin,Shahriar Nafees,CK Langeveldt,0,0,null,0,0,null,null
+21,3.2,Nazimuddin,Shahriar Nafees,CK Langeveldt,0,0,null,0,0,null,null
+22,3.3,Nazimuddin,Shahriar Nafees,CK Langeveldt,0,0,null,0,0,null,null
+23,3.4,Nazimuddin,Shahriar Nafees,CK Langeveldt,0,0,null,0,0,null,null
+24,3.5,Nazimuddin,Shahriar Nafees,CK Langeveldt,0,0,null,0,0,null,null
+25,3.6,Nazimuddin,Shahriar Nafees,CK Langeveldt,3,0,null,3,0,null,null
+26,4.1,Nazimuddin,Shahriar Nafees,A Nel,4,0,null,4,0,null,null
+27,4.2,Nazimuddin,Shahriar Nafees,A Nel,0,0,null,0,0,null,null
+28,4.3,Nazimuddin,Shahriar Nafees,A Nel,0,0,null,0,0,null,null
+29,4.4,Nazimuddin,Shahriar Nafees,A Nel,0,0,null,0,0,null,null
+30,4.5,Nazimuddin,Shahriar Nafees,A Nel,0,0,null,0,0,null,null
+31,4.6,Nazimuddin,Shahriar Nafees,A Nel,4,0,null,4,0,null,null
+32,5.1,Shahriar Nafees,Nazimuddin,CK Langeveldt,1,0,null,1,0,null,null
+33,5.2,Nazimuddin,Shahriar Nafees,CK Langeveldt,0,0,null,0,1,Nazimuddin,lbw
+34,5.3,Shakib Al Hasan,Shahriar Nafees,CK Langeveldt,0,0,null,0,0,null,null
+35,5.4,Shakib Al Hasan,Shahriar Nafees,CK Langeveldt,0,0,null,0,0,null,null
+36,5.5,Shakib Al Hasan,Shahriar Nafees,CK Langeveldt,0,0,null,0,0,null,null
+37,5.6,Shakib Al Hasan,Shahriar Nafees,CK Langeveldt,0,0,null,0,0,null,null
+38,6.1,Shahriar Nafees,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+39,6.2,Shahriar Nafees,Shakib Al Hasan,A Nel,0,0,null,0,1,Shahriar Nafees,caught
+40,6.3,Raqibul Hasan,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+41,6.4,Raqibul Hasan,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+42,6.5,Raqibul Hasan,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+43,6.6,Raqibul Hasan,Shakib Al Hasan,A Nel,1,0,null,1,0,null,null
+44,7.1,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,1,0,null,1,0,null,null
+45,7.2,Shakib Al Hasan,Raqibul Hasan,CK Langeveldt,0,0,null,0,0,null,null
+46,7.3,Shakib Al Hasan,Raqibul Hasan,CK Langeveldt,0,0,null,0,0,null,null
+47,7.4,Shakib Al Hasan,Raqibul Hasan,CK Langeveldt,0,0,null,0,0,null,null
+48,7.5,Shakib Al Hasan,Raqibul Hasan,CK Langeveldt,0,0,null,0,0,null,null
+49,7.6,Shakib Al Hasan,Raqibul Hasan,CK Langeveldt,1,0,null,1,0,null,null
+50,8.1,Shakib Al Hasan,Raqibul Hasan,A Nel,1,0,null,1,0,null,null
+51,8.2,Raqibul Hasan,Shakib Al Hasan,A Nel,1,0,null,1,0,null,null
+52,8.3,Shakib Al Hasan,Raqibul Hasan,A Nel,0,0,null,0,0,null,null
+53,8.4,Shakib Al Hasan,Raqibul Hasan,A Nel,0,0,null,0,0,null,null
+54,8.5,Shakib Al Hasan,Raqibul Hasan,A Nel,0,1,wides ,1,0,null,null
+55,8.6,Shakib Al Hasan,Raqibul Hasan,A Nel,0,0,null,0,0,null,null
+56,8.7,Shakib Al Hasan,Raqibul Hasan,A Nel,0,0,null,0,0,null,null
+57,9.1,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+58,9.2,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+59,9.3,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+60,9.4,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,1,0,null,1,0,null,null
+61,9.5,Shakib Al Hasan,Raqibul Hasan,CK Langeveldt,0,0,null,0,0,null,null
+62,9.6,Shakib Al Hasan,Raqibul Hasan,CK Langeveldt,0,0,null,0,0,null,null
+63,10.1,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+64,10.2,Raqibul Hasan,Shakib Al Hasan,JA Morkel,1,0,null,1,0,null,null
+65,10.3,Shakib Al Hasan,Raqibul Hasan,JA Morkel,0,1,wides ,1,0,null,null
+66,10.4,Shakib Al Hasan,Raqibul Hasan,JA Morkel,4,0,null,4,0,null,null
+67,10.5,Shakib Al Hasan,Raqibul Hasan,JA Morkel,0,0,null,0,0,null,null
+68,10.6,Shakib Al Hasan,Raqibul Hasan,JA Morkel,0,0,null,0,0,null,null
+69,10.7,Shakib Al Hasan,Raqibul Hasan,JA Morkel,0,0,null,0,0,null,null
+70,11.1,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+71,11.2,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,4,0,null,4,0,null,null
+72,11.3,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+73,11.4,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+74,11.5,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,1,0,null,1,0,null,null
+75,11.6,Shakib Al Hasan,Raqibul Hasan,CK Langeveldt,4,0,null,4,0,null,null
+76,12.1,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+77,12.2,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+78,12.3,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+79,12.4,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+80,12.5,Raqibul Hasan,Shakib Al Hasan,JA Morkel,2,0,null,2,0,null,null
+81,12.6,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+82,13.1,Shakib Al Hasan,Raqibul Hasan,A Nel,1,0,null,1,0,null,null
+83,13.2,Raqibul Hasan,Shakib Al Hasan,A Nel,2,0,null,2,0,null,null
+84,13.3,Raqibul Hasan,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+85,13.4,Raqibul Hasan,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+86,13.5,Raqibul Hasan,Shakib Al Hasan,A Nel,2,0,null,2,0,null,null
+87,13.6,Raqibul Hasan,Shakib Al Hasan,A Nel,4,0,null,4,0,null,null
+88,14.1,Shakib Al Hasan,Raqibul Hasan,JA Morkel,1,0,null,1,0,null,null
+89,14.2,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,1,wides ,1,0,null,null
+90,14.3,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+91,14.4,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+92,14.5,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+93,14.6,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+94,14.7,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+95,15.1,Shakib Al Hasan,Raqibul Hasan,A Nel,0,0,null,0,0,null,null
+96,15.2,Shakib Al Hasan,Raqibul Hasan,A Nel,0,0,null,0,0,null,null
+97,15.3,Shakib Al Hasan,Raqibul Hasan,A Nel,0,0,null,0,0,null,null
+98,15.4,Shakib Al Hasan,Raqibul Hasan,A Nel,0,0,null,0,0,null,null
+99,15.5,Shakib Al Hasan,Raqibul Hasan,A Nel,0,0,null,0,0,null,null
+100,15.6,Shakib Al Hasan,Raqibul Hasan,A Nel,1,0,null,1,0,null,null
+101,16.1,Shakib Al Hasan,Raqibul Hasan,JA Morkel,0,0,null,0,0,null,null
+102,16.2,Shakib Al Hasan,Raqibul Hasan,JA Morkel,0,0,null,0,0,null,null
+103,16.3,Shakib Al Hasan,Raqibul Hasan,JA Morkel,1,0,null,1,0,null,null
+104,16.4,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+105,16.5,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+106,16.6,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+107,17.1,Shakib Al Hasan,Raqibul Hasan,J Botha,0,0,null,0,0,null,null
+108,17.2,Shakib Al Hasan,Raqibul Hasan,J Botha,0,0,null,0,0,null,null
+109,17.3,Shakib Al Hasan,Raqibul Hasan,J Botha,1,0,null,1,0,null,null
+110,17.4,Raqibul Hasan,Shakib Al Hasan,J Botha,0,0,null,0,0,null,null
+111,17.5,Raqibul Hasan,Shakib Al Hasan,J Botha,1,0,null,1,0,null,null
+112,17.6,Shakib Al Hasan,Raqibul Hasan,J Botha,1,0,null,1,0,null,null
+113,18.1,Shakib Al Hasan,Raqibul Hasan,JA Morkel,0,0,null,0,0,null,null
+114,18.2,Shakib Al Hasan,Raqibul Hasan,JA Morkel,0,0,null,0,0,null,null
+115,18.3,Shakib Al Hasan,Raqibul Hasan,JA Morkel,0,0,null,0,0,null,null
+116,18.4,Shakib Al Hasan,Raqibul Hasan,JA Morkel,0,0,null,0,0,null,null
+117,18.5,Shakib Al Hasan,Raqibul Hasan,JA Morkel,0,0,null,0,0,null,null
+118,18.6,Shakib Al Hasan,Raqibul Hasan,JA Morkel,1,0,null,1,0,null,null
+119,19.1,Shakib Al Hasan,Raqibul Hasan,J Botha,0,0,null,0,0,null,null
+120,19.2,Shakib Al Hasan,Raqibul Hasan,J Botha,0,0,null,0,0,null,null
+121,19.3,Shakib Al Hasan,Raqibul Hasan,J Botha,0,0,null,0,0,null,null
+122,19.4,Shakib Al Hasan,Raqibul Hasan,J Botha,1,0,null,1,0,null,null
+123,19.5,Raqibul Hasan,Shakib Al Hasan,J Botha,1,0,null,1,0,null,null
+124,19.6,Shakib Al Hasan,Raqibul Hasan,J Botha,2,0,null,2,0,null,null
+125,20.1,Raqibul Hasan,Shakib Al Hasan,JA Morkel,1,0,null,1,0,null,null
+126,20.2,Shakib Al Hasan,Raqibul Hasan,JA Morkel,1,0,null,1,0,null,null
+127,20.3,Raqibul Hasan,Shakib Al Hasan,JA Morkel,2,0,null,2,0,null,null
+128,20.4,Raqibul Hasan,Shakib Al Hasan,JA Morkel,0,0,null,0,0,null,null
+129,20.5,Raqibul Hasan,Shakib Al Hasan,JA Morkel,4,0,null,4,0,null,null
+130,20.6,Raqibul Hasan,Shakib Al Hasan,JA Morkel,1,0,null,1,0,null,null
+131,21.1,Raqibul Hasan,Shakib Al Hasan,J Botha,2,0,null,2,0,null,null
+132,21.2,Raqibul Hasan,Shakib Al Hasan,J Botha,0,0,null,0,0,null,null
+133,21.3,Raqibul Hasan,Shakib Al Hasan,J Botha,0,0,null,0,0,null,null
+134,21.4,Raqibul Hasan,Shakib Al Hasan,J Botha,0,0,null,0,0,null,null
+135,21.5,Raqibul Hasan,Shakib Al Hasan,J Botha,1,0,null,1,0,null,null
+136,21.6,Shakib Al Hasan,Raqibul Hasan,J Botha,1,0,null,1,0,null,null
+137,22.1,Shakib Al Hasan,Raqibul Hasan,PL Harris,1,0,null,1,0,null,null
+138,22.2,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+139,22.3,Raqibul Hasan,Shakib Al Hasan,PL Harris,2,0,null,2,0,null,null
+140,22.4,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+141,22.5,Shakib Al Hasan,Raqibul Hasan,PL Harris,1,0,null,1,0,null,null
+142,22.6,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+143,23.1,Shakib Al Hasan,Raqibul Hasan,J Botha,0,0,null,0,0,null,null
+144,23.2,Shakib Al Hasan,Raqibul Hasan,J Botha,0,0,null,0,0,null,null
+145,23.3,Shakib Al Hasan,Raqibul Hasan,J Botha,4,0,null,4,0,null,null
+146,23.4,Shakib Al Hasan,Raqibul Hasan,J Botha,0,0,null,0,0,null,null
+147,23.5,Shakib Al Hasan,Raqibul Hasan,J Botha,1,0,null,1,0,null,null
+148,23.6,Raqibul Hasan,Shakib Al Hasan,J Botha,1,0,null,1,0,null,null
+149,24.1,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+150,24.2,Shakib Al Hasan,Raqibul Hasan,PL Harris,1,0,null,1,0,null,null
+151,24.3,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+152,24.4,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+153,24.5,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+154,24.6,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+155,25.1,Raqibul Hasan,Shakib Al Hasan,J Botha,1,0,null,1,0,null,null
+156,25.2,Shakib Al Hasan,Raqibul Hasan,J Botha,0,0,null,0,0,null,null
+157,25.3,Shakib Al Hasan,Raqibul Hasan,J Botha,4,0,null,4,0,null,null
+158,25.4,Shakib Al Hasan,Raqibul Hasan,J Botha,1,0,null,1,0,null,null
+159,25.5,Raqibul Hasan,Shakib Al Hasan,J Botha,4,0,null,4,0,null,null
+160,25.6,Raqibul Hasan,Shakib Al Hasan,J Botha,0,0,null,0,0,null,null
+161,26.1,Shakib Al Hasan,Raqibul Hasan,PL Harris,0,0,null,0,0,null,null
+162,26.2,Shakib Al Hasan,Raqibul Hasan,PL Harris,0,0,null,0,0,null,null
+163,26.3,Shakib Al Hasan,Raqibul Hasan,PL Harris,0,0,null,0,0,null,null
+164,26.4,Shakib Al Hasan,Raqibul Hasan,PL Harris,0,1,legbyes ,1,0,null,null
+165,26.5,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+166,26.6,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+167,27.1,Shakib Al Hasan,Raqibul Hasan,AN Petersen,0,1,wides ,1,0,null,null
+168,27.2,Shakib Al Hasan,Raqibul Hasan,AN Petersen,0,0,null,0,0,null,null
+169,27.3,Shakib Al Hasan,Raqibul Hasan,AN Petersen,0,0,null,0,0,null,null
+170,27.4,Shakib Al Hasan,Raqibul Hasan,AN Petersen,0,1,wides ,1,0,null,null
+171,27.5,Shakib Al Hasan,Raqibul Hasan,AN Petersen,0,2,wides ,2,0,null,null
+172,27.6,Raqibul Hasan,Shakib Al Hasan,AN Petersen,1,0,null,1,0,null,null
+173,27.7,Shakib Al Hasan,Raqibul Hasan,AN Petersen,1,0,null,1,0,null,null
+174,27.8,Raqibul Hasan,Shakib Al Hasan,AN Petersen,0,0,null,0,0,null,null
+175,27.9,Raqibul Hasan,Shakib Al Hasan,AN Petersen,1,0,null,1,0,null,null
+176,28.1,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+177,28.2,Shakib Al Hasan,Raqibul Hasan,PL Harris,1,0,null,1,0,null,null
+178,28.3,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+179,28.4,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+180,28.5,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+181,28.6,Shakib Al Hasan,Raqibul Hasan,PL Harris,0,0,null,0,0,null,null
+182,29.1,Raqibul Hasan,Shakib Al Hasan,JP Duminy,0,0,null,0,0,null,null
+183,29.2,Raqibul Hasan,Shakib Al Hasan,JP Duminy,0,0,null,0,0,null,null
+184,29.3,Raqibul Hasan,Shakib Al Hasan,JP Duminy,0,0,null,0,0,null,null
+185,29.4,Raqibul Hasan,Shakib Al Hasan,JP Duminy,1,0,null,1,0,null,null
+186,29.5,Shakib Al Hasan,Raqibul Hasan,JP Duminy,0,0,null,0,0,null,null
+187,29.6,Shakib Al Hasan,Raqibul Hasan,JP Duminy,0,0,null,0,0,null,null
+188,30.1,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+189,30.2,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+190,30.3,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+191,30.4,Shakib Al Hasan,Raqibul Hasan,PL Harris,1,0,null,1,0,null,null
+192,30.5,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+193,30.6,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+194,31.1,Raqibul Hasan,Shakib Al Hasan,JP Duminy,1,0,null,1,0,null,null
+195,31.2,Shakib Al Hasan,Raqibul Hasan,JP Duminy,2,0,null,2,0,null,null
+196,31.3,Shakib Al Hasan,Raqibul Hasan,JP Duminy,0,1,wides ,1,0,null,null
+197,31.4,Shakib Al Hasan,Raqibul Hasan,JP Duminy,0,0,null,0,0,null,null
+198,31.5,Shakib Al Hasan,Raqibul Hasan,JP Duminy,0,0,null,0,0,null,null
+199,31.6,Shakib Al Hasan,Raqibul Hasan,JP Duminy,0,0,null,0,0,null,null
+200,31.7,Shakib Al Hasan,Raqibul Hasan,JP Duminy,0,0,null,0,0,null,null
+201,32.1,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+202,32.2,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+203,32.3,Shakib Al Hasan,Raqibul Hasan,PL Harris,1,0,null,1,0,null,null
+204,32.4,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+205,32.5,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,1,legbyes ,1,0,null,null
+206,32.6,Shakib Al Hasan,Raqibul Hasan,PL Harris,0,0,null,0,0,null,null
+207,33.1,Raqibul Hasan,Shakib Al Hasan,JP Duminy,0,0,null,0,0,null,null
+208,33.2,Raqibul Hasan,Shakib Al Hasan,JP Duminy,1,0,null,1,0,null,null
+209,33.3,Shakib Al Hasan,Raqibul Hasan,JP Duminy,0,1,wides ,1,0,null,null
+210,33.4,Shakib Al Hasan,Raqibul Hasan,JP Duminy,1,0,null,1,0,null,null
+211,33.5,Raqibul Hasan,Shakib Al Hasan,JP Duminy,1,0,null,1,0,null,null
+212,33.6,Shakib Al Hasan,Raqibul Hasan,JP Duminy,1,0,null,1,0,null,null
+213,33.7,Raqibul Hasan,Shakib Al Hasan,JP Duminy,1,0,null,1,0,null,null
+214,34.1,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+215,34.2,Shakib Al Hasan,Raqibul Hasan,PL Harris,1,0,null,1,0,null,null
+216,34.3,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+217,34.4,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+218,34.5,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+219,34.6,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+220,35.1,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+221,35.2,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,2,0,null,2,0,null,null
+222,35.3,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+223,35.4,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+224,35.5,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+225,35.6,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,1,0,null,1,0,null,null
+226,36.1,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+227,36.2,Raqibul Hasan,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+228,36.3,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+229,36.4,Shakib Al Hasan,Raqibul Hasan,PL Harris,1,0,null,1,0,null,null
+230,36.5,Raqibul Hasan,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+231,36.6,Shakib Al Hasan,Raqibul Hasan,PL Harris,0,0,null,0,0,null,null
+232,37.1,Raqibul Hasan,Shakib Al Hasan,CK Langeveldt,0,0,null,0,1,Raqibul Hasan,caught
+233,37.2,Dhiman Ghosh,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+234,37.3,Dhiman Ghosh,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+235,37.4,Dhiman Ghosh,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+236,37.5,Dhiman Ghosh,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+237,37.6,Dhiman Ghosh,Shakib Al Hasan,CK Langeveldt,0,0,null,0,0,null,null
+238,38.1,Shakib Al Hasan,Dhiman Ghosh,A Nel,0,0,null,0,0,null,null
+239,38.2,Shakib Al Hasan,Dhiman Ghosh,A Nel,1,0,null,1,0,null,null
+240,38.3,Dhiman Ghosh,Shakib Al Hasan,A Nel,0,0,null,0,1,Dhiman Ghosh,run out
+241,38.4,Abdur Razzak,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+242,38.5,Abdur Razzak,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+243,38.6,Abdur Razzak,Shakib Al Hasan,A Nel,0,0,null,0,1,Abdur Razzak,caught
+244,39.1,Shakib Al Hasan,Mashrafe Mortaza,J Botha,1,0,null,1,0,null,null
+245,39.2,Mashrafe Mortaza,Shakib Al Hasan,J Botha,0,0,null,0,0,null,null
+246,39.3,Mashrafe Mortaza,Shakib Al Hasan,J Botha,1,0,null,1,0,null,null
+247,39.4,Shakib Al Hasan,Mashrafe Mortaza,J Botha,0,0,null,0,0,null,null
+248,39.5,Shakib Al Hasan,Mashrafe Mortaza,J Botha,0,0,null,0,0,null,null
+249,39.6,Shakib Al Hasan,Mashrafe Mortaza,J Botha,2,0,null,2,0,null,null
+250,40.1,Mashrafe Mortaza,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+251,40.2,Mashrafe Mortaza,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+252,40.3,Mashrafe Mortaza,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+253,40.4,Mashrafe Mortaza,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+254,40.5,Mashrafe Mortaza,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+255,40.6,Mashrafe Mortaza,Shakib Al Hasan,A Nel,0,0,null,0,0,null,null
+256,41.1,Shakib Al Hasan,Mashrafe Mortaza,J Botha,1,0,null,1,0,null,null
+257,41.2,Mashrafe Mortaza,Shakib Al Hasan,J Botha,0,0,null,0,0,null,null
+258,41.3,Mashrafe Mortaza,Shakib Al Hasan,J Botha,1,0,null,1,0,null,null
+259,41.4,Shakib Al Hasan,Mashrafe Mortaza,J Botha,0,0,null,0,0,null,null
+260,41.5,Shakib Al Hasan,Mashrafe Mortaza,J Botha,1,0,null,1,0,null,null
+261,41.6,Mashrafe Mortaza,Shakib Al Hasan,J Botha,0,0,null,0,0,null,null
+262,42.1,Shakib Al Hasan,Mashrafe Mortaza,PL Harris,0,0,null,0,0,null,null
+263,42.2,Shakib Al Hasan,Mashrafe Mortaza,PL Harris,0,0,null,0,0,null,null
+264,42.3,Shakib Al Hasan,Mashrafe Mortaza,PL Harris,1,0,null,1,0,null,null
+265,42.4,Mashrafe Mortaza,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+266,42.5,Mashrafe Mortaza,Shakib Al Hasan,PL Harris,0,0,null,0,0,null,null
+267,42.6,Mashrafe Mortaza,Shakib Al Hasan,PL Harris,1,0,null,1,0,null,null
+268,43.1,Mashrafe Mortaza,Shakib Al Hasan,J Botha,1,0,null,1,0,null,null
+269,43.2,Shakib Al Hasan,Mashrafe Mortaza,J Botha,0,0,null,0,1,Shakib Al Hasan,caught
+270,43.3,Mosharraf Hossain,Mashrafe Mortaza,J Botha,0,5,wides ,5,0,null,null
+271,43.4,Mosharraf Hossain,Mashrafe Mortaza,J Botha,1,0,null,1,0,null,null
+272,43.5,Mashrafe Mortaza,Mosharraf Hossain,J Botha,1,0,null,1,0,null,null
+273,43.6,Mosharraf Hossain,Mashrafe Mortaza,J Botha,1,0,null,1,0,null,null
+274,43.7,Mashrafe Mortaza,Mosharraf Hossain,J Botha,1,0,null,1,0,null,null
+275,44.1,Mashrafe Mortaza,Mosharraf Hossain,PL Harris,0,0,null,0,0,null,null
+276,44.2,Mashrafe Mortaza,Mosharraf Hossain,PL Harris,0,0,null,0,0,null,null
+277,44.3,Mashrafe Mortaza,Mosharraf Hossain,PL Harris,0,0,null,0,0,null,null
+278,44.4,Mashrafe Mortaza,Mosharraf Hossain,PL Harris,1,0,null,1,0,null,null
+279,44.5,Mosharraf Hossain,Mashrafe Mortaza,PL Harris,1,0,null,1,0,null,null
+280,44.6,Mashrafe Mortaza,Mosharraf Hossain,PL Harris,1,0,null,1,0,null,null
+281,45.1,Mashrafe Mortaza,Mosharraf Hossain,J Botha,0,0,null,0,0,null,null
+282,45.2,Mashrafe Mortaza,Mosharraf Hossain,J Botha,2,0,null,2,0,null,null
+283,45.3,Mashrafe Mortaza,Mosharraf Hossain,J Botha,0,0,null,0,0,null,null
+284,45.4,Mashrafe Mortaza,Mosharraf Hossain,J Botha,1,0,null,1,0,null,null
+285,45.5,Mosharraf Hossain,Mashrafe Mortaza,J Botha,0,0,null,0,0,null,null
+286,45.6,Mosharraf Hossain,Mashrafe Mortaza,J Botha,0,0,null,0,0,null,null
+287,46.1,Mashrafe Mortaza,Mosharraf Hossain,CK Langeveldt,0,0,null,0,0,null,null
+288,46.2,Mashrafe Mortaza,Mosharraf Hossain,CK Langeveldt,1,0,null,1,0,null,null
+289,46.3,Mosharraf Hossain,Mashrafe Mortaza,CK Langeveldt,1,0,null,1,0,null,null
+290,46.4,Mashrafe Mortaza,Mosharraf Hossain,CK Langeveldt,4,0,null,4,0,null,null
+291,46.5,Mashrafe Mortaza,Mosharraf Hossain,CK Langeveldt,0,0,null,0,0,null,null
+292,46.6,Mashrafe Mortaza,Mosharraf Hossain,CK Langeveldt,1,0,null,1,0,null,null
+293,47.1,Mashrafe Mortaza,Mosharraf Hossain,A Nel,2,0,null,2,0,null,null
+294,47.2,Mashrafe Mortaza,Mosharraf Hossain,A Nel,1,0,null,1,1,Mosharraf Hossain,run out
+295,47.3,Syed Rasel,Mashrafe Mortaza,A Nel,0,0,null,0,0,null,null
+296,47.4,Syed Rasel,Mashrafe Mortaza,A Nel,0,0,null,0,0,null,null
+297,47.5,Syed Rasel,Mashrafe Mortaza,A Nel,0,0,null,0,0,null,null
+298,47.6,Syed Rasel,Mashrafe Mortaza,A Nel,0,0,null,0,0,null,null
+299,48.1,Mashrafe Mortaza,Syed Rasel,CK Langeveldt,0,0,null,0,0,null,null
+300,48.2,Mashrafe Mortaza,Syed Rasel,CK Langeveldt,0,0,null,0,1,Mashrafe Mortaza,caught

@@ -1,0 +1,206 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,ME Trescothick,MP Vaughan,JDP Oram,0,1,noballs ,1,0,null,null
+1,0.2,ME Trescothick,MP Vaughan,JDP Oram,0,0,null,0,0,null,null
+2,0.3,ME Trescothick,MP Vaughan,JDP Oram,0,0,null,0,0,null,null
+3,0.4,ME Trescothick,MP Vaughan,JDP Oram,0,0,null,0,0,null,null
+4,0.5,ME Trescothick,MP Vaughan,JDP Oram,0,0,null,0,0,null,null
+5,0.6,ME Trescothick,MP Vaughan,JDP Oram,0,0,null,0,0,null,null
+6,0.7,ME Trescothick,MP Vaughan,JDP Oram,0,0,null,0,0,null,null
+7,1.1,MP Vaughan,ME Trescothick,JEC Franklin,4,0,null,4,0,null,null
+8,1.2,MP Vaughan,ME Trescothick,JEC Franklin,0,1,legbyes ,1,0,null,null
+9,1.3,ME Trescothick,MP Vaughan,JEC Franklin,0,0,null,0,0,null,null
+10,1.4,ME Trescothick,MP Vaughan,JEC Franklin,4,0,null,4,0,null,null
+11,1.5,ME Trescothick,MP Vaughan,JEC Franklin,0,0,null,0,0,null,null
+12,1.6,ME Trescothick,MP Vaughan,JEC Franklin,4,0,null,4,0,null,null
+13,2.1,MP Vaughan,ME Trescothick,JDP Oram,1,0,null,1,0,null,null
+14,2.2,ME Trescothick,MP Vaughan,JDP Oram,0,0,null,0,0,null,null
+15,2.3,ME Trescothick,MP Vaughan,JDP Oram,1,0,null,1,0,null,null
+16,2.4,MP Vaughan,ME Trescothick,JDP Oram,0,0,null,0,0,null,null
+17,2.5,MP Vaughan,ME Trescothick,JDP Oram,0,0,null,0,0,null,null
+18,2.6,MP Vaughan,ME Trescothick,JDP Oram,0,0,null,0,0,null,null
+19,3.1,ME Trescothick,MP Vaughan,JEC Franklin,0,0,null,0,0,null,null
+20,3.2,ME Trescothick,MP Vaughan,JEC Franklin,4,0,null,4,0,null,null
+21,3.3,ME Trescothick,MP Vaughan,JEC Franklin,0,1,legbyes ,1,0,null,null
+22,3.4,MP Vaughan,ME Trescothick,JEC Franklin,0,1,noballs ,1,0,null,null
+23,3.5,MP Vaughan,ME Trescothick,JEC Franklin,0,0,null,0,0,null,null
+24,3.6,MP Vaughan,ME Trescothick,JEC Franklin,0,0,null,0,0,null,null
+25,3.7,MP Vaughan,ME Trescothick,JEC Franklin,0,0,null,0,0,null,null
+26,4.1,ME Trescothick,MP Vaughan,JDP Oram,0,0,null,0,0,null,null
+27,4.2,ME Trescothick,MP Vaughan,JDP Oram,1,0,null,1,0,null,null
+28,4.3,MP Vaughan,ME Trescothick,JDP Oram,0,0,null,0,0,null,null
+29,4.4,MP Vaughan,ME Trescothick,JDP Oram,1,0,null,1,0,null,null
+30,4.5,ME Trescothick,MP Vaughan,JDP Oram,0,0,null,0,1,ME Trescothick,bowled
+31,4.6,GO Jones,MP Vaughan,JDP Oram,0,0,null,0,0,null,null
+32,5.1,MP Vaughan,GO Jones,JEC Franklin,0,0,null,0,0,null,null
+33,5.2,MP Vaughan,GO Jones,JEC Franklin,2,0,null,2,0,null,null
+34,5.3,MP Vaughan,GO Jones,JEC Franklin,4,0,null,4,0,null,null
+35,5.4,MP Vaughan,GO Jones,JEC Franklin,0,0,null,0,0,null,null
+36,5.5,MP Vaughan,GO Jones,JEC Franklin,0,0,null,0,0,null,null
+37,5.6,MP Vaughan,GO Jones,JEC Franklin,0,0,null,0,1,MP Vaughan,bowled
+38,6.1,GO Jones,AJ Strauss,JDP Oram,1,0,null,1,0,null,null
+39,6.2,AJ Strauss,GO Jones,JDP Oram,0,0,null,0,0,null,null
+40,6.3,AJ Strauss,GO Jones,JDP Oram,0,0,null,0,0,null,null
+41,6.4,AJ Strauss,GO Jones,JDP Oram,0,0,null,0,0,null,null
+42,6.5,AJ Strauss,GO Jones,JDP Oram,0,0,null,0,0,null,null
+43,6.6,AJ Strauss,GO Jones,JDP Oram,0,0,null,0,0,null,null
+44,7.1,GO Jones,AJ Strauss,JEC Franklin,0,0,null,0,0,null,null
+45,7.2,GO Jones,AJ Strauss,JEC Franklin,0,0,null,0,0,null,null
+46,7.3,GO Jones,AJ Strauss,JEC Franklin,0,0,null,0,0,null,null
+47,7.4,GO Jones,AJ Strauss,JEC Franklin,1,0,null,1,0,null,null
+48,7.5,AJ Strauss,GO Jones,JEC Franklin,1,0,null,1,0,null,null
+49,7.6,GO Jones,AJ Strauss,JEC Franklin,1,1,noballs ,2,0,null,null
+50,7.7,AJ Strauss,GO Jones,JEC Franklin,0,0,null,0,0,null,null
+51,8.1,GO Jones,AJ Strauss,JDP Oram,0,0,null,0,0,null,null
+52,8.2,GO Jones,AJ Strauss,JDP Oram,0,0,null,0,0,null,null
+53,8.3,GO Jones,AJ Strauss,JDP Oram,2,0,null,2,0,null,null
+54,8.4,GO Jones,AJ Strauss,JDP Oram,0,0,null,0,1,GO Jones,bowled
+55,8.5,PD Collingwood,AJ Strauss,JDP Oram,0,0,null,0,0,null,null
+56,8.6,PD Collingwood,AJ Strauss,JDP Oram,0,0,null,0,0,null,null
+57,9.1,AJ Strauss,PD Collingwood,JEC Franklin,0,1,noballs ,1,0,null,null
+58,9.2,AJ Strauss,PD Collingwood,JEC Franklin,0,0,null,0,0,null,null
+59,9.3,AJ Strauss,PD Collingwood,JEC Franklin,0,0,null,0,0,null,null
+60,9.4,AJ Strauss,PD Collingwood,JEC Franklin,0,0,null,0,0,null,null
+61,9.5,AJ Strauss,PD Collingwood,JEC Franklin,0,1,legbyes ,1,0,null,null
+62,9.6,PD Collingwood,AJ Strauss,JEC Franklin,0,0,null,0,0,null,null
+63,9.7,PD Collingwood,AJ Strauss,JEC Franklin,1,0,null,1,0,null,null
+64,10.1,PD Collingwood,AJ Strauss,JDP Oram,0,1,wides ,1,0,null,null
+65,10.2,PD Collingwood,AJ Strauss,JDP Oram,0,0,null,0,0,null,null
+66,10.3,PD Collingwood,AJ Strauss,JDP Oram,1,0,null,1,0,null,null
+67,10.4,AJ Strauss,PD Collingwood,JDP Oram,0,0,null,0,0,null,null
+68,10.5,AJ Strauss,PD Collingwood,JDP Oram,0,0,null,0,0,null,null
+69,10.6,AJ Strauss,PD Collingwood,JDP Oram,0,0,null,0,0,null,null
+70,10.7,AJ Strauss,PD Collingwood,JDP Oram,2,0,null,2,0,null,null
+71,11.1,PD Collingwood,AJ Strauss,JEC Franklin,0,0,null,0,1,PD Collingwood,caught
+72,11.2,A McGrath,AJ Strauss,JEC Franklin,1,0,null,1,0,null,null
+73,11.3,AJ Strauss,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+74,11.4,AJ Strauss,A McGrath,JEC Franklin,3,0,null,3,0,null,null
+75,11.5,A McGrath,AJ Strauss,JEC Franklin,0,0,null,0,0,null,null
+76,11.6,A McGrath,AJ Strauss,JEC Franklin,0,0,null,0,0,null,null
+77,12.1,AJ Strauss,A McGrath,CL Cairns,0,0,null,0,0,null,null
+78,12.2,AJ Strauss,A McGrath,CL Cairns,0,0,null,0,0,null,null
+79,12.3,AJ Strauss,A McGrath,CL Cairns,0,1,legbyes ,1,0,null,null
+80,12.4,A McGrath,AJ Strauss,CL Cairns,0,0,null,0,0,null,null
+81,12.5,A McGrath,AJ Strauss,CL Cairns,0,0,null,0,0,null,null
+82,12.6,A McGrath,AJ Strauss,CL Cairns,0,0,null,0,0,null,null
+83,13.1,AJ Strauss,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+84,13.2,AJ Strauss,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+85,13.3,AJ Strauss,A McGrath,JEC Franklin,1,0,null,1,0,null,null
+86,13.4,A McGrath,AJ Strauss,JEC Franklin,0,0,null,0,0,null,null
+87,13.5,A McGrath,AJ Strauss,JEC Franklin,0,0,null,0,0,null,null
+88,13.6,A McGrath,AJ Strauss,JEC Franklin,0,0,null,0,0,null,null
+89,14.1,AJ Strauss,A McGrath,CL Cairns,0,0,null,0,0,null,null
+90,14.2,AJ Strauss,A McGrath,CL Cairns,0,0,null,0,0,null,null
+91,14.3,AJ Strauss,A McGrath,CL Cairns,0,0,null,0,0,null,null
+92,14.4,AJ Strauss,A McGrath,CL Cairns,1,0,null,1,0,null,null
+93,14.5,A McGrath,AJ Strauss,CL Cairns,0,0,null,0,0,null,null
+94,14.6,A McGrath,AJ Strauss,CL Cairns,0,0,null,0,0,null,null
+95,15.1,AJ Strauss,A McGrath,JEC Franklin,0,0,null,0,1,AJ Strauss,caught
+96,15.2,A McGrath,ID Blackwell,JEC Franklin,2,0,null,2,0,null,null
+97,15.3,A McGrath,ID Blackwell,JEC Franklin,0,0,null,0,0,null,null
+98,15.4,A McGrath,ID Blackwell,JEC Franklin,1,0,null,1,0,null,null
+99,15.5,ID Blackwell,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+100,15.6,ID Blackwell,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+101,16.1,A McGrath,ID Blackwell,CL Cairns,1,0,null,1,0,null,null
+102,16.2,ID Blackwell,A McGrath,CL Cairns,0,0,null,0,0,null,null
+103,16.3,ID Blackwell,A McGrath,CL Cairns,1,0,null,1,0,null,null
+104,16.4,A McGrath,ID Blackwell,CL Cairns,0,0,null,0,0,null,null
+105,16.5,A McGrath,ID Blackwell,CL Cairns,0,0,null,0,0,null,null
+106,16.6,A McGrath,ID Blackwell,CL Cairns,0,0,null,0,0,null,null
+107,17.1,ID Blackwell,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+108,17.2,ID Blackwell,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+109,17.3,ID Blackwell,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+110,17.4,ID Blackwell,A McGrath,JEC Franklin,0,1,wides ,1,0,null,null
+111,17.5,ID Blackwell,A McGrath,JEC Franklin,4,0,null,4,0,null,null
+112,17.6,ID Blackwell,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+113,17.7,ID Blackwell,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+114,18.1,A McGrath,ID Blackwell,CL Cairns,0,0,null,0,0,null,null
+115,18.2,A McGrath,ID Blackwell,CL Cairns,0,0,null,0,0,null,null
+116,18.3,A McGrath,ID Blackwell,CL Cairns,4,0,null,4,0,null,null
+117,18.4,A McGrath,ID Blackwell,CL Cairns,0,0,null,0,0,null,null
+118,18.5,A McGrath,ID Blackwell,CL Cairns,0,0,null,0,0,null,null
+119,18.6,A McGrath,ID Blackwell,CL Cairns,0,0,null,0,0,null,null
+120,19.1,ID Blackwell,A McGrath,JEC Franklin,0,0,null,0,1,ID Blackwell,lbw
+121,19.2,AF Giles,A McGrath,JEC Franklin,0,0,null,0,1,AF Giles,caught
+122,19.3,D Gough,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+123,19.4,D Gough,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+124,19.5,D Gough,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+125,19.6,D Gough,A McGrath,JEC Franklin,0,0,null,0,0,null,null
+126,20.1,A McGrath,D Gough,CL Cairns,0,0,null,0,0,null,null
+127,20.2,A McGrath,D Gough,CL Cairns,0,0,null,0,0,null,null
+128,20.3,A McGrath,D Gough,CL Cairns,1,0,null,1,0,null,null
+129,20.4,D Gough,A McGrath,CL Cairns,0,0,null,0,0,null,null
+130,20.5,D Gough,A McGrath,CL Cairns,0,0,null,0,0,null,null
+131,20.6,D Gough,A McGrath,CL Cairns,2,0,null,2,0,null,null
+132,21.1,A McGrath,D Gough,JDP Oram,0,0,null,0,0,null,null
+133,21.2,A McGrath,D Gough,JDP Oram,0,0,null,0,0,null,null
+134,21.3,A McGrath,D Gough,JDP Oram,0,0,null,0,0,null,null
+135,21.4,A McGrath,D Gough,JDP Oram,1,1,noballs ,2,0,null,null
+136,21.5,D Gough,A McGrath,JDP Oram,1,1,noballs ,2,0,null,null
+137,21.6,A McGrath,D Gough,JDP Oram,0,0,null,0,0,null,null
+138,21.7,A McGrath,D Gough,JDP Oram,0,0,null,0,0,null,null
+139,21.8,A McGrath,D Gough,JDP Oram,0,0,null,0,0,null,null
+140,22.1,D Gough,A McGrath,CL Cairns,0,0,null,0,0,null,null
+141,22.2,D Gough,A McGrath,CL Cairns,0,0,null,0,0,null,null
+142,22.3,D Gough,A McGrath,CL Cairns,4,0,null,4,0,null,null
+143,22.4,D Gough,A McGrath,CL Cairns,0,0,null,0,1,D Gough,caught
+144,22.5,SJ Harmison,A McGrath,CL Cairns,0,0,null,0,0,null,null
+145,22.6,SJ Harmison,A McGrath,CL Cairns,0,0,null,0,0,null,null
+146,23.1,A McGrath,SJ Harmison,JDP Oram,0,0,null,0,0,null,null
+147,23.2,A McGrath,SJ Harmison,JDP Oram,1,0,null,1,0,null,null
+148,23.3,SJ Harmison,A McGrath,JDP Oram,0,0,null,0,0,null,null
+149,23.4,SJ Harmison,A McGrath,JDP Oram,1,0,null,1,0,null,null
+150,23.5,A McGrath,SJ Harmison,JDP Oram,0,0,null,0,0,null,null
+151,23.6,A McGrath,SJ Harmison,JDP Oram,0,0,null,0,1,A McGrath,caught
+152,24.1,SJ Harmison,JM Anderson,CL Cairns,1,0,null,1,0,null,null
+153,24.2,JM Anderson,SJ Harmison,CL Cairns,0,0,null,0,0,null,null
+154,24.3,JM Anderson,SJ Harmison,CL Cairns,1,0,null,1,0,null,null
+155,24.4,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+156,24.5,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+157,24.6,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+158,25.1,JM Anderson,SJ Harmison,JDP Oram,0,0,null,0,0,null,null
+159,25.2,JM Anderson,SJ Harmison,JDP Oram,0,0,null,0,0,null,null
+160,25.3,JM Anderson,SJ Harmison,JDP Oram,0,0,null,0,0,null,null
+161,25.4,JM Anderson,SJ Harmison,JDP Oram,0,0,null,0,0,null,null
+162,25.5,JM Anderson,SJ Harmison,JDP Oram,2,0,null,2,0,null,null
+163,25.6,JM Anderson,SJ Harmison,JDP Oram,0,0,null,0,0,null,null
+164,26.1,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+165,26.2,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+166,26.3,SJ Harmison,JM Anderson,CL Cairns,1,0,null,1,0,null,null
+167,26.4,JM Anderson,SJ Harmison,CL Cairns,1,0,null,1,0,null,null
+168,26.5,SJ Harmison,JM Anderson,CL Cairns,2,0,null,2,0,null,null
+169,26.6,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+170,27.1,JM Anderson,SJ Harmison,JDP Oram,0,0,null,0,0,null,null
+171,27.2,JM Anderson,SJ Harmison,JDP Oram,1,0,null,1,0,null,null
+172,27.3,SJ Harmison,JM Anderson,JDP Oram,0,0,null,0,0,null,null
+173,27.4,SJ Harmison,JM Anderson,JDP Oram,1,0,null,1,0,null,null
+174,27.5,JM Anderson,SJ Harmison,JDP Oram,1,0,null,1,0,null,null
+175,27.6,SJ Harmison,JM Anderson,JDP Oram,0,0,null,0,0,null,null
+176,28.1,JM Anderson,SJ Harmison,CL Cairns,1,0,null,1,0,null,null
+177,28.2,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+178,28.3,SJ Harmison,JM Anderson,CL Cairns,4,0,null,4,0,null,null
+179,28.4,SJ Harmison,JM Anderson,CL Cairns,2,0,null,2,0,null,null
+180,28.5,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+181,28.6,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+182,29.1,JM Anderson,SJ Harmison,SB Styris,0,0,null,0,0,null,null
+183,29.2,JM Anderson,SJ Harmison,SB Styris,0,0,null,0,0,null,null
+184,29.3,JM Anderson,SJ Harmison,SB Styris,0,0,null,0,0,null,null
+185,29.4,JM Anderson,SJ Harmison,SB Styris,0,0,null,0,0,null,null
+186,29.5,JM Anderson,SJ Harmison,SB Styris,0,0,null,0,0,null,null
+187,29.6,JM Anderson,SJ Harmison,SB Styris,0,0,null,0,0,null,null
+188,30.1,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+189,30.2,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+190,30.3,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+191,30.4,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+192,30.5,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+193,30.6,SJ Harmison,JM Anderson,CL Cairns,0,0,null,0,0,null,null
+194,31.1,JM Anderson,SJ Harmison,SB Styris,0,0,null,0,0,null,null
+195,31.2,JM Anderson,SJ Harmison,SB Styris,0,0,null,0,0,null,null
+196,31.3,JM Anderson,SJ Harmison,SB Styris,0,0,null,0,0,null,null
+197,31.4,JM Anderson,SJ Harmison,SB Styris,4,0,null,4,0,null,null
+198,31.5,JM Anderson,SJ Harmison,SB Styris,0,0,null,0,0,null,null
+199,31.6,JM Anderson,SJ Harmison,SB Styris,0,0,null,0,0,null,null
+200,32.1,SJ Harmison,JM Anderson,DL Vettori,0,0,null,0,0,null,null
+201,32.2,SJ Harmison,JM Anderson,DL Vettori,0,0,null,0,0,null,null
+202,32.3,SJ Harmison,JM Anderson,DL Vettori,1,0,null,1,0,null,null
+203,32.4,JM Anderson,SJ Harmison,DL Vettori,0,0,null,0,0,null,null
+204,32.5,JM Anderson,SJ Harmison,DL Vettori,0,0,null,0,1,JM Anderson,bowled

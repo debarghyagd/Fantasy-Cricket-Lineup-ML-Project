@@ -1,0 +1,10 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1115777,Westpac Stadium,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,3,8,0,0
+1,1115777,Westpac Stadium,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",1,5,6,1,0
+2,1115779,Hagley Oval,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,0,2,0,0
+3,1115779,Hagley Oval,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",1,0,1,0,0
+4,1187683,Eden Park,India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",1,1,2,0,0
+5,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,2,7,0,0
+6,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",0,37,17,0,5
+7,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Scotland,MA Leask,Right-arm offbreak,"[1, 1, 0]",0,19,20,1,1
+8,1307479,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",0,23,14,3,1

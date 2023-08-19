@@ -1,0 +1,7 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,668953,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,1,8,0,0
+1,668955,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+2,569241,McLean Park,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",1,5,13,1,0
+3,569241,McLean Park,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,6,12,1,0
+4,569242,Eden Park,England,JM Anderson,Right-arm fast-medium,"[0, 1, 1]",0,1,8,0,0
+5,569242,Eden Park,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",1,1,11,0,0

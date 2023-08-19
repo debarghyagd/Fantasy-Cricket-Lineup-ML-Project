@@ -1,0 +1,33 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,G Malla,SP Khakurel,TK Patel,0,0,null,0,0,null,null
+1,0.2,G Malla,SP Khakurel,TK Patel,0,0,null,0,0,null,null
+2,0.3,G Malla,SP Khakurel,TK Patel,1,0,null,1,0,null,null
+3,0.4,SP Khakurel,G Malla,TK Patel,0,0,null,0,0,null,null
+4,0.5,SP Khakurel,G Malla,TK Patel,0,0,null,0,0,null,null
+5,0.6,SP Khakurel,G Malla,TK Patel,0,0,null,0,0,null,null
+6,1.1,G Malla,SP Khakurel,NP Kenjige,0,0,null,0,0,null,null
+7,1.2,G Malla,SP Khakurel,NP Kenjige,0,0,null,0,1,G Malla,bowled
+8,1.3,P Khadka,SP Khakurel,NP Kenjige,0,0,null,0,0,null,null
+9,1.4,P Khadka,SP Khakurel,NP Kenjige,1,0,null,1,0,null,null
+10,1.5,SP Khakurel,P Khadka,NP Kenjige,0,0,null,0,1,SP Khakurel,bowled
+11,1.6,DS Airee,P Khadka,NP Kenjige,4,0,null,4,0,null,null
+12,2.1,P Khadka,DS Airee,TK Patel,0,0,null,0,0,null,null
+13,2.2,P Khadka,DS Airee,TK Patel,4,0,null,4,0,null,null
+14,2.3,P Khadka,DS Airee,TK Patel,0,0,null,0,0,null,null
+15,2.4,P Khadka,DS Airee,TK Patel,0,0,null,0,0,null,null
+16,2.5,P Khadka,DS Airee,TK Patel,0,0,null,0,0,null,null
+17,2.6,P Khadka,DS Airee,TK Patel,0,0,null,0,0,null,null
+18,3.1,DS Airee,P Khadka,NP Kenjige,4,0,null,4,0,null,null
+19,3.2,DS Airee,P Khadka,NP Kenjige,0,0,null,0,0,null,null
+20,3.3,DS Airee,P Khadka,NP Kenjige,0,0,null,0,0,null,null
+21,3.4,DS Airee,P Khadka,NP Kenjige,0,0,null,0,0,null,null
+22,3.5,DS Airee,P Khadka,NP Kenjige,0,0,null,0,0,null,null
+23,3.6,DS Airee,P Khadka,NP Kenjige,0,0,null,0,0,null,null
+24,4.1,P Khadka,DS Airee,TK Patel,1,0,null,1,0,null,null
+25,4.2,DS Airee,P Khadka,TK Patel,0,0,null,0,0,null,null
+26,4.3,DS Airee,P Khadka,TK Patel,1,0,null,1,0,null,null
+27,4.4,P Khadka,DS Airee,TK Patel,4,0,null,4,0,null,null
+28,4.5,P Khadka,DS Airee,TK Patel,6,0,null,6,0,null,null
+29,4.6,P Khadka,DS Airee,TK Patel,4,0,null,4,0,null,null
+30,5.1,DS Airee,P Khadka,NP Kenjige,0,0,null,0,0,null,null
+31,5.2,DS Airee,P Khadka,NP Kenjige,6,0,null,6,0,null,null

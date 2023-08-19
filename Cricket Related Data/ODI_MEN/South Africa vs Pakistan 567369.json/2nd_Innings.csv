@@ -1,0 +1,240 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Nasir Jamshed,Mohammad Hafeez,DW Steyn,0,0,null,0,0,null,null
+1,0.2,Nasir Jamshed,Mohammad Hafeez,DW Steyn,0,0,null,0,0,null,null
+2,0.3,Nasir Jamshed,Mohammad Hafeez,DW Steyn,4,0,null,4,0,null,null
+3,0.4,Nasir Jamshed,Mohammad Hafeez,DW Steyn,0,0,null,0,0,null,null
+4,0.5,Nasir Jamshed,Mohammad Hafeez,DW Steyn,1,0,null,1,0,null,null
+5,0.6,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+6,1.1,Nasir Jamshed,Mohammad Hafeez,LL Tsotsobe,0,0,null,0,0,null,null
+7,1.2,Nasir Jamshed,Mohammad Hafeez,LL Tsotsobe,0,0,null,0,0,null,null
+8,1.3,Nasir Jamshed,Mohammad Hafeez,LL Tsotsobe,0,0,null,0,0,null,null
+9,1.4,Nasir Jamshed,Mohammad Hafeez,LL Tsotsobe,0,0,null,0,0,null,null
+10,1.5,Nasir Jamshed,Mohammad Hafeez,LL Tsotsobe,0,0,null,0,0,null,null
+11,1.6,Nasir Jamshed,Mohammad Hafeez,LL Tsotsobe,0,0,null,0,0,null,null
+12,2.1,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+13,2.2,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+14,2.3,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+15,2.4,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+16,2.5,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+17,2.6,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+18,3.1,Nasir Jamshed,Mohammad Hafeez,LL Tsotsobe,1,0,null,1,0,null,null
+19,3.2,Mohammad Hafeez,Nasir Jamshed,LL Tsotsobe,0,0,null,0,0,null,null
+20,3.3,Mohammad Hafeez,Nasir Jamshed,LL Tsotsobe,0,0,null,0,0,null,null
+21,3.4,Mohammad Hafeez,Nasir Jamshed,LL Tsotsobe,4,0,null,4,0,null,null
+22,3.5,Mohammad Hafeez,Nasir Jamshed,LL Tsotsobe,6,0,null,6,0,null,null
+23,3.6,Mohammad Hafeez,Nasir Jamshed,LL Tsotsobe,1,0,null,1,0,null,null
+24,4.1,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+25,4.2,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+26,4.3,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+27,4.4,Mohammad Hafeez,Nasir Jamshed,DW Steyn,2,0,null,2,0,null,null
+28,4.5,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+29,4.6,Mohammad Hafeez,Nasir Jamshed,DW Steyn,0,0,null,0,0,null,null
+30,5.1,Nasir Jamshed,Mohammad Hafeez,LL Tsotsobe,0,1,legbyes ,1,0,null,null
+31,5.2,Mohammad Hafeez,Nasir Jamshed,LL Tsotsobe,0,0,null,0,0,null,null
+32,5.3,Mohammad Hafeez,Nasir Jamshed,LL Tsotsobe,0,0,null,0,0,null,null
+33,5.4,Mohammad Hafeez,Nasir Jamshed,LL Tsotsobe,0,0,null,0,0,null,null
+34,5.5,Mohammad Hafeez,Nasir Jamshed,LL Tsotsobe,1,0,null,1,0,null,null
+35,5.6,Nasir Jamshed,Mohammad Hafeez,LL Tsotsobe,0,0,null,0,0,null,null
+36,6.1,Mohammad Hafeez,Nasir Jamshed,KJ Abbott,2,0,null,2,0,null,null
+37,6.2,Mohammad Hafeez,Nasir Jamshed,KJ Abbott,1,0,null,1,0,null,null
+38,6.3,Nasir Jamshed,Mohammad Hafeez,KJ Abbott,1,0,null,1,0,null,null
+39,6.4,Mohammad Hafeez,Nasir Jamshed,KJ Abbott,0,0,null,0,0,null,null
+40,6.5,Mohammad Hafeez,Nasir Jamshed,KJ Abbott,0,0,null,0,0,null,null
+41,6.6,Mohammad Hafeez,Nasir Jamshed,KJ Abbott,0,0,null,0,0,null,null
+42,7.1,Nasir Jamshed,Mohammad Hafeez,R McLaren,0,0,null,0,0,null,null
+43,7.2,Nasir Jamshed,Mohammad Hafeez,R McLaren,2,0,null,2,0,null,null
+44,7.3,Nasir Jamshed,Mohammad Hafeez,R McLaren,1,0,null,1,0,null,null
+45,7.4,Mohammad Hafeez,Nasir Jamshed,R McLaren,1,0,null,1,0,null,null
+46,7.5,Nasir Jamshed,Mohammad Hafeez,R McLaren,0,0,null,0,1,Nasir Jamshed,caught
+47,7.6,Kamran Akmal,Mohammad Hafeez,R McLaren,4,0,null,4,0,null,null
+48,8.1,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,0,0,null,0,0,null,null
+49,8.2,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,0,0,null,0,0,null,null
+50,8.3,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,0,0,null,0,0,null,null
+51,8.4,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,0,0,null,0,0,null,null
+52,8.5,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,0,0,null,0,0,null,null
+53,8.6,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,4,0,null,4,0,null,null
+54,9.1,Kamran Akmal,Mohammad Hafeez,R McLaren,0,0,null,0,0,null,null
+55,9.2,Kamran Akmal,Mohammad Hafeez,R McLaren,0,0,null,0,0,null,null
+56,9.3,Kamran Akmal,Mohammad Hafeez,R McLaren,2,0,null,2,0,null,null
+57,9.4,Kamran Akmal,Mohammad Hafeez,R McLaren,1,0,null,1,0,null,null
+58,9.5,Mohammad Hafeez,Kamran Akmal,R McLaren,1,0,null,1,0,null,null
+59,9.6,Kamran Akmal,Mohammad Hafeez,R McLaren,0,0,null,0,0,null,null
+60,10.1,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,4,0,null,4,0,null,null
+61,10.2,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,0,0,null,0,0,null,null
+62,10.3,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,0,0,null,0,0,null,null
+63,10.4,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,0,0,null,0,0,null,null
+64,10.5,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,0,0,null,0,0,null,null
+65,10.6,Mohammad Hafeez,Kamran Akmal,LL Tsotsobe,0,0,null,0,0,null,null
+66,11.1,Kamran Akmal,Mohammad Hafeez,R McLaren,0,0,null,0,0,null,null
+67,11.2,Kamran Akmal,Mohammad Hafeez,R McLaren,0,0,null,0,0,null,null
+68,11.3,Kamran Akmal,Mohammad Hafeez,R McLaren,0,4,wides ,4,0,null,null
+69,11.4,Mohammad Hafeez,Kamran Akmal,R McLaren,0,0,null,0,0,null,null
+70,11.5,Mohammad Hafeez,Kamran Akmal,R McLaren,0,0,null,0,0,null,null
+71,11.6,Mohammad Hafeez,Kamran Akmal,R McLaren,0,0,null,0,0,null,null
+72,11.7,Mohammad Hafeez,Kamran Akmal,R McLaren,0,0,null,0,0,null,null
+73,12.1,Kamran Akmal,Mohammad Hafeez,RJ Peterson,2,0,null,2,0,null,null
+74,12.2,Kamran Akmal,Mohammad Hafeez,RJ Peterson,1,0,null,1,0,null,null
+75,12.3,Mohammad Hafeez,Kamran Akmal,RJ Peterson,1,0,null,1,0,null,null
+76,12.4,Kamran Akmal,Mohammad Hafeez,RJ Peterson,4,0,null,4,0,null,null
+77,12.5,Kamran Akmal,Mohammad Hafeez,RJ Peterson,3,0,null,3,0,null,null
+78,12.6,Mohammad Hafeez,Kamran Akmal,RJ Peterson,1,0,null,1,0,null,null
+79,13.1,Mohammad Hafeez,Kamran Akmal,DW Steyn,2,0,null,2,0,null,null
+80,13.2,Mohammad Hafeez,Kamran Akmal,DW Steyn,0,0,null,0,1,Mohammad Hafeez,caught
+81,13.3,Younis Khan,Kamran Akmal,DW Steyn,0,0,null,0,0,null,null
+82,13.4,Younis Khan,Kamran Akmal,DW Steyn,0,0,null,0,0,null,null
+83,13.5,Younis Khan,Kamran Akmal,DW Steyn,0,0,null,0,0,null,null
+84,13.6,Younis Khan,Kamran Akmal,DW Steyn,4,0,null,4,0,null,null
+85,14.1,Kamran Akmal,Younis Khan,RJ Peterson,1,0,null,1,0,null,null
+86,14.2,Younis Khan,Kamran Akmal,RJ Peterson,1,0,null,1,0,null,null
+87,14.3,Kamran Akmal,Younis Khan,RJ Peterson,0,0,null,0,1,Kamran Akmal,bowled
+88,14.4,Misbah-ul-Haq,Younis Khan,RJ Peterson,0,0,null,0,0,null,null
+89,14.5,Misbah-ul-Haq,Younis Khan,RJ Peterson,0,0,null,0,0,null,null
+90,14.6,Misbah-ul-Haq,Younis Khan,RJ Peterson,0,0,null,0,0,null,null
+91,15.1,Younis Khan,Misbah-ul-Haq,DW Steyn,0,0,null,0,0,null,null
+92,15.2,Younis Khan,Misbah-ul-Haq,DW Steyn,0,0,null,0,0,null,null
+93,15.3,Younis Khan,Misbah-ul-Haq,DW Steyn,1,0,null,1,0,null,null
+94,15.4,Misbah-ul-Haq,Younis Khan,DW Steyn,0,0,null,0,0,null,null
+95,15.5,Misbah-ul-Haq,Younis Khan,DW Steyn,0,0,null,0,0,null,null
+96,15.6,Misbah-ul-Haq,Younis Khan,DW Steyn,0,0,null,0,0,null,null
+97,16.1,Younis Khan,Misbah-ul-Haq,RJ Peterson,1,0,null,1,0,null,null
+98,16.2,Misbah-ul-Haq,Younis Khan,RJ Peterson,0,0,null,0,0,null,null
+99,16.3,Misbah-ul-Haq,Younis Khan,RJ Peterson,2,0,null,2,0,null,null
+100,16.4,Misbah-ul-Haq,Younis Khan,RJ Peterson,0,0,null,0,0,null,null
+101,16.5,Misbah-ul-Haq,Younis Khan,RJ Peterson,0,0,null,0,0,null,null
+102,16.6,Misbah-ul-Haq,Younis Khan,RJ Peterson,0,0,null,0,0,null,null
+103,17.1,Younis Khan,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+104,17.2,Younis Khan,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+105,17.3,Younis Khan,Misbah-ul-Haq,KJ Abbott,1,0,null,1,0,null,null
+106,17.4,Misbah-ul-Haq,Younis Khan,KJ Abbott,1,0,null,1,0,null,null
+107,17.5,Younis Khan,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+108,17.6,Younis Khan,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+109,18.1,Misbah-ul-Haq,Younis Khan,RJ Peterson,0,0,null,0,0,null,null
+110,18.2,Misbah-ul-Haq,Younis Khan,RJ Peterson,1,0,null,1,0,null,null
+111,18.3,Younis Khan,Misbah-ul-Haq,RJ Peterson,1,0,null,1,0,null,null
+112,18.4,Misbah-ul-Haq,Younis Khan,RJ Peterson,1,0,null,1,0,null,null
+113,18.5,Younis Khan,Misbah-ul-Haq,RJ Peterson,0,0,null,0,0,null,null
+114,18.6,Younis Khan,Misbah-ul-Haq,RJ Peterson,1,0,null,1,0,null,null
+115,19.1,Younis Khan,Misbah-ul-Haq,KJ Abbott,1,0,null,1,0,null,null
+116,19.2,Misbah-ul-Haq,Younis Khan,KJ Abbott,0,0,null,0,0,null,null
+117,19.3,Misbah-ul-Haq,Younis Khan,KJ Abbott,1,0,null,1,0,null,null
+118,19.4,Younis Khan,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+119,19.5,Younis Khan,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+120,19.6,Younis Khan,Misbah-ul-Haq,KJ Abbott,1,0,null,1,0,null,null
+121,20.1,Younis Khan,Misbah-ul-Haq,R McLaren,1,0,null,1,0,null,null
+122,20.2,Misbah-ul-Haq,Younis Khan,R McLaren,0,0,null,0,0,null,null
+123,20.3,Misbah-ul-Haq,Younis Khan,R McLaren,1,0,null,1,0,null,null
+124,20.4,Younis Khan,Misbah-ul-Haq,R McLaren,0,0,null,0,0,null,null
+125,20.5,Younis Khan,Misbah-ul-Haq,R McLaren,1,0,null,1,0,null,null
+126,20.6,Misbah-ul-Haq,Younis Khan,R McLaren,0,0,null,0,0,null,null
+127,21.1,Younis Khan,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+128,21.2,Younis Khan,Misbah-ul-Haq,KJ Abbott,1,0,null,1,0,null,null
+129,21.3,Misbah-ul-Haq,Younis Khan,KJ Abbott,0,0,null,0,0,null,null
+130,21.4,Misbah-ul-Haq,Younis Khan,KJ Abbott,1,0,null,1,0,null,null
+131,21.5,Younis Khan,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+132,21.6,Younis Khan,Misbah-ul-Haq,KJ Abbott,1,0,null,1,0,null,null
+133,22.1,Younis Khan,Misbah-ul-Haq,R McLaren,1,0,null,1,0,null,null
+134,22.2,Misbah-ul-Haq,Younis Khan,R McLaren,0,0,null,0,0,null,null
+135,22.3,Misbah-ul-Haq,Younis Khan,R McLaren,1,0,null,1,0,null,null
+136,22.4,Younis Khan,Misbah-ul-Haq,R McLaren,0,0,null,0,0,null,null
+137,22.5,Younis Khan,Misbah-ul-Haq,R McLaren,0,0,null,0,0,null,null
+138,22.6,Younis Khan,Misbah-ul-Haq,R McLaren,1,0,null,1,0,null,null
+139,23.1,Younis Khan,Misbah-ul-Haq,KJ Abbott,1,0,null,1,0,null,null
+140,23.2,Misbah-ul-Haq,Younis Khan,KJ Abbott,0,0,null,0,0,null,null
+141,23.3,Misbah-ul-Haq,Younis Khan,KJ Abbott,0,0,null,0,0,null,null
+142,23.4,Misbah-ul-Haq,Younis Khan,KJ Abbott,6,0,null,6,0,null,null
+143,23.5,Misbah-ul-Haq,Younis Khan,KJ Abbott,1,0,null,1,0,null,null
+144,23.6,Younis Khan,Misbah-ul-Haq,KJ Abbott,4,0,null,4,0,null,null
+145,24.1,Misbah-ul-Haq,Younis Khan,R McLaren,1,0,null,1,0,null,null
+146,24.2,Younis Khan,Misbah-ul-Haq,R McLaren,2,0,null,2,0,null,null
+147,24.3,Younis Khan,Misbah-ul-Haq,R McLaren,0,0,null,0,0,null,null
+148,24.4,Younis Khan,Misbah-ul-Haq,R McLaren,0,0,null,0,0,null,null
+149,24.5,Younis Khan,Misbah-ul-Haq,R McLaren,1,0,null,1,0,null,null
+150,24.6,Misbah-ul-Haq,Younis Khan,R McLaren,0,1,legbyes ,1,0,null,null
+151,25.1,Misbah-ul-Haq,Younis Khan,RJ Peterson,1,0,null,1,0,null,null
+152,25.2,Younis Khan,Misbah-ul-Haq,RJ Peterson,4,0,null,4,0,null,null
+153,25.3,Younis Khan,Misbah-ul-Haq,RJ Peterson,2,0,null,2,0,null,null
+154,25.4,Younis Khan,Misbah-ul-Haq,RJ Peterson,0,0,null,0,1,Younis Khan,caught
+155,25.5,Shoaib Malik,Misbah-ul-Haq,RJ Peterson,0,0,null,0,0,null,null
+156,25.6,Shoaib Malik,Misbah-ul-Haq,RJ Peterson,0,0,null,0,0,null,null
+157,26.1,Misbah-ul-Haq,Shoaib Malik,R McLaren,0,0,null,0,0,null,null
+158,26.2,Misbah-ul-Haq,Shoaib Malik,R McLaren,0,1,legbyes ,1,0,null,null
+159,26.3,Shoaib Malik,Misbah-ul-Haq,R McLaren,0,1,wides ,1,0,null,null
+160,26.4,Shoaib Malik,Misbah-ul-Haq,R McLaren,0,0,null,0,0,null,null
+161,26.5,Shoaib Malik,Misbah-ul-Haq,R McLaren,0,0,null,0,0,null,null
+162,26.6,Shoaib Malik,Misbah-ul-Haq,R McLaren,0,0,null,0,0,null,null
+163,26.7,Shoaib Malik,Misbah-ul-Haq,R McLaren,0,0,null,0,0,null,null
+164,27.1,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,0,0,null,0,0,null,null
+165,27.2,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,0,0,null,0,0,null,null
+166,27.3,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,0,0,null,0,0,null,null
+167,27.4,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,0,0,null,0,0,null,null
+168,27.5,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,0,0,null,0,0,null,null
+169,27.6,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,1,0,null,1,0,null,null
+170,28.1,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,0,0,null,0,0,null,null
+171,28.2,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,0,0,null,0,0,null,null
+172,28.3,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,1,0,null,1,0,null,null
+173,28.4,Shoaib Malik,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+174,28.5,Shoaib Malik,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+175,28.6,Shoaib Malik,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+176,29.1,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,6,0,null,6,0,null,null
+177,29.2,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,0,0,null,0,0,null,null
+178,29.3,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,1,0,null,1,0,null,null
+179,29.4,Shoaib Malik,Misbah-ul-Haq,RJ Peterson,1,0,null,1,0,null,null
+180,29.5,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,1,0,null,1,0,null,null
+181,29.6,Shoaib Malik,Misbah-ul-Haq,RJ Peterson,1,0,null,1,0,null,null
+182,30.1,Shoaib Malik,Misbah-ul-Haq,DW Steyn,1,0,null,1,0,null,null
+183,30.2,Misbah-ul-Haq,Shoaib Malik,DW Steyn,1,0,null,1,0,null,null
+184,30.3,Shoaib Malik,Misbah-ul-Haq,DW Steyn,0,0,null,0,0,null,null
+185,30.4,Shoaib Malik,Misbah-ul-Haq,DW Steyn,0,0,null,0,0,null,null
+186,30.5,Shoaib Malik,Misbah-ul-Haq,DW Steyn,0,0,null,0,0,null,null
+187,30.6,Shoaib Malik,Misbah-ul-Haq,DW Steyn,1,0,null,1,0,null,null
+188,31.1,Shoaib Malik,Misbah-ul-Haq,LL Tsotsobe,0,0,null,0,0,null,null
+189,31.2,Shoaib Malik,Misbah-ul-Haq,LL Tsotsobe,4,0,null,4,0,null,null
+190,31.3,Shoaib Malik,Misbah-ul-Haq,LL Tsotsobe,4,0,null,4,0,null,null
+191,31.4,Shoaib Malik,Misbah-ul-Haq,LL Tsotsobe,4,0,null,4,0,null,null
+192,31.5,Shoaib Malik,Misbah-ul-Haq,LL Tsotsobe,0,0,null,0,0,null,null
+193,31.6,Shoaib Malik,Misbah-ul-Haq,LL Tsotsobe,4,0,null,4,0,null,null
+194,32.1,Misbah-ul-Haq,Shoaib Malik,DW Steyn,1,0,null,1,0,null,null
+195,32.2,Shoaib Malik,Misbah-ul-Haq,DW Steyn,1,0,null,1,0,null,null
+196,32.3,Misbah-ul-Haq,Shoaib Malik,DW Steyn,4,0,null,4,0,null,null
+197,32.4,Misbah-ul-Haq,Shoaib Malik,DW Steyn,1,0,null,1,0,null,null
+198,32.5,Shoaib Malik,Misbah-ul-Haq,DW Steyn,1,0,null,1,0,null,null
+199,32.6,Misbah-ul-Haq,Shoaib Malik,DW Steyn,0,0,null,0,0,null,null
+200,33.1,Shoaib Malik,Misbah-ul-Haq,RJ Peterson,6,0,null,6,0,null,null
+201,33.2,Shoaib Malik,Misbah-ul-Haq,RJ Peterson,1,0,null,1,0,null,null
+202,33.3,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,0,0,null,0,0,null,null
+203,33.4,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,2,0,null,2,0,null,null
+204,33.5,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,0,0,null,0,0,null,null
+205,33.6,Misbah-ul-Haq,Shoaib Malik,RJ Peterson,4,0,null,4,0,null,null
+206,34.1,Shoaib Malik,Misbah-ul-Haq,DW Steyn,0,0,null,0,0,null,null
+207,34.2,Shoaib Malik,Misbah-ul-Haq,DW Steyn,1,0,null,1,0,null,null
+208,34.3,Misbah-ul-Haq,Shoaib Malik,DW Steyn,0,0,null,0,0,null,null
+209,34.4,Misbah-ul-Haq,Shoaib Malik,DW Steyn,0,0,null,0,0,null,null
+210,34.5,Misbah-ul-Haq,Shoaib Malik,DW Steyn,0,0,null,0,0,null,null
+211,34.6,Misbah-ul-Haq,Shoaib Malik,DW Steyn,0,0,null,0,0,null,null
+212,35.1,Shoaib Malik,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+213,35.2,Shoaib Malik,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+214,35.3,Shoaib Malik,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+215,35.4,Shoaib Malik,Misbah-ul-Haq,KJ Abbott,1,0,null,1,0,null,null
+216,35.5,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,0,0,null,0,0,null,null
+217,35.6,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,1,0,null,1,0,null,null
+218,36.1,Misbah-ul-Haq,Shoaib Malik,DW Steyn,0,0,null,0,0,null,null
+219,36.2,Misbah-ul-Haq,Shoaib Malik,DW Steyn,0,0,null,0,0,null,null
+220,36.3,Misbah-ul-Haq,Shoaib Malik,DW Steyn,1,0,null,1,0,null,null
+221,36.4,Shoaib Malik,Misbah-ul-Haq,DW Steyn,2,0,null,2,0,null,null
+222,36.5,Shoaib Malik,Misbah-ul-Haq,DW Steyn,0,0,null,0,0,null,null
+223,36.6,Shoaib Malik,Misbah-ul-Haq,DW Steyn,0,0,null,0,0,null,null
+224,37.1,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,0,0,null,0,0,null,null
+225,37.2,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,1,0,null,1,0,null,null
+226,37.3,Shoaib Malik,Misbah-ul-Haq,KJ Abbott,1,0,null,1,0,null,null
+227,37.4,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,0,0,null,0,0,null,null
+228,37.5,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,1,0,null,1,0,null,null
+229,37.6,Shoaib Malik,Misbah-ul-Haq,KJ Abbott,0,0,null,0,0,null,null
+230,38.1,Misbah-ul-Haq,Shoaib Malik,R McLaren,4,0,null,4,0,null,null
+231,38.2,Misbah-ul-Haq,Shoaib Malik,R McLaren,1,0,null,1,0,null,null
+232,38.3,Shoaib Malik,Misbah-ul-Haq,R McLaren,1,0,null,1,0,null,null
+233,38.4,Misbah-ul-Haq,Shoaib Malik,R McLaren,0,0,null,0,0,null,null
+234,38.5,Misbah-ul-Haq,Shoaib Malik,R McLaren,6,0,null,6,0,null,null
+235,38.6,Misbah-ul-Haq,Shoaib Malik,R McLaren,1,0,null,1,0,null,null
+236,39.1,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,0,0,null,0,0,null,null
+237,39.2,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,0,0,null,0,0,null,null
+238,39.3,Misbah-ul-Haq,Shoaib Malik,KJ Abbott,0,1,wides ,1,0,null,null

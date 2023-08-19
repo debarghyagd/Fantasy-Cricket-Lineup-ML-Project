@@ -1,0 +1,271 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,HM Amla,Q de Kock,MA Starc,1,0,null,1,0,null,null
+1,0.2,Q de Kock,HM Amla,MA Starc,0,0,null,0,0,null,null
+2,0.3,Q de Kock,HM Amla,MA Starc,0,0,null,0,0,null,null
+3,0.4,Q de Kock,HM Amla,MA Starc,3,0,null,3,0,null,null
+4,0.5,HM Amla,Q de Kock,MA Starc,0,0,null,0,0,null,null
+5,0.6,HM Amla,Q de Kock,MA Starc,1,0,null,1,0,null,null
+6,1.1,HM Amla,Q de Kock,JR Hazlewood,0,0,null,0,0,null,null
+7,1.2,HM Amla,Q de Kock,JR Hazlewood,4,0,null,4,0,null,null
+8,1.3,HM Amla,Q de Kock,JR Hazlewood,0,0,null,0,0,null,null
+9,1.4,HM Amla,Q de Kock,JR Hazlewood,0,0,null,0,0,null,null
+10,1.5,HM Amla,Q de Kock,JR Hazlewood,4,0,null,4,0,null,null
+11,1.6,HM Amla,Q de Kock,JR Hazlewood,0,0,null,0,0,null,null
+12,2.1,Q de Kock,HM Amla,MA Starc,0,0,null,0,0,null,null
+13,2.2,Q de Kock,HM Amla,MA Starc,0,0,null,0,0,null,null
+14,2.3,Q de Kock,HM Amla,MA Starc,0,0,null,0,0,null,null
+15,2.4,Q de Kock,HM Amla,MA Starc,4,0,null,4,0,null,null
+16,2.5,Q de Kock,HM Amla,MA Starc,0,1,noballs ,1,0,null,null
+17,2.6,Q de Kock,HM Amla,MA Starc,0,0,null,0,0,null,null
+18,2.7,Q de Kock,HM Amla,MA Starc,0,0,null,0,0,null,null
+19,3.1,HM Amla,Q de Kock,JR Hazlewood,4,0,null,4,0,null,null
+20,3.2,HM Amla,Q de Kock,JR Hazlewood,2,0,null,2,0,null,null
+21,3.3,HM Amla,Q de Kock,JR Hazlewood,0,0,null,0,0,null,null
+22,3.4,HM Amla,Q de Kock,JR Hazlewood,0,0,null,0,0,null,null
+23,3.5,HM Amla,Q de Kock,JR Hazlewood,0,0,null,0,0,null,null
+24,3.6,HM Amla,Q de Kock,JR Hazlewood,0,0,null,0,0,null,null
+25,4.1,Q de Kock,HM Amla,MA Starc,0,0,null,0,0,null,null
+26,4.2,Q de Kock,HM Amla,MA Starc,0,0,null,0,0,null,null
+27,4.3,Q de Kock,HM Amla,MA Starc,0,0,null,0,0,null,null
+28,4.4,Q de Kock,HM Amla,MA Starc,0,0,null,0,0,null,null
+29,4.5,Q de Kock,HM Amla,MA Starc,1,0,null,1,0,null,null
+30,4.6,HM Amla,Q de Kock,MA Starc,4,0,null,4,0,null,null
+31,5.1,Q de Kock,HM Amla,JR Hazlewood,0,0,null,0,0,null,null
+32,5.2,Q de Kock,HM Amla,JR Hazlewood,0,0,null,0,0,null,null
+33,5.3,Q de Kock,HM Amla,JR Hazlewood,0,0,null,0,0,null,null
+34,5.4,Q de Kock,HM Amla,JR Hazlewood,0,0,null,0,0,null,null
+35,5.5,Q de Kock,HM Amla,JR Hazlewood,1,0,null,1,0,null,null
+36,5.6,HM Amla,Q de Kock,JR Hazlewood,4,0,null,4,0,null,null
+37,6.1,Q de Kock,HM Amla,SR Watson,1,0,null,1,0,null,null
+38,6.2,HM Amla,Q de Kock,SR Watson,1,0,null,1,0,null,null
+39,6.3,Q de Kock,HM Amla,SR Watson,2,0,null,2,0,null,null
+40,6.4,Q de Kock,HM Amla,SR Watson,1,0,null,1,0,null,null
+41,6.5,HM Amla,Q de Kock,SR Watson,0,0,null,0,0,null,null
+42,6.6,HM Amla,Q de Kock,SR Watson,0,0,null,0,0,null,null
+43,7.1,Q de Kock,HM Amla,KW Richardson,2,0,null,2,0,null,null
+44,7.2,Q de Kock,HM Amla,KW Richardson,0,0,null,0,0,null,null
+45,7.3,Q de Kock,HM Amla,KW Richardson,2,0,null,2,0,null,null
+46,7.4,Q de Kock,HM Amla,KW Richardson,4,0,null,4,0,null,null
+47,7.5,Q de Kock,HM Amla,KW Richardson,1,0,null,1,0,null,null
+48,7.6,HM Amla,Q de Kock,KW Richardson,1,0,null,1,0,null,null
+49,8.1,HM Amla,Q de Kock,SR Watson,1,0,null,1,0,null,null
+50,8.2,Q de Kock,HM Amla,SR Watson,1,0,null,1,0,null,null
+51,8.3,HM Amla,Q de Kock,SR Watson,0,0,null,0,0,null,null
+52,8.4,HM Amla,Q de Kock,SR Watson,0,0,null,0,0,null,null
+53,8.5,HM Amla,Q de Kock,SR Watson,4,0,null,4,0,null,null
+54,8.6,HM Amla,Q de Kock,SR Watson,1,0,null,1,0,null,null
+55,9.1,HM Amla,Q de Kock,KW Richardson,0,0,null,0,0,null,null
+56,9.2,HM Amla,Q de Kock,KW Richardson,0,0,null,0,0,null,null
+57,9.3,HM Amla,Q de Kock,KW Richardson,2,0,null,2,0,null,null
+58,9.4,HM Amla,Q de Kock,KW Richardson,0,0,null,0,0,null,null
+59,9.5,HM Amla,Q de Kock,KW Richardson,4,0,null,4,0,null,null
+60,9.6,HM Amla,Q de Kock,KW Richardson,0,0,null,0,0,null,null
+61,10.1,Q de Kock,HM Amla,XJ Doherty,0,0,null,0,0,null,null
+62,10.2,Q de Kock,HM Amla,XJ Doherty,0,0,null,0,0,null,null
+63,10.3,Q de Kock,HM Amla,XJ Doherty,0,0,null,0,0,null,null
+64,10.4,Q de Kock,HM Amla,XJ Doherty,1,0,null,1,0,null,null
+65,10.5,HM Amla,Q de Kock,XJ Doherty,1,0,null,1,0,null,null
+66,10.6,Q de Kock,HM Amla,XJ Doherty,1,0,null,1,0,null,null
+67,11.1,Q de Kock,HM Amla,KW Richardson,0,0,null,0,0,null,null
+68,11.2,Q de Kock,HM Amla,KW Richardson,4,0,null,4,0,null,null
+69,11.3,Q de Kock,HM Amla,KW Richardson,1,0,null,1,0,null,null
+70,11.4,HM Amla,Q de Kock,KW Richardson,0,0,null,0,0,null,null
+71,11.5,HM Amla,Q de Kock,KW Richardson,1,0,null,1,0,null,null
+72,11.6,Q de Kock,HM Amla,KW Richardson,6,0,null,6,0,null,null
+73,12.1,HM Amla,Q de Kock,XJ Doherty,0,0,null,0,0,null,null
+74,12.2,HM Amla,Q de Kock,XJ Doherty,1,0,null,1,0,null,null
+75,12.3,Q de Kock,HM Amla,XJ Doherty,1,0,null,1,0,null,null
+76,12.4,HM Amla,Q de Kock,XJ Doherty,4,0,null,4,0,null,null
+77,12.5,HM Amla,Q de Kock,XJ Doherty,1,0,null,1,0,null,null
+78,12.6,Q de Kock,HM Amla,XJ Doherty,0,0,null,0,0,null,null
+79,13.1,HM Amla,Q de Kock,MR Marsh,0,0,null,0,0,null,null
+80,13.2,HM Amla,Q de Kock,MR Marsh,1,0,null,1,0,null,null
+81,13.3,Q de Kock,HM Amla,MR Marsh,0,0,null,0,0,null,null
+82,13.4,Q de Kock,HM Amla,MR Marsh,1,0,null,1,0,null,null
+83,13.5,HM Amla,Q de Kock,MR Marsh,0,0,null,0,0,null,null
+84,13.6,HM Amla,Q de Kock,MR Marsh,1,0,null,1,0,null,null
+85,14.1,HM Amla,Q de Kock,XJ Doherty,1,0,null,1,0,null,null
+86,14.2,Q de Kock,HM Amla,XJ Doherty,1,0,null,1,0,null,null
+87,14.3,HM Amla,Q de Kock,XJ Doherty,0,0,null,0,0,null,null
+88,14.4,HM Amla,Q de Kock,XJ Doherty,1,0,null,1,0,null,null
+89,14.5,Q de Kock,HM Amla,XJ Doherty,0,0,null,0,0,null,null
+90,14.6,Q de Kock,HM Amla,XJ Doherty,4,0,null,4,0,null,null
+91,15.1,HM Amla,Q de Kock,MR Marsh,0,2,legbyes ,2,0,null,null
+92,15.2,HM Amla,Q de Kock,MR Marsh,1,0,null,1,0,null,null
+93,15.3,Q de Kock,HM Amla,MR Marsh,1,0,null,1,0,null,null
+94,15.4,HM Amla,Q de Kock,MR Marsh,0,0,null,0,0,null,null
+95,15.5,HM Amla,Q de Kock,MR Marsh,0,0,null,0,0,null,null
+96,15.6,HM Amla,Q de Kock,MR Marsh,1,0,null,1,0,null,null
+97,16.1,HM Amla,Q de Kock,XJ Doherty,1,0,null,1,0,null,null
+98,16.2,Q de Kock,HM Amla,XJ Doherty,1,0,null,1,0,null,null
+99,16.3,HM Amla,Q de Kock,XJ Doherty,0,0,null,0,0,null,null
+100,16.4,HM Amla,Q de Kock,XJ Doherty,1,0,null,1,0,null,null
+101,16.5,Q de Kock,HM Amla,XJ Doherty,0,0,null,0,0,null,null
+102,16.6,Q de Kock,HM Amla,XJ Doherty,0,0,null,0,0,null,null
+103,17.1,HM Amla,Q de Kock,SR Watson,1,0,null,1,0,null,null
+104,17.2,Q de Kock,HM Amla,SR Watson,1,0,null,1,0,null,null
+105,17.3,HM Amla,Q de Kock,SR Watson,1,0,null,1,0,null,null
+106,17.4,Q de Kock,HM Amla,SR Watson,1,0,null,1,0,null,null
+107,17.5,HM Amla,Q de Kock,SR Watson,1,0,null,1,0,null,null
+108,17.6,Q de Kock,HM Amla,SR Watson,0,0,null,0,0,null,null
+109,18.1,HM Amla,Q de Kock,JR Hazlewood,1,0,null,1,0,null,null
+110,18.2,Q de Kock,HM Amla,JR Hazlewood,0,0,null,0,1,Q de Kock,caught
+111,18.3,HM Amla,F du Plessis,JR Hazlewood,0,0,null,0,0,null,null
+112,18.4,HM Amla,F du Plessis,JR Hazlewood,0,0,null,0,0,null,null
+113,18.5,HM Amla,F du Plessis,JR Hazlewood,0,0,null,0,0,null,null
+114,18.6,HM Amla,F du Plessis,JR Hazlewood,1,0,null,1,0,null,null
+115,19.1,HM Amla,F du Plessis,SR Watson,1,0,null,1,0,null,null
+116,19.2,F du Plessis,HM Amla,SR Watson,1,0,null,1,0,null,null
+117,19.3,HM Amla,F du Plessis,SR Watson,1,0,null,1,0,null,null
+118,19.4,F du Plessis,HM Amla,SR Watson,0,0,null,0,0,null,null
+119,19.5,F du Plessis,HM Amla,SR Watson,1,0,null,1,0,null,null
+120,19.6,HM Amla,F du Plessis,SR Watson,1,0,null,1,0,null,null
+121,20.1,HM Amla,F du Plessis,XJ Doherty,1,0,null,1,0,null,null
+122,20.2,F du Plessis,HM Amla,XJ Doherty,0,0,null,0,0,null,null
+123,20.3,F du Plessis,HM Amla,XJ Doherty,1,0,null,1,0,null,null
+124,20.4,HM Amla,F du Plessis,XJ Doherty,0,0,null,0,0,null,null
+125,20.5,HM Amla,F du Plessis,XJ Doherty,1,0,null,1,0,null,null
+126,20.6,F du Plessis,HM Amla,XJ Doherty,0,0,null,0,0,null,null
+127,21.1,HM Amla,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+128,21.2,F du Plessis,HM Amla,MR Marsh,4,0,null,4,0,null,null
+129,21.3,F du Plessis,HM Amla,MR Marsh,0,0,null,0,0,null,null
+130,21.4,F du Plessis,HM Amla,MR Marsh,1,0,null,1,0,null,null
+131,21.5,HM Amla,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+132,21.6,HM Amla,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+133,22.1,F du Plessis,HM Amla,XJ Doherty,4,0,null,4,0,null,null
+134,22.2,F du Plessis,HM Amla,XJ Doherty,0,0,null,0,0,null,null
+135,22.3,F du Plessis,HM Amla,XJ Doherty,1,0,null,1,0,null,null
+136,22.4,HM Amla,F du Plessis,XJ Doherty,0,0,null,0,0,null,null
+137,22.5,HM Amla,F du Plessis,XJ Doherty,2,0,null,2,0,null,null
+138,22.6,HM Amla,F du Plessis,XJ Doherty,1,0,null,1,0,null,null
+139,23.1,HM Amla,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+140,23.2,HM Amla,F du Plessis,KW Richardson,1,0,null,1,0,null,null
+141,23.3,F du Plessis,HM Amla,KW Richardson,1,0,null,1,0,null,null
+142,23.4,HM Amla,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+143,23.5,HM Amla,F du Plessis,KW Richardson,1,0,null,1,0,null,null
+144,23.6,F du Plessis,HM Amla,KW Richardson,1,0,null,1,0,null,null
+145,24.1,F du Plessis,HM Amla,MR Marsh,0,0,null,0,0,null,null
+146,24.2,F du Plessis,HM Amla,MR Marsh,1,0,null,1,0,null,null
+147,24.3,HM Amla,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+148,24.4,HM Amla,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+149,24.5,F du Plessis,HM Amla,MR Marsh,1,0,null,1,0,null,null
+150,24.6,HM Amla,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+151,25.1,HM Amla,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+152,25.2,HM Amla,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+153,25.3,HM Amla,F du Plessis,KW Richardson,1,0,null,1,0,null,null
+154,25.4,F du Plessis,HM Amla,KW Richardson,0,1,legbyes ,1,0,null,null
+155,25.5,HM Amla,F du Plessis,KW Richardson,1,0,null,1,0,null,null
+156,25.6,F du Plessis,HM Amla,KW Richardson,0,0,null,0,0,null,null
+157,26.1,HM Amla,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+158,26.2,HM Amla,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+159,26.3,F du Plessis,HM Amla,MR Marsh,0,0,null,0,0,null,null
+160,26.4,F du Plessis,HM Amla,MR Marsh,0,0,null,0,1,F du Plessis,caught
+161,26.5,HM Amla,RR Rossouw,MR Marsh,0,1,wides ,1,0,null,null
+162,26.6,HM Amla,RR Rossouw,MR Marsh,0,0,null,0,0,null,null
+163,26.7,HM Amla,RR Rossouw,MR Marsh,1,0,null,1,0,null,null
+164,27.1,HM Amla,RR Rossouw,MA Starc,1,0,null,1,0,null,null
+165,27.2,RR Rossouw,HM Amla,MA Starc,0,0,null,0,0,null,null
+166,27.3,RR Rossouw,HM Amla,MA Starc,0,0,null,0,0,null,null
+167,27.4,RR Rossouw,HM Amla,MA Starc,0,0,null,0,0,null,null
+168,27.5,RR Rossouw,HM Amla,MA Starc,2,0,null,2,0,null,null
+169,27.6,RR Rossouw,HM Amla,MA Starc,0,0,null,0,1,RR Rossouw,caught
+170,28.1,HM Amla,AB de Villiers,JR Hazlewood,0,0,null,0,0,null,null
+171,28.2,HM Amla,AB de Villiers,JR Hazlewood,1,0,null,1,0,null,null
+172,28.3,AB de Villiers,HM Amla,JR Hazlewood,0,0,null,0,0,null,null
+173,28.4,AB de Villiers,HM Amla,JR Hazlewood,2,0,null,2,0,null,null
+174,28.5,AB de Villiers,HM Amla,JR Hazlewood,0,0,null,0,0,null,null
+175,28.6,AB de Villiers,HM Amla,JR Hazlewood,1,0,null,1,0,null,null
+176,29.1,AB de Villiers,HM Amla,MA Starc,0,0,null,0,0,null,null
+177,29.2,AB de Villiers,HM Amla,MA Starc,4,0,null,4,0,null,null
+178,29.3,AB de Villiers,HM Amla,MA Starc,0,0,null,0,0,null,null
+179,29.4,AB de Villiers,HM Amla,MA Starc,1,0,null,1,0,null,null
+180,29.5,HM Amla,AB de Villiers,MA Starc,1,0,null,1,0,null,null
+181,29.6,AB de Villiers,HM Amla,MA Starc,0,0,null,0,0,null,null
+182,30.1,HM Amla,AB de Villiers,SR Watson,4,0,null,4,0,null,null
+183,30.2,HM Amla,AB de Villiers,SR Watson,2,0,null,2,0,null,null
+184,30.3,HM Amla,AB de Villiers,SR Watson,0,0,null,0,0,null,null
+185,30.4,HM Amla,AB de Villiers,SR Watson,0,0,null,0,0,null,null
+186,30.5,HM Amla,AB de Villiers,SR Watson,3,0,null,3,0,null,null
+187,30.6,AB de Villiers,HM Amla,SR Watson,0,0,null,0,0,null,null
+188,31.1,HM Amla,AB de Villiers,MR Marsh,0,0,null,0,0,null,null
+189,31.2,HM Amla,AB de Villiers,MR Marsh,0,0,null,0,0,null,null
+190,31.3,HM Amla,AB de Villiers,MR Marsh,2,0,null,2,0,null,null
+191,31.4,HM Amla,AB de Villiers,MR Marsh,2,0,null,2,0,null,null
+192,31.5,HM Amla,AB de Villiers,MR Marsh,1,0,null,1,0,null,null
+193,31.6,AB de Villiers,HM Amla,MR Marsh,1,0,null,1,0,null,null
+194,32.1,AB de Villiers,HM Amla,SR Watson,4,0,null,4,0,null,null
+195,32.2,AB de Villiers,HM Amla,SR Watson,1,0,null,1,0,null,null
+196,32.3,HM Amla,AB de Villiers,SR Watson,1,0,null,1,0,null,null
+197,32.4,AB de Villiers,HM Amla,SR Watson,0,0,null,0,0,null,null
+198,32.5,AB de Villiers,HM Amla,SR Watson,4,0,null,4,0,null,null
+199,32.6,AB de Villiers,HM Amla,SR Watson,6,0,null,6,0,null,null
+200,33.1,HM Amla,AB de Villiers,KW Richardson,1,0,null,1,0,null,null
+201,33.2,AB de Villiers,HM Amla,KW Richardson,0,0,null,0,0,null,null
+202,33.3,AB de Villiers,HM Amla,KW Richardson,0,0,null,0,0,null,null
+203,33.4,AB de Villiers,HM Amla,KW Richardson,1,0,null,1,0,null,null
+204,33.5,HM Amla,AB de Villiers,KW Richardson,1,0,null,1,0,null,null
+205,33.6,AB de Villiers,HM Amla,KW Richardson,1,0,null,1,0,null,null
+206,34.1,AB de Villiers,HM Amla,MR Marsh,1,0,null,1,0,null,null
+207,34.2,HM Amla,AB de Villiers,MR Marsh,1,0,null,1,0,null,null
+208,34.3,AB de Villiers,HM Amla,MR Marsh,4,0,null,4,0,null,null
+209,34.4,AB de Villiers,HM Amla,MR Marsh,4,0,null,4,0,null,null
+210,34.5,AB de Villiers,HM Amla,MR Marsh,4,0,null,4,0,null,null
+211,34.6,AB de Villiers,HM Amla,MR Marsh,2,0,null,2,0,null,null
+212,35.1,HM Amla,AB de Villiers,KW Richardson,1,0,null,1,0,null,null
+213,35.2,AB de Villiers,HM Amla,KW Richardson,2,0,null,2,0,null,null
+214,35.3,AB de Villiers,HM Amla,KW Richardson,1,0,null,1,0,null,null
+215,35.4,HM Amla,AB de Villiers,KW Richardson,1,0,null,1,0,null,null
+216,35.5,AB de Villiers,HM Amla,KW Richardson,2,0,null,2,0,null,null
+217,35.6,AB de Villiers,HM Amla,KW Richardson,1,0,null,1,0,null,null
+218,36.1,AB de Villiers,HM Amla,JR Hazlewood,2,0,null,2,0,null,null
+219,36.2,AB de Villiers,HM Amla,JR Hazlewood,0,0,null,0,0,null,null
+220,36.3,AB de Villiers,HM Amla,JR Hazlewood,1,0,null,1,0,null,null
+221,36.4,HM Amla,AB de Villiers,JR Hazlewood,0,0,null,0,0,null,null
+222,36.5,HM Amla,AB de Villiers,JR Hazlewood,1,0,null,1,0,null,null
+223,36.6,AB de Villiers,HM Amla,JR Hazlewood,2,0,null,2,0,null,null
+224,37.1,HM Amla,AB de Villiers,KW Richardson,1,0,null,1,0,null,null
+225,37.2,AB de Villiers,HM Amla,KW Richardson,0,0,null,0,1,AB de Villiers,lbw
+226,37.3,F Behardien,HM Amla,KW Richardson,0,0,null,0,0,null,null
+227,37.4,F Behardien,HM Amla,KW Richardson,1,0,null,1,0,null,null
+228,37.5,HM Amla,F Behardien,KW Richardson,0,0,null,0,0,null,null
+229,37.6,HM Amla,F Behardien,KW Richardson,1,0,null,1,0,null,null
+230,38.1,HM Amla,F Behardien,JR Hazlewood,0,0,null,0,1,HM Amla,bowled
+231,38.2,DA Miller,F Behardien,JR Hazlewood,0,0,null,0,0,null,null
+232,38.3,DA Miller,F Behardien,JR Hazlewood,1,0,null,1,0,null,null
+233,38.4,F Behardien,DA Miller,JR Hazlewood,0,1,legbyes ,1,0,null,null
+234,38.5,DA Miller,F Behardien,JR Hazlewood,0,0,null,0,0,null,null
+235,38.6,DA Miller,F Behardien,JR Hazlewood,1,0,null,1,0,null,null
+236,39.1,DA Miller,F Behardien,MA Starc,1,0,null,1,0,null,null
+237,39.2,F Behardien,DA Miller,MA Starc,1,0,null,1,0,null,null
+238,39.3,DA Miller,F Behardien,MA Starc,0,0,null,0,1,DA Miller,lbw
+239,39.4,VD Philander,F Behardien,MA Starc,0,0,null,0,0,null,null
+240,39.5,VD Philander,F Behardien,MA Starc,0,0,null,0,0,null,null
+241,39.6,VD Philander,F Behardien,MA Starc,1,0,null,1,0,null,null
+242,40.1,VD Philander,F Behardien,JR Hazlewood,0,0,null,0,0,null,null
+243,40.2,VD Philander,F Behardien,JR Hazlewood,0,1,wides ,1,0,null,null
+244,40.3,VD Philander,F Behardien,JR Hazlewood,0,0,null,0,0,null,null
+245,40.4,VD Philander,F Behardien,JR Hazlewood,0,0,null,0,0,null,null
+246,40.5,VD Philander,F Behardien,JR Hazlewood,0,0,null,0,0,null,null
+247,40.6,VD Philander,F Behardien,JR Hazlewood,0,0,null,0,0,null,null
+248,40.7,VD Philander,F Behardien,JR Hazlewood,0,0,null,0,0,null,null
+249,41.1,F Behardien,VD Philander,MA Starc,4,0,null,4,0,null,null
+250,41.2,F Behardien,VD Philander,MA Starc,0,0,null,0,0,null,null
+251,41.3,F Behardien,VD Philander,MA Starc,1,0,null,1,0,null,null
+252,41.4,VD Philander,F Behardien,MA Starc,0,0,null,0,0,null,null
+253,41.5,VD Philander,F Behardien,MA Starc,0,0,null,0,0,null,null
+254,41.6,VD Philander,F Behardien,MA Starc,0,0,null,0,1,VD Philander,caught
+255,42.1,F Behardien,DW Steyn,JR Hazlewood,1,0,null,1,0,null,null
+256,42.2,DW Steyn,F Behardien,JR Hazlewood,0,0,null,0,0,null,null
+257,42.3,DW Steyn,F Behardien,JR Hazlewood,0,0,null,0,0,null,null
+258,42.4,DW Steyn,F Behardien,JR Hazlewood,4,0,null,4,0,null,null
+259,42.5,DW Steyn,F Behardien,JR Hazlewood,6,0,null,6,0,null,null
+260,42.6,DW Steyn,F Behardien,JR Hazlewood,2,0,null,2,0,null,null
+261,43.1,F Behardien,DW Steyn,MA Starc,0,1,legbyes ,1,0,null,null
+262,43.2,DW Steyn,F Behardien,MA Starc,0,0,null,0,1,DW Steyn,caught
+263,43.3,M Morkel,F Behardien,MA Starc,0,0,null,0,0,null,null
+264,43.4,M Morkel,F Behardien,MA Starc,0,0,null,0,0,null,null
+265,43.5,M Morkel,F Behardien,MA Starc,0,0,null,0,0,null,null
+266,43.6,M Morkel,F Behardien,MA Starc,0,0,null,0,0,null,null
+267,44.1,F Behardien,M Morkel,JR Hazlewood,4,0,null,4,0,null,null
+268,44.2,F Behardien,M Morkel,JR Hazlewood,0,0,null,0,0,null,null
+269,44.3,F Behardien,M Morkel,JR Hazlewood,0,0,null,0,1,F Behardien,caught

@@ -1,0 +1,288 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,LMP Simmons,CH Gayle,Mashrafe Mortaza,1,0,null,1,0,null,null
+1,0.2,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+2,0.3,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+3,0.4,CH Gayle,LMP Simmons,Mashrafe Mortaza,1,0,null,1,0,null,null
+4,0.5,LMP Simmons,CH Gayle,Mashrafe Mortaza,0,0,null,0,0,null,null
+5,0.6,LMP Simmons,CH Gayle,Mashrafe Mortaza,0,0,null,0,0,null,null
+6,1.1,CH Gayle,LMP Simmons,Abul Hasan,1,0,null,1,0,null,null
+7,1.2,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+8,1.3,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+9,1.4,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+10,1.5,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+11,1.6,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+12,2.1,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+13,2.2,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+14,2.3,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+15,2.4,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+16,2.5,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+17,2.6,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+18,3.1,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+19,3.2,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+20,3.3,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+21,3.4,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+22,3.5,LMP Simmons,CH Gayle,Abul Hasan,4,0,null,4,0,null,null
+23,3.6,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+24,4.1,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+25,4.2,CH Gayle,LMP Simmons,Mashrafe Mortaza,6,0,null,6,0,null,null
+26,4.3,CH Gayle,LMP Simmons,Mashrafe Mortaza,4,0,null,4,0,null,null
+27,4.4,CH Gayle,LMP Simmons,Mashrafe Mortaza,4,0,null,4,0,null,null
+28,4.5,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+29,4.6,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+30,5.1,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+31,5.2,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+32,5.3,LMP Simmons,CH Gayle,Abul Hasan,0,0,null,0,0,null,null
+33,5.4,LMP Simmons,CH Gayle,Abul Hasan,1,0,null,1,0,null,null
+34,5.5,CH Gayle,LMP Simmons,Abul Hasan,0,0,null,0,0,null,null
+35,5.6,CH Gayle,LMP Simmons,Abul Hasan,0,0,null,0,0,null,null
+36,6.1,LMP Simmons,CH Gayle,Mashrafe Mortaza,4,0,null,4,0,null,null
+37,6.2,LMP Simmons,CH Gayle,Mashrafe Mortaza,0,0,null,0,0,null,null
+38,6.3,LMP Simmons,CH Gayle,Mashrafe Mortaza,0,0,null,0,0,null,null
+39,6.4,LMP Simmons,CH Gayle,Mashrafe Mortaza,1,0,null,1,0,null,null
+40,6.5,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+41,6.6,CH Gayle,LMP Simmons,Mashrafe Mortaza,1,0,null,1,0,null,null
+42,7.1,CH Gayle,LMP Simmons,Abul Hasan,0,0,null,0,0,null,null
+43,7.2,CH Gayle,LMP Simmons,Abul Hasan,0,0,null,0,0,null,null
+44,7.3,CH Gayle,LMP Simmons,Abul Hasan,1,0,null,1,0,null,null
+45,7.4,LMP Simmons,CH Gayle,Abul Hasan,1,0,null,1,0,null,null
+46,7.5,CH Gayle,LMP Simmons,Abul Hasan,0,0,null,0,0,null,null
+47,7.6,CH Gayle,LMP Simmons,Abul Hasan,1,0,null,1,0,null,null
+48,8.1,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+49,8.2,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+50,8.3,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+51,8.4,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+52,8.5,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+53,8.6,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+54,9.1,LMP Simmons,CH Gayle,Abul Hasan,1,0,null,1,0,null,null
+55,9.2,CH Gayle,LMP Simmons,Abul Hasan,0,0,null,0,0,null,null
+56,9.3,CH Gayle,LMP Simmons,Abul Hasan,6,0,null,6,0,null,null
+57,9.4,CH Gayle,LMP Simmons,Abul Hasan,4,0,null,4,0,null,null
+58,9.5,CH Gayle,LMP Simmons,Abul Hasan,4,0,null,4,0,null,null
+59,9.6,CH Gayle,LMP Simmons,Abul Hasan,1,0,null,1,0,null,null
+60,10.1,CH Gayle,LMP Simmons,Mashrafe Mortaza,0,0,null,0,0,null,null
+61,10.2,CH Gayle,LMP Simmons,Mashrafe Mortaza,1,0,null,1,0,null,null
+62,10.3,LMP Simmons,CH Gayle,Mashrafe Mortaza,0,0,null,0,1,LMP Simmons,lbw
+63,10.4,DM Bravo,CH Gayle,Mashrafe Mortaza,0,0,null,0,0,null,null
+64,10.5,DM Bravo,CH Gayle,Mashrafe Mortaza,0,0,null,0,0,null,null
+65,10.6,DM Bravo,CH Gayle,Mashrafe Mortaza,0,0,null,0,0,null,null
+66,11.1,CH Gayle,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+67,11.2,CH Gayle,DM Bravo,Sohag Gazi,0,0,null,0,1,CH Gayle,caught
+68,11.3,MN Samuels,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+69,11.4,MN Samuels,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+70,11.5,MN Samuels,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+71,11.6,MN Samuels,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+72,12.1,DM Bravo,MN Samuels,Mashrafe Mortaza,0,0,null,0,0,null,null
+73,12.2,DM Bravo,MN Samuels,Mashrafe Mortaza,0,0,null,0,0,null,null
+74,12.3,DM Bravo,MN Samuels,Mashrafe Mortaza,1,0,null,1,0,null,null
+75,12.4,MN Samuels,DM Bravo,Mashrafe Mortaza,0,0,null,0,0,null,null
+76,12.5,MN Samuels,DM Bravo,Mashrafe Mortaza,0,0,null,0,0,null,null
+77,12.6,MN Samuels,DM Bravo,Mashrafe Mortaza,0,0,null,0,0,null,null
+78,13.1,DM Bravo,MN Samuels,Sohag Gazi,0,0,null,0,0,null,null
+79,13.2,DM Bravo,MN Samuels,Sohag Gazi,0,0,null,0,0,null,null
+80,13.3,DM Bravo,MN Samuels,Sohag Gazi,1,0,null,1,0,null,null
+81,13.4,MN Samuels,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+82,13.5,MN Samuels,DM Bravo,Sohag Gazi,0,0,null,0,1,MN Samuels,caught
+83,13.6,KA Pollard,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+84,14.1,DM Bravo,KA Pollard,Abdur Razzak,1,0,null,1,0,null,null
+85,14.2,KA Pollard,DM Bravo,Abdur Razzak,0,0,null,0,0,null,null
+86,14.3,KA Pollard,DM Bravo,Abdur Razzak,1,0,null,1,0,null,null
+87,14.4,DM Bravo,KA Pollard,Abdur Razzak,0,0,null,0,0,null,null
+88,14.5,DM Bravo,KA Pollard,Abdur Razzak,4,0,null,4,0,null,null
+89,14.6,DM Bravo,KA Pollard,Abdur Razzak,0,0,null,0,0,null,null
+90,15.1,KA Pollard,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+91,15.2,KA Pollard,DM Bravo,Sohag Gazi,1,0,null,1,0,null,null
+92,15.3,DM Bravo,KA Pollard,Sohag Gazi,0,0,null,0,0,null,null
+93,15.4,DM Bravo,KA Pollard,Sohag Gazi,0,0,null,0,0,null,null
+94,15.5,DM Bravo,KA Pollard,Sohag Gazi,1,0,null,1,0,null,null
+95,15.6,KA Pollard,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+96,16.1,DM Bravo,KA Pollard,Abul Hasan,1,0,null,1,0,null,null
+97,16.2,KA Pollard,DM Bravo,Abul Hasan,0,0,null,0,0,null,null
+98,16.3,KA Pollard,DM Bravo,Abul Hasan,0,0,null,0,0,null,null
+99,16.4,KA Pollard,DM Bravo,Abul Hasan,0,0,null,0,0,null,null
+100,16.5,KA Pollard,DM Bravo,Abul Hasan,0,1,wides ,1,0,null,null
+101,16.6,KA Pollard,DM Bravo,Abul Hasan,0,0,null,0,0,null,null
+102,16.7,KA Pollard,DM Bravo,Abul Hasan,0,0,null,0,0,null,null
+103,17.1,DM Bravo,KA Pollard,Sohag Gazi,0,0,null,0,0,null,null
+104,17.2,DM Bravo,KA Pollard,Sohag Gazi,4,0,null,4,0,null,null
+105,17.3,DM Bravo,KA Pollard,Sohag Gazi,0,0,null,0,0,null,null
+106,17.4,DM Bravo,KA Pollard,Sohag Gazi,0,1,wides ,1,0,null,null
+107,17.5,DM Bravo,KA Pollard,Sohag Gazi,0,0,null,0,0,null,null
+108,17.6,DM Bravo,KA Pollard,Sohag Gazi,0,0,null,0,0,null,null
+109,17.7,DM Bravo,KA Pollard,Sohag Gazi,1,0,null,1,0,null,null
+110,18.1,DM Bravo,KA Pollard,Abul Hasan,1,0,null,1,0,null,null
+111,18.2,KA Pollard,DM Bravo,Abul Hasan,1,0,null,1,0,null,null
+112,18.3,DM Bravo,KA Pollard,Abul Hasan,0,0,null,0,0,null,null
+113,18.4,DM Bravo,KA Pollard,Abul Hasan,1,0,null,1,0,null,null
+114,18.5,KA Pollard,DM Bravo,Abul Hasan,0,0,null,0,0,null,null
+115,18.6,KA Pollard,DM Bravo,Abul Hasan,1,0,null,1,0,null,null
+116,19.1,KA Pollard,DM Bravo,Sohag Gazi,1,0,null,1,0,null,null
+117,19.2,DM Bravo,KA Pollard,Sohag Gazi,1,0,null,1,0,null,null
+118,19.3,KA Pollard,DM Bravo,Sohag Gazi,0,1,wides ,1,0,null,null
+119,19.4,KA Pollard,DM Bravo,Sohag Gazi,4,0,null,4,0,null,null
+120,19.5,KA Pollard,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+121,19.6,KA Pollard,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+122,19.7,KA Pollard,DM Bravo,Sohag Gazi,0,0,null,0,0,null,null
+123,20.1,DM Bravo,KA Pollard,Abdur Razzak,0,0,null,0,0,null,null
+124,20.2,DM Bravo,KA Pollard,Abdur Razzak,0,0,null,0,0,null,null
+125,20.3,DM Bravo,KA Pollard,Abdur Razzak,0,0,null,0,0,null,null
+126,20.4,DM Bravo,KA Pollard,Abdur Razzak,0,0,null,0,0,null,null
+127,20.5,DM Bravo,KA Pollard,Abdur Razzak,0,0,null,0,0,null,null
+128,20.6,DM Bravo,KA Pollard,Abdur Razzak,0,0,null,0,0,null,null
+129,21.1,KA Pollard,DM Bravo,Naeem Islam,1,0,null,1,0,null,null
+130,21.2,DM Bravo,KA Pollard,Naeem Islam,0,0,null,0,0,null,null
+131,21.3,DM Bravo,KA Pollard,Naeem Islam,4,0,null,4,0,null,null
+132,21.4,DM Bravo,KA Pollard,Naeem Islam,6,0,null,6,0,null,null
+133,21.5,DM Bravo,KA Pollard,Naeem Islam,2,0,null,2,0,null,null
+134,21.6,DM Bravo,KA Pollard,Naeem Islam,4,0,null,4,0,null,null
+135,22.1,KA Pollard,DM Bravo,Abdur Razzak,1,0,null,1,0,null,null
+136,22.2,DM Bravo,KA Pollard,Abdur Razzak,0,0,null,0,0,null,null
+137,22.3,DM Bravo,KA Pollard,Abdur Razzak,1,0,null,1,0,null,null
+138,22.4,KA Pollard,DM Bravo,Abdur Razzak,0,0,null,0,0,null,null
+139,22.5,KA Pollard,DM Bravo,Abdur Razzak,4,0,null,4,0,null,null
+140,22.6,KA Pollard,DM Bravo,Abdur Razzak,0,0,null,0,1,KA Pollard,caught
+141,23.1,DM Bravo,DC Thomas,Mahmudullah,1,0,null,1,0,null,null
+142,23.2,DC Thomas,DM Bravo,Mahmudullah,0,0,null,0,0,null,null
+143,23.3,DC Thomas,DM Bravo,Mahmudullah,0,1,wides ,1,0,null,null
+144,23.4,DC Thomas,DM Bravo,Mahmudullah,0,0,null,0,0,null,null
+145,23.5,DC Thomas,DM Bravo,Mahmudullah,0,0,null,0,1,DM Bravo,run out
+146,23.6,DC Thomas,DJG Sammy,Mahmudullah,1,0,null,1,0,null,null
+147,23.7,DJG Sammy,DC Thomas,Mahmudullah,0,0,null,0,0,null,null
+148,24.1,DC Thomas,DJG Sammy,Abdur Razzak,0,5,wides ,5,0,null,null
+149,24.2,DC Thomas,DJG Sammy,Abdur Razzak,0,0,null,0,0,null,null
+150,24.3,DC Thomas,DJG Sammy,Abdur Razzak,1,0,null,1,0,null,null
+151,24.4,DJG Sammy,DC Thomas,Abdur Razzak,0,0,null,0,0,null,null
+152,24.5,DJG Sammy,DC Thomas,Abdur Razzak,0,0,null,0,0,null,null
+153,24.6,DJG Sammy,DC Thomas,Abdur Razzak,0,0,null,0,0,null,null
+154,24.7,DJG Sammy,DC Thomas,Abdur Razzak,0,0,null,0,0,null,null
+155,25.1,DC Thomas,DJG Sammy,Mahmudullah,1,0,null,1,0,null,null
+156,25.2,DJG Sammy,DC Thomas,Mahmudullah,4,0,null,4,0,null,null
+157,25.3,DJG Sammy,DC Thomas,Mahmudullah,0,0,null,0,0,null,null
+158,25.4,DJG Sammy,DC Thomas,Mahmudullah,1,0,null,1,0,null,null
+159,25.5,DC Thomas,DJG Sammy,Mahmudullah,1,0,null,1,0,null,null
+160,25.6,DJG Sammy,DC Thomas,Mahmudullah,2,0,null,2,0,null,null
+161,26.1,DC Thomas,DJG Sammy,Abdur Razzak,1,0,null,1,0,null,null
+162,26.2,DJG Sammy,DC Thomas,Abdur Razzak,0,0,null,0,0,null,null
+163,26.3,DJG Sammy,DC Thomas,Abdur Razzak,0,0,null,0,0,null,null
+164,26.4,DJG Sammy,DC Thomas,Abdur Razzak,1,0,null,1,0,null,null
+165,26.5,DC Thomas,DJG Sammy,Abdur Razzak,1,0,null,1,0,null,null
+166,26.6,DJG Sammy,DC Thomas,Abdur Razzak,1,0,null,1,0,null,null
+167,27.1,DJG Sammy,DC Thomas,Mahmudullah,0,0,null,0,0,null,null
+168,27.2,DJG Sammy,DC Thomas,Mahmudullah,1,0,null,1,0,null,null
+169,27.3,DC Thomas,DJG Sammy,Mahmudullah,0,0,null,0,0,null,null
+170,27.4,DC Thomas,DJG Sammy,Mahmudullah,0,0,null,0,0,null,null
+171,27.5,DC Thomas,DJG Sammy,Mahmudullah,1,0,null,1,0,null,null
+172,27.6,DJG Sammy,DC Thomas,Mahmudullah,0,0,null,0,0,null,null
+173,28.1,DC Thomas,DJG Sammy,Abdur Razzak,0,0,null,0,0,null,null
+174,28.2,DC Thomas,DJG Sammy,Abdur Razzak,0,0,null,0,0,null,null
+175,28.3,DC Thomas,DJG Sammy,Abdur Razzak,0,0,null,0,0,null,null
+176,28.4,DC Thomas,DJG Sammy,Abdur Razzak,0,0,null,0,0,null,null
+177,28.5,DC Thomas,DJG Sammy,Abdur Razzak,0,0,null,0,0,null,null
+178,28.6,DC Thomas,DJG Sammy,Abdur Razzak,4,0,null,4,0,null,null
+179,29.1,DJG Sammy,DC Thomas,Mahmudullah,0,0,null,0,1,DJG Sammy,caught
+180,29.2,DC Thomas,AD Russell,Mahmudullah,0,0,null,0,0,null,null
+181,29.3,DC Thomas,AD Russell,Mahmudullah,0,0,null,0,0,null,null
+182,29.4,DC Thomas,AD Russell,Mahmudullah,0,0,null,0,0,null,null
+183,29.5,DC Thomas,AD Russell,Mahmudullah,0,0,null,0,0,null,null
+184,29.6,DC Thomas,AD Russell,Mahmudullah,1,0,null,1,0,null,null
+185,30.1,DC Thomas,AD Russell,Abdur Razzak,1,0,null,1,0,null,null
+186,30.2,AD Russell,DC Thomas,Abdur Razzak,0,0,null,0,0,null,null
+187,30.3,AD Russell,DC Thomas,Abdur Razzak,0,0,null,0,0,null,null
+188,30.4,AD Russell,DC Thomas,Abdur Razzak,0,0,null,0,1,AD Russell,bowled
+189,30.5,SP Narine,DC Thomas,Abdur Razzak,0,0,null,0,0,null,null
+190,30.6,SP Narine,DC Thomas,Abdur Razzak,0,0,null,0,0,null,null
+191,31.1,DC Thomas,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+192,31.2,DC Thomas,SP Narine,Mahmudullah,2,0,null,2,0,null,null
+193,31.3,DC Thomas,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+194,31.4,DC Thomas,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+195,31.5,DC Thomas,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+196,31.6,DC Thomas,SP Narine,Mahmudullah,1,0,null,1,0,null,null
+197,32.1,DC Thomas,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+198,32.2,DC Thomas,SP Narine,Sohag Gazi,0,0,null,0,1,DC Thomas,caught
+199,32.3,R Rampaul,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+200,32.4,R Rampaul,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+201,32.5,R Rampaul,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+202,32.6,R Rampaul,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+203,33.1,SP Narine,R Rampaul,Mahmudullah,1,0,null,1,0,null,null
+204,33.2,R Rampaul,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+205,33.3,R Rampaul,SP Narine,Mahmudullah,2,0,null,2,0,null,null
+206,33.4,R Rampaul,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+207,33.5,R Rampaul,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+208,33.6,R Rampaul,SP Narine,Mahmudullah,0,1,wides ,1,0,null,null
+209,33.7,R Rampaul,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+210,34.1,SP Narine,R Rampaul,Sohag Gazi,0,0,null,0,0,null,null
+211,34.2,SP Narine,R Rampaul,Sohag Gazi,0,0,null,0,0,null,null
+212,34.3,SP Narine,R Rampaul,Sohag Gazi,1,0,null,1,0,null,null
+213,34.4,R Rampaul,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+214,34.5,R Rampaul,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+215,34.6,R Rampaul,SP Narine,Sohag Gazi,1,0,null,1,0,null,null
+216,35.1,R Rampaul,SP Narine,Abul Hasan,4,0,null,4,0,null,null
+217,35.2,R Rampaul,SP Narine,Abul Hasan,1,0,null,1,0,null,null
+218,35.3,SP Narine,R Rampaul,Abul Hasan,2,0,null,2,0,null,null
+219,35.4,SP Narine,R Rampaul,Abul Hasan,1,0,null,1,0,null,null
+220,35.5,R Rampaul,SP Narine,Abul Hasan,0,0,null,0,0,null,null
+221,35.6,R Rampaul,SP Narine,Abul Hasan,6,0,null,6,0,null,null
+222,36.1,SP Narine,R Rampaul,Sohag Gazi,1,0,null,1,0,null,null
+223,36.2,R Rampaul,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+224,36.3,R Rampaul,SP Narine,Sohag Gazi,1,0,null,1,0,null,null
+225,36.4,SP Narine,R Rampaul,Sohag Gazi,4,0,null,4,0,null,null
+226,36.5,SP Narine,R Rampaul,Sohag Gazi,0,0,null,0,0,null,null
+227,36.6,SP Narine,R Rampaul,Sohag Gazi,1,0,null,1,0,null,null
+228,37.1,SP Narine,R Rampaul,Mashrafe Mortaza,0,1,legbyes ,1,0,null,null
+229,37.2,R Rampaul,SP Narine,Mashrafe Mortaza,0,0,null,0,0,null,null
+230,37.3,R Rampaul,SP Narine,Mashrafe Mortaza,4,0,null,4,0,null,null
+231,37.4,R Rampaul,SP Narine,Mashrafe Mortaza,0,0,null,0,0,null,null
+232,37.5,R Rampaul,SP Narine,Mashrafe Mortaza,0,0,null,0,0,null,null
+233,37.6,R Rampaul,SP Narine,Mashrafe Mortaza,0,0,null,0,0,null,null
+234,38.1,SP Narine,R Rampaul,Sohag Gazi,2,0,null,2,0,null,null
+235,38.2,SP Narine,R Rampaul,Sohag Gazi,0,0,null,0,0,null,null
+236,38.3,SP Narine,R Rampaul,Sohag Gazi,0,0,null,0,0,null,null
+237,38.4,SP Narine,R Rampaul,Sohag Gazi,1,0,null,1,0,null,null
+238,38.5,R Rampaul,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+239,38.6,R Rampaul,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+240,39.1,SP Narine,R Rampaul,Mashrafe Mortaza,4,0,null,4,0,null,null
+241,39.2,SP Narine,R Rampaul,Mashrafe Mortaza,1,0,null,1,0,null,null
+242,39.3,R Rampaul,SP Narine,Mashrafe Mortaza,1,0,null,1,0,null,null
+243,39.4,SP Narine,R Rampaul,Mashrafe Mortaza,1,0,null,1,0,null,null
+244,39.5,R Rampaul,SP Narine,Mashrafe Mortaza,4,0,null,4,0,null,null
+245,39.6,R Rampaul,SP Narine,Mashrafe Mortaza,0,0,null,0,0,null,null
+246,40.1,SP Narine,R Rampaul,Abdur Razzak,2,0,null,2,0,null,null
+247,40.2,SP Narine,R Rampaul,Abdur Razzak,0,0,null,0,0,null,null
+248,40.3,SP Narine,R Rampaul,Abdur Razzak,0,0,null,0,0,null,null
+249,40.4,SP Narine,R Rampaul,Abdur Razzak,1,0,null,1,0,null,null
+250,40.5,R Rampaul,SP Narine,Abdur Razzak,1,0,null,1,0,null,null
+251,40.6,SP Narine,R Rampaul,Abdur Razzak,1,0,null,1,0,null,null
+252,41.1,SP Narine,R Rampaul,Mahmudullah,0,0,null,0,0,null,null
+253,41.2,SP Narine,R Rampaul,Mahmudullah,1,0,null,1,0,null,null
+254,41.3,R Rampaul,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+255,41.4,R Rampaul,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+256,41.5,R Rampaul,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+257,41.6,R Rampaul,SP Narine,Mahmudullah,0,0,null,0,0,null,null
+258,42.1,SP Narine,R Rampaul,Abdur Razzak,0,0,null,0,0,null,null
+259,42.2,SP Narine,R Rampaul,Abdur Razzak,4,0,null,4,0,null,null
+260,42.3,SP Narine,R Rampaul,Abdur Razzak,0,0,null,0,0,null,null
+261,42.4,SP Narine,R Rampaul,Abdur Razzak,1,0,null,1,0,null,null
+262,42.5,R Rampaul,SP Narine,Abdur Razzak,0,0,null,0,0,null,null
+263,42.6,R Rampaul,SP Narine,Abdur Razzak,0,0,null,0,1,R Rampaul,caught
+264,43.1,SP Narine,KAJ Roach,Mahmudullah,0,0,null,0,0,null,null
+265,43.2,SP Narine,KAJ Roach,Mahmudullah,0,0,null,0,0,null,null
+266,43.3,SP Narine,KAJ Roach,Mahmudullah,0,0,null,0,0,null,null
+267,43.4,SP Narine,KAJ Roach,Mahmudullah,0,0,null,0,0,null,null
+268,43.5,SP Narine,KAJ Roach,Mahmudullah,0,0,null,0,0,null,null
+269,43.6,SP Narine,KAJ Roach,Mahmudullah,2,0,null,2,0,null,null
+270,44.1,KAJ Roach,SP Narine,Abdur Razzak,0,0,null,0,0,null,null
+271,44.2,KAJ Roach,SP Narine,Abdur Razzak,0,0,null,0,0,null,null
+272,44.3,KAJ Roach,SP Narine,Abdur Razzak,1,0,null,1,0,null,null
+273,44.4,SP Narine,KAJ Roach,Abdur Razzak,0,0,null,0,0,null,null
+274,44.5,SP Narine,KAJ Roach,Abdur Razzak,1,0,null,1,0,null,null
+275,44.6,KAJ Roach,SP Narine,Abdur Razzak,0,0,null,0,0,null,null
+276,45.1,SP Narine,KAJ Roach,Mahmudullah,0,0,null,0,0,null,null
+277,45.2,SP Narine,KAJ Roach,Mahmudullah,0,0,null,0,0,null,null
+278,45.3,SP Narine,KAJ Roach,Mahmudullah,2,0,null,2,0,null,null
+279,45.4,SP Narine,KAJ Roach,Mahmudullah,0,0,null,0,0,null,null
+280,45.5,SP Narine,KAJ Roach,Mahmudullah,1,0,null,1,0,null,null
+281,45.6,KAJ Roach,SP Narine,Mahmudullah,1,0,null,1,0,null,null
+282,46.1,KAJ Roach,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+283,46.2,KAJ Roach,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+284,46.3,KAJ Roach,SP Narine,Sohag Gazi,0,0,null,0,0,null,null
+285,46.4,KAJ Roach,SP Narine,Sohag Gazi,1,0,null,1,0,null,null
+286,46.5,SP Narine,KAJ Roach,Sohag Gazi,0,0,null,0,1,SP Narine,lbw

@@ -1,0 +1,216 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,NS Poonia,RM Haq,WF Stelling,0,0,null,0,0,null,null
+1,0.2,NS Poonia,RM Haq,WF Stelling,0,0,null,0,1,NS Poonia,caught
+2,0.3,RR Watson,RM Haq,WF Stelling,1,0,null,1,0,null,null
+3,0.4,RM Haq,RR Watson,WF Stelling,0,0,null,0,0,null,null
+4,0.5,RM Haq,RR Watson,WF Stelling,0,1,noballs ,1,0,null,null
+5,0.6,RM Haq,RR Watson,WF Stelling,0,0,null,0,0,null,null
+6,0.7,RM Haq,RR Watson,WF Stelling,0,1,legbyes ,1,0,null,null
+7,1.1,RM Haq,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+8,1.2,RM Haq,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+9,1.3,RM Haq,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+10,1.4,RM Haq,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+11,1.5,RM Haq,RR Watson,DJ Reekers,4,0,null,4,0,null,null
+12,1.6,RM Haq,RR Watson,DJ Reekers,1,0,null,1,0,null,null
+13,2.1,RM Haq,RR Watson,WF Stelling,0,0,null,0,0,null,null
+14,2.2,RM Haq,RR Watson,WF Stelling,0,0,null,0,0,null,null
+15,2.3,RM Haq,RR Watson,WF Stelling,1,0,null,1,0,null,null
+16,2.4,RR Watson,RM Haq,WF Stelling,0,0,null,0,0,null,null
+17,2.5,RR Watson,RM Haq,WF Stelling,0,0,null,0,0,null,null
+18,2.6,RR Watson,RM Haq,WF Stelling,0,0,null,0,0,null,null
+19,3.1,RM Haq,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+20,3.2,RM Haq,RR Watson,DJ Reekers,0,0,null,0,1,RM Haq,bowled
+21,3.3,GM Hamilton,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+22,3.4,GM Hamilton,RR Watson,DJ Reekers,2,0,null,2,0,null,null
+23,3.5,GM Hamilton,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+24,3.6,GM Hamilton,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+25,4.1,RR Watson,GM Hamilton,WF Stelling,0,0,null,0,0,null,null
+26,4.2,RR Watson,GM Hamilton,WF Stelling,0,0,null,0,0,null,null
+27,4.3,RR Watson,GM Hamilton,WF Stelling,0,1,legbyes ,1,0,null,null
+28,4.4,GM Hamilton,RR Watson,WF Stelling,0,0,null,0,0,null,null
+29,4.5,GM Hamilton,RR Watson,WF Stelling,0,0,null,0,0,null,null
+30,4.6,GM Hamilton,RR Watson,WF Stelling,1,0,null,1,0,null,null
+31,5.1,GM Hamilton,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+32,5.2,GM Hamilton,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+33,5.3,GM Hamilton,RR Watson,DJ Reekers,0,1,wides ,1,0,null,null
+34,5.4,GM Hamilton,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+35,5.5,GM Hamilton,RR Watson,DJ Reekers,1,0,null,1,0,null,null
+36,5.6,RR Watson,GM Hamilton,DJ Reekers,0,0,null,0,0,null,null
+37,5.7,RR Watson,GM Hamilton,DJ Reekers,0,0,null,0,0,null,null
+38,6.1,GM Hamilton,RR Watson,WF Stelling,0,0,null,0,0,null,null
+39,6.2,GM Hamilton,RR Watson,WF Stelling,0,0,null,0,1,GM Hamilton,lbw
+40,6.3,DR Brown,RR Watson,WF Stelling,0,0,null,0,1,DR Brown,lbw
+41,6.4,NFI McCallum,RR Watson,WF Stelling,0,0,null,0,0,null,null
+42,6.5,NFI McCallum,RR Watson,WF Stelling,0,0,null,0,0,null,null
+43,6.6,NFI McCallum,RR Watson,WF Stelling,0,0,null,0,0,null,null
+44,7.1,RR Watson,NFI McCallum,DJ Reekers,0,0,null,0,0,null,null
+45,7.2,RR Watson,NFI McCallum,DJ Reekers,0,0,null,0,0,null,null
+46,7.3,RR Watson,NFI McCallum,DJ Reekers,0,0,null,0,0,null,null
+47,7.4,RR Watson,NFI McCallum,DJ Reekers,0,1,wides ,1,0,null,null
+48,7.5,RR Watson,NFI McCallum,DJ Reekers,1,0,null,1,0,null,null
+49,7.6,NFI McCallum,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+50,7.7,NFI McCallum,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+51,8.1,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+52,8.2,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+53,8.3,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+54,8.4,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+55,8.5,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+56,8.6,RR Watson,NFI McCallum,WF Stelling,0,2,legbyes ,2,0,null,null
+57,9.1,NFI McCallum,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+58,9.2,NFI McCallum,RR Watson,DJ Reekers,2,0,null,2,0,null,null
+59,9.3,NFI McCallum,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+60,9.4,NFI McCallum,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+61,9.5,NFI McCallum,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+62,9.6,NFI McCallum,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+63,10.1,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+64,10.2,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+65,10.3,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+66,10.4,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+67,10.5,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+68,10.6,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+69,11.1,NFI McCallum,RR Watson,DJ Reekers,0,0,null,0,0,null,null
+70,11.2,NFI McCallum,RR Watson,DJ Reekers,1,0,null,1,0,null,null
+71,11.3,RR Watson,NFI McCallum,DJ Reekers,0,0,null,0,0,null,null
+72,11.4,RR Watson,NFI McCallum,DJ Reekers,4,0,null,4,0,null,null
+73,11.5,RR Watson,NFI McCallum,DJ Reekers,4,0,null,4,0,null,null
+74,11.6,RR Watson,NFI McCallum,DJ Reekers,1,0,null,1,0,null,null
+75,12.1,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+76,12.2,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+77,12.3,RR Watson,NFI McCallum,WF Stelling,1,1,noballs ,2,0,null,null
+78,12.4,NFI McCallum,RR Watson,WF Stelling,1,0,null,1,0,null,null
+79,12.5,RR Watson,NFI McCallum,WF Stelling,4,0,null,4,0,null,null
+80,12.6,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+81,12.7,RR Watson,NFI McCallum,WF Stelling,0,0,null,0,0,null,null
+82,13.1,NFI McCallum,RR Watson,TBM de Leede,0,0,null,0,0,null,null
+83,13.2,NFI McCallum,RR Watson,TBM de Leede,1,0,null,1,0,null,null
+84,13.3,RR Watson,NFI McCallum,TBM de Leede,0,0,null,0,0,null,null
+85,13.4,RR Watson,NFI McCallum,TBM de Leede,0,0,null,0,1,RR Watson,caught and bowled
+86,13.5,CJO Smith,NFI McCallum,TBM de Leede,0,0,null,0,0,null,null
+87,13.6,CJO Smith,NFI McCallum,TBM de Leede,0,0,null,0,0,null,null
+88,14.1,NFI McCallum,CJO Smith,WF Stelling,0,1,wides ,1,0,null,null
+89,14.2,NFI McCallum,CJO Smith,WF Stelling,0,0,null,0,0,null,null
+90,14.3,NFI McCallum,CJO Smith,WF Stelling,0,0,null,0,0,null,null
+91,14.4,NFI McCallum,CJO Smith,WF Stelling,0,0,null,0,0,null,null
+92,14.5,NFI McCallum,CJO Smith,WF Stelling,0,0,null,0,0,null,null
+93,14.6,NFI McCallum,CJO Smith,WF Stelling,0,0,null,0,0,null,null
+94,14.7,NFI McCallum,CJO Smith,WF Stelling,0,0,null,0,0,null,null
+95,15.1,CJO Smith,NFI McCallum,TBM de Leede,1,0,null,1,0,null,null
+96,15.2,NFI McCallum,CJO Smith,TBM de Leede,0,0,null,0,0,null,null
+97,15.3,NFI McCallum,CJO Smith,TBM de Leede,4,0,null,4,0,null,null
+98,15.4,NFI McCallum,CJO Smith,TBM de Leede,0,0,null,0,0,null,null
+99,15.5,NFI McCallum,CJO Smith,TBM de Leede,0,0,null,0,0,null,null
+100,15.6,NFI McCallum,CJO Smith,TBM de Leede,0,0,null,0,0,null,null
+101,16.1,CJO Smith,NFI McCallum,MBS Jonkman,4,0,null,4,0,null,null
+102,16.2,CJO Smith,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+103,16.3,CJO Smith,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+104,16.4,CJO Smith,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+105,16.5,CJO Smith,NFI McCallum,MBS Jonkman,4,0,null,4,0,null,null
+106,16.6,CJO Smith,NFI McCallum,MBS Jonkman,1,0,null,1,0,null,null
+107,17.1,CJO Smith,NFI McCallum,TBM de Leede,0,0,null,0,0,null,null
+108,17.2,CJO Smith,NFI McCallum,TBM de Leede,0,0,null,0,0,null,null
+109,17.3,CJO Smith,NFI McCallum,TBM de Leede,0,0,null,0,0,null,null
+110,17.4,CJO Smith,NFI McCallum,TBM de Leede,1,0,null,1,0,null,null
+111,17.5,NFI McCallum,CJO Smith,TBM de Leede,0,0,null,0,0,null,null
+112,17.6,NFI McCallum,CJO Smith,TBM de Leede,6,0,null,6,0,null,null
+113,18.1,CJO Smith,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+114,18.2,CJO Smith,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+115,18.3,CJO Smith,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+116,18.4,CJO Smith,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+117,18.5,CJO Smith,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+118,18.6,CJO Smith,NFI McCallum,MBS Jonkman,4,0,null,4,0,null,null
+119,19.1,NFI McCallum,CJO Smith,TBM de Leede,0,1,wides ,1,0,null,null
+120,19.2,NFI McCallum,CJO Smith,TBM de Leede,0,0,null,0,0,null,null
+121,19.3,NFI McCallum,CJO Smith,TBM de Leede,0,0,null,0,0,null,null
+122,19.4,NFI McCallum,CJO Smith,TBM de Leede,0,1,wides ,1,0,null,null
+123,19.5,NFI McCallum,CJO Smith,TBM de Leede,4,0,null,4,0,null,null
+124,19.6,NFI McCallum,CJO Smith,TBM de Leede,0,0,null,0,0,null,null
+125,19.7,NFI McCallum,CJO Smith,TBM de Leede,1,0,null,1,0,null,null
+126,19.8,CJO Smith,NFI McCallum,TBM de Leede,4,0,null,4,0,null,null
+127,20.1,NFI McCallum,CJO Smith,MBS Jonkman,0,1,legbyes ,1,0,null,null
+128,20.2,CJO Smith,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+129,20.3,CJO Smith,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+130,20.4,CJO Smith,NFI McCallum,MBS Jonkman,0,0,null,0,1,CJO Smith,bowled
+131,20.5,CM Wright,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+132,20.6,CM Wright,NFI McCallum,MBS Jonkman,0,0,null,0,0,null,null
+133,21.1,NFI McCallum,CM Wright,Mohammad Kashif,0,0,null,0,0,null,null
+134,21.2,NFI McCallum,CM Wright,Mohammad Kashif,0,0,null,0,0,null,null
+135,21.3,NFI McCallum,CM Wright,Mohammad Kashif,0,0,null,0,0,null,null
+136,21.4,NFI McCallum,CM Wright,Mohammad Kashif,0,0,null,0,0,null,null
+137,21.5,NFI McCallum,CM Wright,Mohammad Kashif,4,0,null,4,0,null,null
+138,21.6,NFI McCallum,CM Wright,Mohammad Kashif,0,0,null,0,0,null,null
+139,22.1,CM Wright,NFI McCallum,MBS Jonkman,0,1,wides ,1,0,null,null
+140,22.2,CM Wright,NFI McCallum,MBS Jonkman,1,0,null,1,0,null,null
+141,22.3,NFI McCallum,CM Wright,MBS Jonkman,0,0,null,0,0,null,null
+142,22.4,NFI McCallum,CM Wright,MBS Jonkman,0,0,null,0,1,NFI McCallum,caught
+143,22.5,JAR Blain,CM Wright,MBS Jonkman,0,0,null,0,0,null,null
+144,22.6,JAR Blain,CM Wright,MBS Jonkman,0,0,null,0,0,null,null
+145,22.7,JAR Blain,CM Wright,MBS Jonkman,0,0,null,0,0,null,null
+146,23.1,CM Wright,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+147,23.2,CM Wright,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+148,23.3,CM Wright,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+149,23.4,CM Wright,JAR Blain,Mohammad Kashif,0,0,null,0,1,CM Wright,stumped
+150,23.5,GA Rogers,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+151,23.6,GA Rogers,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+152,24.1,JAR Blain,GA Rogers,MBS Jonkman,0,0,null,0,0,null,null
+153,24.2,JAR Blain,GA Rogers,MBS Jonkman,1,0,null,1,0,null,null
+154,24.3,GA Rogers,JAR Blain,MBS Jonkman,0,0,null,0,0,null,null
+155,24.4,GA Rogers,JAR Blain,MBS Jonkman,4,0,null,4,0,null,null
+156,24.5,GA Rogers,JAR Blain,MBS Jonkman,0,0,null,0,0,null,null
+157,24.6,GA Rogers,JAR Blain,MBS Jonkman,2,0,null,2,0,null,null
+158,25.1,JAR Blain,GA Rogers,Mohammad Kashif,0,0,null,0,0,null,null
+159,25.2,JAR Blain,GA Rogers,Mohammad Kashif,1,0,null,1,0,null,null
+160,25.3,GA Rogers,JAR Blain,Mohammad Kashif,4,0,null,4,0,null,null
+161,25.4,GA Rogers,JAR Blain,Mohammad Kashif,4,0,null,4,0,null,null
+162,25.5,GA Rogers,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+163,25.6,GA Rogers,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+164,26.1,JAR Blain,GA Rogers,RN ten Doeschate,0,1,wides ,1,0,null,null
+165,26.2,JAR Blain,GA Rogers,RN ten Doeschate,0,1,wides ,1,0,null,null
+166,26.3,JAR Blain,GA Rogers,RN ten Doeschate,0,0,null,0,0,null,null
+167,26.4,JAR Blain,GA Rogers,RN ten Doeschate,1,0,null,1,0,null,null
+168,26.5,GA Rogers,JAR Blain,RN ten Doeschate,0,0,null,0,0,null,null
+169,26.6,GA Rogers,JAR Blain,RN ten Doeschate,4,0,null,4,0,null,null
+170,26.7,GA Rogers,JAR Blain,RN ten Doeschate,4,0,null,4,0,null,null
+171,26.8,GA Rogers,JAR Blain,RN ten Doeschate,0,0,null,0,0,null,null
+172,27.1,JAR Blain,GA Rogers,Mohammad Kashif,0,0,null,0,0,null,null
+173,27.2,JAR Blain,GA Rogers,Mohammad Kashif,0,0,null,0,0,null,null
+174,27.3,JAR Blain,GA Rogers,Mohammad Kashif,0,0,null,0,0,null,null
+175,27.4,JAR Blain,GA Rogers,Mohammad Kashif,0,0,null,0,0,null,null
+176,27.5,JAR Blain,GA Rogers,Mohammad Kashif,0,0,null,0,0,null,null
+177,27.6,JAR Blain,GA Rogers,Mohammad Kashif,0,0,null,0,0,null,null
+178,28.1,GA Rogers,JAR Blain,RN ten Doeschate,0,0,null,0,0,null,null
+179,28.2,GA Rogers,JAR Blain,RN ten Doeschate,0,0,null,0,0,null,null
+180,28.3,GA Rogers,JAR Blain,RN ten Doeschate,0,0,null,0,0,null,null
+181,28.4,GA Rogers,JAR Blain,RN ten Doeschate,0,0,null,0,0,null,null
+182,28.5,GA Rogers,JAR Blain,RN ten Doeschate,0,0,null,0,0,null,null
+183,28.6,GA Rogers,JAR Blain,RN ten Doeschate,1,0,null,1,0,null,null
+184,29.1,GA Rogers,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+185,29.2,GA Rogers,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+186,29.3,GA Rogers,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+187,29.4,GA Rogers,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+188,29.5,GA Rogers,JAR Blain,Mohammad Kashif,1,0,null,1,0,null,null
+189,29.6,JAR Blain,GA Rogers,Mohammad Kashif,0,0,null,0,0,null,null
+190,30.1,GA Rogers,JAR Blain,RN ten Doeschate,0,0,null,0,0,null,null
+191,30.2,GA Rogers,JAR Blain,RN ten Doeschate,1,0,null,1,0,null,null
+192,30.3,JAR Blain,GA Rogers,RN ten Doeschate,0,0,null,0,0,null,null
+193,30.4,JAR Blain,GA Rogers,RN ten Doeschate,3,0,null,3,0,null,null
+194,30.5,GA Rogers,JAR Blain,RN ten Doeschate,0,0,null,0,0,null,null
+195,30.6,GA Rogers,JAR Blain,RN ten Doeschate,1,0,null,1,0,null,null
+196,31.1,GA Rogers,JAR Blain,Mohammad Kashif,0,0,null,0,1,GA Rogers,caught
+197,31.2,PJC Hoffmann,JAR Blain,Mohammad Kashif,0,0,null,0,0,null,null
+198,31.3,PJC Hoffmann,JAR Blain,Mohammad Kashif,4,0,null,4,0,null,null
+199,31.4,PJC Hoffmann,JAR Blain,Mohammad Kashif,1,0,null,1,0,null,null
+200,31.5,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,null,0,0,null,null
+201,31.6,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,null,0,0,null,null
+202,32.1,PJC Hoffmann,JAR Blain,DLS van Bunge,1,0,null,1,0,null,null
+203,32.2,JAR Blain,PJC Hoffmann,DLS van Bunge,1,0,null,1,0,null,null
+204,32.3,PJC Hoffmann,JAR Blain,DLS van Bunge,0,0,null,0,0,null,null
+205,32.4,PJC Hoffmann,JAR Blain,DLS van Bunge,0,0,null,0,0,null,null
+206,32.5,PJC Hoffmann,JAR Blain,DLS van Bunge,1,0,null,1,0,null,null
+207,32.6,JAR Blain,PJC Hoffmann,DLS van Bunge,1,0,null,1,0,null,null
+208,33.1,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,null,0,0,null,null
+209,33.2,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,null,0,0,null,null
+210,33.3,JAR Blain,PJC Hoffmann,Mohammad Kashif,4,0,null,4,0,null,null
+211,33.4,JAR Blain,PJC Hoffmann,Mohammad Kashif,6,0,null,6,0,null,null
+212,33.5,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,null,0,0,null,null
+213,33.6,JAR Blain,PJC Hoffmann,Mohammad Kashif,0,0,null,0,0,null,null
+214,34.1,PJC Hoffmann,JAR Blain,DLS van Bunge,0,0,null,0,1,PJC Hoffmann,caught

@@ -1,0 +1,305 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Mohammad Hafeez,Imran Farhat,SL Malinga,0,0,null,0,0,null,null
+1,0.2,Mohammad Hafeez,Imran Farhat,SL Malinga,1,0,null,1,0,null,null
+2,0.3,Imran Farhat,Mohammad Hafeez,SL Malinga,0,0,null,0,0,null,null
+3,0.4,Imran Farhat,Mohammad Hafeez,SL Malinga,0,0,null,0,0,null,null
+4,0.5,Imran Farhat,Mohammad Hafeez,SL Malinga,0,0,null,0,0,null,null
+5,0.6,Imran Farhat,Mohammad Hafeez,SL Malinga,0,0,null,0,0,null,null
+6,1.1,Mohammad Hafeez,Imran Farhat,NLTC Perera,4,0,null,4,0,null,null
+7,1.2,Mohammad Hafeez,Imran Farhat,NLTC Perera,0,0,null,0,0,null,null
+8,1.3,Mohammad Hafeez,Imran Farhat,NLTC Perera,0,2,wides ,2,0,null,null
+9,1.4,Imran Farhat,Mohammad Hafeez,NLTC Perera,1,0,null,1,0,null,null
+10,1.5,Mohammad Hafeez,Imran Farhat,NLTC Perera,0,0,null,0,0,null,null
+11,1.6,Mohammad Hafeez,Imran Farhat,NLTC Perera,0,0,null,0,0,null,null
+12,1.7,Mohammad Hafeez,Imran Farhat,NLTC Perera,0,0,null,0,0,null,null
+13,2.1,Imran Farhat,Mohammad Hafeez,SL Malinga,4,0,null,4,0,null,null
+14,2.2,Imran Farhat,Mohammad Hafeez,SL Malinga,1,0,null,1,0,null,null
+15,2.3,Mohammad Hafeez,Imran Farhat,SL Malinga,0,0,null,0,0,null,null
+16,2.4,Mohammad Hafeez,Imran Farhat,SL Malinga,0,0,null,0,0,null,null
+17,2.5,Mohammad Hafeez,Imran Farhat,SL Malinga,0,0,null,0,0,null,null
+18,2.6,Mohammad Hafeez,Imran Farhat,SL Malinga,0,0,null,0,0,null,null
+19,3.1,Imran Farhat,Mohammad Hafeez,NLTC Perera,0,0,null,0,0,null,null
+20,3.2,Imran Farhat,Mohammad Hafeez,NLTC Perera,0,0,null,0,0,null,null
+21,3.3,Imran Farhat,Mohammad Hafeez,NLTC Perera,0,0,null,0,0,null,null
+22,3.4,Imran Farhat,Mohammad Hafeez,NLTC Perera,4,0,null,4,0,null,null
+23,3.5,Imran Farhat,Mohammad Hafeez,NLTC Perera,0,0,null,0,0,null,null
+24,3.6,Imran Farhat,Mohammad Hafeez,NLTC Perera,0,0,null,0,0,null,null
+25,4.1,Mohammad Hafeez,Imran Farhat,SL Malinga,0,0,null,0,0,null,null
+26,4.2,Mohammad Hafeez,Imran Farhat,SL Malinga,0,0,null,0,0,null,null
+27,4.3,Mohammad Hafeez,Imran Farhat,SL Malinga,1,0,null,1,0,null,null
+28,4.4,Imran Farhat,Mohammad Hafeez,SL Malinga,0,0,null,0,0,null,null
+29,4.5,Imran Farhat,Mohammad Hafeez,SL Malinga,0,0,null,0,0,null,null
+30,4.6,Imran Farhat,Mohammad Hafeez,SL Malinga,0,0,null,0,0,null,null
+31,5.1,Mohammad Hafeez,Imran Farhat,NLTC Perera,0,0,null,0,0,null,null
+32,5.2,Mohammad Hafeez,Imran Farhat,NLTC Perera,0,0,null,0,0,null,null
+33,5.3,Mohammad Hafeez,Imran Farhat,NLTC Perera,0,0,null,0,0,null,null
+34,5.4,Mohammad Hafeez,Imran Farhat,NLTC Perera,0,0,null,0,0,null,null
+35,5.5,Mohammad Hafeez,Imran Farhat,NLTC Perera,0,0,null,0,0,null,null
+36,5.6,Mohammad Hafeez,Imran Farhat,NLTC Perera,0,0,null,0,0,null,null
+37,6.1,Imran Farhat,Mohammad Hafeez,CRD Fernando,0,0,null,0,1,Imran Farhat,caught
+38,6.2,Younis Khan,Mohammad Hafeez,CRD Fernando,0,0,null,0,0,null,null
+39,6.3,Younis Khan,Mohammad Hafeez,CRD Fernando,0,0,null,0,0,null,null
+40,6.4,Younis Khan,Mohammad Hafeez,CRD Fernando,0,1,wides ,1,0,null,null
+41,6.5,Younis Khan,Mohammad Hafeez,CRD Fernando,0,0,null,0,0,null,null
+42,6.6,Younis Khan,Mohammad Hafeez,CRD Fernando,2,0,null,2,0,null,null
+43,6.7,Younis Khan,Mohammad Hafeez,CRD Fernando,1,0,null,1,0,null,null
+44,7.1,Younis Khan,Mohammad Hafeez,NLTC Perera,0,0,null,0,0,null,null
+45,7.2,Younis Khan,Mohammad Hafeez,NLTC Perera,0,0,null,0,0,null,null
+46,7.3,Younis Khan,Mohammad Hafeez,NLTC Perera,0,0,null,0,0,null,null
+47,7.4,Younis Khan,Mohammad Hafeez,NLTC Perera,4,0,null,4,0,null,null
+48,7.5,Younis Khan,Mohammad Hafeez,NLTC Perera,0,0,null,0,0,null,null
+49,7.6,Younis Khan,Mohammad Hafeez,NLTC Perera,0,0,null,0,0,null,null
+50,8.1,Mohammad Hafeez,Younis Khan,CRD Fernando,0,0,null,0,0,null,null
+51,8.2,Mohammad Hafeez,Younis Khan,CRD Fernando,2,0,null,2,0,null,null
+52,8.3,Mohammad Hafeez,Younis Khan,CRD Fernando,0,0,null,0,0,null,null
+53,8.4,Mohammad Hafeez,Younis Khan,CRD Fernando,0,0,null,0,0,null,null
+54,8.5,Mohammad Hafeez,Younis Khan,CRD Fernando,0,0,null,0,0,null,null
+55,8.6,Mohammad Hafeez,Younis Khan,CRD Fernando,1,0,null,1,0,null,null
+56,9.1,Mohammad Hafeez,Younis Khan,NLTC Perera,0,0,null,0,0,null,null
+57,9.2,Mohammad Hafeez,Younis Khan,NLTC Perera,0,0,null,0,0,null,null
+58,9.3,Mohammad Hafeez,Younis Khan,NLTC Perera,0,0,null,0,0,null,null
+59,9.4,Mohammad Hafeez,Younis Khan,NLTC Perera,4,0,null,4,0,null,null
+60,9.5,Mohammad Hafeez,Younis Khan,NLTC Perera,1,0,null,1,0,null,null
+61,9.6,Younis Khan,Mohammad Hafeez,NLTC Perera,0,0,null,0,0,null,null
+62,10.1,Mohammad Hafeez,Younis Khan,BMAJ Mendis,0,0,null,0,0,null,null
+63,10.2,Mohammad Hafeez,Younis Khan,BMAJ Mendis,1,0,null,1,0,null,null
+64,10.3,Younis Khan,Mohammad Hafeez,BMAJ Mendis,1,0,null,1,0,null,null
+65,10.4,Mohammad Hafeez,Younis Khan,BMAJ Mendis,4,0,null,4,0,null,null
+66,10.5,Mohammad Hafeez,Younis Khan,BMAJ Mendis,1,0,null,1,0,null,null
+67,10.6,Younis Khan,Mohammad Hafeez,BMAJ Mendis,0,0,null,0,0,null,null
+68,11.1,Mohammad Hafeez,Younis Khan,S Prasanna,0,0,null,0,0,null,null
+69,11.2,Mohammad Hafeez,Younis Khan,S Prasanna,0,0,null,0,0,null,null
+70,11.3,Mohammad Hafeez,Younis Khan,S Prasanna,0,0,null,0,0,null,null
+71,11.4,Mohammad Hafeez,Younis Khan,S Prasanna,1,0,null,1,0,null,null
+72,11.5,Younis Khan,Mohammad Hafeez,S Prasanna,1,0,null,1,0,null,null
+73,11.6,Mohammad Hafeez,Younis Khan,S Prasanna,0,0,null,0,0,null,null
+74,12.1,Younis Khan,Mohammad Hafeez,BMAJ Mendis,1,0,null,1,0,null,null
+75,12.2,Mohammad Hafeez,Younis Khan,BMAJ Mendis,1,0,null,1,0,null,null
+76,12.3,Younis Khan,Mohammad Hafeez,BMAJ Mendis,0,0,null,0,0,null,null
+77,12.4,Younis Khan,Mohammad Hafeez,BMAJ Mendis,1,0,null,1,0,null,null
+78,12.5,Mohammad Hafeez,Younis Khan,BMAJ Mendis,2,0,null,2,0,null,null
+79,12.6,Mohammad Hafeez,Younis Khan,BMAJ Mendis,0,0,null,0,0,null,null
+80,13.1,Younis Khan,Mohammad Hafeez,S Prasanna,1,0,null,1,0,null,null
+81,13.2,Mohammad Hafeez,Younis Khan,S Prasanna,1,0,null,1,0,null,null
+82,13.3,Younis Khan,Mohammad Hafeez,S Prasanna,1,0,null,1,0,null,null
+83,13.4,Mohammad Hafeez,Younis Khan,S Prasanna,1,0,null,1,0,null,null
+84,13.5,Younis Khan,Mohammad Hafeez,S Prasanna,1,0,null,1,0,null,null
+85,13.6,Mohammad Hafeez,Younis Khan,S Prasanna,0,0,null,0,0,null,null
+86,14.1,Younis Khan,Mohammad Hafeez,TM Dilshan,1,0,null,1,0,null,null
+87,14.2,Mohammad Hafeez,Younis Khan,TM Dilshan,0,0,null,0,0,null,null
+88,14.3,Mohammad Hafeez,Younis Khan,TM Dilshan,0,0,null,0,0,null,null
+89,14.4,Mohammad Hafeez,Younis Khan,TM Dilshan,0,0,null,0,0,null,null
+90,14.5,Mohammad Hafeez,Younis Khan,TM Dilshan,1,0,null,1,0,null,null
+91,14.6,Younis Khan,Mohammad Hafeez,TM Dilshan,1,0,null,1,0,null,null
+92,15.1,Younis Khan,Mohammad Hafeez,S Prasanna,1,0,null,1,0,null,null
+93,15.2,Mohammad Hafeez,Younis Khan,S Prasanna,0,0,null,0,1,Mohammad Hafeez,caught
+94,15.3,Younis Khan,Misbah-ul-Haq,S Prasanna,0,0,null,0,0,null,null
+95,15.4,Younis Khan,Misbah-ul-Haq,S Prasanna,1,0,null,1,0,null,null
+96,15.5,Misbah-ul-Haq,Younis Khan,S Prasanna,4,0,null,4,0,null,null
+97,15.6,Misbah-ul-Haq,Younis Khan,S Prasanna,0,0,null,0,0,null,null
+98,16.1,Younis Khan,Misbah-ul-Haq,CRD Fernando,0,0,null,0,1,Younis Khan,caught
+99,16.2,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+100,16.3,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+101,16.4,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,1,0,null,1,0,null,null
+102,16.5,Misbah-ul-Haq,Shoaib Malik,CRD Fernando,0,0,null,0,0,null,null
+103,16.6,Misbah-ul-Haq,Shoaib Malik,CRD Fernando,0,0,null,0,0,null,null
+104,17.1,Shoaib Malik,Misbah-ul-Haq,S Prasanna,0,0,null,0,0,null,null
+105,17.2,Shoaib Malik,Misbah-ul-Haq,S Prasanna,0,0,null,0,0,null,null
+106,17.3,Shoaib Malik,Misbah-ul-Haq,S Prasanna,0,0,null,0,0,null,null
+107,17.4,Shoaib Malik,Misbah-ul-Haq,S Prasanna,0,0,null,0,0,null,null
+108,17.5,Shoaib Malik,Misbah-ul-Haq,S Prasanna,0,0,null,0,0,null,null
+109,17.6,Shoaib Malik,Misbah-ul-Haq,S Prasanna,1,0,null,1,0,null,null
+110,18.1,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+111,18.2,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+112,18.3,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+113,18.4,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+114,18.5,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+115,18.6,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+116,19.1,Misbah-ul-Haq,Shoaib Malik,S Prasanna,0,0,null,0,0,null,null
+117,19.2,Misbah-ul-Haq,Shoaib Malik,S Prasanna,0,0,null,0,0,null,null
+118,19.3,Misbah-ul-Haq,Shoaib Malik,S Prasanna,0,0,null,0,0,null,null
+119,19.4,Misbah-ul-Haq,Shoaib Malik,S Prasanna,0,0,null,0,0,null,null
+120,19.5,Misbah-ul-Haq,Shoaib Malik,S Prasanna,4,0,null,4,0,null,null
+121,19.6,Misbah-ul-Haq,Shoaib Malik,S Prasanna,0,0,null,0,0,null,null
+122,20.1,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+123,20.2,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+124,20.3,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+125,20.4,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+126,20.5,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+127,20.6,Shoaib Malik,Misbah-ul-Haq,CRD Fernando,0,0,null,0,0,null,null
+128,21.1,Misbah-ul-Haq,Shoaib Malik,BMAJ Mendis,0,0,null,0,0,null,null
+129,21.2,Misbah-ul-Haq,Shoaib Malik,BMAJ Mendis,0,0,null,0,0,null,null
+130,21.3,Misbah-ul-Haq,Shoaib Malik,BMAJ Mendis,0,0,null,0,0,null,null
+131,21.4,Misbah-ul-Haq,Shoaib Malik,BMAJ Mendis,0,0,null,0,0,null,null
+132,21.5,Misbah-ul-Haq,Shoaib Malik,BMAJ Mendis,1,0,null,1,0,null,null
+133,21.6,Shoaib Malik,Misbah-ul-Haq,BMAJ Mendis,0,0,null,0,1,Shoaib Malik,lbw
+134,22.1,Misbah-ul-Haq,Umar Akmal,CRD Fernando,0,0,null,0,0,null,null
+135,22.2,Misbah-ul-Haq,Umar Akmal,CRD Fernando,0,0,null,0,0,null,null
+136,22.3,Misbah-ul-Haq,Umar Akmal,CRD Fernando,0,0,null,0,0,null,null
+137,22.4,Misbah-ul-Haq,Umar Akmal,CRD Fernando,0,0,null,0,0,null,null
+138,22.5,Misbah-ul-Haq,Umar Akmal,CRD Fernando,0,0,null,0,0,null,null
+139,22.6,Misbah-ul-Haq,Umar Akmal,CRD Fernando,0,0,null,0,0,null,null
+140,23.1,Umar Akmal,Misbah-ul-Haq,BMAJ Mendis,0,0,null,0,0,null,null
+141,23.2,Umar Akmal,Misbah-ul-Haq,BMAJ Mendis,0,0,null,0,0,null,null
+142,23.3,Umar Akmal,Misbah-ul-Haq,BMAJ Mendis,0,0,null,0,0,null,null
+143,23.4,Umar Akmal,Misbah-ul-Haq,BMAJ Mendis,2,0,null,2,0,null,null
+144,23.5,Umar Akmal,Misbah-ul-Haq,BMAJ Mendis,0,0,null,0,1,Umar Akmal,lbw
+145,23.6,Shahid Afridi,Misbah-ul-Haq,BMAJ Mendis,0,1,legbyes ,1,0,null,null
+146,24.1,Shahid Afridi,Misbah-ul-Haq,SL Malinga,4,0,null,4,0,null,null
+147,24.2,Shahid Afridi,Misbah-ul-Haq,SL Malinga,1,0,null,1,0,null,null
+148,24.3,Misbah-ul-Haq,Shahid Afridi,SL Malinga,0,0,null,0,0,null,null
+149,24.4,Misbah-ul-Haq,Shahid Afridi,SL Malinga,1,0,null,1,0,null,null
+150,24.5,Shahid Afridi,Misbah-ul-Haq,SL Malinga,2,0,null,2,0,null,null
+151,24.6,Shahid Afridi,Misbah-ul-Haq,SL Malinga,0,0,null,0,0,null,null
+152,25.1,Misbah-ul-Haq,Shahid Afridi,BMAJ Mendis,1,0,null,1,0,null,null
+153,25.2,Shahid Afridi,Misbah-ul-Haq,BMAJ Mendis,1,0,null,1,0,null,null
+154,25.3,Misbah-ul-Haq,Shahid Afridi,BMAJ Mendis,0,0,null,0,0,null,null
+155,25.4,Misbah-ul-Haq,Shahid Afridi,BMAJ Mendis,2,0,null,2,0,null,null
+156,25.5,Misbah-ul-Haq,Shahid Afridi,BMAJ Mendis,1,0,null,1,0,null,null
+157,25.6,Shahid Afridi,Misbah-ul-Haq,BMAJ Mendis,2,0,null,2,0,null,null
+158,26.1,Misbah-ul-Haq,Shahid Afridi,NLTC Perera,0,0,null,0,0,null,null
+159,26.2,Misbah-ul-Haq,Shahid Afridi,NLTC Perera,1,0,null,1,0,null,null
+160,26.3,Shahid Afridi,Misbah-ul-Haq,NLTC Perera,0,0,null,0,0,null,null
+161,26.4,Shahid Afridi,Misbah-ul-Haq,NLTC Perera,1,0,null,1,0,null,null
+162,26.5,Misbah-ul-Haq,Shahid Afridi,NLTC Perera,0,0,null,0,0,null,null
+163,26.6,Misbah-ul-Haq,Shahid Afridi,NLTC Perera,0,0,null,0,0,null,null
+164,27.1,Shahid Afridi,Misbah-ul-Haq,BMAJ Mendis,1,0,null,1,0,null,null
+165,27.2,Misbah-ul-Haq,Shahid Afridi,BMAJ Mendis,0,0,null,0,0,null,null
+166,27.3,Misbah-ul-Haq,Shahid Afridi,BMAJ Mendis,0,0,null,0,0,null,null
+167,27.4,Misbah-ul-Haq,Shahid Afridi,BMAJ Mendis,1,0,null,1,0,null,null
+168,27.5,Shahid Afridi,Misbah-ul-Haq,BMAJ Mendis,6,0,null,6,0,null,null
+169,27.6,Shahid Afridi,Misbah-ul-Haq,BMAJ Mendis,0,0,null,0,1,Misbah-ul-Haq,run out
+170,28.1,Sarfraz Ahmed,Shahid Afridi,NLTC Perera,2,0,null,2,0,null,null
+171,28.2,Sarfraz Ahmed,Shahid Afridi,NLTC Perera,0,0,null,0,0,null,null
+172,28.3,Sarfraz Ahmed,Shahid Afridi,NLTC Perera,0,0,null,0,0,null,null
+173,28.4,Sarfraz Ahmed,Shahid Afridi,NLTC Perera,1,0,null,1,0,null,null
+174,28.5,Shahid Afridi,Sarfraz Ahmed,NLTC Perera,1,0,null,1,0,null,null
+175,28.6,Sarfraz Ahmed,Shahid Afridi,NLTC Perera,0,0,null,0,0,null,null
+176,29.1,Shahid Afridi,Sarfraz Ahmed,BMAJ Mendis,0,0,null,0,0,null,null
+177,29.2,Shahid Afridi,Sarfraz Ahmed,BMAJ Mendis,1,0,null,1,0,null,null
+178,29.3,Sarfraz Ahmed,Shahid Afridi,BMAJ Mendis,1,0,null,1,0,null,null
+179,29.4,Shahid Afridi,Sarfraz Ahmed,BMAJ Mendis,1,0,null,1,0,null,null
+180,29.5,Sarfraz Ahmed,Shahid Afridi,BMAJ Mendis,0,0,null,0,0,null,null
+181,29.6,Sarfraz Ahmed,Shahid Afridi,BMAJ Mendis,2,0,null,2,0,null,null
+182,30.1,Shahid Afridi,Sarfraz Ahmed,S Prasanna,0,0,null,0,0,null,null
+183,30.2,Shahid Afridi,Sarfraz Ahmed,S Prasanna,1,0,null,1,0,null,null
+184,30.3,Sarfraz Ahmed,Shahid Afridi,S Prasanna,1,0,null,1,0,null,null
+185,30.4,Shahid Afridi,Sarfraz Ahmed,S Prasanna,0,0,null,0,0,null,null
+186,30.5,Shahid Afridi,Sarfraz Ahmed,S Prasanna,1,0,null,1,0,null,null
+187,30.6,Sarfraz Ahmed,Shahid Afridi,S Prasanna,0,0,null,0,0,null,null
+188,31.1,Shahid Afridi,Sarfraz Ahmed,BMAJ Mendis,0,0,null,0,0,null,null
+189,31.2,Shahid Afridi,Sarfraz Ahmed,BMAJ Mendis,1,0,null,1,0,null,null
+190,31.3,Sarfraz Ahmed,Shahid Afridi,BMAJ Mendis,0,0,null,0,0,null,null
+191,31.4,Sarfraz Ahmed,Shahid Afridi,BMAJ Mendis,1,0,null,1,0,null,null
+192,31.5,Shahid Afridi,Sarfraz Ahmed,BMAJ Mendis,1,0,null,1,0,null,null
+193,31.6,Sarfraz Ahmed,Shahid Afridi,BMAJ Mendis,0,0,null,0,0,null,null
+194,32.1,Shahid Afridi,Sarfraz Ahmed,S Prasanna,0,0,null,0,0,null,null
+195,32.2,Shahid Afridi,Sarfraz Ahmed,S Prasanna,0,1,wides ,1,0,null,null
+196,32.3,Shahid Afridi,Sarfraz Ahmed,S Prasanna,1,0,null,1,0,null,null
+197,32.4,Sarfraz Ahmed,Shahid Afridi,S Prasanna,1,0,null,1,0,null,null
+198,32.5,Shahid Afridi,Sarfraz Ahmed,S Prasanna,0,0,null,0,0,null,null
+199,32.6,Shahid Afridi,Sarfraz Ahmed,S Prasanna,0,1,wides ,1,0,null,null
+200,32.7,Shahid Afridi,Sarfraz Ahmed,S Prasanna,0,1,wides ,1,0,null,null
+201,32.8,Shahid Afridi,Sarfraz Ahmed,S Prasanna,0,0,null,0,0,null,null
+202,32.9,Shahid Afridi,Sarfraz Ahmed,S Prasanna,1,0,null,1,0,null,null
+203,33.1,Shahid Afridi,Sarfraz Ahmed,BMAJ Mendis,0,0,null,0,0,null,null
+204,33.2,Shahid Afridi,Sarfraz Ahmed,BMAJ Mendis,0,0,null,0,0,null,null
+205,33.3,Shahid Afridi,Sarfraz Ahmed,BMAJ Mendis,0,0,null,0,0,null,null
+206,33.4,Shahid Afridi,Sarfraz Ahmed,BMAJ Mendis,1,0,null,1,0,null,null
+207,33.5,Sarfraz Ahmed,Shahid Afridi,BMAJ Mendis,1,0,null,1,0,null,null
+208,33.6,Shahid Afridi,Sarfraz Ahmed,BMAJ Mendis,0,0,null,0,0,null,null
+209,34.1,Sarfraz Ahmed,Shahid Afridi,S Prasanna,0,0,null,0,0,null,null
+210,34.2,Sarfraz Ahmed,Shahid Afridi,S Prasanna,0,0,null,0,1,Sarfraz Ahmed,lbw
+211,34.3,Saeed Ajmal,Shahid Afridi,S Prasanna,0,0,null,0,0,null,null
+212,34.4,Saeed Ajmal,Shahid Afridi,S Prasanna,0,0,null,0,0,null,null
+213,34.5,Saeed Ajmal,Shahid Afridi,S Prasanna,0,0,null,0,0,null,null
+214,34.6,Saeed Ajmal,Shahid Afridi,S Prasanna,0,0,null,0,0,null,null
+215,35.1,Shahid Afridi,Saeed Ajmal,SL Malinga,1,0,null,1,0,null,null
+216,35.2,Saeed Ajmal,Shahid Afridi,SL Malinga,1,0,null,1,0,null,null
+217,35.3,Shahid Afridi,Saeed Ajmal,SL Malinga,4,0,null,4,0,null,null
+218,35.4,Shahid Afridi,Saeed Ajmal,SL Malinga,0,0,null,0,0,null,null
+219,35.5,Shahid Afridi,Saeed Ajmal,SL Malinga,0,0,null,0,0,null,null
+220,35.6,Shahid Afridi,Saeed Ajmal,SL Malinga,1,0,null,1,0,null,null
+221,36.1,Shahid Afridi,Saeed Ajmal,NLTC Perera,1,0,null,1,0,null,null
+222,36.2,Saeed Ajmal,Shahid Afridi,NLTC Perera,0,0,null,0,0,null,null
+223,36.3,Saeed Ajmal,Shahid Afridi,NLTC Perera,0,0,null,0,0,null,null
+224,36.4,Saeed Ajmal,Shahid Afridi,NLTC Perera,0,0,null,0,0,null,null
+225,36.5,Saeed Ajmal,Shahid Afridi,NLTC Perera,1,0,null,1,0,null,null
+226,36.6,Shahid Afridi,Saeed Ajmal,NLTC Perera,1,0,null,1,0,null,null
+227,37.1,Shahid Afridi,Saeed Ajmal,SL Malinga,2,0,null,2,0,null,null
+228,37.2,Shahid Afridi,Saeed Ajmal,SL Malinga,1,0,null,1,0,null,null
+229,37.3,Saeed Ajmal,Shahid Afridi,SL Malinga,0,0,null,0,0,null,null
+230,37.4,Saeed Ajmal,Shahid Afridi,SL Malinga,2,0,null,2,0,null,null
+231,37.5,Saeed Ajmal,Shahid Afridi,SL Malinga,0,0,null,0,0,null,null
+232,37.6,Saeed Ajmal,Shahid Afridi,SL Malinga,0,0,null,0,0,null,null
+233,38.1,Shahid Afridi,Saeed Ajmal,CRD Fernando,2,0,null,2,0,null,null
+234,38.2,Shahid Afridi,Saeed Ajmal,CRD Fernando,1,0,null,1,0,null,null
+235,38.3,Saeed Ajmal,Shahid Afridi,CRD Fernando,1,0,null,1,0,null,null
+236,38.4,Shahid Afridi,Saeed Ajmal,CRD Fernando,0,0,null,0,0,null,null
+237,38.5,Shahid Afridi,Saeed Ajmal,CRD Fernando,1,0,null,1,0,null,null
+238,38.6,Saeed Ajmal,Shahid Afridi,CRD Fernando,0,0,null,0,0,null,null
+239,39.1,Shahid Afridi,Saeed Ajmal,SL Malinga,1,0,null,1,0,null,null
+240,39.2,Saeed Ajmal,Shahid Afridi,SL Malinga,1,0,null,1,0,null,null
+241,39.3,Shahid Afridi,Saeed Ajmal,SL Malinga,1,0,null,1,0,null,null
+242,39.4,Saeed Ajmal,Shahid Afridi,SL Malinga,1,0,null,1,0,null,null
+243,39.5,Shahid Afridi,Saeed Ajmal,SL Malinga,0,0,null,0,0,null,null
+244,39.6,Shahid Afridi,Saeed Ajmal,SL Malinga,1,0,null,1,0,null,null
+245,40.1,Shahid Afridi,Saeed Ajmal,S Prasanna,1,0,null,1,0,null,null
+246,40.2,Saeed Ajmal,Shahid Afridi,S Prasanna,1,0,null,1,0,null,null
+247,40.3,Shahid Afridi,Saeed Ajmal,S Prasanna,6,0,null,6,0,null,null
+248,40.4,Shahid Afridi,Saeed Ajmal,S Prasanna,0,0,null,0,0,null,null
+249,40.5,Shahid Afridi,Saeed Ajmal,S Prasanna,1,0,null,1,0,null,null
+250,40.6,Saeed Ajmal,Shahid Afridi,S Prasanna,0,0,null,0,0,null,null
+251,41.1,Shahid Afridi,Saeed Ajmal,CRD Fernando,1,0,null,1,0,null,null
+252,41.2,Saeed Ajmal,Shahid Afridi,CRD Fernando,2,0,null,2,0,null,null
+253,41.3,Saeed Ajmal,Shahid Afridi,CRD Fernando,0,0,null,0,0,null,null
+254,41.4,Saeed Ajmal,Shahid Afridi,CRD Fernando,1,0,null,1,0,null,null
+255,41.5,Shahid Afridi,Saeed Ajmal,CRD Fernando,1,0,null,1,0,null,null
+256,41.6,Saeed Ajmal,Shahid Afridi,CRD Fernando,0,0,null,0,0,null,null
+257,42.1,Shahid Afridi,Saeed Ajmal,S Prasanna,4,0,null,4,0,null,null
+258,42.2,Shahid Afridi,Saeed Ajmal,S Prasanna,4,0,null,4,0,null,null
+259,42.3,Shahid Afridi,Saeed Ajmal,S Prasanna,0,0,null,0,0,null,null
+260,42.4,Shahid Afridi,Saeed Ajmal,S Prasanna,2,0,null,2,0,null,null
+261,42.5,Shahid Afridi,Saeed Ajmal,S Prasanna,6,0,null,6,0,null,null
+262,42.6,Shahid Afridi,Saeed Ajmal,S Prasanna,0,1,wides ,1,0,null,null
+263,42.7,Shahid Afridi,Saeed Ajmal,S Prasanna,2,0,null,2,0,null,null
+264,43.1,Saeed Ajmal,Shahid Afridi,NLTC Perera,0,0,null,0,0,null,null
+265,43.2,Saeed Ajmal,Shahid Afridi,NLTC Perera,1,0,null,1,0,null,null
+266,43.3,Shahid Afridi,Saeed Ajmal,NLTC Perera,0,0,null,0,0,null,null
+267,43.4,Shahid Afridi,Saeed Ajmal,NLTC Perera,1,0,null,1,0,null,null
+268,43.5,Saeed Ajmal,Shahid Afridi,NLTC Perera,1,0,null,1,0,null,null
+269,43.6,Shahid Afridi,Saeed Ajmal,NLTC Perera,0,0,null,0,1,Shahid Afridi,caught
+270,44.1,Saeed Ajmal,Umar Gul,CRD Fernando,0,0,null,0,0,null,null
+271,44.2,Saeed Ajmal,Umar Gul,CRD Fernando,0,0,null,0,0,null,null
+272,44.3,Saeed Ajmal,Umar Gul,CRD Fernando,1,0,null,1,0,null,null
+273,44.4,Umar Gul,Saeed Ajmal,CRD Fernando,2,0,null,2,0,null,null
+274,44.5,Umar Gul,Saeed Ajmal,CRD Fernando,0,0,null,0,0,null,null
+275,44.6,Umar Gul,Saeed Ajmal,CRD Fernando,0,0,null,0,0,null,null
+276,45.1,Saeed Ajmal,Umar Gul,SL Malinga,0,0,null,0,0,null,null
+277,45.2,Saeed Ajmal,Umar Gul,SL Malinga,2,0,null,2,0,null,null
+278,45.3,Saeed Ajmal,Umar Gul,SL Malinga,0,0,null,0,0,null,null
+279,45.4,Saeed Ajmal,Umar Gul,SL Malinga,0,0,null,0,0,null,null
+280,45.5,Saeed Ajmal,Umar Gul,SL Malinga,0,0,null,0,0,null,null
+281,45.6,Saeed Ajmal,Umar Gul,SL Malinga,0,0,null,0,0,null,null
+282,46.1,Umar Gul,Saeed Ajmal,CRD Fernando,0,0,null,0,0,null,null
+283,46.2,Umar Gul,Saeed Ajmal,CRD Fernando,0,0,null,0,0,null,null
+284,46.3,Umar Gul,Saeed Ajmal,CRD Fernando,0,0,null,0,0,null,null
+285,46.4,Umar Gul,Saeed Ajmal,CRD Fernando,1,0,null,1,0,null,null
+286,46.5,Saeed Ajmal,Umar Gul,CRD Fernando,4,0,null,4,0,null,null
+287,46.6,Saeed Ajmal,Umar Gul,CRD Fernando,0,0,null,0,1,Saeed Ajmal,lbw
+288,47.1,Umar Gul,Aizaz Cheema,SL Malinga,0,0,null,0,0,null,null
+289,47.2,Umar Gul,Aizaz Cheema,SL Malinga,1,0,null,1,0,null,null
+290,47.3,Aizaz Cheema,Umar Gul,SL Malinga,0,0,null,0,0,null,null
+291,47.4,Aizaz Cheema,Umar Gul,SL Malinga,0,0,null,0,0,null,null
+292,47.5,Aizaz Cheema,Umar Gul,SL Malinga,0,0,null,0,0,null,null
+293,47.6,Aizaz Cheema,Umar Gul,SL Malinga,1,0,null,1,0,null,null
+294,48.1,Aizaz Cheema,Umar Gul,NLTC Perera,0,0,null,0,0,null,null
+295,48.2,Aizaz Cheema,Umar Gul,NLTC Perera,1,0,null,1,0,null,null
+296,48.3,Umar Gul,Aizaz Cheema,NLTC Perera,2,0,null,2,0,null,null
+297,48.4,Umar Gul,Aizaz Cheema,NLTC Perera,1,0,null,1,0,null,null
+298,48.5,Aizaz Cheema,Umar Gul,NLTC Perera,0,0,null,0,0,null,null
+299,48.6,Aizaz Cheema,Umar Gul,NLTC Perera,0,0,null,0,0,null,null
+300,49.1,Umar Gul,Aizaz Cheema,SL Malinga,0,1,wides ,1,0,null,null
+301,49.2,Umar Gul,Aizaz Cheema,SL Malinga,0,1,legbyes ,1,0,null,null
+302,49.3,Aizaz Cheema,Umar Gul,SL Malinga,1,0,null,1,0,null,null
+303,49.4,Umar Gul,Aizaz Cheema,SL Malinga,0,0,null,0,1,Umar Gul,bowled

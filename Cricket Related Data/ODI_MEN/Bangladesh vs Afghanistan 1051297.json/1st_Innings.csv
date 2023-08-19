@@ -1,0 +1,310 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Tamim Iqbal,Soumya Sarkar,Dawlat Zadran,0,0,null,0,0,null,null
+1,0.2,Tamim Iqbal,Soumya Sarkar,Dawlat Zadran,1,0,null,1,0,null,null
+2,0.3,Soumya Sarkar,Tamim Iqbal,Dawlat Zadran,0,0,null,0,0,null,null
+3,0.4,Soumya Sarkar,Tamim Iqbal,Dawlat Zadran,0,0,null,0,0,null,null
+4,0.5,Soumya Sarkar,Tamim Iqbal,Dawlat Zadran,0,0,null,0,1,Soumya Sarkar,caught
+5,0.6,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,0,0,null,0,0,null,null
+6,1.1,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,4,0,null,4,0,null,null
+7,1.2,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,1,wides ,1,0,null,null
+8,1.3,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,null,0,0,null,null
+9,1.4,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,null,0,0,null,null
+10,1.5,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,null,0,0,null,null
+11,1.6,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,null,0,0,null,null
+12,1.7,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,4,0,null,4,0,null,null
+13,2.1,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,0,0,null,0,0,null,null
+14,2.2,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,1,0,null,1,0,null,null
+15,2.3,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,null,0,0,null,null
+16,2.4,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,null,0,0,null,null
+17,2.5,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,2,0,null,2,0,null,null
+18,2.6,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,4,0,null,4,0,null,null
+19,3.1,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,null,0,0,null,null
+20,3.2,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,null,0,0,null,null
+21,3.3,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,null,0,0,null,null
+22,3.4,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,4,0,null,4,0,null,null
+23,3.5,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,1,0,null,1,0,null,null
+24,3.6,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,null,0,0,null,null
+25,4.1,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,1,0,null,1,0,null,null
+26,4.2,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,null,0,0,null,null
+27,4.3,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,1,0,null,1,0,null,null
+28,4.4,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,4,0,null,4,0,null,null
+29,4.5,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,1,0,null,1,0,null,null
+30,4.6,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,null,0,0,null,null
+31,5.1,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+32,5.2,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,1,0,null,1,0,null,null
+33,5.3,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,0,0,null,0,0,null,null
+34,5.4,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,1,0,null,1,0,null,null
+35,5.5,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+36,5.6,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+37,6.1,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,null,0,0,null,null
+38,6.2,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,0,0,null,0,0,null,null
+39,6.3,Tamim Iqbal,Imrul Kayes,Dawlat Zadran,1,0,null,1,0,null,null
+40,6.4,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,4,0,null,4,0,null,null
+41,6.5,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,0,0,null,0,0,null,null
+42,6.6,Imrul Kayes,Tamim Iqbal,Dawlat Zadran,0,0,null,0,0,null,null
+43,7.1,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,2,0,null,2,0,null,null
+44,7.2,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,1,0,null,1,0,null,null
+45,7.3,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+46,7.4,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+47,7.5,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+48,7.6,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,4,0,null,4,0,null,null
+49,8.1,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,null,0,0,null,null
+50,8.2,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,null,0,0,null,null
+51,8.3,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,1,0,null,1,0,null,null
+52,8.4,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,4,0,null,4,0,null,null
+53,8.5,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+54,8.6,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+55,9.1,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,1,0,null,1,0,null,null
+56,9.2,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+57,9.3,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+58,9.4,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,1,0,null,1,0,null,null
+59,9.5,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,0,0,null,0,0,null,null
+60,9.6,Tamim Iqbal,Imrul Kayes,Mohammad Nabi,0,0,null,0,0,null,null
+61,10.1,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,1,0,null,1,0,null,null
+62,10.2,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,2,0,null,2,0,null,null
+63,10.3,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,null,0,0,null,null
+64,10.4,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,null,0,0,null,null
+65,10.5,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,null,0,0,null,null
+66,10.6,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,4,0,null,4,0,null,null
+67,11.1,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,1,0,null,1,0,null,null
+68,11.2,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,0,null,0,0,null,null
+69,11.3,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,1,0,null,1,0,null,null
+70,11.4,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,null,0,0,null,null
+71,11.5,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,null,0,0,null,null
+72,11.6,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,null,0,0,null,null
+73,12.1,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,1,0,null,1,0,null,null
+74,12.2,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+75,12.3,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+76,12.4,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+77,12.5,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+78,12.6,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+79,13.1,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,0,1,wides ,1,0,null,null
+80,13.2,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,4,0,null,4,0,null,null
+81,13.3,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,1,0,null,1,0,null,null
+82,13.4,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,1,0,null,1,0,null,null
+83,13.5,Tamim Iqbal,Imrul Kayes,Naveen-ul-Haq,1,0,null,1,0,null,null
+84,13.6,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,null,0,0,null,null
+85,13.7,Imrul Kayes,Tamim Iqbal,Naveen-ul-Haq,0,0,null,0,0,null,null
+86,14.1,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,0,0,null,0,0,null,null
+87,14.2,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,1,0,null,1,0,null,null
+88,14.3,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,4,0,null,4,0,null,null
+89,14.4,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+90,14.5,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,1,wides ,1,0,null,null
+91,14.6,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+92,14.7,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+93,15.1,Tamim Iqbal,Imrul Kayes,Rashid Khan,1,0,null,1,0,null,null
+94,15.2,Imrul Kayes,Tamim Iqbal,Rashid Khan,1,0,null,1,0,null,null
+95,15.3,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,null,0,0,null,null
+96,15.4,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,null,0,0,null,null
+97,15.5,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,null,0,0,null,null
+98,15.6,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,null,0,0,null,null
+99,16.1,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+100,16.2,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,1,0,null,1,0,null,null
+101,16.3,Tamim Iqbal,Imrul Kayes,Mirwais Ashraf,1,0,null,1,0,null,null
+102,16.4,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+103,16.5,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+104,16.6,Imrul Kayes,Tamim Iqbal,Mirwais Ashraf,1,0,null,1,0,null,null
+105,17.1,Imrul Kayes,Tamim Iqbal,Rashid Khan,1,0,null,1,0,null,null
+106,17.2,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,null,0,0,null,null
+107,17.3,Tamim Iqbal,Imrul Kayes,Rashid Khan,4,0,null,4,0,null,null
+108,17.4,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,null,0,0,null,null
+109,17.5,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,null,0,0,null,null
+110,17.6,Tamim Iqbal,Imrul Kayes,Rashid Khan,0,0,null,0,0,null,null
+111,18.1,Imrul Kayes,Tamim Iqbal,Mohammad Nabi,0,0,null,0,1,Imrul Kayes,bowled
+112,18.2,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+113,18.3,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,null,1,0,null,null
+114,18.4,Tamim Iqbal,Mahmudullah,Mohammad Nabi,0,0,null,0,0,null,null
+115,18.5,Tamim Iqbal,Mahmudullah,Mohammad Nabi,0,0,null,0,0,null,null
+116,18.6,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,null,1,0,null,null
+117,19.1,Tamim Iqbal,Mahmudullah,Rashid Khan,1,0,null,1,0,null,null
+118,19.2,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,null,0,0,null,null
+119,19.3,Mahmudullah,Tamim Iqbal,Rashid Khan,1,0,null,1,0,null,null
+120,19.4,Tamim Iqbal,Mahmudullah,Rashid Khan,1,0,null,1,0,null,null
+121,19.5,Mahmudullah,Tamim Iqbal,Rashid Khan,0,1,wides ,1,0,null,null
+122,19.6,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,null,0,0,null,null
+123,19.7,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,null,0,0,null,null
+124,20.1,Tamim Iqbal,Mahmudullah,Mohammad Nabi,0,1,wides ,1,0,null,null
+125,20.2,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,null,1,0,null,null
+126,20.3,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+127,20.4,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+128,20.5,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,null,1,0,null,null
+129,20.6,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,null,1,0,null,null
+130,20.7,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+131,21.1,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,null,0,0,null,null
+132,21.2,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,null,0,0,null,null
+133,21.3,Tamim Iqbal,Mahmudullah,Rashid Khan,4,0,null,4,0,null,null
+134,21.4,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,null,0,0,null,null
+135,21.5,Tamim Iqbal,Mahmudullah,Rashid Khan,4,0,null,4,0,null,null
+136,21.6,Tamim Iqbal,Mahmudullah,Rashid Khan,1,0,null,1,0,null,null
+137,22.1,Tamim Iqbal,Mahmudullah,Dawlat Zadran,0,1,wides ,1,0,null,null
+138,22.2,Tamim Iqbal,Mahmudullah,Dawlat Zadran,4,0,null,4,0,null,null
+139,22.3,Tamim Iqbal,Mahmudullah,Dawlat Zadran,0,0,null,0,0,null,null
+140,22.4,Tamim Iqbal,Mahmudullah,Dawlat Zadran,1,0,null,1,0,null,null
+141,22.5,Mahmudullah,Tamim Iqbal,Dawlat Zadran,0,0,null,0,0,null,null
+142,22.6,Mahmudullah,Tamim Iqbal,Dawlat Zadran,1,0,null,1,0,null,null
+143,22.7,Tamim Iqbal,Mahmudullah,Dawlat Zadran,1,0,null,1,0,null,null
+144,23.1,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,null,1,0,null,null
+145,23.2,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+146,23.3,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,null,1,0,null,null
+147,23.4,Tamim Iqbal,Mahmudullah,Mohammad Nabi,0,0,null,0,0,null,null
+148,23.5,Tamim Iqbal,Mahmudullah,Mohammad Nabi,2,0,null,2,0,null,null
+149,23.6,Tamim Iqbal,Mahmudullah,Mohammad Nabi,0,0,null,0,0,null,null
+150,24.1,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+151,24.2,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,6,0,null,6,0,null,null
+152,24.3,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+153,24.4,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+154,24.5,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+155,24.6,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+156,25.1,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,null,0,0,null,null
+157,25.2,Tamim Iqbal,Mahmudullah,Rashid Khan,1,0,null,1,0,null,null
+158,25.3,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,null,0,0,null,null
+159,25.4,Mahmudullah,Tamim Iqbal,Rashid Khan,1,0,null,1,0,null,null
+160,25.5,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,null,0,0,null,null
+161,25.6,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,null,0,0,null,null
+162,26.1,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+163,26.2,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,1,0,null,1,0,null,null
+164,26.3,Tamim Iqbal,Mahmudullah,Mirwais Ashraf,1,0,null,1,0,null,null
+165,26.4,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+166,26.5,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,4,0,null,4,0,null,null
+167,26.6,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,1,0,null,1,0,null,null
+168,27.1,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,null,0,0,null,null
+169,27.2,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,null,0,0,null,null
+170,27.3,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,null,0,0,null,null
+171,27.4,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,null,0,0,null,null
+172,27.5,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,null,0,0,null,null
+173,27.6,Mahmudullah,Tamim Iqbal,Rashid Khan,1,0,null,1,0,null,null
+174,28.1,Mahmudullah,Tamim Iqbal,Naveen-ul-Haq,1,0,null,1,0,null,null
+175,28.2,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,0,1,legbyes ,1,0,null,null
+176,28.3,Mahmudullah,Tamim Iqbal,Naveen-ul-Haq,0,0,null,0,0,null,null
+177,28.4,Mahmudullah,Tamim Iqbal,Naveen-ul-Haq,1,0,null,1,0,null,null
+178,28.5,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,0,0,null,0,0,null,null
+179,28.6,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,0,0,null,0,0,null,null
+180,29.1,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,null,1,0,null,null
+181,29.2,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,null,1,0,null,null
+182,29.3,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,null,1,0,null,null
+183,29.4,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,null,1,0,null,null
+184,29.5,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+185,29.6,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,null,1,0,null,null
+186,30.1,Mahmudullah,Tamim Iqbal,Naveen-ul-Haq,1,0,null,1,0,null,null
+187,30.2,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,0,0,null,0,0,null,null
+188,30.3,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,2,0,null,2,0,null,null
+189,30.4,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,1,0,null,1,0,null,null
+190,30.5,Mahmudullah,Tamim Iqbal,Naveen-ul-Haq,1,0,null,1,0,null,null
+191,30.6,Tamim Iqbal,Mahmudullah,Naveen-ul-Haq,1,0,null,1,0,null,null
+192,31.1,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,null,1,0,null,null
+193,31.2,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,null,1,0,null,null
+194,31.3,Tamim Iqbal,Mahmudullah,Mohammad Nabi,1,0,null,1,0,null,null
+195,31.4,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+196,31.5,Mahmudullah,Tamim Iqbal,Mohammad Nabi,0,0,null,0,0,null,null
+197,31.6,Mahmudullah,Tamim Iqbal,Mohammad Nabi,1,0,null,1,0,null,null
+198,32.1,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+199,32.2,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+200,32.3,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+201,32.4,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,4,0,null,4,0,null,null
+202,32.5,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,0,0,null,0,0,null,null
+203,32.6,Mahmudullah,Tamim Iqbal,Mirwais Ashraf,1,0,null,1,0,null,null
+204,33.1,Mahmudullah,Tamim Iqbal,Dawlat Zadran,1,0,null,1,0,null,null
+205,33.2,Tamim Iqbal,Mahmudullah,Dawlat Zadran,0,0,null,0,0,null,null
+206,33.3,Tamim Iqbal,Mahmudullah,Dawlat Zadran,1,0,null,1,0,null,null
+207,33.4,Mahmudullah,Tamim Iqbal,Dawlat Zadran,4,0,null,4,0,null,null
+208,33.5,Mahmudullah,Tamim Iqbal,Dawlat Zadran,1,0,null,1,0,null,null
+209,33.6,Tamim Iqbal,Mahmudullah,Dawlat Zadran,1,0,null,1,0,null,null
+210,34.1,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,null,0,0,null,null
+211,34.2,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,null,0,0,null,null
+212,34.3,Tamim Iqbal,Mahmudullah,Rashid Khan,0,0,null,0,0,null,null
+213,34.4,Tamim Iqbal,Mahmudullah,Rashid Khan,1,0,null,1,0,null,null
+214,34.5,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,null,0,0,null,null
+215,34.6,Mahmudullah,Tamim Iqbal,Rashid Khan,0,0,null,0,0,null,null
+216,35.1,Tamim Iqbal,Mahmudullah,Mirwais Ashraf,0,0,null,0,1,Tamim Iqbal,caught
+217,35.2,Shakib Al Hasan,Mahmudullah,Mirwais Ashraf,0,0,null,0,0,null,null
+218,35.3,Shakib Al Hasan,Mahmudullah,Mirwais Ashraf,1,0,null,1,0,null,null
+219,35.4,Mahmudullah,Shakib Al Hasan,Mirwais Ashraf,0,0,null,0,0,null,null
+220,35.5,Mahmudullah,Shakib Al Hasan,Mirwais Ashraf,1,0,null,1,0,null,null
+221,35.6,Shakib Al Hasan,Mahmudullah,Mirwais Ashraf,0,0,null,0,0,null,null
+222,36.1,Mahmudullah,Shakib Al Hasan,Rashid Khan,1,0,null,1,0,null,null
+223,36.2,Shakib Al Hasan,Mahmudullah,Rashid Khan,0,0,null,0,0,null,null
+224,36.3,Shakib Al Hasan,Mahmudullah,Rashid Khan,1,0,null,1,0,null,null
+225,36.4,Mahmudullah,Shakib Al Hasan,Rashid Khan,1,0,null,1,0,null,null
+226,36.5,Shakib Al Hasan,Mahmudullah,Rashid Khan,2,0,null,2,0,null,null
+227,36.6,Shakib Al Hasan,Mahmudullah,Rashid Khan,0,0,null,0,0,null,null
+228,37.1,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,4,0,null,4,0,null,null
+229,37.2,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,2,0,null,2,0,null,null
+230,37.3,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,0,0,null,0,0,null,null
+231,37.4,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,4,0,null,4,0,null,null
+232,37.5,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,6,0,null,6,0,null,null
+233,37.6,Mahmudullah,Shakib Al Hasan,Dawlat Zadran,0,0,null,0,0,null,null
+234,38.1,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,0,0,null,0,0,null,null
+235,38.2,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,0,0,null,0,0,null,null
+236,38.3,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,1,0,null,1,0,null,null
+237,38.4,Mahmudullah,Shakib Al Hasan,Mohammad Nabi,0,0,null,0,0,null,null
+238,38.5,Mahmudullah,Shakib Al Hasan,Mohammad Nabi,0,0,null,0,0,null,null
+239,38.6,Mahmudullah,Shakib Al Hasan,Mohammad Nabi,1,0,null,1,0,null,null
+240,39.1,Mahmudullah,Shakib Al Hasan,Naveen-ul-Haq,1,0,null,1,0,null,null
+241,39.2,Shakib Al Hasan,Mahmudullah,Naveen-ul-Haq,1,0,null,1,0,null,null
+242,39.3,Mahmudullah,Shakib Al Hasan,Naveen-ul-Haq,1,0,null,1,0,null,null
+243,39.4,Shakib Al Hasan,Mahmudullah,Naveen-ul-Haq,1,0,null,1,0,null,null
+244,39.5,Mahmudullah,Shakib Al Hasan,Naveen-ul-Haq,1,0,null,1,0,null,null
+245,39.6,Shakib Al Hasan,Mahmudullah,Naveen-ul-Haq,3,0,null,3,0,null,null
+246,40.1,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,4,0,null,4,0,null,null
+247,40.2,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,2,0,null,2,0,null,null
+248,40.3,Shakib Al Hasan,Mahmudullah,Mohammad Nabi,1,0,null,1,0,null,null
+249,40.4,Mahmudullah,Shakib Al Hasan,Mohammad Nabi,0,0,null,0,1,Mahmudullah,caught
+250,40.5,Mushfiqur Rahim,Shakib Al Hasan,Mohammad Nabi,0,0,null,0,0,null,null
+251,40.6,Mushfiqur Rahim,Shakib Al Hasan,Mohammad Nabi,1,0,null,1,0,null,null
+252,41.1,Mushfiqur Rahim,Shakib Al Hasan,Naveen-ul-Haq,1,0,null,1,0,null,null
+253,41.2,Shakib Al Hasan,Mushfiqur Rahim,Naveen-ul-Haq,1,0,null,1,0,null,null
+254,41.3,Mushfiqur Rahim,Shakib Al Hasan,Naveen-ul-Haq,1,0,null,1,0,null,null
+255,41.4,Shakib Al Hasan,Mushfiqur Rahim,Naveen-ul-Haq,2,0,null,2,0,null,null
+256,41.5,Shakib Al Hasan,Mushfiqur Rahim,Naveen-ul-Haq,0,0,null,0,0,null,null
+257,41.6,Shakib Al Hasan,Mushfiqur Rahim,Naveen-ul-Haq,1,0,null,1,0,null,null
+258,42.1,Shakib Al Hasan,Mushfiqur Rahim,Rashid Khan,1,0,null,1,0,null,null
+259,42.2,Mushfiqur Rahim,Shakib Al Hasan,Rashid Khan,1,0,null,1,0,null,null
+260,42.3,Shakib Al Hasan,Mushfiqur Rahim,Rashid Khan,0,0,null,0,0,null,null
+261,42.4,Shakib Al Hasan,Mushfiqur Rahim,Rashid Khan,1,0,null,1,0,null,null
+262,42.5,Mushfiqur Rahim,Shakib Al Hasan,Rashid Khan,2,0,null,2,0,null,null
+263,42.6,Mushfiqur Rahim,Shakib Al Hasan,Rashid Khan,0,0,null,0,1,Mushfiqur Rahim,bowled
+264,43.1,Shakib Al Hasan,Sabbir Rahman,Mirwais Ashraf,4,0,null,4,0,null,null
+265,43.2,Shakib Al Hasan,Sabbir Rahman,Mirwais Ashraf,1,0,null,1,0,null,null
+266,43.3,Sabbir Rahman,Shakib Al Hasan,Mirwais Ashraf,0,0,null,0,0,null,null
+267,43.4,Sabbir Rahman,Shakib Al Hasan,Mirwais Ashraf,1,0,null,1,0,null,null
+268,43.5,Shakib Al Hasan,Sabbir Rahman,Mirwais Ashraf,2,0,null,2,0,null,null
+269,43.6,Shakib Al Hasan,Sabbir Rahman,Mirwais Ashraf,1,0,null,1,0,null,null
+270,44.1,Shakib Al Hasan,Sabbir Rahman,Rashid Khan,1,0,null,1,0,null,null
+271,44.2,Sabbir Rahman,Shakib Al Hasan,Rashid Khan,0,0,null,0,0,null,null
+272,44.3,Sabbir Rahman,Shakib Al Hasan,Rashid Khan,1,0,null,1,0,null,null
+273,44.4,Shakib Al Hasan,Sabbir Rahman,Rashid Khan,1,0,null,1,0,null,null
+274,44.5,Sabbir Rahman,Shakib Al Hasan,Rashid Khan,0,0,null,0,1,Sabbir Rahman,lbw
+275,44.6,Mashrafe Mortaza,Shakib Al Hasan,Rashid Khan,0,0,null,0,0,null,null
+276,45.1,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,0,0,null,0,0,null,null
+277,45.2,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,2,0,null,2,0,null,null
+278,45.3,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,1,0,null,1,0,null,null
+279,45.4,Mashrafe Mortaza,Shakib Al Hasan,Dawlat Zadran,0,0,null,0,0,null,null
+280,45.5,Mashrafe Mortaza,Shakib Al Hasan,Dawlat Zadran,0,1,wides ,1,0,null,null
+281,45.6,Mashrafe Mortaza,Shakib Al Hasan,Dawlat Zadran,1,0,null,1,0,null,null
+282,45.7,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,1,0,null,1,0,null,null
+283,46.1,Shakib Al Hasan,Mashrafe Mortaza,Naveen-ul-Haq,4,0,null,4,0,null,null
+284,46.2,Shakib Al Hasan,Mashrafe Mortaza,Naveen-ul-Haq,1,0,null,1,0,null,null
+285,46.3,Mashrafe Mortaza,Shakib Al Hasan,Naveen-ul-Haq,1,0,null,1,0,null,null
+286,46.4,Shakib Al Hasan,Mashrafe Mortaza,Naveen-ul-Haq,2,0,null,2,0,null,null
+287,46.5,Shakib Al Hasan,Mashrafe Mortaza,Naveen-ul-Haq,2,0,null,2,0,null,null
+288,46.6,Shakib Al Hasan,Mashrafe Mortaza,Naveen-ul-Haq,1,0,null,1,0,null,null
+289,47.1,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,1,0,null,1,0,null,null
+290,47.2,Mashrafe Mortaza,Shakib Al Hasan,Dawlat Zadran,1,0,null,1,0,null,null
+291,47.3,Shakib Al Hasan,Mashrafe Mortaza,Dawlat Zadran,0,0,null,0,1,Shakib Al Hasan,caught
+292,47.4,Taijul Islam,Mashrafe Mortaza,Dawlat Zadran,0,2,wides ,2,0,null,null
+293,47.5,Mashrafe Mortaza,Taijul Islam,Dawlat Zadran,1,0,null,1,0,null,null
+294,47.6,Taijul Islam,Mashrafe Mortaza,Dawlat Zadran,0,1,wides ,1,0,null,null
+295,47.7,Taijul Islam,Mashrafe Mortaza,Dawlat Zadran,0,0,null,0,0,null,null
+296,47.8,Taijul Islam,Mashrafe Mortaza,Dawlat Zadran,1,0,null,1,0,null,null
+297,48.1,Taijul Islam,Mashrafe Mortaza,Naveen-ul-Haq,2,0,null,2,0,null,null
+298,48.2,Taijul Islam,Mashrafe Mortaza,Naveen-ul-Haq,1,0,null,1,0,null,null
+299,48.3,Mashrafe Mortaza,Taijul Islam,Naveen-ul-Haq,0,0,null,0,0,null,null
+300,48.4,Mashrafe Mortaza,Taijul Islam,Naveen-ul-Haq,0,0,null,0,1,Mashrafe Mortaza,caught
+301,48.5,Taijul Islam,Taskin Ahmed,Naveen-ul-Haq,0,1,byes ,1,0,null,null
+302,48.6,Taskin Ahmed,Taijul Islam,Naveen-ul-Haq,2,0,null,2,0,null,null
+303,49.1,Taijul Islam,Taskin Ahmed,Dawlat Zadran,2,0,null,2,0,null,null
+304,49.2,Taijul Islam,Taskin Ahmed,Dawlat Zadran,1,0,null,1,0,null,null
+305,49.3,Taskin Ahmed,Taijul Islam,Dawlat Zadran,0,0,null,0,1,Taskin Ahmed,bowled
+306,49.4,Rubel Hossain,Taijul Islam,Dawlat Zadran,1,0,null,1,0,null,null
+307,49.5,Taijul Islam,Rubel Hossain,Dawlat Zadran,4,0,null,4,0,null,null
+308,49.6,Taijul Islam,Rubel Hossain,Dawlat Zadran,0,0,null,0,1,Taijul Islam,caught

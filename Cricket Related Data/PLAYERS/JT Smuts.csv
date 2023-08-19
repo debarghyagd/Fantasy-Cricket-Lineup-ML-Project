@@ -1,0 +1,18 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1251574,"SuperSport Park, Centurion",Pakistan,Usman Qadir,Right-arm legbreak,"[1, 1, 1]",1,8,9,1,0
+1,1251574,"SuperSport Park, Centurion",Pakistan,Haris Rauf,Right-arm fast,"[0, 1, 0]",0,9,10,1,0
+2,1185320,Mangaung Oval,Australia,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,15,22,2,0
+3,1185320,Mangaung Oval,Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,2,6,0,0
+4,1185320,Mangaung Oval,Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",0,11,15,1,0
+5,1185320,Mangaung Oval,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",1,6,11,0,0
+6,1185320,Mangaung Oval,Australia,M Labuschagne,Right-arm legbreak,"[1, 1, 1]",0,3,3,0,0
+7,1185321,Senwes Park,Australia,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+8,1185321,Senwes Park,Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,31,35,5,0
+9,1185321,Senwes Park,Australia,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",1,7,15,0,0
+10,1185321,Senwes Park,Australia,JA Richardson,Right-arm fast,"[0, 1, 0]",0,18,16,3,0
+11,1185321,Senwes Park,Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,15,19,3,0
+12,1185310,Newlands,England,MW Parkinson,Right-arm legbreak,"[1, 1, 1]",0,5,5,1,0
+13,1185310,Newlands,England,CJ Jordan,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+14,1185312,The Wanderers Stadium,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,23,21,2,1
+15,1185312,The Wanderers Stadium,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,7,14,0,0
+16,1185312,The Wanderers Stadium,England,CJ Jordan,Right-arm fast-medium,"[0, 1, 1]",1,1,3,0,0

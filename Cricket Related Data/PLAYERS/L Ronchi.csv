@@ -1,0 +1,23 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1022349,Edgbaston,New Zealand,PJ Cummins,Right-arm fast,"[0, 1, 0]",0,41,17,5,3
+1,1022349,Edgbaston,New Zealand,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,7,5,1,0
+2,1022349,Edgbaston,New Zealand,MA Starc,Left-arm fast,"[0, 0, 0]",0,6,7,1,0
+3,578620,Edgbaston,New Zealand,CJ McKay,Right-arm fast-medium,"[0, 1, 1]",1,2,7,0,0
+4,578620,Edgbaston,New Zealand,MG Johnson,Left-arm fast,"[0, 0, 0]",0,8,5,1,0
+5,578620,Edgbaston,New Zealand,SR Watson,Right-arm fast-medium,"[0, 1, 1]",0,4,5,1,0
+6,656495,Melbourne Cricket Ground,New Zealand,MA Starc,Left-arm fast,"[0, 0, 0]",1,0,1,0,0
+7,656437,Eden Park,New Zealand,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,6,2,0,1
+8,656437,Eden Park,New Zealand,MA Starc,Left-arm fast,"[0, 0, 0]",1,0,6,0,0
+9,914231,Eden Park,New Zealand,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",0,0,2,0,0
+10,914231,Eden Park,New Zealand,KW Richardson,Right-arm fast-medium,"[0, 1, 1]",0,13,15,2,0
+11,914231,Eden Park,New Zealand,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+12,914233,Westpac Stadium,New Zealand,GJ Maxwell,Right-arm offbreak,"[1, 1, 0]",0,9,6,0,1
+13,914233,Westpac Stadium,New Zealand,SM Boland,Right-arm fast-medium,"[0, 1, 1]",1,1,3,0,0
+14,914233,Westpac Stadium,New Zealand,A Zampa,Right-arm legbreak,"[1, 1, 1]",0,7,6,0,0
+15,914235,Seddon Park,New Zealand,MR Marsh,Right-arm fast-medium,"[0, 1, 1]",1,3,4,0,0
+16,914235,Seddon Park,New Zealand,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,2,5,0,0
+17,319146,"Warner Park, Basseterre",West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,4,4,0,0
+18,319146,"Warner Park, Basseterre",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",1,4,2,1,0
+19,319147,"Warner Park, Basseterre",West Indies,NO Miller,Left-arm orthodox,"[1, 0, 1]",1,0,1,0,0
+20,319147,"Warner Park, Basseterre",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,18,8,3,0
+21,319147,"Warner Park, Basseterre",West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,24,9,1,3

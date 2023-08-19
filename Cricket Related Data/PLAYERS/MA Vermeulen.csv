@@ -1,0 +1,50 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,64900,Harare Sports Club,Australia,JN Gillespie,Right-arm fast,"[0, 1, 0]",0,6,5,1,0
+1,64900,Harare Sports Club,Australia,MS Kasprowicz,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+2,64900,Harare Sports Club,Australia,DS Lehmann,Left-arm orthodox,"[1, 0, 1]",1,0,1,0,0
+3,64900,Harare Sports Club,Australia,GB Hogg,Left-arm chinaman,"[1, 0, 0]",0,17,15,1,0
+4,65644,Sydney Cricket Ground,Australia,JN Gillespie,Right-arm fast,"[0, 1, 0]",0,5,7,0,0
+5,65646,Bellerive Oval,Australia,B Lee,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+6,422629,Zohur Ahmed Chowdhury Stadium,Bangladesh,Nazmul Hossain,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+7,422630,Zohur Ahmed Chowdhury Stadium,Bangladesh,Nazmul Hossain,Right-arm fast-medium,"[0, 1, 1]",0,6,12,1,0
+8,64913,Queens Sports Club,England,D Gough,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+9,66196,Edgbaston,England,SJ Harmison,Right-arm fast-medium,"[0, 1, 1]",1,0,4,0,0
+10,65648,Brisbane Cricket Ground,India,L Balaji,Right-arm fast-medium,"[0, 1, 1]",0,0,2,0,0
+11,65648,Brisbane Cricket Ground,India,A Nehra,Left-arm fast-medium,"[0, 0, 1]",0,11,7,2,0
+12,66378,Multan Cricket Stadium,Pakistan,Iftikhar Anjum,Right-arm medium,"[0, 1, 2]",1,9,4,2,0
+13,430508,Willowmoore Park,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",1,4,11,0,0
+14,430508,Willowmoore Park,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,4,7,0,0
+15,64848,"Queens Sports Club, Bulawayo",West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,14,33,2,0
+16,64848,"Queens Sports Club, Bulawayo",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,9,8,2,0
+17,64848,"Queens Sports Club, Bulawayo",West Indies,CD Collymore,Right-arm fast-medium,"[0, 1, 1]",0,14,14,2,0
+18,64851,Harare Sports Club,West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",1,2,6,0,0
+19,64899,Harare Sports Club,Australia,A Symonds,Right-arm medium,"[0, 1, 2]",0,10,6,0,1
+20,64899,Harare Sports Club,Australia,MS Kasprowicz,Right-arm fast-medium,"[0, 1, 1]",1,5,6,1,0
+21,64901,Harare Sports Club,Australia,JN Gillespie,Right-arm fast,"[0, 1, 0]",1,12,10,2,0
+22,64901,Harare Sports Club,Australia,MS Kasprowicz,Right-arm fast-medium,"[0, 1, 1]",0,5,5,1,0
+23,410337,Queens Sports Club,Bangladesh,Nazmul Hossain,Right-arm fast-medium,"[0, 1, 1]",0,19,26,3,0
+24,410337,Queens Sports Club,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,15,19,1,0
+25,410337,Queens Sports Club,Bangladesh,Syed Rasel,Left-arm fast-medium,"[0, 0, 1]",0,7,13,0,0
+26,410337,Queens Sports Club,Bangladesh,Enamul Haque jnr,Left-arm orthodox,"[1, 0, 1]",0,23,37,2,0
+27,410337,Queens Sports Club,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,20,21,0,0
+28,410338,Queens Sports Club,Bangladesh,Syed Rasel,Left-arm fast-medium,"[0, 0, 1]",1,13,12,3,0
+29,410338,Queens Sports Club,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,3,2,0,0
+30,410339,Queens Sports Club,Bangladesh,Mahbubul Alam,Right-arm fast-medium,"[0, 1, 1]",1,9,9,2,0
+31,410339,Queens Sports Club,Bangladesh,Syed Rasel,Left-arm fast-medium,"[0, 0, 1]",0,2,9,0,0
+32,410340,Queens Sports Club,Bangladesh,Mahbubul Alam,Right-arm fast-medium,"[0, 1, 1]",1,4,3,1,0
+33,410340,Queens Sports Club,Bangladesh,Syed Rasel,Left-arm fast-medium,"[0, 0, 1]",0,1,2,0,0
+34,64910,Harare Sports Club,England,AF Giles,Left-arm orthodox,"[1, 0, 1]",0,2,7,0,0
+35,65645,Bellerive Oval,India,A Kumble,Right-arm legbreak,"[1, 1, 1]",1,0,4,0,0
+36,65645,Bellerive Oval,India,L Balaji,Right-arm fast-medium,"[0, 1, 1]",0,1,13,0,0
+37,66379,Arbab Niaz Stadium,Pakistan,Naved-ul-Hasan,Right-arm fast-medium,"[0, 1, 1]",1,1,2,0,0
+38,66201,Kennington Oval,Sri Lanka,ST Jayasuriya,Left-arm orthodox,"[1, 0, 1]",0,6,9,0,0
+39,66201,Kennington Oval,Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",1,5,10,1,0
+40,66201,Kennington Oval,Sri Lanka,WPUJC Vaas,Left-arm fast-medium,"[0, 0, 1]",0,5,8,1,0
+41,66381,Rawalpindi Cricket Stadium,Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",0,0,5,0,0
+42,66381,Rawalpindi Cricket Stadium,Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",1,4,5,1,0
+43,64849,Harare Sports Club,West Indies,WW Hinds,Right-arm medium,"[0, 1, 2]",0,22,34,1,0
+44,64849,Harare Sports Club,West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,13,8,2,0
+45,64849,Harare Sports Club,West Indies,CD Collymore,Right-arm fast-medium,"[0, 1, 1]",0,12,16,1,0
+46,64852,Harare Sports Club,West Indies,R Rampaul,Right-arm fast-medium,"[0, 1, 1]",0,2,12,0,0
+47,64852,Harare Sports Club,West Indies,FH Edwards,Right-arm fast,"[0, 1, 0]",0,1,1,0,0
+48,64852,Harare Sports Club,West Indies,CD Collymore,Right-arm fast-medium,"[0, 1, 1]",0,10,14,0,0

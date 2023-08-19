@@ -1,0 +1,265 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,HM Amla,Q de Kock,B Kumar,0,0,null,0,0,null,null
+1,0.2,HM Amla,Q de Kock,B Kumar,1,0,null,1,0,null,null
+2,0.3,Q de Kock,HM Amla,B Kumar,4,0,null,4,0,null,null
+3,0.4,Q de Kock,HM Amla,B Kumar,0,0,null,0,0,null,null
+4,0.5,Q de Kock,HM Amla,B Kumar,0,0,null,0,0,null,null
+5,0.6,Q de Kock,HM Amla,B Kumar,0,0,null,0,0,null,null
+6,1.1,HM Amla,Q de Kock,UT Yadav,4,0,null,4,0,null,null
+7,1.2,HM Amla,Q de Kock,UT Yadav,1,0,null,1,0,null,null
+8,1.3,Q de Kock,HM Amla,UT Yadav,0,0,null,0,0,null,null
+9,1.4,Q de Kock,HM Amla,UT Yadav,0,0,null,0,0,null,null
+10,1.5,Q de Kock,HM Amla,UT Yadav,0,0,null,0,0,null,null
+11,1.6,Q de Kock,HM Amla,UT Yadav,1,0,null,1,0,null,null
+12,2.1,Q de Kock,HM Amla,B Kumar,1,0,null,1,0,null,null
+13,2.2,HM Amla,Q de Kock,B Kumar,0,0,null,0,0,null,null
+14,2.3,HM Amla,Q de Kock,B Kumar,1,0,null,1,0,null,null
+15,2.4,Q de Kock,HM Amla,B Kumar,4,0,null,4,0,null,null
+16,2.5,Q de Kock,HM Amla,B Kumar,1,0,null,1,0,null,null
+17,2.6,HM Amla,Q de Kock,B Kumar,0,0,null,0,0,null,null
+18,3.1,Q de Kock,HM Amla,UT Yadav,0,0,null,0,0,null,null
+19,3.2,Q de Kock,HM Amla,UT Yadav,4,0,null,4,0,null,null
+20,3.3,Q de Kock,HM Amla,UT Yadav,2,0,null,2,0,null,null
+21,3.4,Q de Kock,HM Amla,UT Yadav,1,0,null,1,0,null,null
+22,3.5,HM Amla,Q de Kock,UT Yadav,0,0,null,0,0,null,null
+23,3.6,HM Amla,Q de Kock,UT Yadav,4,0,null,4,0,null,null
+24,4.1,Q de Kock,HM Amla,B Kumar,0,0,null,0,0,null,null
+25,4.2,Q de Kock,HM Amla,B Kumar,0,0,null,0,0,null,null
+26,4.3,Q de Kock,HM Amla,B Kumar,0,0,null,0,0,null,null
+27,4.4,Q de Kock,HM Amla,B Kumar,3,0,null,3,0,null,null
+28,4.5,HM Amla,Q de Kock,B Kumar,0,0,null,0,0,null,null
+29,4.6,HM Amla,Q de Kock,B Kumar,0,0,null,0,0,null,null
+30,5.1,Q de Kock,HM Amla,Harbhajan Singh,0,0,null,0,0,null,null
+31,5.2,Q de Kock,HM Amla,Harbhajan Singh,0,0,null,0,0,null,null
+32,5.3,Q de Kock,HM Amla,Harbhajan Singh,1,0,null,1,0,null,null
+33,5.4,HM Amla,Q de Kock,Harbhajan Singh,1,0,null,1,0,null,null
+34,5.5,Q de Kock,HM Amla,Harbhajan Singh,1,0,null,1,0,null,null
+35,5.6,HM Amla,Q de Kock,Harbhajan Singh,1,0,null,1,0,null,null
+36,6.1,HM Amla,Q de Kock,AR Patel,0,0,null,0,0,null,null
+37,6.2,HM Amla,Q de Kock,AR Patel,4,0,null,4,0,null,null
+38,6.3,HM Amla,Q de Kock,AR Patel,0,0,null,0,0,null,null
+39,6.4,HM Amla,Q de Kock,AR Patel,0,0,null,0,1,HM Amla,stumped
+40,6.5,F du Plessis,Q de Kock,AR Patel,0,0,null,0,0,null,null
+41,6.6,F du Plessis,Q de Kock,AR Patel,0,0,null,0,0,null,null
+42,7.1,Q de Kock,F du Plessis,Harbhajan Singh,0,0,null,0,0,null,null
+43,7.2,Q de Kock,F du Plessis,Harbhajan Singh,1,0,null,1,0,null,null
+44,7.3,F du Plessis,Q de Kock,Harbhajan Singh,0,0,null,0,0,null,null
+45,7.4,F du Plessis,Q de Kock,Harbhajan Singh,1,0,null,1,0,null,null
+46,7.5,Q de Kock,F du Plessis,Harbhajan Singh,0,0,null,0,0,null,null
+47,7.6,Q de Kock,F du Plessis,Harbhajan Singh,1,0,null,1,0,null,null
+48,8.1,Q de Kock,F du Plessis,AR Patel,0,0,null,0,0,null,null
+49,8.2,Q de Kock,F du Plessis,AR Patel,0,0,null,0,0,null,null
+50,8.3,Q de Kock,F du Plessis,AR Patel,4,0,null,4,0,null,null
+51,8.4,Q de Kock,F du Plessis,AR Patel,0,0,null,0,0,null,null
+52,8.5,Q de Kock,F du Plessis,AR Patel,0,0,null,0,0,null,null
+53,8.6,Q de Kock,F du Plessis,AR Patel,1,0,null,1,0,null,null
+54,9.1,Q de Kock,F du Plessis,Harbhajan Singh,4,0,null,4,0,null,null
+55,9.2,Q de Kock,F du Plessis,Harbhajan Singh,0,0,null,0,0,null,null
+56,9.3,Q de Kock,F du Plessis,Harbhajan Singh,0,0,null,0,1,Q de Kock,caught
+57,9.4,JP Duminy,F du Plessis,Harbhajan Singh,0,0,null,0,0,null,null
+58,9.5,JP Duminy,F du Plessis,Harbhajan Singh,4,0,null,4,0,null,null
+59,9.6,JP Duminy,F du Plessis,Harbhajan Singh,0,0,null,0,0,null,null
+60,10.1,F du Plessis,JP Duminy,AR Patel,0,0,null,0,0,null,null
+61,10.2,F du Plessis,JP Duminy,AR Patel,0,0,null,0,0,null,null
+62,10.3,F du Plessis,JP Duminy,AR Patel,1,0,null,1,0,null,null
+63,10.4,JP Duminy,F du Plessis,AR Patel,0,0,null,0,0,null,null
+64,10.5,JP Duminy,F du Plessis,AR Patel,1,0,null,1,0,null,null
+65,10.6,F du Plessis,JP Duminy,AR Patel,0,0,null,0,0,null,null
+66,11.1,JP Duminy,F du Plessis,Harbhajan Singh,0,0,null,0,0,null,null
+67,11.2,JP Duminy,F du Plessis,Harbhajan Singh,0,0,null,0,0,null,null
+68,11.3,JP Duminy,F du Plessis,Harbhajan Singh,2,0,null,2,0,null,null
+69,11.4,JP Duminy,F du Plessis,Harbhajan Singh,0,0,null,0,0,null,null
+70,11.5,JP Duminy,F du Plessis,Harbhajan Singh,1,0,null,1,0,null,null
+71,11.6,F du Plessis,JP Duminy,Harbhajan Singh,0,0,null,0,0,null,null
+72,12.1,JP Duminy,F du Plessis,AR Patel,0,0,null,0,0,null,null
+73,12.2,JP Duminy,F du Plessis,AR Patel,1,0,null,1,0,null,null
+74,12.3,F du Plessis,JP Duminy,AR Patel,1,0,null,1,0,null,null
+75,12.4,JP Duminy,F du Plessis,AR Patel,0,0,null,0,0,null,null
+76,12.5,JP Duminy,F du Plessis,AR Patel,0,0,null,0,0,null,null
+77,12.6,JP Duminy,F du Plessis,AR Patel,0,0,null,0,0,null,null
+78,13.1,F du Plessis,JP Duminy,Harbhajan Singh,1,0,null,1,0,null,null
+79,13.2,JP Duminy,F du Plessis,Harbhajan Singh,1,0,null,1,0,null,null
+80,13.3,F du Plessis,JP Duminy,Harbhajan Singh,0,0,null,0,0,null,null
+81,13.4,F du Plessis,JP Duminy,Harbhajan Singh,1,0,null,1,0,null,null
+82,13.5,JP Duminy,F du Plessis,Harbhajan Singh,1,0,null,1,0,null,null
+83,13.6,F du Plessis,JP Duminy,Harbhajan Singh,1,0,null,1,0,null,null
+84,14.1,F du Plessis,JP Duminy,AR Patel,1,0,null,1,0,null,null
+85,14.2,JP Duminy,F du Plessis,AR Patel,1,0,null,1,0,null,null
+86,14.3,F du Plessis,JP Duminy,AR Patel,1,0,null,1,0,null,null
+87,14.4,JP Duminy,F du Plessis,AR Patel,1,0,null,1,0,null,null
+88,14.5,F du Plessis,JP Duminy,AR Patel,0,0,null,0,0,null,null
+89,14.6,F du Plessis,JP Duminy,AR Patel,1,0,null,1,0,null,null
+90,15.1,F du Plessis,JP Duminy,Harbhajan Singh,0,0,null,0,0,null,null
+91,15.2,F du Plessis,JP Duminy,Harbhajan Singh,1,0,null,1,0,null,null
+92,15.3,JP Duminy,F du Plessis,Harbhajan Singh,1,0,null,1,0,null,null
+93,15.4,F du Plessis,JP Duminy,Harbhajan Singh,1,0,null,1,0,null,null
+94,15.5,JP Duminy,F du Plessis,Harbhajan Singh,1,0,null,1,0,null,null
+95,15.6,F du Plessis,JP Duminy,Harbhajan Singh,0,0,null,0,0,null,null
+96,16.1,JP Duminy,F du Plessis,MM Sharma,0,0,null,0,0,null,null
+97,16.2,JP Duminy,F du Plessis,MM Sharma,0,0,null,0,0,null,null
+98,16.3,JP Duminy,F du Plessis,MM Sharma,1,0,null,1,0,null,null
+99,16.4,F du Plessis,JP Duminy,MM Sharma,0,0,null,0,0,null,null
+100,16.5,F du Plessis,JP Duminy,MM Sharma,1,0,null,1,0,null,null
+101,16.6,JP Duminy,F du Plessis,MM Sharma,0,0,null,0,0,null,null
+102,17.1,F du Plessis,JP Duminy,AR Patel,1,0,null,1,0,null,null
+103,17.2,JP Duminy,F du Plessis,AR Patel,1,0,null,1,0,null,null
+104,17.3,F du Plessis,JP Duminy,AR Patel,0,0,null,0,0,null,null
+105,17.4,F du Plessis,JP Duminy,AR Patel,4,0,null,4,0,null,null
+106,17.5,F du Plessis,JP Duminy,AR Patel,1,0,null,1,0,null,null
+107,17.6,JP Duminy,F du Plessis,AR Patel,1,0,null,1,0,null,null
+108,18.1,JP Duminy,F du Plessis,MM Sharma,0,0,null,0,0,null,null
+109,18.2,JP Duminy,F du Plessis,MM Sharma,1,0,null,1,0,null,null
+110,18.3,F du Plessis,JP Duminy,MM Sharma,3,0,null,3,0,null,null
+111,18.4,JP Duminy,F du Plessis,MM Sharma,0,1,legbyes ,1,0,null,null
+112,18.5,F du Plessis,JP Duminy,MM Sharma,1,0,null,1,0,null,null
+113,18.6,JP Duminy,F du Plessis,MM Sharma,0,0,null,0,0,null,null
+114,19.1,F du Plessis,JP Duminy,SK Raina,1,0,null,1,0,null,null
+115,19.2,JP Duminy,F du Plessis,SK Raina,2,0,null,2,0,null,null
+116,19.3,JP Duminy,F du Plessis,SK Raina,2,0,null,2,0,null,null
+117,19.4,JP Duminy,F du Plessis,SK Raina,1,0,null,1,0,null,null
+118,19.5,F du Plessis,JP Duminy,SK Raina,4,0,null,4,0,null,null
+119,19.6,F du Plessis,JP Duminy,SK Raina,0,0,null,0,0,null,null
+120,20.1,JP Duminy,F du Plessis,UT Yadav,1,0,null,1,0,null,null
+121,20.2,F du Plessis,JP Duminy,UT Yadav,0,0,null,0,0,null,null
+122,20.3,F du Plessis,JP Duminy,UT Yadav,1,0,null,1,0,null,null
+123,20.4,JP Duminy,F du Plessis,UT Yadav,0,1,legbyes ,1,0,null,null
+124,20.5,F du Plessis,JP Duminy,UT Yadav,4,0,null,4,0,null,null
+125,20.6,F du Plessis,JP Duminy,UT Yadav,0,0,null,0,0,null,null
+126,21.1,JP Duminy,F du Plessis,SK Raina,1,0,null,1,0,null,null
+127,21.2,F du Plessis,JP Duminy,SK Raina,1,0,null,1,0,null,null
+128,21.3,JP Duminy,F du Plessis,SK Raina,1,0,null,1,0,null,null
+129,21.4,F du Plessis,JP Duminy,SK Raina,4,0,null,4,0,null,null
+130,21.5,F du Plessis,JP Duminy,SK Raina,0,0,null,0,0,null,null
+131,21.6,F du Plessis,JP Duminy,SK Raina,1,0,null,1,0,null,null
+132,22.1,F du Plessis,JP Duminy,UT Yadav,4,0,null,4,0,null,null
+133,22.2,F du Plessis,JP Duminy,UT Yadav,1,0,null,1,0,null,null
+134,22.3,JP Duminy,F du Plessis,UT Yadav,4,0,null,4,0,null,null
+135,22.4,JP Duminy,F du Plessis,UT Yadav,0,0,null,0,0,null,null
+136,22.5,JP Duminy,F du Plessis,UT Yadav,0,0,null,0,0,null,null
+137,22.6,JP Duminy,F du Plessis,UT Yadav,4,0,null,4,0,null,null
+138,23.1,F du Plessis,JP Duminy,AR Patel,1,0,null,1,0,null,null
+139,23.2,JP Duminy,F du Plessis,AR Patel,1,0,null,1,0,null,null
+140,23.3,F du Plessis,JP Duminy,AR Patel,1,0,null,1,0,null,null
+141,23.4,JP Duminy,F du Plessis,AR Patel,0,0,null,0,0,null,null
+142,23.5,JP Duminy,F du Plessis,AR Patel,0,0,null,0,0,null,null
+143,23.6,JP Duminy,F du Plessis,AR Patel,0,0,null,0,1,JP Duminy,lbw
+144,24.1,F du Plessis,AB de Villiers,B Kumar,0,0,null,0,0,null,null
+145,24.2,F du Plessis,AB de Villiers,B Kumar,0,0,null,0,0,null,null
+146,24.3,F du Plessis,AB de Villiers,B Kumar,0,0,null,0,0,null,null
+147,24.4,F du Plessis,AB de Villiers,B Kumar,0,0,null,0,0,null,null
+148,24.5,F du Plessis,AB de Villiers,B Kumar,4,0,null,4,0,null,null
+149,24.6,F du Plessis,AB de Villiers,B Kumar,1,0,null,1,0,null,null
+150,25.1,F du Plessis,AB de Villiers,AR Patel,0,0,null,0,0,null,null
+151,25.2,F du Plessis,AB de Villiers,AR Patel,0,0,null,0,0,null,null
+152,25.3,F du Plessis,AB de Villiers,AR Patel,1,0,null,1,0,null,null
+153,25.4,AB de Villiers,F du Plessis,AR Patel,1,0,null,1,0,null,null
+154,25.5,F du Plessis,AB de Villiers,AR Patel,0,0,null,0,0,null,null
+155,25.6,F du Plessis,AB de Villiers,AR Patel,0,0,null,0,1,F du Plessis,caught
+156,26.1,AB de Villiers,DA Miller,B Kumar,1,0,null,1,0,null,null
+157,26.2,DA Miller,AB de Villiers,B Kumar,0,0,null,0,1,DA Miller,caught
+158,26.3,F Behardien,AB de Villiers,B Kumar,0,0,null,0,0,null,null
+159,26.4,F Behardien,AB de Villiers,B Kumar,0,0,null,0,0,null,null
+160,26.5,F Behardien,AB de Villiers,B Kumar,0,0,null,0,0,null,null
+161,26.6,F Behardien,AB de Villiers,B Kumar,0,0,null,0,0,null,null
+162,27.1,AB de Villiers,F Behardien,AR Patel,1,0,null,1,0,null,null
+163,27.2,F Behardien,AB de Villiers,AR Patel,0,0,null,0,0,null,null
+164,27.3,F Behardien,AB de Villiers,AR Patel,1,0,null,1,0,null,null
+165,27.4,AB de Villiers,F Behardien,AR Patel,1,0,null,1,0,null,null
+166,27.5,F Behardien,AB de Villiers,AR Patel,1,0,null,1,0,null,null
+167,27.6,AB de Villiers,F Behardien,AR Patel,1,0,null,1,0,null,null
+168,28.1,AB de Villiers,F Behardien,B Kumar,1,0,null,1,0,null,null
+169,28.2,F Behardien,AB de Villiers,B Kumar,0,0,null,0,0,null,null
+170,28.3,F Behardien,AB de Villiers,B Kumar,1,0,null,1,0,null,null
+171,28.4,AB de Villiers,F Behardien,B Kumar,0,0,null,0,0,null,null
+172,28.5,AB de Villiers,F Behardien,B Kumar,0,0,null,0,0,null,null
+173,28.6,AB de Villiers,F Behardien,B Kumar,0,0,null,0,0,null,null
+174,29.1,F Behardien,AB de Villiers,AR Patel,0,0,null,0,0,null,null
+175,29.2,F Behardien,AB de Villiers,AR Patel,0,0,null,0,0,null,null
+176,29.3,F Behardien,AB de Villiers,AR Patel,1,0,null,1,0,null,null
+177,29.4,AB de Villiers,F Behardien,AR Patel,1,0,null,1,0,null,null
+178,29.5,F Behardien,AB de Villiers,AR Patel,1,0,null,1,0,null,null
+179,29.6,AB de Villiers,F Behardien,AR Patel,0,0,null,0,0,null,null
+180,30.1,F Behardien,AB de Villiers,B Kumar,1,0,null,1,0,null,null
+181,30.2,AB de Villiers,F Behardien,B Kumar,4,0,null,4,0,null,null
+182,30.3,AB de Villiers,F Behardien,B Kumar,0,0,null,0,0,null,null
+183,30.4,AB de Villiers,F Behardien,B Kumar,0,0,null,0,0,null,null
+184,30.5,AB de Villiers,F Behardien,B Kumar,0,0,null,0,0,null,null
+185,30.6,AB de Villiers,F Behardien,B Kumar,6,0,null,6,0,null,null
+186,31.1,F Behardien,AB de Villiers,Harbhajan Singh,0,0,null,0,0,null,null
+187,31.2,F Behardien,AB de Villiers,Harbhajan Singh,1,0,null,1,0,null,null
+188,31.3,AB de Villiers,F Behardien,Harbhajan Singh,1,0,null,1,0,null,null
+189,31.4,F Behardien,AB de Villiers,Harbhajan Singh,1,0,null,1,0,null,null
+190,31.5,AB de Villiers,F Behardien,Harbhajan Singh,0,0,null,0,0,null,null
+191,31.6,AB de Villiers,F Behardien,Harbhajan Singh,1,0,null,1,0,null,null
+192,32.1,AB de Villiers,F Behardien,MM Sharma,0,0,null,0,1,AB de Villiers,caught
+193,32.2,DW Steyn,F Behardien,MM Sharma,0,1,wides ,1,0,null,null
+194,32.3,DW Steyn,F Behardien,MM Sharma,0,0,null,0,0,null,null
+195,32.4,DW Steyn,F Behardien,MM Sharma,0,0,null,0,0,null,null
+196,32.5,DW Steyn,F Behardien,MM Sharma,0,0,null,0,0,null,null
+197,32.6,DW Steyn,F Behardien,MM Sharma,1,0,null,1,0,null,null
+198,32.7,F Behardien,DW Steyn,MM Sharma,2,0,null,2,0,null,null
+199,33.1,DW Steyn,F Behardien,Harbhajan Singh,0,0,null,0,0,null,null
+200,33.2,DW Steyn,F Behardien,Harbhajan Singh,6,0,null,6,0,null,null
+201,33.3,DW Steyn,F Behardien,Harbhajan Singh,4,0,null,4,0,null,null
+202,33.4,DW Steyn,F Behardien,Harbhajan Singh,0,0,null,0,0,null,null
+203,33.5,DW Steyn,F Behardien,Harbhajan Singh,0,0,null,0,0,null,null
+204,33.6,DW Steyn,F Behardien,Harbhajan Singh,0,0,null,0,0,null,null
+205,34.1,F Behardien,DW Steyn,MM Sharma,1,0,null,1,0,null,null
+206,34.2,DW Steyn,F Behardien,MM Sharma,0,0,null,0,0,null,null
+207,34.3,DW Steyn,F Behardien,MM Sharma,1,0,null,1,0,null,null
+208,34.4,F Behardien,DW Steyn,MM Sharma,0,0,null,0,0,null,null
+209,34.5,F Behardien,DW Steyn,MM Sharma,1,0,null,1,0,null,null
+210,34.6,DW Steyn,F Behardien,MM Sharma,0,0,null,0,0,null,null
+211,35.1,F Behardien,DW Steyn,Harbhajan Singh,0,0,null,0,0,null,null
+212,35.2,F Behardien,DW Steyn,Harbhajan Singh,0,1,legbyes ,1,0,null,null
+213,35.3,DW Steyn,F Behardien,Harbhajan Singh,0,0,null,0,0,null,null
+214,35.4,DW Steyn,F Behardien,Harbhajan Singh,1,0,null,1,0,null,null
+215,35.5,F Behardien,DW Steyn,Harbhajan Singh,0,0,null,0,0,null,null
+216,35.6,F Behardien,DW Steyn,Harbhajan Singh,0,0,null,0,0,null,null
+217,36.1,DW Steyn,F Behardien,UT Yadav,0,0,null,0,1,DW Steyn,caught
+218,36.2,K Rabada,F Behardien,UT Yadav,1,0,null,1,0,null,null
+219,36.3,F Behardien,K Rabada,UT Yadav,1,0,null,1,0,null,null
+220,36.4,K Rabada,F Behardien,UT Yadav,0,0,null,0,0,null,null
+221,36.5,K Rabada,F Behardien,UT Yadav,0,0,null,0,0,null,null
+222,36.6,K Rabada,F Behardien,UT Yadav,0,0,null,0,0,null,null
+223,37.1,F Behardien,K Rabada,MM Sharma,0,0,null,0,0,null,null
+224,37.2,F Behardien,K Rabada,MM Sharma,1,0,null,1,0,null,null
+225,37.3,K Rabada,F Behardien,MM Sharma,4,0,null,4,0,null,null
+226,37.4,K Rabada,F Behardien,MM Sharma,0,0,null,0,0,null,null
+227,37.5,K Rabada,F Behardien,MM Sharma,1,0,null,1,0,null,null
+228,37.6,F Behardien,K Rabada,MM Sharma,1,0,null,1,0,null,null
+229,38.1,F Behardien,K Rabada,UT Yadav,2,0,null,2,0,null,null
+230,38.2,F Behardien,K Rabada,UT Yadav,1,0,null,1,0,null,null
+231,38.3,K Rabada,F Behardien,UT Yadav,0,0,null,0,0,null,null
+232,38.4,K Rabada,F Behardien,UT Yadav,0,0,null,0,0,null,null
+233,38.5,K Rabada,F Behardien,UT Yadav,1,0,null,1,0,null,null
+234,38.6,F Behardien,K Rabada,UT Yadav,0,0,null,0,0,null,null
+235,39.1,K Rabada,F Behardien,Harbhajan Singh,0,0,null,0,0,null,null
+236,39.2,K Rabada,F Behardien,Harbhajan Singh,1,0,null,1,0,null,null
+237,39.3,F Behardien,K Rabada,Harbhajan Singh,0,0,null,0,1,F Behardien,caught
+238,39.4,Imran Tahir,K Rabada,Harbhajan Singh,0,1,wides ,1,0,null,null
+239,39.5,Imran Tahir,K Rabada,Harbhajan Singh,0,0,null,0,0,null,null
+240,39.6,Imran Tahir,K Rabada,Harbhajan Singh,6,0,null,6,0,null,null
+241,39.7,Imran Tahir,K Rabada,Harbhajan Singh,1,0,null,1,0,null,null
+242,40.1,Imran Tahir,K Rabada,UT Yadav,0,0,null,0,0,null,null
+243,40.2,Imran Tahir,K Rabada,UT Yadav,1,0,null,1,0,null,null
+244,40.3,K Rabada,Imran Tahir,UT Yadav,1,0,null,1,0,null,null
+245,40.4,Imran Tahir,K Rabada,UT Yadav,0,0,null,0,0,null,null
+246,40.5,Imran Tahir,K Rabada,UT Yadav,0,0,null,0,0,null,null
+247,40.6,Imran Tahir,K Rabada,UT Yadav,0,0,null,0,0,null,null
+248,41.1,K Rabada,Imran Tahir,B Kumar,0,0,null,0,0,null,null
+249,41.2,K Rabada,Imran Tahir,B Kumar,0,0,null,0,0,null,null
+250,41.3,K Rabada,Imran Tahir,B Kumar,1,0,null,1,0,null,null
+251,41.4,Imran Tahir,K Rabada,B Kumar,1,0,null,1,0,null,null
+252,41.5,K Rabada,Imran Tahir,B Kumar,1,0,null,1,0,null,null
+253,41.6,Imran Tahir,K Rabada,B Kumar,0,0,null,0,0,null,null
+254,42.1,K Rabada,Imran Tahir,UT Yadav,0,0,null,0,0,null,null
+255,42.2,K Rabada,Imran Tahir,UT Yadav,0,0,null,0,0,null,null
+256,42.3,K Rabada,Imran Tahir,UT Yadav,4,0,null,4,0,null,null
+257,42.4,K Rabada,Imran Tahir,UT Yadav,0,0,null,0,0,null,null
+258,42.5,K Rabada,Imran Tahir,UT Yadav,4,0,null,4,0,null,null
+259,42.6,K Rabada,Imran Tahir,UT Yadav,0,0,null,0,0,null,null
+260,43.1,Imran Tahir,K Rabada,B Kumar,0,0,null,0,0,null,null
+261,43.2,Imran Tahir,K Rabada,B Kumar,0,0,null,0,1,Imran Tahir,caught
+262,43.3,M Morkel,K Rabada,B Kumar,4,0,null,4,0,null,null
+263,43.4,M Morkel,K Rabada,B Kumar,0,0,null,0,1,M Morkel,caught

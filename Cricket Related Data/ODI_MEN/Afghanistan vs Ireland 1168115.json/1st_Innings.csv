@@ -1,0 +1,300 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,WTS Porterfield,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+1,0.2,WTS Porterfield,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+2,0.3,WTS Porterfield,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+3,0.4,WTS Porterfield,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+4,0.5,WTS Porterfield,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+5,0.6,WTS Porterfield,PR Stirling,Dawlat Zadran,1,0,null,1,0,null,null
+6,1.1,WTS Porterfield,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+7,1.2,WTS Porterfield,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+8,1.3,WTS Porterfield,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,1,WTS Porterfield,bowled
+9,1.4,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+10,1.5,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+11,1.6,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+12,2.1,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+13,2.2,PR Stirling,A Balbirnie,Dawlat Zadran,4,0,null,4,0,null,null
+14,2.3,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+15,2.4,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+16,2.5,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+17,2.6,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+18,3.1,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+19,3.2,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+20,3.3,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+21,3.4,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+22,3.5,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+23,3.6,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+24,4.1,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+25,4.2,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+26,4.3,PR Stirling,A Balbirnie,Dawlat Zadran,0,1,noballs ,1,0,null,null
+27,4.4,PR Stirling,A Balbirnie,Dawlat Zadran,6,0,null,6,0,null,null
+28,4.5,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+29,4.6,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+30,4.7,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+31,5.1,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+32,5.2,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+33,5.3,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+34,5.4,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+35,5.5,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+36,5.6,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+37,6.1,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+38,6.2,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+39,6.3,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+40,6.4,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+41,6.5,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+42,6.6,PR Stirling,A Balbirnie,Dawlat Zadran,0,0,null,0,0,null,null
+43,7.1,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+44,7.2,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+45,7.3,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+46,7.4,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+47,7.5,A Balbirnie,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,1,A Balbirnie,lbw
+48,7.6,JA McCollum,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,1,JA McCollum,lbw
+49,8.1,PR Stirling,KJ O'Brien,Dawlat Zadran,0,0,null,0,0,null,null
+50,8.2,PR Stirling,KJ O'Brien,Dawlat Zadran,0,0,null,0,0,null,null
+51,8.3,PR Stirling,KJ O'Brien,Dawlat Zadran,0,0,null,0,0,null,null
+52,8.4,PR Stirling,KJ O'Brien,Dawlat Zadran,0,0,null,0,0,null,null
+53,8.5,PR Stirling,KJ O'Brien,Dawlat Zadran,0,0,null,0,0,null,null
+54,8.6,PR Stirling,KJ O'Brien,Dawlat Zadran,0,0,null,0,0,null,null
+55,9.1,KJ O'Brien,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+56,9.2,KJ O'Brien,PR Stirling,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+57,9.3,PR Stirling,KJ O'Brien,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+58,9.4,PR Stirling,KJ O'Brien,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+59,9.5,PR Stirling,KJ O'Brien,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+60,9.6,PR Stirling,KJ O'Brien,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+61,10.1,KJ O'Brien,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+62,10.2,KJ O'Brien,PR Stirling,Gulbadin Naib,1,0,null,1,0,null,null
+63,10.3,PR Stirling,KJ O'Brien,Gulbadin Naib,0,0,null,0,0,null,null
+64,10.4,PR Stirling,KJ O'Brien,Gulbadin Naib,0,0,null,0,0,null,null
+65,10.5,PR Stirling,KJ O'Brien,Gulbadin Naib,1,0,null,1,0,null,null
+66,10.6,KJ O'Brien,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+67,11.1,PR Stirling,KJ O'Brien,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+68,11.2,PR Stirling,KJ O'Brien,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+69,11.3,PR Stirling,KJ O'Brien,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+70,11.4,PR Stirling,KJ O'Brien,Mujeeb Ur Rahman,4,0,null,4,0,null,null
+71,11.5,PR Stirling,KJ O'Brien,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+72,11.6,PR Stirling,KJ O'Brien,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+73,12.1,KJ O'Brien,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+74,12.2,KJ O'Brien,PR Stirling,Gulbadin Naib,2,0,null,2,0,null,null
+75,12.3,KJ O'Brien,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+76,12.4,KJ O'Brien,PR Stirling,Gulbadin Naib,1,0,null,1,0,null,null
+77,12.5,PR Stirling,KJ O'Brien,Gulbadin Naib,1,0,null,1,0,null,null
+78,12.6,KJ O'Brien,PR Stirling,Gulbadin Naib,4,0,null,4,0,null,null
+79,13.1,PR Stirling,KJ O'Brien,Mohammad Nabi,0,0,null,0,0,null,null
+80,13.2,PR Stirling,KJ O'Brien,Mohammad Nabi,1,0,null,1,0,null,null
+81,13.3,KJ O'Brien,PR Stirling,Mohammad Nabi,1,0,null,1,0,null,null
+82,13.4,PR Stirling,KJ O'Brien,Mohammad Nabi,0,0,null,0,0,null,null
+83,13.5,PR Stirling,KJ O'Brien,Mohammad Nabi,0,0,null,0,0,null,null
+84,13.6,PR Stirling,KJ O'Brien,Mohammad Nabi,1,0,null,1,0,null,null
+85,14.1,PR Stirling,KJ O'Brien,Gulbadin Naib,0,0,null,0,0,null,null
+86,14.2,PR Stirling,KJ O'Brien,Gulbadin Naib,0,0,null,0,0,null,null
+87,14.3,PR Stirling,KJ O'Brien,Gulbadin Naib,0,0,null,0,0,null,null
+88,14.4,PR Stirling,KJ O'Brien,Gulbadin Naib,1,0,null,1,0,null,null
+89,14.5,KJ O'Brien,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+90,14.6,KJ O'Brien,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+91,15.1,PR Stirling,KJ O'Brien,Mohammad Nabi,2,0,null,2,0,null,null
+92,15.2,PR Stirling,KJ O'Brien,Mohammad Nabi,0,0,null,0,0,null,null
+93,15.3,PR Stirling,KJ O'Brien,Mohammad Nabi,0,0,null,0,0,null,null
+94,15.4,PR Stirling,KJ O'Brien,Mohammad Nabi,0,0,null,0,0,null,null
+95,15.5,PR Stirling,KJ O'Brien,Mohammad Nabi,0,0,null,0,0,null,null
+96,15.6,PR Stirling,KJ O'Brien,Mohammad Nabi,0,0,null,0,0,null,null
+97,16.1,KJ O'Brien,PR Stirling,Gulbadin Naib,0,0,null,0,1,KJ O'Brien,caught
+98,16.2,Simi Singh,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+99,16.3,Simi Singh,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+100,16.4,Simi Singh,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+101,16.5,Simi Singh,PR Stirling,Gulbadin Naib,1,0,null,1,0,null,null
+102,16.6,PR Stirling,Simi Singh,Gulbadin Naib,1,0,null,1,0,null,null
+103,17.1,PR Stirling,Simi Singh,Mohammad Nabi,1,0,null,1,0,null,null
+104,17.2,Simi Singh,PR Stirling,Mohammad Nabi,1,0,null,1,0,null,null
+105,17.3,PR Stirling,Simi Singh,Mohammad Nabi,0,0,null,0,0,null,null
+106,17.4,PR Stirling,Simi Singh,Mohammad Nabi,1,0,null,1,0,null,null
+107,17.5,Simi Singh,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+108,17.6,Simi Singh,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+109,18.1,PR Stirling,Simi Singh,Gulbadin Naib,1,0,null,1,0,null,null
+110,18.2,Simi Singh,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+111,18.3,Simi Singh,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+112,18.4,Simi Singh,PR Stirling,Gulbadin Naib,1,0,null,1,0,null,null
+113,18.5,PR Stirling,Simi Singh,Gulbadin Naib,0,0,null,0,0,null,null
+114,18.6,PR Stirling,Simi Singh,Gulbadin Naib,0,0,null,0,0,null,null
+115,19.1,Simi Singh,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+116,19.2,Simi Singh,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+117,19.3,Simi Singh,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+118,19.4,Simi Singh,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+119,19.5,Simi Singh,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+120,19.6,Simi Singh,PR Stirling,Rashid Khan,1,0,null,1,0,null,null
+121,20.1,Simi Singh,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+122,20.2,Simi Singh,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+123,20.3,Simi Singh,PR Stirling,Mohammad Nabi,1,0,null,1,0,null,null
+124,20.4,PR Stirling,Simi Singh,Mohammad Nabi,1,0,null,1,0,null,null
+125,20.5,Simi Singh,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+126,20.6,Simi Singh,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+127,21.1,PR Stirling,Simi Singh,Rashid Khan,1,0,null,1,0,null,null
+128,21.2,Simi Singh,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+129,21.3,Simi Singh,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+130,21.4,Simi Singh,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+131,21.5,Simi Singh,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+132,21.6,Simi Singh,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+133,22.1,PR Stirling,Simi Singh,Mohammad Nabi,0,0,null,0,0,null,null
+134,22.2,PR Stirling,Simi Singh,Mohammad Nabi,1,0,null,1,0,null,null
+135,22.3,Simi Singh,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+136,22.4,Simi Singh,PR Stirling,Mohammad Nabi,1,0,null,1,0,null,null
+137,22.5,PR Stirling,Simi Singh,Mohammad Nabi,0,0,null,0,0,null,null
+138,22.6,PR Stirling,Simi Singh,Mohammad Nabi,1,0,null,1,0,null,null
+139,23.1,PR Stirling,Simi Singh,Rashid Khan,0,0,null,0,0,null,null
+140,23.2,PR Stirling,Simi Singh,Rashid Khan,0,0,null,0,0,null,null
+141,23.3,PR Stirling,Simi Singh,Rashid Khan,0,0,null,0,0,null,null
+142,23.4,PR Stirling,Simi Singh,Rashid Khan,2,0,null,2,0,null,null
+143,23.5,PR Stirling,Simi Singh,Rashid Khan,0,0,null,0,0,null,null
+144,23.6,PR Stirling,Simi Singh,Rashid Khan,0,0,null,0,0,null,null
+145,24.1,Simi Singh,PR Stirling,Mohammad Nabi,1,0,null,1,0,null,null
+146,24.2,PR Stirling,Simi Singh,Mohammad Nabi,1,0,null,1,0,null,null
+147,24.3,Simi Singh,PR Stirling,Mohammad Nabi,1,0,null,1,0,null,null
+148,24.4,PR Stirling,Simi Singh,Mohammad Nabi,1,0,null,1,0,null,null
+149,24.5,Simi Singh,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+150,24.6,Simi Singh,PR Stirling,Mohammad Nabi,0,0,null,0,1,Simi Singh,lbw
+151,25.1,PR Stirling,SW Poynter,Rashid Khan,4,0,null,4,0,null,null
+152,25.2,PR Stirling,SW Poynter,Rashid Khan,1,0,null,1,0,null,null
+153,25.3,SW Poynter,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+154,25.4,SW Poynter,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+155,25.5,SW Poynter,PR Stirling,Rashid Khan,1,0,null,1,0,null,null
+156,25.6,PR Stirling,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+157,26.1,SW Poynter,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+158,26.2,SW Poynter,PR Stirling,Mohammad Nabi,1,0,null,1,0,null,null
+159,26.3,PR Stirling,SW Poynter,Mohammad Nabi,0,0,null,0,0,null,null
+160,26.4,PR Stirling,SW Poynter,Mohammad Nabi,1,0,null,1,0,null,null
+161,26.5,SW Poynter,PR Stirling,Mohammad Nabi,1,0,null,1,0,null,null
+162,26.6,PR Stirling,SW Poynter,Mohammad Nabi,0,0,null,0,0,null,null
+163,27.1,SW Poynter,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+164,27.2,SW Poynter,PR Stirling,Rashid Khan,1,0,null,1,0,null,null
+165,27.3,PR Stirling,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+166,27.4,PR Stirling,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+167,27.5,PR Stirling,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+168,27.6,PR Stirling,SW Poynter,Rashid Khan,0,0,null,0,0,null,null
+169,28.1,SW Poynter,PR Stirling,Dawlat Zadran,1,0,null,1,0,null,null
+170,28.2,PR Stirling,SW Poynter,Dawlat Zadran,0,0,null,0,0,null,null
+171,28.3,PR Stirling,SW Poynter,Dawlat Zadran,0,0,null,0,0,null,null
+172,28.4,PR Stirling,SW Poynter,Dawlat Zadran,1,0,null,1,0,null,null
+173,28.5,SW Poynter,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+174,28.6,SW Poynter,PR Stirling,Dawlat Zadran,1,0,null,1,0,null,null
+175,29.1,SW Poynter,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+176,29.2,SW Poynter,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+177,29.3,SW Poynter,PR Stirling,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+178,29.4,PR Stirling,SW Poynter,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+179,29.5,PR Stirling,SW Poynter,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+180,29.6,PR Stirling,SW Poynter,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+181,30.1,SW Poynter,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+182,30.2,SW Poynter,PR Stirling,Dawlat Zadran,0,0,null,0,1,SW Poynter,lbw
+183,30.3,GH Dockrell,PR Stirling,Dawlat Zadran,1,0,null,1,0,null,null
+184,30.4,PR Stirling,GH Dockrell,Dawlat Zadran,0,0,null,0,0,null,null
+185,30.5,PR Stirling,GH Dockrell,Dawlat Zadran,1,0,null,1,0,null,null
+186,30.6,GH Dockrell,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+187,31.1,PR Stirling,GH Dockrell,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+188,31.2,GH Dockrell,PR Stirling,Mujeeb Ur Rahman,2,0,null,2,0,null,null
+189,31.3,GH Dockrell,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+190,31.4,GH Dockrell,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+191,31.5,GH Dockrell,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+192,31.6,GH Dockrell,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+193,32.1,PR Stirling,GH Dockrell,Rahmat Shah,1,0,null,1,0,null,null
+194,32.2,GH Dockrell,PR Stirling,Rahmat Shah,0,0,null,0,0,null,null
+195,32.3,GH Dockrell,PR Stirling,Rahmat Shah,0,0,null,0,0,null,null
+196,32.4,GH Dockrell,PR Stirling,Rahmat Shah,0,0,null,0,0,null,null
+197,32.5,GH Dockrell,PR Stirling,Rahmat Shah,1,0,null,1,0,null,null
+198,32.6,PR Stirling,GH Dockrell,Rahmat Shah,1,0,null,1,0,null,null
+199,33.1,PR Stirling,GH Dockrell,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+200,33.2,PR Stirling,GH Dockrell,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+201,33.3,PR Stirling,GH Dockrell,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+202,33.4,PR Stirling,GH Dockrell,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+203,33.5,PR Stirling,GH Dockrell,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+204,33.6,GH Dockrell,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+205,34.1,PR Stirling,GH Dockrell,Rahmat Shah,2,0,null,2,0,null,null
+206,34.2,PR Stirling,GH Dockrell,Rahmat Shah,0,0,null,0,0,null,null
+207,34.3,PR Stirling,GH Dockrell,Rahmat Shah,0,0,null,0,0,null,null
+208,34.4,PR Stirling,GH Dockrell,Rahmat Shah,4,0,null,4,0,null,null
+209,34.5,PR Stirling,GH Dockrell,Rahmat Shah,0,0,null,0,0,null,null
+210,34.6,PR Stirling,GH Dockrell,Rahmat Shah,1,0,null,1,0,null,null
+211,35.1,PR Stirling,GH Dockrell,Gulbadin Naib,1,0,null,1,0,null,null
+212,35.2,GH Dockrell,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+213,35.3,GH Dockrell,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+214,35.4,GH Dockrell,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+215,35.5,GH Dockrell,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+216,35.6,GH Dockrell,PR Stirling,Gulbadin Naib,0,0,null,0,0,null,null
+217,36.1,PR Stirling,GH Dockrell,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+218,36.2,GH Dockrell,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+219,36.3,GH Dockrell,PR Stirling,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+220,36.4,GH Dockrell,PR Stirling,Mujeeb Ur Rahman,1,0,null,1,0,null,null
+221,36.5,PR Stirling,GH Dockrell,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+222,36.6,PR Stirling,GH Dockrell,Mujeeb Ur Rahman,0,0,null,0,0,null,null
+223,37.1,GH Dockrell,PR Stirling,Gulbadin Naib,1,0,null,1,0,null,null
+224,37.2,PR Stirling,GH Dockrell,Gulbadin Naib,0,0,null,0,0,null,null
+225,37.3,PR Stirling,GH Dockrell,Gulbadin Naib,0,0,null,0,0,null,null
+226,37.4,PR Stirling,GH Dockrell,Gulbadin Naib,0,0,null,0,0,null,null
+227,37.5,PR Stirling,GH Dockrell,Gulbadin Naib,1,0,null,1,0,null,null
+228,37.6,GH Dockrell,PR Stirling,Gulbadin Naib,1,0,null,1,0,null,null
+229,38.1,GH Dockrell,PR Stirling,Mohammad Nabi,0,1,noballs ,1,0,null,null
+230,38.2,GH Dockrell,PR Stirling,Mohammad Nabi,6,0,null,6,0,null,null
+231,38.3,GH Dockrell,PR Stirling,Mohammad Nabi,1,0,null,1,0,null,null
+232,38.4,PR Stirling,GH Dockrell,Mohammad Nabi,0,0,null,0,0,null,null
+233,38.5,PR Stirling,GH Dockrell,Mohammad Nabi,1,0,null,1,0,null,null
+234,38.6,GH Dockrell,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+235,38.7,GH Dockrell,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+236,39.1,PR Stirling,GH Dockrell,Rashid Khan,1,0,null,1,0,null,null
+237,39.2,GH Dockrell,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+238,39.3,GH Dockrell,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+239,39.4,GH Dockrell,PR Stirling,Rashid Khan,1,0,null,1,0,null,null
+240,39.5,PR Stirling,GH Dockrell,Rashid Khan,0,0,null,0,0,null,null
+241,39.6,PR Stirling,GH Dockrell,Rashid Khan,0,0,null,0,0,null,null
+242,40.1,GH Dockrell,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+243,40.2,GH Dockrell,PR Stirling,Mohammad Nabi,0,0,null,0,0,null,null
+244,40.3,GH Dockrell,PR Stirling,Mohammad Nabi,2,0,null,2,0,null,null
+245,40.4,GH Dockrell,PR Stirling,Mohammad Nabi,1,0,null,1,0,null,null
+246,40.5,PR Stirling,GH Dockrell,Mohammad Nabi,6,0,null,6,0,null,null
+247,40.6,PR Stirling,GH Dockrell,Mohammad Nabi,1,0,null,1,0,null,null
+248,41.1,PR Stirling,GH Dockrell,Rashid Khan,1,0,null,1,0,null,null
+249,41.2,GH Dockrell,PR Stirling,Rashid Khan,4,0,null,4,0,null,null
+250,41.3,GH Dockrell,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+251,41.4,GH Dockrell,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+252,41.5,GH Dockrell,PR Stirling,Rashid Khan,1,0,null,1,0,null,null
+253,41.6,PR Stirling,GH Dockrell,Rashid Khan,0,0,null,0,0,null,null
+254,42.1,GH Dockrell,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+255,42.2,GH Dockrell,PR Stirling,Dawlat Zadran,1,0,null,1,0,null,null
+256,42.3,PR Stirling,GH Dockrell,Dawlat Zadran,0,0,null,0,0,null,null
+257,42.4,PR Stirling,GH Dockrell,Dawlat Zadran,2,0,null,2,0,null,null
+258,42.5,PR Stirling,GH Dockrell,Dawlat Zadran,0,0,null,0,0,null,null
+259,42.6,PR Stirling,GH Dockrell,Dawlat Zadran,1,0,null,1,0,null,null
+260,43.1,PR Stirling,GH Dockrell,Rashid Khan,0,0,null,0,0,null,null
+261,43.2,PR Stirling,GH Dockrell,Rashid Khan,0,0,null,0,0,null,null
+262,43.3,PR Stirling,GH Dockrell,Rashid Khan,2,0,null,2,0,null,null
+263,43.4,PR Stirling,GH Dockrell,Rashid Khan,1,0,null,1,0,null,null
+264,43.5,GH Dockrell,PR Stirling,Rashid Khan,1,0,null,1,0,null,null
+265,43.6,PR Stirling,GH Dockrell,Rashid Khan,0,0,null,0,0,null,null
+266,44.1,GH Dockrell,PR Stirling,Mohammad Nabi,4,0,null,4,0,null,null
+267,44.2,GH Dockrell,PR Stirling,Mohammad Nabi,2,0,null,2,0,null,null
+268,44.3,GH Dockrell,PR Stirling,Mohammad Nabi,1,0,null,1,0,null,null
+269,44.4,PR Stirling,GH Dockrell,Mohammad Nabi,6,0,null,6,0,null,null
+270,44.5,PR Stirling,GH Dockrell,Mohammad Nabi,0,0,null,0,0,null,null
+271,44.6,PR Stirling,GH Dockrell,Mohammad Nabi,0,0,null,0,0,null,null
+272,45.1,GH Dockrell,PR Stirling,Rashid Khan,4,0,null,4,0,null,null
+273,45.2,GH Dockrell,PR Stirling,Rashid Khan,1,0,null,1,0,null,null
+274,45.3,PR Stirling,GH Dockrell,Rashid Khan,1,0,null,1,0,null,null
+275,45.4,GH Dockrell,PR Stirling,Rashid Khan,0,0,null,0,1,GH Dockrell,bowled
+276,45.5,BJ McCarthy,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+277,45.6,BJ McCarthy,PR Stirling,Rashid Khan,0,0,null,0,0,null,null
+278,46.1,PR Stirling,BJ McCarthy,Dawlat Zadran,0,0,null,0,0,null,null
+279,46.2,PR Stirling,BJ McCarthy,Dawlat Zadran,1,0,null,1,0,null,null
+280,46.3,BJ McCarthy,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+281,46.4,BJ McCarthy,PR Stirling,Dawlat Zadran,0,0,null,0,1,BJ McCarthy,lbw
+282,46.5,TJ Murtagh,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+283,46.6,TJ Murtagh,PR Stirling,Dawlat Zadran,0,0,null,0,1,TJ Murtagh,lbw
+284,47.1,PR Stirling,WB Rankin,Rashid Khan,0,0,null,0,0,null,null
+285,47.2,PR Stirling,WB Rankin,Rashid Khan,0,0,null,0,0,null,null
+286,47.3,PR Stirling,WB Rankin,Rashid Khan,0,0,null,0,0,null,null
+287,47.4,PR Stirling,WB Rankin,Rashid Khan,0,0,null,0,0,null,null
+288,47.5,PR Stirling,WB Rankin,Rashid Khan,0,0,null,0,0,null,null
+289,47.6,PR Stirling,WB Rankin,Rashid Khan,1,0,null,1,0,null,null
+290,48.1,PR Stirling,WB Rankin,Dawlat Zadran,4,0,null,4,0,null,null
+291,48.2,PR Stirling,WB Rankin,Dawlat Zadran,4,0,null,4,0,null,null
+292,48.3,PR Stirling,WB Rankin,Dawlat Zadran,1,0,null,1,0,null,null
+293,48.4,WB Rankin,PR Stirling,Dawlat Zadran,4,0,null,4,0,null,null
+294,48.5,WB Rankin,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+295,48.6,WB Rankin,PR Stirling,Dawlat Zadran,0,0,null,0,0,null,null
+296,49.1,PR Stirling,WB Rankin,Gulbadin Naib,0,0,null,0,0,null,null
+297,49.2,PR Stirling,WB Rankin,Gulbadin Naib,0,1,wides ,1,0,null,null
+298,49.3,PR Stirling,WB Rankin,Gulbadin Naib,0,0,null,0,1,PR Stirling,bowled

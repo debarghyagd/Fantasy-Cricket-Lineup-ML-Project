@@ -1,0 +1,185 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Nasir Jamshed,Ahmed Shehzad,JO Holder,1,0,null,1,0,null,null
+1,0.2,Ahmed Shehzad,Nasir Jamshed,JO Holder,4,0,null,4,0,null,null
+2,0.3,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,null,0,0,null,null
+3,0.4,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,null,0,0,null,null
+4,0.5,Ahmed Shehzad,Nasir Jamshed,JO Holder,1,0,null,1,0,null,null
+5,0.6,Nasir Jamshed,Ahmed Shehzad,JO Holder,0,1,wides ,1,0,null,null
+6,0.7,Nasir Jamshed,Ahmed Shehzad,JO Holder,0,0,null,0,0,null,null
+7,1.1,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,2,0,null,2,0,null,null
+8,1.2,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,2,0,null,2,0,null,null
+9,1.3,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+10,1.4,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+11,1.5,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+12,1.6,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+13,2.1,Nasir Jamshed,Ahmed Shehzad,JO Holder,0,0,null,0,0,null,null
+14,2.2,Nasir Jamshed,Ahmed Shehzad,JO Holder,2,0,null,2,0,null,null
+15,2.3,Nasir Jamshed,Ahmed Shehzad,JO Holder,0,0,null,0,0,null,null
+16,2.4,Nasir Jamshed,Ahmed Shehzad,JO Holder,1,0,null,1,0,null,null
+17,2.5,Ahmed Shehzad,Nasir Jamshed,JO Holder,4,0,null,4,0,null,null
+18,2.6,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,null,0,0,null,null
+19,3.1,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,null,0,0,null,null
+20,3.2,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,1,0,null,1,0,null,null
+21,3.3,Ahmed Shehzad,Nasir Jamshed,KAJ Roach,1,0,null,1,0,null,null
+22,3.4,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,null,0,0,null,null
+23,3.5,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,null,0,0,null,null
+24,3.6,Nasir Jamshed,Ahmed Shehzad,KAJ Roach,0,0,null,0,0,null,null
+25,4.1,Ahmed Shehzad,Nasir Jamshed,JO Holder,0,0,null,0,1,Ahmed Shehzad,lbw
+26,4.2,Mohammad Hafeez,Nasir Jamshed,JO Holder,0,0,null,0,0,null,null
+27,4.3,Mohammad Hafeez,Nasir Jamshed,JO Holder,1,0,null,1,0,null,null
+28,4.4,Nasir Jamshed,Mohammad Hafeez,JO Holder,2,0,null,2,0,null,null
+29,4.5,Nasir Jamshed,Mohammad Hafeez,JO Holder,0,0,null,0,0,null,null
+30,4.6,Nasir Jamshed,Mohammad Hafeez,JO Holder,0,0,null,0,0,null,null
+31,5.1,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,4,0,null,4,0,null,null
+32,5.2,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,1,0,null,1,0,null,null
+33,5.3,Nasir Jamshed,Mohammad Hafeez,KAJ Roach,0,0,null,0,0,null,null
+34,5.4,Nasir Jamshed,Mohammad Hafeez,KAJ Roach,4,0,null,4,0,null,null
+35,5.5,Nasir Jamshed,Mohammad Hafeez,KAJ Roach,1,0,null,1,0,null,null
+36,5.6,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,4,0,null,4,0,null,null
+37,6.1,Nasir Jamshed,Mohammad Hafeez,JO Holder,0,0,null,0,0,null,null
+38,6.2,Nasir Jamshed,Mohammad Hafeez,JO Holder,1,0,null,1,0,null,null
+39,6.3,Mohammad Hafeez,Nasir Jamshed,JO Holder,4,0,null,4,0,null,null
+40,6.4,Mohammad Hafeez,Nasir Jamshed,JO Holder,0,0,null,0,0,null,null
+41,6.5,Mohammad Hafeez,Nasir Jamshed,JO Holder,0,0,null,0,0,null,null
+42,6.6,Mohammad Hafeez,Nasir Jamshed,JO Holder,0,0,null,0,0,null,null
+43,7.1,Nasir Jamshed,Mohammad Hafeez,KAJ Roach,2,0,null,2,0,null,null
+44,7.2,Nasir Jamshed,Mohammad Hafeez,KAJ Roach,1,0,null,1,0,null,null
+45,7.3,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+46,7.4,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+47,7.5,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+48,7.6,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+49,8.1,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+50,8.2,Nasir Jamshed,Mohammad Hafeez,SP Narine,1,0,null,1,0,null,null
+51,8.3,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,null,0,0,null,null
+52,8.4,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,null,0,0,null,null
+53,8.5,Mohammad Hafeez,Nasir Jamshed,SP Narine,1,0,null,1,0,null,null
+54,8.6,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+55,9.1,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+56,9.2,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+57,9.3,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+58,9.4,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+59,9.5,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+60,9.6,Mohammad Hafeez,Nasir Jamshed,KAJ Roach,0,0,null,0,0,null,null
+61,10.1,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+62,10.2,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+63,10.3,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+64,10.4,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+65,10.5,Nasir Jamshed,Mohammad Hafeez,SP Narine,2,0,null,2,0,null,null
+66,10.6,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+67,11.1,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,0,0,null,0,0,null,null
+68,11.2,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,0,0,null,0,0,null,null
+69,11.3,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,1,0,null,1,0,null,null
+70,11.4,Nasir Jamshed,Mohammad Hafeez,DJG Sammy,1,0,null,1,0,null,null
+71,11.5,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,2,0,null,2,0,null,null
+72,11.6,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,1,0,null,1,0,null,null
+73,12.1,Mohammad Hafeez,Nasir Jamshed,SP Narine,1,0,null,1,0,null,null
+74,12.2,Nasir Jamshed,Mohammad Hafeez,SP Narine,1,0,null,1,0,null,null
+75,12.3,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,null,0,0,null,null
+76,12.4,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,null,0,0,null,null
+77,12.5,Mohammad Hafeez,Nasir Jamshed,SP Narine,1,0,null,1,0,null,null
+78,12.6,Nasir Jamshed,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+79,13.1,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,1,0,null,1,0,null,null
+80,13.2,Nasir Jamshed,Mohammad Hafeez,DJG Sammy,0,0,null,0,0,null,null
+81,13.3,Nasir Jamshed,Mohammad Hafeez,DJG Sammy,0,0,null,0,0,null,null
+82,13.4,Nasir Jamshed,Mohammad Hafeez,DJG Sammy,1,0,null,1,0,null,null
+83,13.5,Mohammad Hafeez,Nasir Jamshed,DJG Sammy,1,0,null,1,0,null,null
+84,13.6,Nasir Jamshed,Mohammad Hafeez,DJG Sammy,0,0,null,0,0,null,null
+85,14.1,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,null,0,0,null,null
+86,14.2,Mohammad Hafeez,Nasir Jamshed,SP Narine,0,0,null,0,1,Nasir Jamshed,run out
+87,14.3,Mohammad Hafeez,Misbah-ul-Haq,SP Narine,2,0,null,2,0,null,null
+88,14.4,Mohammad Hafeez,Misbah-ul-Haq,SP Narine,1,0,null,1,0,null,null
+89,14.5,Misbah-ul-Haq,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+90,14.6,Misbah-ul-Haq,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+91,15.1,Mohammad Hafeez,Misbah-ul-Haq,DJG Sammy,1,0,null,1,0,null,null
+92,15.2,Misbah-ul-Haq,Mohammad Hafeez,DJG Sammy,1,0,null,1,0,null,null
+93,15.3,Mohammad Hafeez,Misbah-ul-Haq,DJG Sammy,0,0,null,0,0,null,null
+94,15.4,Mohammad Hafeez,Misbah-ul-Haq,DJG Sammy,0,0,null,0,0,null,null
+95,15.5,Mohammad Hafeez,Misbah-ul-Haq,DJG Sammy,0,0,null,0,0,null,null
+96,15.6,Mohammad Hafeez,Misbah-ul-Haq,DJG Sammy,0,0,null,0,0,null,null
+97,16.1,Misbah-ul-Haq,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+98,16.2,Misbah-ul-Haq,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+99,16.3,Misbah-ul-Haq,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+100,16.4,Misbah-ul-Haq,Mohammad Hafeez,SP Narine,1,0,null,1,0,null,null
+101,16.5,Mohammad Hafeez,Misbah-ul-Haq,SP Narine,1,0,null,1,0,null,null
+102,16.6,Misbah-ul-Haq,Mohammad Hafeez,SP Narine,1,0,null,1,0,null,null
+103,17.1,Misbah-ul-Haq,Mohammad Hafeez,DJ Bravo,0,1,wides ,1,0,null,null
+104,17.2,Misbah-ul-Haq,Mohammad Hafeez,DJ Bravo,1,0,null,1,0,null,null
+105,17.3,Mohammad Hafeez,Misbah-ul-Haq,DJ Bravo,0,0,null,0,0,null,null
+106,17.4,Mohammad Hafeez,Misbah-ul-Haq,DJ Bravo,0,0,null,0,0,null,null
+107,17.5,Mohammad Hafeez,Misbah-ul-Haq,DJ Bravo,0,0,null,0,0,null,null
+108,17.6,Mohammad Hafeez,Misbah-ul-Haq,DJ Bravo,1,0,null,1,0,null,null
+109,17.7,Misbah-ul-Haq,Mohammad Hafeez,DJ Bravo,1,0,null,1,0,null,null
+110,18.1,Misbah-ul-Haq,Mohammad Hafeez,MN Samuels,4,0,null,4,0,null,null
+111,18.2,Misbah-ul-Haq,Mohammad Hafeez,MN Samuels,1,0,null,1,0,null,null
+112,18.3,Mohammad Hafeez,Misbah-ul-Haq,MN Samuels,1,0,null,1,0,null,null
+113,18.4,Misbah-ul-Haq,Mohammad Hafeez,MN Samuels,4,0,null,4,0,null,null
+114,18.5,Misbah-ul-Haq,Mohammad Hafeez,MN Samuels,1,0,null,1,0,null,null
+115,18.6,Mohammad Hafeez,Misbah-ul-Haq,MN Samuels,2,0,null,2,0,null,null
+116,19.1,Misbah-ul-Haq,Mohammad Hafeez,DJ Bravo,1,0,null,1,0,null,null
+117,19.2,Mohammad Hafeez,Misbah-ul-Haq,DJ Bravo,1,0,null,1,0,null,null
+118,19.3,Misbah-ul-Haq,Mohammad Hafeez,DJ Bravo,1,0,null,1,0,null,null
+119,19.4,Mohammad Hafeez,Misbah-ul-Haq,DJ Bravo,1,0,null,1,0,null,null
+120,19.5,Misbah-ul-Haq,Mohammad Hafeez,DJ Bravo,1,0,null,1,0,null,null
+121,19.6,Mohammad Hafeez,Misbah-ul-Haq,DJ Bravo,0,0,null,0,0,null,null
+122,20.1,Misbah-ul-Haq,Mohammad Hafeez,JO Holder,1,0,null,1,0,null,null
+123,20.2,Mohammad Hafeez,Misbah-ul-Haq,JO Holder,1,0,null,1,0,null,null
+124,20.3,Misbah-ul-Haq,Mohammad Hafeez,JO Holder,1,0,null,1,0,null,null
+125,20.4,Mohammad Hafeez,Misbah-ul-Haq,JO Holder,0,1,wides ,1,0,null,null
+126,20.5,Mohammad Hafeez,Misbah-ul-Haq,JO Holder,6,0,null,6,0,null,null
+127,20.6,Mohammad Hafeez,Misbah-ul-Haq,JO Holder,1,1,noballs ,2,0,null,null
+128,20.7,Misbah-ul-Haq,Mohammad Hafeez,JO Holder,1,0,null,1,0,null,null
+129,20.8,Mohammad Hafeez,Misbah-ul-Haq,JO Holder,6,0,null,6,0,null,null
+130,21.1,Misbah-ul-Haq,Mohammad Hafeez,DJ Bravo,2,0,null,2,0,null,null
+131,21.2,Misbah-ul-Haq,Mohammad Hafeez,DJ Bravo,1,0,null,1,0,null,null
+132,21.3,Mohammad Hafeez,Misbah-ul-Haq,DJ Bravo,1,0,null,1,0,null,null
+133,21.4,Misbah-ul-Haq,Mohammad Hafeez,DJ Bravo,2,0,null,2,0,null,null
+134,21.5,Misbah-ul-Haq,Mohammad Hafeez,DJ Bravo,3,0,null,3,0,null,null
+135,21.6,Mohammad Hafeez,Misbah-ul-Haq,DJ Bravo,4,0,null,4,0,null,null
+136,22.1,Misbah-ul-Haq,Mohammad Hafeez,SP Narine,1,0,null,1,0,null,null
+137,22.2,Mohammad Hafeez,Misbah-ul-Haq,SP Narine,1,0,null,1,0,null,null
+138,22.3,Misbah-ul-Haq,Mohammad Hafeez,SP Narine,0,0,null,0,0,null,null
+139,22.4,Misbah-ul-Haq,Mohammad Hafeez,SP Narine,1,0,null,1,0,null,null
+140,22.5,Mohammad Hafeez,Misbah-ul-Haq,SP Narine,1,0,null,1,0,null,null
+141,22.6,Misbah-ul-Haq,Mohammad Hafeez,SP Narine,1,0,null,1,0,null,null
+142,23.1,Misbah-ul-Haq,Mohammad Hafeez,KAJ Roach,1,0,null,1,0,null,null
+143,23.2,Mohammad Hafeez,Misbah-ul-Haq,KAJ Roach,4,0,null,4,0,null,null
+144,23.3,Mohammad Hafeez,Misbah-ul-Haq,KAJ Roach,0,0,null,0,1,Mohammad Hafeez,caught
+145,23.4,Shahid Afridi,Misbah-ul-Haq,KAJ Roach,0,0,null,0,0,null,null
+146,23.5,Shahid Afridi,Misbah-ul-Haq,KAJ Roach,4,0,null,4,0,null,null
+147,23.6,Shahid Afridi,Misbah-ul-Haq,KAJ Roach,1,0,null,1,0,null,null
+148,24.1,Shahid Afridi,Misbah-ul-Haq,MN Samuels,1,0,null,1,0,null,null
+149,24.2,Misbah-ul-Haq,Shahid Afridi,MN Samuels,4,0,null,4,0,null,null
+150,24.3,Misbah-ul-Haq,Shahid Afridi,MN Samuels,0,0,null,0,0,null,null
+151,24.4,Misbah-ul-Haq,Shahid Afridi,MN Samuels,1,0,null,1,0,null,null
+152,24.5,Shahid Afridi,Misbah-ul-Haq,MN Samuels,1,0,null,1,0,null,null
+153,24.6,Misbah-ul-Haq,Shahid Afridi,MN Samuels,0,0,null,0,0,null,null
+154,25.1,Shahid Afridi,Misbah-ul-Haq,DJ Bravo,0,0,null,0,0,null,null
+155,25.2,Shahid Afridi,Misbah-ul-Haq,DJ Bravo,0,0,null,0,1,Shahid Afridi,caught
+156,25.3,Umar Akmal,Misbah-ul-Haq,DJ Bravo,2,0,null,2,0,null,null
+157,25.4,Umar Akmal,Misbah-ul-Haq,DJ Bravo,0,0,null,0,0,null,null
+158,25.5,Umar Akmal,Misbah-ul-Haq,DJ Bravo,4,0,null,4,0,null,null
+159,25.6,Umar Akmal,Misbah-ul-Haq,DJ Bravo,1,0,null,1,0,null,null
+160,26.1,Umar Akmal,Misbah-ul-Haq,MN Samuels,1,0,null,1,0,null,null
+161,26.2,Misbah-ul-Haq,Umar Akmal,MN Samuels,1,0,null,1,0,null,null
+162,26.3,Umar Akmal,Misbah-ul-Haq,MN Samuels,1,0,null,1,0,null,null
+163,26.4,Misbah-ul-Haq,Umar Akmal,MN Samuels,1,0,null,1,0,null,null
+164,26.5,Umar Akmal,Misbah-ul-Haq,MN Samuels,1,0,null,1,0,null,null
+165,26.6,Misbah-ul-Haq,Umar Akmal,MN Samuels,1,0,null,1,0,null,null
+166,27.1,Misbah-ul-Haq,Umar Akmal,DJ Bravo,1,0,null,1,0,null,null
+167,27.2,Umar Akmal,Misbah-ul-Haq,DJ Bravo,1,0,null,1,0,null,null
+168,27.3,Misbah-ul-Haq,Umar Akmal,DJ Bravo,1,0,null,1,0,null,null
+169,27.4,Umar Akmal,Misbah-ul-Haq,DJ Bravo,1,0,null,1,0,null,null
+170,27.5,Misbah-ul-Haq,Umar Akmal,DJ Bravo,1,0,null,1,0,null,null
+171,27.6,Umar Akmal,Misbah-ul-Haq,DJ Bravo,1,0,null,1,0,null,null
+172,28.1,Umar Akmal,Misbah-ul-Haq,SP Narine,1,0,null,1,0,null,null
+173,28.2,Misbah-ul-Haq,Umar Akmal,SP Narine,2,0,null,2,0,null,null
+174,28.3,Misbah-ul-Haq,Umar Akmal,SP Narine,1,0,null,1,0,null,null
+175,28.4,Umar Akmal,Misbah-ul-Haq,SP Narine,1,0,null,1,0,null,null
+176,28.5,Misbah-ul-Haq,Umar Akmal,SP Narine,6,0,null,6,0,null,null
+177,28.6,Misbah-ul-Haq,Umar Akmal,SP Narine,0,0,null,0,0,null,null
+178,29.1,Umar Akmal,Misbah-ul-Haq,DJ Bravo,4,0,null,4,0,null,null
+179,29.2,Umar Akmal,Misbah-ul-Haq,DJ Bravo,4,0,null,4,0,null,null
+180,29.3,Umar Akmal,Misbah-ul-Haq,DJ Bravo,4,0,null,4,0,null,null
+181,29.4,Umar Akmal,Misbah-ul-Haq,DJ Bravo,2,0,null,2,0,null,null
+182,29.5,Umar Akmal,Misbah-ul-Haq,DJ Bravo,0,0,null,0,0,null,null
+183,29.6,Umar Akmal,Misbah-ul-Haq,DJ Bravo,0,1,legbyes ,1,0,null,null

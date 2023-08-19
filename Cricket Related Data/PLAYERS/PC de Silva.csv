@@ -1,0 +1,14 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,710303,Shere Bangla National Stadium,Afghanistan,Amir Hamza,Left-arm orthodox,"[1, 0, 1]",0,11,7,0,1
+1,710303,Shere Bangla National Stadium,Afghanistan,Dawlat Zadran,Right-arm fast-medium,"[0, 1, 1]",1,6,10,1,0
+2,710309,Shere Bangla National Stadium,Bangladesh,Arafat Sunny,Left-arm orthodox,"[1, 0, 1]",0,10,10,1,0
+3,710309,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,3,9,0,0
+4,710309,Shere Bangla National Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",1,3,6,0,0
+5,710309,Shere Bangla National Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,7,5,1,0
+6,710309,Shere Bangla National Stadium,Bangladesh,Al-Amin Hossain,Right-arm fast-medium,"[0, 1, 1]",0,12,11,2,0
+7,710297,Khan Shaheb Osman Ali Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+8,710291,Khan Shaheb Osman Ali Stadium,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",0,1,1,0,0
+9,710311,Shere Bangla National Stadium,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",0,6,4,1,0
+10,710311,Shere Bangla National Stadium,Pakistan,Saeed Ajmal,Right-arm offbreak,"[1, 1, 0]",0,0,6,0,0
+11,936161,Kingsmead,South Africa,JP Duminy,Right-arm offbreak,"[1, 1, 0]",1,0,1,0,0
+12,936161,Kingsmead,South Africa,K Rabada,Right-arm fast,"[0, 1, 0]",0,12,9,2,0

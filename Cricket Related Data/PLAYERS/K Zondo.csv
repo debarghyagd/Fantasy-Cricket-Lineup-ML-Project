@@ -1,0 +1,23 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1122281,Newlands,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",0,2,7,0,0
+1,1122281,Newlands,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,2,12,0,0
+2,1122281,Newlands,India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",1,4,6,0,0
+3,1122281,Newlands,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,3,6,0,0
+4,1122281,Newlands,India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",0,6,9,0,0
+5,1122280,SuperSport Park,India,KM Jadhav,Right-arm offbreak,"[1, 1, 0]",0,5,10,0,0
+6,1122280,SuperSport Park,India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",1,5,15,0,0
+7,1122280,SuperSport Park,India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",0,8,8,1,0
+8,1122280,SuperSport Park,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,7,13,1,0
+9,1122284,SuperSport Park,India,YS Chahal,Right-arm legbreak,"[1, 1, 1]",1,23,28,0,2
+10,1122284,SuperSport Park,India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",0,11,20,1,0
+11,1122284,SuperSport Park,India,SN Thakur,Right-arm fast-medium,"[0, 1, 1]",0,2,3,0,0
+12,1122284,SuperSport Park,India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,18,23,2,0
+13,1144147,Mangaung Oval,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+14,1144147,Mangaung Oval,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,0,3,0,0
+15,1144147,Mangaung Oval,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0
+16,1144147,Mangaung Oval,Zimbabwe,B Mavuta,Right-arm legbreak,"[1, 1, 1]",1,17,21,2,1
+17,1144148,Boland Park,Zimbabwe,SC Williams,Left-arm orthodox,"[1, 0, 1]",0,5,9,0,0
+18,1144148,Boland Park,Zimbabwe,TL Chatara,Right-arm fast-medium,"[0, 1, 1]",0,7,12,0,0
+19,1144148,Boland Park,Zimbabwe,KM Jarvis,Right-arm fast,"[0, 1, 0]",0,7,8,1,0
+20,1144148,Boland Park,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,4,7,0,0
+21,1144148,Boland Park,Zimbabwe,B Mavuta,Right-arm legbreak,"[1, 1, 1]",0,2,3,0,0

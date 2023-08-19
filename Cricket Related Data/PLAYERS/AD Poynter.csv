@@ -1,0 +1,11 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,464723,"Toronto Cricket, Skating and Curling Club",Canada,H Osinde,Right-arm fast-medium,"[0, 1, 1]",0,4,7,0,0
+1,464723,"Toronto Cricket, Skating and Curling Club",Canada,HS Baidwan,Right-arm medium,"[0, 1, 2]",1,6,4,0,1
+2,464723,"Toronto Cricket, Skating and Curling Club",Canada,Khurram Chohan,Right-arm fast,"[0, 1, 0]",0,0,1,0,0
+3,727935,"The Village, Malahide",Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+4,727937,"The Village, Malahide",Scotland,CS MacLeod,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+5,727937,"The Village, Malahide",Scotland,RD Berrington,Right-arm fast-medium,"[0, 1, 1]",1,4,10,0,0
+6,727939,"The Village, Malahide",Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+7,727939,"The Village, Malahide",Scotland,CS MacLeod,Right-arm fast-medium,"[0, 1, 1]",0,3,4,0,0
+8,702139,"Sabina Park, Kingston",West Indies,NO Miller,Left-arm orthodox,"[1, 0, 1]",1,1,7,0,0
+9,702139,"Sabina Park, Kingston",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,2,7,0,0

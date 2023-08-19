@@ -1,0 +1,13 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,64874,R.Premadasa Stadium,Australia,A Symonds,Right-arm medium,"[0, 1, 2]",0,7,6,1,0
+1,64874,R.Premadasa Stadium,Australia,GB Hogg,Left-arm chinaman,"[1, 0, 0]",0,4,3,0,0
+2,64874,R.Premadasa Stadium,Australia,MS Kasprowicz,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+3,238170,Chittagong Divisional Stadium,Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",1,15,14,1,1
+4,291220,R Premadasa Stadium,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",0,3,3,0,0
+5,291220,R Premadasa Stadium,England,GP Swann,Right-arm offbreak,"[1, 1, 0]",0,2,3,0,0
+6,291221,R Premadasa Stadium,England,MS Panesar,Left-arm orthodox,"[1, 0, 1]",0,0,1,0,0
+7,291221,R Premadasa Stadium,England,RS Bopara,Right-arm medium,"[0, 1, 2]",1,0,2,0,0
+8,238214,R Premadasa Stadium,Pakistan,Iftikhar Anjum,Right-arm medium,"[0, 1, 2]",0,0,1,0,0
+9,238215,Sinhalese Sports Club Ground,Pakistan,Mohammad Asif,Right-arm fast-medium,"[0, 1, 1]",0,4,5,0,0
+10,66380,National Stadium,Pakistan,Mohammad Sami,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+11,66380,National Stadium,Pakistan,Shoaib Akhtar,Right-arm fast,"[0, 1, 0]",0,3,4,0,0

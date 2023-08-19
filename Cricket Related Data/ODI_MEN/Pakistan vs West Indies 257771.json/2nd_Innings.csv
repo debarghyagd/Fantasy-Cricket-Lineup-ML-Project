@@ -1,0 +1,229 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,CH Gayle,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+1,0.2,CH Gayle,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+2,0.3,CH Gayle,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+3,0.4,CH Gayle,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+4,0.5,CH Gayle,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+5,0.6,CH Gayle,S Chanderpaul,Naved-ul-Hasan,1,0,null,1,0,null,null
+6,1.1,CH Gayle,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+7,1.2,CH Gayle,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+8,1.3,CH Gayle,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+9,1.4,CH Gayle,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+10,1.5,CH Gayle,S Chanderpaul,Mohammad Sami,4,0,null,4,0,null,null
+11,1.6,CH Gayle,S Chanderpaul,Mohammad Sami,4,0,null,4,0,null,null
+12,2.1,S Chanderpaul,CH Gayle,Naved-ul-Hasan,0,0,null,0,0,null,null
+13,2.2,S Chanderpaul,CH Gayle,Naved-ul-Hasan,0,0,null,0,0,null,null
+14,2.3,S Chanderpaul,CH Gayle,Naved-ul-Hasan,1,1,noballs ,2,0,null,null
+15,2.4,CH Gayle,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+16,2.5,CH Gayle,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,1,CH Gayle,bowled
+17,2.6,LMP Simmons,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,1,LMP Simmons,lbw
+18,2.7,MN Samuels,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+19,3.1,S Chanderpaul,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+20,3.2,S Chanderpaul,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+21,3.3,S Chanderpaul,MN Samuels,Mohammad Sami,0,1,wides ,1,0,null,null
+22,3.4,S Chanderpaul,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+23,3.5,S Chanderpaul,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+24,3.6,S Chanderpaul,MN Samuels,Mohammad Sami,4,1,noballs ,5,0,null,null
+25,3.7,S Chanderpaul,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+26,3.8,S Chanderpaul,MN Samuels,Mohammad Sami,1,0,null,1,0,null,null
+27,4.1,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,1,wides ,1,0,null,null
+28,4.2,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,0,null,0,0,null,null
+29,4.3,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,0,null,0,0,null,null
+30,4.4,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,0,null,0,0,null,null
+31,4.5,S Chanderpaul,MN Samuels,Naved-ul-Hasan,4,0,null,4,0,null,null
+32,4.6,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,0,null,0,0,null,null
+33,4.7,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,1,wides ,1,0,null,null
+34,4.8,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,0,null,0,0,null,null
+35,5.1,MN Samuels,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+36,5.2,MN Samuels,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+37,5.3,MN Samuels,S Chanderpaul,Mohammad Sami,0,1,wides ,1,0,null,null
+38,5.4,MN Samuels,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+39,5.5,MN Samuels,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+40,5.6,MN Samuels,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+41,5.7,MN Samuels,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+42,6.1,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,0,null,0,0,null,null
+43,6.2,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,0,null,0,0,null,null
+44,6.3,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,0,null,0,0,null,null
+45,6.4,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,0,null,0,0,null,null
+46,6.5,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,0,null,0,0,null,null
+47,6.6,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,0,null,0,0,null,null
+48,7.1,MN Samuels,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+49,7.2,MN Samuels,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+50,7.3,MN Samuels,S Chanderpaul,Mohammad Sami,0,1,legbyes ,1,0,null,null
+51,7.4,S Chanderpaul,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+52,7.5,S Chanderpaul,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+53,7.6,S Chanderpaul,MN Samuels,Mohammad Sami,0,1,wides ,1,0,null,null
+54,7.7,S Chanderpaul,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+55,8.1,MN Samuels,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+56,8.2,MN Samuels,S Chanderpaul,Naved-ul-Hasan,0,1,wides ,1,0,null,null
+57,8.3,MN Samuels,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+58,8.4,MN Samuels,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+59,8.5,MN Samuels,S Chanderpaul,Naved-ul-Hasan,0,4,legbyes ,4,0,null,null
+60,8.6,MN Samuels,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+61,8.7,MN Samuels,S Chanderpaul,Naved-ul-Hasan,1,0,null,1,0,null,null
+62,9.1,MN Samuels,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+63,9.2,MN Samuels,S Chanderpaul,Mohammad Sami,0,1,wides ,1,0,null,null
+64,9.3,MN Samuels,S Chanderpaul,Mohammad Sami,4,0,null,4,0,null,null
+65,9.4,MN Samuels,S Chanderpaul,Mohammad Sami,0,0,null,0,0,null,null
+66,9.5,MN Samuels,S Chanderpaul,Mohammad Sami,1,0,null,1,0,null,null
+67,9.6,S Chanderpaul,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+68,9.7,S Chanderpaul,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+69,10.1,MN Samuels,S Chanderpaul,Naved-ul-Hasan,3,0,null,3,0,null,null
+70,10.2,S Chanderpaul,MN Samuels,Naved-ul-Hasan,0,1,wides ,1,0,null,null
+71,10.3,S Chanderpaul,MN Samuels,Naved-ul-Hasan,1,0,null,1,0,null,null
+72,10.4,MN Samuels,S Chanderpaul,Naved-ul-Hasan,0,1,wides ,1,0,null,null
+73,10.5,MN Samuels,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+74,10.6,MN Samuels,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+75,10.7,MN Samuels,S Chanderpaul,Naved-ul-Hasan,0,0,null,0,0,null,null
+76,10.8,MN Samuels,S Chanderpaul,Naved-ul-Hasan,1,0,null,1,0,null,null
+77,11.1,MN Samuels,S Chanderpaul,Iftikhar Anjum,0,0,null,0,0,null,null
+78,11.2,MN Samuels,S Chanderpaul,Iftikhar Anjum,4,0,null,4,0,null,null
+79,11.3,MN Samuels,S Chanderpaul,Iftikhar Anjum,4,0,null,4,0,null,null
+80,11.4,MN Samuels,S Chanderpaul,Iftikhar Anjum,1,0,null,1,0,null,null
+81,11.5,S Chanderpaul,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+82,11.6,S Chanderpaul,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+83,12.1,MN Samuels,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+84,12.2,MN Samuels,S Chanderpaul,Shahid Afridi,4,0,null,4,0,null,null
+85,12.3,MN Samuels,S Chanderpaul,Shahid Afridi,4,0,null,4,0,null,null
+86,12.4,MN Samuels,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+87,12.5,MN Samuels,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+88,12.6,MN Samuels,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+89,13.1,S Chanderpaul,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+90,13.2,S Chanderpaul,MN Samuels,Iftikhar Anjum,2,0,null,2,0,null,null
+91,13.3,S Chanderpaul,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+92,13.4,S Chanderpaul,MN Samuels,Iftikhar Anjum,3,0,null,3,0,null,null
+93,13.5,MN Samuels,S Chanderpaul,Iftikhar Anjum,0,0,null,0,0,null,null
+94,13.6,MN Samuels,S Chanderpaul,Iftikhar Anjum,0,0,null,0,0,null,null
+95,14.1,S Chanderpaul,MN Samuels,Shahid Afridi,0,0,null,0,0,null,null
+96,14.2,S Chanderpaul,MN Samuels,Shahid Afridi,1,0,null,1,0,null,null
+97,14.3,MN Samuels,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+98,14.4,MN Samuels,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+99,14.5,MN Samuels,S Chanderpaul,Shahid Afridi,4,0,null,4,0,null,null
+100,14.6,MN Samuels,S Chanderpaul,Shahid Afridi,0,0,null,0,0,null,null
+101,15.1,S Chanderpaul,MN Samuels,Iftikhar Anjum,2,0,null,2,0,null,null
+102,15.2,S Chanderpaul,MN Samuels,Iftikhar Anjum,4,0,null,4,0,null,null
+103,15.3,S Chanderpaul,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+104,15.4,S Chanderpaul,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+105,15.5,S Chanderpaul,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+106,15.6,S Chanderpaul,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+107,16.1,MN Samuels,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+108,16.2,MN Samuels,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+109,16.3,MN Samuels,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+110,16.4,MN Samuels,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+111,16.5,MN Samuels,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+112,16.6,MN Samuels,S Chanderpaul,Abdul Razzaq,0,1,wides ,1,0,null,null
+113,16.7,MN Samuels,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+114,17.1,S Chanderpaul,MN Samuels,Iftikhar Anjum,4,0,null,4,0,null,null
+115,17.2,S Chanderpaul,MN Samuels,Iftikhar Anjum,1,0,null,1,0,null,null
+116,17.3,MN Samuels,S Chanderpaul,Iftikhar Anjum,3,0,null,3,0,null,null
+117,17.4,S Chanderpaul,MN Samuels,Iftikhar Anjum,3,0,null,3,0,null,null
+118,17.5,MN Samuels,S Chanderpaul,Iftikhar Anjum,6,0,null,6,0,null,null
+119,17.6,MN Samuels,S Chanderpaul,Iftikhar Anjum,4,0,null,4,0,null,null
+120,18.1,S Chanderpaul,MN Samuels,Abdul Razzaq,0,0,null,0,0,null,null
+121,18.2,S Chanderpaul,MN Samuels,Abdul Razzaq,1,0,null,1,0,null,null
+122,18.3,MN Samuels,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+123,18.4,MN Samuels,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+124,18.5,S Chanderpaul,MN Samuels,Abdul Razzaq,0,1,wides ,1,0,null,null
+125,18.6,S Chanderpaul,MN Samuels,Abdul Razzaq,0,0,null,0,0,null,null
+126,18.7,S Chanderpaul,MN Samuels,Abdul Razzaq,4,0,null,4,0,null,null
+127,19.1,MN Samuels,S Chanderpaul,Mohammad Hafeez,1,0,null,1,0,null,null
+128,19.2,S Chanderpaul,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+129,19.3,S Chanderpaul,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+130,19.4,S Chanderpaul,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+131,19.5,S Chanderpaul,MN Samuels,Mohammad Hafeez,1,0,null,1,0,null,null
+132,19.6,MN Samuels,S Chanderpaul,Mohammad Hafeez,0,0,null,0,0,null,null
+133,20.1,S Chanderpaul,MN Samuels,Abdul Razzaq,4,0,null,4,0,null,null
+134,20.2,S Chanderpaul,MN Samuels,Abdul Razzaq,4,0,null,4,0,null,null
+135,20.3,S Chanderpaul,MN Samuels,Abdul Razzaq,4,0,null,4,0,null,null
+136,20.4,S Chanderpaul,MN Samuels,Abdul Razzaq,0,1,noballs ,1,0,null,null
+137,20.5,S Chanderpaul,MN Samuels,Abdul Razzaq,1,0,null,1,0,null,null
+138,20.6,MN Samuels,S Chanderpaul,Abdul Razzaq,0,0,null,0,0,null,null
+139,20.7,MN Samuels,S Chanderpaul,Abdul Razzaq,1,0,null,1,0,null,null
+140,21.1,MN Samuels,S Chanderpaul,Mohammad Hafeez,1,0,null,1,0,null,null
+141,21.2,S Chanderpaul,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+142,21.3,S Chanderpaul,MN Samuels,Mohammad Hafeez,1,0,null,1,0,null,null
+143,21.4,MN Samuels,S Chanderpaul,Mohammad Hafeez,0,0,null,0,0,null,null
+144,21.5,MN Samuels,S Chanderpaul,Mohammad Hafeez,1,0,null,1,0,null,null
+145,21.6,S Chanderpaul,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+146,22.1,MN Samuels,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+147,22.2,MN Samuels,S Chanderpaul,Shoaib Malik,1,0,null,1,0,null,null
+148,22.3,S Chanderpaul,MN Samuels,Shoaib Malik,0,0,null,0,0,null,null
+149,22.4,S Chanderpaul,MN Samuels,Shoaib Malik,0,0,null,0,0,null,null
+150,22.5,S Chanderpaul,MN Samuels,Shoaib Malik,0,0,null,0,0,null,null
+151,22.6,S Chanderpaul,MN Samuels,Shoaib Malik,1,0,null,1,0,null,null
+152,23.1,S Chanderpaul,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+153,23.2,S Chanderpaul,MN Samuels,Mohammad Hafeez,1,0,null,1,0,null,null
+154,23.3,MN Samuels,S Chanderpaul,Mohammad Hafeez,1,0,null,1,0,null,null
+155,23.4,S Chanderpaul,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+156,23.5,S Chanderpaul,MN Samuels,Mohammad Hafeez,1,0,null,1,0,null,null
+157,23.6,MN Samuels,S Chanderpaul,Mohammad Hafeez,0,0,null,0,0,null,null
+158,24.1,S Chanderpaul,MN Samuels,Shoaib Malik,0,0,null,0,0,null,null
+159,24.2,S Chanderpaul,MN Samuels,Shoaib Malik,0,0,null,0,0,null,null
+160,24.3,S Chanderpaul,MN Samuels,Shoaib Malik,1,0,null,1,0,null,null
+161,24.4,MN Samuels,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+162,24.5,MN Samuels,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+163,24.6,MN Samuels,S Chanderpaul,Shoaib Malik,4,0,null,4,0,null,null
+164,25.1,S Chanderpaul,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+165,25.2,S Chanderpaul,MN Samuels,Mohammad Hafeez,1,0,null,1,0,null,null
+166,25.3,MN Samuels,S Chanderpaul,Mohammad Hafeez,1,0,null,1,0,null,null
+167,25.4,S Chanderpaul,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+168,25.5,S Chanderpaul,MN Samuels,Mohammad Hafeez,0,0,null,0,0,null,null
+169,25.6,S Chanderpaul,MN Samuels,Mohammad Hafeez,1,0,null,1,0,null,null
+170,26.1,S Chanderpaul,MN Samuels,Shoaib Malik,1,0,null,1,0,null,null
+171,26.2,MN Samuels,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+172,26.3,MN Samuels,S Chanderpaul,Shoaib Malik,0,0,null,0,0,null,null
+173,26.4,MN Samuels,S Chanderpaul,Shoaib Malik,1,0,null,1,0,null,null
+174,26.5,S Chanderpaul,MN Samuels,Shoaib Malik,1,0,null,1,0,null,null
+175,26.6,MN Samuels,S Chanderpaul,Shoaib Malik,4,0,null,4,0,null,null
+176,27.1,S Chanderpaul,MN Samuels,Mohammad Hafeez,1,0,null,1,0,null,null
+177,27.2,MN Samuels,S Chanderpaul,Mohammad Hafeez,0,0,null,0,0,null,null
+178,27.3,MN Samuels,S Chanderpaul,Mohammad Hafeez,0,0,null,0,0,null,null
+179,27.4,MN Samuels,S Chanderpaul,Mohammad Hafeez,0,0,null,0,0,null,null
+180,27.5,MN Samuels,S Chanderpaul,Mohammad Hafeez,0,0,null,0,0,null,null
+181,27.6,MN Samuels,S Chanderpaul,Mohammad Hafeez,0,0,null,0,0,null,null
+182,28.1,S Chanderpaul,MN Samuels,Mohammad Sami,0,1,legbyes ,1,0,null,null
+183,28.2,MN Samuels,S Chanderpaul,Mohammad Sami,1,0,null,1,0,null,null
+184,28.3,S Chanderpaul,MN Samuels,Mohammad Sami,0,1,wides ,1,0,null,null
+185,28.4,S Chanderpaul,MN Samuels,Mohammad Sami,0,0,null,0,1,S Chanderpaul,caught
+186,28.5,BC Lara,MN Samuels,Mohammad Sami,0,1,noballs ,1,0,null,null
+187,28.6,BC Lara,MN Samuels,Mohammad Sami,0,4,legbyes ,4,0,null,null
+188,28.7,BC Lara,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+189,28.8,BC Lara,MN Samuels,Mohammad Sami,0,0,null,0,0,null,null
+190,29.1,MN Samuels,BC Lara,Abdul Razzaq,0,0,null,0,0,null,null
+191,29.2,MN Samuels,BC Lara,Abdul Razzaq,4,1,noballs ,5,0,null,null
+192,29.3,MN Samuels,BC Lara,Abdul Razzaq,1,0,null,1,0,null,null
+193,29.4,BC Lara,MN Samuels,Abdul Razzaq,1,0,null,1,0,null,null
+194,29.5,MN Samuels,BC Lara,Abdul Razzaq,0,1,legbyes ,1,0,null,null
+195,29.6,BC Lara,MN Samuels,Abdul Razzaq,0,0,null,0,0,null,null
+196,29.7,BC Lara,MN Samuels,Abdul Razzaq,0,0,null,0,0,null,null
+197,30.1,MN Samuels,BC Lara,Mohammad Sami,0,0,null,0,0,null,null
+198,30.2,MN Samuels,BC Lara,Mohammad Sami,0,0,null,0,0,null,null
+199,30.3,MN Samuels,BC Lara,Mohammad Sami,4,1,noballs ,5,0,null,null
+200,30.4,MN Samuels,BC Lara,Mohammad Sami,1,0,null,1,0,null,null
+201,30.5,BC Lara,MN Samuels,Mohammad Sami,1,0,null,1,0,null,null
+202,30.6,MN Samuels,BC Lara,Mohammad Sami,0,0,null,0,0,null,null
+203,30.7,MN Samuels,BC Lara,Mohammad Sami,4,0,null,4,0,null,null
+204,31.1,BC Lara,MN Samuels,Abdul Razzaq,0,1,noballs ,1,0,null,null
+205,31.2,BC Lara,MN Samuels,Abdul Razzaq,1,0,null,1,0,null,null
+206,31.3,MN Samuels,BC Lara,Abdul Razzaq,0,0,null,0,0,null,null
+207,31.4,MN Samuels,BC Lara,Abdul Razzaq,4,0,null,4,0,null,null
+208,31.5,MN Samuels,BC Lara,Abdul Razzaq,1,0,null,1,0,null,null
+209,31.6,BC Lara,MN Samuels,Abdul Razzaq,0,0,null,0,0,null,null
+210,31.7,BC Lara,MN Samuels,Abdul Razzaq,0,0,null,0,0,null,null
+211,32.1,MN Samuels,BC Lara,Iftikhar Anjum,4,0,null,4,0,null,null
+212,32.2,MN Samuels,BC Lara,Iftikhar Anjum,0,0,null,0,0,null,null
+213,32.3,MN Samuels,BC Lara,Iftikhar Anjum,1,0,null,1,0,null,null
+214,32.4,BC Lara,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+215,32.5,BC Lara,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+216,32.6,BC Lara,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+217,33.1,MN Samuels,BC Lara,Abdul Razzaq,0,0,null,0,0,null,null
+218,33.2,MN Samuels,BC Lara,Abdul Razzaq,4,0,null,4,0,null,null
+219,33.3,MN Samuels,BC Lara,Abdul Razzaq,0,0,null,0,0,null,null
+220,33.4,MN Samuels,BC Lara,Abdul Razzaq,2,0,null,2,0,null,null
+221,33.5,MN Samuels,BC Lara,Abdul Razzaq,4,0,null,4,0,null,null
+222,33.6,MN Samuels,BC Lara,Abdul Razzaq,4,0,null,4,0,null,null
+223,34.1,BC Lara,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+224,34.2,BC Lara,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+225,34.3,BC Lara,MN Samuels,Iftikhar Anjum,6,0,null,6,0,null,null
+226,34.4,BC Lara,MN Samuels,Iftikhar Anjum,0,0,null,0,0,null,null
+227,34.5,BC Lara,MN Samuels,Iftikhar Anjum,4,0,null,4,0,null,null

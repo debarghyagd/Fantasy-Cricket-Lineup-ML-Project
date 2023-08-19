@@ -1,0 +1,306 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,RG Sharma,S Dhawan,RMS Eranga,0,0,null,0,0,null,null
+1,0.2,RG Sharma,S Dhawan,RMS Eranga,0,0,null,0,0,null,null
+2,0.3,RG Sharma,S Dhawan,RMS Eranga,0,0,null,0,0,null,null
+3,0.4,RG Sharma,S Dhawan,RMS Eranga,0,0,null,0,0,null,null
+4,0.5,RG Sharma,S Dhawan,RMS Eranga,1,0,null,1,0,null,null
+5,0.6,S Dhawan,RG Sharma,RMS Eranga,1,0,null,1,0,null,null
+6,1.1,S Dhawan,RG Sharma,RAS Lakmal,0,1,wides ,1,0,null,null
+7,1.2,S Dhawan,RG Sharma,RAS Lakmal,0,1,wides ,1,0,null,null
+8,1.3,S Dhawan,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+9,1.4,S Dhawan,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+10,1.5,S Dhawan,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+11,1.6,S Dhawan,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+12,1.7,S Dhawan,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+13,1.8,S Dhawan,RG Sharma,RAS Lakmal,1,0,null,1,0,null,null
+14,2.1,S Dhawan,RG Sharma,RMS Eranga,1,0,null,1,0,null,null
+15,2.2,RG Sharma,S Dhawan,RMS Eranga,1,0,null,1,0,null,null
+16,2.3,S Dhawan,RG Sharma,RMS Eranga,4,0,null,4,0,null,null
+17,2.4,S Dhawan,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+18,2.5,S Dhawan,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+19,2.6,S Dhawan,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+20,3.1,RG Sharma,S Dhawan,RAS Lakmal,0,0,null,0,0,null,null
+21,3.2,RG Sharma,S Dhawan,RAS Lakmal,1,0,null,1,0,null,null
+22,3.3,S Dhawan,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+23,3.4,S Dhawan,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+24,3.5,S Dhawan,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+25,3.6,S Dhawan,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+26,4.1,RG Sharma,S Dhawan,RMS Eranga,1,0,null,1,0,null,null
+27,4.2,S Dhawan,RG Sharma,RMS Eranga,2,0,null,2,0,null,null
+28,4.3,S Dhawan,RG Sharma,RMS Eranga,1,0,null,1,0,null,null
+29,4.4,RG Sharma,S Dhawan,RMS Eranga,0,0,null,0,0,null,null
+30,4.5,RG Sharma,S Dhawan,RMS Eranga,0,0,null,0,0,null,null
+31,4.6,RG Sharma,S Dhawan,RMS Eranga,0,0,null,0,0,null,null
+32,5.1,S Dhawan,RG Sharma,AD Mathews,0,0,null,0,0,null,null
+33,5.2,S Dhawan,RG Sharma,AD Mathews,0,0,null,0,0,null,null
+34,5.3,S Dhawan,RG Sharma,AD Mathews,0,0,null,0,0,null,null
+35,5.4,S Dhawan,RG Sharma,AD Mathews,0,0,null,0,0,null,null
+36,5.5,S Dhawan,RG Sharma,AD Mathews,0,0,null,0,0,null,null
+37,5.6,S Dhawan,RG Sharma,AD Mathews,0,0,null,0,0,null,null
+38,6.1,RG Sharma,S Dhawan,RMS Eranga,0,0,null,0,0,null,null
+39,6.2,RG Sharma,S Dhawan,RMS Eranga,0,0,null,0,0,null,null
+40,6.3,RG Sharma,S Dhawan,RMS Eranga,1,0,null,1,0,null,null
+41,6.4,S Dhawan,RG Sharma,RMS Eranga,4,0,null,4,0,null,null
+42,6.5,S Dhawan,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+43,6.6,S Dhawan,RG Sharma,RMS Eranga,1,0,null,1,0,null,null
+44,7.1,S Dhawan,RG Sharma,AD Mathews,0,0,null,0,0,null,null
+45,7.2,S Dhawan,RG Sharma,AD Mathews,0,0,null,0,0,null,null
+46,7.3,S Dhawan,RG Sharma,AD Mathews,0,0,null,0,0,null,null
+47,7.4,S Dhawan,RG Sharma,AD Mathews,1,0,null,1,0,null,null
+48,7.5,RG Sharma,S Dhawan,AD Mathews,0,0,null,0,0,null,null
+49,7.6,RG Sharma,S Dhawan,AD Mathews,0,0,null,0,0,null,null
+50,8.1,S Dhawan,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+51,8.2,S Dhawan,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+52,8.3,S Dhawan,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+53,8.4,S Dhawan,RG Sharma,RMS Eranga,0,0,null,0,1,S Dhawan,caught
+54,8.5,V Kohli,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+55,8.6,V Kohli,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+56,9.1,RG Sharma,V Kohli,AD Mathews,0,0,null,0,0,null,null
+57,9.2,RG Sharma,V Kohli,AD Mathews,0,0,null,0,0,null,null
+58,9.3,RG Sharma,V Kohli,AD Mathews,1,0,null,1,0,null,null
+59,9.4,V Kohli,RG Sharma,AD Mathews,1,0,null,1,0,null,null
+60,9.5,RG Sharma,V Kohli,AD Mathews,0,0,null,0,0,null,null
+61,9.6,RG Sharma,V Kohli,AD Mathews,0,0,null,0,0,null,null
+62,10.1,V Kohli,RG Sharma,RMS Eranga,1,0,null,1,0,null,null
+63,10.2,RG Sharma,V Kohli,RMS Eranga,0,0,null,0,0,null,null
+64,10.3,RG Sharma,V Kohli,RMS Eranga,1,0,null,1,0,null,null
+65,10.4,V Kohli,RG Sharma,RMS Eranga,0,0,null,0,1,V Kohli,caught
+66,10.5,KD Karthik,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+67,10.6,KD Karthik,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+68,11.1,RG Sharma,KD Karthik,AD Mathews,0,0,null,0,0,null,null
+69,11.2,RG Sharma,KD Karthik,AD Mathews,0,0,null,0,0,null,null
+70,11.3,RG Sharma,KD Karthik,AD Mathews,2,0,null,2,0,null,null
+71,11.4,RG Sharma,KD Karthik,AD Mathews,0,0,null,0,0,null,null
+72,11.5,RG Sharma,KD Karthik,AD Mathews,0,0,null,0,0,null,null
+73,11.6,RG Sharma,KD Karthik,AD Mathews,0,0,null,0,0,null,null
+74,12.1,KD Karthik,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+75,12.2,KD Karthik,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+76,12.3,KD Karthik,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+77,12.4,KD Karthik,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+78,12.5,KD Karthik,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+79,12.6,KD Karthik,RG Sharma,RMS Eranga,0,0,null,0,0,null,null
+80,13.1,RG Sharma,KD Karthik,SL Malinga,0,0,null,0,0,null,null
+81,13.2,RG Sharma,KD Karthik,SL Malinga,0,0,null,0,0,null,null
+82,13.3,RG Sharma,KD Karthik,SL Malinga,0,0,null,0,0,null,null
+83,13.4,RG Sharma,KD Karthik,SL Malinga,6,0,null,6,0,null,null
+84,13.5,RG Sharma,KD Karthik,SL Malinga,2,0,null,2,0,null,null
+85,13.6,RG Sharma,KD Karthik,SL Malinga,0,0,null,0,0,null,null
+86,14.1,KD Karthik,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+87,14.2,KD Karthik,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+88,14.3,KD Karthik,RG Sharma,RAS Lakmal,2,0,null,2,0,null,null
+89,14.4,KD Karthik,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+90,14.5,KD Karthik,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+91,14.6,KD Karthik,RG Sharma,RAS Lakmal,0,0,null,0,0,null,null
+92,15.1,RG Sharma,KD Karthik,SL Malinga,0,0,null,0,0,null,null
+93,15.2,RG Sharma,KD Karthik,SL Malinga,1,0,null,1,0,null,null
+94,15.3,KD Karthik,RG Sharma,SL Malinga,1,0,null,1,0,null,null
+95,15.4,RG Sharma,KD Karthik,SL Malinga,0,1,wides ,1,0,null,null
+96,15.5,RG Sharma,KD Karthik,SL Malinga,1,0,null,1,0,null,null
+97,15.6,KD Karthik,RG Sharma,SL Malinga,0,0,null,0,0,null,null
+98,15.7,KD Karthik,RG Sharma,SL Malinga,0,0,null,0,0,null,null
+99,16.1,RG Sharma,KD Karthik,RAS Lakmal,0,2,byes ,2,0,null,null
+100,16.2,RG Sharma,KD Karthik,RAS Lakmal,0,0,null,0,0,null,null
+101,16.3,RG Sharma,KD Karthik,RAS Lakmal,0,0,null,0,0,null,null
+102,16.4,RG Sharma,KD Karthik,RAS Lakmal,0,0,null,0,0,null,null
+103,16.5,RG Sharma,KD Karthik,RAS Lakmal,0,0,null,0,0,null,null
+104,16.6,RG Sharma,KD Karthik,RAS Lakmal,1,0,null,1,0,null,null
+105,17.1,RG Sharma,KD Karthik,SL Malinga,0,0,null,0,0,null,null
+106,17.2,RG Sharma,KD Karthik,SL Malinga,1,0,null,1,0,null,null
+107,17.3,KD Karthik,RG Sharma,SL Malinga,1,0,null,1,0,null,null
+108,17.4,RG Sharma,KD Karthik,SL Malinga,1,0,null,1,0,null,null
+109,17.5,KD Karthik,RG Sharma,SL Malinga,0,0,null,0,0,null,null
+110,17.6,KD Karthik,RG Sharma,SL Malinga,1,0,null,1,0,null,null
+111,18.1,KD Karthik,RG Sharma,HMRKB Herath,0,0,null,0,0,null,null
+112,18.2,KD Karthik,RG Sharma,HMRKB Herath,0,0,null,0,0,null,null
+113,18.3,KD Karthik,RG Sharma,HMRKB Herath,0,0,null,0,0,null,null
+114,18.4,KD Karthik,RG Sharma,HMRKB Herath,0,0,null,0,0,null,null
+115,18.5,KD Karthik,RG Sharma,HMRKB Herath,1,0,null,1,0,null,null
+116,18.6,RG Sharma,KD Karthik,HMRKB Herath,4,0,null,4,0,null,null
+117,19.1,KD Karthik,RG Sharma,SL Malinga,0,0,null,0,0,null,null
+118,19.2,KD Karthik,RG Sharma,SL Malinga,2,0,null,2,0,null,null
+119,19.3,KD Karthik,RG Sharma,SL Malinga,4,0,null,4,0,null,null
+120,19.4,KD Karthik,RG Sharma,SL Malinga,4,0,null,4,0,null,null
+121,19.5,KD Karthik,RG Sharma,SL Malinga,1,0,null,1,0,null,null
+122,19.6,RG Sharma,KD Karthik,SL Malinga,0,0,null,0,0,null,null
+123,20.1,KD Karthik,RG Sharma,HMRKB Herath,1,0,null,1,0,null,null
+124,20.2,RG Sharma,KD Karthik,HMRKB Herath,0,0,null,0,0,null,null
+125,20.3,RG Sharma,KD Karthik,HMRKB Herath,0,0,null,0,0,null,null
+126,20.4,RG Sharma,KD Karthik,HMRKB Herath,1,0,null,1,0,null,null
+127,20.5,KD Karthik,RG Sharma,HMRKB Herath,0,0,null,0,0,null,null
+128,20.6,KD Karthik,RG Sharma,HMRKB Herath,0,0,null,0,0,null,null
+129,21.1,RG Sharma,KD Karthik,SL Malinga,0,1,wides ,1,0,null,null
+130,21.2,RG Sharma,KD Karthik,SL Malinga,1,0,null,1,0,null,null
+131,21.3,KD Karthik,RG Sharma,SL Malinga,1,0,null,1,0,null,null
+132,21.4,RG Sharma,KD Karthik,SL Malinga,0,0,null,0,0,null,null
+133,21.5,RG Sharma,KD Karthik,SL Malinga,1,0,null,1,0,null,null
+134,21.6,KD Karthik,RG Sharma,SL Malinga,4,0,null,4,0,null,null
+135,21.7,KD Karthik,RG Sharma,SL Malinga,0,0,null,0,0,null,null
+136,22.1,RG Sharma,KD Karthik,HMRKB Herath,0,0,null,0,0,null,null
+137,22.2,RG Sharma,KD Karthik,HMRKB Herath,0,0,null,0,0,null,null
+138,22.3,RG Sharma,KD Karthik,HMRKB Herath,0,0,null,0,0,null,null
+139,22.4,RG Sharma,KD Karthik,HMRKB Herath,0,0,null,0,0,null,null
+140,22.5,RG Sharma,KD Karthik,HMRKB Herath,1,0,null,1,0,null,null
+141,22.6,KD Karthik,RG Sharma,HMRKB Herath,0,0,null,0,1,KD Karthik,caught
+142,23.1,RG Sharma,SK Raina,AD Mathews,0,0,null,0,0,null,null
+143,23.2,RG Sharma,SK Raina,AD Mathews,4,0,null,4,0,null,null
+144,23.3,RG Sharma,SK Raina,AD Mathews,1,0,null,1,0,null,null
+145,23.4,SK Raina,RG Sharma,AD Mathews,1,0,null,1,0,null,null
+146,23.5,RG Sharma,SK Raina,AD Mathews,1,0,null,1,0,null,null
+147,23.6,SK Raina,RG Sharma,AD Mathews,1,0,null,1,0,null,null
+148,24.1,SK Raina,RG Sharma,HMRKB Herath,0,0,null,0,0,null,null
+149,24.2,SK Raina,RG Sharma,HMRKB Herath,1,0,null,1,0,null,null
+150,24.3,RG Sharma,SK Raina,HMRKB Herath,1,0,null,1,0,null,null
+151,24.4,SK Raina,RG Sharma,HMRKB Herath,1,0,null,1,0,null,null
+152,24.5,RG Sharma,SK Raina,HMRKB Herath,1,0,null,1,0,null,null
+153,24.6,SK Raina,RG Sharma,HMRKB Herath,0,0,null,0,0,null,null
+154,25.1,RG Sharma,SK Raina,AD Mathews,0,0,null,0,0,null,null
+155,25.2,RG Sharma,SK Raina,AD Mathews,1,0,null,1,0,null,null
+156,25.3,SK Raina,RG Sharma,AD Mathews,3,0,null,3,0,null,null
+157,25.4,RG Sharma,SK Raina,AD Mathews,1,0,null,1,0,null,null
+158,25.5,SK Raina,RG Sharma,AD Mathews,2,0,null,2,0,null,null
+159,25.6,SK Raina,RG Sharma,AD Mathews,4,0,null,4,0,null,null
+160,26.1,RG Sharma,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+161,26.2,RG Sharma,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+162,26.3,RG Sharma,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+163,26.4,RG Sharma,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+164,26.5,RG Sharma,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+165,26.6,RG Sharma,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+166,27.1,SK Raina,RG Sharma,SL Malinga,0,0,null,0,0,null,null
+167,27.2,SK Raina,RG Sharma,SL Malinga,1,0,null,1,0,null,null
+168,27.3,RG Sharma,SK Raina,SL Malinga,4,0,null,4,0,null,null
+169,27.4,RG Sharma,SK Raina,SL Malinga,1,0,null,1,0,null,null
+170,27.5,SK Raina,RG Sharma,SL Malinga,1,0,null,1,0,null,null
+171,27.6,RG Sharma,SK Raina,SL Malinga,4,0,null,4,0,null,null
+172,28.1,SK Raina,RG Sharma,HMRKB Herath,0,0,null,0,0,null,null
+173,28.2,SK Raina,RG Sharma,HMRKB Herath,1,0,null,1,0,null,null
+174,28.3,RG Sharma,SK Raina,HMRKB Herath,1,0,null,1,0,null,null
+175,28.4,SK Raina,RG Sharma,HMRKB Herath,0,0,null,0,0,null,null
+176,28.5,SK Raina,RG Sharma,HMRKB Herath,1,0,null,1,0,null,null
+177,28.6,RG Sharma,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+178,29.1,SK Raina,RG Sharma,RAS Lakmal,0,1,wides ,1,0,null,null
+179,29.2,SK Raina,RG Sharma,RAS Lakmal,1,0,null,1,0,null,null
+180,29.3,RG Sharma,SK Raina,RAS Lakmal,1,0,null,1,0,null,null
+181,29.4,SK Raina,RG Sharma,RAS Lakmal,1,0,null,1,0,null,null
+182,29.5,RG Sharma,SK Raina,RAS Lakmal,1,0,null,1,0,null,null
+183,29.6,SK Raina,RG Sharma,RAS Lakmal,6,0,null,6,0,null,null
+184,29.7,SK Raina,RG Sharma,RAS Lakmal,2,0,null,2,0,null,null
+185,30.1,RG Sharma,SK Raina,RMS Eranga,0,5,wides ,5,0,null,null
+186,30.2,RG Sharma,SK Raina,RMS Eranga,0,0,null,0,0,null,null
+187,30.3,RG Sharma,SK Raina,RMS Eranga,4,0,null,4,0,null,null
+188,30.4,RG Sharma,SK Raina,RMS Eranga,1,0,null,1,0,null,null
+189,30.5,SK Raina,RG Sharma,RMS Eranga,1,0,null,1,0,null,null
+190,30.6,RG Sharma,SK Raina,RMS Eranga,0,0,null,0,0,null,null
+191,30.7,RG Sharma,SK Raina,RMS Eranga,1,0,null,1,0,null,null
+192,31.1,RG Sharma,SK Raina,HMRKB Herath,0,0,null,0,1,RG Sharma,bowled
+193,31.2,MS Dhoni,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+194,31.3,MS Dhoni,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+195,31.4,MS Dhoni,SK Raina,HMRKB Herath,2,0,null,2,0,null,null
+196,31.5,MS Dhoni,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+197,31.6,MS Dhoni,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+198,32.1,SK Raina,MS Dhoni,RAS Lakmal,2,0,null,2,0,null,null
+199,32.2,SK Raina,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+200,32.3,SK Raina,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+201,32.4,SK Raina,MS Dhoni,RAS Lakmal,1,0,null,1,0,null,null
+202,32.5,MS Dhoni,SK Raina,RAS Lakmal,0,0,null,0,0,null,null
+203,32.6,MS Dhoni,SK Raina,RAS Lakmal,0,0,null,0,0,null,null
+204,33.1,SK Raina,MS Dhoni,HMRKB Herath,1,0,null,1,0,null,null
+205,33.2,MS Dhoni,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+206,33.3,MS Dhoni,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+207,33.4,MS Dhoni,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+208,33.5,MS Dhoni,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+209,33.6,MS Dhoni,SK Raina,HMRKB Herath,0,0,null,0,0,null,null
+210,34.1,SK Raina,MS Dhoni,RAS Lakmal,0,0,null,0,1,SK Raina,caught
+211,34.2,RA Jadeja,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+212,34.3,RA Jadeja,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+213,34.4,RA Jadeja,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+214,34.5,RA Jadeja,MS Dhoni,RAS Lakmal,1,0,null,1,0,null,null
+215,34.6,MS Dhoni,RA Jadeja,RAS Lakmal,0,0,null,0,0,null,null
+216,35.1,RA Jadeja,MS Dhoni,HMRKB Herath,2,0,null,2,0,null,null
+217,35.2,RA Jadeja,MS Dhoni,HMRKB Herath,0,0,null,0,0,null,null
+218,35.3,RA Jadeja,MS Dhoni,HMRKB Herath,0,0,null,0,0,null,null
+219,35.4,RA Jadeja,MS Dhoni,HMRKB Herath,0,0,null,0,0,null,null
+220,35.5,RA Jadeja,MS Dhoni,HMRKB Herath,0,0,null,0,0,null,null
+221,35.6,RA Jadeja,MS Dhoni,HMRKB Herath,0,0,null,0,0,null,null
+222,36.1,MS Dhoni,RA Jadeja,RAS Lakmal,0,0,null,0,0,null,null
+223,36.2,MS Dhoni,RA Jadeja,RAS Lakmal,1,0,null,1,0,null,null
+224,36.3,RA Jadeja,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+225,36.4,RA Jadeja,MS Dhoni,RAS Lakmal,1,0,null,1,0,null,null
+226,36.5,MS Dhoni,RA Jadeja,RAS Lakmal,1,0,null,1,0,null,null
+227,36.6,RA Jadeja,MS Dhoni,RAS Lakmal,1,0,null,1,0,null,null
+228,37.1,RA Jadeja,MS Dhoni,HMRKB Herath,0,0,null,0,1,RA Jadeja,lbw
+229,37.2,R Ashwin,MS Dhoni,HMRKB Herath,0,0,null,0,1,R Ashwin,lbw
+230,37.3,B Kumar,MS Dhoni,HMRKB Herath,0,0,null,0,0,null,null
+231,37.4,B Kumar,MS Dhoni,HMRKB Herath,0,0,null,0,0,null,null
+232,37.5,B Kumar,MS Dhoni,HMRKB Herath,0,0,null,0,0,null,null
+233,37.6,B Kumar,MS Dhoni,HMRKB Herath,0,0,null,0,0,null,null
+234,38.1,MS Dhoni,B Kumar,RAS Lakmal,0,0,null,0,0,null,null
+235,38.2,MS Dhoni,B Kumar,RAS Lakmal,0,0,null,0,0,null,null
+236,38.3,MS Dhoni,B Kumar,RAS Lakmal,4,0,null,4,0,null,null
+237,38.4,MS Dhoni,B Kumar,RAS Lakmal,0,0,null,0,0,null,null
+238,38.5,MS Dhoni,B Kumar,RAS Lakmal,1,0,null,1,0,null,null
+239,38.6,B Kumar,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+240,39.1,MS Dhoni,B Kumar,SL Malinga,4,0,null,4,0,null,null
+241,39.2,MS Dhoni,B Kumar,SL Malinga,0,0,null,0,0,null,null
+242,39.3,MS Dhoni,B Kumar,SL Malinga,0,0,null,0,0,null,null
+243,39.4,MS Dhoni,B Kumar,SL Malinga,4,0,null,4,0,null,null
+244,39.5,MS Dhoni,B Kumar,SL Malinga,0,0,null,0,0,null,null
+245,39.6,MS Dhoni,B Kumar,SL Malinga,0,0,null,0,0,null,null
+246,40.1,B Kumar,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+247,40.2,B Kumar,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+248,40.3,B Kumar,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+249,40.4,B Kumar,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+250,40.5,B Kumar,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+251,40.6,B Kumar,MS Dhoni,RAS Lakmal,0,0,null,0,0,null,null
+252,41.1,MS Dhoni,B Kumar,SL Malinga,1,0,null,1,0,null,null
+253,41.2,B Kumar,MS Dhoni,SL Malinga,0,0,null,0,0,null,null
+254,41.3,B Kumar,MS Dhoni,SL Malinga,0,1,wides ,1,0,null,null
+255,41.4,B Kumar,MS Dhoni,SL Malinga,0,0,null,0,0,null,null
+256,41.5,B Kumar,MS Dhoni,SL Malinga,0,0,null,0,0,null,null
+257,41.6,B Kumar,MS Dhoni,SL Malinga,0,0,null,0,1,B Kumar,lbw
+258,41.7,R Vinay Kumar,MS Dhoni,SL Malinga,0,0,null,0,0,null,null
+259,42.1,MS Dhoni,R Vinay Kumar,AD Mathews,0,0,null,0,0,null,null
+260,42.2,MS Dhoni,R Vinay Kumar,AD Mathews,4,0,null,4,0,null,null
+261,42.3,MS Dhoni,R Vinay Kumar,AD Mathews,2,0,null,2,0,null,null
+262,42.4,MS Dhoni,R Vinay Kumar,AD Mathews,1,0,null,1,0,null,null
+263,42.5,R Vinay Kumar,MS Dhoni,AD Mathews,1,0,null,1,0,null,null
+264,42.6,MS Dhoni,R Vinay Kumar,AD Mathews,0,0,null,0,0,null,null
+265,43.1,R Vinay Kumar,MS Dhoni,SL Malinga,0,0,null,0,0,null,null
+266,43.2,R Vinay Kumar,MS Dhoni,SL Malinga,0,1,legbyes ,1,0,null,null
+267,43.3,MS Dhoni,R Vinay Kumar,SL Malinga,0,0,null,0,0,null,null
+268,43.4,MS Dhoni,R Vinay Kumar,SL Malinga,0,0,null,0,0,null,null
+269,43.5,MS Dhoni,R Vinay Kumar,SL Malinga,0,0,null,0,0,null,null
+270,43.6,MS Dhoni,R Vinay Kumar,SL Malinga,0,0,null,0,0,null,null
+271,44.1,R Vinay Kumar,MS Dhoni,AD Mathews,0,0,null,0,0,null,null
+272,44.2,R Vinay Kumar,MS Dhoni,AD Mathews,0,0,null,0,0,null,null
+273,44.3,R Vinay Kumar,MS Dhoni,AD Mathews,2,0,null,2,0,null,null
+274,44.4,R Vinay Kumar,MS Dhoni,AD Mathews,0,0,null,0,0,null,null
+275,44.5,R Vinay Kumar,MS Dhoni,AD Mathews,0,0,null,0,0,null,null
+276,44.6,R Vinay Kumar,MS Dhoni,AD Mathews,0,0,null,0,0,null,null
+277,45.1,MS Dhoni,R Vinay Kumar,RMS Eranga,0,1,legbyes ,1,0,null,null
+278,45.2,R Vinay Kumar,MS Dhoni,RMS Eranga,0,0,null,0,0,null,null
+279,45.3,R Vinay Kumar,MS Dhoni,RMS Eranga,0,0,null,0,0,null,null
+280,45.4,R Vinay Kumar,MS Dhoni,RMS Eranga,2,0,null,2,0,null,null
+281,45.5,R Vinay Kumar,MS Dhoni,RMS Eranga,0,0,null,0,0,null,null
+282,45.6,R Vinay Kumar,MS Dhoni,RMS Eranga,0,0,null,0,0,null,null
+283,46.1,MS Dhoni,R Vinay Kumar,AD Mathews,1,0,null,1,0,null,null
+284,46.2,R Vinay Kumar,MS Dhoni,AD Mathews,0,0,null,0,1,R Vinay Kumar,caught
+285,46.3,MS Dhoni,I Sharma,AD Mathews,0,0,null,0,0,null,null
+286,46.4,MS Dhoni,I Sharma,AD Mathews,0,0,null,0,0,null,null
+287,46.5,MS Dhoni,I Sharma,AD Mathews,1,0,null,1,0,null,null
+288,46.6,I Sharma,MS Dhoni,AD Mathews,0,0,null,0,0,null,null
+289,47.1,MS Dhoni,I Sharma,SL Malinga,0,0,null,0,0,null,null
+290,47.2,MS Dhoni,I Sharma,SL Malinga,0,0,null,0,0,null,null
+291,47.3,MS Dhoni,I Sharma,SL Malinga,0,0,null,0,0,null,null
+292,47.4,MS Dhoni,I Sharma,SL Malinga,2,0,null,2,0,null,null
+293,47.5,MS Dhoni,I Sharma,SL Malinga,0,0,null,0,0,null,null
+294,47.6,MS Dhoni,I Sharma,SL Malinga,0,0,null,0,0,null,null
+295,48.1,I Sharma,MS Dhoni,AD Mathews,0,0,null,0,0,null,null
+296,48.2,I Sharma,MS Dhoni,AD Mathews,0,0,null,0,0,null,null
+297,48.3,I Sharma,MS Dhoni,AD Mathews,0,0,null,0,0,null,null
+298,48.4,I Sharma,MS Dhoni,AD Mathews,2,0,null,2,0,null,null
+299,48.5,I Sharma,MS Dhoni,AD Mathews,0,0,null,0,0,null,null
+300,48.6,I Sharma,MS Dhoni,AD Mathews,0,0,null,0,0,null,null
+301,49.1,MS Dhoni,I Sharma,RMS Eranga,0,0,null,0,0,null,null
+302,49.2,MS Dhoni,I Sharma,RMS Eranga,6,0,null,6,0,null,null
+303,49.3,MS Dhoni,I Sharma,RMS Eranga,4,0,null,4,0,null,null
+304,49.4,MS Dhoni,I Sharma,RMS Eranga,6,0,null,6,0,null,null

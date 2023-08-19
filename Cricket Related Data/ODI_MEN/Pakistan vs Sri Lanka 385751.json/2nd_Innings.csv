@@ -1,0 +1,144 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Khurram Manzoor,Younis Khan,KMDN Kulasekara,0,0,null,0,0,null,null
+1,0.2,Khurram Manzoor,Younis Khan,KMDN Kulasekara,0,0,null,0,0,null,null
+2,0.3,Khurram Manzoor,Younis Khan,KMDN Kulasekara,0,0,null,0,0,null,null
+3,0.4,Khurram Manzoor,Younis Khan,KMDN Kulasekara,0,0,null,0,0,null,null
+4,0.5,Khurram Manzoor,Younis Khan,KMDN Kulasekara,0,0,null,0,0,null,null
+5,0.6,Khurram Manzoor,Younis Khan,KMDN Kulasekara,0,0,null,0,0,null,null
+6,1.1,Younis Khan,Khurram Manzoor,T Thushara,4,0,null,4,0,null,null
+7,1.2,Younis Khan,Khurram Manzoor,T Thushara,0,0,null,0,0,null,null
+8,1.3,Younis Khan,Khurram Manzoor,T Thushara,0,0,null,0,0,null,null
+9,1.4,Younis Khan,Khurram Manzoor,T Thushara,0,0,null,0,0,null,null
+10,1.5,Younis Khan,Khurram Manzoor,T Thushara,0,0,null,0,0,null,null
+11,1.6,Younis Khan,Khurram Manzoor,T Thushara,0,0,null,0,1,Younis Khan,lbw
+12,2.1,Khurram Manzoor,Salman Butt,KMDN Kulasekara,0,0,null,0,0,null,null
+13,2.2,Khurram Manzoor,Salman Butt,KMDN Kulasekara,0,0,null,0,0,null,null
+14,2.3,Khurram Manzoor,Salman Butt,KMDN Kulasekara,0,0,null,0,0,null,null
+15,2.4,Khurram Manzoor,Salman Butt,KMDN Kulasekara,1,0,null,1,0,null,null
+16,2.5,Salman Butt,Khurram Manzoor,KMDN Kulasekara,0,0,null,0,1,Salman Butt,caught
+17,2.6,Kamran Akmal,Khurram Manzoor,KMDN Kulasekara,0,0,null,0,0,null,null
+18,3.1,Khurram Manzoor,Kamran Akmal,T Thushara,0,0,null,0,0,null,null
+19,3.2,Khurram Manzoor,Kamran Akmal,T Thushara,0,0,null,0,0,null,null
+20,3.3,Khurram Manzoor,Kamran Akmal,T Thushara,0,0,null,0,0,null,null
+21,3.4,Khurram Manzoor,Kamran Akmal,T Thushara,0,0,null,0,0,null,null
+22,3.5,Khurram Manzoor,Kamran Akmal,T Thushara,2,0,null,2,0,null,null
+23,3.6,Khurram Manzoor,Kamran Akmal,T Thushara,0,1,wides ,1,0,null,null
+24,3.7,Khurram Manzoor,Kamran Akmal,T Thushara,0,0,null,0,0,null,null
+25,4.1,Kamran Akmal,Khurram Manzoor,KMDN Kulasekara,0,0,null,0,0,null,null
+26,4.2,Kamran Akmal,Khurram Manzoor,KMDN Kulasekara,0,0,null,0,0,null,null
+27,4.3,Kamran Akmal,Khurram Manzoor,KMDN Kulasekara,0,0,null,0,0,null,null
+28,4.4,Kamran Akmal,Khurram Manzoor,KMDN Kulasekara,0,0,null,0,0,null,null
+29,4.5,Kamran Akmal,Khurram Manzoor,KMDN Kulasekara,3,0,null,3,0,null,null
+30,4.6,Khurram Manzoor,Kamran Akmal,KMDN Kulasekara,0,0,null,0,0,null,null
+31,5.1,Kamran Akmal,Khurram Manzoor,T Thushara,0,0,null,0,0,null,null
+32,5.2,Kamran Akmal,Khurram Manzoor,T Thushara,2,0,null,2,0,null,null
+33,5.3,Kamran Akmal,Khurram Manzoor,T Thushara,4,0,null,4,0,null,null
+34,5.4,Kamran Akmal,Khurram Manzoor,T Thushara,0,0,null,0,0,null,null
+35,5.5,Kamran Akmal,Khurram Manzoor,T Thushara,0,0,null,0,0,null,null
+36,5.6,Kamran Akmal,Khurram Manzoor,T Thushara,0,0,null,0,1,Kamran Akmal,lbw
+37,6.1,Khurram Manzoor,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+38,6.2,Khurram Manzoor,Shoaib Malik,KMDN Kulasekara,0,0,null,0,1,Khurram Manzoor,caught
+39,6.3,Misbah-ul-Haq,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+40,6.4,Misbah-ul-Haq,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+41,6.5,Misbah-ul-Haq,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+42,6.6,Misbah-ul-Haq,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+43,7.1,Shoaib Malik,Misbah-ul-Haq,T Thushara,0,0,null,0,0,null,null
+44,7.2,Shoaib Malik,Misbah-ul-Haq,T Thushara,0,0,null,0,0,null,null
+45,7.3,Shoaib Malik,Misbah-ul-Haq,T Thushara,1,0,null,1,0,null,null
+46,7.4,Misbah-ul-Haq,Shoaib Malik,T Thushara,0,0,null,0,0,null,null
+47,7.5,Misbah-ul-Haq,Shoaib Malik,T Thushara,0,0,null,0,0,null,null
+48,7.6,Misbah-ul-Haq,Shoaib Malik,T Thushara,0,0,null,0,1,Misbah-ul-Haq,caught
+49,8.1,Shoaib Malik,Shahid Afridi,KMDN Kulasekara,1,0,null,1,0,null,null
+50,8.2,Shahid Afridi,Shoaib Malik,KMDN Kulasekara,0,1,wides ,1,0,null,null
+51,8.3,Shahid Afridi,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+52,8.4,Shahid Afridi,Shoaib Malik,KMDN Kulasekara,0,1,wides ,1,0,null,null
+53,8.5,Shahid Afridi,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+54,8.6,Shahid Afridi,Shoaib Malik,KMDN Kulasekara,0,1,wides ,1,0,null,null
+55,8.7,Shahid Afridi,Shoaib Malik,KMDN Kulasekara,0,0,null,0,1,Shahid Afridi,bowled
+56,8.8,Umar Gul,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+57,8.9,Umar Gul,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+58,9.1,Shoaib Malik,Umar Gul,T Thushara,1,0,null,1,0,null,null
+59,9.2,Umar Gul,Shoaib Malik,T Thushara,0,0,null,0,0,null,null
+60,9.3,Umar Gul,Shoaib Malik,T Thushara,4,0,null,4,0,null,null
+61,9.4,Umar Gul,Shoaib Malik,T Thushara,0,0,null,0,0,null,null
+62,9.5,Umar Gul,Shoaib Malik,T Thushara,0,0,null,0,0,null,null
+63,9.6,Umar Gul,Shoaib Malik,T Thushara,3,0,null,3,0,null,null
+64,10.1,Umar Gul,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+65,10.2,Umar Gul,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+66,10.3,Umar Gul,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+67,10.4,Umar Gul,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+68,10.5,Umar Gul,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+69,10.6,Umar Gul,Shoaib Malik,KMDN Kulasekara,4,0,null,4,0,null,null
+70,11.1,Shoaib Malik,Umar Gul,T Thushara,0,0,null,0,0,null,null
+71,11.2,Shoaib Malik,Umar Gul,T Thushara,0,0,null,0,0,null,null
+72,11.3,Shoaib Malik,Umar Gul,T Thushara,0,0,null,0,0,null,null
+73,11.4,Shoaib Malik,Umar Gul,T Thushara,0,0,null,0,0,null,null
+74,11.5,Shoaib Malik,Umar Gul,T Thushara,0,0,null,0,0,null,null
+75,11.6,Shoaib Malik,Umar Gul,T Thushara,0,0,null,0,0,null,null
+76,12.1,Umar Gul,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+77,12.2,Umar Gul,Shoaib Malik,KMDN Kulasekara,0,0,null,0,0,null,null
+78,12.3,Umar Gul,Shoaib Malik,KMDN Kulasekara,1,0,null,1,0,null,null
+79,12.4,Shoaib Malik,Umar Gul,KMDN Kulasekara,0,0,null,0,0,null,null
+80,12.5,Shoaib Malik,Umar Gul,KMDN Kulasekara,4,0,null,4,0,null,null
+81,12.6,Shoaib Malik,Umar Gul,KMDN Kulasekara,0,0,null,0,0,null,null
+82,13.1,Umar Gul,Shoaib Malik,T Thushara,0,0,null,0,0,null,null
+83,13.2,Umar Gul,Shoaib Malik,T Thushara,0,0,null,0,0,null,null
+84,13.3,Umar Gul,Shoaib Malik,T Thushara,0,1,wides ,1,0,null,null
+85,13.4,Umar Gul,Shoaib Malik,T Thushara,6,0,null,6,0,null,null
+86,13.5,Umar Gul,Shoaib Malik,T Thushara,4,0,null,4,0,null,null
+87,13.6,Umar Gul,Shoaib Malik,T Thushara,0,0,null,0,0,null,null
+88,13.7,Umar Gul,Shoaib Malik,T Thushara,0,0,null,0,0,null,null
+89,14.1,Shoaib Malik,Umar Gul,BAW Mendis,0,0,null,0,0,null,null
+90,14.2,Shoaib Malik,Umar Gul,BAW Mendis,1,0,null,1,0,null,null
+91,14.3,Umar Gul,Shoaib Malik,BAW Mendis,0,0,null,0,0,null,null
+92,14.4,Umar Gul,Shoaib Malik,BAW Mendis,0,0,null,0,0,null,null
+93,14.5,Umar Gul,Shoaib Malik,BAW Mendis,2,0,null,2,0,null,null
+94,14.6,Umar Gul,Shoaib Malik,BAW Mendis,0,0,null,0,0,null,null
+95,15.1,Shoaib Malik,Umar Gul,MF Maharoof,0,0,null,0,0,null,null
+96,15.2,Shoaib Malik,Umar Gul,MF Maharoof,0,0,null,0,0,null,null
+97,15.3,Shoaib Malik,Umar Gul,MF Maharoof,1,0,null,1,0,null,null
+98,15.4,Umar Gul,Shoaib Malik,MF Maharoof,1,0,null,1,0,null,null
+99,15.5,Shoaib Malik,Umar Gul,MF Maharoof,0,0,null,0,0,null,null
+100,15.6,Shoaib Malik,Umar Gul,MF Maharoof,0,0,null,0,0,null,null
+101,16.1,Umar Gul,Shoaib Malik,BAW Mendis,0,1,wides ,1,0,null,null
+102,16.2,Umar Gul,Shoaib Malik,BAW Mendis,0,0,null,0,0,null,null
+103,16.3,Umar Gul,Shoaib Malik,BAW Mendis,0,0,null,0,0,null,null
+104,16.4,Umar Gul,Shoaib Malik,BAW Mendis,0,0,null,0,0,null,null
+105,16.5,Umar Gul,Shoaib Malik,BAW Mendis,1,0,null,1,0,null,null
+106,16.6,Shoaib Malik,Umar Gul,BAW Mendis,1,0,null,1,0,null,null
+107,16.7,Umar Gul,Shoaib Malik,BAW Mendis,0,0,null,0,0,null,null
+108,17.1,Shoaib Malik,Umar Gul,MF Maharoof,0,0,null,0,0,null,null
+109,17.2,Shoaib Malik,Umar Gul,MF Maharoof,0,0,null,0,0,null,null
+110,17.3,Shoaib Malik,Umar Gul,MF Maharoof,0,0,null,0,0,null,null
+111,17.4,Shoaib Malik,Umar Gul,MF Maharoof,2,0,null,2,0,null,null
+112,17.5,Shoaib Malik,Umar Gul,MF Maharoof,0,0,null,0,0,null,null
+113,17.6,Shoaib Malik,Umar Gul,MF Maharoof,4,0,null,4,0,null,null
+114,18.1,Umar Gul,Shoaib Malik,BAW Mendis,0,0,null,0,0,null,null
+115,18.2,Umar Gul,Shoaib Malik,BAW Mendis,1,0,null,1,0,null,null
+116,18.3,Shoaib Malik,Umar Gul,BAW Mendis,2,0,null,2,0,null,null
+117,18.4,Shoaib Malik,Umar Gul,BAW Mendis,0,0,null,0,0,null,null
+118,18.5,Shoaib Malik,Umar Gul,BAW Mendis,1,0,null,1,0,null,null
+119,18.6,Umar Gul,Shoaib Malik,BAW Mendis,0,0,null,0,1,Umar Gul,lbw
+120,19.1,Shoaib Malik,Iftikhar Anjum,MF Maharoof,0,0,null,0,1,Shoaib Malik,caught
+121,19.2,Sohail Khan,Iftikhar Anjum,MF Maharoof,0,0,null,0,0,null,null
+122,19.3,Sohail Khan,Iftikhar Anjum,MF Maharoof,0,0,null,0,0,null,null
+123,19.4,Sohail Khan,Iftikhar Anjum,MF Maharoof,0,0,null,0,0,null,null
+124,19.5,Sohail Khan,Iftikhar Anjum,MF Maharoof,4,0,null,4,0,null,null
+125,19.6,Sohail Khan,Iftikhar Anjum,MF Maharoof,0,0,null,0,0,null,null
+126,20.1,Iftikhar Anjum,Sohail Khan,M Muralitharan,0,0,null,0,0,null,null
+127,20.2,Iftikhar Anjum,Sohail Khan,M Muralitharan,0,0,null,0,0,null,null
+128,20.3,Iftikhar Anjum,Sohail Khan,M Muralitharan,0,0,null,0,0,null,null
+129,20.4,Iftikhar Anjum,Sohail Khan,M Muralitharan,0,0,null,0,0,null,null
+130,20.5,Iftikhar Anjum,Sohail Khan,M Muralitharan,0,0,null,0,1,Iftikhar Anjum,lbw
+131,20.6,Saeed Ajmal,Sohail Khan,M Muralitharan,1,0,null,1,0,null,null
+132,21.1,Saeed Ajmal,Sohail Khan,MF Maharoof,0,0,null,0,0,null,null
+133,21.2,Saeed Ajmal,Sohail Khan,MF Maharoof,0,0,null,0,0,null,null
+134,21.3,Saeed Ajmal,Sohail Khan,MF Maharoof,0,0,null,0,0,null,null
+135,21.4,Saeed Ajmal,Sohail Khan,MF Maharoof,0,0,null,0,0,null,null
+136,21.5,Saeed Ajmal,Sohail Khan,MF Maharoof,0,1,legbyes ,1,0,null,null
+137,21.6,Sohail Khan,Saeed Ajmal,MF Maharoof,0,0,null,0,0,null,null
+138,22.1,Saeed Ajmal,Sohail Khan,M Muralitharan,0,0,null,0,0,null,null
+139,22.2,Saeed Ajmal,Sohail Khan,M Muralitharan,1,0,null,1,0,null,null
+140,22.3,Sohail Khan,Saeed Ajmal,M Muralitharan,0,0,null,0,0,null,null
+141,22.4,Sohail Khan,Saeed Ajmal,M Muralitharan,0,0,null,0,0,null,null
+142,22.5,Sohail Khan,Saeed Ajmal,M Muralitharan,0,0,null,0,1,Sohail Khan,bowled

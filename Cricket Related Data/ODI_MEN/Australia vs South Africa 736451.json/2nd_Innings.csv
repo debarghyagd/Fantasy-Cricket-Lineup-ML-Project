@@ -1,0 +1,271 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,HM Amla,Q de Kock,MG Johnson,0,0,null,0,0,null,null
+1,0.2,HM Amla,Q de Kock,MG Johnson,0,0,null,0,0,null,null
+2,0.3,HM Amla,Q de Kock,MG Johnson,1,0,null,1,0,null,null
+3,0.4,Q de Kock,HM Amla,MG Johnson,0,0,null,0,0,null,null
+4,0.5,Q de Kock,HM Amla,MG Johnson,1,0,null,1,0,null,null
+5,0.6,HM Amla,Q de Kock,MG Johnson,1,0,null,1,0,null,null
+6,1.1,HM Amla,Q de Kock,GJ Maxwell,0,5,wides ,5,0,null,null
+7,1.2,HM Amla,Q de Kock,GJ Maxwell,1,0,null,1,0,null,null
+8,1.3,Q de Kock,HM Amla,GJ Maxwell,0,0,null,0,0,null,null
+9,1.4,Q de Kock,HM Amla,GJ Maxwell,0,0,null,0,0,null,null
+10,1.5,Q de Kock,HM Amla,GJ Maxwell,0,0,null,0,1,Q de Kock,caught
+11,1.6,F du Plessis,HM Amla,GJ Maxwell,0,0,null,0,0,null,null
+12,1.7,F du Plessis,HM Amla,GJ Maxwell,0,0,null,0,0,null,null
+13,2.1,HM Amla,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+14,2.2,HM Amla,F du Plessis,MG Johnson,3,0,null,3,0,null,null
+15,2.3,F du Plessis,HM Amla,MG Johnson,0,0,null,0,0,null,null
+16,2.4,F du Plessis,HM Amla,MG Johnson,0,0,null,0,0,null,null
+17,2.5,F du Plessis,HM Amla,MG Johnson,0,0,null,0,0,null,null
+18,2.6,F du Plessis,HM Amla,MG Johnson,4,0,null,4,0,null,null
+19,3.1,HM Amla,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+20,3.2,HM Amla,F du Plessis,KW Richardson,4,0,null,4,0,null,null
+21,3.3,HM Amla,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+22,3.4,HM Amla,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+23,3.5,HM Amla,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+24,3.6,HM Amla,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+25,4.1,F du Plessis,HM Amla,MG Johnson,0,0,null,0,0,null,null
+26,4.2,F du Plessis,HM Amla,MG Johnson,0,0,null,0,0,null,null
+27,4.3,F du Plessis,HM Amla,MG Johnson,0,0,null,0,0,null,null
+28,4.4,F du Plessis,HM Amla,MG Johnson,0,0,null,0,0,null,null
+29,4.5,F du Plessis,HM Amla,MG Johnson,0,0,null,0,0,null,null
+30,4.6,F du Plessis,HM Amla,MG Johnson,1,0,null,1,0,null,null
+31,5.1,F du Plessis,HM Amla,KW Richardson,0,0,null,0,0,null,null
+32,5.2,F du Plessis,HM Amla,KW Richardson,0,0,null,0,0,null,null
+33,5.3,F du Plessis,HM Amla,KW Richardson,0,0,null,0,0,null,null
+34,5.4,F du Plessis,HM Amla,KW Richardson,1,0,null,1,0,null,null
+35,5.5,HM Amla,F du Plessis,KW Richardson,4,0,null,4,0,null,null
+36,5.6,HM Amla,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+37,6.1,F du Plessis,HM Amla,MG Johnson,1,0,null,1,0,null,null
+38,6.2,HM Amla,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+39,6.3,HM Amla,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+40,6.4,HM Amla,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+41,6.5,HM Amla,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+42,6.6,HM Amla,F du Plessis,MG Johnson,2,0,null,2,0,null,null
+43,7.1,F du Plessis,HM Amla,KW Richardson,0,0,null,0,0,null,null
+44,7.2,F du Plessis,HM Amla,KW Richardson,4,0,null,4,0,null,null
+45,7.3,F du Plessis,HM Amla,KW Richardson,0,0,null,0,0,null,null
+46,7.4,F du Plessis,HM Amla,KW Richardson,1,0,null,1,0,null,null
+47,7.5,HM Amla,F du Plessis,KW Richardson,1,0,null,1,0,null,null
+48,7.6,F du Plessis,HM Amla,KW Richardson,0,0,null,0,0,null,null
+49,8.1,HM Amla,F du Plessis,MA Starc,0,0,null,0,0,null,null
+50,8.2,HM Amla,F du Plessis,MA Starc,0,0,null,0,0,null,null
+51,8.3,HM Amla,F du Plessis,MA Starc,0,0,null,0,0,null,null
+52,8.4,HM Amla,F du Plessis,MA Starc,0,0,null,0,0,null,null
+53,8.5,HM Amla,F du Plessis,MA Starc,0,0,null,0,0,null,null
+54,8.6,HM Amla,F du Plessis,MA Starc,0,0,null,0,0,null,null
+55,9.1,F du Plessis,HM Amla,MR Marsh,0,0,null,0,0,null,null
+56,9.2,F du Plessis,HM Amla,MR Marsh,1,0,null,1,0,null,null
+57,9.3,HM Amla,F du Plessis,MR Marsh,0,0,null,0,1,HM Amla,caught
+58,9.4,AB de Villiers,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+59,9.5,AB de Villiers,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+60,9.6,AB de Villiers,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+61,10.1,F du Plessis,AB de Villiers,MA Starc,0,0,null,0,0,null,null
+62,10.2,F du Plessis,AB de Villiers,MA Starc,1,0,null,1,0,null,null
+63,10.3,AB de Villiers,F du Plessis,MA Starc,0,0,null,0,0,null,null
+64,10.4,AB de Villiers,F du Plessis,MA Starc,0,0,null,0,0,null,null
+65,10.5,AB de Villiers,F du Plessis,MA Starc,0,0,null,0,0,null,null
+66,10.6,AB de Villiers,F du Plessis,MA Starc,0,0,null,0,0,null,null
+67,11.1,F du Plessis,AB de Villiers,MR Marsh,0,0,null,0,0,null,null
+68,11.2,F du Plessis,AB de Villiers,MR Marsh,4,0,null,4,0,null,null
+69,11.3,F du Plessis,AB de Villiers,MR Marsh,1,0,null,1,0,null,null
+70,11.4,AB de Villiers,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+71,11.5,F du Plessis,AB de Villiers,MR Marsh,6,0,null,6,0,null,null
+72,11.6,F du Plessis,AB de Villiers,MR Marsh,0,0,null,0,0,null,null
+73,12.1,AB de Villiers,F du Plessis,MA Starc,0,0,null,0,0,null,null
+74,12.2,AB de Villiers,F du Plessis,MA Starc,1,0,null,1,0,null,null
+75,12.3,F du Plessis,AB de Villiers,MA Starc,0,0,null,0,0,null,null
+76,12.4,F du Plessis,AB de Villiers,MA Starc,2,0,null,2,0,null,null
+77,12.5,F du Plessis,AB de Villiers,MA Starc,0,0,null,0,0,null,null
+78,12.6,F du Plessis,AB de Villiers,MA Starc,0,0,null,0,0,null,null
+79,13.1,AB de Villiers,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+80,13.2,AB de Villiers,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+81,13.3,F du Plessis,AB de Villiers,NM Lyon,1,0,null,1,0,null,null
+82,13.4,AB de Villiers,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+83,13.5,AB de Villiers,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+84,13.6,F du Plessis,AB de Villiers,NM Lyon,0,0,null,0,0,null,null
+85,14.1,AB de Villiers,F du Plessis,MA Starc,0,0,null,0,0,null,null
+86,14.2,AB de Villiers,F du Plessis,MA Starc,1,0,null,1,0,null,null
+87,14.3,F du Plessis,AB de Villiers,MA Starc,4,0,null,4,0,null,null
+88,14.4,F du Plessis,AB de Villiers,MA Starc,2,0,null,2,0,null,null
+89,14.5,F du Plessis,AB de Villiers,MA Starc,0,0,null,0,0,null,null
+90,14.6,F du Plessis,AB de Villiers,MA Starc,0,0,null,0,0,null,null
+91,15.1,AB de Villiers,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+92,15.2,F du Plessis,AB de Villiers,NM Lyon,1,0,null,1,0,null,null
+93,15.3,AB de Villiers,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+94,15.4,AB de Villiers,F du Plessis,NM Lyon,0,0,null,0,1,AB de Villiers,caught
+95,15.5,JP Duminy,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+96,15.6,JP Duminy,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+97,16.1,JP Duminy,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+98,16.2,JP Duminy,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+99,16.3,JP Duminy,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+100,16.4,JP Duminy,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+101,16.5,JP Duminy,F du Plessis,KW Richardson,1,0,null,1,0,null,null
+102,16.6,F du Plessis,JP Duminy,KW Richardson,1,0,null,1,0,null,null
+103,17.1,F du Plessis,JP Duminy,NM Lyon,1,0,null,1,0,null,null
+104,17.2,JP Duminy,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+105,17.3,JP Duminy,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+106,17.4,JP Duminy,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+107,17.5,JP Duminy,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+108,17.6,JP Duminy,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+109,18.1,JP Duminy,F du Plessis,KW Richardson,1,0,null,1,0,null,null
+110,18.2,F du Plessis,JP Duminy,KW Richardson,0,0,null,0,0,null,null
+111,18.3,F du Plessis,JP Duminy,KW Richardson,1,0,null,1,0,null,null
+112,18.4,JP Duminy,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+113,18.5,JP Duminy,F du Plessis,KW Richardson,1,0,null,1,0,null,null
+114,18.6,F du Plessis,JP Duminy,KW Richardson,0,0,null,0,0,null,null
+115,19.1,JP Duminy,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+116,19.2,JP Duminy,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+117,19.3,JP Duminy,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+118,19.4,JP Duminy,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+119,19.5,F du Plessis,JP Duminy,NM Lyon,4,0,null,4,0,null,null
+120,19.6,F du Plessis,JP Duminy,NM Lyon,1,0,null,1,0,null,null
+121,20.1,F du Plessis,JP Duminy,MR Marsh,1,0,null,1,0,null,null
+122,20.2,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+123,20.3,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+124,20.4,JP Duminy,F du Plessis,MR Marsh,2,0,null,2,0,null,null
+125,20.5,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+126,20.6,JP Duminy,F du Plessis,MR Marsh,2,0,null,2,0,null,null
+127,21.1,F du Plessis,JP Duminy,GJ Maxwell,1,0,null,1,0,null,null
+128,21.2,JP Duminy,F du Plessis,GJ Maxwell,4,0,null,4,0,null,null
+129,21.3,JP Duminy,F du Plessis,GJ Maxwell,1,0,null,1,0,null,null
+130,21.4,F du Plessis,JP Duminy,GJ Maxwell,1,0,null,1,0,null,null
+131,21.5,JP Duminy,F du Plessis,GJ Maxwell,0,0,null,0,0,null,null
+132,21.6,JP Duminy,F du Plessis,GJ Maxwell,0,1,legbyes ,1,0,null,null
+133,22.1,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+134,22.2,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+135,22.3,JP Duminy,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+136,22.4,F du Plessis,JP Duminy,MR Marsh,1,0,null,1,0,null,null
+137,22.5,JP Duminy,F du Plessis,MR Marsh,0,0,null,0,1,JP Duminy,caught
+138,22.6,F du Plessis,DA Miller,MR Marsh,0,0,null,0,0,null,null
+139,23.1,DA Miller,F du Plessis,GJ Maxwell,0,1,wides ,1,0,null,null
+140,23.2,DA Miller,F du Plessis,GJ Maxwell,3,0,null,3,0,null,null
+141,23.3,F du Plessis,DA Miller,GJ Maxwell,0,0,null,0,0,null,null
+142,23.4,F du Plessis,DA Miller,GJ Maxwell,2,0,null,2,0,null,null
+143,23.5,F du Plessis,DA Miller,GJ Maxwell,1,0,null,1,0,null,null
+144,23.6,DA Miller,F du Plessis,GJ Maxwell,0,0,null,0,0,null,null
+145,23.7,DA Miller,F du Plessis,GJ Maxwell,0,0,null,0,0,null,null
+146,24.1,F du Plessis,DA Miller,MG Johnson,0,0,null,0,0,null,null
+147,24.2,F du Plessis,DA Miller,MG Johnson,1,0,null,1,0,null,null
+148,24.3,DA Miller,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+149,24.4,DA Miller,F du Plessis,MG Johnson,0,0,null,0,1,DA Miller,bowled
+150,24.5,R McLaren,F du Plessis,MG Johnson,0,1,legbyes ,1,0,null,null
+151,24.6,F du Plessis,R McLaren,MG Johnson,0,0,null,0,0,null,null
+152,25.1,R McLaren,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+153,25.2,R McLaren,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+154,25.3,R McLaren,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+155,25.4,F du Plessis,R McLaren,NM Lyon,1,0,null,1,0,null,null
+156,25.5,R McLaren,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+157,25.6,R McLaren,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+158,26.1,F du Plessis,R McLaren,MG Johnson,0,0,null,0,0,null,null
+159,26.2,F du Plessis,R McLaren,MG Johnson,1,0,null,1,0,null,null
+160,26.3,R McLaren,F du Plessis,MG Johnson,0,1,wides ,1,0,null,null
+161,26.4,R McLaren,F du Plessis,MG Johnson,1,0,null,1,0,null,null
+162,26.5,F du Plessis,R McLaren,MG Johnson,0,0,null,0,0,null,null
+163,26.6,F du Plessis,R McLaren,MG Johnson,2,0,null,2,0,null,null
+164,26.7,F du Plessis,R McLaren,MG Johnson,0,0,null,0,0,null,null
+165,27.1,R McLaren,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+166,27.2,F du Plessis,R McLaren,NM Lyon,0,0,null,0,0,null,null
+167,27.3,F du Plessis,R McLaren,NM Lyon,0,0,null,0,0,null,null
+168,27.4,F du Plessis,R McLaren,NM Lyon,4,0,null,4,0,null,null
+169,27.5,F du Plessis,R McLaren,NM Lyon,0,0,null,0,0,null,null
+170,27.6,F du Plessis,R McLaren,NM Lyon,4,0,null,4,0,null,null
+171,28.1,R McLaren,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+172,28.2,R McLaren,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+173,28.3,R McLaren,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+174,28.4,R McLaren,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+175,28.5,R McLaren,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+176,28.6,R McLaren,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+177,29.1,F du Plessis,R McLaren,NM Lyon,1,0,null,1,0,null,null
+178,29.2,R McLaren,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+179,29.3,F du Plessis,R McLaren,NM Lyon,1,0,null,1,0,null,null
+180,29.4,R McLaren,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+181,29.5,R McLaren,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+182,29.6,F du Plessis,R McLaren,NM Lyon,1,0,null,1,0,null,null
+183,30.1,F du Plessis,R McLaren,MA Starc,6,0,null,6,0,null,null
+184,30.2,F du Plessis,R McLaren,MA Starc,1,0,null,1,0,null,null
+185,30.3,R McLaren,F du Plessis,MA Starc,0,0,null,0,0,null,null
+186,30.4,R McLaren,F du Plessis,MA Starc,1,0,null,1,0,null,null
+187,30.5,F du Plessis,R McLaren,MA Starc,1,0,null,1,0,null,null
+188,30.6,R McLaren,F du Plessis,MA Starc,2,0,null,2,0,null,null
+189,31.1,F du Plessis,R McLaren,NM Lyon,0,0,null,0,0,null,null
+190,31.2,F du Plessis,R McLaren,NM Lyon,2,0,null,2,0,null,null
+191,31.3,F du Plessis,R McLaren,NM Lyon,2,0,null,2,0,null,null
+192,31.4,F du Plessis,R McLaren,NM Lyon,3,0,null,3,0,null,null
+193,31.5,R McLaren,F du Plessis,NM Lyon,4,0,null,4,0,null,null
+194,31.6,R McLaren,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+195,32.1,F du Plessis,R McLaren,MA Starc,0,0,null,0,0,null,null
+196,32.2,F du Plessis,R McLaren,MA Starc,0,0,null,0,0,null,null
+197,32.3,F du Plessis,R McLaren,MA Starc,0,0,null,0,0,null,null
+198,32.4,F du Plessis,R McLaren,MA Starc,6,0,null,6,0,null,null
+199,32.5,F du Plessis,R McLaren,MA Starc,1,0,null,1,0,null,null
+200,32.6,R McLaren,F du Plessis,MA Starc,1,0,null,1,0,null,null
+201,33.1,R McLaren,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+202,33.2,F du Plessis,R McLaren,NM Lyon,1,0,null,1,0,null,null
+203,33.3,R McLaren,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+204,33.4,R McLaren,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+205,33.5,R McLaren,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+206,33.6,R McLaren,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+207,34.1,R McLaren,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+208,34.2,F du Plessis,R McLaren,MR Marsh,1,0,null,1,0,null,null
+209,34.3,R McLaren,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+210,34.4,R McLaren,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+211,34.5,R McLaren,F du Plessis,MR Marsh,0,0,null,0,0,null,null
+212,34.6,R McLaren,F du Plessis,MR Marsh,1,0,null,1,0,null,null
+213,35.1,R McLaren,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+214,35.2,F du Plessis,R McLaren,NM Lyon,1,0,null,1,0,null,null
+215,35.3,R McLaren,F du Plessis,NM Lyon,0,0,null,0,0,null,null
+216,35.4,R McLaren,F du Plessis,NM Lyon,1,0,null,1,0,null,null
+217,35.5,F du Plessis,R McLaren,NM Lyon,0,0,null,0,0,null,null
+218,35.6,F du Plessis,R McLaren,NM Lyon,6,0,null,6,0,null,null
+219,36.1,R McLaren,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+220,36.2,R McLaren,F du Plessis,KW Richardson,1,0,null,1,0,null,null
+221,36.3,F du Plessis,R McLaren,KW Richardson,1,0,null,1,0,null,null
+222,36.4,R McLaren,F du Plessis,KW Richardson,4,0,null,4,0,null,null
+223,36.5,R McLaren,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+224,36.6,R McLaren,F du Plessis,KW Richardson,0,0,null,0,1,R McLaren,caught
+225,37.1,F du Plessis,DW Steyn,MA Starc,1,0,null,1,0,null,null
+226,37.2,DW Steyn,F du Plessis,MA Starc,0,0,null,0,0,null,null
+227,37.3,DW Steyn,F du Plessis,MA Starc,0,0,null,0,0,null,null
+228,37.4,DW Steyn,F du Plessis,MA Starc,0,4,legbyes ,4,0,null,null
+229,37.5,DW Steyn,F du Plessis,MA Starc,1,0,null,1,0,null,null
+230,37.6,F du Plessis,DW Steyn,MA Starc,1,0,null,1,0,null,null
+231,38.1,F du Plessis,DW Steyn,KW Richardson,0,0,null,0,0,null,null
+232,38.2,F du Plessis,DW Steyn,KW Richardson,4,0,null,4,0,null,null
+233,38.3,F du Plessis,DW Steyn,KW Richardson,0,0,null,0,0,null,null
+234,38.4,F du Plessis,DW Steyn,KW Richardson,1,0,null,1,0,null,null
+235,38.5,DW Steyn,F du Plessis,KW Richardson,4,0,null,4,0,null,null
+236,38.6,DW Steyn,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+237,39.1,F du Plessis,DW Steyn,MA Starc,6,0,null,6,0,null,null
+238,39.2,F du Plessis,DW Steyn,MA Starc,6,0,null,6,0,null,null
+239,39.3,F du Plessis,DW Steyn,MA Starc,1,0,null,1,0,null,null
+240,39.4,DW Steyn,F du Plessis,MA Starc,0,1,legbyes ,1,0,null,null
+241,39.5,F du Plessis,DW Steyn,MA Starc,1,0,null,1,0,null,null
+242,39.6,DW Steyn,F du Plessis,MA Starc,0,0,null,0,0,null,null
+243,40.1,F du Plessis,DW Steyn,MG Johnson,1,0,null,1,0,null,null
+244,40.2,DW Steyn,F du Plessis,MG Johnson,0,0,null,0,0,null,null
+245,40.3,DW Steyn,F du Plessis,MG Johnson,0,0,null,0,1,DW Steyn,run out
+246,40.4,F du Plessis,AM Phangiso,MG Johnson,2,0,null,2,0,null,null
+247,40.5,F du Plessis,AM Phangiso,MG Johnson,0,1,wides ,1,0,null,null
+248,40.6,F du Plessis,AM Phangiso,MG Johnson,2,0,null,2,0,null,null
+249,40.7,F du Plessis,AM Phangiso,MG Johnson,0,0,null,0,0,null,null
+250,41.1,AM Phangiso,F du Plessis,KW Richardson,0,0,null,0,0,null,null
+251,41.2,AM Phangiso,F du Plessis,KW Richardson,1,0,null,1,0,null,null
+252,41.3,F du Plessis,AM Phangiso,KW Richardson,2,0,null,2,0,null,null
+253,41.4,F du Plessis,AM Phangiso,KW Richardson,0,0,null,0,0,null,null
+254,41.5,F du Plessis,AM Phangiso,KW Richardson,0,0,null,0,1,F du Plessis,hit wicket
+255,41.6,M Morkel,AM Phangiso,KW Richardson,0,0,null,0,0,null,null
+256,42.1,AM Phangiso,M Morkel,MG Johnson,0,0,null,0,0,null,null
+257,42.2,AM Phangiso,M Morkel,MG Johnson,0,0,null,0,0,null,null
+258,42.3,AM Phangiso,M Morkel,MG Johnson,1,0,null,1,0,null,null
+259,42.4,M Morkel,AM Phangiso,MG Johnson,0,1,wides ,1,0,null,null
+260,42.5,M Morkel,AM Phangiso,MG Johnson,0,1,wides ,1,0,null,null
+261,42.6,M Morkel,AM Phangiso,MG Johnson,0,0,null,0,1,M Morkel,bowled
+262,42.7,Imran Tahir,AM Phangiso,MG Johnson,0,0,null,0,0,null,null
+263,42.8,Imran Tahir,AM Phangiso,MG Johnson,1,0,null,1,0,null,null
+264,43.1,Imran Tahir,AM Phangiso,GJ Maxwell,1,0,null,1,0,null,null
+265,43.2,AM Phangiso,Imran Tahir,GJ Maxwell,0,0,null,0,0,null,null
+266,43.3,AM Phangiso,Imran Tahir,GJ Maxwell,0,0,null,0,0,null,null
+267,43.4,AM Phangiso,Imran Tahir,GJ Maxwell,0,0,null,0,0,null,null
+268,43.5,AM Phangiso,Imran Tahir,GJ Maxwell,1,0,null,1,0,null,null
+269,43.6,Imran Tahir,AM Phangiso,GJ Maxwell,0,0,null,0,1,Imran Tahir,caught

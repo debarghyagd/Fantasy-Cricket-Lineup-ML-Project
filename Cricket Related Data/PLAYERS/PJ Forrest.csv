@@ -1,0 +1,37 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,518959,Adelaide Oval,India,Z Khan,Left-arm fast-medium,"[0, 0, 1]",0,3,2,0,0
+1,518959,Adelaide Oval,India,R Vinay Kumar,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+2,518959,Adelaide Oval,India,UT Yadav,Right-arm fast,"[0, 1, 0]",1,13,22,2,0
+3,518962,"Brisbane Cricket Ground, Woolloongabba",India,Z Khan,Left-arm fast-medium,"[0, 0, 1]",0,5,12,0,0
+4,518962,"Brisbane Cricket Ground, Woolloongabba",India,R Vinay Kumar,Right-arm fast-medium,"[0, 1, 1]",0,2,5,0,0
+5,518962,"Brisbane Cricket Ground, Woolloongabba",India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,13,21,1,0
+6,518965,Sydney Cricket Ground,India,P Kumar,Right-arm fast-medium,"[0, 1, 1]",1,2,10,0,0
+7,518961,Sydney Cricket Ground,Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",1,0,9,0,0
+8,518961,Sydney Cricket Ground,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,15,12,3,0
+9,518961,Sydney Cricket Ground,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+10,518964,Bellerive Oval,Sri Lanka,MF Maharoof,Right-arm fast-medium,"[0, 1, 1]",0,12,33,0,0
+11,518964,Bellerive Oval,Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",0,19,24,1,1
+12,518964,Bellerive Oval,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",1,15,19,2,0
+13,518964,Bellerive Oval,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,19,24,2,0
+14,518967,Melbourne Cricket Ground,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,1,4,0,0
+15,518970,Adelaide Oval,Sri Lanka,HMRKB Herath,Left-arm orthodox,"[1, 0, 1]",1,1,4,0,0
+16,518970,Adelaide Oval,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",0,2,3,0,0
+17,534216,Kennington Oval,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",1,3,4,0,0
+18,534216,Kennington Oval,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,2,12,0,0
+19,534216,Kennington Oval,England,JW Dernbach,Right-arm fast-medium,"[0, 1, 1]",0,0,6,0,0
+20,534218,Riverside Ground,England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+21,534219,Old Trafford,England,SCJ Broad,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+22,534219,Old Trafford,England,JC Tredwell,Right-arm offbreak,"[1, 1, 0]",0,1,8,0,0
+23,540168,"Arnos Vale Ground, Kingstown",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",0,8,25,1,0
+24,540168,"Arnos Vale Ground, Kingstown",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",1,1,7,0,0
+25,540168,"Arnos Vale Ground, Kingstown",West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",0,17,28,2,0
+26,540168,"Arnos Vale Ground, Kingstown",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,0,5,0,0
+27,540169,"Arnos Vale Ground, Kingstown",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",1,0,4,0,0
+28,540171,"Beausejour Stadium, Gros Islet",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",0,1,5,0,0
+29,540171,"Beausejour Stadium, Gros Islet",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,15,13,3,0
+30,540171,"Beausejour Stadium, Gros Islet",West Indies,DJG Sammy,Right-arm medium,"[0, 1, 2]",1,1,3,0,0
+31,540171,"Beausejour Stadium, Gros Islet",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,7,11,1,0
+32,540172,"Beausejour Stadium, Gros Islet",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+33,540172,"Beausejour Stadium, Gros Islet",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,15,24,2,0
+34,540172,"Beausejour Stadium, Gros Islet",West Indies,SP Narine,Right-arm offbreak,"[1, 1, 0]",0,10,10,0,0
+35,540172,"Beausejour Stadium, Gros Islet",West Indies,KAJ Roach,Right-arm fast,"[0, 1, 0]",0,8,9,0,0

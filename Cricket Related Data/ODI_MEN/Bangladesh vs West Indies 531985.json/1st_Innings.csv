@@ -1,0 +1,135 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,DP Hyatt,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+1,0.2,DP Hyatt,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+2,0.3,DP Hyatt,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+3,0.4,DP Hyatt,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+4,0.5,DP Hyatt,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+5,0.6,DP Hyatt,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+6,1.1,KOA Powell,DP Hyatt,Nazmul Hossain,0,0,null,0,0,null,null
+7,1.2,KOA Powell,DP Hyatt,Nazmul Hossain,0,0,null,0,0,null,null
+8,1.3,KOA Powell,DP Hyatt,Nazmul Hossain,0,0,null,0,0,null,null
+9,1.4,KOA Powell,DP Hyatt,Nazmul Hossain,0,0,null,0,0,null,null
+10,1.5,KOA Powell,DP Hyatt,Nazmul Hossain,0,0,null,0,0,null,null
+11,1.6,KOA Powell,DP Hyatt,Nazmul Hossain,1,0,null,1,0,null,null
+12,2.1,KOA Powell,DP Hyatt,Shafiul Islam,0,1,wides ,1,0,null,null
+13,2.2,KOA Powell,DP Hyatt,Shafiul Islam,2,0,null,2,0,null,null
+14,2.3,KOA Powell,DP Hyatt,Shafiul Islam,0,0,null,0,0,null,null
+15,2.4,KOA Powell,DP Hyatt,Shafiul Islam,0,0,null,0,0,null,null
+16,2.5,KOA Powell,DP Hyatt,Shafiul Islam,0,0,null,0,0,null,null
+17,2.6,KOA Powell,DP Hyatt,Shafiul Islam,1,0,null,1,0,null,null
+18,2.7,DP Hyatt,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+19,3.1,KOA Powell,DP Hyatt,Nazmul Hossain,0,0,null,0,0,null,null
+20,3.2,KOA Powell,DP Hyatt,Nazmul Hossain,0,0,null,0,0,null,null
+21,3.3,KOA Powell,DP Hyatt,Nazmul Hossain,1,0,null,1,0,null,null
+22,3.4,DP Hyatt,KOA Powell,Nazmul Hossain,0,0,null,0,0,null,null
+23,3.5,DP Hyatt,KOA Powell,Nazmul Hossain,0,0,null,0,0,null,null
+24,3.6,DP Hyatt,KOA Powell,Nazmul Hossain,0,0,null,0,0,null,null
+25,4.1,KOA Powell,DP Hyatt,Shafiul Islam,1,0,null,1,0,null,null
+26,4.2,DP Hyatt,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+27,4.3,DP Hyatt,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+28,4.4,DP Hyatt,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+29,4.5,DP Hyatt,KOA Powell,Shafiul Islam,1,0,null,1,0,null,null
+30,4.6,KOA Powell,DP Hyatt,Shafiul Islam,0,0,null,0,0,null,null
+31,5.1,DP Hyatt,KOA Powell,Nazmul Hossain,2,0,null,2,0,null,null
+32,5.2,DP Hyatt,KOA Powell,Nazmul Hossain,0,0,null,0,0,null,null
+33,5.3,DP Hyatt,KOA Powell,Nazmul Hossain,0,0,null,0,1,DP Hyatt,caught
+34,5.4,MN Samuels,KOA Powell,Nazmul Hossain,0,0,null,0,0,null,null
+35,5.5,MN Samuels,KOA Powell,Nazmul Hossain,0,0,null,0,0,null,null
+36,5.6,MN Samuels,KOA Powell,Nazmul Hossain,0,0,null,0,0,null,null
+37,6.1,KOA Powell,MN Samuels,Shafiul Islam,0,0,null,0,0,null,null
+38,6.2,KOA Powell,MN Samuels,Shafiul Islam,4,0,null,4,0,null,null
+39,6.3,KOA Powell,MN Samuels,Shafiul Islam,0,0,null,0,0,null,null
+40,6.4,KOA Powell,MN Samuels,Shafiul Islam,0,0,null,0,0,null,null
+41,6.5,KOA Powell,MN Samuels,Shafiul Islam,0,0,null,0,0,null,null
+42,6.6,KOA Powell,MN Samuels,Shafiul Islam,4,0,null,4,0,null,null
+43,7.1,MN Samuels,KOA Powell,Nazmul Hossain,1,0,null,1,0,null,null
+44,7.2,KOA Powell,MN Samuels,Nazmul Hossain,1,0,null,1,0,null,null
+45,7.3,MN Samuels,KOA Powell,Nazmul Hossain,0,0,null,0,0,null,null
+46,7.4,MN Samuels,KOA Powell,Nazmul Hossain,1,0,null,1,0,null,null
+47,7.5,KOA Powell,MN Samuels,Nazmul Hossain,0,0,null,0,0,null,null
+48,7.6,KOA Powell,MN Samuels,Nazmul Hossain,0,0,null,0,0,null,null
+49,8.1,MN Samuels,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+50,8.2,MN Samuels,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+51,8.3,MN Samuels,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+52,8.4,MN Samuels,KOA Powell,Shafiul Islam,1,0,null,1,0,null,null
+53,8.5,KOA Powell,MN Samuels,Shafiul Islam,0,0,null,0,0,null,null
+54,8.6,KOA Powell,MN Samuels,Shafiul Islam,0,0,null,0,0,null,null
+55,9.1,MN Samuels,KOA Powell,Nazmul Hossain,0,0,null,0,0,null,null
+56,9.2,MN Samuels,KOA Powell,Nazmul Hossain,1,0,null,1,0,null,null
+57,9.3,KOA Powell,MN Samuels,Nazmul Hossain,0,0,null,0,0,null,null
+58,9.4,KOA Powell,MN Samuels,Nazmul Hossain,4,0,null,4,0,null,null
+59,9.5,KOA Powell,MN Samuels,Nazmul Hossain,0,0,null,0,0,null,null
+60,9.6,KOA Powell,MN Samuels,Nazmul Hossain,4,0,null,4,0,null,null
+61,10.1,MN Samuels,KOA Powell,Shafiul Islam,1,0,null,1,0,null,null
+62,10.2,KOA Powell,MN Samuels,Shafiul Islam,0,0,null,0,0,null,null
+63,10.3,KOA Powell,MN Samuels,Shafiul Islam,1,0,null,1,0,null,null
+64,10.4,MN Samuels,KOA Powell,Shafiul Islam,0,0,null,0,0,null,null
+65,10.5,MN Samuels,KOA Powell,Shafiul Islam,0,0,null,0,1,MN Samuels,caught
+66,10.6,KOA Powell,DM Bravo,Shafiul Islam,1,0,null,1,0,null,null
+67,11.1,KOA Powell,DM Bravo,Nasir Hossain,0,0,null,0,0,null,null
+68,11.2,KOA Powell,DM Bravo,Nasir Hossain,0,0,null,0,1,KOA Powell,bowled
+69,11.3,KA Pollard,DM Bravo,Nasir Hossain,0,0,null,0,1,KA Pollard,caught and bowled
+70,11.4,DJG Sammy,DM Bravo,Nasir Hossain,0,0,null,0,0,null,null
+71,11.5,DJG Sammy,DM Bravo,Nasir Hossain,1,0,null,1,0,null,null
+72,11.6,DM Bravo,DJG Sammy,Nasir Hossain,0,0,null,0,0,null,null
+73,12.1,DJG Sammy,DM Bravo,Shafiul Islam,0,0,null,0,0,null,null
+74,12.2,DJG Sammy,DM Bravo,Shafiul Islam,1,0,null,1,0,null,null
+75,12.3,DM Bravo,DJG Sammy,Shafiul Islam,0,0,null,0,0,null,null
+76,12.4,DM Bravo,DJG Sammy,Shafiul Islam,0,0,null,0,1,DM Bravo,caught
+77,12.5,D Ramdin,DJG Sammy,Shafiul Islam,2,0,null,2,0,null,null
+78,12.6,D Ramdin,DJG Sammy,Shafiul Islam,0,0,null,0,0,null,null
+79,13.1,DJG Sammy,D Ramdin,Shakib Al Hasan,0,0,null,0,1,DJG Sammy,lbw
+80,13.2,CR Brathwaite,D Ramdin,Shakib Al Hasan,0,0,null,0,0,null,null
+81,13.3,CR Brathwaite,D Ramdin,Shakib Al Hasan,0,0,null,0,0,null,null
+82,13.4,CR Brathwaite,D Ramdin,Shakib Al Hasan,0,1,legbyes ,1,0,null,null
+83,13.5,D Ramdin,CR Brathwaite,Shakib Al Hasan,1,0,null,1,0,null,null
+84,13.6,CR Brathwaite,D Ramdin,Shakib Al Hasan,0,2,legbyes ,2,0,null,null
+85,14.1,D Ramdin,CR Brathwaite,Nasir Hossain,0,0,null,0,0,null,null
+86,14.2,D Ramdin,CR Brathwaite,Nasir Hossain,0,0,null,0,0,null,null
+87,14.3,D Ramdin,CR Brathwaite,Nasir Hossain,1,0,null,1,0,null,null
+88,14.4,CR Brathwaite,D Ramdin,Nasir Hossain,0,0,null,0,0,null,null
+89,14.5,CR Brathwaite,D Ramdin,Nasir Hossain,1,0,null,1,0,null,null
+90,14.6,D Ramdin,CR Brathwaite,Nasir Hossain,0,0,null,0,0,null,null
+91,15.1,CR Brathwaite,D Ramdin,Shakib Al Hasan,1,0,null,1,0,null,null
+92,15.2,D Ramdin,CR Brathwaite,Shakib Al Hasan,0,0,null,0,1,D Ramdin,bowled
+93,15.3,AD Russell,CR Brathwaite,Shakib Al Hasan,0,0,null,0,0,null,null
+94,15.4,AD Russell,CR Brathwaite,Shakib Al Hasan,2,0,null,2,0,null,null
+95,15.5,AD Russell,CR Brathwaite,Shakib Al Hasan,0,0,null,0,0,null,null
+96,15.6,AD Russell,CR Brathwaite,Shakib Al Hasan,0,0,null,0,0,null,null
+97,16.1,CR Brathwaite,AD Russell,Suhrawadi Shuvo,0,0,null,0,0,null,null
+98,16.2,CR Brathwaite,AD Russell,Suhrawadi Shuvo,0,0,null,0,0,null,null
+99,16.3,CR Brathwaite,AD Russell,Suhrawadi Shuvo,1,0,null,1,0,null,null
+100,16.4,AD Russell,CR Brathwaite,Suhrawadi Shuvo,0,0,null,0,1,AD Russell,caught and bowled
+101,16.5,KAJ Roach,CR Brathwaite,Suhrawadi Shuvo,0,0,null,0,0,null,null
+102,16.6,KAJ Roach,CR Brathwaite,Suhrawadi Shuvo,0,0,null,0,0,null,null
+103,17.1,CR Brathwaite,KAJ Roach,Shakib Al Hasan,0,0,null,0,0,null,null
+104,17.2,CR Brathwaite,KAJ Roach,Shakib Al Hasan,2,0,null,2,0,null,null
+105,17.3,CR Brathwaite,KAJ Roach,Shakib Al Hasan,1,0,null,1,0,null,null
+106,17.4,KAJ Roach,CR Brathwaite,Shakib Al Hasan,0,0,null,0,0,null,null
+107,17.5,KAJ Roach,CR Brathwaite,Shakib Al Hasan,0,0,null,0,0,null,null
+108,17.6,KAJ Roach,CR Brathwaite,Shakib Al Hasan,0,0,null,0,0,null,null
+109,18.1,CR Brathwaite,KAJ Roach,Suhrawadi Shuvo,0,0,null,0,0,null,null
+110,18.2,CR Brathwaite,KAJ Roach,Suhrawadi Shuvo,1,0,null,1,0,null,null
+111,18.3,KAJ Roach,CR Brathwaite,Suhrawadi Shuvo,0,0,null,0,0,null,null
+112,18.4,KAJ Roach,CR Brathwaite,Suhrawadi Shuvo,0,0,null,0,0,null,null
+113,18.5,KAJ Roach,CR Brathwaite,Suhrawadi Shuvo,0,0,null,0,0,null,null
+114,18.6,KAJ Roach,CR Brathwaite,Suhrawadi Shuvo,0,0,null,0,0,null,null
+115,19.1,CR Brathwaite,KAJ Roach,Shakib Al Hasan,0,0,null,0,0,null,null
+116,19.2,CR Brathwaite,KAJ Roach,Shakib Al Hasan,0,0,null,0,0,null,null
+117,19.3,CR Brathwaite,KAJ Roach,Shakib Al Hasan,0,0,null,0,0,null,null
+118,19.4,CR Brathwaite,KAJ Roach,Shakib Al Hasan,4,0,null,4,0,null,null
+119,19.5,CR Brathwaite,KAJ Roach,Shakib Al Hasan,0,0,null,0,1,CR Brathwaite,lbw
+120,19.6,A Martin,KAJ Roach,Shakib Al Hasan,0,0,null,0,0,null,null
+121,20.1,KAJ Roach,A Martin,Suhrawadi Shuvo,0,0,null,0,0,null,null
+122,20.2,KAJ Roach,A Martin,Suhrawadi Shuvo,0,0,null,0,0,null,null
+123,20.3,KAJ Roach,A Martin,Suhrawadi Shuvo,0,0,null,0,0,null,null
+124,20.4,KAJ Roach,A Martin,Suhrawadi Shuvo,0,0,null,0,0,null,null
+125,20.5,KAJ Roach,A Martin,Suhrawadi Shuvo,0,0,null,0,0,null,null
+126,20.6,KAJ Roach,A Martin,Suhrawadi Shuvo,0,0,null,0,0,null,null
+127,21.1,A Martin,KAJ Roach,Shakib Al Hasan,1,0,null,1,0,null,null
+128,21.2,KAJ Roach,A Martin,Shakib Al Hasan,0,0,null,0,0,null,null
+129,21.3,KAJ Roach,A Martin,Shakib Al Hasan,0,0,null,0,0,null,null
+130,21.4,KAJ Roach,A Martin,Shakib Al Hasan,0,0,null,0,0,null,null
+131,21.5,KAJ Roach,A Martin,Shakib Al Hasan,0,4,wides ,4,0,null,null
+132,21.6,A Martin,KAJ Roach,Shakib Al Hasan,0,0,null,0,0,null,null
+133,21.7,A Martin,KAJ Roach,Shakib Al Hasan,0,0,null,0,1,A Martin,bowled

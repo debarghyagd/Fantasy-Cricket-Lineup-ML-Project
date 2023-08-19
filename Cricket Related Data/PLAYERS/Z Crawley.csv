@@ -1,0 +1,9 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1239538,"Lord's, London",Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",1,0,1,0,0
+1,1239537,"Sophia Gardens, Cardiff",Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,7,7,1,0
+2,1239537,"Sophia Gardens, Cardiff",Pakistan,Saud Shakeel,Left-arm orthodox,"[1, 0, 1]",0,2,2,0,0
+3,1239537,"Sophia Gardens, Cardiff",Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,7,8,1,0
+4,1239537,"Sophia Gardens, Cardiff",Pakistan,Haris Rauf,Right-arm fast,"[0, 1, 0]",0,17,12,2,0
+5,1239539,"Edgbaston, Birmingham",Pakistan,Shaheen Shah Afridi,Left-arm fast-medium,"[0, 0, 1]",0,14,13,2,0
+6,1239539,"Edgbaston, Birmingham",Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,7,8,1,0
+7,1239539,"Edgbaston, Birmingham",Pakistan,Haris Rauf,Right-arm fast,"[0, 1, 0]",1,18,13,4,0

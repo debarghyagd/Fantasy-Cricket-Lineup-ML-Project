@@ -1,0 +1,59 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1322031,"Cambusdoon New Ground, Ayr",Namibia,BM Scholtz,Left-arm orthodox,"[1, 0, 1]",1,0,3,0,0
+1,1322034,"Cambusdoon New Ground, Ayr",Namibia,D Wiese,Right-arm fast-medium,"[0, 1, 1]",0,1,8,0,0
+2,1322034,"Cambusdoon New Ground, Ayr",Namibia,BM Scholtz,Left-arm orthodox,"[1, 0, 1]",1,2,10,0,0
+3,1275250,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Mohammad Nadeem,Right-arm fast-medium,"[0, 1, 1]",0,5,6,0,0
+4,1275250,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Nestor Dhamba,Right-arm offbreak,"[1, 1, 0]",1,2,6,0,0
+5,1275250,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,4,6,0,0
+6,1276296,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,9,10,0,1
+7,1276296,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",0,21,34,0,1
+8,1276296,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",1,14,22,1,0
+9,1276296,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,D Ravu,Right-arm fast-medium,"[0, 1, 1]",0,21,26,1,1
+10,1305497,"Tribhuvan University International Cricket Ground, Kirtipur",Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,2,4,0,0
+11,1305497,"Tribhuvan University International Cricket Ground, Kirtipur",Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",0,16,13,1,0
+12,1305497,"Tribhuvan University International Cricket Ground, Kirtipur",Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",1,1,4,0,0
+13,1322035,"Titwood, Glasgow",Scotland,GT Main,Right-arm fast,"[0, 1, 0]",0,1,1,0,0
+14,1322035,"Titwood, Glasgow",Scotland,CM McBride,Right-arm legbreak,"[1, 1, 1]",1,7,9,1,0
+15,1322035,"Titwood, Glasgow",Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",0,2,7,0,0
+16,1275252,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,K Gore,Left-arm orthodox,"[1, 0, 1]",0,1,7,0,0
+17,1275252,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,EH Hutchinson,Right-arm fast-medium,"[0, 1, 1]",1,1,4,0,0
+18,1312806,"Moosa Cricket Stadium, Pearland",United States of America,J Theron,Right-arm fast-medium,"[0, 1, 1]",0,8,11,0,0
+19,1312806,"Moosa Cricket Stadium, Pearland",United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,5,11,0,0
+20,1312806,"Moosa Cricket Stadium, Pearland",United States of America,NK Patel,Left-arm orthodox,"[1, 0, 1]",0,7,8,1,0
+21,1312806,"Moosa Cricket Stadium, Pearland",United States of America,SR Taylor,Right-arm offbreak,"[1, 1, 0]",0,14,16,1,0
+22,1312806,"Moosa Cricket Stadium, Pearland",United States of America,Ali Khan,Right-arm fast-medium,"[0, 1, 1]",1,15,18,1,0
+23,1312806,"Moosa Cricket Stadium, Pearland",United States of America,Aaron Jones,Right-arm legbreak,"[1, 1, 1]",0,2,3,0,0
+24,1312806,"Moosa Cricket Stadium, Pearland",United States of America,Yasir Mohammad,Right-arm legbreak,"[1, 1, 1]",0,11,6,0,1
+25,1275253,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Nestor Dhamba,Right-arm offbreak,"[1, 1, 0]",1,1,2,0,0
+26,1312805,"Moosa Cricket Stadium, Pearland",Oman,Khawar Ali,Right-arm legbreak,"[1, 1, 1]",0,9,6,2,0
+27,1312808,"Moosa Cricket Stadium, Pearland",Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,4,3,0,0
+28,1312808,"Moosa Cricket Stadium, Pearland",Oman,Khawar Ali,Right-arm legbreak,"[1, 1, 1]",0,12,9,0,1
+29,1276295,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",0,6,14,0,0
+30,1276295,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,8,10,0,0
+31,1276295,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Papua New Guinea,D Ravu,Right-arm fast-medium,"[0, 1, 1]",0,5,6,0,0
+32,1302624,Sharjah Cricket Stadium,Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,16,18,2,0
+33,1302624,Sharjah Cricket Stadium,Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",0,12,13,1,0
+34,1302624,Sharjah Cricket Stadium,Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,9,16,0,0
+35,1302628,Dubai International Cricket Stadium,Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",0,13,13,2,0
+36,1302628,Dubai International Cricket Stadium,Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,13,9,1,0
+37,1305496,"Tribhuvan University International Cricket Ground, Kirtipur",Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,25,25,1,1
+38,1305496,"Tribhuvan University International Cricket Ground, Kirtipur",Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",0,29,25,2,1
+39,1322032,"Titwood, Glasgow",Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",0,9,4,2,0
+40,1322032,"Titwood, Glasgow",Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",0,5,7,1,0
+41,1322032,"Titwood, Glasgow",Scotland,A Neill,Right-arm medium,"[0, 1, 2]",0,10,10,2,0
+42,1322032,"Titwood, Glasgow",Scotland,GT Main,Right-arm fast,"[0, 1, 0]",0,7,9,1,0
+43,1322032,"Titwood, Glasgow",Scotland,RD Berrington,Right-arm fast-medium,"[0, 1, 1]",0,3,2,0,0
+44,1154649,Kinrara Academy Oval,United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",0,2,4,0,0
+45,1170455,ICC Academy,United Arab Emirates,Imran Haider,Right-arm legbreak,"[1, 1, 1]",0,22,18,2,0
+46,1170455,ICC Academy,United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",0,2,11,0,0
+47,1170456,ICC Academy,United Arab Emirates,Qadeer Ahmed,Right-arm medium,"[0, 1, 2]",0,1,2,0,0
+48,1170456,ICC Academy,United Arab Emirates,Imran Haider,Right-arm legbreak,"[1, 1, 1]",0,4,9,0,0
+49,1302625,Dubai International Cricket Stadium,United Arab Emirates,Rohan Mustafa,Right-arm offbreak,"[1, 1, 0]",0,8,14,0,0
+50,1302625,Dubai International Cricket Stadium,United Arab Emirates,Zahoor Khan,Right-arm fast-medium,"[0, 1, 1]",1,10,17,2,0
+51,1275249,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,6,14,0,0
+52,1275249,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,K Gore,Left-arm orthodox,"[1, 0, 1]",0,4,9,0,0
+53,1275249,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,NK Patel,Left-arm orthodox,"[1, 0, 1]",0,14,23,0,1
+54,1275249,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,SR Taylor,Right-arm offbreak,"[1, 1, 0]",0,4,7,0,0
+55,1275249,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United States of America,EH Hutchinson,Right-arm fast-medium,"[0, 1, 1]",0,14,10,1,1
+56,1312809,"Moosa Cricket Stadium, Pearland",United States of America,Ali Khan,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+57,1312809,"Moosa Cricket Stadium, Pearland",United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",0,6,9,1,0

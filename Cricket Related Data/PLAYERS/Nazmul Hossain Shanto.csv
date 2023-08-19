@@ -1,0 +1,28 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1153248,Sheikh Zayed Stadium,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",1,3,4,0,0
+1,1153248,Sheikh Zayed Stadium,Afghanistan,Aftab Alam,Right-arm fast-medium,"[0, 1, 1]",0,4,9,0,0
+2,1153252,Sheikh Zayed Stadium,Afghanistan,Mujeeb Ur Rahman,Right-arm offbreak,"[1, 1, 0]",0,3,8,0,0
+3,1153252,Sheikh Zayed Stadium,Afghanistan,Aftab Alam,Right-arm fast-medium,"[0, 1, 1]",1,3,10,0,0
+4,1153249,Dubai International Cricket Stadium,India,JJ Bumrah,Right-arm fast,"[0, 1, 0]",1,3,5,0,0
+5,1153249,Dubai International Cricket Stadium,India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",0,4,9,0,0
+6,1244024,Zahur Ahmed Chowdhury Stadium,West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,4,3,1,0
+7,1214667,Sylhet International Cricket Stadium,Zimbabwe,W Madhevere,Right-arm offbreak,"[1, 1, 0]",0,10,11,0,1
+8,1214667,Sylhet International Cricket Stadium,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,11,18,0,1
+9,1214667,Sylhet International Cricket Stadium,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,2,6,0,0
+10,1214668,Sylhet International Cricket Stadium,Zimbabwe,W Madhevere,Right-arm offbreak,"[1, 1, 0]",1,0,2,0,0
+11,1214668,Sylhet International Cricket Stadium,Zimbabwe,DT Tiripano,Right-arm fast-medium,"[0, 1, 1]",0,6,6,1,0
+12,1214668,Sylhet International Cricket Stadium,Zimbabwe,CT Mumba,Right-arm fast-medium,"[0, 1, 1]",0,0,2,0,0
+13,1323293,Harare Sports Club,Zimbabwe,TL Chivanga,Right-arm fast,"[0, 1, 0]",1,17,13,4,0
+14,1323293,Harare Sports Club,Zimbabwe,Sikandar Raza,Right-arm offbreak,"[1, 1, 0]",0,6,12,0,0
+15,1323293,Harare Sports Club,Zimbabwe,W Madhevere,Right-arm offbreak,"[1, 1, 0]",1,8,16,1,0
+16,1323293,Harare Sports Club,Zimbabwe,LM Jongwe,Right-arm medium,"[0, 1, 2]",0,4,10,0,0
+17,1244022,Shere Bangla National Stadium,West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",1,1,10,0,0
+18,1244023,Shere Bangla National Stadium,West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,9,10,1,0
+19,1244023,Shere Bangla National Stadium,West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,6,11,1,0
+20,1317152,"Providence Stadium, Guyana",West Indies,JNT Seales,Right-arm medium,"[0, 1, 2]",0,6,6,1,0
+21,1317152,"Providence Stadium, Guyana",West Indies,R Shepherd,Right-arm fast-medium,"[0, 1, 1]",1,5,6,1,0
+22,1317152,"Providence Stadium, Guyana",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,16,15,2,0
+23,1317153,"Providence Stadium, Guyana",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",0,6,12,0,0
+24,1317153,"Providence Stadium, Guyana",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",0,2,10,0,0
+25,1317154,"Providence Stadium, Guyana",West Indies,R Shepherd,Right-arm fast-medium,"[0, 1, 1]",0,1,6,0,0
+26,1317154,"Providence Stadium, Guyana",West Indies,AS Joseph,Right-arm fast-medium,"[0, 1, 1]",1,0,7,0,0

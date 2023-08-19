@@ -1,0 +1,47 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,264068,Shaheed Chandu Stadium,Bangladesh,Shahadat Hossain,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+1,264068,Shaheed Chandu Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,7,4,1,0
+2,264068,Shaheed Chandu Stadium,Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",0,3,4,0,0
+3,264069,Shaheed Chandu Stadium,Bangladesh,Shahadat Hossain,Right-arm fast-medium,"[0, 1, 1]",0,3,9,0,0
+4,264069,Shaheed Chandu Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,5,6,0,0
+5,264069,Shaheed Chandu Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,8,5,0,1
+6,264069,Shaheed Chandu Stadium,Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",0,10,6,1,0
+7,264070,Shere Bangla National Stadium,Bangladesh,Shahadat Hossain,Right-arm fast-medium,"[0, 1, 1]",1,0,5,0,0
+8,264070,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,18,35,0,0
+9,264070,Shere Bangla National Stadium,Bangladesh,Mohammad Rafique,Left-arm orthodox,"[1, 0, 1]",0,10,24,1,0
+10,264071,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,4,10,0,0
+11,378759,Shere Bangla National Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,7,20,1,0
+12,378759,Shere Bangla National Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",0,9,6,1,0
+13,378759,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,4,14,0,0
+14,486522,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,5,10,1,0
+15,486526,Zahur Ahmed Chowdhury Stadium,Bangladesh,Shafiul Islam,Right-arm fast-medium,"[0, 1, 1]",0,4,12,0,0
+16,486526,Zahur Ahmed Chowdhury Stadium,Bangladesh,Mashrafe Mortaza,Right-arm fast-medium,"[0, 1, 1]",1,5,12,0,0
+17,325581,Gymkhana Club Ground,Ireland,PC Connell,Right-arm legbreak,"[1, 1, 1]",0,1,1,0,0
+18,385025,Gymkhana Club Ground,Kenya,SO Tikolo,,not known,1,1,5,0,0
+19,385025,Gymkhana Club Ground,Kenya,RL Bhudia,Right-arm medium,"[0, 1, 2]",0,7,18,1,0
+20,385025,Gymkhana Club Ground,Kenya,PJ Ongondo,Right-arm fast-medium,"[0, 1, 1]",0,6,6,1,0
+21,385025,Gymkhana Club Ground,Kenya,CO Obuya,Right-arm legbreak,"[1, 1, 1]",0,3,11,0,0
+22,325803,Iqbal Stadium,Pakistan,Sohail Khan,Right-arm fast-medium,"[0, 1, 1]",0,7,4,1,0
+23,325803,Iqbal Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",1,25,11,1,2
+24,325804,Sheikhupura Stadium,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",0,5,7,0,0
+25,463144,Senwes Park,South Africa,J Theron,Right-arm fast-medium,"[0, 1, 1]",1,5,6,1,0
+26,463144,Senwes Park,South Africa,LL Tsotsobe,Left-arm fast-medium,"[0, 0, 1]",0,2,2,0,0
+27,463145,Willowmoore Park,South Africa,J Theron,Right-arm fast-medium,"[0, 1, 1]",0,2,2,0,0
+28,239907,"Antigua Recreation Ground, St John's",West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",1,2,9,0,0
+29,239911,"Beausejour Stadium, Gros Islet",West Indies,CD Collymore,Right-arm fast-medium,"[0, 1, 1]",0,5,12,0,0
+30,239911,"Beausejour Stadium, Gros Islet",West Indies,D Mohammed,Left-arm chinaman,"[1, 0, 0]",1,0,5,0,0
+31,239911,"Beausejour Stadium, Gros Islet",West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,2,2,0,0
+32,300487,Harare Sports Club,South Africa,M Morkel,Right-arm fast,"[0, 1, 0]",0,0,2,0,0
+33,300487,Harare Sports Club,South Africa,DW Steyn,Right-arm fast,"[0, 1, 0]",0,1,2,0,0
+34,375462,Harare Sports Club,Sri Lanka,M Muralitharan,Right-arm offbreak,"[1, 1, 0]",0,3,16,0,0
+35,375462,Harare Sports Club,Sri Lanka,J Mubarak,Right-arm offbreak,"[1, 1, 0]",0,9,14,0,0
+36,375462,Harare Sports Club,Sri Lanka,AD Mathews,Right-arm fast-medium,"[0, 1, 1]",0,10,9,0,1
+37,375462,Harare Sports Club,Sri Lanka,BAW Mendis,Right-arm offbreak,"[1, 1, 0]",0,10,32,1,0
+38,375462,Harare Sports Club,Sri Lanka,CRD Fernando,Right-arm fast-medium,"[0, 1, 1]",0,4,9,0,0
+39,317578,Harare Sports Club,West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,0,2,0,0
+40,317579,Harare Sports Club,West Indies,RN Lewis,Left-arm orthodox,"[1, 0, 1]",0,5,9,0,0
+41,317579,Harare Sports Club,West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,9,12,2,0
+42,317579,Harare Sports Club,West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",0,3,5,0,0
+43,317579,Harare Sports Club,West Indies,MN Samuels,Right-arm offbreak,"[1, 1, 0]",0,4,5,0,0
+44,317581,Queens Sports Club,West Indies,JE Taylor,Right-arm fast,"[0, 1, 0]",1,1,2,0,0
+45,317581,Queens Sports Club,West Indies,DJ Bravo,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0

@@ -1,0 +1,59 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1244525,Sheikh Zayed Stadium,Ireland,Simi Singh,Right-arm offbreak,"[1, 1, 0]",1,1,11,0,0
+1,1211170,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Namibia,BM Scholtz,Left-arm orthodox,"[1, 0, 1]",1,4,8,0,0
+2,1302618,"ICC Academy, Dubai",Namibia,D Wiese,Right-arm fast-medium,"[0, 1, 1]",0,6,12,0,0
+3,1302618,"ICC Academy, Dubai",Namibia,T Lungameni,Left-arm medium,"[0, 0, 2]",0,13,13,1,0
+4,1211169,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,1,5,0,0
+5,1211169,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",1,7,9,1,0
+6,1299586,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Khawar Ali,Right-arm legbreak,"[1, 1, 1]",0,8,3,0,1
+7,1299586,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Aamir Kaleem,Left-arm orthodox,"[1, 0, 1]",0,6,5,0,0
+8,1299586,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,14,11,2,0
+9,1299586,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",1,10,5,2,0
+10,1299587,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",1,0,4,0,0
+11,1299588,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Khawar Ali,Right-arm legbreak,"[1, 1, 1]",0,16,14,2,0
+12,1299588,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Nestor Dhamba,Right-arm offbreak,"[1, 1, 0]",1,1,2,0,0
+13,1299588,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,5,3,1,0
+14,1302616,"ICC Academy, Dubai",Oman,Khawar Ali,Right-arm legbreak,"[1, 1, 1]",0,3,6,0,0
+15,1302616,"ICC Academy, Dubai",Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",1,0,1,0,0
+16,1302616,"ICC Academy, Dubai",Oman,Mohammad Nadeem,Right-arm fast-medium,"[0, 1, 1]",0,10,4,2,0
+17,1302616,"ICC Academy, Dubai",Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,1,5,0,0
+18,1302619,"ICC Academy, Dubai",Oman,Khawar Ali,Right-arm legbreak,"[1, 1, 1]",0,4,3,0,0
+19,1302619,"ICC Academy, Dubai",Oman,Bilal Khan,Left-arm fast-medium,"[0, 0, 1]",0,2,4,0,0
+20,1302619,"ICC Academy, Dubai",Oman,Kaleemullah,Right-arm medium,"[0, 1, 2]",0,2,2,0,0
+21,1312802,"Moosa Cricket Stadium, Pearland",Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",1,0,1,0,0
+22,1322036,"Mannofield Park, Aberdeen",Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,12,10,2,0
+23,1322036,"Mannofield Park, Aberdeen",Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",0,6,6,0,0
+24,1322036,"Mannofield Park, Aberdeen",Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",1,1,6,0,0
+25,1322036,"Mannofield Park, Aberdeen",Scotland,MA Leask,Right-arm offbreak,"[1, 1, 0]",0,15,14,3,0
+26,1322039,"Mannofield Park, Aberdeen",Scotland,SM Sharif,Right-arm fast-medium,"[0, 1, 1]",0,0,1,0,0
+27,1322039,"Mannofield Park, Aberdeen",Scotland,CS MacLeod,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+28,1322039,"Mannofield Park, Aberdeen",Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",0,4,10,0,0
+29,1322039,"Mannofield Park, Aberdeen",Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",0,0,8,0,0
+30,1322039,"Mannofield Park, Aberdeen",Scotland,MA Leask,Right-arm offbreak,"[1, 1, 0]",1,5,7,0,0
+31,1302621,Sharjah Cricket Stadium,Namibia,D Wiese,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+32,1302625,Dubai International Cricket Stadium,Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",0,2,11,0,0
+33,1302627,Dubai International Cricket Stadium,Nepal,S Lamichhane,Right-arm legbreak,"[1, 1, 1]",1,2,8,0,0
+34,1302627,Dubai International Cricket Stadium,Nepal,Sompal Kami,Right-arm fast-medium,"[0, 1, 1]",0,5,7,0,0
+35,1302627,Dubai International Cricket Stadium,Nepal,P Sarraf,Right-arm offbreak,"[1, 1, 0]",0,2,3,0,0
+36,1302626,Dubai International Cricket Stadium,Papua New Guinea,A Vala,Right-arm offbreak,"[1, 1, 0]",0,5,15,0,0
+37,1302626,Dubai International Cricket Stadium,Papua New Guinea,CA Soper,Right arm Medium fast,"[0, 1, 1]",0,1,6,0,0
+38,1206064,ICC Academy,Scotland,SG Whittingham,Right-arm fast-medium,"[0, 1, 1]",0,15,22,1,0
+39,1206064,ICC Academy,Scotland,CS MacLeod,Right-arm fast-medium,"[0, 1, 1]",0,7,9,0,0
+40,1206064,ICC Academy,Scotland,MRJ Watt,Left-arm orthodox,"[1, 0, 1]",0,25,24,3,0
+41,1206064,ICC Academy,Scotland,Hamza Tahir,Left-arm orthodox,"[1, 0, 1]",0,11,13,1,0
+42,1206059,Sharjah Cricket Stadium,United States of America,J Theron,Right-arm fast-medium,"[0, 1, 1]",1,5,8,1,0
+43,1206059,Sharjah Cricket Stadium,United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,1,6,0,0
+44,1206059,Sharjah Cricket Stadium,United States of America,K Gore,Left-arm orthodox,"[1, 0, 1]",0,7,9,1,0
+45,1206059,Sharjah Cricket Stadium,United States of America,IG Holland,Right-arm fast-medium,"[0, 1, 1]",0,9,5,2,0
+46,1206059,Sharjah Cricket Stadium,United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",0,3,12,0,0
+47,1206062,ICC Academy,United States of America,J Theron,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+48,1206062,ICC Academy,United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,3,14,0,0
+49,1206062,ICC Academy,United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",0,14,16,1,0
+50,1312801,"Moosa Cricket Stadium, Pearland",United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",0,0,3,0,0
+51,1312801,"Moosa Cricket Stadium, Pearland",United States of America,NK Patel,Left-arm orthodox,"[1, 0, 1]",0,8,7,1,0
+52,1312801,"Moosa Cricket Stadium, Pearland",United States of America,Ali Khan,Right-arm fast-medium,"[0, 1, 1]",1,2,7,0,0
+53,1312801,"Moosa Cricket Stadium, Pearland",United States of America,Aaron Jones,Right-arm legbreak,"[1, 1, 1]",0,8,15,1,0
+54,1312801,"Moosa Cricket Stadium, Pearland",United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",0,1,4,0,0
+55,1322037,"Mannofield Park, Aberdeen",United States of America,NK Patel,Left-arm orthodox,"[1, 0, 1]",0,9,9,1,0
+56,1322037,"Mannofield Park, Aberdeen",United States of America,SN Netravalkar,Left-arm fast-medium,"[0, 0, 1]",1,2,4,0,0
+57,1322037,"Mannofield Park, Aberdeen",United States of America,CAH Stevenson,Right-arm fast-medium,"[0, 1, 1]",1,9,8,1,0

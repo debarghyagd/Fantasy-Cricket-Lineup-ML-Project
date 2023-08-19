@@ -1,0 +1,281 @@
+,delivery,batter,non_striker,bowler,run_hit,extras,type_of_extras,total,wicket,player_dismissed,mode_of_dismissal
+0,0.1,Noor Ali Zadran,Nawroz Mangal,B Kumar,0,0,null,0,0,null,null
+1,0.2,Noor Ali Zadran,Nawroz Mangal,B Kumar,1,0,null,1,0,null,null
+2,0.3,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+3,0.4,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+4,0.5,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,1,wides ,1,0,null,null
+5,0.6,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+6,0.7,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+7,1.1,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,0,0,null,0,0,null,null
+8,1.2,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,0,0,null,0,0,null,null
+9,1.3,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,0,5,wides ,5,0,null,null
+10,1.4,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,0,0,null,0,0,null,null
+11,1.5,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,4,0,null,4,0,null,null
+12,1.6,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,0,0,null,0,0,null,null
+13,1.7,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,0,1,wides ,1,0,null,null
+14,1.8,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,4,0,null,4,0,null,null
+15,2.1,Nawroz Mangal,Noor Ali Zadran,B Kumar,4,0,null,4,0,null,null
+16,2.2,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+17,2.3,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+18,2.4,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+19,2.5,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+20,2.6,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+21,3.1,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,0,0,null,0,0,null,null
+22,3.2,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,0,1,wides ,1,0,null,null
+23,3.3,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,0,0,null,0,0,null,null
+24,3.4,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,4,0,null,4,0,null,null
+25,3.5,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,0,0,null,0,0,null,null
+26,3.6,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,4,0,null,4,0,null,null
+27,3.7,Noor Ali Zadran,Nawroz Mangal,Mohammed Shami,0,0,null,0,0,null,null
+28,4.1,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+29,4.2,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+30,4.3,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+31,4.4,Nawroz Mangal,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+32,4.5,Nawroz Mangal,Noor Ali Zadran,B Kumar,1,0,null,1,0,null,null
+33,4.6,Noor Ali Zadran,Nawroz Mangal,B Kumar,0,0,null,0,0,null,null
+34,5.1,Nawroz Mangal,Noor Ali Zadran,Mohammed Shami,0,0,null,0,1,Nawroz Mangal,bowled
+35,5.2,Rahmat Shah,Noor Ali Zadran,Mohammed Shami,0,0,null,0,0,null,null
+36,5.3,Rahmat Shah,Noor Ali Zadran,Mohammed Shami,0,1,wides ,1,0,null,null
+37,5.4,Rahmat Shah,Noor Ali Zadran,Mohammed Shami,0,0,null,0,0,null,null
+38,5.5,Rahmat Shah,Noor Ali Zadran,Mohammed Shami,0,0,null,0,0,null,null
+39,5.6,Rahmat Shah,Noor Ali Zadran,Mohammed Shami,0,0,null,0,0,null,null
+40,5.7,Rahmat Shah,Noor Ali Zadran,Mohammed Shami,1,0,null,1,0,null,null
+41,6.1,Rahmat Shah,Noor Ali Zadran,B Kumar,2,0,null,2,0,null,null
+42,6.2,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+43,6.3,Rahmat Shah,Noor Ali Zadran,B Kumar,1,0,null,1,0,null,null
+44,6.4,Noor Ali Zadran,Rahmat Shah,B Kumar,4,0,null,4,0,null,null
+45,6.5,Noor Ali Zadran,Rahmat Shah,B Kumar,1,0,null,1,0,null,null
+46,6.6,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+47,7.1,Noor Ali Zadran,Rahmat Shah,Mohammed Shami,0,0,null,0,0,null,null
+48,7.2,Noor Ali Zadran,Rahmat Shah,Mohammed Shami,0,0,null,0,0,null,null
+49,7.3,Noor Ali Zadran,Rahmat Shah,Mohammed Shami,0,0,null,0,0,null,null
+50,7.4,Noor Ali Zadran,Rahmat Shah,Mohammed Shami,1,0,null,1,0,null,null
+51,7.5,Rahmat Shah,Noor Ali Zadran,Mohammed Shami,1,0,null,1,0,null,null
+52,7.6,Noor Ali Zadran,Rahmat Shah,Mohammed Shami,0,0,null,0,0,null,null
+53,8.1,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+54,8.2,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+55,8.3,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+56,8.4,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+57,8.5,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+58,8.6,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+59,9.1,Noor Ali Zadran,Rahmat Shah,Mohammed Shami,4,0,null,4,0,null,null
+60,9.2,Noor Ali Zadran,Rahmat Shah,Mohammed Shami,2,0,null,2,0,null,null
+61,9.3,Noor Ali Zadran,Rahmat Shah,Mohammed Shami,0,0,null,0,0,null,null
+62,9.4,Noor Ali Zadran,Rahmat Shah,Mohammed Shami,0,0,null,0,0,null,null
+63,9.5,Noor Ali Zadran,Rahmat Shah,Mohammed Shami,0,0,null,0,0,null,null
+64,9.6,Noor Ali Zadran,Rahmat Shah,Mohammed Shami,0,0,null,0,0,null,null
+65,10.1,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+66,10.2,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+67,10.3,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+68,10.4,Rahmat Shah,Noor Ali Zadran,B Kumar,4,0,null,4,0,null,null
+69,10.5,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+70,10.6,Rahmat Shah,Noor Ali Zadran,B Kumar,0,0,null,0,0,null,null
+71,11.1,Noor Ali Zadran,Rahmat Shah,A Mishra,0,0,null,0,0,null,null
+72,11.2,Noor Ali Zadran,Rahmat Shah,A Mishra,0,0,null,0,0,null,null
+73,11.3,Noor Ali Zadran,Rahmat Shah,A Mishra,0,0,null,0,0,null,null
+74,11.4,Noor Ali Zadran,Rahmat Shah,A Mishra,2,0,null,2,0,null,null
+75,11.5,Noor Ali Zadran,Rahmat Shah,A Mishra,0,0,null,0,0,null,null
+76,11.6,Noor Ali Zadran,Rahmat Shah,A Mishra,0,0,null,0,0,null,null
+77,12.1,Rahmat Shah,Noor Ali Zadran,RA Jadeja,0,0,null,0,1,Rahmat Shah,lbw
+78,12.2,Asghar Stanikzai,Noor Ali Zadran,RA Jadeja,1,0,null,1,0,null,null
+79,12.3,Noor Ali Zadran,Asghar Stanikzai,RA Jadeja,0,0,null,0,1,Noor Ali Zadran,caught
+80,12.4,Najibullah Zadran,Asghar Stanikzai,RA Jadeja,0,0,null,0,0,null,null
+81,12.5,Najibullah Zadran,Asghar Stanikzai,RA Jadeja,0,0,null,0,0,null,null
+82,12.6,Najibullah Zadran,Asghar Stanikzai,RA Jadeja,0,0,null,0,0,null,null
+83,13.1,Asghar Stanikzai,Najibullah Zadran,A Mishra,0,0,null,0,0,null,null
+84,13.2,Asghar Stanikzai,Najibullah Zadran,A Mishra,1,0,null,1,0,null,null
+85,13.3,Najibullah Zadran,Asghar Stanikzai,A Mishra,1,0,null,1,0,null,null
+86,13.4,Asghar Stanikzai,Najibullah Zadran,A Mishra,1,0,null,1,0,null,null
+87,13.5,Najibullah Zadran,Asghar Stanikzai,A Mishra,0,0,null,0,0,null,null
+88,13.6,Najibullah Zadran,Asghar Stanikzai,A Mishra,0,0,null,0,0,null,null
+89,14.1,Asghar Stanikzai,Najibullah Zadran,RA Jadeja,2,0,null,2,0,null,null
+90,14.2,Asghar Stanikzai,Najibullah Zadran,RA Jadeja,0,0,null,0,0,null,null
+91,14.3,Asghar Stanikzai,Najibullah Zadran,RA Jadeja,0,0,null,0,1,Asghar Stanikzai,caught
+92,14.4,Mohammad Nabi,Najibullah Zadran,RA Jadeja,0,0,null,0,0,null,null
+93,14.5,Mohammad Nabi,Najibullah Zadran,RA Jadeja,0,0,null,0,0,null,null
+94,14.6,Mohammad Nabi,Najibullah Zadran,RA Jadeja,0,0,null,0,0,null,null
+95,15.1,Najibullah Zadran,Mohammad Nabi,A Mishra,0,0,null,0,0,null,null
+96,15.2,Najibullah Zadran,Mohammad Nabi,A Mishra,0,0,null,0,0,null,null
+97,15.3,Najibullah Zadran,Mohammad Nabi,A Mishra,3,0,null,3,0,null,null
+98,15.4,Mohammad Nabi,Najibullah Zadran,A Mishra,0,0,null,0,0,null,null
+99,15.5,Mohammad Nabi,Najibullah Zadran,A Mishra,0,0,null,0,0,null,null
+100,15.6,Mohammad Nabi,Najibullah Zadran,A Mishra,0,0,null,0,0,null,null
+101,16.1,Najibullah Zadran,Mohammad Nabi,RA Jadeja,0,0,null,0,0,null,null
+102,16.2,Najibullah Zadran,Mohammad Nabi,RA Jadeja,0,0,null,0,0,null,null
+103,16.3,Najibullah Zadran,Mohammad Nabi,RA Jadeja,0,0,null,0,0,null,null
+104,16.4,Najibullah Zadran,Mohammad Nabi,RA Jadeja,1,0,null,1,0,null,null
+105,16.5,Mohammad Nabi,Najibullah Zadran,RA Jadeja,0,0,null,0,0,null,null
+106,16.6,Mohammad Nabi,Najibullah Zadran,RA Jadeja,0,0,null,0,0,null,null
+107,17.1,Najibullah Zadran,Mohammad Nabi,R Ashwin,0,0,null,0,1,Najibullah Zadran,caught
+108,17.2,Mohammad Nabi,Mohammad Shahzad,R Ashwin,1,0,null,1,0,null,null
+109,17.3,Mohammad Shahzad,Mohammad Nabi,R Ashwin,4,0,null,4,0,null,null
+110,17.4,Mohammad Shahzad,Mohammad Nabi,R Ashwin,0,0,null,0,0,null,null
+111,17.5,Mohammad Shahzad,Mohammad Nabi,R Ashwin,0,0,null,0,0,null,null
+112,17.6,Mohammad Shahzad,Mohammad Nabi,R Ashwin,1,0,null,1,0,null,null
+113,18.1,Mohammad Shahzad,Mohammad Nabi,RA Jadeja,0,0,null,0,0,null,null
+114,18.2,Mohammad Shahzad,Mohammad Nabi,RA Jadeja,0,0,null,0,0,null,null
+115,18.3,Mohammad Shahzad,Mohammad Nabi,RA Jadeja,0,0,null,0,0,null,null
+116,18.4,Mohammad Shahzad,Mohammad Nabi,RA Jadeja,1,0,null,1,0,null,null
+117,18.5,Mohammad Nabi,Mohammad Shahzad,RA Jadeja,1,0,null,1,0,null,null
+118,18.6,Mohammad Shahzad,Mohammad Nabi,RA Jadeja,6,0,null,6,0,null,null
+119,19.1,Mohammad Nabi,Mohammad Shahzad,A Mishra,0,0,null,0,0,null,null
+120,19.2,Mohammad Nabi,Mohammad Shahzad,A Mishra,1,0,null,1,0,null,null
+121,19.3,Mohammad Shahzad,Mohammad Nabi,A Mishra,0,0,null,0,0,null,null
+122,19.4,Mohammad Shahzad,Mohammad Nabi,A Mishra,1,0,null,1,0,null,null
+123,19.5,Mohammad Nabi,Mohammad Shahzad,A Mishra,0,0,null,0,0,null,null
+124,19.6,Mohammad Nabi,Mohammad Shahzad,A Mishra,1,0,null,1,0,null,null
+125,20.1,Mohammad Nabi,Mohammad Shahzad,RA Jadeja,0,0,null,0,0,null,null
+126,20.2,Mohammad Nabi,Mohammad Shahzad,RA Jadeja,2,0,null,2,0,null,null
+127,20.3,Mohammad Nabi,Mohammad Shahzad,RA Jadeja,0,0,null,0,0,null,null
+128,20.4,Mohammad Nabi,Mohammad Shahzad,RA Jadeja,0,0,null,0,0,null,null
+129,20.5,Mohammad Nabi,Mohammad Shahzad,RA Jadeja,0,0,null,0,0,null,null
+130,20.6,Mohammad Nabi,Mohammad Shahzad,RA Jadeja,0,0,null,0,1,Mohammad Nabi,caught
+131,21.1,Mohammad Shahzad,Samiullah Shenwari,A Mishra,1,0,null,1,0,null,null
+132,21.2,Samiullah Shenwari,Mohammad Shahzad,A Mishra,0,0,null,0,0,null,null
+133,21.3,Samiullah Shenwari,Mohammad Shahzad,A Mishra,0,0,null,0,0,null,null
+134,21.4,Samiullah Shenwari,Mohammad Shahzad,A Mishra,0,0,null,0,0,null,null
+135,21.5,Samiullah Shenwari,Mohammad Shahzad,A Mishra,0,0,null,0,0,null,null
+136,21.6,Samiullah Shenwari,Mohammad Shahzad,A Mishra,0,0,null,0,0,null,null
+137,22.1,Mohammad Shahzad,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+138,22.2,Mohammad Shahzad,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+139,22.3,Mohammad Shahzad,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+140,22.4,Mohammad Shahzad,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+141,22.5,Mohammad Shahzad,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+142,22.6,Mohammad Shahzad,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+143,23.1,Samiullah Shenwari,Mohammad Shahzad,A Mishra,1,0,null,1,0,null,null
+144,23.2,Mohammad Shahzad,Samiullah Shenwari,A Mishra,1,0,null,1,0,null,null
+145,23.3,Samiullah Shenwari,Mohammad Shahzad,A Mishra,0,0,null,0,0,null,null
+146,23.4,Samiullah Shenwari,Mohammad Shahzad,A Mishra,1,0,null,1,0,null,null
+147,23.5,Mohammad Shahzad,Samiullah Shenwari,A Mishra,1,0,null,1,0,null,null
+148,23.6,Samiullah Shenwari,Mohammad Shahzad,A Mishra,0,0,null,0,0,null,null
+149,24.1,Mohammad Shahzad,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+150,24.2,Mohammad Shahzad,Samiullah Shenwari,RA Jadeja,4,0,null,4,0,null,null
+151,24.3,Mohammad Shahzad,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+152,24.4,Mohammad Shahzad,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+153,24.5,Mohammad Shahzad,Samiullah Shenwari,RA Jadeja,1,0,null,1,0,null,null
+154,24.6,Samiullah Shenwari,Mohammad Shahzad,RA Jadeja,0,0,null,0,0,null,null
+155,25.1,Mohammad Shahzad,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+156,25.2,Mohammad Shahzad,Samiullah Shenwari,R Ashwin,1,0,null,1,0,null,null
+157,25.3,Samiullah Shenwari,Mohammad Shahzad,R Ashwin,1,0,null,1,0,null,null
+158,25.4,Mohammad Shahzad,Samiullah Shenwari,R Ashwin,0,0,null,0,1,Mohammad Shahzad,lbw
+159,25.5,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,2,0,null,2,0,null,null
+160,25.6,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+161,26.1,Samiullah Shenwari,Mirwais Ashraf,RA Jadeja,0,0,null,0,0,null,null
+162,26.2,Samiullah Shenwari,Mirwais Ashraf,RA Jadeja,0,0,null,0,0,null,null
+163,26.3,Samiullah Shenwari,Mirwais Ashraf,RA Jadeja,1,0,null,1,0,null,null
+164,26.4,Mirwais Ashraf,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+165,26.5,Mirwais Ashraf,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+166,26.6,Mirwais Ashraf,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+167,27.1,Samiullah Shenwari,Mirwais Ashraf,R Ashwin,0,0,null,0,0,null,null
+168,27.2,Samiullah Shenwari,Mirwais Ashraf,R Ashwin,1,0,null,1,0,null,null
+169,27.3,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+170,27.4,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+171,27.5,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,2,0,null,2,0,null,null
+172,27.6,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+173,28.1,Samiullah Shenwari,Mirwais Ashraf,RA Jadeja,0,0,null,0,0,null,null
+174,28.2,Samiullah Shenwari,Mirwais Ashraf,RA Jadeja,0,0,null,0,0,null,null
+175,28.3,Samiullah Shenwari,Mirwais Ashraf,RA Jadeja,0,0,null,0,0,null,null
+176,28.4,Samiullah Shenwari,Mirwais Ashraf,RA Jadeja,1,0,null,1,0,null,null
+177,28.5,Mirwais Ashraf,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+178,28.6,Mirwais Ashraf,Samiullah Shenwari,RA Jadeja,1,0,null,1,0,null,null
+179,29.1,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+180,29.2,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+181,29.3,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,1,0,null,1,0,null,null
+182,29.4,Samiullah Shenwari,Mirwais Ashraf,R Ashwin,1,0,null,1,0,null,null
+183,29.5,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+184,29.6,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,2,0,null,2,0,null,null
+185,30.1,Samiullah Shenwari,Mirwais Ashraf,A Mishra,0,0,null,0,0,null,null
+186,30.2,Samiullah Shenwari,Mirwais Ashraf,A Mishra,1,0,null,1,0,null,null
+187,30.3,Mirwais Ashraf,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+188,30.4,Mirwais Ashraf,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+189,30.5,Mirwais Ashraf,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+190,30.6,Mirwais Ashraf,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+191,31.1,Samiullah Shenwari,Mirwais Ashraf,R Ashwin,1,0,null,1,0,null,null
+192,31.2,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+193,31.3,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+194,31.4,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+195,31.5,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+196,31.6,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,0,1,wides ,1,0,null,null
+197,31.7,Mirwais Ashraf,Samiullah Shenwari,R Ashwin,1,0,null,1,0,null,null
+198,32.1,Mirwais Ashraf,Samiullah Shenwari,A Mishra,0,0,null,0,1,Mirwais Ashraf,caught
+199,32.2,Shapoor Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+200,32.3,Shapoor Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+201,32.4,Shapoor Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+202,32.5,Shapoor Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+203,32.6,Shapoor Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+204,33.1,Samiullah Shenwari,Shapoor Zadran,R Ashwin,0,2,legbyes ,2,0,null,null
+205,33.2,Samiullah Shenwari,Shapoor Zadran,R Ashwin,0,0,null,0,0,null,null
+206,33.3,Samiullah Shenwari,Shapoor Zadran,R Ashwin,0,0,null,0,0,null,null
+207,33.4,Samiullah Shenwari,Shapoor Zadran,R Ashwin,0,0,null,0,0,null,null
+208,33.5,Samiullah Shenwari,Shapoor Zadran,R Ashwin,0,0,null,0,0,null,null
+209,33.6,Samiullah Shenwari,Shapoor Zadran,R Ashwin,0,0,null,0,0,null,null
+210,34.1,Shapoor Zadran,Samiullah Shenwari,RA Jadeja,0,0,null,0,0,null,null
+211,34.2,Shapoor Zadran,Samiullah Shenwari,RA Jadeja,1,0,null,1,0,null,null
+212,34.3,Samiullah Shenwari,Shapoor Zadran,RA Jadeja,0,0,null,0,0,null,null
+213,34.4,Samiullah Shenwari,Shapoor Zadran,RA Jadeja,6,0,null,6,0,null,null
+214,34.5,Samiullah Shenwari,Shapoor Zadran,RA Jadeja,0,0,null,0,0,null,null
+215,34.6,Samiullah Shenwari,Shapoor Zadran,RA Jadeja,1,0,null,1,0,null,null
+216,35.1,Samiullah Shenwari,Shapoor Zadran,R Ashwin,0,0,null,0,0,null,null
+217,35.2,Samiullah Shenwari,Shapoor Zadran,R Ashwin,0,0,null,0,0,null,null
+218,35.3,Samiullah Shenwari,Shapoor Zadran,R Ashwin,0,0,null,0,0,null,null
+219,35.4,Samiullah Shenwari,Shapoor Zadran,R Ashwin,0,0,null,0,0,null,null
+220,35.5,Samiullah Shenwari,Shapoor Zadran,R Ashwin,4,0,null,4,0,null,null
+221,35.6,Samiullah Shenwari,Shapoor Zadran,R Ashwin,0,1,wides ,1,0,null,null
+222,35.7,Samiullah Shenwari,Shapoor Zadran,R Ashwin,1,0,null,1,0,null,null
+223,36.1,Samiullah Shenwari,Shapoor Zadran,Mohammed Shami,4,0,null,4,0,null,null
+224,36.2,Samiullah Shenwari,Shapoor Zadran,Mohammed Shami,0,0,null,0,0,null,null
+225,36.3,Samiullah Shenwari,Shapoor Zadran,Mohammed Shami,0,0,null,0,0,null,null
+226,36.4,Samiullah Shenwari,Shapoor Zadran,Mohammed Shami,2,0,null,2,0,null,null
+227,36.5,Samiullah Shenwari,Shapoor Zadran,Mohammed Shami,0,0,null,0,0,null,null
+228,36.6,Samiullah Shenwari,Shapoor Zadran,Mohammed Shami,4,0,null,4,0,null,null
+229,37.1,Shapoor Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+230,37.2,Shapoor Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+231,37.3,Shapoor Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+232,37.4,Shapoor Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+233,37.5,Shapoor Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+234,37.6,Shapoor Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,1,Shapoor Zadran,lbw
+235,38.1,Samiullah Shenwari,Dawlat Zadran,A Mishra,0,0,null,0,0,null,null
+236,38.2,Samiullah Shenwari,Dawlat Zadran,A Mishra,0,0,null,0,0,null,null
+237,38.3,Samiullah Shenwari,Dawlat Zadran,A Mishra,1,0,null,1,0,null,null
+238,38.4,Dawlat Zadran,Samiullah Shenwari,A Mishra,1,0,null,1,0,null,null
+239,38.5,Samiullah Shenwari,Dawlat Zadran,A Mishra,1,0,null,1,0,null,null
+240,38.6,Dawlat Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+241,39.1,Samiullah Shenwari,Dawlat Zadran,R Ashwin,0,0,null,0,0,null,null
+242,39.2,Samiullah Shenwari,Dawlat Zadran,R Ashwin,0,0,null,0,0,null,null
+243,39.3,Samiullah Shenwari,Dawlat Zadran,R Ashwin,0,0,null,0,0,null,null
+244,39.4,Samiullah Shenwari,Dawlat Zadran,R Ashwin,0,0,null,0,0,null,null
+245,39.5,Samiullah Shenwari,Dawlat Zadran,R Ashwin,4,0,null,4,0,null,null
+246,39.6,Samiullah Shenwari,Dawlat Zadran,R Ashwin,1,0,null,1,0,null,null
+247,40.1,Samiullah Shenwari,Dawlat Zadran,Mohammed Shami,2,0,null,2,0,null,null
+248,40.2,Samiullah Shenwari,Dawlat Zadran,Mohammed Shami,0,0,null,0,0,null,null
+249,40.3,Samiullah Shenwari,Dawlat Zadran,Mohammed Shami,0,0,null,0,0,null,null
+250,40.4,Samiullah Shenwari,Dawlat Zadran,Mohammed Shami,4,0,null,4,0,null,null
+251,40.5,Samiullah Shenwari,Dawlat Zadran,Mohammed Shami,1,0,null,1,0,null,null
+252,40.6,Dawlat Zadran,Samiullah Shenwari,Mohammed Shami,0,0,null,0,0,null,null
+253,41.1,Samiullah Shenwari,Dawlat Zadran,B Kumar,0,0,null,0,0,null,null
+254,41.2,Samiullah Shenwari,Dawlat Zadran,B Kumar,0,0,null,0,0,null,null
+255,41.3,Samiullah Shenwari,Dawlat Zadran,B Kumar,0,0,null,0,0,null,null
+256,41.4,Samiullah Shenwari,Dawlat Zadran,B Kumar,0,0,null,0,0,null,null
+257,41.5,Samiullah Shenwari,Dawlat Zadran,B Kumar,0,0,null,0,0,null,null
+258,41.6,Samiullah Shenwari,Dawlat Zadran,B Kumar,4,0,null,4,0,null,null
+259,42.1,Dawlat Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+260,42.2,Dawlat Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+261,42.3,Dawlat Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+262,42.4,Dawlat Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+263,42.5,Dawlat Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+264,42.6,Dawlat Zadran,Samiullah Shenwari,A Mishra,0,1,wides ,1,0,null,null
+265,42.7,Dawlat Zadran,Samiullah Shenwari,A Mishra,0,0,null,0,0,null,null
+266,43.1,Samiullah Shenwari,Dawlat Zadran,B Kumar,0,0,null,0,0,null,null
+267,43.2,Samiullah Shenwari,Dawlat Zadran,B Kumar,0,0,null,0,0,null,null
+268,43.3,Samiullah Shenwari,Dawlat Zadran,B Kumar,1,0,null,1,0,null,null
+269,43.4,Dawlat Zadran,Samiullah Shenwari,B Kumar,0,0,null,0,0,null,null
+270,43.5,Dawlat Zadran,Samiullah Shenwari,B Kumar,1,0,null,1,0,null,null
+271,43.6,Samiullah Shenwari,Dawlat Zadran,B Kumar,0,0,null,0,0,null,null
+272,44.1,Dawlat Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+273,44.2,Dawlat Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+274,44.3,Dawlat Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+275,44.4,Dawlat Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+276,44.5,Dawlat Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+277,44.6,Dawlat Zadran,Samiullah Shenwari,R Ashwin,0,0,null,0,0,null,null
+278,45.1,Samiullah Shenwari,Dawlat Zadran,Mohammed Shami,0,0,null,0,0,null,null
+279,45.2,Samiullah Shenwari,Dawlat Zadran,Mohammed Shami,0,0,null,0,1,Samiullah Shenwari,lbw

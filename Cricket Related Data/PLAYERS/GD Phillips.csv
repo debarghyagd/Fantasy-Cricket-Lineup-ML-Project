@@ -1,0 +1,13 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1303309,"The Village, Malahide, Dublin",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,8,8,1,0
+1,1303309,"The Village, Malahide, Dublin",Ireland,J Little,Left-arm fast,"[0, 0, 0]",0,9,9,1,0
+2,1303309,"The Village, Malahide, Dublin",Ireland,Simi Singh,Right-arm offbreak,"[1, 1, 0]",0,4,11,0,0
+3,1303309,"The Village, Malahide, Dublin",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",1,7,14,1,0
+4,1303310,"The Village, Malahide, Dublin",Ireland,Simi Singh,Right-arm offbreak,"[1, 1, 0]",0,6,8,1,0
+5,1303310,"The Village, Malahide, Dublin",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",1,0,2,0,0
+6,1303310,"The Village, Malahide, Dublin",Ireland,AR McBrine,Right-arm offbreak,"[1, 1, 0]",0,10,6,1,1
+7,1303311,"The Village, Malahide, Dublin",Ireland,CA Young,Right-arm medium,"[0, 1, 2]",0,10,4,0,1
+8,1303311,"The Village, Malahide, Dublin",Ireland,J Little,Left-arm fast,"[0, 0, 0]",1,14,9,3,0
+9,1303311,"The Village, Malahide, Dublin",Ireland,GI Hume,Right-arm fast-medium,"[0, 1, 1]",0,2,4,0,0
+10,1303311,"The Village, Malahide, Dublin",Ireland,GJ Delany,Right-arm legbreak,"[1, 1, 1]",0,18,11,2,1
+11,1317912,"Kensington Oval, Bridgetown, Barbados",West Indies,AJ Hosein,Left-arm orthodox,"[1, 0, 1]",1,8,8,1,0

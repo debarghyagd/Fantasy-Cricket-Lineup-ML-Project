@@ -1,0 +1,5 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1142924,Queens Sports Club,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",1,6,16,0,0
+1,1142924,Queens Sports Club,Pakistan,Shoaib Malik,Right-arm offbreak,"[1, 1, 0]",0,11,11,0,0
+2,1142922,Queens Sports Club,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",0,1,5,0,0
+3,1142922,Queens Sports Club,Pakistan,Usman Shinwari,Left-arm fast-medium,"[0, 0, 1]",1,0,2,0,0

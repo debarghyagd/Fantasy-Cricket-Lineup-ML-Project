@@ -1,0 +1,83 @@
+,match_id,venue,opposition,bowler,bowler_type,bowler_type_tuple,got_him_out,runs_scored,balls_faced,fours,sixes
+0,1263161,"Kensington Oval, Bridgetown, Barbados",Australia,JR Hazlewood,Right-arm fast-medium,"[0, 1, 1]",0,1,2,0,0
+1,1263161,"Kensington Oval, Bridgetown, Barbados",Australia,MA Starc,Left-arm fast,"[0, 0, 0]",1,1,4,0,0
+2,1263162,"Kensington Oval, Bridgetown, Barbados",Australia,A Zampa,Right-arm legbreak,"[1, 1, 1]",1,0,3,0,0
+3,1263162,"Kensington Oval, Bridgetown, Barbados",Australia,MA Starc,Left-arm fast,"[0, 0, 0]",0,1,3,0,0
+4,1146720,Providence Stadium,Bangladesh,Mosaddek Hossain,Right-arm offbreak,"[1, 1, 0]",0,4,8,0,0
+5,1146720,Providence Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,2,4,0,0
+6,1146720,Providence Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,2,3,0,0
+7,1244024,Zahur Ahmed Chowdhury Stadium,Bangladesh,Mahmudullah,Right-arm offbreak,"[1, 1, 0]",0,6,5,1,0
+8,1244024,Zahur Ahmed Chowdhury Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,4,15,0,0
+9,1031671,County Ground,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,13,19,0,1
+10,1031671,County Ground,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",1,1,10,0,0
+11,1031671,County Ground,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,15,16,2,0
+12,1031671,County Ground,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,6,5,1,0
+13,1115796,Hagley Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,5,12,1,0
+14,1115796,Hagley Oval,New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",1,3,6,0,0
+15,1115796,Hagley Oval,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",0,8,8,1,0
+16,1115796,Hagley Oval,New Zealand,DAJ Bracewell,Right-arm fast-medium,"[0, 1, 1]",0,2,6,0,0
+17,1115797,Hagley Oval,New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",1,0,2,0,0
+18,1115797,Hagley Oval,New Zealand,MJ Henry,Right-arm fast-medium,"[0, 1, 1]",0,1,3,0,0
+19,1133007,Old Hararians,Papua New Guinea,CJA Amini,Right-arm legbreak,"[1, 1, 1]",1,0,2,0,0
+20,915779,R Premadasa Stadium,Sri Lanka,SL Malinga,Right-arm fast,"[0, 1, 0]",1,1,5,0,0
+21,1089779,"Darren Sammy National Cricket Stadium, Gros Islet",Afghanistan,Amir Hamza,Left-arm orthodox,"[1, 0, 1]",0,2,6,0,0
+22,1089779,"Darren Sammy National Cricket Stadium, Gros Islet",Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",1,0,1,0,0
+23,1089779,"Darren Sammy National Cricket Stadium, Gros Islet",Afghanistan,Samiullah Shenwari,Right-arm legbreak,"[1, 1, 1]",0,1,1,0,0
+24,1089780,"Darren Sammy National Cricket Stadium, Gros Islet",Afghanistan,Amir Hamza,Left-arm orthodox,"[1, 0, 1]",0,1,3,0,0
+25,1089780,"Darren Sammy National Cricket Stadium, Gros Islet",Afghanistan,Rashid Khan,Right-arm legbreak,"[1, 1, 1]",0,0,4,0,0
+26,1146721,Providence Stadium,Bangladesh,Mosaddek Hossain,Right-arm offbreak,"[1, 1, 0]",0,5,4,1,0
+27,1146721,Providence Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",1,1,3,0,0
+28,1146721,Providence Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",0,6,8,0,0
+29,1244022,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,2,13,0,0
+30,1244022,Shere Bangla National Stadium,Bangladesh,Hasan Mahmud,Right-arm medium,"[0, 1, 2]",0,7,7,0,0
+31,1244022,Shere Bangla National Stadium,Bangladesh,Mustafizur Rahman,Left-arm fast-medium,"[0, 0, 1]",0,4,7,0,0
+32,1244022,Shere Bangla National Stadium,Bangladesh,Rubel Hossain,Right-arm fast-medium,"[0, 1, 1]",0,3,8,0,0
+33,1244023,Shere Bangla National Stadium,Bangladesh,Hasan Mahmud,Right-arm medium,"[0, 1, 2]",0,5,4,0,0
+34,1244023,Shere Bangla National Stadium,Bangladesh,Shakib Al Hasan,Left-arm orthodox,"[1, 0, 1]",1,4,9,0,0
+35,1027315,"Sir Vivian Richards Stadium, North Sound",England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,30,30,5,0
+36,1027315,"Sir Vivian Richards Stadium, North Sound",England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,12,21,1,0
+37,1027315,"Sir Vivian Richards Stadium, North Sound",England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,4,4,0,0
+38,1027315,"Sir Vivian Richards Stadium, North Sound",England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,12,22,0,0
+39,1027317,"Sir Vivian Richards Stadium, North Sound",England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,15,25,1,0
+40,1027317,"Sir Vivian Richards Stadium, North Sound",England,LE Plunkett,Right-arm fast,"[0, 1, 0]",1,5,12,1,0
+41,1027317,"Sir Vivian Richards Stadium, North Sound",England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,12,15,0,1
+42,1027317,"Sir Vivian Richards Stadium, North Sound",England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,3,7,0,0
+43,1027317,"Sir Vivian Richards Stadium, North Sound",England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",0,15,16,0,1
+44,1027319,"Kensington Oval, Bridgetown",England,ST Finn,Right-arm fast-medium,"[0, 1, 1]",0,4,6,1,0
+45,1027319,"Kensington Oval, Bridgetown",England,LE Plunkett,Right-arm fast,"[0, 1, 0]",1,0,4,0,0
+46,1027319,"Kensington Oval, Bridgetown",England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,1,8,0,0
+47,1031667,Old Trafford,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",1,8,7,0,1
+48,1031667,Old Trafford,England,BA Stokes,Right-arm fast-medium,"[0, 1, 1]",0,3,5,0,0
+49,1031667,Old Trafford,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,5,11,0,0
+50,1031673,Kennington Oval,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,10,18,1,0
+51,1031673,Kennington Oval,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,17,26,2,0
+52,1031673,Kennington Oval,England,JT Ball,Right arm Fast medium,"[0, 1, 1]",0,1,2,0,0
+53,1031673,Kennington Oval,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",1,12,24,0,0
+54,1031675,The Rose Bowl,England,AU Rashid,Right-arm legbreak,"[1, 1, 1]",1,1,3,0,0
+55,1031675,The Rose Bowl,England,MM Ali,Right-arm offbreak,"[1, 1, 0]",0,13,13,0,1
+56,1031675,The Rose Bowl,England,LE Plunkett,Right-arm fast,"[0, 1, 0]",0,9,12,1,0
+57,1098207,"Queen's Park Oval, Port of Spain",India,B Kumar,Right-arm fast-medium,"[0, 1, 1]",1,0,9,0,0
+58,1098208,"Sir Vivian Richards Stadium, North Sound",India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,6,6,1,0
+59,1098208,"Sir Vivian Richards Stadium, North Sound",India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",0,1,1,0,0
+60,1098208,"Sir Vivian Richards Stadium, North Sound",India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",1,21,27,3,0
+61,1098209,"Sir Vivian Richards Stadium, North Sound",India,UT Yadav,Right-arm fast,"[0, 1, 0]",0,4,8,0,0
+62,1098209,"Sir Vivian Richards Stadium, North Sound",India,HH Pandya,Right-arm fast-medium,"[0, 1, 1]",1,5,11,0,0
+63,1098209,"Sir Vivian Richards Stadium, North Sound",India,Mohammed Shami,Right-arm fast-medium,"[0, 1, 1]",0,5,6,0,0
+64,1098209,"Sir Vivian Richards Stadium, North Sound",India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,6,9,1,0
+65,1098210,"Sabina Park, Kingston",India,KM Jadhav,Right-arm offbreak,"[1, 1, 0]",1,0,3,0,0
+66,1098210,"Sabina Park, Kingston",India,Kuldeep Yadav,Left-arm chinaman,"[1, 0, 0]",0,9,21,0,0
+67,1115795,Cobham Oval (New),New Zealand,TA Boult,Left-arm fast-medium,"[0, 0, 1]",0,5,3,1,0
+68,1115795,Cobham Oval (New),New Zealand,LH Ferguson,Right-arm fast,"[0, 1, 0]",1,4,3,1,0
+69,1077949,Providence Stadium,Pakistan,Wahab Riaz,Left-arm fast,"[0, 0, 0]",0,30,22,5,0
+70,1077949,Providence Stadium,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,20,8,1,2
+71,1077949,Providence Stadium,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,21,10,3,1
+72,1077950,Providence Stadium,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,1,9,0,0
+73,1077950,Providence Stadium,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",1,0,7,0,0
+74,1077951,Providence Stadium,Pakistan,Mohammad Amir,Left-arm fast-medium,"[0, 0, 1]",0,9,10,1,0
+75,1077951,Providence Stadium,Pakistan,Mohammad Hafeez,Right-arm offbreak,"[1, 1, 0]",0,4,10,0,0
+76,1077951,Providence Stadium,Pakistan,Junaid Khan,Left-arm fast-medium,"[0, 0, 1]",1,8,4,2,0
+77,1077951,Providence Stadium,Pakistan,Hasan Ali,Right-arm fast-medium,"[0, 1, 1]",0,15,5,0,2
+78,1252069,Sir Vivian Richards Stadium,Sri Lanka,PVD Chameera,Right-arm fast,"[0, 1, 0]",0,6,9,1,0
+79,1252069,Sir Vivian Richards Stadium,Sri Lanka,KNA Bandara,Right-arm legbreak,"[1, 1, 1]",0,6,3,1,0
+80,1252069,Sir Vivian Richards Stadium,Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",0,1,4,0,0
+81,1252071,Sir Vivian Richards Stadium,Sri Lanka,PWH de Silva,Left-arm orthodox,"[1, 0, 1]",1,1,4,0,0
